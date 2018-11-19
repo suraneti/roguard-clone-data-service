@@ -1,0 +1,122 @@
+[
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40630.png",
+        "name": "Mercenary Staff [2]",
+        "slot": "Staff",
+        "status": "M.Atk + 97"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40334.png",
+        "name": "Mercenary Sword",
+        "slot": "Sword",
+        "status": "Atk + 162"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40334.png",
+        "name": "Mercenary Sword [2]",
+        "slot": "Sword",
+        "status": "Atk + 162"
+    },
+    {
+        "imgsrc": null,
+        "name": "Merlin's Gift",
+        "slot": "Knife",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Merry Christmas Hat",
+        "slot": "Head",
+        "status": "Max SP ＋5%, Magic Reduc. ＋3%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Merry Christmas Hat [1]",
+        "slot": "Head",
+        "status": "Dex ＋3, AGI ＋3"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42028.png",
+        "name": "Metal Armor",
+        "slot": "Armour",
+        "status": "Def + 33"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42028.png",
+        "name": "Metal Armor [1]",
+        "slot": "Armour",
+        "status": "Def + 33"
+    },
+    {
+        "imgsrc": null,
+        "name": "Metal Axe [1]",
+        "slot": "Axe",
+        "status": "Atk + 180"
+    },
+    {
+        "imgsrc": null,
+        "name": "Metal Axe [2]",
+        "slot": "Axe",
+        "status": "Atk + 180"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41207.png",
+        "name": "Metal Bow",
+        "slot": "Bow",
+        "status": "Atk + 100"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41207.png",
+        "name": "Metal Bow [2]",
+        "slot": "Bow",
+        "status": "Atk + 100"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40708.png",
+        "name": "Metal Dagger",
+        "slot": "Knife",
+        "status": "Atk + 126"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40708.png",
+        "name": "Metal Dagger [2]",
+        "slot": "Knife",
+        "status": "Atk + 126"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40902.png",
+        "name": "Metal Katar",
+        "slot": "Katar",
+        "status": "Atk + 100"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40902.png",
+        "name": "Metal Katar [2]",
+        "slot": "Katar",
+        "status": "Atk + 100"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40628.png",
+        "name": "Metal Staff",
+        "slot": "Staff",
+        "status": "M.Atk + 75"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40628.png",
+        "name": "Metal Staff [2]",
+        "slot": "Staff",
+        "status": "M.Atk + 75"
+    },
+    {
+        "imgsrc": null,
+        "name": "Metal Two Handed Axe [1]",
+        "slot": "Axe",
+        "status": "When Luck reaches 90, Atk ＋100, When Dexterity reaches 90, Damage of [Mammonite] ＋50%, When Refining ＋5, ＋10, ＋15, Damage of [Mammonite] ＋10%, 20%, 30% respectively, [Mammonite] has a 10% chance to trigger Crit, which cause skills deal 1.5 times of damage"
+    },
+    {
+        "imgsrc": null,
+        "name": "Metal Two Handed Axe [2]",
+        "slot": "Axe",
+        "status": "When Luck reaches 90, Atk ＋100, When Dexterity reaches 90, Damage of [Mammonite] ＋50%, When Refining ＋5, ＋10, ＋15, Damage of [Mammonite] ＋10%, 20%, 30% respectively, [Mammonite] has a 10% chance to trigger Crit, which cause skills deal 1.5 times of damage"
+    }
+]

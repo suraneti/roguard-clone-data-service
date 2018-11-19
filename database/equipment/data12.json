@@ -1,0 +1,122 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Beast Stomach",
+        "slot": "Wing",
+        "status": "Def ＋15, When Refining reaches ＋10 and Strength reaches 90, Atk ＋20, When Refining reaches ＋10 and Agility reaches 90, Equipment ASPD ＋5%, When Refining reaches ＋10 and Vitality reaches 90, Neutral Dmg Taken -10%, When Refining reaches ＋10 and Intelligence reaches 90, M.Atk ＋20, When Refining reaches ＋10 and Dexterity reaches 90, Ranged Damage ＋5%, When Refining reaches ＋10 and Luck reaches 90, Crit.Dmg ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Become Pumpkin",
+        "slot": "Head",
+        "status": "INT ＋2"
+    },
+    {
+        "imgsrc": null,
+        "name": "Belcarf",
+        "slot": "Mouth",
+        "status": "Max HP ＋50, Max SP ＋50"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45139.png",
+        "name": "Bell Ribbon",
+        "slot": "Head",
+        "status": "No effect"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45139.png",
+        "name": "Bell Ribbon [1]",
+        "slot": "Head",
+        "status": "Agi ＋3, Luk ＋3"
+    },
+    {
+        "imgsrc": null,
+        "name": "Bemstar Doll Hat ",
+        "slot": "Head",
+        "status": "MDef ＋2%, MDef ＋10"
+    },
+    {
+        "imgsrc": null,
+        "name": "Bemstar Doll Hat [1]",
+        "slot": "Head",
+        "status": "MDef ＋2%, MDef ＋10"
+    },
+    {
+        "imgsrc": null,
+        "name": "Berdysz [1]",
+        "slot": "Axe",
+        "status": "VIT ＋2, Equipment ASPD ＋5%, [Alloy Mail] ＋[Berdysz]: each auto attack causes Amistr's Atk increases by 3%; the effect lasts 5 seconds, and can stack 3 times at most."
+    },
+    {
+        "imgsrc": null,
+        "name": "Berdysz [2]",
+        "slot": "Axe",
+        "status": "VIT ＋2, Equipment ASPD ＋5%, [Alloy Mail] ＋[Berdysz]: each auto attack causes Amistr's Atk increases by 3%; the effect lasts 5 seconds, and can stack 3 times at most."
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45128.png",
+        "name": "Beret",
+        "slot": "Head",
+        "status": "Def ＋5, Damage reduction of Human race ＋10%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45128.png",
+        "name": "Beret [1]",
+        "slot": "Head",
+        "status": "Def ＋5, Damage reduction of Human race ＋10%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Berry Sunhat",
+        "slot": "Head",
+        "status": "Max HP ＋500"
+    },
+    {
+        "imgsrc": null,
+        "name": "Berserk Fist",
+        "slot": "Knuckle",
+        "status": "Atk + 253"
+    },
+    {
+        "imgsrc": null,
+        "name": "Berserk Fist [2]",
+        "slot": "Knuckle",
+        "status": "Atk + 253"
+    },
+    {
+        "imgsrc": null,
+        "name": "Berserk [1]",
+        "slot": "Knuckle",
+        "status": "auto attack has a 5% chance to increase ASPD by 5%; the effect lasts 5 seconds, and can stack up 3 times, Damage of [Triple Attack] ＋15%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Berserk [2]",
+        "slot": "Knuckle",
+        "status": "auto attack has a 5% chance to increase ASPD by 5%; the effect lasts 5 seconds, and can stack up 3 times, Damage of [Triple Attack] ＋15%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Besom",
+        "slot": "Wing",
+        "status": "Def ＋15, When Refining reaches ＋10 and Strength reaches 90, Atk ＋20, When Refining reaches ＋10 and Agility reaches 90, Equipment ASPD ＋5%, When Refining reaches ＋10 and Vitality reaches 90, Neutral Dmg Taken -10%, When Refining reaches ＋10 and Intelligence reaches 90, M.Atk ＋20, When Refining reaches ＋10 and Dexterity reaches 90, Ranged Damage ＋5%, When Refining reaches ＋10 and Luck reaches 90, Crit.Dmg ＋5%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_52025.png",
+        "name": "Bible",
+        "slot": "Mace",
+        "status": "Atk + 180"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_52025.png",
+        "name": "Bible",
+        "slot": "Book",
+        "status": ""
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_52025.png",
+        "name": "Bible",
+        "slot": "Book",
+        "status": ""
+    }
+]

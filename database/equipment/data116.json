@@ -1,0 +1,122 @@
+[
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_43506.png",
+        "name": "Soldier Boots [1]",
+        "slot": "Shoes",
+        "status": "Move Spd ＋5%, HP Regen ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Spashire's Whisper",
+        "slot": "Face",
+        "status": "Dmg to undead monsters ＋10%, For Refining ＋1, Dmg to undead monsters ＋1%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40001.png",
+        "name": "Spear",
+        "slot": "Spear",
+        "status": "Atk + 112"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40001.png",
+        "name": "Spear [2]",
+        "slot": "Spear",
+        "status": "Atk + 112"
+    },
+    {
+        "imgsrc": null,
+        "name": "Spearfish Pike [1]",
+        "slot": "Spear",
+        "status": "Str ＋4, Agi ＋4, Skill multiplier of [Holy Cross] ＋100%, For Refining ＋1, Equipment ASPD ＋1%, Skill multiplier of [Holy Cross] ＋30%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Spearfish Pike [2]",
+        "slot": "Spear",
+        "status": "Str ＋4, Agi ＋4, Skill multiplier of [Holy Cross] ＋100%, For Refining ＋1, Equipment ASPD ＋1%, Skill multiplier of [Holy Cross] ＋30%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Spearfish Pike(abandon)",
+        "slot": "Spear",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Special Kafra Face Color",
+        "slot": "Face",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Special Kafra Mouth Color",
+        "slot": "Mouth",
+        "status": ""
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40908.png",
+        "name": "Specialty Jur",
+        "slot": "Katar",
+        "status": "Atk + 144"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40908.png",
+        "name": "Specialty Jur [2]",
+        "slot": "Katar",
+        "status": "Atk + 144"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40005.png",
+        "name": "Spectral Spear [3]",
+        "slot": "Spear",
+        "status": "Atk + 247"
+    },
+    {
+        "imgsrc": null,
+        "name": "Spectral Spear[2]",
+        "slot": "Spear",
+        "status": "Atk + 247"
+    },
+    {
+        "imgsrc": null,
+        "name": "Sphinx Hat",
+        "slot": "Head",
+        "status": "No effect"
+    },
+    {
+        "imgsrc": null,
+        "name": "Sphinx Hat [1]",
+        "slot": "Head",
+        "status": "No effect"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_48548.png",
+        "name": "Spiked Scarf",
+        "slot": "Mouth",
+        "status": "Def ＋5, VIT ＋2, Dmg to demi-human race ＋5%, Dmg Reduc. of demi-human race ＋5%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45055.png",
+        "name": "Spiky Band",
+        "slot": "Head",
+        "status": "Def ＋10"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45055.png",
+        "name": "Spiky Band [1]",
+        "slot": "Head",
+        "status": "Def ＋10"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40905.png",
+        "name": "Spirit Katar [2]",
+        "slot": "Katar",
+        "status": "Atk + 90"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40905.png",
+        "name": "Spirit Katar [3]",
+        "slot": "Katar",
+        "status": "Atk + 90"
+    }
+]

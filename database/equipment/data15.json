@@ -1,0 +1,122 @@
+[
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40909.png",
+        "name": "Blood Tears [2]",
+        "slot": "Katar",
+        "status": "Doubles Critical, When Katar Mastery is learned, Hit ＋40, Damage of [Venom Knife] ＋25%, Damage of [Grimtooth] ＋50%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Bloody Axe [1]",
+        "slot": "Axe",
+        "status": "When Luck reaches 90, Atk ＋100, When Dexterity reaches 90, Damage of [Mammonite] ＋50%, When Refining ＋5, ＋10, ＋15, Damage of [Mammonite] ＋10%, 20%, 30% respectively, [Mammonite] has a 10% chance to trigger Crit, which cause skills deal 1.5 times of damage"
+    },
+    {
+        "imgsrc": null,
+        "name": "Bloody Axe [2]",
+        "slot": "Axe",
+        "status": "When Luck reaches 90, Atk ＋100, When Dexterity reaches 90, Damage of [Mammonite] ＋50%, When Refining ＋5, ＋10, ＋15, Damage of [Mammonite] ＋10%, 20%, 30% respectively, [Mammonite] has a 10% chance to trigger Crit, which cause skills deal 1.5 times of damage"
+    },
+    {
+        "imgsrc": null,
+        "name": "Bloody Cross [1]",
+        "slot": "Mace",
+        "status": "Atk + 180"
+    },
+    {
+        "imgsrc": null,
+        "name": "Bloody Cross [2]",
+        "slot": "Mace",
+        "status": "Atk + 180"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40905.png",
+        "name": "Bloody Roar [2]",
+        "slot": "Katar",
+        "status": "Atk + 90"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40905.png",
+        "name": "Bloody Roar [3]",
+        "slot": "Katar",
+        "status": "Atk + 90"
+    },
+    {
+        "imgsrc": null,
+        "name": "Blossom",
+        "slot": "Head",
+        "status": "M.Atk ＋15, Dex ＋4"
+    },
+    {
+        "imgsrc": null,
+        "name": "Blossom[1]",
+        "slot": "Head",
+        "status": "M.Atk ＋15, Dex ＋4"
+    },
+    {
+        "imgsrc": null,
+        "name": "Blow Gun",
+        "slot": "Mouth",
+        "status": "Dex ＋4, When Refining ＋5, ＋10, ＋15, Dex ＋1, ＋2, ＋3 respectively"
+    },
+    {
+        "imgsrc": null,
+        "name": "Blue Hairband",
+        "slot": "Head",
+        "status": "Max SP ＋50, Atk ＋5"
+    },
+    {
+        "imgsrc": null,
+        "name": "Blue Hairband [1]",
+        "slot": "Head",
+        "status": "Max SP ＋50, Atk ＋5"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_43024.png",
+        "name": "Blueeve Cape",
+        "slot": "Robe",
+        "status": "Flee ＋15, [Advanced Sack Teddy Shoes] ＋ [Cat's Blessing VI] ＋ [Blueeve Cape IV]: Strength ＋5, Equipment ASPD ​​ ＋5%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_43024.png",
+        "name": "Blueeve Cape [1]",
+        "slot": "Robe",
+        "status": "Flee ＋15, [Advanced Sack Teddy Shoes] ＋ [Cat's Blessing VI] ＋ [Blueeve Cape IV]: Strength ＋5, Equipment ASPD ​​ ＋5%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_48533.png",
+        "name": "Blush",
+        "slot": "Face",
+        "status": "M.Def ＋10"
+    },
+    {
+        "imgsrc": null,
+        "name": "Bohemian Coat",
+        "slot": "Armour",
+        "status": "Dex ＋4, AGI ＋4, Atk ＋3%, [Black Wing V] ＋ [Bohemian Coat IV]: Str ＋5, ignore Def ＋10%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Bohemian Coat [1]",
+        "slot": "Armour",
+        "status": "Dex ＋4, AGI ＋4, Atk ＋3%, [Black Wing V] ＋ [Bohemian Coat IV]: Str ＋5, ignore Def ＋10%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45040.png",
+        "name": "Bomb Wick",
+        "slot": "Head",
+        "status": "Def ＋10"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45040.png",
+        "name": "Bomb Wick [1]",
+        "slot": "Head",
+        "status": "Def ＋10"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45068.png",
+        "name": "Bone Helm",
+        "slot": "Head",
+        "status": "Def ＋5, Dark Dmg Taken -15%"
+    }
+]

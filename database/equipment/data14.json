@@ -1,0 +1,122 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Black Witch's Wizard Hat",
+        "slot": "Head",
+        "status": "Dex ＋3, AGI ＋3"
+    },
+    {
+        "imgsrc": null,
+        "name": "Black Witch's Wizard Hat [1]",
+        "slot": "Head",
+        "status": "Dex ＋3, AGI ＋3"
+    },
+    {
+        "imgsrc": null,
+        "name": "Black Wizard series Headwear",
+        "slot": "Head",
+        "status": "Overall Ability ＋2, Atk ＋12, M.Atk ＋12"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40330.png",
+        "name": "Blade",
+        "slot": "Sword",
+        "status": "Atk + 72"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40330.png",
+        "name": "Blade [2]",
+        "slot": "Sword",
+        "status": "Atk + 72"
+    },
+    {
+        "imgsrc": null,
+        "name": "Blazing soul·Dragon flame",
+        "slot": "Spear",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Blazing soul·Flaming dust",
+        "slot": "Katar",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Blazing soul·Flaming Shadow",
+        "slot": "Staff",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Blazing soul·Fury of war",
+        "slot": "Axe",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Blazing soul·Hell blaze",
+        "slot": "Mace",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Blazing soul·Hellhound Shura",
+        "slot": "Knuckle",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Blazing soul·Red Guardian",
+        "slot": "Shield",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Blazing soul·Red king's scorching blade",
+        "slot": "Sword",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Blazing soul·Scarlet Sky",
+        "slot": "Knife",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Blazing soul·Soaring flame",
+        "slot": "Bow",
+        "status": ""
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_48529.png",
+        "name": "Blinker",
+        "slot": "Face",
+        "status": "Def ＋5"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41814.png",
+        "name": "Blood Axe [1]",
+        "slot": "Axe",
+        "status": "When Luck reaches 90, Atk ＋100, When Dexterity reaches 90, Damage of [Mammonite] ＋40%, When Refining reaches ＋5, ＋10, ＋15, Damage of [Mammonite] ＋10%, ＋20%, ＋30% respectively; Zeny cost of [Mammonite] ＋20%, 30%, 50%."
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41814.png",
+        "name": "Blood Axe [2]",
+        "slot": "Axe",
+        "status": "When Luck reaches 90, Atk ＋100, When Dexterity reaches 90, Damage of [Mammonite] ＋40%, When Refining reaches ＋5, ＋10, ＋15, Damage of [Mammonite] ＋10%, ＋20%, ＋30% respectively; Zeny cost of [Mammonite] ＋20%, 30%, 50%."
+    },
+    {
+        "imgsrc": null,
+        "name": "Blood Sucker",
+        "slot": "Mouth",
+        "status": "auto attack has a chance to proportionally convert the damage into HP"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40909.png",
+        "name": "Blood Tears [1]",
+        "slot": "Katar",
+        "status": "Doubles Critical, When Katar Mastery is learned, Hit ＋40, Damage of [Venom Knife] ＋25%, Damage of [Grimtooth] ＋50%"
+    }
+]

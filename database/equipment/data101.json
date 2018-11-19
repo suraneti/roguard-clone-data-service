@@ -1,0 +1,122 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Red Square Bag [2]",
+        "slot": "Mace",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Red Square Bag [3]",
+        "slot": "Mace",
+        "status": "Atk + 180"
+    },
+    {
+        "imgsrc": null,
+        "name": "Red-Bristled Gryphon",
+        "slot": "Mount",
+        "status": "Move Spd ＋25%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Reindeer Beanie",
+        "slot": "Head",
+        "status": "MAX HP ＋100, HP Regen ＋3"
+    },
+    {
+        "imgsrc": null,
+        "name": "Reindeer Beanie [1]",
+        "slot": "Head",
+        "status": "Dex ＋3, AGI ＋3"
+    },
+    {
+        "imgsrc": null,
+        "name": "Reindeer Umbrella",
+        "slot": "Head",
+        "status": "Def ＋5, Max HP ＋100"
+    },
+    {
+        "imgsrc": null,
+        "name": "Reindeer Umbrella [1]",
+        "slot": "Head",
+        "status": "Def ＋5, Max HP ＋100"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40615.png",
+        "name": "Release of Wish [1]",
+        "slot": "Staff",
+        "status": "INT ＋2, When casting magic skill to lock a single target, There is a 10% chance to restore 5% HP and 5% SP"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40615.png",
+        "name": "Release of Wish [2]",
+        "slot": "Staff",
+        "status": "INT ＋2, When casting magic skill to lock a single target, There is a 10% chance to restore 5% HP and 5% SP"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45116.png",
+        "name": "Renown Detective's Cap",
+        "slot": "Head",
+        "status": "Def ＋15"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45116.png",
+        "name": "Renown Detective's Cap [1]",
+        "slot": "Head",
+        "status": "Def ＋15"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_62002.png",
+        "name": "Repair Kit [1]",
+        "slot": "Trolley",
+        "status": "Def + 112"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_62002.png",
+        "name": "Repair Kit [2]",
+        "slot": "Trolley",
+        "status": "Def + 112"
+    },
+    {
+        "imgsrc": null,
+        "name": "Rescuer Shoes",
+        "slot": "Shoes",
+        "status": "Move Spd ＋5%, VIT ＋4, Effects of [HP Potion Cast] and [MP Potion Cast] ＋20%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Rescuer Shoes [1]",
+        "slot": "Shoes",
+        "status": "Move Spd ＋5%, VIT ＋4, Effects of [HP Potion Cast] and [MP Potion Cast] ＋20%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45006.png",
+        "name": "Ribbon",
+        "slot": "Head",
+        "status": "Def ＋5, M.Def ＋5"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45006.png",
+        "name": "Ribbon [1]",
+        "slot": "Head",
+        "status": "Def ＋5, M.Def ＋5"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_43006.png",
+        "name": "Rider Insignia",
+        "slot": "Robe",
+        "status": "Def + 28"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_43006.png",
+        "name": "Rider Insignia [1]",
+        "slot": "Robe",
+        "status": "Def + 28"
+    },
+    {
+        "imgsrc": null,
+        "name": "Rilada Green Petite",
+        "slot": "Mount",
+        "status": "Move Spd ＋25%"
+    }
+]

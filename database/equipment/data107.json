@@ -1,0 +1,122 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Saint Ring",
+        "slot": "Accessory",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Saint Ring [1]",
+        "slot": "Accessory",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Saint Spear [1]",
+        "slot": "Spear",
+        "status": "Str ＋3, Hit ＋15"
+    },
+    {
+        "imgsrc": null,
+        "name": "Saint Spear [2]",
+        "slot": "Spear",
+        "status": "Atk + 112"
+    },
+    {
+        "imgsrc": null,
+        "name": "Saint Staff [1]",
+        "slot": "Staff",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Saint Staff [2]",
+        "slot": "Staff",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Saint Sword [1]",
+        "slot": "Sword",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Saint Sword [2]",
+        "slot": "Sword",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Saint's Cape",
+        "slot": "Armour",
+        "status": "VIT ＋5, Def ＋50, Max HP ＋800, Every 200 points of Max HP will bring 1 point of Atk for the wearer, [Studded Knuckles] ＋ [Saint's Cape IV]: Max HP ＋5%, [Slash V] ＋[Saint's Cape IV]: Equipment ASPD ＋5%, Atk ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Saint's Cape [1]",
+        "slot": "Armour",
+        "status": "VIT ＋5, Def ＋50, Max HP ＋800, Every 200 points of Max HP will bring 1 point of Atk for the wearer, [Studded Knuckles] ＋ [Saint's Cape IV]: Max HP ＋5%, [Slash V] ＋[Saint's Cape IV]: Equipment ASPD ＋5%, Atk ＋5%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42015.png",
+        "name": "Saint's Robe",
+        "slot": "Armour",
+        "status": "VIT ＋2, Def ＋20, Max HP ＋200"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42015.png",
+        "name": "Saint's Robe [1]",
+        "slot": "Armour",
+        "status": "VIT ＋2, Def ＋20, Max HP ＋200"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45009.png",
+        "name": "Sakkat",
+        "slot": "Head",
+        "status": "Def ＋5, Agi ＋2"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45009.png",
+        "name": "Sakkat [1]",
+        "slot": "Head",
+        "status": "Def ＋5, Agi ＋2"
+    },
+    {
+        "imgsrc": null,
+        "name": "Sakura",
+        "slot": "Face",
+        "status": "Max SP ＋100, Atk ＋15"
+    },
+    {
+        "imgsrc": null,
+        "name": "Sakura Bride",
+        "slot": "Head",
+        "status": "All Attributes ＋2, Damage to plants ＋3%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Sakura Bride [1]",
+        "slot": "Head",
+        "status": "All Attributes ＋2, Damage to plants ＋3%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Sakura Clothing Series",
+        "slot": "Armour",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Sakura Puppet",
+        "slot": "Wing",
+        "status": "Auto Attack applies slight bleeding status to self, Bleeding status grants (BaseLv*3) Normal Atk"
+    },
+    {
+        "imgsrc": null,
+        "name": "Sakura Suit",
+        "slot": "Armour",
+        "status": "Unable to fight with Blessed effect"
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45036.png",
+        "name": "Poo Poo Hat [1]",
+        "slot": "Head",
+        "status": "Damage reduction of Demi-Human race ＋10%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_25002.png",
+        "name": "Poring",
+        "slot": "Mount",
+        "status": "Move Spd ＋25%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_25002.png",
+        "name": "Poring",
+        "slot": "Mount",
+        "status": "Move Spd ＋25%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Poring Garland",
+        "slot": "Head",
+        "status": "All Attributes ＋1"
+    },
+    {
+        "imgsrc": null,
+        "name": "Poring Garland [1]",
+        "slot": "Head",
+        "status": "All Attributes ＋1"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45001.png",
+        "name": "Poring Hat",
+        "slot": "Head",
+        "status": "Def ＋10"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45001.png",
+        "name": "Poring Hat [1]",
+        "slot": "Head",
+        "status": "Def ＋10"
+    },
+    {
+        "imgsrc": null,
+        "name": "Poring Lollipop",
+        "slot": "Mouth",
+        "status": "MAX HP ＋500, HP Regen ＋5, SP Regen ＋5"
+    },
+    {
+        "imgsrc": null,
+        "name": "Poring Schoolbag",
+        "slot": "Wing",
+        "status": "Def ＋15, When Refining reaches ＋10 and Strength reaches 90, Atk ＋20, When Refining reaches ＋10 and Agility reaches 90, Equipment ASPD ＋5%, When Refining reaches ＋10 and Vitality reaches 90, Neutral Dmg Taken -10%, When Refining reaches ＋10 and Intelligence reaches 90, M.Atk ＋20, When Refining reaches ＋10 and Dexterity reaches 90, Ranged Damage ＋5%, When Refining reaches ＋10 and Luck reaches 90, Crit.Dmg ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Poring Sunglasses",
+        "slot": "Face",
+        "status": "Max HP ＋500, Fire Dmg Taken -10%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Portable Deviruchi",
+        "slot": "Wing",
+        "status": "Critical ＋5, Crit.Dmg ＋7%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45106.png",
+        "name": "Power of Thor",
+        "slot": "Face",
+        "status": "INT ＋1, Dex ＋1, Wind Dmg Taken -10%, When Refining reaches 10, Any attack has a 5% chance to cause Atk ＋50 for 6 seconds, When Refining reaches 10, Atk ＋50"
+    },
+    {
+        "imgsrc": null,
+        "name": "Powerful Ring",
+        "slot": "Accessory",
+        "status": "Str ＋5, Atk ＋3%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Powerful Ring[1]",
+        "slot": "Accessory",
+        "status": "Str ＋5, Atk ＋3%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Prajna’s Face",
+        "slot": "Face",
+        "status": "Damage of Demi-Human ＋3%, Atk ＋5"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45083.png",
+        "name": "Pretend Murdered",
+        "slot": "Head",
+        "status": "Def ＋10"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45083.png",
+        "name": "Pretend Murdered [1]",
+        "slot": "Head",
+        "status": "Def ＋10"
+    },
+    {
+        "imgsrc": null,
+        "name": "Price List",
+        "slot": "Sword",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Prince's Crown [1]",
+        "slot": "Head",
+        "status": "Atk ＋30, Max HP ＋200"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40703.png",
+        "name": "Princess Knife [2]",
+        "slot": "Knife",
+        "status": "Atk + 360"
+    }
+]

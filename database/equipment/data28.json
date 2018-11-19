@@ -1,0 +1,122 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Cuckoo",
+        "slot": "Head",
+        "status": "Max HP ＋400, Ignore Def ＋2%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Cuckoo [1]",
+        "slot": "Head",
+        "status": "Max HP ＋400, Ignore Def ＋2%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_48521.png",
+        "name": "Cultish Masque",
+        "slot": "Face",
+        "status": "Def ＋15"
+    },
+    {
+        "imgsrc": null,
+        "name": "Cursed Lyre [1]",
+        "slot": "Bow",
+        "status": "Agi ＋5, INT ＋5, auto attack has a chance to trigger [Double Strafe] Lv.10, When [Beastmastery] Lv.10 is learned, the damage of [Beastmastery] will increases by 100%, When auto attack triggers [Blitz Beat], There is a chance to reduce the target's SP value (this effect is valid only on PVP maps), [Cursed Lyre IV] ＋[Ranger Clothes IV]: improve the influence of Atk on Falcon's Atk"
+    },
+    {
+        "imgsrc": null,
+        "name": "Cursed Lyre [2]",
+        "slot": "Bow",
+        "status": "Agi ＋5, INT ＋5, auto attack has a chance to trigger [Double Strafe] Lv.10, When [Beastmastery] Lv.10 is learned, the damage of [Beastmastery] will increases by 100%, When auto attack triggers [Blitz Beat], There is a chance to reduce the target's SP value (this effect is valid only on PVP maps), [Cursed Lyre IV] ＋[Ranger Clothes IV]: improve the influence of Atk on Falcon's Atk"
+    },
+    {
+        "imgsrc": null,
+        "name": "Cute Bear",
+        "slot": "Head",
+        "status": "Overall Ability ＋1, Dmg ＋4%, M.Dmg ＋4%, Become a Scenery! Wear [Cute Bear] to become a Scenery yourself. Adventurers who take photo of it will unlock the event Scenery \"Next Stop: Happiness\"!"
+    },
+    {
+        "imgsrc": null,
+        "name": "Cute Bear [1]",
+        "slot": "Head",
+        "status": "Overall Ability ＋1, Dmg ＋4%, M.Dmg ＋4%, Become a Scenery! Wear [Cute Bear] to become a Scenery yourself. Adventurers who take photo of it will unlock the event Scenery \"Next Stop: Happiness\"!"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45003.png",
+        "name": "Cute Ribbon",
+        "slot": "Head",
+        "status": "Def ＋5, Max SP ＋20"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45003.png",
+        "name": "Cute Ribbon [1]",
+        "slot": "Head",
+        "status": "Def ＋5, Max SP ＋20"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40311.png",
+        "name": "Cutlus [1]",
+        "slot": "Sword",
+        "status": "Str ＋1, Dex ＋2, When caster learned [Bash] Lv.10, Damage of [Bash] increases by 50%, When caster learned [Bowling Bash] Lv.10, Damage of [Bowling Bash] increases by 30%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40311.png",
+        "name": "Cutlus [2]",
+        "slot": "Sword",
+        "status": "Str ＋1, Dex ＋2, When caster learned [Bash] Lv.10, Damage of [Bash] increases by 50%, When caster learned [Bowling Bash] Lv.10, Damage of [Bowling Bash] increases by 30%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40702.png",
+        "name": "Cutter",
+        "slot": "Knife",
+        "status": "Atk + 36"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40702.png",
+        "name": "Cutter [2]",
+        "slot": "Knife",
+        "status": "Atk + 36"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40705.png",
+        "name": "Dagger",
+        "slot": "Knife",
+        "status": "Atk + 180"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40705.png",
+        "name": "Dagger [2]",
+        "slot": "Knife",
+        "status": "Atk + 180"
+    },
+    {
+        "imgsrc": null,
+        "name": "Dark Cuisine Pack",
+        "slot": "Wing",
+        "status": "M.Atk ＋20, INT ＋5"
+    },
+    {
+        "imgsrc": null,
+        "name": "Dark Dancing Mask",
+        "slot": "Face",
+        "status": "Max HP ＋200, Hit ＋15"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_48535.png",
+        "name": "Dark Knight Mask",
+        "slot": "Head",
+        "status": "auto attack has a 5% chance to cause target loses HP for a period; this effect can stack up twice, and can be used with Head Crush"
+    },
+    {
+        "imgsrc": null,
+        "name": "Dark Lord Wings",
+        "slot": "Wing",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Dark Randgris Helm",
+        "slot": "Head",
+        "status": "All Attributes ＋2, Max HP ＋800"
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Floating Elf Ear",
+        "slot": "Face",
+        "status": "MAX HP＋200, Damage to wind monsters＋3%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_61507.png",
+        "name": "Floral Bracelet",
+        "slot": "Bracelet",
+        "status": "Def + 28"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_61507.png",
+        "name": "Floral Bracelet[1]",
+        "slot": "Bracelet",
+        "status": "Def + 28"
+    },
+    {
+        "imgsrc": null,
+        "name": "Floret Hair Accessory",
+        "slot": "Head",
+        "status": "Max HP ＋100"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45078.png",
+        "name": "Flower Band",
+        "slot": "Head",
+        "status": "Def ＋10"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45078.png",
+        "name": "Flower Band [1]",
+        "slot": "Head",
+        "status": "Def ＋10"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_44001.png",
+        "name": "Flower Ring",
+        "slot": "Accessory",
+        "status": "Atk ＋20, Damage from plant monster's attack -10%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_44001.png",
+        "name": "Flower Ring [1]",
+        "slot": "Accessory",
+        "status": "Atk ＋20, Damage from plant monster's attack -10%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_48537.png",
+        "name": "Flu Mask",
+        "slot": "Mouth",
+        "status": "Silence Resistance ＋10%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_60005.png",
+        "name": "Fluo Orb [1]",
+        "slot": "Orb",
+        "status": "Def + 30"
+    },
+    {
+        "imgsrc": null,
+        "name": "Fluo Orb [2]",
+        "slot": "Orb",
+        "status": "Def + 30"
+    },
+    {
+        "imgsrc": null,
+        "name": "Flutter Butterfly",
+        "slot": "Head",
+        "status": "Damage to formless race ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Flutter Butterfly [1]",
+        "slot": "Head",
+        "status": "Damage to formless race ＋5%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_47004.png",
+        "name": "Flying Angel",
+        "slot": "Wing",
+        "status": "No effect"
+    },
+    {
+        "imgsrc": null,
+        "name": "Flying Demon Wings",
+        "slot": "Wing",
+        "status": "Dex ＋5, Max HP ＋500"
+    },
+    {
+        "imgsrc": null,
+        "name": "Flying Demon·Black",
+        "slot": "Wing",
+        "status": "Dex ＋5, Max HP ＋500"
+    },
+    {
+        "imgsrc": null,
+        "name": "Flying Demon·Purple",
+        "slot": "Wing",
+        "status": "Dex ＋5, Max HP ＋500"
+    },
+    {
+        "imgsrc": null,
+        "name": "Flying Demon·Red",
+        "slot": "Wing",
+        "status": "Dex ＋5, Max HP ＋500"
+    },
+    {
+        "imgsrc": null,
+        "name": "Fog Snowman Horn",
+        "slot": "Wing",
+        "status": "VIT ＋5, Max HP ＋400"
+    },
+    {
+        "imgsrc": null,
+        "name": "For Alice",
+        "slot": "Head",
+        "status": "Dex ＋3, AGI ＋3"
+    }
+]

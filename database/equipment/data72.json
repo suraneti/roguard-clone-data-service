@@ -1,0 +1,122 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Light Saint Shoes",
+        "slot": "Shoes",
+        "status": "Move Spd ＋5%, Healing effect ＋20%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Light Saint Shoes [1]",
+        "slot": "Shoes",
+        "status": "Move Spd ＋5%, Healing effect ＋20%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_43502.png",
+        "name": "Light Shoes",
+        "slot": "Shoes",
+        "status": "Def + 13"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_43502.png",
+        "name": "Light Shoes [1]",
+        "slot": "Shoes",
+        "status": "Def + 13"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42532.png",
+        "name": "Lionheart Shield",
+        "slot": "Shield",
+        "status": "Def + 103"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42532.png",
+        "name": "Lionheart Shield [1]",
+        "slot": "Shield",
+        "status": "Def + 103"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45204.png",
+        "name": "Little Tree Hat",
+        "slot": "Head",
+        "status": "INT ＋6"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_61001.png",
+        "name": "Loki Gloves [1]",
+        "slot": "Bracer",
+        "status": "Def + 112"
+    },
+    {
+        "imgsrc": null,
+        "name": "Loki Gloves [2]",
+        "slot": "Bracer",
+        "status": "Def + 112"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40919.png",
+        "name": "Loki's Nail [1]",
+        "slot": "Katar",
+        "status": "Doubles Critical, Agi ＋2, Caster will possibly enjoy a high speed when launching auto attacks: Equipment ASPD ＋30%; the effect lasts 7 seconds, [Loki's Nail V] ＋[Noble Bracer]: Every 2% Equipment ASPD will provide 1 Atk, [Loki's Nail IX] ＋ [Windrunner Cape]: ＋5% [Cross Ripper Slasher] damage"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40919.png",
+        "name": "Loki's Nail [2]",
+        "slot": "Katar",
+        "status": "Doubles Critical, Agi ＋2, Caster will possibly enjoy a high speed when launching auto attacks: Equipment ASPD ＋30%; the effect lasts 7 seconds, [Loki's Nail V] ＋[Noble Bracer]: Every 2% Equipment ASPD will provide 1 Atk, [Loki's Nail IX] ＋ [Windrunner Cape]: ＋5% [Cross Ripper Slasher] damage"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_48526.png",
+        "name": "Loki's Whispers",
+        "slot": "Face",
+        "status": "auto attack or any skill attack has a chance to cause target loses 5% Atk for a certain period"
+    },
+    {
+        "imgsrc": null,
+        "name": "Loli Ruri's Cat",
+        "slot": "Tail",
+        "status": "auto attack deals Dam: SP x(1 ＋Luck/100), Each auto attack costs SP: -2"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41201.png",
+        "name": "Long Bow",
+        "slot": "Bow",
+        "status": "Atk + 57"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41201.png",
+        "name": "Long Bow [2]",
+        "slot": "Bow",
+        "status": "Atk + 57"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40021.png",
+        "name": "Long Horn [1]",
+        "slot": "Spear",
+        "status": "Holy, Equipment ASPD ＋10%, auto attack has a chance to cause the target loses HP for 10 seconds., Can use skill - [Detoxify]"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40021.png",
+        "name": "Long Horn [2]",
+        "slot": "Spear",
+        "status": "Holy, Equipment ASPD ＋10%, auto attack has a chance to cause the target loses HP for 10 seconds., Can use skill - [Detoxify]"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41504.png",
+        "name": "Long Mace [2]",
+        "slot": "Mace",
+        "status": "Atk + 123"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41504.png",
+        "name": "Long Mace [3]",
+        "slot": "Mace",
+        "status": "Atk + 123"
+    },
+    {
+        "imgsrc": null,
+        "name": "Longinus Spear [2]",
+        "slot": "Spear",
+        "status": "Atk + 247"
+    }
+]

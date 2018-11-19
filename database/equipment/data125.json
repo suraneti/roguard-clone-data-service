@@ -1,0 +1,122 @@
+[
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40606.png",
+        "name": "Survivor's Rod [1]",
+        "slot": "Staff",
+        "status": "Dex ＋3, Max HP ＋200"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40606.png",
+        "name": "Survivor's Rod [2]",
+        "slot": "Staff",
+        "status": "Dex ＋3, Max HP ＋200"
+    },
+    {
+        "imgsrc": null,
+        "name": "Swallow of Victory 0",
+        "slot": "Tail",
+        "status": "Atk ＋45, Atk ＋3%,  ＋30 Atk and 1% Atk when STR or DEX reaches 200"
+    },
+    {
+        "imgsrc": null,
+        "name": "Sweet Death",
+        "slot": "Mouth",
+        "status": "Bonus Healing ＋3%, Max HP ＋100"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45023.png",
+        "name": "Sweet Gent",
+        "slot": "Head",
+        "status": "Def ＋15"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45023.png",
+        "name": "Sweet Gent [1]",
+        "slot": "Head",
+        "status": "Def ＋15"
+    },
+    {
+        "imgsrc": null,
+        "name": "Sweet Memory of Marriage",
+        "slot": "Head",
+        "status": "Max HP ＋100"
+    },
+    {
+        "imgsrc": null,
+        "name": "Sweet Memory of Marriage [1]",
+        "slot": "Head",
+        "status": "All Attributes ＋2, Base EXP of killing monsters ＋3%, Job EXP of killing monsters ＋3%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_48558.png",
+        "name": "Swim Goggles",
+        "slot": "Face",
+        "status": "M.Def ＋15"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40302.png",
+        "name": "Sword",
+        "slot": "Sword",
+        "status": "Atk + 36"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40330.png",
+        "name": "Sword for NPC on Back",
+        "slot": "Wing",
+        "status": ""
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41504.png",
+        "name": "Sword Mace [1]",
+        "slot": "Mace",
+        "status": "Equipment ASPD ＋5%, Dmg to undead monsters ＋10%, Dmg to dark monsters ＋10%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41504.png",
+        "name": "Sword Mace [2]",
+        "slot": "Mace",
+        "status": "Equipment ASPD ＋5%, Dmg to undead monsters ＋10%, Dmg to dark monsters ＋10%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Sword on Back",
+        "slot": "Wing",
+        "status": ""
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40302.png",
+        "name": "Sword [2]",
+        "slot": "Sword",
+        "status": "Atk + 36"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40703.png",
+        "name": "Swordbreaker [2]",
+        "slot": "Knife",
+        "status": "Atk + 360"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40703.png",
+        "name": "Swordbreaker [3]",
+        "slot": "Knife",
+        "status": "Atk + 360"
+    },
+    {
+        "imgsrc": null,
+        "name": "Taurus Crown",
+        "slot": "Head",
+        "status": "VIT ＋1"
+    },
+    {
+        "imgsrc": null,
+        "name": "Taurus Crown [1]",
+        "slot": "Head",
+        "status": "No effect"
+    },
+    {
+        "imgsrc": null,
+        "name": "Taurus Diadem",
+        "slot": "Head",
+        "status": "Dex ＋3, AGI ＋3"
+    }
+]

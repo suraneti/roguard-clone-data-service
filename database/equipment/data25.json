@@ -1,0 +1,122 @@
+[
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_48501.png",
+        "name": "Clown Nose",
+        "slot": "Face",
+        "status": "Def ＋10"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41501.png",
+        "name": "Club",
+        "slot": "Mace",
+        "status": "Atk + 36"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41501.png",
+        "name": "Club [2]",
+        "slot": "Mace",
+        "status": "Atk + 36"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_43017.png",
+        "name": "Coat of Dragon Scale",
+        "slot": "Robe",
+        "status": "Str ＋2, Max HP ＋100"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_43017.png",
+        "name": "Coat of Dragon Scale [1]",
+        "slot": "Robe",
+        "status": "Str ＋2, Max HP ＋100"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45203.png",
+        "name": "Coif [1]",
+        "slot": "Head",
+        "status": "Max SP ＋100, M.Dmg ＋5%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45205.png",
+        "name": "Colorful Eggshell",
+        "slot": "Head",
+        "status": "M.Def ＋10"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40703.png",
+        "name": "Combat Knife [2]",
+        "slot": "Knife",
+        "status": "Atk + 360"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40703.png",
+        "name": "Combat Knife [3]",
+        "slot": "Knife",
+        "status": "Atk + 360"
+    },
+    {
+        "imgsrc": null,
+        "name": "Combo Battle Glove [1]",
+        "slot": "Knuckle",
+        "status": "Atk + 140"
+    },
+    {
+        "imgsrc": null,
+        "name": "Combo Battle Glove [2]",
+        "slot": "Knuckle",
+        "status": "Atk + 140"
+    },
+    {
+        "imgsrc": null,
+        "name": "ComeOn Reindeer",
+        "slot": "Head",
+        "status": "Dex ＋3, AGI ＋3"
+    },
+    {
+        "imgsrc": null,
+        "name": "ComeOn Reindeer [1]",
+        "slot": "Head",
+        "status": "Max HP ＋300, Move Spd ＋3%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41203.png",
+        "name": "Composite Bow",
+        "slot": "Bow",
+        "status": "Atk + 87"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41203.png",
+        "name": "Composite Bow [2]",
+        "slot": "Bow",
+        "status": "Atk + 87"
+    },
+    {
+        "imgsrc": null,
+        "name": "Composite Fist",
+        "slot": "Knuckle",
+        "status": "Atk + 175"
+    },
+    {
+        "imgsrc": null,
+        "name": "Composite Fist [2]",
+        "slot": "Knuckle",
+        "status": "Atk + 175"
+    },
+    {
+        "imgsrc": null,
+        "name": "Cooler [1]",
+        "slot": "Trolley",
+        "status": "Def + 112"
+    },
+    {
+        "imgsrc": null,
+        "name": "Cooler [2]",
+        "slot": "Trolley",
+        "status": "Def + 112"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/21.png",
+        "name": "Cornus",
+        "slot": "Mount",
+        "status": "Move Spd ＋50%"
+    }
+]

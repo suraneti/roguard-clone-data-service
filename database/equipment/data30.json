@@ -1,0 +1,122 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Defolty Doll Hat",
+        "slot": "Head",
+        "status": "No effect"
+    },
+    {
+        "imgsrc": null,
+        "name": "Defolty Doll Hat [1]",
+        "slot": "Head",
+        "status": "No effect"
+    },
+    {
+        "imgsrc": null,
+        "name": "Demon Eyepatch",
+        "slot": "Face",
+        "status": "CT Variable -5%, M.Atk ＋3%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45170.png",
+        "name": "Desert Prince",
+        "slot": "Head",
+        "status": "Def ＋10"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45170.png",
+        "name": "Desert Prince [1]",
+        "slot": "Head",
+        "status": "Def ＋10"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40724.png",
+        "name": "Desert Twilight [1]",
+        "slot": "Knife",
+        "status": "Hit ＋30, Damage to L-size monsters ＋25%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40724.png",
+        "name": "Desert Twilight [2]",
+        "slot": "Knife",
+        "status": "Hit ＋30, Damage to L-size monsters ＋25%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Destroyer",
+        "slot": "Knuckle",
+        "status": "Str ＋20, Dex ＋10, All Attributes ＋8, Max SP ＋500, Pen. ＋20%, Ignore Def ＋25%, Demi-Human Race Damage ＋30%, Max HP ＋18000"
+    },
+    {
+        "imgsrc": null,
+        "name": "Destroyer 2[2]",
+        "slot": "Knuckle",
+        "status": "Str ＋20, Dex ＋10, All Attributes ＋14, Max SP ＋500, Pen. ＋25%, Ignore Def ＋35%, Demi-Human Race Damage ＋40%, Max HP ＋26500, Dmg Reduc. ＋5%, Magic Reduc. ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Destroyer 3[2]",
+        "slot": "Knuckle",
+        "status": "Str ＋20, Dex ＋10, All Attributes ＋20, Max SP ＋500, Pen. ＋30%, Ignore Def ＋45%, Demi-Human Race Damage ＋50%, Max HP ＋35000, Dmg Reduc. ＋10%, Magic Reduc. ＋10%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Destroyer Reforged",
+        "slot": "Knuckle",
+        "status": "Str ＋20, Dex ＋10, All Attributes ＋14, Max SP ＋500, Pen. ＋25%, Ignore Def ＋35%, Demi-Human Race Damage ＋40%, Max HP ＋26500, Dmg Reduc. ＋5%, Magic Reduc. ＋5%, Destroyer knows all rules in the world so the caster can be well protected. Destroyer release power to provide [Live to Obliterate] to the caster and Party Member in a 8-meter range. [Live to Obliterate]: immunizes all damage and control effect for 3 seconds; CD: 300 seconds."
+    },
+    {
+        "imgsrc": null,
+        "name": "Destroyer Sky Forged",
+        "slot": "Knuckle",
+        "status": "Str ＋20, Dex ＋10, All Attributes ＋20, Max SP ＋500, Pen. ＋30%, Ignore Def ＋45%, Demi-Human Race Damage ＋50%, Max HP ＋35000, Dmg Reduc. ＋10%, Magic Reduc. ＋10%, Destroyer knows all rules in the world so the caster can be well protected. Destroyer release power to provide [Live to Obliterate] to the caster and Party Member in a 8-meter range. [Live to Obliterate]: immunizes all damage and control effect for 5 seconds; CD: 180 seconds."
+    },
+    {
+        "imgsrc": null,
+        "name": "Destroyer [2]",
+        "slot": "Knuckle",
+        "status": "Str ＋20, Dex ＋10, All Attributes ＋8, Max SP ＋500, Pen. ＋20%, Ignore Def ＋25%, Demi-Human Race Damage ＋30%, Max HP ＋18000"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_60001.png",
+        "name": "Destruction Orb [1]",
+        "slot": "Orb",
+        "status": "Def + 112"
+    },
+    {
+        "imgsrc": null,
+        "name": "Destruction Orb [2]",
+        "slot": "Orb",
+        "status": "Def + 112"
+    },
+    {
+        "imgsrc": null,
+        "name": "Devil Cat",
+        "slot": "Head",
+        "status": "Dex ＋4, Max HP ＋500"
+    },
+    {
+        "imgsrc": null,
+        "name": "Devil Drooping Kitty",
+        "slot": "Head",
+        "status": "Max HP ＋50, Luk ＋1"
+    },
+    {
+        "imgsrc": null,
+        "name": "Devil Drooping Kitty [1]",
+        "slot": "Head",
+        "status": "Max HP ＋50, Luk ＋1"
+    },
+    {
+        "imgsrc": null,
+        "name": "Devil Wing",
+        "slot": "Wing",
+        "status": "No effect"
+    },
+    {
+        "imgsrc": null,
+        "name": "Devil Wing",
+        "slot": "Wing",
+        "status": "All Attributes ＋1, Dmg ＋5%, M.Dmg ＋5%"
+    }
+]

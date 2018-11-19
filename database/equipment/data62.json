@@ -1,0 +1,122 @@
+[
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41830.png",
+        "name": "Huge Axe",
+        "slot": "Axe",
+        "status": "Atk + 240"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41830.png",
+        "name": "Huge Axe [2]",
+        "slot": "Axe",
+        "status": "Atk + 240"
+    },
+    {
+        "imgsrc": null,
+        "name": "Hurricane Fury [1]",
+        "slot": "Axe",
+        "status": "Atk + 180"
+    },
+    {
+        "imgsrc": null,
+        "name": "Hurricane Fury [2]",
+        "slot": "Axe",
+        "status": "Atk + 180"
+    },
+    {
+        "imgsrc": null,
+        "name": "Hydra",
+        "slot": "Wing",
+        "status": "INT ＋8, M.Atk ＋15"
+    },
+    {
+        "imgsrc": null,
+        "name": "Hydrangea Hairpin",
+        "slot": "Head",
+        "status": "Max HP ＋500"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45171.png",
+        "name": "Hyegun Hat",
+        "slot": "Head",
+        "status": "Def ＋5, M.Def ＋5, Dmg Reduc. of devil race ＋10%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45171.png",
+        "name": "Hyegun Hat [1]",
+        "slot": "Head",
+        "status": "Def ＋5, M.Def ＋5, Dmg Reduc. of devil race ＋10%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40601.png",
+        "name": "Hypnotist's Staff [2]",
+        "slot": "Staff",
+        "status": "M.Atk + 180"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40601.png",
+        "name": "Hypnotist's Staff [3]",
+        "slot": "Staff",
+        "status": "M.Atk + 180"
+    },
+    {
+        "imgsrc": null,
+        "name": "I'm Late! ",
+        "slot": "Head",
+        "status": "Flee ＋5, Move Spd ＋3%"
+    },
+    {
+        "imgsrc": null,
+        "name": "I'm Late! [1]",
+        "slot": "Head",
+        "status": "Flee ＋5, Move Spd ＋3%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Ice Apple",
+        "slot": "Head",
+        "status": "Dex ＋3, AGI ＋3"
+    },
+    {
+        "imgsrc": null,
+        "name": "Ice Apple [1]",
+        "slot": "Head",
+        "status": "Dex ＋3, Ranged Dmg ＋3%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Ice Penguin",
+        "slot": "Head",
+        "status": "Max SP ＋50"
+    },
+    {
+        "imgsrc": null,
+        "name": "Ice Pick [1]",
+        "slot": "Knife",
+        "status": "Max HP ＋300, Luk ＋3, Ignore Def ＋25%, For Refining ＋5, ＋10, ＋15, the basic trigger probability of [Strip Accessory] and [Strip Shield] ＋5%, ＋5%, 10% respectively"
+    },
+    {
+        "imgsrc": null,
+        "name": "Ice Pick [2]",
+        "slot": "Knife",
+        "status": "Max HP ＋300, Luk ＋3, Ignore Def ＋25%, For Refining ＋5, ＋10, ＋15, the basic trigger probability of [Strip Accessory] and [Strip Shield] ＋5%, ＋5%, 10% respectively"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40703.png",
+        "name": "Ice Pick [3]",
+        "slot": "Knife",
+        "status": "Atk + 360"
+    },
+    {
+        "imgsrc": null,
+        "name": "Ice Poring Clip",
+        "slot": "Head",
+        "status": "M.Def ＋5"
+    },
+    {
+        "imgsrc": null,
+        "name": "Ice Poring Clip [1]",
+        "slot": "Head",
+        "status": "M.Def ＋5"
+    }
+]

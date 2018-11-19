@@ -1,0 +1,122 @@
+[
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41211.png",
+        "name": "Gakkung Bow [1]",
+        "slot": "Bow",
+        "status": "Luk ＋3, Crit.Dmg ＋10%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41211.png",
+        "name": "Gakkung Bow[2]",
+        "slot": "Bow",
+        "status": "Luk ＋3, Crit.Dmg ＋10%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Garman Plate Armor",
+        "slot": "Armour",
+        "status": "VIT ＋5, HP Regen ＋15%, Dmg received from big monsters -10%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Garman Plate Armor [1]",
+        "slot": "Armour",
+        "status": "VIT ＋5, HP Regen ＋15%, Dmg received from big monsters -10%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41833.png",
+        "name": "Garrison Axe",
+        "slot": "Axe",
+        "status": "Atk + 270"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41833.png",
+        "name": "Garrison Axe [2]",
+        "slot": "Axe",
+        "status": "Atk + 270"
+    },
+    {
+        "imgsrc": null,
+        "name": "Garrison Bow",
+        "slot": "Bow",
+        "status": "Atk + 144"
+    },
+    {
+        "imgsrc": null,
+        "name": "Garrison Bow [2]",
+        "slot": "Bow",
+        "status": "Atk + 144"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40705.png",
+        "name": "Garrison Dagger",
+        "slot": "Knife",
+        "status": "Atk + 180"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40705.png",
+        "name": "Garrison Dagger [2]",
+        "slot": "Knife",
+        "status": "Atk + 180"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41505.png",
+        "name": "Garrison Hammer",
+        "slot": "Mace",
+        "status": "Atk + 180"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41505.png",
+        "name": "Garrison Hammer [2]",
+        "slot": "Mace",
+        "status": "Atk + 180"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40908.png",
+        "name": "Garrison Katar",
+        "slot": "Katar",
+        "status": "Atk + 144"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40908.png",
+        "name": "Garrison Katar [2]",
+        "slot": "Katar",
+        "status": "Atk + 144"
+    },
+    {
+        "imgsrc": null,
+        "name": "Garrison Knuckles",
+        "slot": "Knuckle",
+        "status": "Atk + 180"
+    },
+    {
+        "imgsrc": null,
+        "name": "Garrison Knuckles [2]",
+        "slot": "Knuckle",
+        "status": "Atk + 180"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40009.png",
+        "name": "Garrison Spear",
+        "slot": "Spear",
+        "status": "Atk + 225"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40009.png",
+        "name": "Garrison Spear [2]",
+        "slot": "Spear",
+        "status": "Atk + 225"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40631.png",
+        "name": "Garrison Staff",
+        "slot": "Staff",
+        "status": "M.Atk + 108"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40631.png",
+        "name": "Garrison Staff [2]",
+        "slot": "Staff",
+        "status": "M.Atk + 108"
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_47020.png",
+        "name": "Arrow Bag",
+        "slot": "Wing",
+        "status": "Ranged Atk ＋7%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Arrow Bag (For Goblin)",
+        "slot": "Sword",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Ashe Headwear",
+        "slot": "Head",
+        "status": "INT ＋2, Dex ＋2"
+    },
+    {
+        "imgsrc": null,
+        "name": "Ashe Headwear [1]",
+        "slot": "Head",
+        "status": "INT ＋2, Dex ＋2"
+    },
+    {
+        "imgsrc": null,
+        "name": "Ashe Tassel",
+        "slot": "Face",
+        "status": "Flee ＋5, Luk ＋3"
+    },
+    {
+        "imgsrc": null,
+        "name": "Asprika [1]",
+        "slot": "Robe",
+        "status": "Def + 90"
+    },
+    {
+        "imgsrc": null,
+        "name": "Asprika [2]",
+        "slot": "Robe",
+        "status": "Def + 90"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40703.png",
+        "name": "Assassin Dagger [2]",
+        "slot": "Knife",
+        "status": "Atk + 360"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40703.png",
+        "name": "Assassin Dagger [3]",
+        "slot": "Knife",
+        "status": "Atk + 360"
+    },
+    {
+        "imgsrc": null,
+        "name": "Assassin Handcuffs [1]",
+        "slot": "Bracer",
+        "status": "Def + 112"
+    },
+    {
+        "imgsrc": null,
+        "name": "Assassin Handcuffs [2]",
+        "slot": "Bracer",
+        "status": "Def + 112"
+    },
+    {
+        "imgsrc": null,
+        "name": "Assassin Horn",
+        "slot": "Head",
+        "status": ""
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40005.png",
+        "name": "Assassin's Fishing Rod",
+        "slot": "Spear",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Astral·Destiny",
+        "slot": "Axe",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Astral·Hand Imprint",
+        "slot": "Knuckle",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Astral·Lightning Bolt",
+        "slot": "Knife",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Astral·Mage",
+        "slot": "Staff",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Astral·Reaper",
+        "slot": "Spear",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Astral·Star Elegy",
+        "slot": "Katar",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Astral·Star Eye",
+        "slot": "Bow",
+        "status": ""
+    }
+]

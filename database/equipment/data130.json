@@ -1,0 +1,122 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Ultraman Orb",
+        "slot": "Armour",
+        "status": "Become a Scenery! Wear [Ultraman Tiga] to become a Scenery yourself. Adventurers who take photo of it will unlock the event Scenery \"The Giant of Light\"!"
+    },
+    {
+        "imgsrc": null,
+        "name": "Ultraman series clothes",
+        "slot": "Armour",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Ultraman Tiga",
+        "slot": "Armour",
+        "status": "Become a Scenery! Wear [Ultraman Tiga] to become a Scenery yourself. Adventurers who take photo of it will unlock the event Scenery \"The Giant of Light\"!"
+    },
+    {
+        "imgsrc": null,
+        "name": "Ultraman Tiga",
+        "slot": "Armour",
+        "status": "Become a Scenery! Wear [Ultraman Tiga] to become a Scenery yourself. Adventurers who take photo of it will unlock the event Scenery \"The Giant of Light\"!"
+    },
+    {
+        "imgsrc": null,
+        "name": "Ultraman Tiga Backpack",
+        "slot": "Wing",
+        "status": "Ignore Def ＋5%, When Refining reaches ＋6, ignore Def ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Ultraman Tiga series clothes",
+        "slot": "Armour",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Ultraman Zero",
+        "slot": "Armour",
+        "status": "Become a Scenery! Wear [Ultraman Tiga] to become a Scenery yourself. Adventurers who take photo of it will unlock the event Scenery \"The Giant of Light\"!"
+    },
+    {
+        "imgsrc": null,
+        "name": "Ultraman Zero",
+        "slot": "Armour",
+        "status": "Become a Scenery! Wear [Ultraman Tiga] to become a Scenery yourself. Adventurers who take photo of it will unlock the event Scenery \"The Giant of Light\"!"
+    },
+    {
+        "imgsrc": null,
+        "name": "Umbrella Hat",
+        "slot": "Head",
+        "status": "Water Dmg ＋2%, Dex ＋1"
+    },
+    {
+        "imgsrc": null,
+        "name": "Umbrella Hat [1]",
+        "slot": "Head",
+        "status": "Water Dmg ＋2%, Dex ＋1"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42022.png",
+        "name": "Undershirt",
+        "slot": "Robe",
+        "status": "Flee ＋10, Luk ＋4, [Panties VI] ＋ [Shirt IV]: Agility ＋5. Every Fleewill provide 5 max HP, [Flamberge X] ＋ [Advanced Sack Teddy Shoes IV] ＋ [Undershirt VIII] ＋ [Beast Heart VIII]: ＋3% Atk, ＋3% Crit.Dmg, ＋5% Atk SPD, ＋10% Max HP"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42022.png",
+        "name": "Undershirt [1]",
+        "slot": "Robe",
+        "status": "Flee ＋10, Luk ＋4, [Panties VI] ＋ [Shirt IV]: Agility ＋5. Every Fleewill provide 5 max HP, [Flamberge X] ＋ [Advanced Sack Teddy Shoes IV] ＋ [Undershirt VIII] ＋ [Beast Heart VIII]: ＋3% Atk, ＋3% Crit.Dmg, ＋5% Atk SPD, ＋10% Max HP"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40905.png",
+        "name": "Unholy Touch [2]",
+        "slot": "Katar",
+        "status": "Atk + 90"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40905.png",
+        "name": "Unholy Touch [3]",
+        "slot": "Katar",
+        "status": "Atk + 90"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45088.png",
+        "name": "Unicorn Horn",
+        "slot": "Head",
+        "status": "Def ＋10, Max HP ＋200"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45088.png",
+        "name": "Unicorn Horn [1]",
+        "slot": "Head",
+        "status": "Def ＋10, Max HP ＋200"
+    },
+    {
+        "imgsrc": null,
+        "name": "Uniform Boy",
+        "slot": "Armour",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Uniform Girl",
+        "slot": "Armour",
+        "status": ""
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_43503.png",
+        "name": "Ur's Greaves [1]",
+        "slot": "Shoes",
+        "status": "Def + 90"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_43503.png",
+        "name": "Ur's Greaves [2]",
+        "slot": "Shoes",
+        "status": "Def + 90"
+    }
+]

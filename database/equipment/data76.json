@@ -1,0 +1,122 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Madogear",
+        "slot": "Mount",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Magatama hair band",
+        "slot": "Head",
+        "status": "Max HP ＋100"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/74.png",
+        "name": "Mage Camera",
+        "slot": "Book",
+        "status": ""
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42017.png",
+        "name": "Mage Coat",
+        "slot": "Armour",
+        "status": "INT ＋2, M.Atk ＋3%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42017.png",
+        "name": "Mage Coat [1]",
+        "slot": "Armour",
+        "status": "INT ＋2, M.Atk ＋3%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45063.png",
+        "name": "Mage Hat",
+        "slot": "Head",
+        "status": "Def ＋10, Dex ＋1, Agi ＋1, Max SP ＋50"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45172.png",
+        "name": "Mage Hat",
+        "slot": "Head",
+        "status": "Def ＋5, INT ＋2, Max SP ＋150"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45063.png",
+        "name": "Mage Hat [1]",
+        "slot": "Head",
+        "status": "Def ＋10, Dex ＋1, Agi ＋1, Max SP ＋50"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45172.png",
+        "name": "Mage Hat [1]",
+        "slot": "Head",
+        "status": "Def ＋5, INT ＋2, Max SP ＋150"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42519.png",
+        "name": "Magic Bible Vol1",
+        "slot": "Shield",
+        "status": "Def + 28"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42519.png",
+        "name": "Magic Bible Vol1 [1]",
+        "slot": "Shield",
+        "status": "Def + 28"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45067.png",
+        "name": "Magic Eyes",
+        "slot": "Head",
+        "status": "Def ＋5, M.Def ＋5, CT Variable -10%, SP cost of skill use ＋20%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45067.png",
+        "name": "Magic Eyes [1]",
+        "slot": "Head",
+        "status": "Def ＋5, M.Def ＋5, CT Variable -10%, SP cost of skill use ＋20%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Magic Firewood",
+        "slot": "Mouth",
+        "status": "auto attacks or launching skills has a 10% chance to set target into burning state"
+    },
+    {
+        "imgsrc": null,
+        "name": "Magic Moon Hat·Christmas Red",
+        "slot": "Head",
+        "status": "All Attributes ＋1, Max HP ＋350"
+    },
+    {
+        "imgsrc": null,
+        "name": "Magic Moon Hat·Crystal Purple",
+        "slot": "Head",
+        "status": "All Attributes ＋1, Max HP ＋350"
+    },
+    {
+        "imgsrc": null,
+        "name": "Magic Moon Hat·Demon Purple",
+        "slot": "Head",
+        "status": "All Attributes ＋1, Max HP ＋350"
+    },
+    {
+        "imgsrc": null,
+        "name": "Magic Moon Hat·Sharp Black",
+        "slot": "Head",
+        "status": "All Attributes ＋1, Max HP ＋350"
+    },
+    {
+        "imgsrc": null,
+        "name": "Magic Moon Hat·Starfish Yellow",
+        "slot": "Head",
+        "status": "All Attributes ＋1, Max HP ＋350"
+    },
+    {
+        "imgsrc": null,
+        "name": "Magic Moon Hat·Sugar Brown",
+        "slot": "Head",
+        "status": "All Attributes ＋1, Max HP ＋350"
+    }
+]

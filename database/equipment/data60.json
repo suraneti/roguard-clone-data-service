@@ -1,0 +1,122 @@
+[
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45050.png",
+        "name": "Helmet of Orc Hero [1]",
+        "slot": "Head",
+        "status": "Str ＋2, VIT ＋2, When Refining reaches ＋10, Melee Dmg ＋10%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Hercules Bow",
+        "slot": "Bow",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Heroes are afraid of me",
+        "slot": "Head",
+        "status": "Dex ＋3, AGI ＋3"
+    },
+    {
+        "imgsrc": null,
+        "name": "Heroes are afraid of me [1]",
+        "slot": "Head",
+        "status": "When launching auto attacks, Caster has a 5% to set target into slowing state, Decrease the target's Def by 10%, the effect lasts 5 seconds."
+    },
+    {
+        "imgsrc": null,
+        "name": "Hervor",
+        "slot": "Shield",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Hervor Alvit",
+        "slot": "Shield",
+        "status": ""
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45022.png",
+        "name": "Hibiscus",
+        "slot": "Head",
+        "status": "Dex ＋1, INT ＋1, M.Def ＋5"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_43515.png",
+        "name": "High Fashion Sandals",
+        "slot": "Shoes",
+        "status": "Move Spd ＋10%, M.Def ＋10, Magic Reduc. ＋8%, Max HP ＋200, [Staunch Mana Manteau] ＋ [High Fashion Sandals IV]: Magic Reduc. ＋5%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_43515.png",
+        "name": "High Fashion Sandals [1]",
+        "slot": "Shoes",
+        "status": "Move Spd ＋10%, M.Def ＋10, Magic Reduc. ＋8%, Max HP ＋200, [Staunch Mana Manteau] ＋ [High Fashion Sandals IV]: Magic Reduc. ＋5%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_43527.png",
+        "name": "High Heels",
+        "slot": "Shoes",
+        "status": "Move Spd ＋5%, M.Def ＋10"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_43527.png",
+        "name": "High Heels [1]",
+        "slot": "Shoes",
+        "status": "Move Spd ＋5%, M.Def ＋10"
+    },
+    {
+        "imgsrc": null,
+        "name": "Highland Flower Hairpin",
+        "slot": "Head",
+        "status": "MDef ＋3%, Max HP ＋100"
+    },
+    {
+        "imgsrc": null,
+        "name": "Highland Flower Hairpin [1]",
+        "slot": "Head",
+        "status": "MDef ＋3%, Max HP ＋100"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_48552.png",
+        "name": "Hockey Mask",
+        "slot": "Face",
+        "status": "Dmg to Demi-Human ＋10%, Dmg reduction of Demi-Human race -10%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Holiday Penguin",
+        "slot": "Head",
+        "status": "Overall Ability ＋1, MAX HP＋100"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40319.png",
+        "name": "Holy Avenger [1]",
+        "slot": "Sword",
+        "status": "Holy, auto attack has a 8% chance to trigger [Fallen Star], which deals Holy Damage to targets in range, For Refining ＋1, Damage of swordsman's auto attacks ＋5%, Damage of [Fallen Star] ＋5%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40319.png",
+        "name": "Holy Avenger [2]",
+        "slot": "Sword",
+        "status": "Holy, auto attack has a 8% chance to trigger [Fallen Star], which deals Holy Damage to targets in range, For Refining ＋1, Damage of swordsman's auto attacks ＋5%, Damage of [Fallen Star] ＋5%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40716.png",
+        "name": "Holy Dagger [1]",
+        "slot": "Knife",
+        "status": "Str ＋5, auto attack has a great chance to cause Atk increases by 30 points; this effect lasts 15 seconds, and can stacks up 3 times., When Strength reaches 95, Atk ＋10%, When Strength reaches 120, Atk ＋5%, When Strength reaches 150, Atk ＋5%, [Thief Clothes VIII] ＋ [Holy Dagger VIII]: ＋15% damage against S-sized targets, ＋5% to M-sized targets and ＋10% to L-sized targets"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40716.png",
+        "name": "Holy Dagger [2]",
+        "slot": "Knife",
+        "status": "Str ＋5, auto attack has a great chance to cause Atk increases by 30 points; this effect lasts 15 seconds, and can stacks up 3 times., When Strength reaches 95, Atk ＋10%, When Strength reaches 120, Atk ＋5%, When Strength reaches 150, Atk ＋5%, [Thief Clothes VIII] ＋ [Holy Dagger VIII]: ＋15% damage against S-sized targets, ＋5% to M-sized targets and ＋10% to L-sized targets"
+    },
+    {
+        "imgsrc": null,
+        "name": "Holy Orb [1]",
+        "slot": "Orb",
+        "status": "Def + 112"
+    }
+]

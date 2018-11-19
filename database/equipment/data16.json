@@ -1,0 +1,122 @@
+[
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45068.png",
+        "name": "Bone Helm [1]",
+        "slot": "Head",
+        "status": "Def ＋5, Dark Dmg Taken -15%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_48550.png",
+        "name": "Bone in Mouth",
+        "slot": "Mouth",
+        "status": "Def ＋10"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_48550.png",
+        "name": "Bone in Mouth",
+        "slot": "Face",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Bone Plate",
+        "slot": "Armour",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Bone Plate [1]",
+        "slot": "Armour",
+        "status": ""
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45044.png",
+        "name": "Bongun Hat",
+        "slot": "Head",
+        "status": "Def ＋10"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45044.png",
+        "name": "Bongun Hat [1]",
+        "slot": "Head",
+        "status": "Def ＋10"
+    },
+    {
+        "imgsrc": null,
+        "name": "Boots of Judgment",
+        "slot": "Shoes",
+        "status": "Move Spd ＋8%, Max HP ＋1000, ＋1% Holy Dmg for each refining level gained after reaching refining ＋10 (up to 5%), ＋50% [Adoramus] multiplier upon reaching refining ＋10; ＋100% [Adoramus] multiplier upon reaching refining ＋15"
+    },
+    {
+        "imgsrc": null,
+        "name": "Boots of Judgment [1]",
+        "slot": "Shoes",
+        "status": "Move Spd ＋8%, Max HP ＋1000, ＋1% Holy Dmg for each refining level gained after reaching refining ＋10 (up to 5%), ＋50% [Adoramus] multiplier upon reaching refining ＋10; ＋100% [Adoramus] multiplier upon reaching refining ＋15"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41202.png",
+        "name": "Bow",
+        "slot": "Bow",
+        "status": "Atk + 28"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41201.png",
+        "name": "Bow of Storms [2]",
+        "slot": "Bow",
+        "status": "Atk + 180"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41201.png",
+        "name": "Bow of Storms [3]",
+        "slot": "Bow",
+        "status": "Atk + 180"
+    },
+    {
+        "imgsrc": null,
+        "name": "Bow Thimble [1]",
+        "slot": "Bracelet",
+        "status": "Def + 112"
+    },
+    {
+        "imgsrc": null,
+        "name": "Bow Thimble [2]",
+        "slot": "Bracelet",
+        "status": "Def + 112"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41202.png",
+        "name": "Bow [2]",
+        "slot": "Bow",
+        "status": "Atk + 28"
+    },
+    {
+        "imgsrc": null,
+        "name": "Bowknot Glaze",
+        "slot": "Wing",
+        "status": "MDmg Reduc. ＋ 8%, For every 1% of MDmg Reduc., 75 points will be added to own Max HP"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45108.png",
+        "name": "Boy's Cap",
+        "slot": "Head",
+        "status": "Def ＋15"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45108.png",
+        "name": "Boy's Cap [1]",
+        "slot": "Head",
+        "status": "Def ＋15"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_61501.png",
+        "name": "Bracelet of Gray",
+        "slot": "Bracelet",
+        "status": "Def + 9"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_61501.png",
+        "name": "Bracelet of Gray [1]",
+        "slot": "Bracelet",
+        "status": "Def + 9"
+    }
+]

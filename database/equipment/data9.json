@@ -1,0 +1,122 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Astral·Star Rage",
+        "slot": "Mace",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Astral·Star Wall",
+        "slot": "Shield",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Astral·Streamer Adjudication",
+        "slot": "Sword",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Atlan Green Petite",
+        "slot": "Mount",
+        "status": "Move Spd ＋25%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40317.png",
+        "name": "Attached Sword [1]",
+        "slot": "Sword",
+        "status": "Critical ＋10, Equipment ASPD ＋5%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40317.png",
+        "name": "Attached Sword [2]",
+        "slot": "Sword",
+        "status": "Critical ＋10, Equipment ASPD ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Auction Hammer",
+        "slot": "Mace",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Aviator sunglasses",
+        "slot": "Head",
+        "status": "Fire damage taken－5%, MAX HP ＋400"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41801.png",
+        "name": "Axe",
+        "slot": "Axe",
+        "status": "Atk + 30"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41801.png",
+        "name": "Axe [2]",
+        "slot": "Axe",
+        "status": "Atk + 30"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45129.png",
+        "name": "Ayam",
+        "slot": "Head",
+        "status": "INT ＋2, SP Regen ＋5%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45129.png",
+        "name": "Ayam [1]",
+        "slot": "Head",
+        "status": "INT ＋2, SP Regen ＋5%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40703.png",
+        "name": "Azoth [2]",
+        "slot": "Knife",
+        "status": "Atk + 360"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40703.png",
+        "name": "Azoth [3]",
+        "slot": "Knife",
+        "status": "Atk + 360"
+    },
+    {
+        "imgsrc": null,
+        "name": "Baby Dragon Hat",
+        "slot": "Head",
+        "status": "Def ＋15"
+    },
+    {
+        "imgsrc": null,
+        "name": "Baby Dragon Hat [1]",
+        "slot": "Head",
+        "status": "Def ＋15"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_48524.png",
+        "name": "Baby Pacifier",
+        "slot": "Mouth",
+        "status": "Def ＋15"
+    },
+    {
+        "imgsrc": null,
+        "name": "Back in Time",
+        "slot": "Wing",
+        "status": "Max SP ＋50, SP Regen ＋1"
+    },
+    {
+        "imgsrc": null,
+        "name": "Backpack",
+        "slot": "Wing",
+        "status": ""
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40301.png",
+        "name": "Balmung[2]",
+        "slot": "Sword",
+        "status": "Atk + 180"
+    }
+]

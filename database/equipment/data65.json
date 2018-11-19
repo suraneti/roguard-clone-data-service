@@ -1,0 +1,122 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Ivory Knife [2]",
+        "slot": "Knife",
+        "status": "Luk ＋4, Dex ＋4, the basic trigger probability of [Strip Accessory] and [Strip Shield] ＋3%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40007.png",
+        "name": "Ivory Lance [1]",
+        "slot": "Spear",
+        "status": "Attacks ignore the enemy's physical defense (invalid to BOSS monster), Damage to natural monsters ＋25%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40007.png",
+        "name": "Ivory Lance [2]",
+        "slot": "Spear",
+        "status": "Attacks ignore the enemy's physical defense (invalid to BOSS monster), Damage to natural monsters ＋25%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41201.png",
+        "name": "Ixion Wings [2]",
+        "slot": "Bow",
+        "status": "Atk + 180"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41201.png",
+        "name": "Ixion Wings [3]",
+        "slot": "Bow",
+        "status": "Atk + 180"
+    },
+    {
+        "imgsrc": null,
+        "name": "Jack-O-Lantern",
+        "slot": "Face",
+        "status": "Max HP ＋200, Def ＋5, M.Def ＋5"
+    },
+    {
+        "imgsrc": null,
+        "name": "Japanese style series Headwear",
+        "slot": "Head",
+        "status": "Max HP ＋100"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45018.png",
+        "name": "Jellyfish head",
+        "slot": "Head",
+        "status": "M.Def ＋10"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45018.png",
+        "name": "Jellyfish head [1]",
+        "slot": "Head",
+        "status": "M.Def ＋10"
+    },
+    {
+        "imgsrc": null,
+        "name": "Jet Engine [1]",
+        "slot": "Trolley",
+        "status": "Def + 112"
+    },
+    {
+        "imgsrc": null,
+        "name": "Jet Engine [2]",
+        "slot": "Trolley",
+        "status": "Def + 112"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45058.png",
+        "name": "Jewel Crown",
+        "slot": "Head",
+        "status": "Int ＋2, Luk ＋1, Reflect 5% MDam, When Refining reaches ＋10, Reflection rate ＋10%, with extra M.Def ＋5%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45058.png",
+        "name": "Jewel Crown [1]",
+        "slot": "Head",
+        "status": "Int ＋2, Luk ＋1, Reflect 5% MDam, When Refining reaches ＋10, Reflection rate ＋10%, with extra M.Def ＋5%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40301.png",
+        "name": "Jeweled Sword [2]",
+        "slot": "Sword",
+        "status": "Atk + 180"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40301.png",
+        "name": "Jeweled Sword [3]",
+        "slot": "Sword",
+        "status": "Atk + 180"
+    },
+    {
+        "imgsrc": null,
+        "name": "JingleBell",
+        "slot": "Head",
+        "status": "Dex ＋3, AGI ＋3"
+    },
+    {
+        "imgsrc": null,
+        "name": "JingleBell[1]",
+        "slot": "Head",
+        "status": "Max HP ＋300, Luk ＋3"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45071.png",
+        "name": "Joker Jester",
+        "slot": "Head",
+        "status": "M.Def ＋5, Luk ＋2"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45071.png",
+        "name": "Joker Jester [1]",
+        "slot": "Head",
+        "status": "M.Def ＋5, Luk ＋2"
+    },
+    {
+        "imgsrc": null,
+        "name": "Judger [1]",
+        "slot": "Staff",
+        "status": "M.Atk + 180"
+    }
+]

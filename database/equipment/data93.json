@@ -1,0 +1,122 @@
+[
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42014.png",
+        "name": "Panties [1]",
+        "slot": "Armour",
+        "status": "Dex ＋7, [Panties VI] ＋ [Shirt IV]: Agility ＋5. Every Fleewill provide 5 max HP"
+    },
+    {
+        "imgsrc": null,
+        "name": "Paper towel cat",
+        "slot": "Head",
+        "status": "M.Atk ＋10, Ignore MDef ＋5%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45187.png",
+        "name": "Parcel Hat",
+        "slot": "Head",
+        "status": "Fire Dmg ＋5%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45187.png",
+        "name": "Parcel Hat [1]",
+        "slot": "Head",
+        "status": "Fire Dmg ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Party Hat",
+        "slot": "Head",
+        "status": "Max HP ＋100"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45082.png",
+        "name": "Party Recruiter Hat",
+        "slot": "Head",
+        "status": "Def ＋5"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45082.png",
+        "name": "Party Recruiter Hat [1]",
+        "slot": "Head",
+        "status": "Def ＋5"
+    },
+    {
+        "imgsrc": null,
+        "name": "Past Time",
+        "slot": "Wing",
+        "status": "Def ＋15, When Refining reaches ＋10 and Strength reaches 90, Atk ＋20, When Refining reaches ＋10 and Agility reaches 90, Equipment ASPD ＋5%, When Refining reaches ＋10 and Vitality reaches 90, Neutral Dmg Taken -10%, When Refining reaches ＋10 and Intelligence reaches 90, M.Atk ＋20, When Refining reaches ＋10 and Dexterity reaches 90, Ranged Damage ＋5%, When Refining reaches ＋10 and Luck reaches 90, Crit.Dmg ＋5%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_43009.png",
+        "name": "Pauldron",
+        "slot": "Robe",
+        "status": "Def ＋80, SP cost of [Endure] -50%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_43009.png",
+        "name": "Pauldron [1]",
+        "slot": "Robe",
+        "status": "Def ＋80, SP cost of [Endure] -50%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Pauldron [2]",
+        "slot": "Robe",
+        "status": "Def + 45"
+    },
+    {
+        "imgsrc": null,
+        "name": "Peace Beauty",
+        "slot": "Tail",
+        "status": "Dmg to Water monsters ＋10%, Water Dmg Taken -10%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Peace Maker",
+        "slot": "Shield",
+        "status": ""
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45030.png",
+        "name": "Peco Ears [1]",
+        "slot": "Head",
+        "status": "Def ＋5, Agi ＋2, M.Def ＋10"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_25001.png",
+        "name": "Peco Peco",
+        "slot": "Mount",
+        "status": "Move Spd ＋25%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_25001.png",
+        "name": "Peco Peco",
+        "slot": "Mount",
+        "status": "Move Spd ＋25%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_25001.png",
+        "name": "Peco Peco",
+        "slot": "Mount",
+        "status": "Move Spd ＋25%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45030.png",
+        "name": "Peco Peco Hairband",
+        "slot": "Head",
+        "status": "Def ＋5, Agi ＋2, M.Def ＋10"
+    },
+    {
+        "imgsrc": null,
+        "name": "Pegasus Wing Ears",
+        "slot": "Head",
+        "status": "No effect"
+    },
+    {
+        "imgsrc": null,
+        "name": "Pegasus Wing Ears [1]",
+        "slot": "Head",
+        "status": "No effect"
+    }
+]

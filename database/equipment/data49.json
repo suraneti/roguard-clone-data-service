@@ -1,0 +1,122 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Ghost Mask",
+        "slot": "Head",
+        "status": "VIT ＋4, Max HP ＋500"
+    },
+    {
+        "imgsrc": null,
+        "name": "Giant Axe [1]",
+        "slot": "Axe",
+        "status": "Damage to S-size monsters ＋10%, Damage to dark monsters ＋30%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Giant Axe [2]",
+        "slot": "Axe",
+        "status": "Damage to S-size monsters ＋10%, Damage to dark monsters ＋30%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41833.png",
+        "name": "Giant Battle Axe",
+        "slot": "Axe",
+        "status": "Atk + 270"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41833.png",
+        "name": "Giant Battle Axe [2]",
+        "slot": "Axe",
+        "status": "Atk + 270"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41201.png",
+        "name": "Giant Bow [2]",
+        "slot": "Bow",
+        "status": "Atk + 180"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41201.png",
+        "name": "Giant Bow [3]",
+        "slot": "Bow",
+        "status": "Atk + 180"
+    },
+    {
+        "imgsrc": null,
+        "name": "Giant Gloves [1]",
+        "slot": "Knuckle",
+        "status": "Str ＋10, Damage to L-size monsters ＋15%, For Refining ＋1, Damage to L-size monsters ＋2%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Giant Gloves [2]",
+        "slot": "Knuckle",
+        "status": "Str ＋10, Damage to L-size monsters ＋15%, For Refining ＋1, Damage to L-size monsters ＋2%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Giant Shield",
+        "slot": "Shield",
+        "status": "Def + 112"
+    },
+    {
+        "imgsrc": null,
+        "name": "Giant Shield [1]",
+        "slot": "Shield",
+        "status": "Def + 112"
+    },
+    {
+        "imgsrc": null,
+        "name": "Gift Box Helm",
+        "slot": "Head",
+        "status": "Def ＋10, Max HP ＋100"
+    },
+    {
+        "imgsrc": null,
+        "name": "Gift Box Helm [1]",
+        "slot": "Head",
+        "status": "Dex ＋3, AGI ＋3"
+    },
+    {
+        "imgsrc": null,
+        "name": "Gigantic Majestic Goat",
+        "slot": "Head",
+        "status": "No effect"
+    },
+    {
+        "imgsrc": null,
+        "name": "Gigantic Majestic Goat [1]",
+        "slot": "Head",
+        "status": "No effect"
+    },
+    {
+        "imgsrc": null,
+        "name": "Gingerbread Man Clip",
+        "slot": "Head",
+        "status": "Max HP ＋50, Max SP ＋50"
+    },
+    {
+        "imgsrc": null,
+        "name": "Gingerbread Man clip [1]",
+        "slot": "Head",
+        "status": "Dex ＋3, AGI ＋3"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41504.png",
+        "name": "Girl's Diary",
+        "slot": "Mace",
+        "status": "Atk + 180"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40704.png",
+        "name": "Gladius",
+        "slot": "Knife",
+        "status": "Atk + 72"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40704.png",
+        "name": "Gladius [2]",
+        "slot": "Knife",
+        "status": "Atk + 72"
+    }
+]

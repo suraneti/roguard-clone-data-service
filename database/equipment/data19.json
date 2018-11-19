@@ -1,0 +1,122 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Cancer Diadem",
+        "slot": "Head",
+        "status": "Dex ＋3, AGI ＋3"
+    },
+    {
+        "imgsrc": null,
+        "name": "Cancer Diadem [1]",
+        "slot": "Head",
+        "status": "Str ＋2, Dex ＋1"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45064.png",
+        "name": "Candle",
+        "slot": "Head",
+        "status": "Def ＋10"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45064.png",
+        "name": "Candle [1]",
+        "slot": "Head",
+        "status": "Def ＋10"
+    },
+    {
+        "imgsrc": null,
+        "name": "Candy Bag",
+        "slot": "Head",
+        "status": "Max SP ＋50"
+    },
+    {
+        "imgsrc": null,
+        "name": "Candy Bag [1]",
+        "slot": "Head",
+        "status": "Max SP ＋50"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45179.png",
+        "name": "Cap",
+        "slot": "Head",
+        "status": "Def ＋10"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45173.png",
+        "name": "Cap Of Blindness",
+        "slot": "Head",
+        "status": "Avoid darkness effect"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45173.png",
+        "name": "Cap Of Blindness [1]",
+        "slot": "Head",
+        "status": "Avoid darkness effect, auto attack has a chance to decrease the target's Hit by 40 points"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45179.png",
+        "name": "Cap [1]",
+        "slot": "Head",
+        "status": "Def ＋10"
+    },
+    {
+        "imgsrc": null,
+        "name": "Capricorn Crown",
+        "slot": "Head",
+        "status": "Equipment ASPD ＋1%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Capricorn Crown [1]",
+        "slot": "Head",
+        "status": "No effect"
+    },
+    {
+        "imgsrc": null,
+        "name": "Capricorn Diadem",
+        "slot": "Head",
+        "status": "Dex ＋3, AGI ＋3"
+    },
+    {
+        "imgsrc": null,
+        "name": "Capricorn Diadem [1]",
+        "slot": "Head",
+        "status": "Dex ＋2, AGi ＋1"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40016.png",
+        "name": "Cardo [1]",
+        "slot": "Spear",
+        "status": "VIT ＋3, For Refining ＋1, Def ＋1%, M.Def ＋0.5%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40016.png",
+        "name": "Cardo [2]",
+        "slot": "Spear",
+        "status": "VIT ＋3, For Refining ＋1, Def ＋1%, M.Def ＋0.5%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41504.png",
+        "name": "Carga Mace [2]",
+        "slot": "Mace",
+        "status": "Atk + 180"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41504.png",
+        "name": "Carga Mace [3]",
+        "slot": "Mace",
+        "status": "Atk + 180"
+    },
+    {
+        "imgsrc": null,
+        "name": "Cart",
+        "slot": "Barrow",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Cat Cart",
+        "slot": "Barrow",
+        "status": ""
+    }
+]

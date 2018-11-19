@@ -1,0 +1,122 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Krishna Gloves [2]",
+        "slot": "Bracer",
+        "status": "Def + 112"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40609.png",
+        "name": "Kronos [1]",
+        "slot": "Staff",
+        "status": "Int ＋5, Max HP ＋500, For Refining ＋1, Int ＋1, Max HP ＋100, When using magic skills, there is 3% chance to enter a \"Vision\" state: M.Atk ＋25%, SP Cost ＋50%; the effect lasts 10 seconds"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40609.png",
+        "name": "Kronos [2]",
+        "slot": "Staff",
+        "status": "Int ＋5, Max HP ＋500, For Refining ＋1, Int ＋1, Max HP ＋100, When using magic skills, there is 3% chance to enter a \"Vision\" state: M.Atk ＋25%, SP Cost ＋50%; the effect lasts 10 seconds"
+    },
+    {
+        "imgsrc": null,
+        "name": "Lance of Dragon Tamer [1]",
+        "slot": "Spear",
+        "status": "Max SP ＋200,  [Dragon Breath] damge ＋1% for each refining level, Upon reaching refining ＋10, you’ll gain 5% Dmg and Magic Reduc. for 10s after using [Dragon Breath], Upon reaching refining ＋15, [Dragon Breath] multiplier ＋100%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Lance of Dragon Tamer [2]",
+        "slot": "Spear",
+        "status": "Max SP ＋200,  [Dragon Breath] damge ＋1% for each refining level, Upon reaching refining ＋10, you’ll gain 5% Dmg and Magic Reduc. for 10s after using [Dragon Breath], Upon reaching refining ＋15, [Dragon Breath] multiplier ＋100%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Lance [1]",
+        "slot": "Spear",
+        "status": "Str ＋2, Equipment ASPD ＋10%, Holy Dmg ＋10%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Lance [2]",
+        "slot": "Spear",
+        "status": "Str ＋2, Equipment ASPD ＋10%, Holy Dmg ＋10%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45132.png",
+        "name": "Laurel Wreath",
+        "slot": "Head",
+        "status": "M.Def ＋5, Luk ＋3, Curse Resistance ＋5%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45132.png",
+        "name": "Laurel Wreath [1]",
+        "slot": "Head",
+        "status": "M.Def ＋5, Luk ＋3, Curse Resistance ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Lazy Corgi - Color 1",
+        "slot": "Head",
+        "status": "All Attributes ＋1, Dmg to Demi-Human ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Lazy Corgi - Color 2",
+        "slot": "Head",
+        "status": "All Attributes ＋1, Dmg to Demi-Human ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Lazy Corgi - Color 3",
+        "slot": "Head",
+        "status": "All Attributes ＋1, Dmg to Demi-Human ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Lazy Corgi - Color 4",
+        "slot": "Head",
+        "status": "All Attributes ＋1, Dmg to Demi-Human ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Lazy Corgi Headwear",
+        "slot": "Head",
+        "status": "All Attributes ＋1, Dmg to Demi-Human ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Lazy Corgi Headwear",
+        "slot": "Head",
+        "status": "All Attributes ＋1, Dmg to Demi-Human ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Lazy Corgi·Sharp Black",
+        "slot": "Head",
+        "status": "All Attributes ＋1, Dmg to Demi-Human ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Lazy Corgi·Starfish Yellow",
+        "slot": "Head",
+        "status": "All Attributes ＋1, Dmg to Demi-Human ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Lazy Corgi·Stone Green",
+        "slot": "Head",
+        "status": "All Attributes ＋1, Dmg to Demi-Human ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Lazy Corgi·Sugar Brown",
+        "slot": "Head",
+        "status": "All Attributes ＋1, Dmg to Demi-Human ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Lazy Poring",
+        "slot": "Head",
+        "status": "Holy Dmg ＋3%, ＋1% healing bonus for each refining level"
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40023.png",
+        "name": "Glaive",
+        "slot": "Spear",
+        "status": "Atk + 135"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_43524.png",
+        "name": "Glass Boots",
+        "slot": "Shoes",
+        "status": "Def + 16"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_43524.png",
+        "name": "Glass Boots [1]",
+        "slot": "Shoes",
+        "status": "Def + 16"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_43503.png",
+        "name": "Glass Shoes [1]",
+        "slot": "Shoes",
+        "status": "Def + 90"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_43503.png",
+        "name": "Glass Shoes [2]",
+        "slot": "Shoes",
+        "status": "Def + 90"
+    },
+    {
+        "imgsrc": null,
+        "name": "Glass Snowman Horn",
+        "slot": "Wing",
+        "status": "Agi ＋5, Max HP ＋400"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_48559.png",
+        "name": "Glasses",
+        "slot": "Face",
+        "status": "Def ＋10"
+    },
+    {
+        "imgsrc": null,
+        "name": "Glittering Jacket",
+        "slot": "Armour",
+        "status": "Str ＋5, VIT ＋5, Dex ＋5"
+    },
+    {
+        "imgsrc": null,
+        "name": "Glittering Jacket [1]",
+        "slot": "Armour",
+        "status": "Str ＋5, VIT ＋5, Dex ＋5"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_44023.png",
+        "name": "Glove",
+        "slot": "Accessory",
+        "status": "Atk + 42"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_44023.png",
+        "name": "Glove [1]",
+        "slot": "Accessory",
+        "status": "Atk + 42"
+    },
+    {
+        "imgsrc": null,
+        "name": "Glutton's Resentment",
+        "slot": "Face",
+        "status": "Max HP ＋300, Max SP ＋300"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_52025.png",
+        "name": "GM Equipment",
+        "slot": "Head",
+        "status": "Atk ＋5000, M.Atk ＋5000, Def ＋100000, M.Def ＋100000, Max HP ＋1000000, Max SP ＋100000, Hit ＋200, Flee ＋200, Cri ＋50, Life Steal ＋100%, CT Variable Reduction ＋100%, HP Regen ＋100%, SP Regen ＋100%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_52025.png",
+        "name": "GM Equipment 1",
+        "slot": "Armour",
+        "status": "VIT ＋1000, Def ＋100000, M.Def ＋100000, Max HP ＋1000000, Max SP ＋100000, Hit ＋200, Flee ＋200, Cri ＋50, CT Variable Reduction ＋100%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Goat Helm",
+        "slot": "Head",
+        "status": "Str ＋5, Ignore Def ＋10%, When Refining reaches 10, ignore Def ＋10%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Goblin - Daze",
+        "slot": "Face",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Goblin - Evil",
+        "slot": "Face",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Goblin - Helpless",
+        "slot": "Face",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Goblin - Horror",
+        "slot": "Face",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Goblin - Laugh",
+        "slot": "Face",
+        "status": ""
+    }
+]

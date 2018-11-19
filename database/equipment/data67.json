@@ -1,0 +1,122 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Kaho’s Protection",
+        "slot": "Wing",
+        "status": "-10% earth and fire damage taken by Party members (self included) within a 5m radius. -1% earth and fire damage taken for each refining level"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_47015.png",
+        "name": "Katana",
+        "slot": "Wing",
+        "status": "Receive passive skill -[Double Attack] Lv.3"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40901.png",
+        "name": "Katar",
+        "slot": "Katar",
+        "status": "Atk + 87"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40905.png",
+        "name": "Katar of Frozen Icicle [2]",
+        "slot": "Katar",
+        "status": "Atk + 90"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40905.png",
+        "name": "Katar of Frozen Icicle [3]",
+        "slot": "Katar",
+        "status": "Atk + 90"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40905.png",
+        "name": "Katar of Piercing Wind [2]",
+        "slot": "Katar",
+        "status": "Atk + 90"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40905.png",
+        "name": "Katar of Piercing Wind [3]",
+        "slot": "Katar",
+        "status": "Atk + 90"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40904.png",
+        "name": "Katar of Quaking [1]",
+        "slot": "Katar",
+        "status": "Doubles Critical, Critical ＋5, Crit.Dmg ＋15%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40904.png",
+        "name": "Katar of Quaking [2]",
+        "slot": "Katar",
+        "status": "Doubles Critical, Critical ＋5, Crit.Dmg ＋15%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40905.png",
+        "name": "Katar of Raging Blaze [2]",
+        "slot": "Katar",
+        "status": "Atk + 90"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40905.png",
+        "name": "Katar of Raging Blaze [3]",
+        "slot": "Katar",
+        "status": "Atk + 90"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40901.png",
+        "name": "Katar [2]",
+        "slot": "Katar",
+        "status": "Atk + 87"
+    },
+    {
+        "imgsrc": null,
+        "name": "Katyusha Wrapping Lace",
+        "slot": "Head",
+        "status": "Overall Ability ＋1, MDef ＋2%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Key of Heaven",
+        "slot": "Mount",
+        "status": "Move Spd ＋50%"
+    },
+    {
+        "imgsrc": null,
+        "name": "King Joe Doll Hat ",
+        "slot": "Head",
+        "status": "Def ＋2%,  MDef ＋2%"
+    },
+    {
+        "imgsrc": null,
+        "name": "King Joe Doll Hat [1]",
+        "slot": "Head",
+        "status": "Def ＋2%,  MDef ＋2%"
+    },
+    {
+        "imgsrc": null,
+        "name": "King Poring Series Headwear",
+        "slot": "Head",
+        "status": "Overall Ability ＋1, Max HP ＋120"
+    },
+    {
+        "imgsrc": null,
+        "name": "King Poring's Majesty",
+        "slot": "Head",
+        "status": "Overall Ability ＋1, Max HP ＋120"
+    },
+    {
+        "imgsrc": null,
+        "name": "King Poring's Melancholy",
+        "slot": "Head",
+        "status": "Overall Ability ＋1, Max HP ＋120"
+    },
+    {
+        "imgsrc": null,
+        "name": "Kirin Wing",
+        "slot": "Wing",
+        "status": "No effect"
+    }
+]

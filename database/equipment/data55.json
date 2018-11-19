@@ -1,0 +1,122 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Grand Chef·Salad",
+        "slot": "Head",
+        "status": "Atk ＋10, M.Atk ＋10, VIT ＋1"
+    },
+    {
+        "imgsrc": null,
+        "name": "Grand Chef·Vegetable Soup",
+        "slot": "Head",
+        "status": "Atk ＋10, M.Atk ＋10, Dex ＋1"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45056.png",
+        "name": "Grand Circlet",
+        "slot": "Head",
+        "status": "Str ＋1, Int ＋1, Luk ＋1, When Refining reaches ＋10, Max HP ＋1000"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45056.png",
+        "name": "Grand Circlet [1]",
+        "slot": "Head",
+        "status": "Str ＋1, Int ＋1, Luk ＋1, When Refining reaches ＋10, Max HP ＋1000"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41808.png",
+        "name": "Great Axe [1]",
+        "slot": "Axe",
+        "status": "Atk + 135"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41808.png",
+        "name": "Great Axe [2]",
+        "slot": "Axe",
+        "status": "Atk + 135"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_43516.png",
+        "name": "Greaves",
+        "slot": "Shoes",
+        "status": "Move Spd ＋8%, Def ＋12, HP Regen ＋5, Green Steel Pike IV ＋ Greaves  VII ＋ Stone Buckler IV: Ignores 5% Def, ＋5% Atk"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_43516.png",
+        "name": "Greaves [1]",
+        "slot": "Shoes",
+        "status": "Move Spd ＋8%, Def ＋12, HP Regen ＋5, Green Steel Pike IV ＋ Greaves  VII ＋ Stone Buckler IV: Ignores 5% Def, ＋5% Atk"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45008.png",
+        "name": "Green Feeler",
+        "slot": "Head",
+        "status": "Def ＋10"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45008.png",
+        "name": "Green Feeler [1]",
+        "slot": "Head",
+        "status": "Def ＋10"
+    },
+    {
+        "imgsrc": null,
+        "name": "Green Lace",
+        "slot": "Head",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Green Lace",
+        "slot": "Head",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Green Lace [1]",
+        "slot": "Head",
+        "status": "Dex ＋3, AGI ＋3"
+    },
+    {
+        "imgsrc": null,
+        "name": "Green Steel Pike [1]",
+        "slot": "Spear",
+        "status": "VIT ＋9, For Refining ＋1, Def ＋1.5%, M.Def ＋1%, Green Steel Pike IV ＋ Greaves  VII ＋ Stone Buckler IV: Ignores 5% Def, ＋5% Atk"
+    },
+    {
+        "imgsrc": null,
+        "name": "Green Steel Pike [2]",
+        "slot": "Spear",
+        "status": "VIT ＋9, For Refining ＋1, Def ＋1.5%, M.Def ＋1%, Green Steel Pike IV ＋ Greaves  VII ＋ Stone Buckler IV: Ignores 5% Def, ＋5% Atk"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45051.png",
+        "name": "Grief for Greed",
+        "slot": "Head",
+        "status": "Def ＋5, INT ＋1, Dex ＋1"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45051.png",
+        "name": "Grief for Greed [1]",
+        "slot": "Head",
+        "status": "Def ＋5, INT ＋1, Dex ＋1"
+    },
+    {
+        "imgsrc": null,
+        "name": "Grimace Mask",
+        "slot": "Face",
+        "status": "Max SP ＋100, Atk ＋15"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/21.png",
+        "name": "Gryphon",
+        "slot": "Mount",
+        "status": "Move Spd ＋50%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/21.png",
+        "name": "Gryphon",
+        "slot": "Mount",
+        "status": "Move Spd ＋50%"
+    }
+]

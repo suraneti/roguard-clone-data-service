@@ -1,0 +1,122 @@
+[
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42040.png",
+        "name": "Meteorite Armor",
+        "slot": "Armour",
+        "status": "Def + 33"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42040.png",
+        "name": "Meteorite Armor [1]",
+        "slot": "Armour",
+        "status": "Def + 33"
+    },
+    {
+        "imgsrc": null,
+        "name": "Midgard Bag",
+        "slot": "Wing",
+        "status": "Def ＋35, Max HP ＋1000, For Refining ＋1, Dmg Reduc. ＋1%, Freeze Def ＋2%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Midgard Goggles",
+        "slot": "Face",
+        "status": "Def ＋20, M.Def ＋20, Max HP ＋1000, Damage reduction of Human race ＋5%, For Refining ＋1, Damage reduction of Human race ＋1%, Petrified Resistance ＋2%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Midgard Helm",
+        "slot": "Head",
+        "status": "Def ＋35, Max HP ＋1000, Damage reduction of Human race ＋5%, For Refining ＋1, Damage reduction of Human race ＋1%, Slow Def ＋2%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Midgard Helm [1]",
+        "slot": "Head",
+        "status": "Def ＋35, Max HP ＋1000, Damage reduction of Human race ＋5%, For Refining ＋1, Damage reduction of Human race ＋1%, Slow Def ＋2%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Midgard Military Mask",
+        "slot": "Mouth",
+        "status": "Def ＋35, Max HP ＋1000, Damage reduction of Demi-Human ＋5%, For Refining increases by 1, Silence Resistance ＋2%, When Refining reaches ＋5, HP ＋750; When Refining reaches ＋10, HP ＋1500; Refining ＋15, HP ＋3000"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45197.png",
+        "name": "Million Victory",
+        "slot": "Head",
+        "status": "Def ＋5"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45197.png",
+        "name": "Million Victory [1]",
+        "slot": "Head",
+        "status": "Def ＋5"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45021.png",
+        "name": "Mini Propeller",
+        "slot": "Head",
+        "status": "Def ＋15"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45021.png",
+        "name": "Mini Propeller [1]",
+        "slot": "Head",
+        "status": "Def ＋15"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42003.png",
+        "name": "Mink Coat",
+        "slot": "Armour",
+        "status": "Agi ＋2, Max HP ＋50"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42003.png",
+        "name": "Mink Coat [1]",
+        "slot": "Armour",
+        "status": "Agi ＋2, Max HP ＋50"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45183.png",
+        "name": "Minorous Horn",
+        "slot": "Head",
+        "status": "Def ＋10"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45183.png",
+        "name": "Minorous Horn [1]",
+        "slot": "Head",
+        "status": "Def ＋10"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42508.png",
+        "name": "Mirror Shield",
+        "slot": "Shield",
+        "status": "Str ＋5, Damage of [Shield Chain], [Shield Boomerang] ＋15%, SP cost of skill use ＋30%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42508.png",
+        "name": "Mirror Shield [1]",
+        "slot": "Shield",
+        "status": "Str ＋5, Damage of [Shield Chain], [Shield Boomerang] ＋15%, SP cost of skill use ＋30%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Miss Conch",
+        "slot": "Wing",
+        "status": "Max HP ＋500, Def ＋5%, MDef ＋5%, Reduces Def and MDef of nearby enemies within a 3m radius by 4%."
+    },
+    {
+        "imgsrc": null,
+        "name": "Mist Wizard Hat",
+        "slot": "Head",
+        "status": "Overall Ability ＋2, Atk ＋12, M.Atk ＋12"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42004.png",
+        "name": "Mithril Gown",
+        "slot": "Armour",
+        "status": "INT ＋2, Chant disrupts durability ＋20%"
+    }
+]

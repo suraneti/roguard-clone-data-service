@@ -1,0 +1,162 @@
+[
+    {
+        "imgsrc": null,
+        "name": "梦魇★卡片",
+        "effect": "技能【白色障壁】冷却时间减少3秒",
+        "perma_buff": "Def ＋6",
+        "card_slot": "unknown",
+        "card_type": "unknown"
+    },
+    {
+        "imgsrc": null,
+        "name": "死灵★卡片",
+        "effect": "装备攻速＋20%, 普攻伤害＋7.5%，当敏捷大于180时，普攻伤害＋5%, , 【死灵★卡片】和【阿特罗斯★卡片】一同装备时，普攻伤害＋10%",
+        "perma_buff": "Equipment ASPD ＋5%",
+        "card_slot": "unknown",
+        "card_type": "unknown"
+    },
+    {
+        "imgsrc": null,
+        "name": "死灵亡者卡片",
+        "effect": "攻击目标时，有25%概率给目标施加一个【死灵标记】：被标记的目标流血，生命魔法恢复停止，受治疗加成降低200%，物伤减免降低10%，魔伤减免降低10%，持续8秒",
+        "perma_buff": "Atk ＋12",
+        "card_slot": "unknown",
+        "card_type": "unknown"
+    },
+    {
+        "imgsrc": null,
+        "name": "死灵骑士卡片",
+        "effect": "近战攻击时有一定的概率（8%）使目标眩昏、诅咒、沉默、中毒、流血，持续3秒, 对眩昏、诅咒、沉默、中毒、流血目标伤害增加20%",
+        "perma_buff": "Atk ＋12",
+        "card_slot": "Weapon",
+        "card_type": "MVP"
+    },
+    {
+        "imgsrc": null,
+        "name": "海盗之王★卡片",
+        "effect": "对小、中、大型魔物都造成100%的伤害, 物理攻击＋100, 对大型魔物伤害额外增加30%",
+        "perma_buff": "Max HP ＋112",
+        "card_slot": "unknown",
+        "card_type": "unknown"
+    },
+    {
+        "imgsrc": null,
+        "name": "海盗之王亡者卡片",
+        "effect": "对小、中、大型魔物都造成100%的伤害, 物理攻击＋100, 对小型魔物伤害额外增加30%",
+        "perma_buff": "Max HP ＋112",
+        "card_slot": "unknown",
+        "card_type": "unknown"
+    },
+    {
+        "imgsrc": null,
+        "name": "海神★卡片",
+        "effect": "对恶魔种族魔物伤害＋25%, 对不死种族魔物伤害＋25%",
+        "perma_buff": "对不死种族魔物伤害＋3%",
+        "card_slot": "unknown",
+        "card_type": "unknown"
+    },
+    {
+        "imgsrc": null,
+        "name": "海神亡者卡片",
+        "effect": "Fire Dmg Taken -15%, , 受到风属性伤害－15%, , 每隔15秒向自身周围释放出一圈寒冰吐息，使周围3米范围内全部敌人攻击速度-50%、移动速度-50%，持续5秒。",
+        "perma_buff": "受到火属性伤害－3%",
+        "card_slot": "unknown",
+        "card_type": "unknown"
+    },
+    {
+        "imgsrc": null,
+        "name": "狼外婆卡片",
+        "effect": "异常状态抵抗＋25%, , 异常状态下，将获得25%物伤减免和魔伤减免",
+        "perma_buff": "异常状态抵抗＋5%",
+        "card_slot": "unknown",
+        "card_type": "unknown"
+    },
+    {
+        "imgsrc": null,
+        "name": "移动援护",
+        "effect": "施放技能【舍命庇护】之后可以移动",
+        "perma_buff": "Atk ＋12",
+        "card_slot": "unknown",
+        "card_type": "unknown"
+    },
+    {
+        "imgsrc": null,
+        "name": "稻草人卡片",
+        "effect": "对不死属性魔物伤害＋10%",
+        "perma_buff": "Def ＋4.5",
+        "card_slot": "unknown",
+        "card_type": "unknown"
+    },
+    {
+        "imgsrc": null,
+        "name": "虎王★卡片",
+        "effect": "生命上限-10%, , In unlimited [Endure] state, , 避免陷入定身状态, , 【虎王亡者卡片】和【虎王★卡片】一起装备时，生命上限＋15%",
+        "perma_buff": "体质＋1，生命上限＋36",
+        "card_slot": "unknown",
+        "card_type": "unknown"
+    },
+    {
+        "imgsrc": null,
+        "name": "虎王亡者卡片",
+        "effect": "生命上限＋5%, 每损失10%生命上限，自身伤害提高2%, , 【虎王亡者卡片】和【虎王★卡片】一起装备时，生命上限＋15%",
+        "perma_buff": "Atk ＋12",
+        "card_slot": "unknown",
+        "card_type": "unknown"
+    },
+    {
+        "imgsrc": null,
+        "name": "蚁后★卡片",
+        "effect": "Reflect 20% M.Dmg, , 受到魔法伤害时，15%概率提升30%魔法防御，持续5秒, , 【蚁后亡者卡片】和【蚁后★卡片】一起装备时，物理防御和魔法防御额外提升20%",
+        "perma_buff": "Max HP ＋112",
+        "card_slot": "unknown",
+        "card_type": "unknown"
+    },
+    {
+        "imgsrc": null,
+        "name": "蚁后亡者卡片",
+        "effect": "反射20%物理伤害, , 受到物理攻击时，15%概率提升30%物理防御，持续5秒, , 【蚁后亡者卡片】和【蚁后★卡片】一起装备时，物理防御和魔法防御额外提升20%",
+        "perma_buff": "M.Atk ＋12",
+        "card_slot": "unknown",
+        "card_type": "unknown"
+    },
+    {
+        "imgsrc": null,
+        "name": "蛇女伊丝★卡片",
+        "effect": "可变吟唱时间-5%, 火属性攻击＋5%",
+        "perma_buff": "MDef ＋6",
+        "card_slot": "unknown",
+        "card_type": "unknown"
+    },
+    {
+        "imgsrc": null,
+        "name": "转转蛋★卡片",
+        "effect": "全能力＋2, 物理攻击＋3%, , 普通攻击攻击目标时5%概率使其恐惧，持续2秒, , 物理技能攻击攻击目标时15%概率使其恐惧，持续2秒",
+        "perma_buff": "Atk ＋12",
+        "card_slot": "unknown",
+        "card_type": "unknown"
+    },
+    {
+        "imgsrc": null,
+        "name": "银月魔女卡片",
+        "effect": "Max HP ＋1000, , 受到攻击时，有一定的概率（15%）对自己施展【治愈术】Lv.10",
+        "perma_buff": "Atk ＋8",
+        "card_slot": "Armor",
+        "card_type": "Mini Boss"
+    },
+    {
+        "imgsrc": null,
+        "name": "阿特罗斯★卡片",
+        "effect": "普攻时有5%概率获得急速狂暴效果，急速狂暴：装备攻速＋20%，普攻伤害＋7.5%，持续10秒, , 【死灵★卡片】和【阿特罗斯★卡片】一同装备时，普攻伤害＋10%",
+        "perma_buff": "Max HP ＋112",
+        "card_slot": "unknown",
+        "card_type": "unknown"
+    },
+    {
+        "imgsrc": null,
+        "name": "阿特罗斯亡者卡片",
+        "effect": "圣属性攻击＋3%, 治疗加成＋3%, , 使用法系技能时有10%概率获得强效治疗效果（治疗加成＋10%，持续6秒）",
+        "perma_buff": "Max HP ＋112",
+        "card_slot": "unknown",
+        "card_type": "unknown"
+    }
+]

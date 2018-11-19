@@ -1,0 +1,122 @@
+[
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_60002.png",
+        "name": "Storm Orb [1]",
+        "slot": "Orb",
+        "status": "Def + 30"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_60002.png",
+        "name": "Storm Orb [2]",
+        "slot": "Orb",
+        "status": "Def + 30"
+    },
+    {
+        "imgsrc": null,
+        "name": "Storm Pike [1]",
+        "slot": "Spear",
+        "status": "Str ＋6, VIT ＋6, Damage of [Spiral Pierce] ＋10%, For Refining ＋10, ＋15, Atk ＋5%, Damage to water monsters ＋10%; For Atk ＋5%, Damage to water monsters ＋10%, Dmg to Water monsters ＋10%, Using this skill may trigger [Storm Force]. [Storm Force]: Atk ＋10%, Damage to water monster ＋10%; the effect lasts 10 seconds."
+    },
+    {
+        "imgsrc": null,
+        "name": "Storm Pike [2]",
+        "slot": "Spear",
+        "status": "Str ＋6, VIT ＋6, Damage of [Spiral Pierce] ＋10%, For Refining ＋10, ＋15, Atk ＋5%, Damage to water monsters ＋10%; For Atk ＋5%, Damage to water monsters ＋10%, Dmg to Water monsters ＋10%, Using this skill may trigger [Storm Force]. [Storm Force]: Atk ＋10%, Damage to water monster ＋10%; the effect lasts 10 seconds."
+    },
+    {
+        "imgsrc": null,
+        "name": "STR Necklace",
+        "slot": "Accessory",
+        "status": "VIT ＋5, Max HP ＋3%"
+    },
+    {
+        "imgsrc": null,
+        "name": "STR Necklace[1]",
+        "slot": "Accessory",
+        "status": "VIT ＋5, Max HP ＋3%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Strange Fireworks",
+        "slot": "Mouth",
+        "status": "MAX HP＋100, Atk ＋10, M.Atk ＋10"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_48554.png",
+        "name": "Strange Goblin Mask",
+        "slot": "Face",
+        "status": "Damage reduction of Demi-Human race ＋10%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Strawberry Clip",
+        "slot": "Head",
+        "status": "Atk ＋10, M.Atk ＋10"
+    },
+    {
+        "imgsrc": null,
+        "name": "Strawberry Pudding",
+        "slot": "Head",
+        "status": "Atk ＋15, M.Atk ＋15"
+    },
+    {
+        "imgsrc": null,
+        "name": "Strawberry Pudding [1]",
+        "slot": "Head",
+        "status": "Dex ＋3, AGI ＋3"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_44016.png",
+        "name": "Strength Ring",
+        "slot": "Accessory",
+        "status": "Atk + 42"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_44016.png",
+        "name": "Strength Ring [1]",
+        "slot": "Accessory",
+        "status": "Atk + 42"
+    },
+    {
+        "imgsrc": null,
+        "name": "Strong Shield",
+        "slot": "Shield",
+        "status": "VIT ＋5, M.Def ＋15, Damage from [Devotion] -5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Strong Shield [1]",
+        "slot": "Shield",
+        "status": "VIT ＋5, M.Def ＋15, Damage from [Devotion] -5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Strouf's Spear",
+        "slot": "Sword",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Studded Knuckles [1]",
+        "slot": "Knuckle",
+        "status": "VIT ＋6, Max HP ＋1600, Natural recovery of HP ＋15, Remove wearer's moving speed penalty in state -[Steel Body], [Studded Knuckles] ＋ [Saint's Cape IV]: Max HP ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Studded Knuckles [2]",
+        "slot": "Knuckle",
+        "status": "VIT ＋6, Max HP ＋1600, Natural recovery of HP ＋15, Remove wearer's moving speed penalty in state -[Steel Body], [Studded Knuckles] ＋ [Saint's Cape IV]: Max HP ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Student's Hat",
+        "slot": "Head",
+        "status": "Dex ＋3, AGI ＋3"
+    },
+    {
+        "imgsrc": null,
+        "name": "Student's Hat [1]",
+        "slot": "Head",
+        "status": "Dex ＋3, AGI ＋3"
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45026.png",
+        "name": "Indian Fillet",
+        "slot": "Head",
+        "status": "Def ＋10"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45026.png",
+        "name": "Indian Fillet [1]",
+        "slot": "Head",
+        "status": "Def ＋10"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45060.png",
+        "name": "Indifferent Solo Hat",
+        "slot": "Head",
+        "status": "Def ＋10"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45060.png",
+        "name": "Indifferent Solo Hat [1]",
+        "slot": "Head",
+        "status": "Def ＋10"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40923.png",
+        "name": "Infiltrator [1]",
+        "slot": "Katar",
+        "status": "Doubles Critical, Damage to human-like monsters -50%, Def ＋20, Flee ＋20"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40923.png",
+        "name": "Infiltrator [2]",
+        "slot": "Katar",
+        "status": "Doubles Critical, Damage to human-like monsters -50%, Def ＋20, Flee ＋20"
+    },
+    {
+        "imgsrc": null,
+        "name": "Infinity Axe [1]",
+        "slot": "Axe",
+        "status": "Atk + 180"
+    },
+    {
+        "imgsrc": null,
+        "name": "Infinity Axe [2]",
+        "slot": "Axe",
+        "status": "Atk + 180"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41201.png",
+        "name": "Infinity Bow [2]",
+        "slot": "Bow",
+        "status": "Atk + 180"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41201.png",
+        "name": "Infinity Bow [3]",
+        "slot": "Bow",
+        "status": "Atk + 180"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_44020.png",
+        "name": "INT Earring",
+        "slot": "Accessory",
+        "status": "M.Atk + 42"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_44020.png",
+        "name": "INT Earring [1]",
+        "slot": "Accessory",
+        "status": "M.Atk + 42"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_44014.png",
+        "name": "INT Glove [1]",
+        "slot": "Accessory",
+        "status": "Atk + 42"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_44001.png",
+        "name": "INT Glove [2]",
+        "slot": "Accessory",
+        "status": "Atk + 30"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42007.png",
+        "name": "Iron Armor",
+        "slot": "Armour",
+        "status": "Str ＋3, VIT ＋2, When equipped by Melee attackers, Atk ＋20"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42007.png",
+        "name": "Iron Armor [1]",
+        "slot": "Armour",
+        "status": "Str ＋3, VIT ＋2, When equipped by Melee attackers, Atk ＋20"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_48527.png",
+        "name": "Iron Cain",
+        "slot": "Mouth",
+        "status": "Def ＋10"
+    },
+    {
+        "imgsrc": null,
+        "name": "Iron Knuckle",
+        "slot": "Knuckle",
+        "status": "Atk + 158"
+    },
+    {
+        "imgsrc": null,
+        "name": "Iron Knuckle [2]",
+        "slot": "Knuckle",
+        "status": "Atk + 158"
+    },
+    {
+        "imgsrc": null,
+        "name": "Ivory Knife [1]",
+        "slot": "Knife",
+        "status": "Luk ＋4, Dex ＋4, the basic trigger probability of [Strip Accessory] and [Strip Shield] ＋3%"
+    }
+]

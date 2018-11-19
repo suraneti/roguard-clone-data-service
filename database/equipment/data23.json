@@ -1,0 +1,122 @@
+[
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_44011.png",
+        "name": "Clip [1]",
+        "slot": "Accessory",
+        "status": "Atk + 30"
+    },
+    {
+        "imgsrc": null,
+        "name": "Clock's Halo",
+        "slot": "Wing",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Clothes Dark Knight Abyss Blue",
+        "slot": "Armour",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Clothes Dark Knight Fiery Wrath Red",
+        "slot": "Armour",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Clothes Dark Knight Nether Green",
+        "slot": "Armour",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Clothes Dark Knight Sunlit Yellow",
+        "slot": "Armour",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Clothes Moonlight Rose Blue",
+        "slot": "Armour",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Clothes Moonlight Rose Green",
+        "slot": "Armour",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Clothes Moonlight Rose Rosy",
+        "slot": "Armour",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Clothes Moonlight Rose Yellow",
+        "slot": "Armour",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Clothes · I, Steward male",
+        "slot": "Armour",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Clothes·I, Steward female",
+        "slot": "Armour",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Clothes·Japanese summer style·coconut green",
+        "slot": "Armour",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Clothes·Japanese summer style·ocean blue",
+        "slot": "Armour",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Clothes·Japanese summer style·pineapple yellow",
+        "slot": "Armour",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Clothes·Japanese summer style·scorching sun red",
+        "slot": "Armour",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Clothes·summer sunflower·coconut green",
+        "slot": "Armour",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Clothes·summer sunflower·ocean blue",
+        "slot": "Armour",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Clothes·summer sunflower·pineapple yellow",
+        "slot": "Armour",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Clothes·summer sunflower·scorching sun red",
+        "slot": "Armour",
+        "status": ""
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45024.png",
+        "name": "Coronet",
+        "slot": "Head",
+        "status": "Int ＋3, Damage reduction of plant race ＋10%, When Refining reaches ＋10, extra vitality ＋3"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45024.png",
+        "name": "Coronet [1]",
+        "slot": "Head",
+        "status": "Int ＋3, Damage reduction of plant race ＋10%, When Refining reaches ＋10, extra vitality ＋3"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45016.png",
+        "name": "Corsair",
+        "slot": "Head",
+        "status": "VIT ＋3, When Refining reaches ＋10, Max HP ＋10%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45016.png",
+        "name": "Corsair [1]",
+        "slot": "Head",
+        "status": "VIT ＋3, When Refining reaches ＋10, Max HP ＋10%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_43026.png",
+        "name": "Cotton Shirt",
+        "slot": "Robe",
+        "status": "Def + 13"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_43026.png",
+        "name": "Cotton Shirt [1]",
+        "slot": "Robe",
+        "status": "Def + 13"
+    },
+    {
+        "imgsrc": null,
+        "name": "Creamy Wing",
+        "slot": "Wing",
+        "status": "No effect"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41201.png",
+        "name": "Creeper Bow [2]",
+        "slot": "Bow",
+        "status": "Atk + 180"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41201.png",
+        "name": "Creeper Bow [3]",
+        "slot": "Bow",
+        "status": "Atk + 180"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40005.png",
+        "name": "Crescent Scythe (Baphomet only)",
+        "slot": "Spear",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Crescent Scythe [1]",
+        "slot": "Spear",
+        "status": "Hit ＋30, Str ＋8, Receive [Baphomet’s Fury]: immediately cause damage (range from 1 Point - (caster's Base Lv xAdjusted Value)) to the target, Any damage endured by the caster will proportionally turns into adjusted value of [Baphomet’s Fury], For Refining ＋2, Adjusted value ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Crescent Scythe [2]",
+        "slot": "Spear",
+        "status": "Hit ＋30, Str ＋8, Receive [Baphomet’s Fury]: immediately cause damage (range from 1 Point - (caster's Base Lv xAdjusted Value)) to the target, Any damage endured by the caster will proportionally turns into adjusted value of [Baphomet’s Fury], For Refining ＋2, Adjusted value ＋5%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45110.png",
+        "name": "Cresent Hairpin",
+        "slot": "Head",
+        "status": "Hit ＋10"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45110.png",
+        "name": "Cresent Hairpin [1]",
+        "slot": "Head",
+        "status": "Hit ＋10"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_60004.png",
+        "name": "Crimson Orb",
+        "slot": "Orb",
+        "status": "Fire Dmg Taken -15%, When equipped by wizards, Fire Damage ＋10%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_60004.png",
+        "name": "Crimson Orb [1]",
+        "slot": "Orb",
+        "status": "Fire Dmg Taken -15%, When equipped by wizards, Fire Damage ＋10%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Crimson Staff [1]",
+        "slot": "Staff",
+        "status": "M.Atk + 180"
+    },
+    {
+        "imgsrc": null,
+        "name": "Crimson Staff [2]",
+        "slot": "Staff",
+        "status": "M.Atk + 180"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_44015.png",
+        "name": "Critical Ring",
+        "slot": "Accessory",
+        "status": "Atk + 60"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_44015.png",
+        "name": "Critical Ring [1]",
+        "slot": "Accessory",
+        "status": "Atk + 60"
+    }
+]

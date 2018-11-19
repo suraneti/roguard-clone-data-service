@@ -1,0 +1,122 @@
+[
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45141.png",
+        "name": "Sheila Hairnet [1]",
+        "slot": "Head",
+        "status": "Agi ＋2, M.Def ＋10"
+    },
+    {
+        "imgsrc": null,
+        "name": "Shell Clip",
+        "slot": "Head",
+        "status": "Dex ＋3, AGI ＋3"
+    },
+    {
+        "imgsrc": null,
+        "name": "Shield (For Goblin)",
+        "slot": "Sword",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Shield of Naga",
+        "slot": "Shield",
+        "status": "M.Atk ＋8%, Every 3 points of Intelligence cause Atk increases by 1 Point, Skill multiplier of [Grand Cross] ＋200%, For Refining ＋1, Skill multiplier of [Grand Cross] ＋30%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Shield of Naga [1]",
+        "slot": "Shield",
+        "status": "M.Atk ＋8%, Every 3 points of Intelligence cause Atk increases by 1 Point, Skill multiplier of [Grand Cross] ＋200%, For Refining ＋1, Skill multiplier of [Grand Cross] ＋30%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42504.png",
+        "name": "Shield [1]",
+        "slot": "Shield",
+        "status": "Def + 75"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42504.png",
+        "name": "Shield [2]",
+        "slot": "Shield",
+        "status": "Def + 75"
+    },
+    {
+        "imgsrc": null,
+        "name": "Shigehiro Sunglasses",
+        "slot": "Face",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Shining Electric Bulb Hairband",
+        "slot": "Head",
+        "status": "Dex ＋3, AGI ＋3"
+    },
+    {
+        "imgsrc": null,
+        "name": "Shining Electric Bulb Hairband [1]",
+        "slot": "Head",
+        "status": "Dex ＋3, AGI ＋3"
+    },
+    {
+        "imgsrc": null,
+        "name": "Ship Captain Hat",
+        "slot": "Head",
+        "status": "No effect"
+    },
+    {
+        "imgsrc": null,
+        "name": "Ship Captain Hat [1]",
+        "slot": "Head",
+        "status": "No effect"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_43503.png",
+        "name": "Shoes",
+        "slot": "Shoes",
+        "status": "Move Spd ＋5%, SP Regen ＋3"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_43503.png",
+        "name": "Shoes [1]",
+        "slot": "Shoes",
+        "status": "Move Spd ＋5%, SP Regen ＋3"
+    },
+    {
+        "imgsrc": null,
+        "name": "Shoes [2]",
+        "slot": "Shoes",
+        "status": "Def + 45"
+    },
+    {
+        "imgsrc": null,
+        "name": "Shooting Star [1]",
+        "slot": "Bow",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Shooting Star [2]",
+        "slot": "Bow",
+        "status": ""
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45069.png",
+        "name": "Silk Ribbon",
+        "slot": "Head",
+        "status": ""
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42009.png",
+        "name": "Silk Robe",
+        "slot": "Armour",
+        "status": "M.Def ＋20, Water Dmg Taken -15%, [Tidal Shoes VI] ＋[Silk Robe VI]: Has a 10% chance to turn the target into Water target for 10 seconds during auto attacks"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42009.png",
+        "name": "Silk Robe [1]",
+        "slot": "Armour",
+        "status": "M.Def ＋20, Water Dmg Taken -15%, [Tidal Shoes VI] ＋[Silk Robe VI]: Has a 10% chance to turn the target into Water target for 10 seconds during auto attacks"
+    }
+]

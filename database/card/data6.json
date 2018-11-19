@@ -1,0 +1,162 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Hand of Light Card",
+        "effect": "治疗加成＋15%, 魔法攻击＋40",
+        "perma_buff": "M.Atk ＋12",
+        "card_slot": "unknown",
+        "card_type": "unknown"
+    },
+    {
+        "imgsrc": null,
+        "name": "Happy White Seasonal Card",
+        "effect": "Dmg to demon monsters ＋5%, Damage reduction to devil monsters ＋5%",
+        "perma_buff": "Max HP ＋24",
+        "card_slot": "unknown",
+        "card_type": "unknown"
+    },
+    {
+        "imgsrc": null,
+        "name": "Harpy Card",
+        "effect": "Neutral Dmg Taken -8%, [Soul Expansion] Dmg ＋10%",
+        "perma_buff": "Def ＋4.5",
+        "card_slot": "unknown",
+        "card_type": "unknown"
+    },
+    {
+        "imgsrc": null,
+        "name": "Hatii Card",
+        "effect": "When launching auto attacks, Caster has a 50% chance to freeze the enemy for 5 seconds",
+        "perma_buff": "Max HP ＋112",
+        "card_slot": "unknown",
+        "card_type": "unknown"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/cards/card_10070.jpg",
+        "name": "High Orc Card",
+        "effect": "When suffering Atk from enemy, 10% Dmg will be reflected",
+        "perma_buff": "Max HP ＋24",
+        "card_slot": "unknown",
+        "card_type": "unknown"
+    },
+    {
+        "imgsrc": null,
+        "name": "Highland Parasite Card",
+        "effect": "[Soul Breaker] Cast Delay -0.5s",
+        "perma_buff": "Max HP ＋30",
+        "card_slot": "unknown",
+        "card_type": "unknown"
+    },
+    {
+        "imgsrc": null,
+        "name": "Hode Card",
+        "effect": "Earth Dmg Taken -15%, Flee ＋5",
+        "perma_buff": "Max HP ＋28",
+        "card_slot": "unknown",
+        "card_type": "unknown"
+    },
+    {
+        "imgsrc": null,
+        "name": "Holy Crystal - Arcane Card",
+        "effect": "Poison, Holy, Dark, Ghost and Neutral Dmg Taken -10%, , With [Holy Crystal - Arcane Card], [Holy Crystal - Element Card] and [Holy Crystal - Haste Card] equipped: -10% Poison, Holy, Dark, Ghost, Neutral, Fire, Water, Earth and Wind damage taken. ＋2% Move Spd",
+        "perma_buff": "Max HP ＋112",
+        "card_slot": "unknown",
+        "card_type": "unknown"
+    },
+    {
+        "imgsrc": null,
+        "name": "Holy Crystal - Elements Card",
+        "effect": "Fire, Water, Earth and Wind Dmg Taken -10%, , With [Holy Crystal - Arcane Card], [Holy Crystal - Element Card] and [Holy Crystal - Haste Card] equipped: -10% Poison, Holy, Dark, Ghost, Neutral, Fire, Water, Earth and Wind damage taken. ＋2% Move Spd",
+        "perma_buff": "Max HP ＋112",
+        "card_slot": "unknown",
+        "card_type": "unknown"
+    },
+    {
+        "imgsrc": null,
+        "name": "Holy Crystal - Haste Card",
+        "effect": "Max HP ＋200, LUK ＋2, , With [Holy Crystal - Arcane Card], [Holy Crystal - Element Card] and [Holy Crystal - Haste Card] equipped: -10% Poison, Holy, Dark, Ghost, Neutral, Fire, Water, Earth and Wind damage taken. ＋2% Move Spd",
+        "perma_buff": "Def ＋3",
+        "card_slot": "unknown",
+        "card_type": "unknown"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/cards/card_10036.jpg",
+        "name": "Hornet Card",
+        "effect": "Str ＋1, Atk ＋10",
+        "perma_buff": "Atk ＋6",
+        "card_slot": "unknown",
+        "card_type": "unknown"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/cards/card_10058.jpg",
+        "name": "Horong Card",
+        "effect": "Can use Skill - [ Sight] Lv.1",
+        "perma_buff": "M.Def ＋4",
+        "card_slot": "unknown",
+        "card_type": "unknown"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/cards/card_10076.jpg",
+        "name": "Hunter Fly Card",
+        "effect": "When using physical skills, Caster has 3% chance to restore 2% of Max HP",
+        "perma_buff": "Max HP ＋24",
+        "card_slot": "unknown",
+        "card_type": "unknown"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/cards/card_10017.jpg",
+        "name": "Hydra Card",
+        "effect": "Dmg to Demi-Human ＋15%",
+        "perma_buff": "Dmg to Demi-Human ＋2%",
+        "card_slot": "unknown",
+        "card_type": "unknown"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/cards/card_20019.jpg",
+        "name": "Hyegun Card",
+        "effect": "Flee ＋20, Cri ＋5",
+        "perma_buff": "Max HP ＋84",
+        "card_slot": "unknown",
+        "card_type": "unknown"
+    },
+    {
+        "imgsrc": null,
+        "name": "Icy Party Card",
+        "effect": "Neutral damage taken －10%, MAX HP＋500, MAX SP＋200",
+        "perma_buff": "Atk ＋2, MAX HP＋36",
+        "card_slot": "unknown",
+        "card_type": "unknown"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/cards/card_10083.jpg",
+        "name": "Incubus Card",
+        "effect": "Max SP ＋200, SP Regen ＋15%",
+        "perma_buff": "SP Regen ＋1%",
+        "card_slot": "unknown",
+        "card_type": "unknown"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/cards/card_10086.jpg",
+        "name": "Injustice Card",
+        "effect": "auto attack has a 3% chance to trigger [Sonic Blow] Lv.5",
+        "perma_buff": "Str ＋1",
+        "card_slot": "unknown",
+        "card_type": "unknown"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/cards/card_10053.jpg",
+        "name": "Isis Card",
+        "effect": "Dark Dmg Taken -15%",
+        "perma_buff": "Max SP ＋20",
+        "card_slot": "unknown",
+        "card_type": "unknown"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/cards/card_20011.jpg",
+        "name": "Jakk Card",
+        "effect": "Fire Dmg Taken -30%, Flee ＋10",
+        "perma_buff": "Max HP ＋84",
+        "card_slot": "unknown",
+        "card_type": "unknown"
+    }
+]

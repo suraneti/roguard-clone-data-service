@@ -1,0 +1,122 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Judger [2]",
+        "slot": "Staff",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Juno Garrison",
+        "slot": "Head",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Juno Garrison [1]",
+        "slot": "Head",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Juno Soldier's Hat",
+        "slot": "Wing",
+        "status": ""
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40905.png",
+        "name": "Jur",
+        "slot": "Katar",
+        "status": "Atk + 72"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40905.png",
+        "name": "Jur [2]",
+        "slot": "Katar",
+        "status": "Atk + 72"
+    },
+    {
+        "imgsrc": null,
+        "name": "Kafra Band",
+        "slot": "Head",
+        "status": "Dex ＋3, AGI ＋3"
+    },
+    {
+        "imgsrc": null,
+        "name": "Kafra Band [1]",
+        "slot": "Head",
+        "status": "Dex ＋3, AGI ＋3"
+    },
+    {
+        "imgsrc": null,
+        "name": "Kafra Headwear Color 1",
+        "slot": "Head",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Kafra Headwear Color 2",
+        "slot": "Head",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Kafra Headwear Color 3",
+        "slot": "Head",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Kafra Summer cone",
+        "slot": "Head",
+        "status": "Fire damage taken - 3%, Damage to Fire Monsters ＋3%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Kafra Tail Color 1",
+        "slot": "Tail",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Kafra Tail Color 2",
+        "slot": "Tail",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Kafra Tail Color 3",
+        "slot": "Tail",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Kafra Wing Color 1",
+        "slot": "Wing",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Kafra Wing Color 2",
+        "slot": "Wing",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Kafra Wing Color 3",
+        "slot": "Wing",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Kafra's Headwear",
+        "slot": "Head",
+        "status": "Dex ＋3, AGI ＋3"
+    },
+    {
+        "imgsrc": null,
+        "name": "Kafra's Headwear [1]",
+        "slot": "Head",
+        "status": "Dex ＋3, AGI ＋3"
+    }
+]

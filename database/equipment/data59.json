@@ -1,0 +1,122 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Heart Breaker [1]",
+        "slot": "Axe",
+        "status": "ASPD ＋10%, Cri ＋15, For Refining ＋5, ＋10, ＋15, Crit.Dmg ＋5%, ＋10%, ＋15%, Refining increases by 1, Damage of auto attack increases by 3%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Heart Breaker [2]",
+        "slot": "Axe",
+        "status": "ASPD ＋10%, Cri ＋15, For Refining ＋5, ＋10, ＋15, Crit.Dmg ＋5%, ＋10%, ＋15%, Refining increases by 1, Damage of auto attack increases by 3%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45077.png",
+        "name": "Heart Hairpin",
+        "slot": "Head",
+        "status": "Def ＋5"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45077.png",
+        "name": "Heart Hairpin [1]",
+        "slot": "Head",
+        "status": "Def ＋5"
+    },
+    {
+        "imgsrc": null,
+        "name": "Heart of Ice and Fire",
+        "slot": "Axe",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Heart Sunglasses",
+        "slot": "Face",
+        "status": "Max SP ＋50"
+    },
+    {
+        "imgsrc": null,
+        "name": "Heavy Spear [1]",
+        "slot": "Spear",
+        "status": "Str ＋8, Equipment ASPD ＋15%, Holy Dmg ＋20%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Heavy Spear [2]",
+        "slot": "Spear",
+        "status": "Str ＋8, Equipment ASPD ＋15%, Holy Dmg ＋20%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Hector Sword",
+        "slot": "Sword",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Hellfire [2]",
+        "slot": "Spear",
+        "status": "Atk + 247"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40005.png",
+        "name": "Hellfire [3]",
+        "slot": "Spear",
+        "status": "Atk + 247"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45097.png",
+        "name": "Helm",
+        "slot": "Head",
+        "status": "Def ＋10"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45109.png",
+        "name": "Helm of Angel",
+        "slot": "Head",
+        "status": "Agi ＋2, Luk ＋2, M.Def ＋10, For Refining ＋1Flee ＋1% (upper limit of increase is 15%)"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45109.png",
+        "name": "Helm of Angel [1]",
+        "slot": "Head",
+        "status": "Agi ＋2, Luk ＋2, M.Def ＋10, For Refining ＋1Flee ＋1% (upper limit of increase is 15%)"
+    },
+    {
+        "imgsrc": null,
+        "name": "Helm of Darkness",
+        "slot": "Head",
+        "status": "No effect"
+    },
+    {
+        "imgsrc": null,
+        "name": "Helm of Darkness [1]",
+        "slot": "Head",
+        "status": "No effect"
+    },
+    {
+        "imgsrc": null,
+        "name": "Helm Of Dragon",
+        "slot": "Head",
+        "status": "No effect"
+    },
+    {
+        "imgsrc": null,
+        "name": "Helm Of Dragon [1]",
+        "slot": "Head",
+        "status": "No effect"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45097.png",
+        "name": "Helm [1]",
+        "slot": "Head",
+        "status": "Def ＋10"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45050.png",
+        "name": "Helmet of Orc Hero",
+        "slot": "Head",
+        "status": "Str ＋2, VIT ＋2, When Refining reaches ＋10, Melee Dmg ＋10%"
+    }
+]

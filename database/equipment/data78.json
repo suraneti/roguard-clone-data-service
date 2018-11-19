@@ -1,0 +1,122 @@
+[
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45198.png",
+        "name": "Maple Which Falls",
+        "slot": "Head",
+        "status": "Def ＋5"
+    },
+    {
+        "imgsrc": null,
+        "name": "Marchosias' Arrow",
+        "slot": "Mouth",
+        "status": "Refining M.Atk ＋10, For Refining ＋1, refining M.Atk ＋2"
+    },
+    {
+        "imgsrc": null,
+        "name": "Marchosias' Bag",
+        "slot": "Wing",
+        "status": "Max HP ＋500, For Refining ＋1, Max HP ＋20, Bag Slot ＋10"
+    },
+    {
+        "imgsrc": null,
+        "name": "Marchosias' Gaze",
+        "slot": "Head",
+        "status": "Max HP ＋300, Dmg to Demi-Human race ＋3%, For Refining ＋1, Dmg to Demi-Human race ＋0.1%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Marchosias' Tail",
+        "slot": "Tail",
+        "status": "Refine Atk ＋10, For Refining ＋1, Refine Atk ＋2"
+    },
+    {
+        "imgsrc": null,
+        "name": "Martin Hat",
+        "slot": "Head",
+        "status": "Def ＋3%, Max HP ＋100"
+    },
+    {
+        "imgsrc": null,
+        "name": "Martin Hat [1]",
+        "slot": "Head",
+        "status": "Def ＋3%, Max HP ＋100"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_48542.png",
+        "name": "Mask of Darkness",
+        "slot": "Face",
+        "status": "VIT ＋2, For Refining ＋1, M.Def ＋1% (upper limit of increases is 15%)"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_48528.png",
+        "name": "Masquerade",
+        "slot": "Face",
+        "status": "Dmg to Demi-Human ＋8%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_48002.png",
+        "name": "Matyr Tail",
+        "slot": "Tail",
+        "status": "No effect"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_44021.png",
+        "name": "Matyr's Leash",
+        "slot": "Accessory",
+        "status": "Atk + 66"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_44021.png",
+        "name": "Matyr's Leash [1]",
+        "slot": "Accessory",
+        "status": "Atk + 66"
+    },
+    {
+        "imgsrc": null,
+        "name": "Maya Hat",
+        "slot": "Head",
+        "status": "No effect"
+    },
+    {
+        "imgsrc": null,
+        "name": "Maya Hat [1]",
+        "slot": "Head",
+        "status": "No effect"
+    },
+    {
+        "imgsrc": null,
+        "name": "Maya Sword (Maya only)",
+        "slot": "Sword",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Medicine Pack [1]",
+        "slot": "Mace",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Medicine Pack [2]",
+        "slot": "Mace",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Melon Cat",
+        "slot": "Head",
+        "status": "Str ＋1, VIT ＋1, INT ＋1, Dex ＋1, Agi ＋1, Luk ＋1"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45194.png",
+        "name": "Melting Ice Cream [1]",
+        "slot": "Head",
+        "status": "Def ＋5"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42515.png",
+        "name": "Memory Book",
+        "slot": "Shield",
+        "status": "Def + 33"
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_47008.png",
+        "name": "Perm Demon",
+        "slot": "Wing",
+        "status": "Max SP ＋10%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Pet Apron",
+        "slot": "Wing",
+        "status": ""
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_48004.png",
+        "name": "Petite's Tail",
+        "slot": "Tail",
+        "status": "Move Spd ＋5%, Avoid being auto-target dragon monsters"
+    },
+    {
+        "imgsrc": null,
+        "name": "Ph.D Hat",
+        "slot": "Head",
+        "status": "Max HP ＋50, Max SP ＋50, INT ＋1"
+    },
+    {
+        "imgsrc": null,
+        "name": "Ph.D Hat [1]",
+        "slot": "Head",
+        "status": "Dex ＋3, AGI ＋3"
+    },
+    {
+        "imgsrc": null,
+        "name": "Picky Eggshell",
+        "slot": "Head",
+        "status": ""
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40611.png",
+        "name": "Piercing Staff [1]",
+        "slot": "Staff",
+        "status": "INT ＋2, M.Atk ＋5%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40611.png",
+        "name": "Piercing Staff [2]",
+        "slot": "Staff",
+        "status": "INT ＋2, M.Atk ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Pierrot Mask",
+        "slot": "Face",
+        "status": "Def ＋10, Damage reduction of Human race ＋5%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40002.png",
+        "name": "Pike",
+        "slot": "Spear",
+        "status": "Atk + 247"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40002.png",
+        "name": "Pike [3]",
+        "slot": "Spear",
+        "status": "Atk + 247"
+    },
+    {
+        "imgsrc": null,
+        "name": "Pinafore",
+        "slot": "Head",
+        "status": "Dex ＋3, AGI ＋3"
+    },
+    {
+        "imgsrc": null,
+        "name": "Pinafore [1]",
+        "slot": "Head",
+        "status": "Dex ＋3, AGI ＋3"
+    },
+    {
+        "imgsrc": null,
+        "name": "Pinocchio's Nose",
+        "slot": "Face",
+        "status": "Dmg to Demi-Human ＋5%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_48520.png",
+        "name": "Pipe",
+        "slot": "Mouth",
+        "status": "Str ＋3, Damage reduction of Insect race ＋10%, When Refining reaches 10Max HP ＋10%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45014.png",
+        "name": "Pirate Bandana",
+        "slot": "Head",
+        "status": "Def ＋5, Str ＋2"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45014.png",
+        "name": "Pirate Bandana [1]",
+        "slot": "Head",
+        "status": "Def ＋5, Str ＋2"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45189.png",
+        "name": "Pirate Flag",
+        "slot": "Head",
+        "status": "No effect"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45189.png",
+        "name": "Pirate Flag [1]",
+        "slot": "Head",
+        "status": "No effect"
+    },
+    {
+        "imgsrc": null,
+        "name": "Pirate Skeleton (Pirate Skeleton only)",
+        "slot": "Sword",
+        "status": ""
+    }
+]

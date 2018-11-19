@@ -1,0 +1,122 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Love Summer",
+        "slot": "Head",
+        "status": "Max HP ＋100"
+    },
+    {
+        "imgsrc": null,
+        "name": "Love Winter",
+        "slot": "Mouth",
+        "status": "Max HP ＋100"
+    },
+    {
+        "imgsrc": null,
+        "name": "Love Witch Hat",
+        "slot": "Head",
+        "status": "Overall Ability ＋2, Atk ＋12, M.Atk ＋12"
+    },
+    {
+        "imgsrc": null,
+        "name": "Love You",
+        "slot": "Mouth",
+        "status": "Ignore Def ＋5%, Atk ＋20"
+    },
+    {
+        "imgsrc": null,
+        "name": "Loving Butterfly",
+        "slot": "Face",
+        "status": "Move Spd ＋3%, Luk ＋5, Atk ＋20"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42002.png",
+        "name": "Lucius's Fierce Armor of Volcano",
+        "slot": "Armour",
+        "status": "Def + 42"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42002.png",
+        "name": "Lucius's Fierce Armor of Volcano [1]",
+        "slot": "Armour",
+        "status": "Def + 42"
+    },
+    {
+        "imgsrc": null,
+        "name": "Lucky Bracelet [1]",
+        "slot": "Bracelet",
+        "status": "Def + 112"
+    },
+    {
+        "imgsrc": null,
+        "name": "Lucky Bracelet [2]",
+        "slot": "Bracelet",
+        "status": "Def + 112"
+    },
+    {
+        "imgsrc": null,
+        "name": "LUK Necklace",
+        "slot": "Accessory",
+        "status": "Luk ＋6, Crit.Dmg ＋2%"
+    },
+    {
+        "imgsrc": null,
+        "name": "LUK Necklace [1]",
+        "slot": "Accessory",
+        "status": "Luk ＋6, Crit.Dmg ＋2%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41221.png",
+        "name": "Luna Bow [1]",
+        "slot": "Bow",
+        "status": "Atk ＋24, [Luna Bow VI] ＋[Luna Brooch VI]: Intelligence ＋2, SP Regen ＋10%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41221.png",
+        "name": "Luna Bow [2]",
+        "slot": "Bow",
+        "status": "Atk ＋24, [Luna Bow VI] ＋[Luna Brooch VI]: Intelligence ＋2, SP Regen ＋10%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_44006.png",
+        "name": "Luna Brooch",
+        "slot": "Accessory",
+        "status": "Max SP ＋75, SP Regen ＋5%, [Luna Bow VI] ＋[Luna Brooch VI]: Intelligence ＋2, SP Regen ＋10%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_44006.png",
+        "name": "Luna Brooch [1]",
+        "slot": "Accessory",
+        "status": "Max SP ＋75, SP Regen ＋5%, [Luna Bow VI] ＋[Luna Brooch VI]: Intelligence ＋2, SP Regen ＋10%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41504.png",
+        "name": "Lunakaligo [2]",
+        "slot": "Mace",
+        "status": "Atk + 180"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41504.png",
+        "name": "Lunakaligo [3]",
+        "slot": "Mace",
+        "status": "Atk + 180"
+    },
+    {
+        "imgsrc": null,
+        "name": "M.Def Fairy",
+        "slot": "Tail",
+        "status": "M.Def ＋40, Max HP ＋1000, For Refining ＋1, Magic Reduc. ＋1%, Stunning Resistance ＋2%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41529.png",
+        "name": "Mace",
+        "slot": "Mace",
+        "status": "Atk + 72"
+    },
+    {
+        "imgsrc": null,
+        "name": "Mace of Judgment [1]",
+        "slot": "Mace",
+        "status": "INT ＋6, DEX ＋6, ＋20% [Adoramus] multiplier for each refining level gained after reaching refining ＋5 (up to 200%)"
+    }
+]

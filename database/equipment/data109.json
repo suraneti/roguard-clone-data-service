@@ -1,0 +1,122 @@
+[
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/21.png",
+        "name": "Savage Lord",
+        "slot": "Mount",
+        "status": "Move Spd ＋50%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Scalpel [1]",
+        "slot": "Knife",
+        "status": "Str ＋4, Max HP ＋500, For Refining ＋10, ＋15, the damage of [Back Stab] to human-like monsters ＋5, ＋10% respectively"
+    },
+    {
+        "imgsrc": null,
+        "name": "Scalpel [2]",
+        "slot": "Knife",
+        "status": "Str ＋4, Max HP ＋500, For Refining ＋10, ＋15, the damage of [Back Stab] to human-like monsters ＋5, ＋10% respectively"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42010.png",
+        "name": "Scapulare",
+        "slot": "Armour",
+        "status": "INT ＋2, Max SP ＋3%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42010.png",
+        "name": "Scapulare [1]",
+        "slot": "Armour",
+        "status": "INT ＋2, Max SP ＋3%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Scarlet Blade",
+        "slot": "Sword",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Scarlet Bolt [1]",
+        "slot": "Bow",
+        "status": "Dex ＋5, Costs of [Arrow Repel] and [Heavy Arrow] -40%, Skill CD of [Heavy Arrow] -1s, Damage of [Arrow Repel] ＋100%, With a chance to trigger [Heavy Arrow] Lv.1 during auto attacks. , Refining increases by 1, auto attack increases by 20 points"
+    },
+    {
+        "imgsrc": null,
+        "name": "Scarlet Bolt [2]",
+        "slot": "Bow",
+        "status": "Dex ＋5, Costs of [Arrow Repel] and [Heavy Arrow] -40%, Skill CD of [Heavy Arrow] -1s, Damage of [Arrow Repel] ＋100%, With a chance to trigger [Heavy Arrow] Lv.1 during auto attacks. , Refining increases by 1, auto attack increases by 20 points"
+    },
+    {
+        "imgsrc": null,
+        "name": "Scarlet Pike",
+        "slot": "Spear",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Scarlet Wizard Hat",
+        "slot": "Head",
+        "status": "Overall Ability ＋2, Atk ＋12, M.Atk ＋12"
+    },
+    {
+        "imgsrc": null,
+        "name": "Sceret of the Golden Apple",
+        "slot": "Head",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Sceret of the Golden Apple[1]",
+        "slot": "Head",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "School Black Warlock Demon Purple",
+        "slot": "Armour",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "School Black Warlock Muka Brown",
+        "slot": "Armour",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "School Black Warlock·Christmas Red",
+        "slot": "Armour",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "School Black Warlock·Crystal Purple",
+        "slot": "Armour",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "School Black Warlock·Gold Yellow",
+        "slot": "Armour",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "School Black Warlock·Sharp Black",
+        "slot": "Armour",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "School Black Warlock·Turquoise Green",
+        "slot": "Armour",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "School Black Warlock·Water Blue",
+        "slot": "Armour",
+        "status": ""
+    }
+]

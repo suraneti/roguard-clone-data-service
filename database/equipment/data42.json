@@ -1,0 +1,122 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Fashionable Glasses",
+        "slot": "Face",
+        "status": "No effect"
+    },
+    {
+        "imgsrc": null,
+        "name": "Fatal Magic Eye [1]",
+        "slot": "Knife",
+        "status": ""
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40905.png",
+        "name": "Fear Katar [2]",
+        "slot": "Katar",
+        "status": "Atk + 90"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40905.png",
+        "name": "Fear Katar [3]",
+        "slot": "Katar",
+        "status": "Atk + 90"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45041.png",
+        "name": "Feather Beret",
+        "slot": "Head",
+        "status": "Def ＋10, M.Def ＋5, Damage reduction of Demi-Human race ＋10%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45041.png",
+        "name": "Feather Beret [1]",
+        "slot": "Head",
+        "status": "Def ＋10, M.Def ＋5, Damage reduction of Demi-Human race ＋10%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45029.png",
+        "name": "Feather Bonnet",
+        "slot": "Head",
+        "status": "Def ＋8, Agi ＋1"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45029.png",
+        "name": "Feather Bonnet [1]",
+        "slot": "Head",
+        "status": "Def ＋8, Agi ＋1"
+    },
+    {
+        "imgsrc": null,
+        "name": "Feather Hairpin",
+        "slot": "Head",
+        "status": "Dmg Reduc. ＋3%, Def ＋5%, MAX HP＋2%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Feather Hairpin [1]",
+        "slot": "Head",
+        "status": "Dmg Reduc. ＋3%, Def ＋5%, MAX HP＋2%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Feather Mace [1]",
+        "slot": "Mace",
+        "status": "INT ＋2, The skill multiplier of Vanilmirth's [Caprice] ＋75%, For refining increases by ＋1, the skill multiplier of Vanilmirth's [Caprice] ＋35%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Feather Mace [2]",
+        "slot": "Mace",
+        "status": "INT ＋2, The skill multiplier of Vanilmirth's [Caprice] ＋75%, For refining increases by ＋1, the skill multiplier of Vanilmirth's [Caprice] ＋35%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_48506.png",
+        "name": "Fin Helm",
+        "slot": "Face",
+        "status": "Def ＋10"
+    },
+    {
+        "imgsrc": null,
+        "name": "Finger [1]",
+        "slot": "Knuckle",
+        "status": "INT ＋10, CT Variable -10%, For refining level ＋5, ＋10, ＋15, Max SP ＋6%, ＋9%, ＋12% respectively, For [Asura Strike], the damage multiplier of [Skill level x4 ＋ Remaining Sp/100] increases by 5"
+    },
+    {
+        "imgsrc": null,
+        "name": "Finger [2]",
+        "slot": "Knuckle",
+        "status": "INT ＋10, CT Variable -10%, For refining level ＋5, ＋10, ＋15, Max SP ＋6%, ＋9%, ＋12% respectively, For [Asura Strike], the damage multiplier of [Skill level x4 ＋ Remaining Sp/100] increases by 5"
+    },
+    {
+        "imgsrc": null,
+        "name": "Fire Axe [1]",
+        "slot": "Axe",
+        "status": "Fire, Str ＋5, Agi ＋5, Auto Attack has a 7% chance to deal multiple fire damage to the target and up to 3 nearby targets, For Refining ＋1, Fire Dmg ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Fire Axe [2]",
+        "slot": "Axe",
+        "status": "Fire, Str ＋5, Agi ＋5, Auto Attack has a 7% chance to deal multiple fire damage to the target and up to 3 nearby targets, For Refining ＋1, Fire Dmg ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Fire Hat",
+        "slot": "Head",
+        "status": "MPen. ＋2%, M.Atk ＋30, INT ＋2"
+    },
+    {
+        "imgsrc": null,
+        "name": "Fire Hat [1]",
+        "slot": "Head",
+        "status": "MPen. ＋2%, M.Atk ＋30, INT ＋2"
+    },
+    {
+        "imgsrc": null,
+        "name": "Fire Knife [1]",
+        "slot": "Knife",
+        "status": "Fire, Str ＋5, For Refining ＋1, Dmg ＋1%"
+    }
+]

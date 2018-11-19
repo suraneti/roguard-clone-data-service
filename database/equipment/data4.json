@@ -1,0 +1,122 @@
+[
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42503.png",
+        "name": "Alloy Shield",
+        "slot": "Shield",
+        "status": "Def + 66"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42503.png",
+        "name": "Alloy Shield [1]",
+        "slot": "Shield",
+        "status": "Def + 66"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40024.png",
+        "name": "Alloy Spear",
+        "slot": "Spear",
+        "status": "Atk + 157"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40024.png",
+        "name": "Alloy Spear [2]",
+        "slot": "Spear",
+        "status": "Atk + 157"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40332.png",
+        "name": "Alloy Sword",
+        "slot": "Sword",
+        "status": "Atk + 126"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40332.png",
+        "name": "Alloy Sword [2]",
+        "slot": "Sword",
+        "status": "Atk + 126"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/21.png",
+        "name": "Alpaca",
+        "slot": "Mount",
+        "status": "Move Spd ＋50%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/21.png",
+        "name": "Alpaca",
+        "slot": "Mount",
+        "status": "Move Spd ＋50%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_43007.png",
+        "name": "Ancient Cape",
+        "slot": "Robe",
+        "status": "Def + 31"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_43007.png",
+        "name": "Ancient Cape [1]",
+        "slot": "Robe",
+        "status": "Def + 31"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40703.png",
+        "name": "Ancient Dagger [2]",
+        "slot": "Knife",
+        "status": "Atk + 360"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40703.png",
+        "name": "Ancient Dagger [3]",
+        "slot": "Knife",
+        "status": "Atk + 360"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45152.png",
+        "name": "Ancient Gold Ornament",
+        "slot": "Head",
+        "status": "When equipped by swordsman/merchant/Rogue/archer, Atk ＋10%, When equipped by wizard/acolyte, M.Atk ＋10%, Healing Value ＋10%, When Refining reaches ＋10, Overall attribute ＋2"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45152.png",
+        "name": "Ancient Gold Ornament [1]",
+        "slot": "Head",
+        "status": "When equipped by swordsman/merchant/Rogue/archer, Atk ＋10%, When equipped by wizard/acolyte, M.Atk ＋10%, Healing Value ＋10%, When Refining reaches ＋10, Overall attribute ＋2"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40631.png",
+        "name": "Ancient Tree Staff",
+        "slot": "Staff",
+        "status": "M.Atk + 118"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40631.png",
+        "name": "Ancient Tree Staff [2]",
+        "slot": "Staff",
+        "status": "M.Atk + 118"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_48545.png",
+        "name": "Angel Spirit",
+        "slot": "Face",
+        "status": "Atk ＋4%, M.Atk ＋4%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45004.png",
+        "name": "Angel Wing",
+        "slot": "Head",
+        "status": "Agi ＋2, Luk ＋2, Damage from devil monsters -10%, When Refining reaches ＋10, M.Def ＋25"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45004.png",
+        "name": "Angel Wing [1]",
+        "slot": "Head",
+        "status": "Agi ＋2, Luk ＋2, Damage from devil monsters -10%, When Refining reaches ＋10, M.Def ＋25"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_43503.png",
+        "name": "Angel's Reincarnation [1]",
+        "slot": "Shoes",
+        "status": "Def + 90"
+    }
+]

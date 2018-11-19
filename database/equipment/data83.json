@@ -1,0 +1,122 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Monster Bemstar Backwear ",
+        "slot": "Wing",
+        "status": "M.Atk ＋30, INT ＋2, M.Atk ＋2%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Monster Golza Backpack",
+        "slot": "Wing",
+        "status": "Ignore MDef ＋5%, Ignore MDef ＋5% when reaching refining ＋6"
+    },
+    {
+        "imgsrc": null,
+        "name": "Monster Gomora Backwear",
+        "slot": "Wing",
+        "status": "Damage to Fire Monsters ＋10%, Fire damage taken -10%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Monster King Joe Backwear",
+        "slot": "Wing",
+        "status": "Atk ＋45, STR ＋2, Atk ＋2%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Moon Backwear",
+        "slot": "Wing",
+        "status": "Max HP ＋3000, Def ＋15%, MDef ＋5%, Crit Res ＋8,  Poison, Holy, Dark, Ghost, Neutral damage taken -10%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Moon God Backwear",
+        "slot": "Wing",
+        "status": "Max HP ＋4000, Def ＋15%, MDef ＋5%, Crit Res＋15,  Poison, Holy, Dark, Ghost, Neutral damage taken -15%, Fire, Water, Earth and Wind damage taken -5%, Gain passive skill [Lunar Mirror Shield]: 15% chance to become immune to ranged attacks for the next 2s after being hit by a ranged physical attack"
+    },
+    {
+        "imgsrc": null,
+        "name": "Moon Hat",
+        "slot": "Head",
+        "status": "Max HP ＋3000, Def ＋5%, MDef ＋15%, Crit Res＋8,  Fire, Water, Earth, Wind damage taken -10%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Moon Headwear",
+        "slot": "Head",
+        "status": "Holy Dmg ＋3%, Damage to dark monsters ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Moon Light",
+        "slot": "Head",
+        "status": "Dex ＋3, AGI ＋3"
+    },
+    {
+        "imgsrc": null,
+        "name": "Moon Light [1]",
+        "slot": "Head",
+        "status": "Max HP ＋300, Base EXP of killing monsters ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Moon Rabbit",
+        "slot": "Wing",
+        "status": "Def ＋15, When Refining reaches ＋10 and Strength reaches 90, Atk ＋20, When Refining reaches ＋10 and Agility reaches 90, Equipment ASPD ＋5%, When Refining reaches ＋10 and Vitality reaches 90, Neutral Dmg Taken -10%, When Refining reaches ＋10 and Intelligence reaches 90, M.Atk ＋20, When Refining reaches ＋10 and Dexterity reaches 90, Ranged Damage ＋5%, When Refining reaches ＋10 and Luck reaches 90, Crit.Dmg ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Moonlight - Blaze Axe",
+        "slot": "Axe",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Moonlight - Fallen Katar",
+        "slot": "Katar",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Moonlight - Fantasy Bow",
+        "slot": "Bow",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Moonlight - Galaxy Shield",
+        "slot": "Shield",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Moonlight - Hunting Wand",
+        "slot": "Staff",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Moonlight - Meteor Gloves",
+        "slot": "Knuckle",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Moonlight - Radiance Dagger",
+        "slot": "Knife",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Moonlight - Shadow Hammer",
+        "slot": "Mace",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Moonlight - Silver Sword",
+        "slot": "Sword",
+        "status": ""
+    }
+]

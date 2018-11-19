@@ -1,0 +1,122 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Statue of Archangel [1]",
+        "slot": "Eikon",
+        "status": "M.Def ＋25, Max HP ＋300, When equipped by Acolyte or Wizards, it brings 1 point of M.Atk for every 10 points of M.Def., [Silver Robe] ＋ [Statue of Archangel IV]: M.Atk ＋12%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_60502.png",
+        "name": "Statue of Baby Angel [1]",
+        "slot": "Eikon",
+        "status": "Def + 45"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_60502.png",
+        "name": "Statue of Baby Angel [2]",
+        "slot": "Eikon",
+        "status": "Def + 45"
+    },
+    {
+        "imgsrc": null,
+        "name": "Statue of Enyo [1]",
+        "slot": "Eikon",
+        "status": "Def + 112"
+    },
+    {
+        "imgsrc": null,
+        "name": "Statue of Enyo [2]",
+        "slot": "Eikon",
+        "status": "Def + 112"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_60503.png",
+        "name": "Statue of Guardian Angel",
+        "slot": "Eikon",
+        "status": "M.Def ＋15, Max HP ＋100"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_60503.png",
+        "name": "Statue of Guardian Angel [1]",
+        "slot": "Eikon",
+        "status": "M.Def ＋15, Max HP ＋100"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_60505.png",
+        "name": "Statue of Judgement",
+        "slot": "Eikon",
+        "status": "Def ＋5, SP Regen ＋5%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_60505.png",
+        "name": "Statue of Judgement [1]",
+        "slot": "Eikon",
+        "status": "Def ＋5, SP Regen ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Statue of Moirai [1]",
+        "slot": "Eikon",
+        "status": "Def + 112"
+    },
+    {
+        "imgsrc": null,
+        "name": "Statue of Moirai [2]",
+        "slot": "Eikon",
+        "status": "Def + 112"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_60504.png",
+        "name": "Statue of Mother Mary [1]",
+        "slot": "Eikon",
+        "status": "Def ＋30, SP Regen ＋5%, SP Regen ＋5"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_60504.png",
+        "name": "Statue of Mother Mary [2]",
+        "slot": "Eikon",
+        "status": "Def ＋30, SP Regen ＋5%, SP Regen ＋5"
+    },
+    {
+        "imgsrc": null,
+        "name": "Statue of Nike [1]",
+        "slot": "Eikon",
+        "status": "Def + 112"
+    },
+    {
+        "imgsrc": null,
+        "name": "Statue of Nike [2]",
+        "slot": "Eikon",
+        "status": "Def + 112"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_60501.png",
+        "name": "Statue of Odin [1]",
+        "slot": "Eikon",
+        "status": "Def + 112"
+    },
+    {
+        "imgsrc": null,
+        "name": "Statue of Odin [2]",
+        "slot": "Eikon",
+        "status": "Def + 112"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_60501.png",
+        "name": "Statue of Saint Deer [1]",
+        "slot": "Eikon",
+        "status": "Def + 30"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_60501.png",
+        "name": "Statue of Saint Deer [2]",
+        "slot": "Eikon",
+        "status": "Def + 30"
+    },
+    {
+        "imgsrc": null,
+        "name": "Statue of Tyche [1]",
+        "slot": "Eikon",
+        "status": "Def + 112"
+    }
+]

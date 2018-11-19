@@ -1,0 +1,122 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Shadow Bracer [2]",
+        "slot": "Bracer",
+        "status": "Def + 112"
+    },
+    {
+        "imgsrc": null,
+        "name": "Shadow Guar [1]",
+        "slot": "Shield",
+        "status": "Def + 33"
+    },
+    {
+        "imgsrc": null,
+        "name": "Shadow Guar [2]",
+        "slot": "Shield",
+        "status": "Def + 33"
+    },
+    {
+        "imgsrc": null,
+        "name": "Shadow Sand",
+        "slot": "Staff",
+        "status": ""
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_43503.png",
+        "name": "Shadow Walk [1]",
+        "slot": "Shoes",
+        "status": "Def + 67"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_43503.png",
+        "name": "Shadow Walk [2]",
+        "slot": "Shoes",
+        "status": "Def + 67"
+    },
+    {
+        "imgsrc": null,
+        "name": "Shaking Deviruchi",
+        "slot": "Wing",
+        "status": "Max HP ＋100, Ignore Def ＋3%, Ignore M.Def ＋3%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Shape Shifter [1]",
+        "slot": "Trolley",
+        "status": "Def + 112"
+    },
+    {
+        "imgsrc": null,
+        "name": "Shape Shifter [2]",
+        "slot": "Trolley",
+        "status": "Def + 112"
+    },
+    {
+        "imgsrc": null,
+        "name": "Shattering snow·Blue Guardian",
+        "slot": "Shield",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Shattering snow·Crimson Freeze",
+        "slot": "Knife",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Shattering snow·Everending Snow",
+        "slot": "Katar",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Shattering snow·Freezing Breath",
+        "slot": "Spear",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Shattering snow·Frost prison",
+        "slot": "Mace",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Shattering snow·Icy phantom",
+        "slot": "Staff",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Shattering snow·Piercing Ice",
+        "slot": "Bow",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Shattering snow·Roar of the lion king",
+        "slot": "Knuckle",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Shattering snow·White king's ice blade",
+        "slot": "Sword",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Shattering snow·Winter lord",
+        "slot": "Axe",
+        "status": ""
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45141.png",
+        "name": "Sheila Hairnet",
+        "slot": "Head",
+        "status": "Agi ＋2, M.Def ＋10"
+    }
+]

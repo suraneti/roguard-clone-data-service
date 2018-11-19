@@ -1,0 +1,122 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Noble Bracer [1]",
+        "slot": "Bracer",
+        "status": "Equipment ASPD ＋10%, When the Swordsmen/Merchants equip it, every 1% of the equipment ASPD will provide 1 Atk., [Holy Avenger] ＋[Noble Bracer]: trigger probability of Fallen Star ＋12%, [Loki's Nail V] ＋[Noble Bracer]: Every 2% Equipment ASPD will provide 1 Atk"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41507.png",
+        "name": "Noble Cross [1]",
+        "slot": "Mace",
+        "status": "Agi ＋3, Equipment ASPD ＋10%, Dmg to undead monsters ＋20%, Dmg to dark monsters ＋20%, Norma; attack has a 5% chance to cause Atk ＋50; the effect lasts 10 seconds, When refining reaches 10, Atk ＋50"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41507.png",
+        "name": "Noble Cross [2]",
+        "slot": "Mace",
+        "status": "Agi ＋3, Equipment ASPD ＋10%, Dmg to undead monsters ＋20%, Dmg to dark monsters ＋20%, Norma; attack has a 5% chance to cause Atk ＋50; the effect lasts 10 seconds, When refining reaches 10, Atk ＋50"
+    },
+    {
+        "imgsrc": null,
+        "name": "Noisy Tao Gunka",
+        "slot": "Tail",
+        "status": "M.Atk ＋30, M.Atk ＋3%, M.Atk ＋20, M.Atk ＋1% when INT reaches 200"
+    },
+    {
+        "imgsrc": null,
+        "name": "North Kingdom Block legend",
+        "slot": "Mouth",
+        "status": "STR ＋2, Ignore Def ＋2%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Nose Ring",
+        "slot": "Face",
+        "status": "No effect"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45042.png",
+        "name": "Novice Eggshell",
+        "slot": "Head",
+        "status": "Def ＋5"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45001.png",
+        "name": "Novice Poring Hat",
+        "slot": "Head",
+        "status": "Def ＋5"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_44025.png",
+        "name": "Novice Ring",
+        "slot": "Accessory",
+        "status": "MaxHp + 100"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_44025.png",
+        "name": "Novice Ring [1]",
+        "slot": "Accessory",
+        "status": "MaxHp + 100"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45010.png",
+        "name": "Novice Romance",
+        "slot": "Head",
+        "status": "Def ＋5"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45047.png",
+        "name": "Nurse Cap",
+        "slot": "Head",
+        "status": "Def ＋5, INT ＋2"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45047.png",
+        "name": "Nurse Cap [1]",
+        "slot": "Head",
+        "status": "Def ＋5, INT ＋2"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_48551.png",
+        "name": "Nut on Head",
+        "slot": "Face",
+        "status": "Hit ＋5, Ignore Def ＋5%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45177.png",
+        "name": "Nut Shell",
+        "slot": "Head",
+        "status": "Def ＋15"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45177.png",
+        "name": "Nut Shell [1]",
+        "slot": "Head",
+        "status": "Def ＋15"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45134.png",
+        "name": "Observer",
+        "slot": "Face",
+        "status": "Max HP ＋400"
+    },
+    {
+        "imgsrc": null,
+        "name": "Obsidian Cape",
+        "slot": "Robe",
+        "status": "M.Def ＋40, When being attacked by auto attacks or skills, has a 50% chance to gain a 50% Magic Reduc., but Def will be reduced by 50%, lasting for 10 seconds"
+    },
+    {
+        "imgsrc": null,
+        "name": "Obsidian Cape [1]",
+        "slot": "Robe",
+        "status": "M.Def ＋40, When being attacked by auto attacks or skills, has a 50% chance to gain a 50% Magic Reduc., but Def will be reduced by 50%, lasting for 10 seconds"
+    },
+    {
+        "imgsrc": null,
+        "name": "OK Bound",
+        "slot": "Mouth",
+        "status": "auto attack has a chance to proportionally convert the damage into HP"
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Spirit Spear",
+        "slot": "Spear",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Splendida",
+        "slot": "Mount",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Splendida helm",
+        "slot": "Head",
+        "status": "Max HP ＋200, Def ＋5, M.Def ＋5"
+    },
+    {
+        "imgsrc": null,
+        "name": "Spore Hat",
+        "slot": "Head",
+        "status": "No effect"
+    },
+    {
+        "imgsrc": null,
+        "name": "Spore Hat [1]",
+        "slot": "Head",
+        "status": "Def ＋20, Poison Dmg Taken -25%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Spring",
+        "slot": "Wing",
+        "status": "Max HP ＋500, INT ＋5"
+    },
+    {
+        "imgsrc": null,
+        "name": "Spring Festival Clothing Series",
+        "slot": "Armour",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Spring Festival Event Set - Female",
+        "slot": "Armour",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Spring Festival Event Set - Male",
+        "slot": "Armour",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Spring Festival Headwear - Female 1",
+        "slot": "Head",
+        "status": "All Attributes ＋1, Dmg to Demi-Human ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Spring Festival Headwear - Female 2",
+        "slot": "Head",
+        "status": "All Attributes ＋1, Dmg to Demi-Human ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Spring Festival Headwear - Female 3",
+        "slot": "Head",
+        "status": "All Attributes ＋1, Dmg to Demi-Human ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Spring Festival Headwear - Female 4",
+        "slot": "Head",
+        "status": "All Attributes ＋1, Dmg to Demi-Human ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Spring [1]",
+        "slot": "Wing",
+        "status": "Max HP ＋500, INT ＋5"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_43529.png",
+        "name": "Sprint Shoes",
+        "slot": "Shoes",
+        "status": "Move Spd ＋10%, Can use [Charge] Lv.1"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_43529.png",
+        "name": "Sprint Shoes [1]",
+        "slot": "Shoes",
+        "status": "Move Spd ＋10%, Can use [Charge] Lv.1"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40603.png",
+        "name": "Staff",
+        "slot": "Staff",
+        "status": "M.Atk + 43"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40601.png",
+        "name": "Staff Of Bordeaux [2]",
+        "slot": "Staff",
+        "status": "M.Atk + 180"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40601.png",
+        "name": "Staff Of Bordeaux [3]",
+        "slot": "Staff",
+        "status": "M.Atk + 180"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40601.png",
+        "name": "Staff of Destruction [2]",
+        "slot": "Staff",
+        "status": "M.Atk + 180"
+    }
+]

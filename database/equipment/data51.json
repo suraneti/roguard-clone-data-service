@@ -1,0 +1,122 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Goblin - Sad",
+        "slot": "Face",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Goblin - Smile",
+        "slot": "Face",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Goblin - Smirk",
+        "slot": "Face",
+        "status": ""
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40703.png",
+        "name": "Goblin 2 Weapon",
+        "slot": "Sword",
+        "status": ""
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40703.png",
+        "name": "Goblin 3 Weapon",
+        "slot": "Sword",
+        "status": ""
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40703.png",
+        "name": "Goblin 4 Weapon",
+        "slot": "Sword",
+        "status": ""
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40703.png",
+        "name": "Goblin 5 Weapon",
+        "slot": "Sword",
+        "status": ""
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40703.png",
+        "name": "Goblin 7 Weapon",
+        "slot": "Sword",
+        "status": ""
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40703.png",
+        "name": "Goblin Archer Weapon",
+        "slot": "Sword",
+        "status": ""
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_48517.png",
+        "name": "Goblin Leader Mask",
+        "slot": "Face",
+        "status": "Def -30, Damage reduction of Human race ＋30%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_48509.png",
+        "name": "Goblin Mask",
+        "slot": "Face",
+        "status": "Def ＋5, Damage reduction of Human race ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Goblin Pilot",
+        "slot": "Head",
+        "status": "Dex ＋1, Luk ＋1, Max SP ＋100"
+    },
+    {
+        "imgsrc": null,
+        "name": "God Hand [1]",
+        "slot": "Head",
+        "status": "Max HP ＋400, Dmg to Demi-Human race ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Gods' Gaze",
+        "slot": "Staff",
+        "status": "INT ＋20, Dex ＋10, All Attributes ＋8, AOE Dmg ＋15%, CT Variable -5%, M.Atk ＋30%, Demi-Human Race Damage ＋30%, Max HP ＋13500"
+    },
+    {
+        "imgsrc": null,
+        "name": "Gods' Gaze 2 [2]",
+        "slot": "Staff",
+        "status": "INT ＋20, Dex ＋10, All Attributes ＋14, AOE Dmg ＋15%, CT Variable -5%, M.Atk ＋40%, Demi-Human Race Damage ＋40%, Max HP ＋20000, Dmg Reduc. ＋5%, Magic Reduc. ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Gods' Gaze 3 [2]",
+        "slot": "Staff",
+        "status": "INT ＋20, Dex ＋10, All Attributes ＋20, AOE Dmg ＋15%, CT Variable -5%, M.Atk ＋50%, Demi-Human Race Damage ＋50%, Max HP ＋26500, Dmg Reduc. ＋10%, Magic Reduc. ＋10%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Gods' Gaze Reforged",
+        "slot": "Staff",
+        "status": "INT ＋20, Dex ＋10, All Attributes ＋14, AOE Dmg ＋15%, CT Variable -5%, M.Atk ＋40%, Demi-Human Race Damage ＋40%, Max HP ＋20000, Dmg Reduc. ＋5%, Magic Reduc. ＋5%, The gods grant wisdom and love to all living things, Enabling all allies in a 8- meter range receive an effect of [Gods' Bless]. [Gods' Bless]: all Casts cannot be interrupted, All skills' variable Casts shorten by 100%, All skills' fixed Casts shorten by 50% for 5 seconds, CD: 120 seconds"
+    },
+    {
+        "imgsrc": null,
+        "name": "Gods' Gaze Sky Forged",
+        "slot": "Staff",
+        "status": "INT ＋20, Dex ＋10, All Attributes ＋20, AOE Dmg ＋15%, CT Variable -5%, M.Atk ＋50%, Demi-Human Race Damage ＋50%, Max HP ＋26500, Dmg Reduc. ＋10%, Magic Reduc. ＋10%, The gods grant wisdom and love to all living things, Enabling all allies in a 8- meter range receive an effect of [Gods' Bless]. [Gods' Bless]: all Casts cannot be interrupted, All skills' variable Casts shorten by 100%, All skills' fixed Casts shorten by 100% for 8 seconds, CD: 90 seconds"
+    },
+    {
+        "imgsrc": null,
+        "name": "Gods' Gaze [2]",
+        "slot": "Staff",
+        "status": "INT ＋20, Dex ＋10, All Attributes ＋8, AOE Dmg ＋15%, CT Variable -5%, M.Atk ＋30%, Demi-Human Race Damage ＋30%, Max HP ＋13500"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42020.png",
+        "name": "Goibne's Armor",
+        "slot": "Armour",
+        "status": "VIT ＋5, Max HP ＋10%"
+    }
+]
