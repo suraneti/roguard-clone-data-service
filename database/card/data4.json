@@ -1,0 +1,162 @@
+[
+    {
+        "imgsrc": "//www.roguard.net/content/img/cards/card_10043.jpg",
+        "name": "Drainliar Card",
+        "effect": "Dmg to Water monsters ＋20%",
+        "perma_buff": "M.Atk ＋6",
+        "card_slot": "unknown",
+        "card_type": "unknown"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/cards/card_30004.jpg",
+        "name": "Drake Card",
+        "effect": "Deal 100% damage to small-/middle-/L-size monsters",
+        "perma_buff": "Dmg ＋1%",
+        "card_slot": "Weapon",
+        "card_type": "MVP"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/cards/card_10097.jpg",
+        "name": "Drops Card",
+        "effect": "Dex ＋1, Hit ＋5",
+        "perma_buff": "",
+        "card_slot": "unknown",
+        "card_type": "unknown"
+    },
+    {
+        "imgsrc": null,
+        "name": "Dustiness Card",
+        "effect": "Wind Dmg Taken -15%, Flee ＋5",
+        "perma_buff": "Max HP ＋28",
+        "card_slot": "Garment",
+        "card_type": "Normal"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/cards/card_20002.jpg",
+        "name": "Eclipse Card",
+        "effect": "VIT ＋4, Flee ＋5",
+        "perma_buff": "Max HP ＋84",
+        "card_slot": "Garment",
+        "card_type": "Mini Boss"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/cards/card_30011.jpg",
+        "name": "Eddga Card",
+        "effect": "Max HP -20%, , In unlimited [Endure] state",
+        "perma_buff": "Max HP ＋5%",
+        "card_slot": "Footgear",
+        "card_type": "MVP"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/cards/card_10059.jpg",
+        "name": "Eggyra Card",
+        "effect": "INT ＋2, SP Regen ＋5",
+        "perma_buff": "Max HP ＋28",
+        "card_slot": "unknown",
+        "card_type": "unknown"
+    },
+    {
+        "imgsrc": null,
+        "name": "Elder Card",
+        "effect": "Damage to PVP players ＋3%",
+        "perma_buff": "Damage to players in PVP mode ＋1%",
+        "card_slot": "unknown",
+        "card_type": "unknown"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/cards/card_10054.jpg",
+        "name": "Elder Willow Card",
+        "effect": "INT ＋3",
+        "perma_buff": "M.Def ＋2",
+        "card_slot": "unknown",
+        "card_type": "unknown"
+    },
+    {
+        "imgsrc": null,
+        "name": "Elder Willow ★Card",
+        "effect": "INT ＋4, M.Atk ＋10",
+        "perma_buff": "M.Def ＋4",
+        "card_slot": "unknown",
+        "card_type": "unknown"
+    },
+    {
+        "imgsrc": null,
+        "name": "Enchant Deadly Poison Card",
+        "effect": "[Poisonous Weapon]’s [New Poison] cost -1",
+        "perma_buff": "MDef ＋4.5",
+        "card_slot": "unknown",
+        "card_type": "unknown"
+    },
+    {
+        "imgsrc": null,
+        "name": "Evil Druid Card",
+        "effect": "Turn the armor's element into Undead, INT ＋4",
+        "perma_buff": "Def ＋4",
+        "card_slot": "unknown",
+        "card_type": "unknown"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/cards/card_10003.jpg",
+        "name": "Fabre Card",
+        "effect": "VIT ＋1, Max HP ＋50",
+        "perma_buff": "Max HP ＋24",
+        "card_slot": "unknown",
+        "card_type": "unknown"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/cards/card_10007.jpg",
+        "name": "Familiar Card",
+        "effect": "INT ＋1, M.Atk ＋5",
+        "perma_buff": "Atk ＋3",
+        "card_slot": "unknown",
+        "card_type": "unknown"
+    },
+    {
+        "imgsrc": null,
+        "name": "Familiar★Card",
+        "effect": "M.Atk＋3%, M.Atk ＋20",
+        "perma_buff": "MDef ＋6",
+        "card_slot": "unknown",
+        "card_type": "unknown"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/cards/card_10008.jpg",
+        "name": "Female Thief Bug Card",
+        "effect": "Agi ＋1, Hit ＋5",
+        "perma_buff": "Atk ＋6",
+        "card_slot": "unknown",
+        "card_type": "unknown"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/cards/card_10079.jpg",
+        "name": "Ferus Card",
+        "effect": "VIT ＋2, Max HP ＋10%",
+        "perma_buff": "Max HP ＋24",
+        "card_slot": "unknown",
+        "card_type": "unknown"
+    },
+    {
+        "imgsrc": null,
+        "name": "Fiery Deviruchi Card",
+        "effect": "VIT ＋3, Immune to buring status",
+        "perma_buff": "M.Atk ＋8",
+        "card_slot": "unknown",
+        "card_type": "unknown"
+    },
+    {
+        "imgsrc": null,
+        "name": "Fiery Mane Card",
+        "effect": "Move Spd ＋3%, Agi ＋2",
+        "perma_buff": "M.Atk ＋4.5",
+        "card_slot": "unknown",
+        "card_type": "unknown"
+    },
+    {
+        "imgsrc": null,
+        "name": "Fire Elf Card",
+        "effect": "Fire Dmg Taken -15%, [Dragon Breath] damage ＋10%",
+        "perma_buff": "Def ＋4.5",
+        "card_slot": "unknown",
+        "card_type": "unknown"
+    }
+]

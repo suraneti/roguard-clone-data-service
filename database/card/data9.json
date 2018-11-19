@@ -1,0 +1,162 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Monster Card",
+        "effect": "＋2% Damage against Demi-Human, -10% damage taken from Plants and Brutes",
+        "perma_buff": "MDef ＋4.5",
+        "card_slot": "unknown",
+        "card_type": "unknown"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/cards/card_30013.jpg",
+        "name": "Moonlight Flower Card",
+        "effect": "Permanently increase 25% moving speed",
+        "perma_buff": "Def ＋6",
+        "card_slot": "unknown",
+        "card_type": "unknown"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/cards/card_10046.jpg",
+        "name": "Muka Card",
+        "effect": "Natural Recovery of HP ＋10",
+        "perma_buff": "Max HP ＋24",
+        "card_slot": "unknown",
+        "card_type": "unknown"
+    },
+    {
+        "imgsrc": null,
+        "name": "Muka★Card",
+        "effect": "Magic Reduc. ＋8%, Max SP ＋200",
+        "perma_buff": "Max HP ＋60",
+        "card_slot": "unknown",
+        "card_type": "unknown"
+    },
+    {
+        "imgsrc": null,
+        "name": "Multiplication Card",
+        "effect": "[Sphere Parasitism] Marine Sphere Bottle cost =1",
+        "perma_buff": "Max HP ＋60",
+        "card_slot": "unknown",
+        "card_type": "unknown"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/cards/card_10052.jpg",
+        "name": "Mummy Card",
+        "effect": "Hit ＋10",
+        "perma_buff": "M.Atk ＋6",
+        "card_slot": "unknown",
+        "card_type": "unknown"
+    },
+    {
+        "imgsrc": null,
+        "name": "Mummy ★Card",
+        "effect": "Hit ＋25, Flee ＋2",
+        "perma_buff": "Max HP ＋30",
+        "card_slot": "unknown",
+        "card_type": "unknown"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/cards/card_10060.jpg",
+        "name": "Munak Card",
+        "effect": "Earth Dmg Taken -10%, Def ＋10",
+        "perma_buff": "M.Atk ＋3",
+        "card_slot": "unknown",
+        "card_type": "unknown"
+    },
+    {
+        "imgsrc": null,
+        "name": "Munak ★Card",
+        "effect": "Ignore 15% Def, Ignore 15% MDef",
+        "perma_buff": "Max HP ＋112",
+        "card_slot": "unknown",
+        "card_type": "unknown"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/cards/card_20012.jpg",
+        "name": "Mutant Dragonoid Card",
+        "effect": "Atk ＋15, , auto attack has a 3% chance to trigger [Fire Ball] Lv.5",
+        "perma_buff": "Max HP ＋84",
+        "card_slot": "unknown",
+        "card_type": "unknown"
+    },
+    {
+        "imgsrc": null,
+        "name": "Myst Card",
+        "effect": "Poison Dmg Taken -15%, Flee ＋5",
+        "perma_buff": "Max HP ＋28",
+        "card_slot": "unknown",
+        "card_type": "unknown"
+    },
+    {
+        "imgsrc": null,
+        "name": "Myst Case Card",
+        "effect": "Each attack to monsters restores 10 points of SP, this effect is triggered every 5 seconds at most.",
+        "perma_buff": "Max HP ＋40",
+        "card_slot": "unknown",
+        "card_type": "unknown"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/cards/card_20014.jpg",
+        "name": "Mysteltainn Card",
+        "effect": "Damage from S-size monsters -30%, Def ＋10",
+        "perma_buff": "Damage from S-size monsters－1%",
+        "card_slot": "Footgear",
+        "card_type": "Mini Boss"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/cards/card_10071.jpg",
+        "name": "Nightmare Card",
+        "effect": "Avoid sleeping effect, , Agi ＋1",
+        "perma_buff": "Max HP ＋24",
+        "card_slot": "unknown",
+        "card_type": "unknown"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/cards/card_10067.jpg",
+        "name": "Nine Tail Card",
+        "effect": "Agi ＋2, Flee ＋5",
+        "perma_buff": "Flee ＋10",
+        "card_slot": "unknown",
+        "card_type": "unknown"
+    },
+    {
+        "imgsrc": null,
+        "name": "Nine Tail ★Card",
+        "effect": "Dex ＋2, Flee ＋5",
+        "perma_buff": "Max HP ＋30",
+        "card_slot": "unknown",
+        "card_type": "unknown"
+    },
+    {
+        "imgsrc": null,
+        "name": "Novice Card",
+        "effect": "Max HP ＋50, Max SP ＋10",
+        "perma_buff": "Max HP ＋48",
+        "card_slot": "unknown",
+        "card_type": "unknown"
+    },
+    {
+        "imgsrc": null,
+        "name": "Novice's Love Card",
+        "effect": "All Attributes ＋1",
+        "perma_buff": "Max HP ＋48",
+        "card_slot": "unknown",
+        "card_type": "unknown"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/cards/card_10026.jpg",
+        "name": "Obeaune Card",
+        "effect": "Can use Skill - [Clearance]Lv.1",
+        "perma_buff": "Max HP ＋64",
+        "card_slot": "unknown",
+        "card_type": "unknown"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/cards/card_10069.jpg",
+        "name": "Orc Archer Card",
+        "effect": "When Demi-Human-like monsters are skilled, Caster has a 10% chance to restore 20 points of SP",
+        "perma_buff": "Flee ＋10",
+        "card_slot": "unknown",
+        "card_type": "unknown"
+    }
+]

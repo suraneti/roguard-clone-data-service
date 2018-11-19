@@ -1,0 +1,26 @@
+[
+    {
+        "imgsrc": null,
+        "name": "颚枭男爵★卡片",
+        "effect": "普攻时有20%概率自动施放【天使之怒】Lv.1技能，使敌方单体下次受到的伤害增加100%, 【鹗枭男爵亡者卡片】和【鹗枭男爵★卡片】一起装备时，释放概率提升至45%",
+        "perma_buff": "Atk ＋12",
+        "card_slot": "unknown",
+        "card_type": "unknown"
+    },
+    {
+        "imgsrc": null,
+        "name": "颚枭男爵亡者卡片",
+        "effect": "技能攻击目标时，有20%概率自动施放【天使之怒】Lv.1技能，使敌方单体下次受到的伤害增加100%, , 【鹗枭男爵亡者卡片】和【鹗枭男爵★卡片】一起装备时，释放概率提升至45%",
+        "perma_buff": "Atk ＋12",
+        "card_slot": "unknown",
+        "card_type": "unknown"
+    },
+    {
+        "imgsrc": null,
+        "name": "鬼娃树卡片",
+        "effect": "生命上限＋200, 魔法防御＋10%",
+        "perma_buff": "Atk ＋8",
+        "card_slot": "Headgear",
+        "card_type": "Normal"
+    }
+]

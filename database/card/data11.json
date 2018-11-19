@@ -1,0 +1,162 @@
+[
+    {
+        "imgsrc": "//www.roguard.net/content/img/cards/card_10098.jpg",
+        "name": "Poporing Card",
+        "effect": "Can use skill - [Detoxify] Lv.1",
+        "perma_buff": "",
+        "card_slot": "unknown",
+        "card_type": "unknown"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/cards/card_10001.jpg",
+        "name": "Poring Card",
+        "effect": "Luk ＋1, Flee ＋1",
+        "perma_buff": "Def ＋2",
+        "card_slot": "Armor",
+        "card_type": "Normal"
+    },
+    {
+        "imgsrc": null,
+        "name": "Punk Card",
+        "effect": "Max HP ＋200, Max SP ＋50",
+        "perma_buff": "Max HP ＋6, Max SP ＋1",
+        "card_slot": "unknown",
+        "card_type": "unknown"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/cards/card_40009.jpg",
+        "name": "Pupa Card",
+        "effect": "Max HP ＋200",
+        "perma_buff": "Max HP ＋24",
+        "card_slot": "unknown",
+        "card_type": "unknown"
+    },
+    {
+        "imgsrc": null,
+        "name": "Pupa★Card",
+        "effect": "Def ＋15, Def ＋5%",
+        "perma_buff": "Max HP ＋60",
+        "card_slot": "unknown",
+        "card_type": "unknown"
+    },
+    {
+        "imgsrc": null,
+        "name": "Rafflesia Card",
+        "effect": "Damage to insect race ＋25%",
+        "perma_buff": "Damage to insect race ＋1%",
+        "card_slot": "unknown",
+        "card_type": "unknown"
+    },
+    {
+        "imgsrc": null,
+        "name": "Rain of Arrow Card",
+        "effect": "Weapon with this card equipped deals ＋2% damage with [Arrow Shower] and [Multi Firing] for each refining level",
+        "perma_buff": "M.Atk ＋8",
+        "card_slot": "unknown",
+        "card_type": "unknown"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/cards/card_60002.jpg",
+        "name": "Randgris Card",
+        "effect": "Refine Atk ＋50",
+        "perma_buff": "Refine Atk ＋5",
+        "card_slot": "unknown",
+        "card_type": "unknown"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/cards/card_10089.jpg",
+        "name": "Raydric Archer Card",
+        "effect": "When insect monsters are skilled, Caster has a 10% chance to increase Refine Atk for a certain period; the effect can stack up 3 times.",
+        "perma_buff": "Refine Atk ＋1",
+        "card_slot": "unknown",
+        "card_type": "unknown"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/cards/card_10090.jpg",
+        "name": "Raydric Card",
+        "effect": "Neutral Dmg Taken -10%",
+        "perma_buff": "Neutral Dmg Taken -1%",
+        "card_slot": "unknown",
+        "card_type": "unknown"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/cards/card_10093.jpg",
+        "name": "Rideword Card",
+        "effect": "INT ＋5, M.Def ＋20",
+        "perma_buff": "M.Atk ＋1.5",
+        "card_slot": "unknown",
+        "card_type": "unknown"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/cards/card_10012.jpg",
+        "name": "Rocker Card",
+        "effect": "Dex ＋1, Atk ＋5",
+        "perma_buff": "Atk ＋3",
+        "card_slot": "unknown",
+        "card_type": "unknown"
+    },
+    {
+        "imgsrc": null,
+        "name": "Rocker ★Card",
+        "effect": "Dex ＋2, Atk ＋20",
+        "perma_buff": "Max HP ＋60",
+        "card_slot": "unknown",
+        "card_type": "unknown"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/cards/card_10018.jpg",
+        "name": "Roda Frog Card",
+        "effect": "Max HP ＋150, Max SP ＋50",
+        "perma_buff": "Max HP ＋24",
+        "card_slot": "unknown",
+        "card_type": "unknown"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/cards/card_20006.jpg",
+        "name": "Rotar Zairo Card",
+        "effect": "Critical ＋7, Crit.Dmg ＋10%",
+        "perma_buff": "Critical ＋2",
+        "card_slot": "unknown",
+        "card_type": "unknown"
+    },
+    {
+        "imgsrc": null,
+        "name": "Royal Limited Card",
+        "effect": "Max HP ＋100, Max SP ＋100, Atk ＋5, M.Atk ＋5",
+        "perma_buff": "Max HP ＋48",
+        "card_slot": "unknown",
+        "card_type": "unknown"
+    },
+    {
+        "imgsrc": null,
+        "name": "Sage's Book",
+        "effect": "当佩戴者是贤者系职业时，每20点敏捷增加自身1%忽视魔法防御，1%装备攻速",
+        "perma_buff": "Max HP ＋112",
+        "card_slot": "unknown",
+        "card_type": "unknown"
+    },
+    {
+        "imgsrc": null,
+        "name": "Sandman Card",
+        "effect": "Turn the armor's element into Earth",
+        "perma_buff": "Max HP ＋28",
+        "card_slot": "unknown",
+        "card_type": "unknown"
+    },
+    {
+        "imgsrc": null,
+        "name": "Santa Poring Card",
+        "effect": "Damage to dark monsters ＋15%",
+        "perma_buff": "Max HP ＋28",
+        "card_slot": "unknown",
+        "card_type": "unknown"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/cards/card_10057.jpg",
+        "name": "Savage Card",
+        "effect": "VIT ＋3",
+        "perma_buff": "Def ＋4",
+        "card_slot": "unknown",
+        "card_type": "unknown"
+    }
+]
