@@ -1,0 +1,202 @@
+[
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/horong.png",
+        "name": "Horong",
+        "element": "Fire",
+        "race": "Formless",
+        "level": "Lv 62",
+        "hp": "24,165 Hp",
+        "base_exp": "423 Base Exp",
+        "job_exp": "258 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/no_icon.png",
+        "name": "Dustiness",
+        "element": "Wind",
+        "race": "Insect",
+        "level": "Lv 62",
+        "hp": "12,479 Hp",
+        "base_exp": "826 Base Exp",
+        "job_exp": "530 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/horong.png",
+        "name": "Horong ★",
+        "element": "Fire",
+        "race": "Formless",
+        "level": "Lv 62",
+        "hp": "102,306 Hp",
+        "base_exp": "2,115 Base Exp",
+        "job_exp": "1,290 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/munak.png",
+        "name": "Munak",
+        "element": "Undead",
+        "race": "Undead",
+        "level": "Lv 63",
+        "hp": "25,672 Hp",
+        "base_exp": "462 Base Exp",
+        "job_exp": "244 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/minorous.png",
+        "name": "Minorous",
+        "element": "Fire",
+        "race": "Brute",
+        "level": "Lv 64",
+        "hp": "27,181 Hp",
+        "base_exp": "507 Base Exp",
+        "job_exp": "226 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/wilow_huge1.png",
+        "name": "Wood Goblin",
+        "element": "Earth",
+        "race": "Plant",
+        "level": "Lv 65",
+        "hp": "1,496,175 Hp",
+        "base_exp": "3,524 Base Exp",
+        "job_exp": "2,486 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/phreeoni.png",
+        "name": "Phreeoni",
+        "element": "Neutral",
+        "race": "Brute",
+        "level": "Lv 65",
+        "hp": "4,376,437 Hp",
+        "base_exp": "20,755 Base Exp",
+        "job_exp": "10,608 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/bon_cun.png",
+        "name": "Bongun",
+        "element": "Undead",
+        "race": "Undead",
+        "level": "Lv 65",
+        "hp": "28,688 Hp",
+        "base_exp": "459 Base Exp",
+        "job_exp": "262 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/no_icon.png",
+        "name": "Mantis",
+        "element": "Earth",
+        "race": "Insect",
+        "level": "Lv 65",
+        "hp": "26,232 Hp",
+        "base_exp": "872 Base Exp",
+        "job_exp": "550 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/skeleton.png",
+        "name": "Archer Skeleton",
+        "element": "Undead",
+        "race": "Undead",
+        "level": "Lv 66",
+        "hp": "30,196 Hp",
+        "base_exp": "461 Base Exp",
+        "job_exp": "269 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/sohee.png",
+        "name": "Sohee ★",
+        "element": "Water",
+        "race": "Demon",
+        "level": "Lv 67",
+        "hp": "131,286 Hp",
+        "base_exp": "2,280 Base Exp",
+        "job_exp": "1,400 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/sohee.png",
+        "name": "Sohee",
+        "element": "Water",
+        "race": "Demon",
+        "level": "Lv 67",
+        "hp": "31,703 Hp",
+        "base_exp": "456 Base Exp",
+        "job_exp": "280 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/marduk.png",
+        "name": "Marduk",
+        "element": "Fire",
+        "race": "Demi-Human",
+        "level": "Lv 68",
+        "hp": "40,512 Hp",
+        "base_exp": "465 Base Exp",
+        "job_exp": "283 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/dokebi.png",
+        "name": "Dokebi",
+        "element": "Shadow",
+        "race": "Demon",
+        "level": "Lv 69",
+        "hp": "34,720 Hp",
+        "base_exp": "514 Base Exp",
+        "job_exp": "263 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/grypjon.png",
+        "name": "Gryphon",
+        "element": "Wind",
+        "race": "Brute",
+        "level": "Lv 70",
+        "hp": "2,173,238 Hp",
+        "base_exp": "3,678 Base Exp",
+        "job_exp": "2,745 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/anubis.png",
+        "name": "Anubis",
+        "element": "Undead",
+        "race": "Demi-Human",
+        "level": "Lv 70",
+        "hp": "2,173,238 Hp",
+        "base_exp": "3,572 Base Exp",
+        "job_exp": "2,807 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/eddga.png",
+        "name": "Eddga",
+        "element": "Fire",
+        "race": "Brute",
+        "level": "Lv 70",
+        "hp": "7,606,331 Hp",
+        "base_exp": "22,286 Base Exp",
+        "job_exp": "11,461 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/orc.png",
+        "name": "Orc Warrior",
+        "element": "Earth",
+        "race": "Demi-Human",
+        "level": "Lv 70",
+        "hp": "36,238 Hp",
+        "base_exp": "585 Base Exp",
+        "job_exp": "229 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/orc_archer.png",
+        "name": "Orc Archer",
+        "element": "Earth",
+        "race": "Demi-Human",
+        "level": "Lv 71",
+        "hp": "40,276 Hp",
+        "base_exp": "358 Base Exp",
+        "job_exp": "370 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/ninetail.png",
+        "name": "Nine Tail",
+        "element": "Fire",
+        "race": "Brute",
+        "level": "Lv 72",
+        "hp": "44,313 Hp",
+        "base_exp": "669 Base Exp",
+        "job_exp": "197 Job Exp"
+    }
+]

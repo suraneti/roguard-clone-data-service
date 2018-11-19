@@ -1,0 +1,202 @@
+[
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/wild_rose.png",
+        "name": "Wild Rose",
+        "element": "Wind",
+        "race": "Brute",
+        "level": "Lv 72",
+        "hp": "90,140 Hp",
+        "base_exp": "489 Base Exp",
+        "job_exp": "302 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/kobold.png",
+        "name": "Kobold (Axe)",
+        "element": "Wind",
+        "race": "Demi-Human",
+        "level": "Lv 72",
+        "hp": "75,000 Hp",
+        "base_exp": "482 Base Exp",
+        "job_exp": "306 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/osiris.png",
+        "name": "Osiris",
+        "element": "Undead",
+        "race": "Undead",
+        "level": "Lv 73",
+        "hp": "5,599,125 Hp",
+        "base_exp": "25,948 Base Exp",
+        "job_exp": "10,379 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/orc_captain.png",
+        "name": "High Orc",
+        "element": "Fire",
+        "race": "Demi-Human",
+        "level": "Lv 73",
+        "hp": "58,851 Hp",
+        "base_exp": "574 Base Exp",
+        "job_exp": "260 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/kobold.png",
+        "name": "Kobold (Buckler)",
+        "element": "Poison",
+        "race": "Demi-Human",
+        "level": "Lv 73",
+        "hp": "96,900 Hp",
+        "base_exp": "547 Base Exp",
+        "job_exp": "276 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/hyegun.png",
+        "name": "Hyegun",
+        "element": "Undead",
+        "race": "Undead",
+        "level": "Lv 74",
+        "hp": "2,366,663 Hp",
+        "base_exp": "4,935 Base Exp",
+        "job_exp": "2,294 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/nightmare.png",
+        "name": "Nightmare",
+        "element": "Ghost",
+        "race": "Demon",
+        "level": "Lv 74",
+        "hp": "29,627 Hp",
+        "base_exp": "381 Base Exp",
+        "job_exp": "381 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/kobold.png",
+        "name": "Kobold (Hammer)",
+        "element": "Fire",
+        "race": "Demi-Human",
+        "level": "Lv 74",
+        "hp": "65,000 Hp",
+        "base_exp": "497 Base Exp",
+        "job_exp": "314 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/orc_zombie.png",
+        "name": "Orc Zombie",
+        "element": "Undead",
+        "race": "Undead",
+        "level": "Lv 75",
+        "hp": "56,426 Hp",
+        "base_exp": "511 Base Exp",
+        "job_exp": "313 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/kobold_archer.png",
+        "name": "Kobold Archer",
+        "element": "Fire",
+        "race": "Demi-Human",
+        "level": "Lv 75",
+        "hp": "85,000 Hp",
+        "base_exp": "510 Base Exp",
+        "job_exp": "314 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/moonlight.png",
+        "name": "Moonlight Flower",
+        "element": "Fire",
+        "race": "Demon",
+        "level": "Lv 76",
+        "hp": "9,172,406 Hp",
+        "base_exp": "24,071 Base Exp",
+        "job_exp": "12,517 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/petit_f.png",
+        "name": "Sky Petite",
+        "element": "Wind",
+        "race": "Dragon",
+        "level": "Lv 76",
+        "hp": "84,000 Hp",
+        "base_exp": "518 Base Exp",
+        "job_exp": "317 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/marionette.png",
+        "name": "Marionette Doll",
+        "element": "Ghost",
+        "race": "Demon",
+        "level": "Lv 77",
+        "hp": "33,116 Hp",
+        "base_exp": "355 Base Exp",
+        "job_exp": "420 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/orc_baby.png",
+        "name": "Orc Baby",
+        "element": "Earth",
+        "race": "Demi-Human",
+        "level": "Lv 78",
+        "hp": "2,874,713 Hp",
+        "base_exp": "3,441 Base Exp",
+        "job_exp": "3,441 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/orc_skeleton.png",
+        "name": "Orc Skeleton",
+        "element": "Undead",
+        "race": "Undead",
+        "level": "Lv 78",
+        "hp": "68,538 Hp",
+        "base_exp": "530 Base Exp",
+        "job_exp": "326 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/petit.png",
+        "name": "Green Petite",
+        "element": "Earth",
+        "race": "Dragon",
+        "level": "Lv 79",
+        "hp": "85,440 Hp",
+        "base_exp": "537 Base Exp",
+        "job_exp": "331 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/nanguaxiansheng.png",
+        "name": "Jakk",
+        "element": "Fire",
+        "race": "Formless",
+        "level": "Lv 80",
+        "hp": "3,129,075 Hp",
+        "base_exp": "4,627 Base Exp",
+        "job_exp": "2,891 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/orc_hero.png",
+        "name": "Orc Hero",
+        "element": "Earth",
+        "race": "Demi-Human",
+        "level": "Lv 80",
+        "hp": "11,014,762 Hp",
+        "base_exp": "24,429 Base Exp",
+        "job_exp": "13,704 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/kobold_leader.png",
+        "name": "Kobold Leader",
+        "element": "Wind",
+        "race": "Demi-Human",
+        "level": "Lv 80",
+        "hp": "10,803,000 Hp",
+        "base_exp": "29,487 Base Exp",
+        "job_exp": "10,764 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/mimic.png",
+        "name": "Mimic",
+        "element": "Neutral",
+        "race": "Formless",
+        "level": "Lv 80",
+        "hp": "420,000 Hp",
+        "base_exp": "1 Base Exp",
+        "job_exp": "1 Job Exp"
+    }
+]

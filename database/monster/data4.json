@@ -1,0 +1,202 @@
+[
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/goblin2.png",
+        "name": "Goblin(Axe) ★",
+        "element": "Earth",
+        "race": "Demi-Human",
+        "level": "Lv 35",
+        "hp": "43,917 Hp",
+        "base_exp": "1,325 Base Exp",
+        "job_exp": "655 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/marc.png",
+        "name": "Marc",
+        "element": "Water",
+        "race": "Fish",
+        "level": "Lv 36",
+        "hp": "4,902 Hp",
+        "base_exp": "242 Base Exp",
+        "job_exp": "153 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/marc.png",
+        "name": "Marc ★",
+        "element": "Water",
+        "race": "Fish",
+        "level": "Lv 36",
+        "hp": "48,012 Hp",
+        "base_exp": "1,210 Base Exp",
+        "job_exp": "765 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/goblin_archer.png",
+        "name": "Goblin Archer",
+        "element": "Water",
+        "race": "Demi-Human",
+        "level": "Lv 37",
+        "hp": "4,243 Hp",
+        "base_exp": "252 Base Exp",
+        "job_exp": "155 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/bee.png",
+        "name": "Hornet",
+        "element": "Wind",
+        "race": "Insect",
+        "level": "Lv 38",
+        "hp": "4,568 Hp",
+        "base_exp": "225 Base Exp",
+        "job_exp": "178 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/goblin_panzer.png",
+        "name": "Steam Goblin",
+        "element": "Wind",
+        "race": "Demi-Human",
+        "level": "Lv 39",
+        "hp": "6,093 Hp",
+        "base_exp": "275 Base Exp",
+        "job_exp": "158 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/rodafrog.png",
+        "name": "Toad",
+        "element": "Water",
+        "race": "Fish",
+        "level": "Lv 40",
+        "hp": "804,938 Hp",
+        "base_exp": "2,581 Base Exp",
+        "job_exp": "1,290 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/drake.png",
+        "name": "Drake",
+        "element": "Undead",
+        "race": "Undead",
+        "level": "Lv 40",
+        "hp": "2,012,343 Hp",
+        "base_exp": "10,101 Base Exp",
+        "job_exp": "8,081 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/ant2.png",
+        "name": "Deniro",
+        "element": "Earth",
+        "race": "Insect",
+        "level": "Lv 40",
+        "hp": "8,156 Hp",
+        "base_exp": "269 Base Exp",
+        "job_exp": "169 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/ant2.png",
+        "name": "Deniro ★",
+        "element": "Earth",
+        "race": "Insect",
+        "level": "Lv 40",
+        "hp": "55,461 Hp",
+        "base_exp": "1,345 Base Exp",
+        "job_exp": "845 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/flora.png",
+        "name": "Flora",
+        "element": "Earth",
+        "race": "Plant",
+        "level": "Lv 41",
+        "hp": "5,699 Hp",
+        "base_exp": "274 Base Exp",
+        "job_exp": "174 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/ant3.png",
+        "name": "Piere",
+        "element": "Earth",
+        "race": "Insect",
+        "level": "Lv 42",
+        "hp": "9,056 Hp",
+        "base_exp": "280 Base Exp",
+        "job_exp": "179 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/argiope.png",
+        "name": "Argiope",
+        "element": "Poison",
+        "race": "Insect",
+        "level": "Lv 43",
+        "hp": "6,657 Hp",
+        "base_exp": "332 Base Exp",
+        "job_exp": "157 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/ant.png",
+        "name": "Andre",
+        "element": "Earth",
+        "race": "Insect",
+        "level": "Lv 44",
+        "hp": "9,956 Hp",
+        "base_exp": "290 Base Exp",
+        "job_exp": "189 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/goblin_helicopter.png",
+        "name": "Rotar Zairo",
+        "element": "Wind",
+        "race": "Formless",
+        "level": "Lv 45",
+        "hp": "801,825 Hp",
+        "base_exp": "2,630 Base Exp",
+        "job_exp": "1,611 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/strouf.png",
+        "name": "Strouf",
+        "element": "Water",
+        "race": "Fish",
+        "level": "Lv 45",
+        "hp": "2,806,387 Hp",
+        "base_exp": "12,433 Base Exp",
+        "job_exp": "8,469 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/menblatt.png",
+        "name": "Menblatt",
+        "element": "Wind",
+        "race": "Insect",
+        "level": "Lv 45",
+        "hp": "7,615 Hp",
+        "base_exp": "260 Base Exp",
+        "job_exp": "215 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/drainliar.png",
+        "name": "Drainliar",
+        "element": "Shadow",
+        "race": "Brute",
+        "level": "Lv 46",
+        "hp": "10,856 Hp",
+        "base_exp": "378 Base Exp",
+        "job_exp": "155 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/black_ant.png",
+        "name": "Vitata",
+        "element": "Earth",
+        "race": "Insect",
+        "level": "Lv 47",
+        "hp": "11,306 Hp",
+        "base_exp": "318 Base Exp",
+        "job_exp": "198 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/giearth.png",
+        "name": "Giearth",
+        "element": "Earth",
+        "race": "Demon",
+        "level": "Lv 48",
+        "hp": "11,756 Hp",
+        "base_exp": "329 Base Exp",
+        "job_exp": "200 Job Exp"
+    }
+]

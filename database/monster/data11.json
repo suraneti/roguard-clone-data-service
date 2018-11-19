@@ -1,0 +1,202 @@
+[
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/no_icon_mvp.png",
+        "name": "Time Holder",
+        "element": "Neutral",
+        "race": "Demon",
+        "level": "Lv 110",
+        "hp": "37,715,369 Hp",
+        "base_exp": "26,880 Base Exp",
+        "job_exp": "22,744 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/no_icon.png",
+        "name": "Myst Case",
+        "element": "Neutral",
+        "race": "Formless",
+        "level": "Lv 110",
+        "hp": "108,544 Hp",
+        "base_exp": "1,942 Base Exp",
+        "job_exp": "1,200 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/no_icon.png",
+        "name": "Cruiser ★",
+        "element": "Neutral",
+        "race": "Formless",
+        "level": "Lv 111",
+        "hp": "343,304 Hp",
+        "base_exp": "2,372 Base Exp",
+        "job_exp": "970 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/no_icon.png",
+        "name": "Cruiser",
+        "element": "Neutral",
+        "race": "Formless",
+        "level": "Lv 111",
+        "hp": "98,087 Hp",
+        "base_exp": "2,372 Base Exp",
+        "job_exp": "970 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/no_icon.png",
+        "name": "Christmas Cookie",
+        "element": "Holy",
+        "race": "Demi-Human",
+        "level": "Lv 112",
+        "hp": "87,625 Hp",
+        "base_exp": "1,978 Base Exp",
+        "job_exp": "1,220 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/no_icon_mvp.png",
+        "name": "Spashire",
+        "element": "Water",
+        "race": "Demi-Human",
+        "level": "Lv 113",
+        "hp": "9,999,999 Hp",
+        "base_exp": "33,901 Base Exp",
+        "job_exp": "19,709 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/no_icon.png",
+        "name": "Zipper Bear",
+        "element": "Shadow",
+        "race": "Brute",
+        "level": "Lv 113",
+        "hp": "104,574 Hp",
+        "base_exp": "2,056 Base Exp",
+        "job_exp": "1,196 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/no_icon.png",
+        "name": "Teddy Bear",
+        "element": "Neutral",
+        "race": "Formless",
+        "level": "Lv 114",
+        "hp": "141,557 Hp",
+        "base_exp": "1 Base Exp",
+        "job_exp": "1 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/no_icon.png",
+        "name": "Teddy Bear ★",
+        "element": "Neutral",
+        "race": "Formless",
+        "level": "Lv 114",
+        "hp": "495,449 Hp",
+        "base_exp": "2,066 Base Exp",
+        "job_exp": "1,212 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/no_icon.png",
+        "name": "Teddy Bear",
+        "element": "Neutral",
+        "race": "Formless",
+        "level": "Lv 114",
+        "hp": "141,557 Hp",
+        "base_exp": "2,066 Base Exp",
+        "job_exp": "1,212 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/no_icon_mvp.png",
+        "name": "Stormy Knight",
+        "element": "Wind",
+        "race": "Formless",
+        "level": "Lv 115",
+        "hp": "42,269,985 Hp",
+        "base_exp": "43,856 Base Exp",
+        "job_exp": "14,619 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/no_icon_mini_boss.png",
+        "name": "Chepet",
+        "element": "Fire",
+        "race": "Demi-Human",
+        "level": "Lv 116",
+        "hp": "13,050,947 Hp",
+        "base_exp": "6,719 Base Exp",
+        "job_exp": "4,187 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/no_icon.png",
+        "name": "Carat",
+        "element": "Wind",
+        "race": "Demon",
+        "level": "Lv 116",
+        "hp": "130,927 Hp",
+        "base_exp": "1,912 Base Exp",
+        "job_exp": "1,344 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/no_icon.png",
+        "name": "Marmot",
+        "element": "Earth",
+        "race": "Brute",
+        "level": "Lv 116",
+        "hp": "159,780 Hp",
+        "base_exp": "2,006 Base Exp",
+        "job_exp": "1,288 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/no_icon_mvp.png",
+        "name": "Hatii",
+        "element": "Water",
+        "race": "Brute",
+        "level": "Lv 118",
+        "hp": "44,504,135 Hp",
+        "base_exp": "41,943 Base Exp",
+        "job_exp": "16,778 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/no_icon.png",
+        "name": "Geographer",
+        "element": "Earth",
+        "race": "Plant",
+        "level": "Lv 118",
+        "hp": "165,957 Hp",
+        "base_exp": "1,894 Base Exp",
+        "job_exp": "1,396 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/no_icon.png",
+        "name": "Harpy",
+        "element": "Wind",
+        "race": "Demon",
+        "level": "Lv 119",
+        "hp": "169,089 Hp",
+        "base_exp": "2,166 Base Exp",
+        "job_exp": "1,260 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/no_icon.png",
+        "name": "Fiery Deviruchi",
+        "element": "Shadow",
+        "race": "Demon",
+        "level": "Lv 119",
+        "hp": "169,089 Hp",
+        "base_exp": "2,166 Base Exp",
+        "job_exp": "1,260 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/no_icon.png",
+        "name": "Fiery Mane",
+        "element": "Undead",
+        "race": "Undead",
+        "level": "Lv 120",
+        "hp": "173,990 Hp",
+        "base_exp": "2,184 Base Exp",
+        "job_exp": "1,270 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/no_icon.png",
+        "name": "Highland Parasite",
+        "element": "Wind",
+        "race": "Plant",
+        "level": "Lv 121",
+        "hp": "177,194 Hp",
+        "base_exp": "2,202 Base Exp",
+        "job_exp": "1,280 Job Exp"
+    }
+]

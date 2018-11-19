@@ -1,0 +1,202 @@
+[
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/yoyo.png",
+        "name": "Yoyo",
+        "element": "Earth",
+        "race": "Brute",
+        "level": "Lv 15",
+        "hp": "450 Hp",
+        "base_exp": "149 Base Exp",
+        "job_exp": "60 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/farmiliar.png",
+        "name": "Familiar",
+        "element": "Shadow",
+        "race": "Brute",
+        "level": "Lv 17",
+        "hp": "625 Hp",
+        "base_exp": "102 Base Exp",
+        "job_exp": "54 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/no_icon.png",
+        "name": "Wormtail",
+        "element": "Earth",
+        "race": "Plant",
+        "level": "Lv 17",
+        "hp": "382 Hp",
+        "base_exp": "220 Base Exp",
+        "job_exp": "148 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/rocker.png",
+        "name": "Rocker",
+        "element": "Earth",
+        "race": "Insect",
+        "level": "Lv 19",
+        "hp": "500 Hp",
+        "base_exp": "112 Base Exp",
+        "job_exp": "89 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/thiefbug.png",
+        "name": "Thief Bug Female",
+        "element": "Shadow",
+        "race": "Insect",
+        "level": "Lv 20",
+        "hp": "1,500 Hp",
+        "base_exp": "112 Base Exp",
+        "job_exp": "57 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/gthiefbug.png",
+        "name": "Thief Bug Male",
+        "element": "Shadow",
+        "race": "Insect",
+        "level": "Lv 20",
+        "hp": "1,500 Hp",
+        "base_exp": "139 Base Exp",
+        "job_exp": "58 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/creamy.png",
+        "name": "Creamy",
+        "element": "Wind",
+        "race": "Insect",
+        "level": "Lv 20",
+        "hp": "1,500 Hp",
+        "base_exp": "130 Base Exp",
+        "job_exp": "87 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/rocker.png",
+        "name": "Vocal",
+        "element": "Earth",
+        "race": "Insect",
+        "level": "Lv 20",
+        "hp": "56,738 Hp",
+        "base_exp": "1,010 Base Exp",
+        "job_exp": "808 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/gthiefbug.png",
+        "name": "Thief Bug Male ★",
+        "element": "Shadow",
+        "race": "Insect",
+        "level": "Lv 20",
+        "hp": "4,539 Hp",
+        "base_exp": "695 Base Exp",
+        "job_exp": "290 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/creamy.png",
+        "name": "Creamy ★",
+        "element": "Wind",
+        "race": "Insect",
+        "level": "Lv 20",
+        "hp": "3,759 Hp",
+        "base_exp": "650 Base Exp",
+        "job_exp": "435 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/wilow.png",
+        "name": "Willow",
+        "element": "Earth",
+        "race": "Plant",
+        "level": "Lv 21",
+        "hp": "600 Hp",
+        "base_exp": "123 Base Exp",
+        "job_exp": "99 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/mandragora.png",
+        "name": "Mandragora",
+        "element": "Earth",
+        "race": "Plant",
+        "level": "Lv 22",
+        "hp": "1,424 Hp",
+        "base_exp": "139 Base Exp",
+        "job_exp": "99 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/hydra.png",
+        "name": "Hydra",
+        "element": "Water",
+        "race": "Plant",
+        "level": "Lv 23",
+        "hp": "1,206 Hp",
+        "base_exp": "149 Base Exp",
+        "job_exp": "101 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/hydra.png",
+        "name": "Hydra ★",
+        "element": "Water",
+        "race": "Plant",
+        "level": "Lv 23",
+        "hp": "8,457 Hp",
+        "base_exp": "745 Base Exp",
+        "job_exp": "505 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/wolf.png",
+        "name": "Wolf",
+        "element": "Earth",
+        "race": "Brute",
+        "level": "Lv 24",
+        "hp": "1,696 Hp",
+        "base_exp": "164 Base Exp",
+        "job_exp": "100 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/rodafrog.png",
+        "name": "Roda Frog",
+        "element": "Water",
+        "race": "Fish",
+        "level": "Lv 25",
+        "hp": "1,832 Hp",
+        "base_exp": "144 Base Exp",
+        "job_exp": "120 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/angeling.png",
+        "name": "Angeling",
+        "element": "Holy",
+        "race": "Angel",
+        "level": "Lv 25",
+        "hp": "524,587 Hp",
+        "base_exp": "5,953 Base Exp",
+        "job_exp": "5,260 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/whisper.png",
+        "name": "Whisper",
+        "element": "Neutral",
+        "race": "Demon",
+        "level": "Lv 26",
+        "hp": "1,206 Hp",
+        "base_exp": "133 Base Exp",
+        "job_exp": "134 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/skeleton_pirate.png",
+        "name": "Pirate Skeleton",
+        "element": "Undead",
+        "race": "Undead",
+        "level": "Lv 27",
+        "hp": "2,104 Hp",
+        "base_exp": "185 Base Exp",
+        "job_exp": "112 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/poisenspore.png",
+        "name": "Poison Spore",
+        "element": "Poison",
+        "race": "Plant",
+        "level": "Lv 28",
+        "hp": "2,240 Hp",
+        "base_exp": "210 Base Exp",
+        "job_exp": "106 Job Exp"
+    }
+]

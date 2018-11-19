@@ -1,0 +1,202 @@
+[
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/boli.png",
+        "name": "Poring",
+        "element": "Water",
+        "race": "Plant",
+        "level": "Lv 1",
+        "hp": "10 Hp",
+        "base_exp": "7 Base Exp",
+        "job_exp": "4 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/mandala.png",
+        "name": "Mandragora Seed",
+        "element": "Earth",
+        "race": "Plant",
+        "level": "Lv 1",
+        "hp": "13 Hp",
+        "base_exp": "1 Base Exp",
+        "job_exp": "1 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/mandala.png",
+        "name": "Screaming Mandragora",
+        "element": "Earth",
+        "race": "Plant",
+        "level": "Lv 1",
+        "hp": "25 Hp",
+        "base_exp": "1 Base Exp",
+        "job_exp": "1 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/mandala.png",
+        "name": "Rare Mandragora",
+        "element": "Earth",
+        "race": "Plant",
+        "level": "Lv 1",
+        "hp": "38 Hp",
+        "base_exp": "1 Base Exp",
+        "job_exp": "1 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/fengtu.png",
+        "name": "Lunatic",
+        "element": "Neutral",
+        "race": "Brute",
+        "level": "Lv 2",
+        "hp": "48 Hp",
+        "base_exp": "18 Base Exp",
+        "job_exp": "6 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/lvmianchong.png",
+        "name": "Fabre",
+        "element": "Earth",
+        "race": "Insect",
+        "level": "Lv 3",
+        "hp": "60 Hp",
+        "base_exp": "19 Base Exp",
+        "job_exp": "13 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/pupa.png",
+        "name": "Pupa",
+        "element": "Earth",
+        "race": "Insect",
+        "level": "Lv 4",
+        "hp": "300 Hp",
+        "base_exp": "1 Base Exp",
+        "job_exp": "1 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/no_icon.png",
+        "name": "Savage Babe",
+        "element": "Earth",
+        "race": "Brute",
+        "level": "Lv 5",
+        "hp": "20 Hp",
+        "base_exp": "19 Base Exp",
+        "job_exp": "13 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/no_icon.png",
+        "name": "Desert Wolf Baby",
+        "element": "Fire",
+        "race": "",
+        "level": "Lv 5",
+        "hp": "50 Hp",
+        "base_exp": "19 Base Exp",
+        "job_exp": "13 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/pecopeco_egg.png",
+        "name": "Peco Peco Egg",
+        "element": "Neutral",
+        "race": "Formless",
+        "level": "Lv 6",
+        "hp": "2,000 Hp",
+        "base_exp": "1 Base Exp",
+        "job_exp": "1 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/smokie.png",
+        "name": "Smokie",
+        "element": "Earth",
+        "race": "Brute",
+        "level": "Lv 8",
+        "hp": "10,350 Hp",
+        "base_exp": "457 Base Exp",
+        "job_exp": "293 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/picky.png",
+        "name": "Picky",
+        "element": "Fire",
+        "race": "Brute",
+        "level": "Lv 9",
+        "hp": "64 Hp",
+        "base_exp": "1 Base Exp",
+        "job_exp": "1 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/eclipse.png",
+        "name": "Eclipse",
+        "element": "Neutral",
+        "race": "Brute",
+        "level": "Lv 10",
+        "hp": "18,300 Hp",
+        "base_exp": "466 Base Exp",
+        "job_exp": "427 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/tarou.png",
+        "name": "Tarou",
+        "element": "Shadow",
+        "race": "Brute",
+        "level": "Lv 11",
+        "hp": "350 Hp",
+        "base_exp": "83 Base Exp",
+        "job_exp": "41 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/masterring.png",
+        "name": "Mastering",
+        "element": "Water",
+        "race": "Plant",
+        "level": "Lv 12",
+        "hp": "25,950 Hp",
+        "base_exp": "915 Base Exp",
+        "job_exp": "305 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/ant_egg.png",
+        "name": "Ant Egg",
+        "element": "Neutral",
+        "race": "Formless",
+        "level": "Lv 12",
+        "hp": "5,000 Hp",
+        "base_exp": "1 Base Exp",
+        "job_exp": "1 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/thiefbug.png",
+        "name": "Thief Bug",
+        "element": "Neutral",
+        "race": "Insect",
+        "level": "Lv 13",
+        "hp": "500 Hp",
+        "base_exp": "112 Base Exp",
+        "job_exp": "33 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/chonchon.png",
+        "name": "Chon Chon",
+        "element": "Wind",
+        "race": "Insect",
+        "level": "Lv 13",
+        "hp": "625 Hp",
+        "base_exp": "94 Base Exp",
+        "job_exp": "76 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/thiefbug_egg.png",
+        "name": "Thief Bug Egg",
+        "element": "Shadow",
+        "race": "Insect",
+        "level": "Lv 13",
+        "hp": "600 Hp",
+        "base_exp": "1 Base Exp",
+        "job_exp": "1 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/spore.png",
+        "name": "Spore",
+        "element": "Water",
+        "race": "Plant",
+        "level": "Lv 15",
+        "hp": "600 Hp",
+        "base_exp": "48 Base Exp",
+        "job_exp": "78 Job Exp"
+    }
+]

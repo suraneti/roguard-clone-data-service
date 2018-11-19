@@ -1,0 +1,202 @@
+[
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/deviruchi.png",
+        "name": "Deviruchi",
+        "element": "Shadow",
+        "race": "Demon",
+        "level": "Lv 80",
+        "hp": "76,621 Hp",
+        "base_exp": "614 Base Exp",
+        "job_exp": "294 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/succubus.png",
+        "name": "Succubus",
+        "element": "Shadow",
+        "race": "Demon",
+        "level": "Lv 80",
+        "hp": "85,450 Hp",
+        "base_exp": "469 Base Exp",
+        "job_exp": "378 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/no_icon.png",
+        "name": "Dragon Egg",
+        "element": "Neutral",
+        "race": "Dragon",
+        "level": "Lv 81",
+        "hp": "4,000 Hp",
+        "base_exp": "1 Base Exp",
+        "job_exp": "1 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/hunterfly.png",
+        "name": "Hunter Fly",
+        "element": "Wind",
+        "race": "Insect",
+        "level": "Lv 81",
+        "hp": "80,001 Hp",
+        "base_exp": "546 Base Exp",
+        "job_exp": "342 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/incubus.png",
+        "name": "Incubus",
+        "element": "Shadow",
+        "race": "Demon",
+        "level": "Lv 81",
+        "hp": "95,000 Hp",
+        "base_exp": "476 Base Exp",
+        "job_exp": "382 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/ferus.png",
+        "name": "Ferus",
+        "element": "Earth",
+        "race": "Dragon",
+        "level": "Lv 82",
+        "hp": "94,000 Hp",
+        "base_exp": "732 Base Exp",
+        "job_exp": "242 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/abyssknight.png",
+        "name": "Abysmal Knight",
+        "element": "Shadow",
+        "race": "Demi-Human",
+        "level": "Lv 82",
+        "hp": "553,546 Hp",
+        "base_exp": "505 Base Exp",
+        "job_exp": "374 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/doppelganger.png",
+        "name": "Doppelganger",
+        "element": "Shadow",
+        "race": "Demon",
+        "level": "Lv 83",
+        "hp": "10,115,212 Hp",
+        "base_exp": "36,663 Base Exp",
+        "job_exp": "7,638 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/no_icon.png",
+        "name": "Wraith",
+        "element": "Undead",
+        "race": "Undead",
+        "level": "Lv 83",
+        "hp": "86,000 Hp",
+        "base_exp": "625 Base Exp",
+        "job_exp": "312 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/cramp.png",
+        "name": "Cramp",
+        "element": "Poison",
+        "race": "Brute",
+        "level": "Lv 83",
+        "hp": "74,000 Hp",
+        "base_exp": "545 Base Exp",
+        "job_exp": "359 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/atroce.png",
+        "name": "Atroce",
+        "element": "Shadow",
+        "race": "Brute",
+        "level": "Lv 84",
+        "hp": "10,152,093 Hp",
+        "base_exp": "29,788 Base Exp",
+        "job_exp": "11,984 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/mutant_dragon.png",
+        "name": "Mutant Dragon",
+        "element": "Fire",
+        "race": "Dragon",
+        "level": "Lv 85",
+        "hp": "6,543,450 Hp",
+        "base_exp": "4,463 Base Exp",
+        "job_exp": "3,336 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/injustice.png",
+        "name": "Injustice",
+        "element": "Shadow",
+        "race": "Undead",
+        "level": "Lv 85",
+        "hp": "82,000 Hp",
+        "base_exp": "539 Base Exp",
+        "job_exp": "379 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/no_icon_mini_boss.png",
+        "name": "Rafflesia",
+        "element": "Earth",
+        "race": "Plant",
+        "level": "Lv 86",
+        "hp": "8,099,866 Hp",
+        "base_exp": "3,794 Base Exp",
+        "job_exp": "3,794 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/orc_lord.png",
+        "name": "Orc Lord",
+        "element": "Earth",
+        "race": "Demi-Human",
+        "level": "Lv 86",
+        "hp": "10,638,656 Hp",
+        "base_exp": "41,705 Base Exp",
+        "job_exp": "5,753 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/gargoyle.png",
+        "name": "Gargoyle",
+        "element": "Wind",
+        "race": "Demon",
+        "level": "Lv 86",
+        "hp": "65,000 Hp",
+        "base_exp": "443 Base Exp",
+        "job_exp": "443 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/no_icon.png",
+        "name": "Raydric Archer",
+        "element": "Shadow",
+        "race": "Demon",
+        "level": "Lv 86",
+        "hp": "63,295 Hp",
+        "base_exp": "545 Base Exp",
+        "job_exp": "383 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/sting.png",
+        "name": "Sting",
+        "element": "Earth",
+        "race": "Formless",
+        "level": "Lv 87",
+        "hp": "65,000 Hp",
+        "base_exp": "541 Base Exp",
+        "job_exp": "394 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/rideword.png",
+        "name": "Rideword ★",
+        "element": "Neutral",
+        "race": "Formless",
+        "level": "Lv 88",
+        "hp": "302,094 Hp",
+        "base_exp": "1,685 Base Exp",
+        "job_exp": "2,600 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/rideword.png",
+        "name": "Rideword",
+        "element": "Neutral",
+        "race": "Formless",
+        "level": "Lv 88",
+        "hp": "67,011 Hp",
+        "base_exp": "337 Base Exp",
+        "job_exp": "520 Job Exp"
+    }
+]

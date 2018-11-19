@@ -1,0 +1,202 @@
+[
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/baphomet.png",
+        "name": "Baphomet",
+        "element": "Shadow",
+        "race": "Demon",
+        "level": "Lv 100",
+        "hp": "21,555,318 Hp",
+        "base_exp": "37,320 Base Exp",
+        "job_exp": "13,186 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/dark_lord.png",
+        "name": "Dark Lord",
+        "element": "Undead",
+        "race": "Demon",
+        "level": "Lv 100",
+        "hp": "19,567,662 Hp",
+        "base_exp": "25,600 Base Exp",
+        "job_exp": "20,000 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/deviling.png",
+        "name": "Huge Deviling",
+        "element": "Shadow",
+        "race": "Demon",
+        "level": "Lv 100",
+        "hp": "10,357,875 Hp",
+        "base_exp": "4,818 Base Exp",
+        "job_exp": "9,408 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/dracula.png",
+        "name": "Dracula",
+        "element": "Shadow",
+        "race": "Demon",
+        "level": "Lv 100",
+        "hp": "10,152,093 Hp",
+        "base_exp": "1 Base Exp",
+        "job_exp": "1 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/valkyrie.png",
+        "name": "Randgris",
+        "element": "Holy",
+        "race": "Angel",
+        "level": "Lv 100",
+        "hp": "10,803,000 Hp",
+        "base_exp": "1 Base Exp",
+        "job_exp": "1 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/no_icon.png",
+        "name": "Black Witch",
+        "element": "Undead",
+        "race": "Undead",
+        "level": "Lv 100",
+        "hp": "80,368 Hp",
+        "base_exp": "1,400 Base Exp",
+        "job_exp": "814 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/baphomet.png",
+        "name": "Weak Puppet",
+        "element": "Shadow",
+        "race": "Demon",
+        "level": "Lv 100",
+        "hp": "21,555,318 Hp",
+        "base_exp": "3,732 Base Exp",
+        "job_exp": "1,318 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/no_icon.png",
+        "name": "Alarm ★",
+        "element": "Neutral",
+        "race": "Formless",
+        "level": "Lv 101",
+        "hp": "366,864 Hp",
+        "base_exp": "3,905 Base Exp",
+        "job_exp": "2,245 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/no_icon.png",
+        "name": "Alarm",
+        "element": "Neutral",
+        "race": "Formless",
+        "level": "Lv 101",
+        "hp": "122,288 Hp",
+        "base_exp": "1,420 Base Exp",
+        "job_exp": "818 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/no_icon.png",
+        "name": "Ancient Clock",
+        "element": "Earth",
+        "race": "Formless",
+        "level": "Lv 102",
+        "hp": "125,127 Hp",
+        "base_exp": "1,158 Base Exp",
+        "job_exp": "988 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/no_icon.png",
+        "name": "Bathory ★",
+        "element": "Shadow",
+        "race": "Demi-Human",
+        "level": "Lv 103",
+        "hp": "255,786 Hp",
+        "base_exp": "4,630 Base Exp",
+        "job_exp": "1,915 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/no_icon.png",
+        "name": "Bathory",
+        "element": "Shadow",
+        "race": "Demi-Human",
+        "level": "Lv 103",
+        "hp": "85,262 Hp",
+        "base_exp": "1,684 Base Exp",
+        "job_exp": "698 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/no_icon.png",
+        "name": "Elder",
+        "element": "Neutral",
+        "race": "Demi-Human",
+        "level": "Lv 104",
+        "hp": "119,148 Hp",
+        "base_exp": "1,428 Base Exp",
+        "job_exp": "862 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/no_icon_mini_boss.png",
+        "name": "Clock",
+        "element": "Earth",
+        "race": "Formless",
+        "level": "Lv 105",
+        "hp": "10,048,506 Hp",
+        "base_exp": "6,300 Base Exp",
+        "job_exp": "3,663 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/no_icon.png",
+        "name": "Penomena",
+        "element": "Water",
+        "race": "Fish",
+        "level": "Lv 105",
+        "hp": "91,651 Hp",
+        "base_exp": "1,268 Base Exp",
+        "job_exp": "972 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/no_icon.png",
+        "name": "Brilight",
+        "element": "Fire",
+        "race": "Insect",
+        "level": "Lv 106",
+        "hp": "88,720 Hp",
+        "base_exp": "1,316 Base Exp",
+        "job_exp": "960 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/no_icon.png",
+        "name": "Stem Worm",
+        "element": "Wind",
+        "race": "Plant",
+        "level": "Lv 107",
+        "hp": "114,692 Hp",
+        "base_exp": "1,418 Base Exp",
+        "job_exp": "916 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/no_icon_mini_boss.png",
+        "name": "Clock Tower Manager",
+        "element": "Neutral",
+        "race": "Formless",
+        "level": "Lv 108",
+        "hp": "10,688,276 Hp",
+        "base_exp": "6,114 Base Exp",
+        "job_exp": "3,980 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/no_icon.png",
+        "name": "Cookie",
+        "element": "Neutral",
+        "race": "Demi-Human",
+        "level": "Lv 108",
+        "hp": "89,893 Hp",
+        "base_exp": "1,966 Base Exp",
+        "job_exp": "1,142 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/no_icon.png",
+        "name": "Orc Lady",
+        "element": "Earth",
+        "race": "Demi-Human",
+        "level": "Lv 109",
+        "hp": "50,056 Hp",
+        "base_exp": "1,462 Base Exp",
+        "job_exp": "924 Job Exp"
+    }
+]

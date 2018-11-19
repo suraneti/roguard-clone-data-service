@@ -1,0 +1,202 @@
+[
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/evil_druid.png",
+        "name": "Evil Druid",
+        "element": "Undead",
+        "race": "Undead",
+        "level": "Lv 88",
+        "hp": "71,000 Hp",
+        "base_exp": "466 Base Exp",
+        "job_exp": "445 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/anolian.png",
+        "name": "Anolian",
+        "element": "Water",
+        "race": "Fish",
+        "level": "Lv 89",
+        "hp": "81,000 Hp",
+        "base_exp": "600 Base Exp",
+        "job_exp": "376 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/owl_duke.png",
+        "name": "Owl Duke",
+        "element": "Neutral",
+        "race": "Demon",
+        "level": "Lv 90",
+        "hp": "8,644,788 Hp",
+        "base_exp": "6,156 Base Exp",
+        "job_exp": "2,700 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/detale.png",
+        "name": "Detarderous",
+        "element": "Shadow",
+        "race": "Dragon",
+        "level": "Lv 90",
+        "hp": "18,453,595 Hp",
+        "base_exp": "31,274 Base Exp",
+        "job_exp": "13,213 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/dark_priest.png",
+        "name": "Dark Priest",
+        "element": "Undead",
+        "race": "Demon",
+        "level": "Lv 90",
+        "hp": "75,000 Hp",
+        "base_exp": "578 Base Exp",
+        "job_exp": "397 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/alice.png",
+        "name": "Alice",
+        "element": "Neutral",
+        "race": "Demi-Human",
+        "level": "Lv 92",
+        "hp": "4,193,475 Hp",
+        "base_exp": "5,129 Base Exp",
+        "job_exp": "3,436 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/raydric.png",
+        "name": "Raydric",
+        "element": "Shadow",
+        "race": "Demi-Human",
+        "level": "Lv 92",
+        "hp": "80,571 Hp",
+        "base_exp": "676 Base Exp",
+        "job_exp": "356 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/baphomet_s.png",
+        "name": "Baphomet Jr.★",
+        "element": "Shadow",
+        "race": "Demon",
+        "level": "Lv 93",
+        "hp": "345,696 Hp",
+        "base_exp": "3,355 Base Exp",
+        "job_exp": "1,835 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/owl_baron.png",
+        "name": "Owl Baron",
+        "element": "Neutral",
+        "race": "Demon",
+        "level": "Lv 93",
+        "hp": "17,296,850 Hp",
+        "base_exp": "30,526 Base Exp",
+        "job_exp": "14,694 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/baphomet_s.png",
+        "name": "Baphomet Jr.",
+        "element": "Shadow",
+        "race": "Demon",
+        "level": "Lv 93",
+        "hp": "69,214 Hp",
+        "base_exp": "671 Base Exp",
+        "job_exp": "367 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/no_icon_mini_boss.png",
+        "name": "Zherlthsh",
+        "element": "Neutral",
+        "race": "Demi-Human",
+        "level": "Lv 94",
+        "hp": "4,448,925 Hp",
+        "base_exp": "5,376 Base Exp",
+        "job_exp": "3,433 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/mysteltainn_mini.png",
+        "name": "Mysteltainn",
+        "element": "Shadow",
+        "race": "Formless",
+        "level": "Lv 95",
+        "hp": "9,401,725 Hp",
+        "base_exp": "4,802 Base Exp",
+        "job_exp": "3,836 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/chimera.png",
+        "name": "Chimera",
+        "element": "Fire",
+        "race": "Brute",
+        "level": "Lv 95",
+        "hp": "13,504,312 Hp",
+        "base_exp": "27,908 Base Exp",
+        "job_exp": "16,914 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/wind_ghost.png",
+        "name": "Wind Ghost",
+        "element": "Wind",
+        "race": "Demon",
+        "level": "Lv 95",
+        "hp": "74,870 Hp",
+        "base_exp": "647 Base Exp",
+        "job_exp": "397 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/joker.png",
+        "name": "Joker",
+        "element": "Wind",
+        "race": "Demi-Human",
+        "level": "Lv 96",
+        "hp": "94,328 Hp",
+        "base_exp": "641 Base Exp",
+        "job_exp": "409 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/dark_illusion.png",
+        "name": "Dark Illusion",
+        "element": "Undead",
+        "race": "Demon",
+        "level": "Lv 98",
+        "hp": "9,200,000 Hp",
+        "base_exp": "4,318 Base Exp",
+        "job_exp": "4,327 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/bloody_knight.png",
+        "name": "Bloody Knight",
+        "element": "Shadow",
+        "race": "Formless",
+        "level": "Lv 98",
+        "hp": "17,567,662 Hp",
+        "base_exp": "27,233 Base Exp",
+        "job_exp": "18,353 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/khalitzburg.png",
+        "name": "Khalitzburg",
+        "element": "Undead",
+        "race": "Undead",
+        "level": "Lv 98",
+        "hp": "101,206 Hp",
+        "base_exp": "660 Base Exp",
+        "job_exp": "414 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/no_icon.png",
+        "name": "Punk",
+        "element": "Wind",
+        "race": "Plant",
+        "level": "Lv 98",
+        "hp": "52,799 Hp",
+        "base_exp": "1,340 Base Exp",
+        "job_exp": "816 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/wander_man.png",
+        "name": "Wanderer",
+        "element": "Wind",
+        "race": "Demon",
+        "level": "Lv 99",
+        "hp": "89,017 Hp",
+        "base_exp": "576 Base Exp",
+        "job_exp": "471 Job Exp"
+    }
+]

@@ -1,0 +1,14 @@
+{
+  "name": "ro-clone-data",
+  "version": "1.0.0",
+  "description": "Roguard clone data service",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Suraneti Rodsuwan",
+  "license": "ISC",
+  "dependencies": {
+    "jsdom": "^13.0.0"
+  }
+}

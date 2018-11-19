@@ -1,0 +1,202 @@
+[
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/muka.png",
+        "name": "Muka",
+        "element": "Earth",
+        "race": "Plant",
+        "level": "Lv 49",
+        "hp": "14,891 Hp",
+        "base_exp": "391 Base Exp",
+        "job_exp": "171 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/dragonfly.png",
+        "name": "Dragon Fly",
+        "element": "Wind",
+        "race": "Insect",
+        "level": "Lv 50",
+        "hp": "779,813 Hp",
+        "base_exp": "3,226 Base Exp",
+        "job_exp": "1,613 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/goblin_king.png",
+        "name": "Goblin Leader",
+        "element": "Wind",
+        "race": "Demi-Human",
+        "level": "Lv 50",
+        "hp": "1,949,531 Hp",
+        "base_exp": "18,492 Base Exp",
+        "job_exp": "6,691 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/pecopeco.png",
+        "name": "Peco Peco",
+        "element": "Fire",
+        "race": "Brute",
+        "level": "Lv 50",
+        "hp": "15,651 Hp",
+        "base_exp": "394 Base Exp",
+        "job_exp": "178 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/magnolia.png",
+        "name": "Magnolia",
+        "element": "Water",
+        "race": "Demon",
+        "level": "Lv 51",
+        "hp": "13,513 Hp",
+        "base_exp": "343 Base Exp",
+        "job_exp": "216 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/skeleton_solider.png",
+        "name": "Soldier Skeleton",
+        "element": "Undead",
+        "race": "Undead",
+        "level": "Lv 52",
+        "hp": "14,362 Hp",
+        "base_exp": "356 Base Exp",
+        "job_exp": "216 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/desertwolf.png",
+        "name": "Desert Wolf",
+        "element": "Fire",
+        "race": "Brute",
+        "level": "Lv 53",
+        "hp": "15,210 Hp",
+        "base_exp": "358 Base Exp",
+        "job_exp": "223 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/matyr.png",
+        "name": "Matyr",
+        "element": "Shadow",
+        "race": "Brute",
+        "level": "Lv 54",
+        "hp": "16,058 Hp",
+        "base_exp": "438 Base Exp",
+        "job_exp": "185 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/vagabondwolf.png",
+        "name": "Vagabond Wolf",
+        "element": "Earth",
+        "race": "Brute",
+        "level": "Lv 55",
+        "hp": "956,813 Hp",
+        "base_exp": "2,966 Base Exp",
+        "job_exp": "2,113 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/bee_queen.png",
+        "name": "Mistress",
+        "element": "Wind",
+        "race": "Insect",
+        "level": "Lv 55",
+        "hp": "2,392,031 Hp",
+        "base_exp": "15,080 Base Exp",
+        "job_exp": "10,419 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/mummy.png",
+        "name": "Mummy",
+        "element": "Undead",
+        "race": "Undead",
+        "level": "Lv 55",
+        "hp": "16,907 Hp",
+        "base_exp": "335 Base Exp",
+        "job_exp": "253 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/golem.png",
+        "name": "Golem",
+        "element": "Neutral",
+        "race": "Formless",
+        "level": "Lv 55",
+        "hp": "20,776 Hp",
+        "base_exp": "572 Base Exp",
+        "job_exp": "115 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/no_icon.png",
+        "name": "Metaller",
+        "element": "Fire",
+        "race": "Insect",
+        "level": "Lv 55",
+        "hp": "8,314 Hp",
+        "base_exp": "738 Base Exp",
+        "job_exp": "466 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/wilow2.png",
+        "name": "Elder Willow",
+        "element": "Fire",
+        "race": "Plant",
+        "level": "Lv 56",
+        "hp": "17,756 Hp",
+        "base_exp": "379 Base Exp",
+        "job_exp": "235 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/isis.png",
+        "name": "Isis",
+        "element": "Shadow",
+        "race": "Demon",
+        "level": "Lv 57",
+        "hp": "22,826 Hp",
+        "base_exp": "465 Base Exp",
+        "job_exp": "194 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/bigfoot.png",
+        "name": "Bigfoot",
+        "element": "Earth",
+        "race": "Brute",
+        "level": "Lv 58",
+        "hp": "23,851 Hp",
+        "base_exp": "397 Base Exp",
+        "job_exp": "241 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/savage.png",
+        "name": "Savage",
+        "element": "Earth",
+        "race": "Brute",
+        "level": "Lv 59",
+        "hp": "24,876 Hp",
+        "base_exp": "455 Base Exp",
+        "job_exp": "216 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/maya.png",
+        "name": "Maya",
+        "element": "Earth",
+        "race": "Insect",
+        "level": "Lv 60",
+        "hp": "4,648,481 Hp",
+        "base_exp": "20,971 Base Exp",
+        "job_exp": "8,738 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/greatest_general.png",
+        "name": "Greatest General",
+        "element": "Fire",
+        "race": "Formless",
+        "level": "Lv 60",
+        "hp": "21,150 Hp",
+        "base_exp": "411 Base Exp",
+        "job_exp": "249 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/eggyra.png",
+        "name": "Eggyra",
+        "element": "Ghost",
+        "race": "Formless",
+        "level": "Lv 61",
+        "hp": "11,216 Hp",
+        "base_exp": "309 Base Exp",
+        "job_exp": "317 Job Exp"
+    }
+]

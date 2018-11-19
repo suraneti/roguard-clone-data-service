@@ -1,0 +1,62 @@
+[
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/no_icon.png",
+        "name": "Fire Elf",
+        "element": "Fire",
+        "race": "Formless",
+        "level": "Lv 122",
+        "hp": "180,427 Hp",
+        "base_exp": "2,220 Base Exp",
+        "job_exp": "1,292 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/no_icon.png",
+        "name": "Fire Fledgling",
+        "element": "Fire",
+        "race": "Brute",
+        "level": "Lv 124",
+        "hp": "188,779 Hp",
+        "base_exp": "2,258 Base Exp",
+        "job_exp": "1,312 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/no_icon_mvp.png",
+        "name": "Firelord Kaho",
+        "element": "Fire",
+        "race": "Demon",
+        "level": "Lv 126",
+        "hp": "97,500,000 Hp",
+        "base_exp": "37,800 Base Exp",
+        "job_exp": "21,977 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/no_icon_mini_boss.png",
+        "name": "Fire Witch",
+        "element": "Fire",
+        "race": "Demi-Human",
+        "level": "Lv 128",
+        "hp": "27,563,600 Hp",
+        "base_exp": "7,680 Base Exp",
+        "job_exp": "4,465 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/no_icon_mvp.png",
+        "name": "Arc Angeling",
+        "element": "Holy",
+        "race": "Angel",
+        "level": "Lv 130",
+        "hp": "105,300,000 Hp",
+        "base_exp": "41,049 Base Exp",
+        "job_exp": "21,483 Job Exp"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/monsters/no_icon_mvp.png",
+        "name": "Arc Angeling",
+        "element": "Holy",
+        "race": "Angel",
+        "level": "Lv 130",
+        "hp": "105,300,000 Hp",
+        "base_exp": "41,049 Base Exp",
+        "job_exp": "21,483 Job Exp"
+    }
+]
