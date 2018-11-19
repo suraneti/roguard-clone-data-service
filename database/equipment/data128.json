@@ -1,0 +1,122 @@
+[
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40301.png",
+        "name": "Tirfing [3]",
+        "slot": "Sword",
+        "status": "Atk + 180"
+    },
+    {
+        "imgsrc": null,
+        "name": "Tomahawk [1]",
+        "slot": "Axe",
+        "status": "Atk + 180"
+    },
+    {
+        "imgsrc": null,
+        "name": "Tomahawk [2]",
+        "slot": "Axe",
+        "status": "Atk + 180"
+    },
+    {
+        "imgsrc": null,
+        "name": "Tooth Blade [1]",
+        "slot": "Knife",
+        "status": "Str ＋8, Max HP ＋1000, For Refining ＋10, ＋15, the damage of [Back Stab] to human-like monsters ＋5, ＋10% respectively"
+    },
+    {
+        "imgsrc": null,
+        "name": "Tooth Blade [2]",
+        "slot": "Knife",
+        "status": "Str ＋8, Max HP ＋1000, For Refining ＋10, ＋15, the damage of [Back Stab] to human-like monsters ＋5, ＋10% respectively"
+    },
+    {
+        "imgsrc": null,
+        "name": "Toy Nail",
+        "slot": "Head",
+        "status": "Dex ＋3, AGI ＋3"
+    },
+    {
+        "imgsrc": null,
+        "name": "Toy Nail [1]",
+        "slot": "Head",
+        "status": "Str ＋5, Max HP ＋400"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_61003.png",
+        "name": "Tracker Gloves [1]",
+        "slot": "Bracer",
+        "status": "Def + 67"
+    },
+    {
+        "imgsrc": null,
+        "name": "Tracker Gloves [2]",
+        "slot": "Bracer",
+        "status": "Def + 67"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45017.png",
+        "name": "Transparent Head Protector",
+        "slot": "Head",
+        "status": "No effect"
+    },
+    {
+        "imgsrc": null,
+        "name": "Transparent Head Protector",
+        "slot": "Head",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Transparent Head Protector",
+        "slot": "mouth",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Transparent Head Protector [1]",
+        "slot": "Head",
+        "status": "Dex ＋3, AGI ＋3"
+    },
+    {
+        "imgsrc": null,
+        "name": "Transparent Wing Drawing",
+        "slot": "Wing",
+        "status": "Max HP ＋300, Atk ＋60, M.Atk ＋40"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_25107.png",
+        "name": "Travelling Peco Peco",
+        "slot": "Mount",
+        "status": "Move Spd ＋50%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_25107.png",
+        "name": "Travelling Peco Peco",
+        "slot": "Mount",
+        "status": "Move Spd ＋50%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Tree Crown",
+        "slot": "Head",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Trick or treat",
+        "slot": "Wing",
+        "status": "When caster uses skills (not auto attack), there is a 50% chance to increase M.Atk by 20 points; the effect lasts 15 seconds, and can stack up 5 times."
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40004.png",
+        "name": "Trident",
+        "slot": "Spear",
+        "status": "Atk + 247"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40004.png",
+        "name": "Trident [3]",
+        "slot": "Spear",
+        "status": "Atk + 247"
+    }
+]

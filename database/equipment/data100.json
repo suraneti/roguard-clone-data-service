@@ -1,0 +1,122 @@
+[
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40331.png",
+        "name": "Rapier",
+        "slot": "Sword",
+        "status": "Atk + 108"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40331.png",
+        "name": "Rapier [2]",
+        "slot": "Sword",
+        "status": "Atk + 108"
+    },
+    {
+        "imgsrc": null,
+        "name": "Raydric Sword",
+        "slot": "Sword",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Raynojose's Med Bottle",
+        "slot": "Sword",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Rea the tabby cat",
+        "slot": "Tail",
+        "status": "Max HP ＋500, Atk ＋15, M.Atk ＋10"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41504.png",
+        "name": "Recovery Light [2]",
+        "slot": "Mace",
+        "status": "Atk + 180"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41504.png",
+        "name": "Recovery Light [3]",
+        "slot": "Mace",
+        "status": "Atk + 180"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45027.png",
+        "name": "Red Bandana",
+        "slot": "Head",
+        "status": "Def ＋5"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45027.png",
+        "name": "Red Bandana [1]",
+        "slot": "Head",
+        "status": "Def ＋5"
+    },
+    {
+        "imgsrc": null,
+        "name": "Red Bull Eye",
+        "slot": "Face",
+        "status": "No effect"
+    },
+    {
+        "imgsrc": null,
+        "name": "Red Ether Bag [1]",
+        "slot": "Mace",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Red Ether Bag [2]",
+        "slot": "Mace",
+        "status": ""
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_43002.png",
+        "name": "Red Muffler",
+        "slot": "Robe",
+        "status": "Def + 28"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_43002.png",
+        "name": "Red Muffler [1]",
+        "slot": "Robe",
+        "status": "Def + 28"
+    },
+    {
+        "imgsrc": null,
+        "name": "Red Ribbon",
+        "slot": "Head",
+        "status": "No effect"
+    },
+    {
+        "imgsrc": null,
+        "name": "Red Ribbon [1]",
+        "slot": "Head",
+        "status": "No effect"
+    },
+    {
+        "imgsrc": null,
+        "name": "Red Square Bag",
+        "slot": "Bracer",
+        "status": "MDef ＋30,  STR ＋3, Max SP ＋150,  ＋15% [Sphere Mine] and [Sphere Parasitism] damage,  ＋15% [Crazy Weed] damage"
+    },
+    {
+        "imgsrc": null,
+        "name": "Red Square Bag [1]",
+        "slot": "Mace",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Red Square Bag [1]",
+        "slot": "Bracer",
+        "status": "MDef ＋30,  STR ＋3, Max SP ＋150,  ＋15% [Sphere Mine] and [Sphere Parasitism] damage,  ＋15% [Crazy Weed] damage"
+    },
+    {
+        "imgsrc": null,
+        "name": "Red Square Bag [2]",
+        "slot": "Mace",
+        "status": "Atk + 180"
+    }
+]

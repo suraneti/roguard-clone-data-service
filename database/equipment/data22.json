@@ -1,0 +1,122 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Chocolate Donuts",
+        "slot": "Mouth",
+        "status": "INT ＋1, Str ＋1, Atk ＋5"
+    },
+    {
+        "imgsrc": null,
+        "name": "Christmas Beret",
+        "slot": "Head",
+        "status": "Def ＋20, CritRes ＋10"
+    },
+    {
+        "imgsrc": null,
+        "name": "Christmas Beret [1]",
+        "slot": "Head",
+        "status": "Def ＋20, CritRes ＋10"
+    },
+    {
+        "imgsrc": null,
+        "name": "Christmas Clothing Series",
+        "slot": "Armour",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Christmas Horn",
+        "slot": "Head",
+        "status": "Luk ＋2, Atk ＋5"
+    },
+    {
+        "imgsrc": null,
+        "name": "Christmas Horn [1]",
+        "slot": "Head",
+        "status": "Luk ＋2, Atk ＋5"
+    },
+    {
+        "imgsrc": null,
+        "name": "Christmas Pack",
+        "slot": "Head",
+        "status": "Def ＋10"
+    },
+    {
+        "imgsrc": null,
+        "name": "Christmas Pack [1]",
+        "slot": "Head",
+        "status": "Def ＋10"
+    },
+    {
+        "imgsrc": null,
+        "name": "Christmas Propeller",
+        "slot": "Head",
+        "status": "Max HP ＋100"
+    },
+    {
+        "imgsrc": null,
+        "name": "Christmas Propeller [1]",
+        "slot": "Head",
+        "status": "Max HP ＋100"
+    },
+    {
+        "imgsrc": null,
+        "name": "Christmas Ribbon",
+        "slot": "Head",
+        "status": "Dex ＋3, AGI ＋3"
+    },
+    {
+        "imgsrc": null,
+        "name": "Christmas Ribbon [1]",
+        "slot": "Head",
+        "status": "Luk ＋5, Max SP ＋100"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_48523.png",
+        "name": "Cigarette",
+        "slot": "Mouth",
+        "status": "Def ＋10, Damage reduction of Insect race ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Claw [1]",
+        "slot": "Knuckle",
+        "status": "Str ＋10, For Refining ＋5, ＋10, ＋15, Atk ＋5%, ＋10%, ＋15%, Refining increases by 1, auto attack increases by 60 points"
+    },
+    {
+        "imgsrc": null,
+        "name": "Claw [2]",
+        "slot": "Knuckle",
+        "status": "Str ＋10, For Refining ＋5, ＋10, ＋15, Atk ＋5%, ＋10%, ＋15%, Refining increases by 1, auto attack increases by 60 points"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42013.png",
+        "name": "Claytos Cracking Earth Armor",
+        "slot": "Armour",
+        "status": "Def + 37"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42013.png",
+        "name": "Claytos Cracking Earth Armor [1]",
+        "slot": "Armour",
+        "status": "Def + 37"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41805.png",
+        "name": "Cleaver [1]",
+        "slot": "Axe",
+        "status": "HP Regen ＋10, auto attacks has a 5% chance to increase Atk for a while, but this effect cause HP loss, When killing demi-human monsters, Caster has a 10% chance to restore his/her own HP"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41805.png",
+        "name": "Cleaver [2]",
+        "slot": "Axe",
+        "status": "HP Regen ＋10, auto attacks has a 5% chance to increase Atk for a while, but this effect cause HP loss, When killing demi-human monsters, Caster has a 10% chance to restore his/her own HP"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_44011.png",
+        "name": "Clip",
+        "slot": "Accessory",
+        "status": "Atk + 30"
+    }
+]

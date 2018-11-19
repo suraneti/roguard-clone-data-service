@@ -1,0 +1,122 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Halloween Night",
+        "slot": "Wing",
+        "status": "When launching auto attacks, caster has a 30% chance to increase Atk by 20 points, the effect can stack up 10 times."
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45080.png",
+        "name": "Halo",
+        "slot": "Head",
+        "status": "Def ＋10"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45080.png",
+        "name": "Halo [1]",
+        "slot": "Head",
+        "status": "Def ＋10"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41803.png",
+        "name": "Hammer",
+        "slot": "Axe",
+        "status": "Atk + 120"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41803.png",
+        "name": "Hammer [2]",
+        "slot": "Axe",
+        "status": "Atk + 120"
+    },
+    {
+        "imgsrc": null,
+        "name": "Hamster Bugler",
+        "slot": "Head",
+        "status": "Agi ＋2, Move Spd ＋2%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Hamster Bugler [1]",
+        "slot": "Head",
+        "status": "Dex ＋3, AGI ＋3"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41828.png",
+        "name": "Hand Axe",
+        "slot": "Axe",
+        "status": "Atk + 60"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41828.png",
+        "name": "Hand Axe [2]",
+        "slot": "Axe",
+        "status": "Atk + 60"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_61501.png",
+        "name": "Handcuffs [1]",
+        "slot": "Bracelet",
+        "status": "Def + 112"
+    },
+    {
+        "imgsrc": null,
+        "name": "Handcuffs [2]",
+        "slot": "Bracelet",
+        "status": "Def + 112"
+    },
+    {
+        "imgsrc": null,
+        "name": "Happy Bird",
+        "slot": "Tail",
+        "status": "Max HP ＋400, M.Atk ＋3%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Happy Poem",
+        "slot": "Head",
+        "status": "Dex ＋3, AGI ＋3"
+    },
+    {
+        "imgsrc": null,
+        "name": "Happy Rose [1]",
+        "slot": "Knife",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Happy Unicorn",
+        "slot": "Tail",
+        "status": "When target is killed, There is a chance to reduce all damage you suffer to 1 point; the effect lasts 3 seconds, Cooldown lasts 5 seconds (The less targets being killed in a unit time, the higher the trigger probability)"
+    },
+    {
+        "imgsrc": null,
+        "name": "Happy Watering Can Whale",
+        "slot": "Tail",
+        "status": "Damage to Wind Monsters ＋10%, Wind damage taken -10%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45005.png",
+        "name": "Hat",
+        "slot": "Head",
+        "status": "Def ＋10"
+    },
+    {
+        "imgsrc": null,
+        "name": "Hat of the Bright Moon God",
+        "slot": "Head",
+        "status": "Max HP ＋5000, Def ＋5%, MDef ＋15%, Crit Res＋15, Dmg Reduc. ＋2.5%, Magic Reduc. ＋7.5%, Poison, Holy, Dark, Ghost, Neutral damage taken -5%. Fire, Water, Earth, Wind damage taken -15%, Gain passive skill [Ring of Brilliant Moon]: Triggers every 10s, -50% Equipment ASPD and -50 Critical for nearby enemies within a 5m radius for 5s."
+    },
+    {
+        "imgsrc": null,
+        "name": "Hat of the Brilliant Star God",
+        "slot": "Head",
+        "status": "Max HP ＋5000, Def ＋10%, MDef ＋10%, Crit Res＋15, Dmg Reduc. ＋5%, Magic Reduc. ＋5%, Poison, Holy, Dark, Ghost, Neutral, Fire, Water, Earth and Wind damage taken -10%, Gain passive skill [Nebula Coil]: Applies a stack of [Slow] debuff on the attack when you’re hit. Each stack reduces the attacker’s movement speed by 15% for 3s, stacking up to 3 times."
+    },
+    {
+        "imgsrc": null,
+        "name": "Hat of the Moon God",
+        "slot": "Head",
+        "status": "Max HP ＋4000, Def ＋5%, MDef ＋15%, Crit Res ＋15, Poison, Holy, Dark, Ghost, Neutral damage taken -5%. Fire, Water, Earth, Wind damage taken -15%, Gain passive skill [Ring of Brilliant Moon]: Triggers every 10s, -30% Equipment ASPD and -30 Critical for nearby enemies within a 5m radius for 5s."
+    }
+]

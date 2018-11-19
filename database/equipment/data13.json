@@ -1,0 +1,122 @@
+[
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45019.png",
+        "name": "Big Ribbon",
+        "slot": "Head",
+        "status": "Def ＋10"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45019.png",
+        "name": "Big Ribbon [1]",
+        "slot": "Head",
+        "status": "Def ＋10"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40011.png",
+        "name": "Bill Guisarme [1]",
+        "slot": "Spear",
+        "status": "Hit ＋25, Damage Dealt to Boss ＋10%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40011.png",
+        "name": "Bill Guisarme [2]",
+        "slot": "Spear",
+        "status": "Hit ＋25, Damage Dealt to Boss ＋10%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45081.png",
+        "name": "Biretta",
+        "slot": "Head",
+        "status": "Def ＋10"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45081.png",
+        "name": "Biretta [1]",
+        "slot": "Head",
+        "status": "Def ＋10"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45112.png",
+        "name": "Black Cat Ears",
+        "slot": "Head",
+        "status": "Def ＋15"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45112.png",
+        "name": "Black Cat Ears [1]",
+        "slot": "Head",
+        "status": "Def ＋15"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_47021.png",
+        "name": "Black Cat Lemegeton",
+        "slot": "Wing",
+        "status": "Def ＋15"
+    },
+    {
+        "imgsrc": null,
+        "name": "Black Cat Tail",
+        "slot": "Tail",
+        "status": "No effect"
+    },
+    {
+        "imgsrc": null,
+        "name": "Black Cat·K Equip",
+        "slot": "Head",
+        "status": ""
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41505.png",
+        "name": "Black Iron Hammer",
+        "slot": "Mace",
+        "status": "Atk + 198"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41505.png",
+        "name": "Black Iron Hammer [2]",
+        "slot": "Mace",
+        "status": "Atk + 198"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_43526.png",
+        "name": "Black Leather Boots[1]",
+        "slot": "Shoes",
+        "status": "Def + 22"
+    },
+    {
+        "imgsrc": null,
+        "name": "Black Wing [1]",
+        "slot": "Knife",
+        "status": "Agi ＋4, Equipment ASPD ＋4%, Refining increases by 1, auto attack increases by 30 points, [Black Wing V] ＋ [Bohemian Coat IV]: Str ＋5, ignore Def ＋10%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40703.png",
+        "name": "Black Wing [2]",
+        "slot": "Knife",
+        "status": "Atk + 360"
+    },
+    {
+        "imgsrc": null,
+        "name": "Black Wing [2]",
+        "slot": "Knife",
+        "status": "Agi ＋4, Equipment ASPD ＋4%, Refining increases by 1, auto attack increases by 30 points, [Black Wing V] ＋ [Bohemian Coat IV]: Str ＋5, ignore Def ＋10%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40703.png",
+        "name": "Black Wing [3]",
+        "slot": "Knife",
+        "status": "Atk + 360"
+    },
+    {
+        "imgsrc": null,
+        "name": "Black Witch's Hat",
+        "slot": "Head",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Black Witch's Wand",
+        "slot": "Staff",
+        "status": ""
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Elite Adventurer Headwear·Water Blue",
+        "slot": "Head",
+        "status": "All Attributes ＋1, Damage reduction of Demi-Human race ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Elite Adventurer·Christmas Red (Discard)",
+        "slot": "Head",
+        "status": "All Attributes ＋1, Damage reduction of Demi-Human race ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Elite Adventurer·Demon Purple (Discard)",
+        "slot": "Head",
+        "status": "All Attributes ＋1, Damage reduction of Demi-Human race ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Elite Adventurer·Starfish Yellow (Discard)",
+        "slot": "Head",
+        "status": "All Attributes ＋1, Damage reduction of Demi-Human race ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Elite Adventurer·Water Blue (Discard)",
+        "slot": "Head",
+        "status": "All Attributes ＋1, Damage reduction of Demi-Human race ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Elizabeth in Cage",
+        "slot": "Head",
+        "status": "M.Atk ＋20, Max HP ＋150"
+    },
+    {
+        "imgsrc": null,
+        "name": "Elizabeth in Cage [1]",
+        "slot": "Head",
+        "status": "M.Atk ＋20, Max HP ＋150"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41201.png",
+        "name": "Elven Bow [2]",
+        "slot": "Bow",
+        "status": "Atk + 180"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41201.png",
+        "name": "Elven Bow [3]",
+        "slot": "Bow",
+        "status": "Atk + 180"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_48516.png",
+        "name": "Elven Ears",
+        "slot": "Face",
+        "status": "INT ＋2, M.Atk ＋5%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42034.png",
+        "name": "Enchanted Armor",
+        "slot": "Armour",
+        "status": "Def + 94"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42034.png",
+        "name": "Enchanted Armor [1]",
+        "slot": "Armour",
+        "status": "Def + 94"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42035.png",
+        "name": "Enchanted Robe",
+        "slot": "Armour",
+        "status": "Def + 46"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42035.png",
+        "name": "Enchanted Robe [1]",
+        "slot": "Armour",
+        "status": "Def + 46"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_43534.png",
+        "name": "Enchanted Shoes",
+        "slot": "Shoes",
+        "status": "Def + 28"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_43534.png",
+        "name": "Enchanted Shoes [1]",
+        "slot": "Shoes",
+        "status": "Def + 28"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40631.png",
+        "name": "Enchanted Staff",
+        "slot": "Staff",
+        "status": "M.Atk + 108"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40631.png",
+        "name": "Enchanted Staff [2]",
+        "slot": "Staff",
+        "status": "M.Atk + 108"
+    },
+    {
+        "imgsrc": null,
+        "name": "End Sectora [1]",
+        "slot": "Axe",
+        "status": "Atk + 180"
+    },
+    {
+        "imgsrc": null,
+        "name": "End Sectora [2]",
+        "slot": "Axe",
+        "status": "Atk + 180"
+    }
+]

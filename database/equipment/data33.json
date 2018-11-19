@@ -1,0 +1,122 @@
+[
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40905.png",
+        "name": "Dragon Howling [2]",
+        "slot": "Katar",
+        "status": "Atk + 90"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40905.png",
+        "name": "Dragon Howling [3]",
+        "slot": "Katar",
+        "status": "Atk + 90"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40703.png",
+        "name": "Dragon Killer [2]",
+        "slot": "Knife",
+        "status": "Atk + 360"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40703.png",
+        "name": "Dragon Killer [3]",
+        "slot": "Knife",
+        "status": "Atk + 360"
+    },
+    {
+        "imgsrc": null,
+        "name": "Dragon Manteau [1]",
+        "slot": "Robe",
+        "status": "Def + 90"
+    },
+    {
+        "imgsrc": null,
+        "name": "Dragon Manteau [2]",
+        "slot": "Robe",
+        "status": "Def + 90"
+    },
+    {
+        "imgsrc": null,
+        "name": "Dragon Pike [1]",
+        "slot": "Spear",
+        "status": "Atk + 202"
+    },
+    {
+        "imgsrc": null,
+        "name": "Dragon Pike [2]",
+        "slot": "Spear",
+        "status": "Atk + 202"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_48560.png",
+        "name": "Dragon Scale Stripe",
+        "slot": "Face",
+        "status": "Dex ＋10, INT ＋5"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_61502.png",
+        "name": "Dragon Teeth Bracelet [1]",
+        "slot": "Bracelet",
+        "status": "Def + 112"
+    },
+    {
+        "imgsrc": null,
+        "name": "Dragon Teeth Bracelet [2]",
+        "slot": "Bracelet",
+        "status": "Def + 112"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42018.png",
+        "name": "Dragon Vest",
+        "slot": "Armour",
+        "status": "Equipment ASPD ＋3%, Flee ＋25"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42018.png",
+        "name": "Dragon Vest [1]",
+        "slot": "Armour",
+        "status": "Equipment ASPD ＋3%, Flee ＋25"
+    },
+    {
+        "imgsrc": null,
+        "name": "Dragon Will",
+        "slot": "Spear",
+        "status": ""
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41201.png",
+        "name": "Dragon Wing [2]",
+        "slot": "Bow",
+        "status": "Atk + 180"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41201.png",
+        "name": "Dragon Wing [3]",
+        "slot": "Bow",
+        "status": "Atk + 180"
+    },
+    {
+        "imgsrc": null,
+        "name": "Dream Paper Plane",
+        "slot": "Head",
+        "status": "Flee ＋10, Move Spd ＋3%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Dream Paper Plane [1]",
+        "slot": "Head",
+        "status": "Flee ＋10, Move Spd ＋3%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40905.png",
+        "name": "Drill Katar [2]",
+        "slot": "Katar",
+        "status": "Atk + 90"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40905.png",
+        "name": "Drill Katar [3]",
+        "slot": "Katar",
+        "status": "Atk + 90"
+    }
+]

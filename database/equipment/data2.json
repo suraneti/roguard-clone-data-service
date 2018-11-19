@@ -1,0 +1,122 @@
+[
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40621.png",
+        "name": "Advanced Survival Staff [1]",
+        "slot": "Staff",
+        "status": "Dex ＋5, INT ＋10, Max HP ＋15%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40621.png",
+        "name": "Advanced Survival Staff [2]",
+        "slot": "Staff",
+        "status": "Dex ＋5, INT ＋10, Max HP ＋15%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Advanced Survivor's Manteau",
+        "slot": "Robe",
+        "status": "Def + 25"
+    },
+    {
+        "imgsrc": null,
+        "name": "Advanced Survivor's Manteau [1]",
+        "slot": "Robe",
+        "status": "Def + 25"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42025.png",
+        "name": "Adventure Armor",
+        "slot": "Armour",
+        "status": "Def + 66"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42025.png",
+        "name": "Adventure Armor [1]",
+        "slot": "Armour",
+        "status": "Def + 66"
+    },
+    {
+        "imgsrc": null,
+        "name": "Adventure locomotive",
+        "slot": "Head",
+        "status": "LUK ＋2, Move Spd ＋3%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Adventure locomotive[1]",
+        "slot": "Head",
+        "status": "LUK ＋2, Move Spd ＋3%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_47002.png",
+        "name": "Adventurer Bag",
+        "slot": "Wing",
+        "status": "Def ＋15, When Refining reaches ＋10 and Strength reaches 90, Atk ＋20, When Refining reaches ＋10 and Agility reaches 90, Equipment ASPD ＋5%, When Refining reaches ＋10 and Vitality reaches 90, Neutral Dmg Taken -10%, When Refining reaches ＋10 and Intelligence reaches 90, M.Atk ＋20, When Refining reaches ＋10 and Dexterity reaches 90, Ranged Damage ＋5%, When Refining reaches ＋10 and Luck reaches 90, Crit.Dmg ＋5%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42503.png",
+        "name": "Adventurer Shield",
+        "slot": "Shield",
+        "status": "Def + 37"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42503.png",
+        "name": "Adventurer Shield [1]",
+        "slot": "Shield",
+        "status": "Def + 37"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_43531.png",
+        "name": "Adventurer Shoes",
+        "slot": "Shoes",
+        "status": "Def + 19"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_43531.png",
+        "name": "Adventurer Shoes[1]",
+        "slot": "Shoes",
+        "status": "Def + 19"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42012.png",
+        "name": "Aebecee's Raging Typhoon Armor",
+        "slot": "Armour",
+        "status": "Def + 42"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42012.png",
+        "name": "Aebecee's Raging Typhoon Armor [1]",
+        "slot": "Armour",
+        "status": "Def + 42"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_44009.png",
+        "name": "Agate Clip",
+        "slot": "Accessory",
+        "status": "Max SP ＋150, SP costs of skill use -5%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_44009.png",
+        "name": "Agate Clip [1]",
+        "slot": "Accessory",
+        "status": "Max SP ＋150, SP costs of skill use -5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Agent Katar [1]",
+        "slot": "Katar",
+        "status": "Doubles Critical, Atk ＋30, Cri ＋10, Crit.Dmg ＋25%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Agent Katar [2]",
+        "slot": "Katar",
+        "status": "Doubles Critical, Atk ＋30, Cri ＋10, Crit.Dmg ＋25%"
+    },
+    {
+        "imgsrc": null,
+        "name": "AGI Pin",
+        "slot": "Accessory",
+        "status": "Agi ＋5, Equipment ASPD ＋6%"
+    }
+]

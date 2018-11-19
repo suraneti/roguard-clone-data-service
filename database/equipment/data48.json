@@ -1,0 +1,122 @@
+[
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40307.png",
+        "name": "Garrison Sword",
+        "slot": "Sword",
+        "status": "Atk + 180"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40307.png",
+        "name": "Garrison Sword [2]",
+        "slot": "Sword",
+        "status": "Atk + 180"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_48540.png",
+        "name": "Gas Mask",
+        "slot": "Face",
+        "status": "Def -20, Poison Dmg Taken -30%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Geathering Machine [1]",
+        "slot": "Trolley",
+        "status": "Def + 112"
+    },
+    {
+        "imgsrc": null,
+        "name": "Geathering Machine [2]",
+        "slot": "Trolley",
+        "status": "Def + 112"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_48532.png",
+        "name": "Geek Glasses",
+        "slot": "Face",
+        "status": "No effect"
+    },
+    {
+        "imgsrc": null,
+        "name": "Gemini Crown",
+        "slot": "Head",
+        "status": "Agi ＋1"
+    },
+    {
+        "imgsrc": null,
+        "name": "Gemini Crown [1]",
+        "slot": "Head",
+        "status": "No effect"
+    },
+    {
+        "imgsrc": null,
+        "name": "Gemini Diadem",
+        "slot": "Head",
+        "status": "Dex ＋3, AGI ＋3"
+    },
+    {
+        "imgsrc": null,
+        "name": "Gemini Diadem [1]",
+        "slot": "Head",
+        "status": "Agi ＋3"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45098.png",
+        "name": "Gemmed Sallet",
+        "slot": "Head",
+        "status": "Def ＋5, M.Def ＋10"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45098.png",
+        "name": "Gemmed Sallet [1]",
+        "slot": "Head",
+        "status": "Def ＋5, M.Def ＋10"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40607.png",
+        "name": "Gentleman's Staff [1]",
+        "slot": "Staff",
+        "status": "Dex ＋3, INT ＋3, VIT ＋3"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40607.png",
+        "name": "Gentleman's Staff [2]",
+        "slot": "Staff",
+        "status": "Dex ＋3, INT ＋3, VIT ＋3"
+    },
+    {
+        "imgsrc": null,
+        "name": "Ghost Archer Bow",
+        "slot": "Bow",
+        "status": ""
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_47018.png",
+        "name": "Ghost Archer Horong",
+        "slot": "Wing",
+        "status": ""
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45015.png",
+        "name": "Ghost Bandana",
+        "slot": "Head",
+        "status": "Agi ＋2, Dark Dmg Taken -15%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45015.png",
+        "name": "Ghost Bandana [1]",
+        "slot": "Head",
+        "status": "Agi ＋2, Dark Dmg Taken -15%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/21.png",
+        "name": "Ghost Horse",
+        "slot": "Mount",
+        "status": "Move Spd ＋50%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/21.png",
+        "name": "Ghost Horse",
+        "slot": "Mount",
+        "status": "Move Spd ＋50%"
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Epic Spirit·Gerold's Glory(change color)",
+        "slot": "Spear",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Epic Spirit·Ghul's Rage",
+        "slot": "Mace",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Epic Spirit·Ghul's Rage(change color)",
+        "slot": "Mace",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Epic Spirit·Gus' Fist",
+        "slot": "Knuckle",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Epic Spirit·Gus' Fist(change color)",
+        "slot": "Knuckle",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Epic Spirit·Hector Sword(change color)",
+        "slot": "Sword",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Epic Spirit·Herist's Bow",
+        "slot": "Bow",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Epic Spirit·Herist's Bow(change color)",
+        "slot": "Bow",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Epic Spirit·Landy's Shield",
+        "slot": "Shield",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Epic Spirit·Landy's Shield(change color)",
+        "slot": "Shield",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Epic Spirit·Regie's Rage",
+        "slot": "Knife",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Epic Spirit·Regie's Rage(change color)",
+        "slot": "Knife",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Epic Spirit·Sklar's Will",
+        "slot": "Axe",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Epic Spirit·Sklar's Will(change color)",
+        "slot": "Axe",
+        "status": ""
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40006.png",
+        "name": "Equestrian's Spear",
+        "slot": "Spear",
+        "status": "Atk + 135"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40006.png",
+        "name": "Equestrian's Spear [2]",
+        "slot": "Spear",
+        "status": "Atk + 135"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41504.png",
+        "name": "Eraser [2]",
+        "slot": "Mace",
+        "status": "Atk + 180"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41504.png",
+        "name": "Eraser [3]",
+        "slot": "Mace",
+        "status": "Atk + 180"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41504.png",
+        "name": "Erde Mace [2]",
+        "slot": "Mace",
+        "status": "Atk + 180"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41504.png",
+        "name": "Erde Mace [3]",
+        "slot": "Mace",
+        "status": "Atk + 180"
+    }
+]

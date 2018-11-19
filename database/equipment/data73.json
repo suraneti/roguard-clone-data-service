@@ -1,0 +1,122 @@
+[
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40005.png",
+        "name": "Longinus Spear [3]",
+        "slot": "Spear",
+        "status": "Atk + 247"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45103.png",
+        "name": "Lord Kaho's Horn",
+        "slot": "Head",
+        "status": "No effect"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45103.png",
+        "name": "Lord Kaho's Horn [1]",
+        "slot": "Head",
+        "status": "No effect"
+    },
+    {
+        "imgsrc": null,
+        "name": "Lord's Clothes",
+        "slot": "Armour",
+        "status": "Str ＋3, VIT ＋3, Dex ＋3"
+    },
+    {
+        "imgsrc": null,
+        "name": "Lord's Clothes [1]",
+        "slot": "Armour",
+        "status": "Str ＋3, VIT ＋3, Dex ＋3"
+    },
+    {
+        "imgsrc": null,
+        "name": "Love and Bravery 2018",
+        "slot": "Head",
+        "status": "All Attributes ＋1, Max HP ＋100, Max SP ＋100"
+    },
+    {
+        "imgsrc": null,
+        "name": "Love at Tokyo Tower [1]",
+        "slot": "Head",
+        "status": "Overall Ability ＋1, Max SP ＋50"
+    },
+    {
+        "imgsrc": null,
+        "name": "Love Autumn",
+        "slot": "Head",
+        "status": "Max HP ＋100"
+    },
+    {
+        "imgsrc": null,
+        "name": "Love Beach Mirror",
+        "slot": "Face",
+        "status": "Max SP ＋50"
+    },
+    {
+        "imgsrc": null,
+        "name": "Love Blush",
+        "slot": "Face",
+        "status": "Max HP ＋50"
+    },
+    {
+        "imgsrc": null,
+        "name": "Love Cake",
+        "slot": "Head",
+        "status": "MAX HP ＋200, HP Regen ＋10%, SP Regen ＋3"
+    },
+    {
+        "imgsrc": null,
+        "name": "Love Cake [1]",
+        "slot": "Head",
+        "status": "MAX HP ＋200, HP Regen ＋10%, SP Regen ＋3"
+    },
+    {
+        "imgsrc": null,
+        "name": "Love Goddess",
+        "slot": "Wing",
+        "status": "Your own damage increases by 10%, but all damage you suffer increases by 20%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Love Heart Autumn",
+        "slot": "Wing",
+        "status": "Max SP ＋100"
+    },
+    {
+        "imgsrc": null,
+        "name": "Love Heart Spring",
+        "slot": "Wing",
+        "status": "Max SP ＋100"
+    },
+    {
+        "imgsrc": null,
+        "name": "Love Heart Summer",
+        "slot": "Wing",
+        "status": "Max SP ＋100"
+    },
+    {
+        "imgsrc": null,
+        "name": "Love Heart Winter",
+        "slot": "Head",
+        "status": "Max SP ＋100"
+    },
+    {
+        "imgsrc": null,
+        "name": "Love in your eyes",
+        "slot": "Face",
+        "status": "Max SP ＋50, Atk ＋10"
+    },
+    {
+        "imgsrc": null,
+        "name": "Love of the Tokyo Iron Tower",
+        "slot": "Head",
+        "status": "Overall Ability ＋1, Max SP ＋50"
+    },
+    {
+        "imgsrc": null,
+        "name": "Love Spring",
+        "slot": "Head",
+        "status": "Max HP ＋100"
+    }
+]

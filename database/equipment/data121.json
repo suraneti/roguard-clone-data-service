@@ -1,0 +1,122 @@
+[
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40304.png",
+        "name": "Steel Sword",
+        "slot": "Sword",
+        "status": "Atk + 90"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40304.png",
+        "name": "Steel Sword [2]",
+        "slot": "Sword",
+        "status": "Atk + 90"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45052.png",
+        "name": "Stellar",
+        "slot": "Head",
+        "status": "Def ＋10"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45052.png",
+        "name": "Stellar Hairpin",
+        "slot": "Head",
+        "status": ""
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45052.png",
+        "name": "Stellar [1]",
+        "slot": "Head",
+        "status": "Def ＋10"
+    },
+    {
+        "imgsrc": null,
+        "name": "Steward Briefcase",
+        "slot": "Wing",
+        "status": "Atk ＋3%, Ignore Def ＋3%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Steward series Clothes",
+        "slot": "Armour",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Steward Top Hat",
+        "slot": "Head",
+        "status": "Overall Ability ＋1, Def ＋2%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41502.png",
+        "name": "Stick [2]",
+        "slot": "Mace",
+        "status": "Atk + 67"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41502.png",
+        "name": "Stick [3]",
+        "slot": "Mace",
+        "status": "Atk + 67"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40707.png",
+        "name": "Stiletto",
+        "slot": "Knife",
+        "status": "Atk + 108"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40707.png",
+        "name": "Stiletto [2]",
+        "slot": "Knife",
+        "status": "Atk + 108"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45065.png",
+        "name": "Sting hat",
+        "slot": "Head",
+        "status": "Def ＋10, Str ＋2, VIT ＋1, M.Def ＋3, Earth damage reduction ＋5%, Damage to fire monsters ＋5%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45065.png",
+        "name": "Sting hat [1]",
+        "slot": "Head",
+        "status": "Def ＋10, Str ＋2, VIT ＋1, M.Def ＋3, Earth damage reduction ＋5%, Damage to fire monsters ＋5%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42507.png",
+        "name": "Stone Buckler",
+        "slot": "Shield",
+        "status": "Damage from L-size monsters -25%, Green Steel Pike IV ＋ Greaves  VII ＋ Stone Buckler IV: Ignores 5% Def, ＋5% Atk"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42507.png",
+        "name": "Stone Buckler [1]",
+        "slot": "Shield",
+        "status": "Damage from L-size monsters -25%, Green Steel Pike IV ＋ Greaves  VII ＋ Stone Buckler IV: Ignores 5% Def, ＋5% Atk"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45182.png",
+        "name": "Stone Heart",
+        "slot": "Head",
+        "status": "Def ＋10"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45182.png",
+        "name": "Stone Heart [1]",
+        "slot": "Head",
+        "status": "Def ＋10"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45037.png",
+        "name": "Stop Post",
+        "slot": "Head",
+        "status": "Def ＋10"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45037.png",
+        "name": "Stop Post [1]",
+        "slot": "Head",
+        "status": "Def ＋10"
+    }
+]

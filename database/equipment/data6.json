@@ -1,0 +1,122 @@
+[
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45045.png",
+        "name": "Apple of Archer",
+        "slot": "Head",
+        "status": "Def ＋2, Dex ＋3"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45045.png",
+        "name": "Apple of Archer [1]",
+        "slot": "Head",
+        "status": "Def ＋2, Dex ＋3"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40601.png",
+        "name": "Aqua Staff [2]",
+        "slot": "Staff",
+        "status": "M.Atk + 180"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40601.png",
+        "name": "Aqua Staff [3]",
+        "slot": "Staff",
+        "status": "M.Atk + 180"
+    },
+    {
+        "imgsrc": null,
+        "name": "Aquarius Crown",
+        "slot": "Head",
+        "status": "Str ＋1"
+    },
+    {
+        "imgsrc": null,
+        "name": "Aquarius Crown [1]",
+        "slot": "Head",
+        "status": "No effect"
+    },
+    {
+        "imgsrc": null,
+        "name": "Aquarius Diadem",
+        "slot": "Head",
+        "status": "Dex ＋3, AGI ＋3"
+    },
+    {
+        "imgsrc": null,
+        "name": "Aquarius Diadem [1]",
+        "slot": "Head",
+        "status": "Str ＋3"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40627.png",
+        "name": "Arc Wand",
+        "slot": "Staff",
+        "status": "M.Atk + 64"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40627.png",
+        "name": "Arc Wand [2]",
+        "slot": "Staff",
+        "status": "M.Atk + 64"
+    },
+    {
+        "imgsrc": null,
+        "name": "Aries Crown",
+        "slot": "Head",
+        "status": "Luk ＋1"
+    },
+    {
+        "imgsrc": null,
+        "name": "Aries Crown [1]",
+        "slot": "Head",
+        "status": "No effect"
+    },
+    {
+        "imgsrc": null,
+        "name": "Aries Diadem",
+        "slot": "Head",
+        "status": "Dex ＋3, AGI ＋3"
+    },
+    {
+        "imgsrc": null,
+        "name": "Aries Diadem [1]",
+        "slot": "Head",
+        "status": "Luk ＋3"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42030.png",
+        "name": "Army Armor",
+        "slot": "Armour",
+        "status": "Def + 75"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42030.png",
+        "name": "Army Armor [1]",
+        "slot": "Armour",
+        "status": "Def + 75"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_43532.png",
+        "name": "Army Boots",
+        "slot": "Shoes",
+        "status": "Def + 22"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_43532.png",
+        "name": "Army Boots [1]",
+        "slot": "Shoes",
+        "status": "Def + 22"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41209.png",
+        "name": "Army Bow",
+        "slot": "Bow",
+        "status": "Atk + 115"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41209.png",
+        "name": "Army Bow [2]",
+        "slot": "Bow",
+        "status": "Atk + 115"
+    }
+]

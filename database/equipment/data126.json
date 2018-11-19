@@ -1,0 +1,122 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Taurus Diadem [1]",
+        "slot": "Head",
+        "status": "VIT ＋3"
+    },
+    {
+        "imgsrc": null,
+        "name": "Team Member Helmet",
+        "slot": "Head",
+        "status": "Atk ＋20, Neutral Dmg ＋6%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Team member series clothes",
+        "slot": "Armour",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "The Blue Izlude Sea",
+        "slot": "Wing",
+        "status": "Atk ＋3%, M.Atk ＋3%, Job EXP of killing monsters ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "The Holy Son Insignia",
+        "slot": "Eikon",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "The Holy Son Insignia [1]",
+        "slot": "Eikon",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "The Memory",
+        "slot": "Head",
+        "status": "Max HP ＋200"
+    },
+    {
+        "imgsrc": null,
+        "name": "The Memory [1]",
+        "slot": "Head",
+        "status": "Dex ＋3, AGI ＋3"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40706.png",
+        "name": "Thick Dagger",
+        "slot": "Knife",
+        "status": "Atk + 90"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40706.png",
+        "name": "Thick Dagger [2]",
+        "slot": "Knife",
+        "status": "Atk + 90"
+    },
+    {
+        "imgsrc": null,
+        "name": "Thick Lips",
+        "slot": "Mouth",
+        "status": "No effect"
+    },
+    {
+        "imgsrc": null,
+        "name": "Thief Clothes",
+        "slot": "Armour",
+        "status": "M.Def ＋20, Agi ＋5, Str ＋10, [Thief Clothes VIII] ＋ [Holy Dagger VIII]: ＋15% damage against S-sized targets, ＋5% to M-sized targets and ＋10% to L-sized targets"
+    },
+    {
+        "imgsrc": null,
+        "name": "Thief Clothes [1]",
+        "slot": "Armour",
+        "status": "M.Def ＋20, Agi ＋5, Str ＋10, [Thief Clothes VIII] ＋ [Holy Dagger VIII]: ＋15% damage against S-sized targets, ＋5% to M-sized targets and ＋10% to L-sized targets"
+    },
+    {
+        "imgsrc": null,
+        "name": "Thorny Buckler [1]",
+        "slot": "Shield",
+        "status": "Def + 37"
+    },
+    {
+        "imgsrc": null,
+        "name": "Thorny Buckler [2]",
+        "slot": "Shield",
+        "status": "Def + 37"
+    },
+    {
+        "imgsrc": null,
+        "name": "Through-War Shoes",
+        "slot": "Shoes",
+        "status": "Move Spd ＋8%, HP Regen ＋15%, When Refining ＋5, ＋10, ＋15, Max HP ＋300, VIT ＋3, Max HP ＋5% respectively"
+    },
+    {
+        "imgsrc": null,
+        "name": "Through-War Shoes [1]",
+        "slot": "Shoes",
+        "status": "Move Spd ＋8%, HP Regen ＋15%, When Refining ＋5, ＋10, ＋15, Max HP ＋300, VIT ＋3, Max HP ＋5% respectively"
+    },
+    {
+        "imgsrc": null,
+        "name": "Thunder Oni's evil horn",
+        "slot": "Head",
+        "status": "Max HP ＋100"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45020.png",
+        "name": "Thunderstorm Cloud",
+        "slot": "Head",
+        "status": "Int ＋2, Damage to wind monsters ＋5%, For Refining ＋1, Damage to wind monsters ＋1% (upper limit of increase is ＋15%)"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45020.png",
+        "name": "Thunderstorm Cloud [1]",
+        "slot": "Head",
+        "status": "Int ＋2, Damage to wind monsters ＋5%, For Refining ＋1, Damage to wind monsters ＋1% (upper limit of increase is ＋15%)"
+    }
+]

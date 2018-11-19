@@ -1,0 +1,122 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Radio Antenna [1]",
+        "slot": "Head",
+        "status": "Dex ＋3, AGI ＋3"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40601.png",
+        "name": "Rafini Staff [2]",
+        "slot": "Staff",
+        "status": "M.Atk + 180"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40601.png",
+        "name": "Rafini Staff [3]",
+        "slot": "Staff",
+        "status": "M.Atk + 180"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_43004.png",
+        "name": "Ragamuffin Manteau",
+        "slot": "Robe",
+        "status": "Def + 16"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_43004.png",
+        "name": "Ragamuffin Manteau [1]",
+        "slot": "Robe",
+        "status": "Def + 16"
+    },
+    {
+        "imgsrc": null,
+        "name": "Ragamuffin Manteau [2]",
+        "slot": "Robe",
+        "status": "Def + 22"
+    },
+    {
+        "imgsrc": null,
+        "name": "Rage of Asgard",
+        "slot": "Mace",
+        "status": ""
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45137.png",
+        "name": "Rain Cloud",
+        "slot": "Head",
+        "status": "No effect"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45137.png",
+        "name": "Rain Cloud [1]",
+        "slot": "Head",
+        "status": "No effect"
+    },
+    {
+        "imgsrc": null,
+        "name": "Rainbow Bridge",
+        "slot": "Accessory",
+        "status": "MaxHp + 1314"
+    },
+    {
+        "imgsrc": null,
+        "name": "Rainbow Peco Peco",
+        "slot": "Mount",
+        "status": "Move Spd ＋25%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Rainbow Unicorn",
+        "slot": "Head",
+        "status": "Luk ＋5, Cri ＋3"
+    },
+    {
+        "imgsrc": null,
+        "name": "Rainbow Unicorn [1]",
+        "slot": "Head",
+        "status": "Luk ＋5, Cri ＋3"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45178.png",
+        "name": "Ramen Hat",
+        "slot": "Head",
+        "status": "Dex ＋1, When daggers are equipped, auto attack has a 10% chance to trigger Double Attack, When Refining reaches 10, Dex ＋4, Hit ＋10"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45178.png",
+        "name": "Ramen Hat [1]",
+        "slot": "Head",
+        "status": "Dex ＋1, When daggers are equipped, auto attack has a 10% chance to trigger Double Attack, When Refining reaches 10, Dex ＋4, Hit ＋10"
+    },
+    {
+        "imgsrc": null,
+        "name": "Ramune",
+        "slot": "Wing",
+        "status": "Str ＋4, INT ＋4, Max HP ＋200, Max SP ＋50"
+    },
+    {
+        "imgsrc": null,
+        "name": "Rancid Scale Armor",
+        "slot": "Armour",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Rancid Scale Armor [1]",
+        "slot": "Armour",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Ranger Clothes",
+        "slot": "Armour",
+        "status": "Dex ＋5, Atk ＋8%, Increase the influence of intelligence on Falcon's Atk, [Cursed Lyre IV] ＋[Ranger Clothes IV]: improve the influence of Atk on Falcon's Atk"
+    },
+    {
+        "imgsrc": null,
+        "name": "Ranger Clothes [1]",
+        "slot": "Armour",
+        "status": "Dex ＋5, Atk ＋8%, Increase the influence of intelligence on Falcon's Atk, [Cursed Lyre IV] ＋[Ranger Clothes IV]: improve the influence of Atk on Falcon's Atk"
+    }
+]

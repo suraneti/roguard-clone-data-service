@@ -1,0 +1,122 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Mace of Judgment [2]",
+        "slot": "Mace",
+        "status": "INT ＋6, DEX ＋6, ＋20% [Adoramus] multiplier for each refining level gained after reaching refining ＋5 (up to 200%)"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41529.png",
+        "name": "Mace [2]",
+        "slot": "Mace",
+        "status": "Atk + 72"
+    },
+    {
+        "imgsrc": null,
+        "name": "Mad Hat",
+        "slot": "Head",
+        "status": "Atk ＋20, Max HP ＋150"
+    },
+    {
+        "imgsrc": null,
+        "name": "Mad Hat [1]",
+        "slot": "Head",
+        "status": "Atk ＋20, Max HP ＋150"
+    },
+    {
+        "imgsrc": null,
+        "name": "Mado helm·Berry",
+        "slot": "Head",
+        "status": "Max HP ＋200, Def ＋5, M.Def ＋5"
+    },
+    {
+        "imgsrc": null,
+        "name": "Mado helm·Cheetah",
+        "slot": "Head",
+        "status": "Max HP ＋200, Def ＋5, M.Def ＋5"
+    },
+    {
+        "imgsrc": null,
+        "name": "Mado helm·Deep blue",
+        "slot": "Head",
+        "status": "Max HP ＋200, Def ＋5, M.Def ＋5"
+    },
+    {
+        "imgsrc": null,
+        "name": "Mado helm·Earth",
+        "slot": "Head",
+        "status": "Max HP ＋200, Def ＋5, M.Def ＋5"
+    },
+    {
+        "imgsrc": null,
+        "name": "Mado helm·Glacier",
+        "slot": "Head",
+        "status": "Max HP ＋200, Def ＋5, M.Def ＋5"
+    },
+    {
+        "imgsrc": null,
+        "name": "Mado helm·Guards",
+        "slot": "Head",
+        "status": "Max HP ＋200, Def ＋5, M.Def ＋5"
+    },
+    {
+        "imgsrc": null,
+        "name": "Mado helm·Hades",
+        "slot": "Head",
+        "status": "Max HP ＋200, Def ＋5, M.Def ＋5"
+    },
+    {
+        "imgsrc": null,
+        "name": "Mado helm·Holy light",
+        "slot": "Head",
+        "status": "Max HP ＋200, Def ＋5, M.Def ＋5"
+    },
+    {
+        "imgsrc": null,
+        "name": "Mado helm·Jungle berry",
+        "slot": "Head",
+        "status": "Max HP ＋200, Def ＋5, M.Def ＋5"
+    },
+    {
+        "imgsrc": null,
+        "name": "Mado helm·King",
+        "slot": "Head",
+        "status": "Max HP ＋200, Def ＋5, M.Def ＋5"
+    },
+    {
+        "imgsrc": null,
+        "name": "Mado helm·Mint",
+        "slot": "Head",
+        "status": "Max HP ＋200, Def ＋5, M.Def ＋5"
+    },
+    {
+        "imgsrc": null,
+        "name": "Mado helm·Night sakura",
+        "slot": "Head",
+        "status": "Max HP ＋200, Def ＋5, M.Def ＋5"
+    },
+    {
+        "imgsrc": null,
+        "name": "Mado helm·Poison",
+        "slot": "Head",
+        "status": "Max HP ＋200, Def ＋5, M.Def ＋5"
+    },
+    {
+        "imgsrc": null,
+        "name": "Mado helm·Pure",
+        "slot": "Head",
+        "status": "Max HP ＋200, Def ＋5, M.Def ＋5"
+    },
+    {
+        "imgsrc": null,
+        "name": "Mado helm·Scarlet flame",
+        "slot": "Head",
+        "status": "Max HP ＋200, Def ＋5, M.Def ＋5"
+    },
+    {
+        "imgsrc": null,
+        "name": "Mado helm·Sunshine",
+        "slot": "Head",
+        "status": "Max HP ＋200, Def ＋5, M.Def ＋5"
+    }
+]

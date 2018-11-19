@@ -1,0 +1,122 @@
+[
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40703.png",
+        "name": "Kitchen Knife [2]",
+        "slot": "Knife",
+        "status": "Atk + 360"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40703.png",
+        "name": "Kitchen Knife [3]",
+        "slot": "Knife",
+        "status": "Atk + 360"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_48539.png",
+        "name": "Kitsune Mask",
+        "slot": "Head",
+        "status": "Def ＋10, Agi ＋1, Luk ＋1"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_48539.png",
+        "name": "Kitsune Mask [1]",
+        "slot": "Head",
+        "status": "Def ＋10, Agi ＋1, Luk ＋1"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45002.png",
+        "name": "Kitty Band",
+        "slot": "Head",
+        "status": "Def ＋10"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45002.png",
+        "name": "Kitty Band [1]",
+        "slot": "Head",
+        "status": "Def ＋10"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40701.png",
+        "name": "Knife [2]",
+        "slot": "Knife",
+        "status": "Atk + 12"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40701.png",
+        "name": "Knife [3]",
+        "slot": "Knife",
+        "status": "Atk + 12"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40005.png",
+        "name": "Knight Spear",
+        "slot": "Spear",
+        "status": "Atk + 247"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40005.png",
+        "name": "Knight Spear [3]",
+        "slot": "Spear",
+        "status": "Atk + 247"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40301.png",
+        "name": "Knight's Sword",
+        "slot": "Sword",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Knowledge Master",
+        "slot": "Wing",
+        "status": "Atk ＋30, Critical ＋3"
+    },
+    {
+        "imgsrc": null,
+        "name": "Knuckle Dusters [1]",
+        "slot": "Knuckle",
+        "status": "VIT ＋3, Max HP ＋800, Natural Recovery of HP ＋10"
+    },
+    {
+        "imgsrc": null,
+        "name": "Knuckle Dusters [2]",
+        "slot": "Knuckle",
+        "status": "VIT ＋3, Max HP ＋800, Natural Recovery of HP ＋10"
+    },
+    {
+        "imgsrc": null,
+        "name": "Knuckles",
+        "slot": "Knuckle",
+        "status": "Atk + 140"
+    },
+    {
+        "imgsrc": null,
+        "name": "Knuckles [2]",
+        "slot": "Knuckle",
+        "status": "Atk + 140"
+    },
+    {
+        "imgsrc": null,
+        "name": "Kobold Bow",
+        "slot": "Bow",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Kobold Leader Blade",
+        "slot": "Sword",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Kobold Leader Shield",
+        "slot": "Sword",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Krishna Gloves [1]",
+        "slot": "Bracer",
+        "status": "Def + 112"
+    }
+]

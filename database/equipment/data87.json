@@ -1,0 +1,122 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Mystletainn Sky Forged",
+        "slot": "Knife",
+        "status": "Str ＋18, VIT ＋12, All Attributes ＋20, Hit ＋50, Atk ＋48%, Demi-Human Race Damage ＋50%, Max HP ＋32000, Dmg Reduc. ＋10%, Magic Reduc. ＋10%, Mystletainn releasing void power enables caster in [Void Space] to teleport in a short range. [Void Space]: players can immediately move to anywhere in a 6-meter range; Mystletainn allows players to use Void Space again within 6 seconds after previous use (continuous use within 1 second is unavailable). But the void force is so powerful that part of its energy will retain in the site after use. The remained energy will be sensed by all people. Every time the use of [Void Space] will set players into [Void hiding]. [Void hiding] enables caster to be invisible for 5 seconds. During [Void hiding], the damage of first attack will increase by 60%, both Atk and M.Atk increase by 300%; CD: 60 seconds."
+    },
+    {
+        "imgsrc": null,
+        "name": "Mystletainn [2]",
+        "slot": "Knife",
+        "status": "Str ＋18, VIT ＋12, All Attributes ＋8, Hit ＋50, Atk ＋24%, Demi-Human Race Damage ＋30%, Max HP ＋15000"
+    },
+    {
+        "imgsrc": null,
+        "name": "Nagan [1]",
+        "slot": "Sword",
+        "status": "Str ＋5, Dex ＋10, When [Bash] at Lv.10, Damage of [Bash] ＋100%, When [Bowling Bash] at Lv.1, damage of [Bowling Bash] ＋100%, When [Bash] at Lv.10, [Bash] deals Extra Dmg to middle-size monsters ＋50%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Nagan [2]",
+        "slot": "Sword",
+        "status": "Str ＋5, Dex ＋10, When [Bash] at Lv.10, Damage of [Bash] ＋100%, When [Bowling Bash] at Lv.1, damage of [Bowling Bash] ＋100%, When [Bash] at Lv.10, [Bash] deals Extra Dmg to middle-size monsters ＋50%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40307.png",
+        "name": "Nassi's Sword",
+        "slot": "Sword",
+        "status": "Atk + 198"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40307.png",
+        "name": "Nassi's Sword [2]",
+        "slot": "Sword",
+        "status": "Atk + 198"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_61001.png",
+        "name": "Nature Gloves [1]",
+        "slot": "Bracer",
+        "status": "Def + 15"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_61001.png",
+        "name": "Nature Gloves [2]",
+        "slot": "Bracer",
+        "status": "Def + 15"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_60003.png",
+        "name": "Nature Orb [1]",
+        "slot": "Orb",
+        "status": "Def + 45"
+    },
+    {
+        "imgsrc": null,
+        "name": "Nature Orb [2]",
+        "slot": "Orb",
+        "status": "Def + 45"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_48538.png",
+        "name": "Naughty Mask",
+        "slot": "Face",
+        "status": "No effect"
+    },
+    {
+        "imgsrc": null,
+        "name": "Navy Beret",
+        "slot": "Head",
+        "status": "Max HP ＋500"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45054.png",
+        "name": "Necktie",
+        "slot": "Head",
+        "status": "Def ＋5, VIT ＋1"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45054.png",
+        "name": "Necktie [1]",
+        "slot": "Head",
+        "status": "Def ＋5, VIT ＋1"
+    },
+    {
+        "imgsrc": null,
+        "name": "NEIKO",
+        "slot": "Tail",
+        "status": "M.Atk ＋2%, DEX ＋3"
+    },
+    {
+        "imgsrc": null,
+        "name": "Nemesis [1]",
+        "slot": "Staff",
+        "status": "M.Atk ＋15%, Luk ＋5, CT Variable of [Holy Light Strike], [Turn Undead], [Magnus Exorcismus Attack] -25%, Luck value brings extra damage to [Holy Light Strike], [Judex]"
+    },
+    {
+        "imgsrc": null,
+        "name": "Nemesis [2]",
+        "slot": "Staff",
+        "status": "M.Atk ＋15%, Luk ＋5, CT Variable of [Holy Light Strike], [Turn Undead], [Magnus Exorcismus Attack] -25%, Luck value brings extra damage to [Holy Light Strike], [Judex]"
+    },
+    {
+        "imgsrc": null,
+        "name": "Night Aira",
+        "slot": "Face",
+        "status": "Atk ＋10, M.Atk ＋10, Base EXP of killing monsters ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Night Aira[1]",
+        "slot": "Face",
+        "status": "Atk ＋10, M.Atk ＋10, Base EXP of killing monsters ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Night Feather",
+        "slot": "Wing",
+        "status": "Overall Ability ＋2, Pen. ＋4%, MPen. ＋4%"
+    }
+]

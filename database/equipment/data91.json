@@ -1,0 +1,122 @@
+[
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42042.png",
+        "name": "Orleans's Gown",
+        "slot": "Armour",
+        "status": "CT Variable ＋20%, The skill's effect will not be interrupted"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42042.png",
+        "name": "Orleans's Gown [1]",
+        "slot": "Armour",
+        "status": "CT Variable ＋20%, The skill's effect will not be interrupted"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42525.png",
+        "name": "Orleans's Server",
+        "slot": "Shield",
+        "status": "M.Dmg Reflect ＋10%, M.Def ＋50"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42525.png",
+        "name": "Orleans's Server [1]",
+        "slot": "Shield",
+        "status": "M.Dmg Reflect ＋10%, M.Def ＋50"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/21.png",
+        "name": "Ostrich",
+        "slot": "Mount",
+        "status": "Move Spd ＋75%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/21.png",
+        "name": "Ostrich",
+        "slot": "Mount",
+        "status": "Move Spd ＋75%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Ouch! Kobold",
+        "slot": "Head",
+        "status": "M.Def ＋5%, Max HP ＋200"
+    },
+    {
+        "imgsrc": null,
+        "name": "Ouch! Kobold [1]",
+        "slot": "Head",
+        "status": "M.Def ＋5%, Max HP ＋200"
+    },
+    {
+        "imgsrc": null,
+        "name": "Ouroboros Axe",
+        "slot": "Axe",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Ouroboros Blade",
+        "slot": "Knife",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Ouroboros Bow",
+        "slot": "Bow",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Ouroboros Boxing Gloves",
+        "slot": "Knuckle",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Ouroboros Hammer",
+        "slot": "Mace",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Ouroboros Katar",
+        "slot": "Katar",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Ouroboros Shield",
+        "slot": "Shield",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Ouroboros Spear",
+        "slot": "Spear",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Ouroboros Staff",
+        "slot": "Staff",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Ouroboros Sword",
+        "slot": "Sword",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Overclock [1]",
+        "slot": "Trolley",
+        "status": "Def + 112"
+    },
+    {
+        "imgsrc": null,
+        "name": "Overclock [2]",
+        "slot": "Trolley",
+        "status": "Def + 112"
+    }
+]

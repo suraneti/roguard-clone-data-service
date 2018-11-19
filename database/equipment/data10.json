@@ -1,0 +1,122 @@
+[
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40301.png",
+        "name": "Balmung[3]",
+        "slot": "Sword",
+        "status": "Atk + 180"
+    },
+    {
+        "imgsrc": null,
+        "name": "Baltan Doll Hat",
+        "slot": "Head",
+        "status": "Def ＋2%, Def ＋15"
+    },
+    {
+        "imgsrc": null,
+        "name": "Baltan Doll Hat [1]",
+        "slot": "Head",
+        "status": "Def ＋2%, Def ＋15"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_48504.png",
+        "name": "Bandana",
+        "slot": "Head",
+        "status": "Def ＋10"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45084.png",
+        "name": "Bao Bao",
+        "slot": "Head",
+        "status": "Def ＋15"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45084.png",
+        "name": "Bao Bao [1]",
+        "slot": "Head",
+        "status": "Def ＋15"
+    },
+    {
+        "imgsrc": null,
+        "name": "Baphomet Hairband",
+        "slot": "Head",
+        "status": "Max HP ＋100"
+    },
+    {
+        "imgsrc": null,
+        "name": "Baphomet Jr.’s Summer",
+        "slot": "Wing",
+        "status": "AGI ＋5, Critical ＋5,  5% chance to Flee magic damage. ＋1% Flee chance for every 50 Flee you have (up to 15%)"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42034.png",
+        "name": "Baptized Armor",
+        "slot": "Armour",
+        "status": "Def + 103"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42034.png",
+        "name": "Baptized Armor [1]",
+        "slot": "Armour",
+        "status": "Def + 103"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42035.png",
+        "name": "Baptized Robe",
+        "slot": "Armour",
+        "status": "Def + 50"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42035.png",
+        "name": "Baptized Robe [1]",
+        "slot": "Armour",
+        "status": "Def + 50"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_43534.png",
+        "name": "Baptized Shoes",
+        "slot": "Shoes",
+        "status": "Def + 30"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_43534.png",
+        "name": "Baptized Shoes [1]",
+        "slot": "Shoes",
+        "status": "Def + 30"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45196.png",
+        "name": "Baseball Cap [1]",
+        "slot": "Head",
+        "status": "When equipped by Swordsman/Assassin/Priest/Merchant, Atk ＋10, When equipped by wizards, M.Atk ＋10"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40307.png",
+        "name": "Bastard Sword",
+        "slot": "Sword",
+        "status": "Atk + 180"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40307.png",
+        "name": "Bastard Sword [2]",
+        "slot": "Sword",
+        "status": "Atk + 180"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41804.png",
+        "name": "Battle Axe",
+        "slot": "Axe",
+        "status": "Atk + 210"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41804.png",
+        "name": "Battle Axe [2]",
+        "slot": "Axe",
+        "status": "Atk + 210"
+    },
+    {
+        "imgsrc": null,
+        "name": "Battle Berdysz [1]",
+        "slot": "Axe",
+        "status": "VIT ＋6, Equipment ASPD ＋10%, [Alloy Mail] ＋[Battle Berdysz]: each auto attack causes Amistr's Atk increases by 3%; the effect lasts 5 seconds, and can stack 3 times at most."
+    }
+]

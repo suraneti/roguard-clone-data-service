@@ -1,0 +1,122 @@
+[
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_61004.png",
+        "name": "Fox Wrist Guard [1]",
+        "slot": "Bracer",
+        "status": "Def + 33"
+    },
+    {
+        "imgsrc": null,
+        "name": "Free Poring",
+        "slot": "Wing",
+        "status": "Atk ＋30, When STR reaches 120, Atk ＋15"
+    },
+    {
+        "imgsrc": null,
+        "name": "Freezer [1]",
+        "slot": "Trolley",
+        "status": "Def + 112"
+    },
+    {
+        "imgsrc": null,
+        "name": "Freezer [2]",
+        "slot": "Trolley",
+        "status": "Def + 112"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45119.png",
+        "name": "Fricca's Circlet",
+        "slot": "Head",
+        "status": "INT ＋3, M.Def ＋15, Max SP ＋150"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45119.png",
+        "name": "Fricca's Circlet [1]",
+        "slot": "Head",
+        "status": "INT ＋3, M.Def ＋15, Max SP ＋150"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_43503.png",
+        "name": "Fricco's Shoes [1]",
+        "slot": "Shoes",
+        "status": "Def + 67"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_43503.png",
+        "name": "Fricco's Shoes [2]",
+        "slot": "Shoes",
+        "status": "Def + 67"
+    },
+    {
+        "imgsrc": null,
+        "name": "Fried Chicken Hero",
+        "slot": "Head",
+        "status": "Overall Ability ＋2, Dmg ＋8%, M.Dmg ＋8%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Fried Chicken Hero [1]",
+        "slot": "Head",
+        "status": "Overall Ability ＋2, Dmg ＋8%, M.Dmg ＋8%, Become a Scenery! Wear [Fried Chicken Hero] to become a Scenery yourself. Adventurers who take photo of it will unlock the event Scenery \"KFC Chicken King\"!"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41201.png",
+        "name": "Frozen Bow [2]",
+        "slot": "Bow",
+        "status": "Atk + 180"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41201.png",
+        "name": "Frozen Bow[3]",
+        "slot": "Bow",
+        "status": "Atk + 180"
+    },
+    {
+        "imgsrc": null,
+        "name": "Frozen Crown",
+        "slot": "Head",
+        "status": "Dex ＋3, AGI ＋3"
+    },
+    {
+        "imgsrc": null,
+        "name": "Frozen Crown [1]",
+        "slot": "Head",
+        "status": "All Attributes ＋2"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_44007.png",
+        "name": "Frozen Rose Ring",
+        "slot": "Accessory",
+        "status": "Atk ＋30, Damage from plant monster's attack -10%, The wearer will not be actively attacked by plant monsters"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_44007.png",
+        "name": "Frozen Rose Ring [1]",
+        "slot": "Accessory",
+        "status": "Atk ＋30, Damage from plant monster's attack -10%, The wearer will not be actively attacked by plant monsters"
+    },
+    {
+        "imgsrc": null,
+        "name": "Frozen Seal",
+        "slot": "Head",
+        "status": "Max HP ＋50"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40920.png",
+        "name": "Fullblack Dagger [1]",
+        "slot": "Knife",
+        "status": "Str ＋2, Atk ＋10, When Strength reaches 75, Melee Atk ＋10%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40920.png",
+        "name": "Fullblack Dagger [2]",
+        "slot": "Knife",
+        "status": "Str ＋2, Atk ＋10, When Strength reaches 75, Melee Atk ＋10%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Future Mirror",
+        "slot": "Face",
+        "status": "Atk ＋10, Hit ＋10"
+    }
+]

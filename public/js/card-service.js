@@ -6,19 +6,15 @@ function cloneCardData(pages) {
     for (let i = 1; i <= pages; i++) {
         if (i === 1) {
             serializeCardData('', resp => {
-                fs.writeFile(`./database/card/data${i}.json`, JSON.stringify(resp), function (err) {
-                    if (err) {
-                        return console.log(err);
-                    }
+                fs.writeFile(`./database/card/data${i}.json`, JSON.stringify(resp, null, 4), function (err) {
+                    if (err) return console.log(err)
                 })
             })
         } else {
             serializeCardData('?page=' + i, resp => {
-                fs.writeFile(`./database/card/data${i}.json`, JSON.stringify(resp), function (err) {
-                    if (err) {
-                        return console.log(err);
-                    }
-                });
+                fs.writeFile(`./database/card/data${i}.json`, JSON.stringify(resp, null, 4), function (err) {
+                    if (err) return console.log(err)
+                })
             })
         }
     }

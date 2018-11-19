@@ -1,0 +1,122 @@
+[
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40601.png",
+        "name": "Golden Rod Staff [3]",
+        "slot": "Staff",
+        "status": "M.Atk + 180"
+    },
+    {
+        "imgsrc": null,
+        "name": "Golden Thought",
+        "slot": "Face",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Goldfish Hair Accessory",
+        "slot": "Head",
+        "status": "Dex ＋3, AGI ＋3"
+    },
+    {
+        "imgsrc": null,
+        "name": "Gomora Pajamas",
+        "slot": "Armour",
+        "status": "Become a Scenery! Wear [Ultraman Tiga] to become a Scenery yourself. Adventurers who take photo of it will unlock the event Scenery \"The Giant of Light\"!"
+    },
+    {
+        "imgsrc": null,
+        "name": "Gomora Pajamas",
+        "slot": "Armour",
+        "status": "Become a Scenery! Wear [Ultraman Tiga] to become a Scenery yourself. Adventurers who take photo of it will unlock the event Scenery \"The Giant of Light\"!"
+    },
+    {
+        "imgsrc": null,
+        "name": "Gomora Pajamas Clothing",
+        "slot": "Armour",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Gorgeous Headwear Female",
+        "slot": "Head",
+        "status": "Max HP ＋100"
+    },
+    {
+        "imgsrc": null,
+        "name": "Gorgeous Headwear Male",
+        "slot": "Head",
+        "status": "Max HP ＋100"
+    },
+    {
+        "imgsrc": null,
+        "name": "Goshawk Gryphon",
+        "slot": "Mount",
+        "status": "Move Spd ＋25%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_48508.png",
+        "name": "Grampa Beard",
+        "slot": "Mouth",
+        "status": "Def ＋10"
+    },
+    {
+        "imgsrc": null,
+        "name": "Grand Chef·Broth",
+        "slot": "Head",
+        "status": "Max HP ＋50, INT ＋2"
+    },
+    {
+        "imgsrc": null,
+        "name": "Grand Chef·Cookie",
+        "slot": "Head",
+        "status": "Atk ＋10, M.Atk ＋10, Agi ＋1"
+    },
+    {
+        "imgsrc": null,
+        "name": "Grand Chef·Fish Kebab",
+        "slot": "Head",
+        "status": "Max HP ＋50, Luk ＋2"
+    },
+    {
+        "imgsrc": null,
+        "name": "Grand Chef·Fish Soup",
+        "slot": "Head",
+        "status": "Atk ＋10, M.Atk ＋10, Str ＋1"
+    },
+    {
+        "imgsrc": null,
+        "name": "Grand Chef·Fish Steak",
+        "slot": "Head",
+        "status": "Max HP ＋50, Dex ＋2"
+    },
+    {
+        "imgsrc": null,
+        "name": "Grand Chef·Green BBQ",
+        "slot": "Head",
+        "status": "Atk ＋10, M.Atk ＋10, INT ＋1"
+    },
+    {
+        "imgsrc": null,
+        "name": "Grand Chef·Ice Cream",
+        "slot": "Head",
+        "status": "Atk ＋10, M.Atk ＋10, Luk ＋1"
+    },
+    {
+        "imgsrc": null,
+        "name": "Grand Chef·Juice",
+        "slot": "Head",
+        "status": "Max HP ＋50, Agi ＋2"
+    },
+    {
+        "imgsrc": null,
+        "name": "Grand Chef·Meat Kebab",
+        "slot": "Head",
+        "status": "Max HP ＋50, VIT ＋2"
+    },
+    {
+        "imgsrc": null,
+        "name": "Grand Chef·Meat Steak",
+        "slot": "Head",
+        "status": "Max HP ＋50, Str ＋2"
+    }
+]

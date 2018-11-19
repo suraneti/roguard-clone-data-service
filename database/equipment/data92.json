@@ -1,0 +1,122 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Ox Bone Helm",
+        "slot": "Head",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Ox Bone Helm",
+        "slot": "Head",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Ox Bone Helm [1]",
+        "slot": "Head",
+        "status": "Dex ＋3, AGI ＋3"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_48502.png",
+        "name": "Oxygen Mask",
+        "slot": "Face",
+        "status": "Poison Dmg Taken -20%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41206.png",
+        "name": "P. Bow",
+        "slot": "Bow",
+        "status": "Atk + 43"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41206.png",
+        "name": "P. Bow [2]",
+        "slot": "Bow",
+        "status": "Atk + 43"
+    },
+    {
+        "imgsrc": null,
+        "name": "P. Knuckle",
+        "slot": "Knuckle",
+        "status": "Atk + 212"
+    },
+    {
+        "imgsrc": null,
+        "name": "P. Knuckle [2]",
+        "slot": "Knuckle",
+        "status": "Atk + 212"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40604.png",
+        "name": "P. Staff",
+        "slot": "Staff",
+        "status": "M.Atk + 33"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40604.png",
+        "name": "P. Staff [2]",
+        "slot": "Staff",
+        "status": "M.Atk + 33"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41503.png",
+        "name": "P. Stick",
+        "slot": "Mace",
+        "status": "Atk + 54"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41503.png",
+        "name": "P. Stick [2]",
+        "slot": "Mace",
+        "status": "Atk + 54"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_48524.png",
+        "name": "Pacifier",
+        "slot": "Face",
+        "status": ""
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45136.png",
+        "name": "Pagdayaw",
+        "slot": "Head",
+        "status": "auto attack or any skill attack has a 3% chance to cast curse"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45136.png",
+        "name": "Pagdayaw [1]",
+        "slot": "Head",
+        "status": "auto attack or any skill attack has a 3% chance to cast curse"
+    },
+    {
+        "imgsrc": null,
+        "name": "Panda and Poring’s Bamboo",
+        "slot": "Head",
+        "status": "Atk ＋3%,  Damage of Demi-Human ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Panda and Poring’s Bamboo [1]",
+        "slot": "Head",
+        "status": "Atk ＋3%,  Damage of Demi-Human ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Panda Hat",
+        "slot": "Head",
+        "status": "No effect"
+    },
+    {
+        "imgsrc": null,
+        "name": "Panda Hat [1]",
+        "slot": "Head",
+        "status": "No effect"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42014.png",
+        "name": "Panties",
+        "slot": "Armour",
+        "status": "Dex ＋7, [Panties VI] ＋ [Shirt IV]: Agility ＋5. Every Fleewill provide 5 max HP"
+    }
+]

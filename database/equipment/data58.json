@@ -1,0 +1,122 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Hat of the Radiant Sun God",
+        "slot": "Head",
+        "status": "Max HP ＋5000, Def ＋15%, MDef ＋5%, Crit Res＋15, Dmg Reduc. ＋7.5%, Magic Reduc. ＋2.5%, Poison, Holy, Dark, Ghost, Neutral damage taken -15%. Fire, Water, Earth, Wind damage taken -5%, Gain passive skill [Solar Flare]: 30% chance to trigger Solar Flare effect when hit, dealing real damage equal to 1% of your max HP (in the field) per second to enemies around you within a 3m radius for 5s"
+    },
+    {
+        "imgsrc": null,
+        "name": "Hat of the Star God",
+        "slot": "Head",
+        "status": "Max HP ＋4000, Def ＋10%, MDef ＋10%, Crit Res＋15,  Poison, Holy, Dark, Ghost, Neutral, Fire, Water, Earth and Wind damage taken -10%, Gain passive skill [Nebula Coil]: Applies a stack of [Slow] debuff on the attack when you’re hit. Each stack reduces the attacker’s movement speed by 8% for 3s, stacking up to 3 times."
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45101.png",
+        "name": "Hat of the Sun God",
+        "slot": "Head",
+        "status": "No effect"
+    },
+    {
+        "imgsrc": null,
+        "name": "Hat of the Sun God",
+        "slot": "Head",
+        "status": "Max HP ＋4000, Def ＋15%, MDef ＋5%, Crit Res ＋15, Poison, Holy, Dark, Ghost, Neutral damage taken -15%. Fire, Water, Earth, Wind damage taken -5%, Gain passive skill [Solar Flare]: 30% chance to trigger Solar Flare effect when hit, dealing real damage equal to 0.5% of your max HP (in the field) per second to enemies around you within a 3m radius for 5s"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45101.png",
+        "name": "Hat of the Sun God [1]",
+        "slot": "Head",
+        "status": "No effect"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45005.png",
+        "name": "Hat [1]",
+        "slot": "Head",
+        "status": "Def ＋10"
+    },
+    {
+        "imgsrc": null,
+        "name": "Hatii Claw [1]",
+        "slot": "Knuckle",
+        "status": "Atk + 140"
+    },
+    {
+        "imgsrc": null,
+        "name": "Hatii Claw [2]",
+        "slot": "Knuckle",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Head of Drops",
+        "slot": "Head",
+        "status": "Atk ＋5000, M.Atk ＋5000, Def ＋100000, M.Def ＋100000, Max HP ＋1000000, Max SP ＋100000, Hit ＋200, Flee ＋200, Cri ＋50, Life Steal ＋100%, CT Variable Reduction ＋100%, HP Regen ＋100%, SP Regen ＋100%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Head of Marin",
+        "slot": "Head",
+        "status": "Atk ＋5000, M.Atk ＋5000, Def ＋100000, M.Def ＋100000, Max HP ＋1000000, Max SP ＋100000, Hit ＋200, Flee ＋200, Cri ＋50, Life Steal ＋100%, CT Variable Reduction ＋100%, HP Regen ＋100%, SP Regen ＋100%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Head of Poporing",
+        "slot": "Head",
+        "status": "Atk ＋5000, M.Atk ＋5000, Def ＋100000, M.Def ＋100000, Max HP ＋1000000, Max SP ＋100000, Hit ＋200, Flee ＋200, Cri ＋50, Life Steal ＋100%, CT Variable Reduction ＋100%, HP Regen ＋100%, SP Regen ＋100%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45001.png",
+        "name": "Head of Poring",
+        "slot": "Head",
+        "status": "Atk ＋5000, M.Atk ＋5000, Def ＋100000, M.Def ＋100000, Max HP ＋1000000, Max SP ＋100000, Hit ＋200, Flee ＋200, Cri ＋50, Life Steal ＋100%, CT Variable Reduction ＋100%, HP Regen ＋100%, SP Regen ＋100%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Headwear BGSHOP",
+        "slot": "Wing",
+        "status": "Max HP ＋200, Atk ＋10, M.Atk ＋10"
+    },
+    {
+        "imgsrc": null,
+        "name": "Headwear Moon Milk TEATOP",
+        "slot": "Wing",
+        "status": "Max HP ＋100, Max SP ＋100"
+    },
+    {
+        "imgsrc": null,
+        "name": "Headwear- Headwear Color 1",
+        "slot": "Head",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Headwear- Headwear Color 2",
+        "slot": "Head",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Headwear- Headwear Color 3",
+        "slot": "Head",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Headwear- Headwear Color 4",
+        "slot": "Head",
+        "status": ""
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41518.png",
+        "name": "Healing Staff [1]",
+        "slot": "Staff",
+        "status": "SP Regen ＋20%, For Refining ＋1, the recovery effect of [Heal], [Sanctuary] ＋3%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41518.png",
+        "name": "Healing Staff [2]",
+        "slot": "Staff",
+        "status": "SP Regen ＋20%, For Refining ＋1, the recovery effect of [Heal], [Sanctuary] ＋3%"
+    }
+]

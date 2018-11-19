@@ -1,0 +1,122 @@
+[
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_43025.png",
+        "name": "Doflamingo Cape [1]",
+        "slot": "Robe",
+        "status": "Def + 25"
+    },
+    {
+        "imgsrc": null,
+        "name": "Dog Bandana",
+        "slot": "Head",
+        "status": "All Attributes ＋1"
+    },
+    {
+        "imgsrc": null,
+        "name": "Dog Bandana[1]",
+        "slot": "Head",
+        "status": "All Attributes ＋1"
+    },
+    {
+        "imgsrc": null,
+        "name": "Dog Kiss",
+        "slot": "Mouth",
+        "status": "Def ＋10, M.Def ＋10"
+    },
+    {
+        "imgsrc": null,
+        "name": "Doge Colonel",
+        "slot": "Head",
+        "status": "Def ＋5%, Max HP ＋200"
+    },
+    {
+        "imgsrc": null,
+        "name": "Doge Colonel [1]",
+        "slot": "Head",
+        "status": "Def ＋5%, Max HP ＋200"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_44010.png",
+        "name": "Dogtooth Gloves",
+        "slot": "Accessory",
+        "status": "Dex ＋5, Dmg to demon race ＋5%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_44010.png",
+        "name": "Dogtooth Gloves [1]",
+        "slot": "Accessory",
+        "status": "Dex ＋5, Dmg to demon race ＋5%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45184.png",
+        "name": "Dokebi Horn",
+        "slot": "Head",
+        "status": "Def ＋10"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45184.png",
+        "name": "Dokebi Horn [1]",
+        "slot": "Head",
+        "status": "Def ＋10"
+    },
+    {
+        "imgsrc": null,
+        "name": "Don't Cry, babe",
+        "slot": "Wing",
+        "status": "Healing Bonus ＋3%, Holy Dmg ＋3%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Donut Bag",
+        "slot": "Wing",
+        "status": "Max HP ＋500, Dmg to Demi-Human race ＋4%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Doom Axe [1]",
+        "slot": "Axe",
+        "status": "Str ＋5, For each level of [Skin Tempering] is learned, Extra Fire Dmg ＋10%, When Strength reaches 50, Atk ＋10%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Doom Axe [2]",
+        "slot": "Axe",
+        "status": "Str ＋5, For each level of [Skin Tempering] is learned, Extra Fire Dmg ＋10%, When Strength reaches 50, Atk ＋10%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Doom Slayer [1]",
+        "slot": "Axe",
+        "status": "When Strength reaches 95, Atk ＋340, SP cost of skill use will be doubled, ASPD -40%, When Refining reaches ＋5, ＋10, ＋15, Equipment ASPD ＋5%, ＋10%, ＋15% accordingly, Auto Attack has a 30% chance to stun the target, With a probability to destroy armors (no content yet)"
+    },
+    {
+        "imgsrc": null,
+        "name": "Doom Slayer [2]",
+        "slot": "Axe",
+        "status": "When Strength reaches 95, Atk ＋340, SP cost of skill use will be doubled, ASPD -40%, When Refining reaches ＋5, ＋10, ＋15, Equipment ASPD ＋5%, ＋10%, ＋15% accordingly, Auto Attack has a 30% chance to stun the target, With a probability to destroy armors (no content yet)"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41208.png",
+        "name": "Double Bound [1]",
+        "slot": "Bow",
+        "status": "Agi ＋2, auto attack has a chance to trigger [Double Strafe] Lv.5, When [Beastmastery] Lv.10 is learned, the damage of [Beastmastery] ＋20%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41208.png",
+        "name": "Double Bound [2]",
+        "slot": "Bow",
+        "status": "Agi ＋2, auto attack has a chance to trigger [Double Strafe] Lv.5, When [Beastmastery] Lv.10 is learned, the damage of [Beastmastery] ＋20%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42533.png",
+        "name": "Dragon Fire Orb",
+        "slot": "Orb",
+        "status": "Def + 50"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42533.png",
+        "name": "Dragon Fire Orb [1]",
+        "slot": "Orb",
+        "status": "Def + 50"
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45053.png",
+        "name": "Deviruchi Hat",
+        "slot": "Head",
+        "status": "Def ＋10, Str ＋1, INT ＋1"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45053.png",
+        "name": "Deviruchi Hat [1]",
+        "slot": "Head",
+        "status": "Def ＋10, Str ＋1, INT ＋1"
+    },
+    {
+        "imgsrc": null,
+        "name": "Deviruchi Headphone",
+        "slot": "Head",
+        "status": "Max HP ＋50, Max SP ＋50"
+    },
+    {
+        "imgsrc": null,
+        "name": "Deviruchi Headphone [1]",
+        "slot": "Head",
+        "status": "Max HP ＋50, Max SP ＋50"
+    },
+    {
+        "imgsrc": null,
+        "name": "Deviruchi Julian",
+        "slot": "Tail",
+        "status": "Atk ＋2%, Atk ＋25"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_48006.png",
+        "name": "Deviruchi Tail",
+        "slot": "Tail",
+        "status": "Flee ＋5%, Darkness Resistance ＋100%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_61504.png",
+        "name": "Dex Bracelet",
+        "slot": "Bracelet",
+        "status": "Def + 28"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_61504.png",
+        "name": "Dex Bracelet [1]",
+        "slot": "Bracelet",
+        "status": "Def + 28"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_43503.png",
+        "name": "Diabolus Boots [1]",
+        "slot": "Shoes",
+        "status": "Def + 90"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_43503.png",
+        "name": "Diabolus Boots [2]",
+        "slot": "Shoes",
+        "status": "Def + 90"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45145.png",
+        "name": "Diadem",
+        "slot": "Head",
+        "status": "No effect"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45145.png",
+        "name": "Diadem [1]",
+        "slot": "Head",
+        "status": "No effect"
+    },
+    {
+        "imgsrc": null,
+        "name": "Diamond Galaxy",
+        "slot": "Accessory",
+        "status": "MaxHp + 1314"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_44012.png",
+        "name": "Diamond Ring [1]",
+        "slot": "Accessory",
+        "status": "Atk + 42"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_44001.png",
+        "name": "Diamond Ring[2]",
+        "slot": "Accessory",
+        "status": "Atk + 42"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_44001.png",
+        "name": "Diamond Ring[2]",
+        "slot": "Accessory",
+        "status": "M.Atk + 30"
+    },
+    {
+        "imgsrc": null,
+        "name": "Director of the voice club",
+        "slot": "Wing",
+        "status": "M.Atk ＋20, Max HP ＋200"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40703.png",
+        "name": "Dirk [2]",
+        "slot": "Knife",
+        "status": "Atk + 96"
+    },
+    {
+        "imgsrc": null,
+        "name": "Divine hand",
+        "slot": "Head",
+        "status": "Max HP ＋400, Dmg to Demi-Human race ＋5%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_43025.png",
+        "name": "Doflamingo Cape",
+        "slot": "Robe",
+        "status": "Def + 25"
+    }
+]

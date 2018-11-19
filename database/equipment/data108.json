@@ -1,0 +1,122 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Sakura Wedding Clothes",
+        "slot": "Armour",
+        "status": "Unable to fight with Blessed effect"
+    },
+    {
+        "imgsrc": null,
+        "name": "SAKURA·SAKURA",
+        "slot": "Mouth",
+        "status": "Max SP ＋100"
+    },
+    {
+        "imgsrc": null,
+        "name": "Samambaia",
+        "slot": "Head",
+        "status": "Dex ＋3, AGI ＋3"
+    },
+    {
+        "imgsrc": null,
+        "name": "Samambaia [1]",
+        "slot": "Head",
+        "status": "Atk ＋10, M.Atk ＋10, Equipment ASPD ＋2%, Bonus Healing ＋2%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_43523.png",
+        "name": "Sandals",
+        "slot": "Shoes",
+        "status": "Def + 9"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_43523.png",
+        "name": "Sandals [1]",
+        "slot": "Shoes",
+        "status": "Def + 9"
+    },
+    {
+        "imgsrc": null,
+        "name": "Sandstorm [1]",
+        "slot": "Knife",
+        "status": "Hit ＋40, Damage to L-size monsters ＋30%, Damage to middle-size monsters ＋10%, auto attack has a chance to cause the target loses ASPD for a while"
+    },
+    {
+        "imgsrc": null,
+        "name": "Sandstorm [2]",
+        "slot": "Knife",
+        "status": "Hit ＋40, Damage to L-size monsters ＋30%, Damage to middle-size monsters ＋10%, auto attack has a chance to cause the target loses ASPD for a while"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45199.png",
+        "name": "Santa Hat",
+        "slot": "Head",
+        "status": "M.Def ＋5, Luk ＋1"
+    },
+    {
+        "imgsrc": null,
+        "name": "Santa Hat",
+        "slot": "Head",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Santa Hat",
+        "slot": "Head",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Santa Poring Pet Headwear",
+        "slot": "Head",
+        "status": ""
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42008.png",
+        "name": "Saphien's Armor of Ocean",
+        "slot": "Armour",
+        "status": "Def + 28"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42008.png",
+        "name": "Saphien's Armor of Ocean [1]",
+        "slot": "Armour",
+        "status": "Def + 28"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40314.png",
+        "name": "Sashimi [1]",
+        "slot": "Sword",
+        "status": "Str ＋5, Def ＋40, When Strength reaches 75, Atk ＋5%, auto attack has a chance to deal multiple attribute Dmg to targets"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40314.png",
+        "name": "Sashimi [2]",
+        "slot": "Sword",
+        "status": "Str ＋5, Def ＋40, When Strength reaches 75, Atk ＋5%, auto attack has a chance to deal multiple attribute Dmg to targets"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40703.png",
+        "name": "Saurel Sword [2]",
+        "slot": "Knife",
+        "status": "Atk + 360"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40703.png",
+        "name": "Saurel Sword [3]",
+        "slot": "Knife",
+        "status": "Atk + 360"
+    },
+    {
+        "imgsrc": null,
+        "name": "Savage Babe Balloon",
+        "slot": "Wing",
+        "status": "Dmg to brute race ＋5%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/21.png",
+        "name": "Savage Lord",
+        "slot": "Mount",
+        "status": "Move Spd ＋50%"
+    }
+]

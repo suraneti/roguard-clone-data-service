@@ -1,0 +1,122 @@
+[
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_43509.png",
+        "name": "Bunny Slipper",
+        "slot": "Shoes",
+        "status": "Move Spd ＋8%, SP Regen ＋3, SP Regen ＋15%, [Life Magic Book IV] ＋[Bunny Slipper]: Cooldown of all skills shortens by 5%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_43509.png",
+        "name": "Bunny Slipper [1]",
+        "slot": "Shoes",
+        "status": "Move Spd ＋8%, SP Regen ＋3, SP Regen ＋15%, [Life Magic Book IV] ＋[Bunny Slipper]: Cooldown of all skills shortens by 5%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45148.png",
+        "name": "Bunny Top Hat",
+        "slot": "Head",
+        "status": "Agi ＋3, When suffering attacks, Caster has a 5% chance to increase Agility by 7 points, increase moving speed by 25%; the effect lasts 30 seconds"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45148.png",
+        "name": "Bunny Top Hat [1]",
+        "slot": "Head",
+        "status": "Agi ＋3, When suffering attacks, Caster has a 5% chance to increase Agility by 7 points, increase moving speed by 25%; the effect lasts 30 seconds"
+    },
+    {
+        "imgsrc": null,
+        "name": "Buring Alvitr",
+        "slot": "Shield",
+        "status": ""
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41201.png",
+        "name": "Burning Bow [2]",
+        "slot": "Bow",
+        "status": "Atk + 180"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41201.png",
+        "name": "Burning Bow[3]",
+        "slot": "Bow",
+        "status": "Atk + 180"
+    },
+    {
+        "imgsrc": null,
+        "name": "Burning Eyes",
+        "slot": "Face",
+        "status": "Atk ＋15, Max HP ＋200"
+    },
+    {
+        "imgsrc": null,
+        "name": "Burning Passion Guitar",
+        "slot": "Wing",
+        "status": "Def ＋15, When Refining reaches ＋10 and Strength reaches 90, Atk ＋20, When Refining reaches ＋10 and Agility reaches 90, Equipment ASPD ＋5%, When Refining reaches ＋10 and Vitality reaches 90, Neutral Dmg Taken -10%, When Refining reaches ＋10 and Intelligence reaches 90, M.Atk ＋20, When Refining reaches ＋10 and Dexterity reaches 90, Ranged Damage ＋5%, When Refining reaches ＋10 and Luck reaches 90, Crit.Dmg ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Bury [1]",
+        "slot": "Katar",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Bury [2]",
+        "slot": "Katar",
+        "status": ""
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41806.png",
+        "name": "Buster [1]",
+        "slot": "Axe",
+        "status": "Str ＋2, Atk ＋10, When Strength reaches 50, Atk ＋15"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41806.png",
+        "name": "Buster [2]",
+        "slot": "Axe",
+        "status": "Str ＋2, Atk ＋10, When Strength reaches 50, Atk ＋15"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45190.png",
+        "name": "Butterfly Hairpin",
+        "slot": "Head",
+        "status": "Def ＋10"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45190.png",
+        "name": "Butterfly Hairpin [1]",
+        "slot": "Head",
+        "status": "Def ＋10"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_48515.png",
+        "name": "Butterfly Wing Ears",
+        "slot": "Face",
+        "status": "Def ＋15"
+    },
+    {
+        "imgsrc": null,
+        "name": "Calder Dagger [1]",
+        "slot": "Knife",
+        "status": "Str ＋4, Agi ＋3, auto attack has a chance (8%) to trigger [Disperse] effect. [Disperse]: damage of [Back Stab] and [Permanent Damage] increases by 50%; the effect lasts 2 seconds"
+    },
+    {
+        "imgsrc": null,
+        "name": "Calder Dagger [2]",
+        "slot": "Knife",
+        "status": "Str ＋4, Agi ＋3, auto attack has a chance (8%) to trigger [Disperse] effect. [Disperse]: damage of [Back Stab] and [Permanent Damage] increases by 50%; the effect lasts 2 seconds"
+    },
+    {
+        "imgsrc": null,
+        "name": "Cancer Crown",
+        "slot": "Head",
+        "status": "Atk ＋1, Hit ＋1"
+    },
+    {
+        "imgsrc": null,
+        "name": "Cancer Crown [1]",
+        "slot": "Head",
+        "status": "No effect"
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Moonlight - Star Spear",
+        "slot": "Spear",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Moonlight Arbiter Blue",
+        "slot": "Head",
+        "status": "M.Atk ＋20, MPen. ＋3%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Moonlight Arbiter Green",
+        "slot": "Head",
+        "status": "M.Atk ＋20, MPen. ＋3%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Moonlight Arbiter Rosy",
+        "slot": "Head",
+        "status": "M.Atk ＋20, MPen. ＋3%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Moonlight Arbiter Yellow",
+        "slot": "Head",
+        "status": "M.Atk ＋20, MPen. ＋3%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Moonlight Clothing Series",
+        "slot": "Armour",
+        "status": ""
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45085.png",
+        "name": "Moonlight Flower Hat",
+        "slot": "Head",
+        "status": "When using physical skills, Caster has a 5% chance to increase Agility for 4 seconds. (Agi ＋10), When Refining reaches 10, Agi ＋20"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45085.png",
+        "name": "Moonlight Flower Hat [1]",
+        "slot": "Head",
+        "status": "When using physical skills, Caster has a 5% chance to increase Agility for 4 seconds. (Agi ＋10), When Refining reaches 10, Agi ＋20"
+    },
+    {
+        "imgsrc": null,
+        "name": "Moonlight Gentleman Top hat",
+        "slot": "Head",
+        "status": "Str ＋4, Max HP ＋500, Max SP ＋50"
+    },
+    {
+        "imgsrc": null,
+        "name": "Moonlight Gentleman·Abyssal Brown",
+        "slot": "Armour",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Moonlight Gentleman·Dark Red",
+        "slot": "Armour",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Moonlight Gentleman·Demon Purple",
+        "slot": "Armour",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Moonlight Gentleman·Nightmare Blue",
+        "slot": "Armour",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Moonlight Mage·Abyssal Brown",
+        "slot": "Head",
+        "status": "Str ＋4, Max HP ＋500, Max SP ＋50"
+    },
+    {
+        "imgsrc": null,
+        "name": "Moonlight Mage·Dark Red",
+        "slot": "Head",
+        "status": "Str ＋4, Max HP ＋500, Max SP ＋50"
+    },
+    {
+        "imgsrc": null,
+        "name": "Moonlight Mage·Demon Purple",
+        "slot": "Head",
+        "status": "Str ＋4, Max HP ＋500, Max SP ＋50"
+    },
+    {
+        "imgsrc": null,
+        "name": "Moonlight Mage·Nightmare Blue",
+        "slot": "Head",
+        "status": "Str ＋4, Max HP ＋500, Max SP ＋50"
+    },
+    {
+        "imgsrc": null,
+        "name": "Moonlight Mischief Rabbit Hat",
+        "slot": "Head",
+        "status": "INT ＋4, Max HP ＋500, Max SP ＋50"
+    },
+    {
+        "imgsrc": null,
+        "name": "Moonlight Mischief Rabbit Hat·Ice Blue",
+        "slot": "Head",
+        "status": "INT ＋4, Max HP ＋500, Max SP ＋50"
+    },
+    {
+        "imgsrc": null,
+        "name": "Moonlight Mischief Rabbit Hat·Jelly Purple",
+        "slot": "Head",
+        "status": "INT ＋4, Max HP ＋500, Max SP ＋50"
+    }
+]

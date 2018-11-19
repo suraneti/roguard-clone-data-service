@@ -1,0 +1,122 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Sagittarius Crown",
+        "slot": "Head",
+        "status": "INT ＋1"
+    },
+    {
+        "imgsrc": null,
+        "name": "Sagittarius Crown [1]",
+        "slot": "Head",
+        "status": "No effect"
+    },
+    {
+        "imgsrc": null,
+        "name": "Sagittarius Diadem",
+        "slot": "Head",
+        "status": "Dex ＋3, AGI ＋3"
+    },
+    {
+        "imgsrc": null,
+        "name": "Sagittarius Diadem [1]",
+        "slot": "Head",
+        "status": "Luk ＋2, INT ＋1"
+    },
+    {
+        "imgsrc": null,
+        "name": "Saint Axe [1]",
+        "slot": "Axe",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Saint Axe [2]",
+        "slot": "Axe",
+        "status": "Atk + 60"
+    },
+    {
+        "imgsrc": null,
+        "name": "Saint Bow [1]",
+        "slot": "Bow",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Saint Bow [2]",
+        "slot": "Bow",
+        "status": ""
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_43020.png",
+        "name": "Saint Cape [1]",
+        "slot": "Robe",
+        "status": "Def + 22"
+    },
+    {
+        "imgsrc": null,
+        "name": "Saint Dagger [1]",
+        "slot": "Knife",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Saint Dagger [2]",
+        "slot": "Knife",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Saint Fist [1]",
+        "slot": "Knuckle",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Saint Fist [2]",
+        "slot": "Knuckle",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Saint Gryphon",
+        "slot": "Mount",
+        "status": "Move Spd ＋25%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Saint Hammer [1]",
+        "slot": "Mace",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Saint Hammer [2]",
+        "slot": "Mace",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Saint Katar [1]",
+        "slot": "Katar",
+        "status": "Doubles Critical"
+    },
+    {
+        "imgsrc": null,
+        "name": "Saint Katar [2]",
+        "slot": "Katar",
+        "status": "Doubles Critical"
+    },
+    {
+        "imgsrc": null,
+        "name": "Saint Necklace",
+        "slot": "Accessory",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Saint Necklace [1]",
+        "slot": "Accessory",
+        "status": ""
+    }
+]

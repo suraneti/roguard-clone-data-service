@@ -1,0 +1,122 @@
+[
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_43539.png",
+        "name": "Rune Shoes [1]",
+        "slot": "Shoes",
+        "status": "Move Spd ＋5%, Healing effect ＋20%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42531.png",
+        "name": "Runner Bracer",
+        "slot": "Shield",
+        "status": "Def + 42"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42531.png",
+        "name": "Runner Bracer[1]",
+        "slot": "Shield",
+        "status": "Def + 42"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41815.png",
+        "name": "Sabbath [1]",
+        "slot": "Axe",
+        "status": "When attacking devil monsters, Crit Dmg ＋25%, When attacking devil monsters, There is a chance to release [Dying Tactic] (invalid to MVP/MINI monsters)"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41815.png",
+        "name": "Sabbath [2]",
+        "slot": "Axe",
+        "status": "When attacking devil monsters, Crit Dmg ＋25%, When attacking devil monsters, There is a chance to release [Dying Tactic] (invalid to MVP/MINI monsters)"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40301.png",
+        "name": "Saber [2]",
+        "slot": "Sword",
+        "status": "Atk + 180"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40301.png",
+        "name": "Saber [3]",
+        "slot": "Sword",
+        "status": "Atk + 180"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_43537.png",
+        "name": "Sack Teddy Shoes",
+        "slot": "Shoes",
+        "status": "Move Spd ＋5%, Agi ＋2"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_43537.png",
+        "name": "Sack Teddy Shoes [1]",
+        "slot": "Shoes",
+        "status": "Move Spd ＋5%, Agi ＋2"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41504.png",
+        "name": "Sacred Cross [1]",
+        "slot": "Mace",
+        "status": "Atk + 112"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41504.png",
+        "name": "Sacred Cross [3]",
+        "slot": "Mace",
+        "status": "Atk + 112"
+    },
+    {
+        "imgsrc": null,
+        "name": "Sacred Mission",
+        "slot": "Shield",
+        "status": "INT ＋5, For Refining ＋1, M.Dmg reflection of [Block Shield] ＋1%, Healing effect of [Heal] ＋1%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Sacred Mission [1]",
+        "slot": "Shield",
+        "status": "INT ＋5, For Refining ＋1, M.Dmg reflection of [Block Shield] ＋1%, Healing effect of [Heal] ＋1%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Sacrifice Book",
+        "slot": "Shield",
+        "status": "Def + 46"
+    },
+    {
+        "imgsrc": null,
+        "name": "Sacrifice Book [1]",
+        "slot": "Shield",
+        "status": "Def + 46"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_43507.png",
+        "name": "Safety Boots",
+        "slot": "Shoes",
+        "status": "Move Spd ＋5%, Def ＋5"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_43507.png",
+        "name": "Safety Boots [1]",
+        "slot": "Shoes",
+        "status": "Move Spd ＋5%, Def ＋5"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45025.png",
+        "name": "Safety Helmet",
+        "slot": "Head",
+        "status": "Def ＋7, M.Def ＋3"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45025.png",
+        "name": "Safety Helmet [1]",
+        "slot": "Head",
+        "status": "Def ＋7, M.Def ＋3"
+    },
+    {
+        "imgsrc": null,
+        "name": "Sage's Book",
+        "slot": "Wing",
+        "status": "Wind, Earth, Water, Fire Dmg ＋5%,  CT Variable -10%"
+    }
+]

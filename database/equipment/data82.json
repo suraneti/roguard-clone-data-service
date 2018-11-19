@@ -1,0 +1,122 @@
+[
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42004.png",
+        "name": "Mithril Gown [1]",
+        "slot": "Armour",
+        "status": "INT ＋2, Chant disrupts durability ＋20%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Mithril Metal Armor",
+        "slot": "Armour",
+        "status": "VIT ＋2, Max HP ＋10%, When Refining ＋5, ＋10, Crit.Dmg Taken -5%, -10% respectively"
+    },
+    {
+        "imgsrc": null,
+        "name": "Mithril Metal Armor [1]",
+        "slot": "Armour",
+        "status": "VIT ＋2, Max HP ＋10%, When Refining ＋5, ＋10, Crit.Dmg Taken -5%, -10% respectively"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42533.png",
+        "name": "Mithril Orb",
+        "slot": "Orb",
+        "status": "Def + 46"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42533.png",
+        "name": "Mithril Orb [1]",
+        "slot": "Orb",
+        "status": "Def + 46"
+    },
+    {
+        "imgsrc": null,
+        "name": "Miu Cat",
+        "slot": "Knife",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Mjolnir",
+        "slot": "Mace",
+        "status": "Str ＋10, INT ＋10, VIT ＋10, All Attributes ＋8, Hit ＋50, Pen. ＋20%, Demi-Human Race Damage ＋30%, Max HP ＋14500"
+    },
+    {
+        "imgsrc": null,
+        "name": "Mjolnir 2 [2]",
+        "slot": "Mace",
+        "status": "Str ＋10, INT ＋10, VIT ＋10, All Attributes ＋14, Hit ＋50, Pen. ＋25%, Demi-Human Race Damage ＋40%, Max HP ＋23000, Dmg Reduc. ＋5%, Magic Reduc. ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Mjolnir 3 [2]",
+        "slot": "Mace",
+        "status": "Str ＋10, INT ＋10, VIT ＋10\\All Attributes ＋20, Hit ＋50, Pen. ＋30%, Demi-Human Race Damage ＋50%, Max HP ＋31500, Dmg Reduc. ＋10%, Magic Reduc. ＋10%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Mjolnir Reforged",
+        "slot": "Mace",
+        "status": "Str ＋10, INT ＋10, VIT ＋10, All Attributes ＋14, Hit ＋50, Pen. ＋25%, Demi-Human Race Damage ＋40%, Max HP ＋23000, Dmg Reduc. ＋5%, Magic Reduc. ＋5%, Mjolnir is full of the lightning power and casts [Thor's Fury] every time it deals auto attacks to the enemy. [Thor's Fury]: deals extra True Dmg: (Atk ＋ M.Atk) x50% to the target, and causes damage of 50% Atk to at most 5 enemies around the target in a 5-meter range. There is a 20% chance for each target affected by [Thor's Fury] and spray damage to decrease the speed by 30%, This effect lasts 2 seconds."
+    },
+    {
+        "imgsrc": null,
+        "name": "Mjolnir Sky Forged",
+        "slot": "Mace",
+        "status": "Str ＋10, INT ＋10, VIT ＋10\\All Attributes ＋20, Hit ＋50, Pen. ＋30%, Demi-Human Race Damage ＋50%, Max HP ＋31500, Dmg Reduc. ＋10%, Magic Reduc. ＋10%, Mjolnir is full of the lightning power and casts [Thor's Fury] every time it deals auto attacks to the enemy. [Thor's Fury]: deals extra True Dmg: (Atk ＋ M.Atk) x100% to the target, and causes damage of 100% Atk to at most 5 enemies around the target in a 5-meter range. There is a 20% chance for each target affected by [Thor's Fury] and spray damage to decrease the speed by 30%, This effect lasts 2 seconds."
+    },
+    {
+        "imgsrc": null,
+        "name": "Mjolnir [2]",
+        "slot": "Mace",
+        "status": "Str ＋10, INT ＋10, VIT ＋10, All Attributes ＋8, Hit ＋50, Pen. ＋20%, Demi-Human Race Damage ＋30%, Max HP ＋14500"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_43530.png",
+        "name": "Moccasin",
+        "slot": "Shoes",
+        "status": "Def + 12"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_43530.png",
+        "name": "Moccasin [1]",
+        "slot": "Shoes",
+        "status": "Def + 12"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_43538.png",
+        "name": "Momo Shoes",
+        "slot": "Shoes",
+        "status": "Move Spd ＋5%, Max HP ＋75, Max SP ＋75"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_43538.png",
+        "name": "Momo Shoes [1]",
+        "slot": "Shoes",
+        "status": "Move Spd ＋5%, Max HP ＋75, Max SP ＋75"
+    },
+    {
+        "imgsrc": null,
+        "name": "Monkey Circlet",
+        "slot": "Head",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Monkey Circlet",
+        "slot": "Head",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Monkey Circlet [1]",
+        "slot": "Head",
+        "status": "Dex ＋3, AGI ＋3"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_48525.png",
+        "name": "Monocle",
+        "slot": "Face",
+        "status": "M.Atk ＋5%, For Refining ＋1, M.Atk ＋1% (upper limit of increases is 15%)"
+    }
+]

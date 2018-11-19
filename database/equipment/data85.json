@@ -1,0 +1,122 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Moonlight Mischief Rabbit Hat·Muka Brown",
+        "slot": "Head",
+        "status": "INT ＋4, Max HP ＋500, Max SP ＋50"
+    },
+    {
+        "imgsrc": null,
+        "name": "Moonlight Mischief Rabbit Hat·Strawberry Red",
+        "slot": "Head",
+        "status": "INT ＋4, Max HP ＋500, Max SP ＋50"
+    },
+    {
+        "imgsrc": null,
+        "name": "Moonlight series Headwear",
+        "slot": "Head",
+        "status": "M.Atk ＋20, MPen. ＋3%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Moonlight Sweetheart·Ice Blue",
+        "slot": "Armour",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Moonlight Sweetheart·Jelly Purple",
+        "slot": "Armour",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Moonlight Sweetheart·Muka Brown",
+        "slot": "Armour",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Moonlight Sweetheart·Strawberry Red",
+        "slot": "Armour",
+        "status": ""
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41505.png",
+        "name": "Morning Star",
+        "slot": "Mace",
+        "status": "Atk + 180"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41505.png",
+        "name": "Morning Star [2]",
+        "slot": "Mace",
+        "status": "Atk + 180"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42523.png",
+        "name": "Morpheus's Bracelet",
+        "slot": "Shield",
+        "status": "Def + 24"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42523.png",
+        "name": "Morpheus's Bracelet [1]",
+        "slot": "Shield",
+        "status": "Def + 24"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45120.png",
+        "name": "Morpheus's Hood",
+        "slot": "Head",
+        "status": "Def ＋5, INT ＋2"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45120.png",
+        "name": "Morpheus's Hood [1]",
+        "slot": "Head",
+        "status": "Def ＋5, INT ＋2"
+    },
+    {
+        "imgsrc": null,
+        "name": "Morpheus's Shawl [1]",
+        "slot": "Robe",
+        "status": "Def + 90"
+    },
+    {
+        "imgsrc": null,
+        "name": "Morpheus's Shawl [2]",
+        "slot": "Robe",
+        "status": "Def + 90"
+    },
+    {
+        "imgsrc": null,
+        "name": "Morrigane's Helm",
+        "slot": "Head",
+        "status": "No effect"
+    },
+    {
+        "imgsrc": null,
+        "name": "Morrigane's Helm [1]",
+        "slot": "Head",
+        "status": "No effect"
+    },
+    {
+        "imgsrc": null,
+        "name": "Morrigane's Manteau [1]",
+        "slot": "Robe",
+        "status": "Def + 90"
+    },
+    {
+        "imgsrc": null,
+        "name": "Morrigane's Manteau [2]",
+        "slot": "Robe",
+        "status": "Def + 90"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_48519.png",
+        "name": "Mr. Scream",
+        "slot": "Face",
+        "status": "Petrifying Resistance ＋30%, For Refining ＋1, Petrified Resistance ＋2% (upper limit of increases is 60%)"
+    }
+]

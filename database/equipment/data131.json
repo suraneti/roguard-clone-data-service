@@ -1,0 +1,122 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Valg Green Petite",
+        "slot": "Mount",
+        "status": "Move Spd ＋25%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Vali's Manteau [2]",
+        "slot": "Robe",
+        "status": "Def + 90"
+    },
+    {
+        "imgsrc": null,
+        "name": "Vali's Manteau[1]",
+        "slot": "Robe",
+        "status": "Def + 90"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45090.png",
+        "name": "Valkyrie Helm",
+        "slot": "Head",
+        "status": "M.Def ＋20, Max HP ＋600"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45090.png",
+        "name": "Valkyrie Helm (For Monster)",
+        "slot": "Head",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Valkyrie Helm (MVP)",
+        "slot": "Head",
+        "status": ""
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45090.png",
+        "name": "Valkyrie Helm [1]",
+        "slot": "Head",
+        "status": "M.Def ＋20, Max HP ＋600"
+    },
+    {
+        "imgsrc": null,
+        "name": "Valkyrie Manteau [1]",
+        "slot": "Robe",
+        "status": "Def + 90"
+    },
+    {
+        "imgsrc": null,
+        "name": "Valkyrie Manteau [2]",
+        "slot": "Robe",
+        "status": "Def + 90"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_43503.png",
+        "name": "Valkyrie Shoes [1]",
+        "slot": "Shoes",
+        "status": "Def + 90"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_43503.png",
+        "name": "Valkyrie Shoes [2]",
+        "slot": "Shoes",
+        "status": "Def + 90"
+    },
+    {
+        "imgsrc": null,
+        "name": "Valkyrie Weapon 1 [Sword]",
+        "slot": "Sword",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Valkyrie Weapon 2 [Armor]",
+        "slot": "Sword",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Valkyrie Wings",
+        "slot": "Wing",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Valkyrja's Shield [2]",
+        "slot": "Shield",
+        "status": "Def + 112"
+    },
+    {
+        "imgsrc": null,
+        "name": "Valkyrja's Shield[1]",
+        "slot": "Shield",
+        "status": "Def + 112"
+    },
+    {
+        "imgsrc": null,
+        "name": "Vane Hairpin",
+        "slot": "Head",
+        "status": "Wind Dmg ＋2%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Vane Hairpin",
+        "slot": "Head",
+        "status": "MDmg Reduc. ＋3%, MDef ＋5%, MAX HP＋2%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Vane Hairpin [1]",
+        "slot": "Head",
+        "status": "Wind Dmg ＋2%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_43503.png",
+        "name": "Variant Shoes [1]",
+        "slot": "Shoes",
+        "status": "Def + 45"
+    }
+]

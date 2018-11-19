@@ -6,19 +6,15 @@ function cloneMonsterData(pages) {
     for (let i = 1; i <= pages; i++) {
         if (i === 1) {
             serializeMonsterData('', resp => {
-                fs.writeFile(`./database/monster/data${i}.json`, JSON.stringify(resp), function (err) {
-                    if (err) {
-                        return console.log(err);
-                    }
+                fs.writeFile(`./database/monster/data${i}.json`, JSON.stringify(resp, null, 4), function (err) {
+                    if (err) return console.log(err)
                 })
             })
         } else {
             serializeMonsterData('?page=' + i, resp => {
-                fs.writeFile(`./database/monster/data${i}.json`, JSON.stringify(resp), function (err) {
-                    if (err) {
-                        return console.log(err);
-                    }
-                });
+                fs.writeFile(`./database/monster/data${i}.json`, JSON.stringify(resp, null, 4), function (err) {
+                    if (err) return console.log(err)
+                })
             })
         }
     }
@@ -33,7 +29,7 @@ function serializeMonsterData(pages, callback) {
         const monsterData = [];
 
         match.forEach(element => {
-            const monsterImage = (element.match(/src\s*=\s*\\*"(.+?)\\*"\s*/) !== null) ? element.match(/src\s*=\s*\\*"(.+?)\\*"\s*/)[1] : null 
+            const monsterImage = (element.match(/src\s*=\s*\\*"(.+?)\\*"\s*/) !== null) ? element.match(/src\s*=\s*\\*"(.+?)\\*"\s*/)[1] : null
             const monsterName = element.match(/<a (.*)>(.+?)<\/a>/)[2]
             const monsterElement = element.match(/<div style="color: (.*);">(.+?) • (.*)<\/div>/)[2];
             const monsterRace = element.match(/<div style="color: (.*);">(.+?) • (.*)<\/div>/)[3];

@@ -1,0 +1,122 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Night fire Gryphon",
+        "slot": "Mount",
+        "status": "Move Spd ＋25%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Night Sakura·Infatuation",
+        "slot": "Mouth",
+        "status": "INT ＋2, Ignore M.Def ＋2%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Night series clothes",
+        "slot": "Armour",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Night series Headwear",
+        "slot": "Head",
+        "status": "Atk ＋30, Pen. ＋3%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Night Watch Abyssal Blue",
+        "slot": "Head",
+        "status": "Atk ＋30, Pen. ＋3%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Night Watch Fiery Red",
+        "slot": "Head",
+        "status": "Atk ＋30, Pen. ＋3%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Night Watch Nether Green",
+        "slot": "Head",
+        "status": "Atk ＋30, Pen. ＋3%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Night Watch Sunlit Yellow",
+        "slot": "Head",
+        "status": "Atk ＋30, Pen. ＋3%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_61506.png",
+        "name": "Nile's Bracelet",
+        "slot": "Bracelet",
+        "status": "Def + 42"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_61506.png",
+        "name": "Nile's Bracelet [1]",
+        "slot": "Bracelet",
+        "status": "Def + 42"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/21.png",
+        "name": "Nine Tail",
+        "slot": "Mount",
+        "status": "Move Spd ＋50%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/21.png",
+        "name": "Nine Tail",
+        "slot": "Mount",
+        "status": "Move Spd ＋50%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_48003.png",
+        "name": "Nine Tail",
+        "slot": "Tail",
+        "status": "No effect"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_48007.png",
+        "name": "Nine Tails",
+        "slot": "Tail",
+        "status": "Flee ＋5%, Fire Dmg Taken -10%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Ninja Suit Moonlight",
+        "slot": "Armour",
+        "status": "Luk ＋8, Equipment ASPD ＋10%, Max HP ＋300, For Refining increases by 5, the damage to L-size monsters increases by 5%, For Refining increases by 10 and 15, Melee Dmg increases by 4% and 8% respectively"
+    },
+    {
+        "imgsrc": null,
+        "name": "Ninja Suit Moonlight [1]",
+        "slot": "Armour",
+        "status": "Luk ＋8, Equipment ASPD ＋10%, Max HP ＋300, For Refining increases by 5, the damage to L-size monsters increases by 5%, For Refining increases by 10 and 15, Melee Dmg increases by 4% and 8% respectively"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42019.png",
+        "name": "Ninja Suit Sakura",
+        "slot": "Armour",
+        "status": "Luk ＋2, Equipment ASPD ＋3%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42019.png",
+        "name": "Ninja Suit Sakura [1]",
+        "slot": "Armour",
+        "status": "Luk ＋2, Equipment ASPD ＋3%"
+    },
+    {
+        "imgsrc": null,
+        "name": "No burning",
+        "slot": "Wing",
+        "status": "Str ＋5, Dmg to Demi-Human race ＋5%, When Katar is equipped, Atk ＋4%, For Refining ＋1, Damage of [Sonic Blow] ＋1%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Noble Bracer",
+        "slot": "Bracer",
+        "status": "Equipment ASPD ＋10%, When the Swordsmen/Merchants equip it, every 1% of the equipment ASPD will provide 1 Atk., [Holy Avenger] ＋[Noble Bracer]: trigger probability of Fallen Star ＋12%, [Loki's Nail V] ＋[Noble Bracer]: Every 2% Equipment ASPD will provide 1 Atk"
+    }
+]

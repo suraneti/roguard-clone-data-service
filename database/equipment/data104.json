@@ -1,0 +1,122 @@
+[
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40009.png",
+        "name": "Royal Pike",
+        "slot": "Spear",
+        "status": "Atk + 247"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40009.png",
+        "name": "Royal Pike [2]",
+        "slot": "Spear",
+        "status": "Atk + 247"
+    },
+    {
+        "imgsrc": null,
+        "name": "Royal Silver Shield",
+        "slot": "Shield",
+        "status": "Max HP ＋800, Def ＋40"
+    },
+    {
+        "imgsrc": null,
+        "name": "Royal Silver Shield [1]",
+        "slot": "Shield",
+        "status": "Max HP ＋800, Def ＋40"
+    },
+    {
+        "imgsrc": null,
+        "name": "Rudolph's Horn",
+        "slot": "Head",
+        "status": "Dex ＋3, AGI ＋3"
+    },
+    {
+        "imgsrc": null,
+        "name": "Rudolph's Horn [1]",
+        "slot": "Head",
+        "status": "Melee Dmg ＋5%, When strength reaches 200, ignore Def ＋5%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41226.png",
+        "name": "Rudra Bow [1]",
+        "slot": "Bow",
+        "status": "Holy, INT ＋3, Equip it to receive [Heal] Lv.1"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41226.png",
+        "name": "Rudra Bow [2]",
+        "slot": "Bow",
+        "status": "Holy, INT ＋3, Equip it to receive [Heal] Lv.1"
+    },
+    {
+        "imgsrc": null,
+        "name": "Rune Armor",
+        "slot": "Robe",
+        "status": "Damage reduction of undead/demon race ＋20%, Damage reduction of other -20%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Rune Armor [1]",
+        "slot": "Robe",
+        "status": "Damage reduction of undead/demon race ＋20%, Damage reduction of other -20%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Rune Boots",
+        "slot": "Shoes",
+        "status": "Move Spd ＋10%, Bonus Healing ＋30%, Atk ＋3%, M.Atk ＋3%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Rune Boots [1]",
+        "slot": "Shoes",
+        "status": "Move Spd ＋10%, Bonus Healing ＋30%, Atk ＋3%, M.Atk ＋3%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45154.png",
+        "name": "Rune Circlet",
+        "slot": "Head",
+        "status": "Str ＋2, INT ＋2, M.Def ＋10, When Strength reaches 120, Atk ＋10, Refine Atk ＋10"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45154.png",
+        "name": "Rune Circlet [1]",
+        "slot": "Head",
+        "status": "Str ＋2, INT ＋2, M.Def ＋10, When Strength reaches 120, Atk ＋10, Refine Atk ＋10"
+    },
+    {
+        "imgsrc": null,
+        "name": "Rune Cloth Circlet",
+        "slot": "Head",
+        "status": "Neutral Dmg Taken -3%, Hit ＋5, Atk ＋10, M.Atk ＋10"
+    },
+    {
+        "imgsrc": null,
+        "name": "Rune Cloth Circlet [1]",
+        "slot": "Head",
+        "status": "Neutral Dmg Taken -3%, Hit ＋5, Atk ＋10, M.Atk ＋10"
+    },
+    {
+        "imgsrc": null,
+        "name": "Rune Green Petite",
+        "slot": "Mount",
+        "status": "Move Spd ＋50%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Rune Green Petite",
+        "slot": "Mount",
+        "status": "Move Spd ＋50%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Rune Green Petite",
+        "slot": "Mount",
+        "status": "Move Spd ＋25%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_43539.png",
+        "name": "Rune Shoes",
+        "slot": "Shoes",
+        "status": "Move Spd ＋5%, Healing effect ＋20%"
+    }
+]

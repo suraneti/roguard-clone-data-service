@@ -1,0 +1,122 @@
+[
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45094.png",
+        "name": "Golden Bell",
+        "slot": "Head",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Golden Bough",
+        "slot": "Staff",
+        "status": "INT ＋18, VIT ＋12, All Attributes ＋8, Healing Bonus ＋15%, SP cost of all skills -10%, M.Atk ＋15%, Ignore M.Def ＋15%, Demi-Human Race Damage ＋30%, Max HP ＋14000"
+    },
+    {
+        "imgsrc": null,
+        "name": "Golden Bough 2 [2]",
+        "slot": "Staff",
+        "status": "INT ＋18, VIT ＋12, All Attributes ＋14, Healing Bonus ＋15%, SP cost of all skills -10%, M.Atk ＋20%, Ignore M.Def ＋25%, Demi-Human Race Damage ＋40%, Max HP ＋21000, Dmg Reduc. ＋5%, Magic Reduc. ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Golden Bough 3 [2]",
+        "slot": "Staff",
+        "status": "INT ＋18, VIT ＋12, All Attributes ＋20, Healing Bonus ＋15%, SP cost of all skills -10%, M.Atk ＋25%, Ignore M.Def ＋35%, Demi-Human Race Damage ＋50%, Max HP ＋28000, Dmg Reduc. ＋10%, Magic Reduc. ＋10%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Golden Bough Forged",
+        "slot": "Staff",
+        "status": "INT ＋18, VIT ＋12, All Attributes ＋14, Healing Bonus ＋15%, SP cost of all skills -10%, M.Atk ＋20%, Ignore M.Def ＋25%, Demi-Human Race Damage ＋40%, Max HP ＋21000, Dmg Reduc. ＋5%, Magic Reduc. ＋5%, Golden Bough bursts the power of Yggdrasil, reviving all dead allies in a 12-meter range and restoring 60% of their Max HP. This effect is not restricted by GVG revival time. CD: 200 seconds."
+    },
+    {
+        "imgsrc": null,
+        "name": "Golden Bough Sky Forged",
+        "slot": "Staff",
+        "status": "INT ＋18, VIT ＋12, All Attributes ＋20, Healing Bonus ＋15%, SP cost of all skills -10%, M.Atk ＋25%, Ignore M.Def ＋35%, Demi-Human Race Damage ＋50%, Max HP ＋28000, Dmg Reduc. ＋10%, Magic Reduc. ＋10%, Golden Bough bursts the power of Yggdrasil, reviving all dead allies in a 16-meter range and restoring 100% of their Max HP. This effect will not be restricted by GVG Revive time. CD: 135 Seconds"
+    },
+    {
+        "imgsrc": null,
+        "name": "Golden Bough [2]",
+        "slot": "Staff",
+        "status": "INT ＋18, VIT ＋12, All Attributes ＋8, Healing Bonus ＋15%, SP cost of all skills -10%, M.Atk ＋15%, Ignore M.Def ＋15%, Demi-Human Race Damage ＋30%, Max HP ＋14000"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45007.png",
+        "name": "Golden Gear",
+        "slot": "Head",
+        "status": "Def ＋20, When Refining reaches ＋10, Def ＋10%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45007.png",
+        "name": "Golden Gear [1]",
+        "slot": "Head",
+        "status": "Def ＋20, When Refining reaches ＋10, Def ＋10%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Golden Hat",
+        "slot": "Head",
+        "status": "All Attributes ＋1, Max HP ＋100, Max SP ＋100"
+    },
+    {
+        "imgsrc": null,
+        "name": "Golden Hat [1]",
+        "slot": "Head",
+        "status": "All Attributes ＋1, Max HP ＋100, Max SP ＋100"
+    },
+    {
+        "imgsrc": null,
+        "name": "Golden Lord Orb [1]",
+        "slot": "Orb",
+        "status": "Def + 112"
+    },
+    {
+        "imgsrc": null,
+        "name": "Golden Lord Orb [2]",
+        "slot": "Orb",
+        "status": "Def + 112"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41504.png",
+        "name": "Golden Mace [2]",
+        "slot": "Mace",
+        "status": "Atk + 168"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41504.png",
+        "name": "Golden Mace [3]",
+        "slot": "Mace",
+        "status": "Atk + 168"
+    },
+    {
+        "imgsrc": null,
+        "name": "Golden March",
+        "slot": "Tail",
+        "status": "Damage to non-demi-human race ＋3%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Golden March [1]",
+        "slot": "Tail",
+        "status": "Damage to non-demi-human race ＋3%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_61505.png",
+        "name": "Golden Ornament",
+        "slot": "Bracelet",
+        "status": "Flee ＋5, Cri ＋5"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_61505.png",
+        "name": "Golden Ornament [1]",
+        "slot": "Bracelet",
+        "status": "Flee ＋5, Cri ＋5"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40601.png",
+        "name": "Golden Rod Staff [2]",
+        "slot": "Staff",
+        "status": "M.Atk + 180"
+    }
+]

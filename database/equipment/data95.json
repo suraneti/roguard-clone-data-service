@@ -1,0 +1,122 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Pisces Crown",
+        "slot": "Head",
+        "status": "INT ＋1"
+    },
+    {
+        "imgsrc": null,
+        "name": "Pisces Crown [1]",
+        "slot": "Head",
+        "status": "No effect"
+    },
+    {
+        "imgsrc": null,
+        "name": "Pisces Diadem",
+        "slot": "Head",
+        "status": "Dex ＋3, AGI ＋3"
+    },
+    {
+        "imgsrc": null,
+        "name": "Pisces Diadem [1]",
+        "slot": "Head",
+        "status": "INT ＋3"
+    },
+    {
+        "imgsrc": null,
+        "name": "Platinum Shield [1]",
+        "slot": "Shield",
+        "status": "Def + 37"
+    },
+    {
+        "imgsrc": null,
+        "name": "Platinum Shield [2]",
+        "slot": "Shield",
+        "status": "Def + 37"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40301.png",
+        "name": "Platinum Shotel [2]",
+        "slot": "Sword",
+        "status": "Atk + 180"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40301.png",
+        "name": "Platinum Shotel [3]",
+        "slot": "Sword",
+        "status": "Atk + 180"
+    },
+    {
+        "imgsrc": null,
+        "name": "Poet's Hat",
+        "slot": "Head",
+        "status": "Atk ＋5000, M.Atk ＋5000, Def ＋100000, M.Def ＋100000, Max HP ＋1000000, Max SP ＋100000, Hit ＋200, Flee ＋200, Cri ＋50, Life Steal ＋100%, CT Variable Reduction ＋100%, HP Regen ＋100%, SP Regen ＋100%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45188.png",
+        "name": "Pointer Headwear",
+        "slot": "Head",
+        "status": "Def ＋10"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45188.png",
+        "name": "Pointer Headwear [1]",
+        "slot": "Head",
+        "status": "Def ＋10"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_61005.png",
+        "name": "Poison Gloves",
+        "slot": "Bracer",
+        "status": "Atk ＋25, Crit.Dmg ＋15%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_61005.png",
+        "name": "Poison Gloves [1]",
+        "slot": "Bracer",
+        "status": "Atk ＋25, Crit.Dmg ＋15%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40719.png",
+        "name": "Poison Knife [1]",
+        "slot": "Knife",
+        "status": "auto attack has a large probability to set targets into poisoning state, For Refining ＋1, ignore Def ＋2%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40719.png",
+        "name": "Poison Knife [2]",
+        "slot": "Knife",
+        "status": "auto attack has a large probability to set targets into poisoning state, For Refining ＋1, ignore Def ＋2%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Poisoned Duke's Mask",
+        "slot": "Face",
+        "status": "All Attributes ＋1"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_48511.png",
+        "name": "Poker Face",
+        "slot": "Face",
+        "status": "Damage reduction of Demi-Human race ＋10%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40008.png",
+        "name": "Pole Axe [1]",
+        "slot": "Spear",
+        "status": "Str ＋3, Hit ＋15"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40008.png",
+        "name": "Pole Axe [2]",
+        "slot": "Spear",
+        "status": "Str ＋3, Hit ＋15"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45036.png",
+        "name": "Poo Poo Hat",
+        "slot": "Head",
+        "status": "Damage reduction of Demi-Human race ＋10%"
+    }
+]

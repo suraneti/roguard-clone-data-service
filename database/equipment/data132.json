@@ -1,0 +1,122 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Vecer Axe [1]",
+        "slot": "Axe",
+        "status": "Agi ＋10, Damage to middle-size monsters ＋10%, auto attack has chance to release Lv.10 [Cart Revolution], Damage of [Cart Revolution] ＋15%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Vecer Axe [2]",
+        "slot": "Axe",
+        "status": "Agi ＋10, Damage to middle-size monsters ＋10%, auto attack has chance to release Lv.10 [Cart Revolution], Damage of [Cart Revolution] ＋15%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Vecer Battle Axe [1]",
+        "slot": "Axe",
+        "status": "Atk + 180"
+    },
+    {
+        "imgsrc": null,
+        "name": "Vecer Battle Axe [2]",
+        "slot": "Axe",
+        "status": "Atk + 180"
+    },
+    {
+        "imgsrc": null,
+        "name": "Veil",
+        "slot": "Mouth",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Veteran Axe [1]",
+        "slot": "Axe",
+        "status": "Atk + 180"
+    },
+    {
+        "imgsrc": null,
+        "name": "Veteran Axe [2]",
+        "slot": "Axe",
+        "status": "Atk + 180"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_43503.png",
+        "name": "Vidar's Boots [1]",
+        "slot": "Shoes",
+        "status": "Def + 90"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_43503.png",
+        "name": "Vidar's Boots [2]",
+        "slot": "Shoes",
+        "status": "Def + 90"
+    },
+    {
+        "imgsrc": null,
+        "name": "Vinkt's Bracelet",
+        "slot": "Bracelet",
+        "status": "Flee ＋10, Cri ＋8, When equipped by Swordsman/Thief/Priest/Merchant, it brings 1 point of M.Atk for every 10 points of M.Def."
+    },
+    {
+        "imgsrc": null,
+        "name": "Vinkt's Bracelet [1]",
+        "slot": "Bracelet",
+        "status": "Flee ＋10, Cri ＋8, When equipped by Swordsman/Thief/Priest/Merchant, it brings 1 point of M.Atk for every 10 points of M.Def."
+    },
+    {
+        "imgsrc": null,
+        "name": "Virgo Crown",
+        "slot": "Head",
+        "status": "Max HP ＋30, Atk ＋1"
+    },
+    {
+        "imgsrc": null,
+        "name": "Virgo Crown [1]",
+        "slot": "Head",
+        "status": "No effect"
+    },
+    {
+        "imgsrc": null,
+        "name": "Virgo Diadem",
+        "slot": "Head",
+        "status": "Dex ＋3, AGI ＋3"
+    },
+    {
+        "imgsrc": null,
+        "name": "Virgo Diadem [1]",
+        "slot": "Head",
+        "status": "VIT ＋2, Str ＋1"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_44002.png",
+        "name": "VIT Necklace",
+        "slot": "Accessory",
+        "status": "Atk + 42"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_44002.png",
+        "name": "VIT Necklace [1]",
+        "slot": "Accessory",
+        "status": "Atk + 42"
+    },
+    {
+        "imgsrc": null,
+        "name": "Waghnak [1]",
+        "slot": "Knuckle",
+        "status": "Str ＋3, When refining ＋5, ＋10, Atk ＋5%, ＋10% respectively"
+    },
+    {
+        "imgsrc": null,
+        "name": "Waghnak [2]",
+        "slot": "Knuckle",
+        "status": "Str ＋3, When refining ＋5, ＋10, Atk ＋5%, ＋10% respectively"
+    },
+    {
+        "imgsrc": null,
+        "name": "Wagtail Crest",
+        "slot": "Head",
+        "status": "Overall Ability ＋1,  Neutral Dmg ＋5%"
+    }
+]

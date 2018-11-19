@@ -1,0 +1,122 @@
+[
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_43503.png",
+        "name": "Angel's Reincarnation [2]",
+        "slot": "Shoes",
+        "status": "Def + 90"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42039.png",
+        "name": "Angelic Protection",
+        "slot": "Armour",
+        "status": "Max HP ＋500, Max SP ＋200, When suffering Atk, target has 5% chance to receive [Assumptio] Lv.1"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42039.png",
+        "name": "Angelic Protection [1]",
+        "slot": "Armour",
+        "status": "Max HP ＋500, Max SP ＋200, When suffering Atk, target has 5% chance to receive [Assumptio] Lv.1"
+    },
+    {
+        "imgsrc": null,
+        "name": "Angeling Hairpin",
+        "slot": "Head",
+        "status": "Flee ＋5"
+    },
+    {
+        "imgsrc": null,
+        "name": "Angeling Hairpin [1]",
+        "slot": "Head",
+        "status": "Flee ＋5"
+    },
+    {
+        "imgsrc": null,
+        "name": "Angeling Hat",
+        "slot": "Head",
+        "status": "No effect"
+    },
+    {
+        "imgsrc": null,
+        "name": "Angeling Hat [1]",
+        "slot": "Head",
+        "status": "No effect"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_47012.png",
+        "name": "Angeling Wing",
+        "slot": "Wing",
+        "status": "Max HP ＋400, Dmg to devil race ＋8%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_48514.png",
+        "name": "Angled Glasses",
+        "slot": "Face",
+        "status": "Def ＋10"
+    },
+    {
+        "imgsrc": null,
+        "name": "Angry Satan",
+        "slot": "Head",
+        "status": "LUK ＋4, Max HP ＋500, Max SP ＋50"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_48513.png",
+        "name": "Angry Snarl",
+        "slot": "Mouth",
+        "status": "CT Variable -10%, Damage reduction of Human race ＋5%, For Refining ＋1, damage reduction of Demi-Human race ＋1%, (upper limit of increases is 15%)"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45102.png",
+        "name": "Angry Solo Hat",
+        "slot": "Head",
+        "status": "Def ＋10"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45102.png",
+        "name": "Angry Solo Hat [1]",
+        "slot": "Head",
+        "status": "Def ＋10"
+    },
+    {
+        "imgsrc": null,
+        "name": "Anniversary Headwear",
+        "slot": "Head",
+        "status": "Dex ＋3, AGI ＋3"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_48512.png",
+        "name": "Annoyed Mask",
+        "slot": "Face",
+        "status": "Damage reduction of Demi-Human race ＋10%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Antlers",
+        "slot": "Head",
+        "status": "No effect"
+    },
+    {
+        "imgsrc": null,
+        "name": "Antlers [1]",
+        "slot": "Head",
+        "status": "Brute Dmg Reduc. ＋15%, Dmg to Plants ＋10%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Aori Ramen (old)[1]",
+        "slot": "Head",
+        "status": "Dex ＋3, AGI ＋3"
+    },
+    {
+        "imgsrc": null,
+        "name": "Aori Ramen [1]",
+        "slot": "Head",
+        "status": "Water Dmg Taken -20%, Freeze Def ＋10%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45202.png",
+        "name": "Apology Hood [1]",
+        "slot": "Head",
+        "status": "Def ＋5"
+    }
+]

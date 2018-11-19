@@ -1,0 +1,122 @@
+[
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42502.png",
+        "name": "Guard",
+        "slot": "Shield",
+        "status": "Def + 19"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42502.png",
+        "name": "Guard [1]",
+        "slot": "Shield",
+        "status": "Def + 19"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42532.png",
+        "name": "Guardian Shield",
+        "slot": "Shield",
+        "status": "Def + 94"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42532.png",
+        "name": "Guardian Shield [1]",
+        "slot": "Shield",
+        "status": "Def + 94"
+    },
+    {
+        "imgsrc": null,
+        "name": "Guardian Spear",
+        "slot": "Spear",
+        "status": ""
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40912.png",
+        "name": "Guillotine Katar [1]",
+        "slot": "Katar",
+        "status": "Doubles Critical, Max HP ＋800, When HP is lower than 25%, caster receives a Bloodthirsty effect: speed up following attacks, damage, damage causes additional HP loss; the effect lasts 10 seconds (CD lasts 120 seconds)"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40912.png",
+        "name": "Guillotine Katar [2]",
+        "slot": "Katar",
+        "status": "Doubles Critical, Max HP ＋800, When HP is lower than 25%, caster receives a Bloodthirsty effect: speed up following attacks, damage, damage causes additional HP loss; the effect lasts 10 seconds (CD lasts 120 seconds)"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41811.png",
+        "name": "Guillotine [1]",
+        "slot": "Axe",
+        "status": "auto attack has a 10% chance to stun the target, For Refining ＋1, Dmg to stunning targets ＋5%, Equipment ASPD ＋10%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41811.png",
+        "name": "Guillotine [2]",
+        "slot": "Axe",
+        "status": "auto attack has a 10% chance to stun the target, For Refining ＋1, Dmg to stunning targets ＋5%, Equipment ASPD ＋10%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Gungnir [2]",
+        "slot": "Spear",
+        "status": "Atk + 247"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40005.png",
+        "name": "Gungnir [3]",
+        "slot": "Spear",
+        "status": "Atk + 247"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40306.png",
+        "name": "Haedonggum [1]",
+        "slot": "Sword",
+        "status": "Str ＋2, Def ＋20"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40306.png",
+        "name": "Haedonggum [2]",
+        "slot": "Sword",
+        "status": "Str ＋2, Def ＋20"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45073.png",
+        "name": "Hair Band",
+        "slot": "Head",
+        "status": "Def ＋5"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45073.png",
+        "name": "Hair Band [1]",
+        "slot": "Head",
+        "status": "Def ＋5"
+    },
+    {
+        "imgsrc": null,
+        "name": "Hairband Of Reginleif",
+        "slot": "Face",
+        "status": "No effect"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45074.png",
+        "name": "Hairpin",
+        "slot": "Head",
+        "status": "No effect"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45074.png",
+        "name": "Hairpin [1]",
+        "slot": "Head",
+        "status": "No effect"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40003.png",
+        "name": "Halberd [1]",
+        "slot": "Spear",
+        "status": "Str ＋6, Hit ＋25, SP cost of [Pierce] -50%"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40003.png",
+        "name": "Halberd [2]",
+        "slot": "Spear",
+        "status": "Str ＋6, Hit ＋25, SP cost of [Pierce] -50%"
+    }
+]

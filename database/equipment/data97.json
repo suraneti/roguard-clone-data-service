@@ -1,0 +1,122 @@
+[
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40703.png",
+        "name": "Princess Knife [3]",
+        "slot": "Knife",
+        "status": "Atk + 360"
+    },
+    {
+        "imgsrc": null,
+        "name": "Princess' Hat[1]",
+        "slot": "Head",
+        "status": "M.Atk ＋20, Max SP ＋100"
+    },
+    {
+        "imgsrc": null,
+        "name": "Princess' Umbrella",
+        "slot": "Wing",
+        "status": "Max HP ＋400, Dmg to Demi-Human race ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Pringles Beard",
+        "slot": "Mouth",
+        "status": "Atk ＋10, M.Atk ＋10"
+    },
+    {
+        "imgsrc": null,
+        "name": "Pringles Beard",
+        "slot": "Face",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Pringles Mask",
+        "slot": "Head",
+        "status": "Dex ＋3, AGI ＋3"
+    },
+    {
+        "imgsrc": null,
+        "name": "Pringles Mask [1]",
+        "slot": "Head",
+        "status": "Dex ＋3, AGI ＋3"
+    },
+    {
+        "imgsrc": null,
+        "name": "Promise Crown",
+        "slot": "Head",
+        "status": "Max HP ＋100, Max SP ＋100, Def ＋5, M.Def ＋5"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40009.png",
+        "name": "Prontera Lance",
+        "slot": "Spear",
+        "status": "Atk + 225"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40009.png",
+        "name": "Prontera Lance [2]",
+        "slot": "Spear",
+        "status": "Atk + 225"
+    },
+    {
+        "imgsrc": null,
+        "name": "Prontera's Guard",
+        "slot": "Head",
+        "status": "Max HP ＋1000, Dmg Reduc. ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Prontera's Guard [1]",
+        "slot": "Head",
+        "status": "Max HP ＋1000, Dmg Reduc. ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Prophet Cape",
+        "slot": "Robe",
+        "status": "VIT ＋2, For Refining ＋10, Max HP ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Prophet Cape [1]",
+        "slot": "Robe",
+        "status": "VIT ＋2, For Refining ＋10, Max HP ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Protecting You",
+        "slot": "Accessory",
+        "status": "MaxHp + 1314"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_44001.png",
+        "name": "Psychic Earring [1]",
+        "slot": "Accessory",
+        "status": "Atk + 42"
+    },
+    {
+        "imgsrc": null,
+        "name": "Pumpkin Hairband",
+        "slot": "Head",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Pumpkin Hairband [1]",
+        "slot": "Head",
+        "status": "Dex ＋3, AGI ＋3"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45117.png",
+        "name": "Puppy Headband",
+        "slot": "Head",
+        "status": "Def ＋15"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45117.png",
+        "name": "Puppy Headband [1]",
+        "slot": "Head",
+        "status": "Def ＋15"
+    }
+]
