@@ -1,0 +1,162 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Mantis Card",
+        "effect": "Str ＋5",
+        "perma_buff": "Max HP ＋28",
+        "card_slot": "unknown",
+        "card_type": "unknown"
+    },
+    {
+        "imgsrc": null,
+        "name": "Mao Guai Card",
+        "effect": "Damage to ghost monsters ＋15%",
+        "perma_buff": "Max HP ＋28",
+        "card_slot": "unknown",
+        "card_type": "unknown"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/cards/card_10028.jpg",
+        "name": "Marc Card",
+        "effect": "Water Dmg Taken -15%, , Avoid freezing effect",
+        "perma_buff": "Water Dmg Taken -2%",
+        "card_slot": "unknown",
+        "card_type": "unknown"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/cards/card_10064.jpg",
+        "name": "Marduk Card",
+        "effect": "Avoid silence effect",
+        "perma_buff": "M.Def ＋4",
+        "card_slot": "unknown",
+        "card_type": "unknown"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/cards/card_10099.jpg",
+        "name": "Marin Card",
+        "effect": "Water Dmg Taken -15%",
+        "perma_buff": "",
+        "card_slot": "Footgear",
+        "card_type": "Normal"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/cards/card_10025.jpg",
+        "name": "Marina Card",
+        "effect": "auto attack has a 5% chance to freeze the target for 5 seconds, , Atk ＋10",
+        "perma_buff": "M.Def ＋2",
+        "card_slot": "unknown",
+        "card_type": "unknown"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/cards/card_40014.jpg",
+        "name": "Marine Sphere Card",
+        "effect": "Can use skill [Magnum Break] Lv.3",
+        "perma_buff": "Max HP ＋24",
+        "card_slot": "unknown",
+        "card_type": "unknown"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/cards/card_10072.jpg",
+        "name": "Marionette Card",
+        "effect": "Ghost Dmg Taken -15%",
+        "perma_buff": "Max HP ＋24",
+        "card_slot": "unknown",
+        "card_type": "unknown"
+    },
+    {
+        "imgsrc": null,
+        "name": "Marionette★Card",
+        "effect": "Ghost Dmg Taken -10%, Ghost Atk ＋5%",
+        "perma_buff": "Atk ＋8",
+        "card_slot": "unknown",
+        "card_type": "unknown"
+    },
+    {
+        "imgsrc": null,
+        "name": "Marse Card",
+        "effect": "Water Dmg Taken -15%, Flee ＋5",
+        "perma_buff": "Max HP ＋28",
+        "card_slot": "unknown",
+        "card_type": "unknown"
+    },
+    {
+        "imgsrc": null,
+        "name": "Martin Card",
+        "effect": "Def ＋10, Dmg to Dark monsters ＋10%",
+        "perma_buff": "M.Def ＋3",
+        "card_slot": "unknown",
+        "card_type": "unknown"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/cards/card_20017.jpg",
+        "name": "Mastering Card",
+        "effect": "Luk ＋4, Flee ＋5",
+        "perma_buff": "Max HP ＋24",
+        "card_slot": "unknown",
+        "card_type": "unknown"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/cards/card_10051.jpg",
+        "name": "Matyr Card",
+        "effect": "Agi ＋1, Max HP ＋5%",
+        "perma_buff": "Max HP ＋48",
+        "card_slot": "unknown",
+        "card_type": "unknown"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/cards/card_30008.jpg",
+        "name": "Maya Card",
+        "effect": "Reflect 20% M.Dmg",
+        "perma_buff": "M.Dmg Increase ＋2%",
+        "card_slot": "unknown",
+        "card_type": "unknown"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/cards/card_10039.jpg",
+        "name": "Menblatt Card",
+        "effect": "Damage to earth monsters ＋20%",
+        "perma_buff": "M.Def ＋4",
+        "card_slot": "unknown",
+        "card_type": "unknown"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/cards/card_40012.jpg",
+        "name": "Meta Ant Egg Card",
+        "effect": "Max HP ＋5%",
+        "perma_buff": "Max HP ＋24",
+        "card_slot": "unknown",
+        "card_type": "unknown"
+    },
+    {
+        "imgsrc": null,
+        "name": "Metaller Card",
+        "effect": "Str ＋3, Atk ＋20, Equipment ASPD ＋2%",
+        "perma_buff": "Equipment ASPD ＋1%",
+        "card_slot": "unknown",
+        "card_type": "unknown"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/cards/card_40015.jpg",
+        "name": "Mimic Card",
+        "effect": "No effect",
+        "perma_buff": "Max HP ＋28",
+        "card_slot": "unknown",
+        "card_type": "unknown"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/cards/card_10062.jpg",
+        "name": "Minorous Card",
+        "effect": "Damage to L-size monsters ＋25%, Atk ＋15",
+        "perma_buff": "Atk ＋8",
+        "card_slot": "unknown",
+        "card_type": "unknown"
+    },
+    {
+        "imgsrc": "//www.roguard.net/content/img/cards/card_30007.jpg",
+        "name": "Mistress Card",
+        "effect": "CT Variable -5%, , Magic Ore of Skill Cost -1",
+        "perma_buff": "Magic Reduc. ＋2%",
+        "card_slot": "Headgear",
+        "card_type": "MVP"
+    }
+]
