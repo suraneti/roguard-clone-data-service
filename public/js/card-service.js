@@ -27,9 +27,8 @@ function serializeCardData(pages, callback) {
         const match = tbody.match(/<tr[\s\S]*?<\/tr>/g)
 
         const monsterData = [];
-
         match.forEach(element => {
-            const cardImage = (element.match(/src\s*=\s*\\*"(.+?)\\*"\s*/) !== null) ? element.match(/src\s*=\s*\\*"(.+?)\\*"\s*/)[1] : null
+            const cardImage = (element.match(/src\s*=\s*\\*"\/\/(.+?)\\*"\s*/) !== null) ? element.match(/src\s*=\s*\\*"\/\/(.+?)\\*"\s*/)[1] : null
             const cardName = element.match(/<a (.*)>(.+?)<\/a>/)[2]
 
             // split by td tag element into array
