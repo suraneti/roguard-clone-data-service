@@ -1,15 +1,15 @@
 [
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/monsters/goblin2_monster.png",
-        "name": "Goblin(Axe)",
+        "imgsrc": "www.roguard.net/content/img/icons/monsters/goblin3_monster.png",
+        "name": "Goblin(Buckler) ★",
         "element": "Earth",
         "race": "Demi-Human",
         "level": "Lv 35",
-        "hp": "4,505 Hp",
-        "base_exp": "265 Base Exp",
-        "job_exp": "131 Job Exp",
+        "hp": "43,917 Hp",
+        "base_exp": "1,185 Base Exp",
+        "job_exp": "735 Job Exp",
         "metadata": {
-            "description": "The third brother in the Goblin group, it will attack with its brothers. Its weapon is an axe. As an ancient family, Its nature is very naughty and evil. Because it is not big, it can't cause great damage when it is alone. Once they're united, the destructive power can not be underestimated.",
+            "description": "The fourth brother in the Goblin group, it will attack with its brothers. Its weapon is a hammer. As an ancient family, Its nature is very naughty and evil. Because it is not big, it can't cause great damage when it is alone. Once they're united, the destructive power can not be underestimated.",
             "common_data": {
                 "level": "35",
                 "type": "Monster",
@@ -18,66 +18,176 @@
                 "element": "Earth",
                 "size": "Medium",
                 "passive_level": "40",
-                "base_exp": "265",
-                "job_exp": "131"
+                "base_exp": "1,185",
+                "job_exp": "735"
             },
             "attribute_data": {
-                "atk": "53",
-                "matk": "27",
-                "def": "0",
+                "atk": "177",
+                "matk": "77",
+                "def": "200",
                 "mdef": "6",
-                "hp": "4,505",
-                "hit": "35",
-                "flee": "48",
+                "hp": "43,917",
+                "hit": "149",
+                "flee": "46",
                 "move_spd": "60",
                 "atk_spd": "0.62"
             },
             "card_data": {
-                "imgsrc": "www.roguard.net/content/img/cards/card_10029.jpg",
+                "imgsrc": "www.roguard.net/content/img/icons/items/item_48511.png",
                 "name": "Goblin Card",
-                "effect": "Dmg to brute race ＋15%",
+                "effect": null,
+                "perma_buff": null
+            },
+            "drop_data": [],
+            "location_data": []
+        }
+    },
+    {
+        "imgsrc": "www.roguard.net/content/img/icons/monsters/goblin5_monster.png",
+        "name": "Goblin(Hammer) ★",
+        "element": "Water",
+        "race": "Demi-Human",
+        "level": "Lv 35",
+        "hp": "43,917 Hp",
+        "base_exp": "1,175 Base Exp",
+        "job_exp": "745 Job Exp",
+        "metadata": {
+            "description": "The youngest in the Goblin group, it will attack with its brothers. Its weapon is a spiked club. As an ancient family, Its nature is very naughty and evil. Because it is not big, it can't cause great damage when it is alone. Once they're united, the destructive power can not be underestimated.",
+            "common_data": {
+                "level": "35",
+                "type": "Monster",
+                "zone": "Field",
+                "race": "Demi-Human",
+                "element": "Water",
+                "size": "Medium",
+                "passive_level": "40",
+                "base_exp": "1,175",
+                "job_exp": "745"
+            },
+            "attribute_data": {
+                "atk": "177",
+                "matk": "204",
+                "def": "200",
+                "mdef": "6",
+                "hp": "43,917",
+                "hit": "144",
+                "flee": "44",
+                "move_spd": "60",
+                "atk_spd": "0.65"
+            },
+            "card_data": {
+                "imgsrc": "www.roguard.net/content/img/icons/items/item_48512.png",
+                "name": "Goblin Card",
+                "effect": null,
+                "perma_buff": null
+            },
+            "drop_data": [],
+            "location_data": []
+        }
+    },
+    {
+        "imgsrc": "www.roguard.net/content/img/icons/monsters/marina_monster.png",
+        "name": "Marina",
+        "element": "Water",
+        "race": "Plant",
+        "level": "Lv 32",
+        "hp": "2,618 Hp",
+        "base_exp": "213 Base Exp",
+        "job_exp": "137 Job Exp",
+        "metadata": {
+            "description": "Perching in Underwater Caves, Its body is like an rubber, and its skin is tender. As a well-known ornamental monster on the seabed, it is very enthusiastic to tourists. From time to time, it will give a passionate embrace, but because it's too close with humans, it has been warned many times by the Monsters Association.",
+            "common_data": {
+                "level": "32",
+                "type": "Monster",
+                "zone": "Field",
+                "race": "Plant",
+                "element": "Water",
+                "size": "Small",
+                "passive_level": "40",
+                "base_exp": "213",
+                "job_exp": "137"
+            },
+            "attribute_data": {
+                "atk": "50",
+                "matk": "29",
+                "def": "0",
+                "mdef": "50",
+                "hp": "2,618",
+                "hit": "32",
+                "flee": "42",
+                "move_spd": "35",
+                "atk_spd": "0.44"
+            },
+            "card_data": {
+                "imgsrc": "www.roguard.net/content/img/cards/card_10025.jpg",
+                "name": "Marina Card",
+                "effect": null,
                 "perma_buff": [
-                    "<div style=\"text-align: center;\">Dmg to brute race ＋2%</div>",
-                    "Dmg to brute race ＋2%"
+                    "<div style=\"text-align: center;\">M.Def ＋2</div>",
+                    "M.Def ＋2"
                 ]
             },
             "drop_data": [
                 {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_48510.png",
-                    "name": "Surprised Mask Blueprint",
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_45018.png",
+                    "name": "Jellyfish head [1] Blueprint",
                     "drop_rate": "?%"
                 },
                 {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_52151.png",
-                    "name": "Feather",
-                    "drop_rate": "40.86%"
+                    "imgsrc": "www.roguard.net/content/img/icons/items/19.png",
+                    "name": "Marina Card",
+                    "drop_rate": "?%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_52103.png",
+                    "name": "Garlet",
+                    "drop_rate": "27.22%"
                 },
                 {
                     "imgsrc": "www.roguard.net/content/img/icons/items/item_12004.png",
-                    "name": "Transformation Scroll (Goblin(Axe))",
-                    "drop_rate": "0.43%"
+                    "name": "Transformation Scroll (Marina)",
+                    "drop_rate": "0.5%"
                 },
                 {
                     "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
                     "name": "Zeny",
-                    "drop_rate": "54.08%"
+                    "drop_rate": "64.27%"
                 },
                 {
                     "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
                     "name": "Zeny",
-                    "drop_rate": "54.08%"
+                    "drop_rate": "64.27%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_5110.png",
+                    "name": "Mystic Frozen",
+                    "drop_rate": "0.46%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_12521.png",
+                    "name": "Blue Gemstone",
+                    "drop_rate": "1.53%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_61502.png",
+                    "name": "Silversmith Bracelet [1]",
+                    "drop_rate": "0.5%"
                 }
             ],
             "location_data": [
                 {
-                    "location": "Goblin Forest",
-                    "suggestion_level": "(Lv35~39)"
+                    "location": "Underwater Cave",
+                    "suggestion_level": "(Lv29~32)"
+                },
+                {
+                    "location": "Underwater Temple",
+                    "suggestion_level": "(Lv32~36)"
                 }
             ]
         }
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/monsters/deviling_mvp.png",
+        "imgsrc": "www.roguard.net/content/img/icons/monsters/deviling_mvp.png",
         "name": "Deviling",
         "element": "Shadow",
         "race": "Demon",
@@ -184,7 +294,7 @@
         }
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/monsters/goblin_monster.png",
+        "imgsrc": "www.roguard.net/content/img/icons/monsters/goblin_monster.png",
         "name": "Goblin(Knife) ★",
         "element": "Wind",
         "race": "Demi-Human",
@@ -227,215 +337,7 @@
         }
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/monsters/marina_monster.png",
-        "name": "Marina",
-        "element": "Water",
-        "race": "Plant",
-        "level": "Lv 32",
-        "hp": "2,618 Hp",
-        "base_exp": "213 Base Exp",
-        "job_exp": "137 Job Exp",
-        "metadata": {
-            "description": "Perching in Underwater Caves, Its body is like an rubber, and its skin is tender. As a well-known ornamental monster on the seabed, it is very enthusiastic to tourists. From time to time, it will give a passionate embrace, but because it's too close with humans, it has been warned many times by the Monsters Association.",
-            "common_data": {
-                "level": "32",
-                "type": "Monster",
-                "zone": "Field",
-                "race": "Plant",
-                "element": "Water",
-                "size": "Small",
-                "passive_level": "40",
-                "base_exp": "213",
-                "job_exp": "137"
-            },
-            "attribute_data": {
-                "atk": "50",
-                "matk": "29",
-                "def": "0",
-                "mdef": "50",
-                "hp": "2,618",
-                "hit": "32",
-                "flee": "42",
-                "move_spd": "35",
-                "atk_spd": "0.44"
-            },
-            "card_data": {
-                "imgsrc": "www.roguard.net/content/img/cards/card_10025.jpg",
-                "name": "Marina Card",
-                "effect": null,
-                "perma_buff": [
-                    "<div style=\"text-align: center;\">M.Def ＋2</div>",
-                    "M.Def ＋2"
-                ]
-            },
-            "drop_data": [
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_45018.png",
-                    "name": "Jellyfish head [1] Blueprint",
-                    "drop_rate": "?%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/19.png",
-                    "name": "Marina Card",
-                    "drop_rate": "?%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_52103.png",
-                    "name": "Garlet",
-                    "drop_rate": "27.22%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_12004.png",
-                    "name": "Transformation Scroll (Marina)",
-                    "drop_rate": "0.5%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
-                    "name": "Zeny",
-                    "drop_rate": "64.27%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
-                    "name": "Zeny",
-                    "drop_rate": "64.27%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_5110.png",
-                    "name": "Mystic Frozen",
-                    "drop_rate": "0.46%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_12521.png",
-                    "name": "Blue Gemstone",
-                    "drop_rate": "1.53%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_61502.png",
-                    "name": "Silversmith Bracelet [1]",
-                    "drop_rate": "0.5%"
-                }
-            ],
-            "location_data": [
-                {
-                    "location": "Underwater Cave",
-                    "suggestion_level": "(Lv29~32)"
-                },
-                {
-                    "location": "Underwater Temple",
-                    "suggestion_level": "(Lv32~36)"
-                }
-            ]
-        }
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/monsters/ghostring_mini.png",
-        "name": "Ghosting",
-        "element": "Ghost",
-        "race": "Demon",
-        "level": "Lv 35",
-        "hp": "306,338 Hp",
-        "base_exp": "1,480 Base Exp",
-        "job_exp": "1,582 Job Exp",
-        "metadata": {
-            "description": "A special type converted from some of Poring souls, which Ghost element annoys many players. It appears and disappears mysteriously and elusive, seems that it's looking for something to end its regret.",
-            "common_data": {
-                "level": "35",
-                "type": "Mini Boss",
-                "zone": "Field",
-                "race": "Demon",
-                "element": "Ghost",
-                "size": "Medium",
-                "passive_level": "999",
-                "base_exp": "1,480",
-                "job_exp": "1,582"
-            },
-            "attribute_data": {
-                "atk": "276",
-                "matk": "138",
-                "def": "0",
-                "mdef": "200",
-                "hp": "306,338",
-                "hit": "180",
-                "flee": "45",
-                "move_spd": "135",
-                "atk_spd": "0.9"
-            },
-            "card_data": {
-                "imgsrc": "www.roguard.net/content/img/cards/card_20004.jpg",
-                "name": "Ghosting Card",
-                "effect": "Turn the armor's element into Ghost, HP Regen -50%",
-                "perma_buff": [
-                    "<div style=\"text-align: center;\">Def ＋4</div>",
-                    "Def ＋4"
-                ]
-            },
-            "drop_data": [
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_45015.png",
-                    "name": "Ghost Bandana Blueprint",
-                    "drop_rate": "1.2%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/19.png",
-                    "name": "Ghosting Card",
-                    "drop_rate": "?%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_52202.png",
-                    "name": "Memento",
-                    "drop_rate": "15.8%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_52304.png",
-                    "name": "Fabric",
-                    "drop_rate": "4.59%"
-                },
-                {
-                    "imgsrc": null,
-                    "name": "Transformation Scroll (Ghosting)",
-                    "drop_rate": "1.37%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_5500.png",
-                    "name": "Emperium",
-                    "drop_rate": "3.67%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_5003.png",
-                    "name": "Elunium",
-                    "drop_rate": "1.6%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_12020.png",
-                    "name": "Dead Branch",
-                    "drop_rate": "22.95%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_12121.png",
-                    "name": "Candy",
-                    "drop_rate": "8.5%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
-                    "name": "Zeny",
-                    "drop_rate": "0.21%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_61502.png",
-                    "name": "Silversmith Bracelet [1]",
-                    "drop_rate": "40.06%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_43525.png",
-                    "name": "Tidal Shoes",
-                    "drop_rate": "100%"
-                }
-            ],
-            "location_data": []
-        }
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/monsters/vadon_monster.png",
+        "imgsrc": "www.roguard.net/content/img/icons/monsters/vadon_monster.png",
         "name": "Vadon",
         "element": "Water",
         "race": "Fish",
@@ -527,7 +429,7 @@
         }
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/monsters/golden_bug_mvp.png",
+        "imgsrc": "www.roguard.net/content/img/icons/monsters/golden_bug_mvp.png",
         "name": "Golden Thief Bug",
         "element": "Fire",
         "race": "Insect",
@@ -639,7 +541,89 @@
         }
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/monsters/swordfish_monster.png",
+        "imgsrc": "www.roguard.net/content/img/icons/monsters/thara_monster.png",
+        "name": "Thara Frog",
+        "element": "Water",
+        "race": "Fish",
+        "level": "Lv 31",
+        "hp": "2,917 Hp",
+        "base_exp": "208 Base Exp",
+        "job_exp": "131 Job Exp",
+        "metadata": {
+            "description": "An evolutionary version of Roda Frog. It has been keen to listen to all kinds of programs of Midgard since it inadvertently obtained a radio left by humans. Occasionally when you get close to it, You can still hear that it is seriously practicing talk shows.",
+            "common_data": {
+                "level": "31",
+                "type": "Monster",
+                "zone": "Field",
+                "race": "Fish",
+                "element": "Water",
+                "size": "Medium",
+                "passive_level": "40",
+                "base_exp": "208",
+                "job_exp": "131"
+            },
+            "attribute_data": {
+                "atk": "45",
+                "matk": "26",
+                "def": "0",
+                "mdef": "0",
+                "hp": "2,917",
+                "hit": "31",
+                "flee": "44",
+                "move_spd": "60",
+                "atk_spd": "0.5"
+            },
+            "card_data": {
+                "imgsrc": "www.roguard.net/content/img/cards/card_10024.jpg",
+                "name": "Thara Frog Card",
+                "effect": "Damage reduction of Demi-Human race ＋30%",
+                "perma_buff": [
+                    "<div style=\"text-align: center;\">M.Def ＋2</div>",
+                    "M.Def ＋2"
+                ]
+            },
+            "drop_data": [
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/19.png",
+                    "name": "Thara Frog Card",
+                    "drop_rate": "?%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_52152.png",
+                    "name": "Sticky Mucus",
+                    "drop_rate": "27.86%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_12004.png",
+                    "name": "Transformation Scroll (Thara Frog)",
+                    "drop_rate": "0.38%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
+                    "name": "Zeny",
+                    "drop_rate": "65.67%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
+                    "name": "Zeny",
+                    "drop_rate": "65.67%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_43530.png",
+                    "name": "Moccasin [1]",
+                    "drop_rate": "0.43%"
+                }
+            ],
+            "location_data": [
+                {
+                    "location": "Underwater Cave",
+                    "suggestion_level": "(Lv29~32)"
+                }
+            ]
+        }
+    },
+    {
+        "imgsrc": "www.roguard.net/content/img/icons/monsters/swordfish_monster.png",
         "name": "Phen",
         "element": "Water",
         "race": "Fish",
@@ -726,160 +710,35 @@
         }
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/monsters/thara_monster.png",
-        "name": "Thara Frog",
-        "element": "Water",
-        "race": "Fish",
-        "level": "Lv 31",
-        "hp": "2,917 Hp",
-        "base_exp": "208 Base Exp",
+        "imgsrc": "www.roguard.net/content/img/icons/monsters/goblin2_monster.png",
+        "name": "Goblin(Axe)",
+        "element": "Earth",
+        "race": "Demi-Human",
+        "level": "Lv 35",
+        "hp": "4,505 Hp",
+        "base_exp": "265 Base Exp",
         "job_exp": "131 Job Exp",
         "metadata": {
-            "description": "An evolutionary version of Roda Frog. It has been keen to listen to all kinds of programs of Midgard since it inadvertently obtained a radio left by humans. Occasionally when you get close to it, You can still hear that it is seriously practicing talk shows.",
+            "description": "The third brother in the Goblin group, it will attack with its brothers. Its weapon is an axe. As an ancient family, Its nature is very naughty and evil. Because it is not big, it can't cause great damage when it is alone. Once they're united, the destructive power can not be underestimated.",
             "common_data": {
-                "level": "31",
+                "level": "35",
                 "type": "Monster",
                 "zone": "Field",
-                "race": "Fish",
-                "element": "Water",
+                "race": "Demi-Human",
+                "element": "Earth",
                 "size": "Medium",
                 "passive_level": "40",
-                "base_exp": "208",
+                "base_exp": "265",
                 "job_exp": "131"
             },
             "attribute_data": {
-                "atk": "45",
-                "matk": "26",
-                "def": "0",
-                "mdef": "0",
-                "hp": "2,917",
-                "hit": "31",
-                "flee": "44",
-                "move_spd": "60",
-                "atk_spd": "0.5"
-            },
-            "card_data": {
-                "imgsrc": "www.roguard.net/content/img/cards/card_10024.jpg",
-                "name": "Thara Frog Card",
-                "effect": "Damage reduction of Demi-Human race ＋30%",
-                "perma_buff": [
-                    "<div style=\"text-align: center;\">M.Def ＋2</div>",
-                    "M.Def ＋2"
-                ]
-            },
-            "drop_data": [
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/19.png",
-                    "name": "Thara Frog Card",
-                    "drop_rate": "?%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_52152.png",
-                    "name": "Sticky Mucus",
-                    "drop_rate": "27.86%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_12004.png",
-                    "name": "Transformation Scroll (Thara Frog)",
-                    "drop_rate": "0.38%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
-                    "name": "Zeny",
-                    "drop_rate": "65.67%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
-                    "name": "Zeny",
-                    "drop_rate": "65.67%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_43530.png",
-                    "name": "Moccasin [1]",
-                    "drop_rate": "0.43%"
-                }
-            ],
-            "location_data": [
-                {
-                    "location": "Underwater Cave",
-                    "suggestion_level": "(Lv29~32)"
-                }
-            ]
-        }
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/monsters/obeaune_monster.png",
-        "name": "Obeaune ★",
-        "element": "Water",
-        "race": "Fish",
-        "level": "Lv 33",
-        "hp": "35,727 Hp",
-        "base_exp": "1,105 Base Exp",
-        "job_exp": "700 Job Exp",
-        "metadata": {
-            "description": "A semi-fish and semi-human monster that appears in the depths of the Underwater Caves. They're very gentle and united and friendly to each other. Due to the overexploitation of the ocean by humans and the impact of the seabed seal, the ecological environment has been deteriorating and some of them have been washed into the sewers.",
-            "common_data": {
-                "level": "33",
-                "type": "Monster",
-                "zone": "Field",
-                "race": "Fish",
-                "element": "Water",
-                "size": "Medium",
-                "passive_level": "40",
-                "base_exp": "1,105",
-                "job_exp": "700"
-            },
-            "attribute_data": {
-                "atk": "148",
-                "matk": "67",
-                "def": "0",
-                "mdef": "50",
-                "hp": "35,727",
-                "hit": "195",
-                "flee": "62",
-                "move_spd": "60",
-                "atk_spd": "0.53"
-            },
-            "card_data": {
-                "imgsrc": "www.roguard.net/content/img/icons/items/item_48506.png",
-                "name": "Obeaune Card",
-                "effect": null,
-                "perma_buff": null
-            },
-            "drop_data": [],
-            "location_data": []
-        }
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/monsters/goblin3_monster.png",
-        "name": "Goblin(Buckler)",
-        "element": "Earth",
-        "race": "Demi-Human",
-        "level": "Lv 35",
-        "hp": "4,505 Hp",
-        "base_exp": "237 Base Exp",
-        "job_exp": "147 Job Exp",
-        "metadata": {
-            "description": "The fourth brother in the Goblin group, it will attack with its brothers. Its weapon is a hammer. As an ancient family, Its nature is very naughty and evil. Because it is not big, it can't cause great damage when it is alone. Once they're united, the destructive power can not be underestimated.",
-            "common_data": {
-                "level": "35",
-                "type": "Monster",
-                "zone": "Field",
-                "race": "Demi-Human",
-                "element": "Earth",
-                "size": "Medium",
-                "passive_level": "40",
-                "base_exp": "237",
-                "job_exp": "147"
-            },
-            "attribute_data": {
                 "atk": "53",
-                "matk": "38",
+                "matk": "27",
                 "def": "0",
                 "mdef": "6",
                 "hp": "4,505",
                 "hit": "35",
-                "flee": "46",
+                "flee": "48",
                 "move_spd": "60",
                 "atk_spd": "0.62"
             },
@@ -894,578 +753,29 @@
             },
             "drop_data": [
                 {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_48511.png",
-                    "name": "Poker Face Blueprint",
-                    "drop_rate": "?%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_52152.png",
-                    "name": "Sticky Mucus",
-                    "drop_rate": "29.85%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_12004.png",
-                    "name": "Transformation Scroll (Goblin(Buckler))",
-                    "drop_rate": "0.5%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
-                    "name": "Zeny",
-                    "drop_rate": "63.23%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
-                    "name": "Zeny",
-                    "drop_rate": "63.23%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_5111.png",
-                    "name": "Great Nature",
-                    "drop_rate": "0.5%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_42526.png",
-                    "name": "Scutum [1]",
-                    "drop_rate": "0.49%"
-                }
-            ],
-            "location_data": [
-                {
-                    "location": "Goblin Forest",
-                    "suggestion_level": "(Lv35~39)"
-                }
-            ]
-        }
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/monsters/skeleton_monster.png",
-        "name": "Skeleton",
-        "element": "Undead",
-        "race": "Undead",
-        "level": "Lv 30",
-        "hp": "2,520 Hp",
-        "base_exp": "179 Base Exp",
-        "job_exp": "140 Job Exp",
-        "metadata": {
-            "description": "Before his death, he was a brave and fearless warrior. After his resurrection, he was once lost the desire to survive again. After chatting with the Porings, he found new goals and started to work hard to warm up and prepare to participate in the monster sprint relay!",
-            "common_data": {
-                "level": "30",
-                "type": "Monster",
-                "zone": "Field",
-                "race": "Undead",
-                "element": "Undead",
-                "size": "Medium",
-                "passive_level": "40",
-                "base_exp": "179",
-                "job_exp": "140"
-            },
-            "attribute_data": {
-                "atk": "40",
-                "matk": "23",
-                "def": "0",
-                "mdef": "0",
-                "hp": "2,520",
-                "hit": "30",
-                "flee": "15",
-                "move_spd": "60",
-                "atk_spd": "0.6"
-            },
-            "card_data": {
-                "imgsrc": "www.roguard.net/content/img/cards/card_10022.jpg",
-                "name": "Skeleton Card",
-                "effect": "auto attack has a 3% chance to stun the target for 5 seconds",
-                "perma_buff": [
-                    "<div style=\"text-align: center;\">Def ＋4</div>",
-                    "Def ＋4"
-                ]
-            },
-            "drop_data": [
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_48504.png",
-                    "name": "Bandana Blueprint",
-                    "drop_rate": "?%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/19.png",
-                    "name": "Skeleton Card",
-                    "drop_rate": "?%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_12004.png",
-                    "name": "Transformation Scroll (Skeleton)",
-                    "drop_rate": "0.02%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
-                    "name": "Zeny",
-                    "drop_rate": "86.96%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
-                    "name": "Zeny",
-                    "drop_rate": "86.96%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_12026.png",
-                    "name": "Awakening Potion",
-                    "drop_rate": "0.77%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_52402.png",
-                    "name": "Steel",
-                    "drop_rate": "3.99%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_40330.png",
-                    "name": "Blade [2]",
-                    "drop_rate": "0.69%"
-                }
-            ],
-            "location_data": [
-                {
-                    "location": "Ghost Ship",
-                    "suggestion_level": "(Lv26~30)"
-                }
-            ]
-        }
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/monsters/goblin5_monster.png",
-        "name": "Goblin(Hammer)",
-        "element": "Water",
-        "race": "Demi-Human",
-        "level": "Lv 35",
-        "hp": "4,505 Hp",
-        "base_exp": "235 Base Exp",
-        "job_exp": "149 Job Exp",
-        "metadata": {
-            "description": "The youngest in the Goblin group, it will attack with its brothers. Its weapon is a spiked club. As an ancient family, Its nature is very naughty and evil. Because it is not big, it can't cause great damage when it is alone. Once they're united, the destructive power can not be underestimated.",
-            "common_data": {
-                "level": "35",
-                "type": "Monster",
-                "zone": "Field",
-                "race": "Demi-Human",
-                "element": "Water",
-                "size": "Medium",
-                "passive_level": "40",
-                "base_exp": "235",
-                "job_exp": "149"
-            },
-            "attribute_data": {
-                "atk": "53",
-                "matk": "38",
-                "def": "0",
-                "mdef": "6",
-                "hp": "4,505",
-                "hit": "35",
-                "flee": "44",
-                "move_spd": "60",
-                "atk_spd": "0.65"
-            },
-            "card_data": {
-                "imgsrc": "www.roguard.net/content/img/cards/card_10029.jpg",
-                "name": "Goblin Card",
-                "effect": "Dmg to brute race ＋15%",
-                "perma_buff": [
-                    "<div style=\"text-align: center;\">Dmg to brute race ＋2%</div>",
-                    "Dmg to brute race ＋2%"
-                ]
-            },
-            "drop_data": [
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_48512.png",
-                    "name": "Annoyed Mask Blueprint",
-                    "drop_rate": "?%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_52152.png",
-                    "name": "Sticky Mucus",
-                    "drop_rate": "34.38%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_12004.png",
-                    "name": "Transformation Scroll (Goblin(Hammer))",
-                    "drop_rate": "0.47%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
-                    "name": "Zeny",
-                    "drop_rate": "59.57%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
-                    "name": "Zeny",
-                    "drop_rate": "59.57%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_41533.png",
-                    "name": "Chain [2]",
-                    "drop_rate": "0.47%"
-                }
-            ],
-            "location_data": [
-                {
-                    "location": "Goblin Forest",
-                    "suggestion_level": "(Lv35~39)"
-                }
-            ]
-        }
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/monsters/goblin5_monster.png",
-        "name": "Goblin(Hammer) ★",
-        "element": "Water",
-        "race": "Demi-Human",
-        "level": "Lv 35",
-        "hp": "43,917 Hp",
-        "base_exp": "1,175 Base Exp",
-        "job_exp": "745 Job Exp",
-        "metadata": {
-            "description": "The youngest in the Goblin group, it will attack with its brothers. Its weapon is a spiked club. As an ancient family, Its nature is very naughty and evil. Because it is not big, it can't cause great damage when it is alone. Once they're united, the destructive power can not be underestimated.",
-            "common_data": {
-                "level": "35",
-                "type": "Monster",
-                "zone": "Field",
-                "race": "Demi-Human",
-                "element": "Water",
-                "size": "Medium",
-                "passive_level": "40",
-                "base_exp": "1,175",
-                "job_exp": "745"
-            },
-            "attribute_data": {
-                "atk": "177",
-                "matk": "204",
-                "def": "200",
-                "mdef": "6",
-                "hp": "43,917",
-                "hit": "144",
-                "flee": "44",
-                "move_spd": "60",
-                "atk_spd": "0.65"
-            },
-            "card_data": {
-                "imgsrc": "www.roguard.net/content/img/icons/items/item_48512.png",
-                "name": "Goblin Card",
-                "effect": null,
-                "perma_buff": null
-            },
-            "drop_data": [],
-            "location_data": []
-        }
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/monsters/goblin3_monster.png",
-        "name": "Goblin(Buckler) ★",
-        "element": "Earth",
-        "race": "Demi-Human",
-        "level": "Lv 35",
-        "hp": "43,917 Hp",
-        "base_exp": "1,185 Base Exp",
-        "job_exp": "735 Job Exp",
-        "metadata": {
-            "description": "The fourth brother in the Goblin group, it will attack with its brothers. Its weapon is a hammer. As an ancient family, Its nature is very naughty and evil. Because it is not big, it can't cause great damage when it is alone. Once they're united, the destructive power can not be underestimated.",
-            "common_data": {
-                "level": "35",
-                "type": "Monster",
-                "zone": "Field",
-                "race": "Demi-Human",
-                "element": "Earth",
-                "size": "Medium",
-                "passive_level": "40",
-                "base_exp": "1,185",
-                "job_exp": "735"
-            },
-            "attribute_data": {
-                "atk": "177",
-                "matk": "77",
-                "def": "200",
-                "mdef": "6",
-                "hp": "43,917",
-                "hit": "149",
-                "flee": "46",
-                "move_spd": "60",
-                "atk_spd": "0.62"
-            },
-            "card_data": {
-                "imgsrc": "www.roguard.net/content/img/icons/items/item_48511.png",
-                "name": "Goblin Card",
-                "effect": null,
-                "perma_buff": null
-            },
-            "drop_data": [],
-            "location_data": []
-        }
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/monsters/goblin_monster.png",
-        "name": "Goblin(Knife)",
-        "element": "Wind",
-        "race": "Demi-Human",
-        "level": "Lv 35",
-        "hp": "4,505 Hp",
-        "base_exp": "240 Base Exp",
-        "job_exp": "145 Job Exp",
-        "metadata": {
-            "description": "The eldest in the Goblin group, it will attack with its brothers. Its weapon is a Knife. As an ancient family, Its nature is very naughty and evil. Because it is not big, it can't cause great damage when it is alone. Once they're united, the destructive power can not be underestimated.",
-            "common_data": {
-                "level": "35",
-                "type": "Monster",
-                "zone": "Field",
-                "race": "Demi-Human",
-                "element": "Wind",
-                "size": "Medium",
-                "passive_level": "40",
-                "base_exp": "240",
-                "job_exp": "145"
-            },
-            "attribute_data": {
-                "atk": "53",
-                "matk": "38",
-                "def": "0",
-                "mdef": "6",
-                "hp": "4,505",
-                "hit": "35",
-                "flee": "78",
-                "move_spd": "60",
-                "atk_spd": "0.6"
-            },
-            "card_data": {
-                "imgsrc": "www.roguard.net/content/img/cards/card_10029.jpg",
-                "name": "Goblin Card",
-                "effect": "Dmg to brute race ＋15%",
-                "perma_buff": [
-                    "<div style=\"text-align: center;\">Dmg to brute race ＋2%</div>",
-                    "Dmg to brute race ＋2%"
-                ]
-            },
-            "drop_data": [
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_48554.png",
-                    "name": "Strange Goblin Mask Blueprint",
-                    "drop_rate": "?%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_52152.png",
-                    "name": "Sticky Mucus",
-                    "drop_rate": "34.38%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_12004.png",
-                    "name": "Transformation Scroll (Goblin(Knife))",
-                    "drop_rate": "0.47%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
-                    "name": "Zeny",
-                    "drop_rate": "59.57%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
-                    "name": "Zeny",
-                    "drop_rate": "59.57%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_40905.png",
-                    "name": "Jur [2]",
-                    "drop_rate": "0.47%"
-                }
-            ],
-            "location_data": [
-                {
-                    "location": "Goblin Forest",
-                    "suggestion_level": "(Lv35~39)"
-                }
-            ]
-        }
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/monsters/marinesphere_monster.png",
-        "name": "Marine Sphere",
-        "element": "Water",
-        "race": "Plant",
-        "level": "Lv 32",
-        "hp": "3,000 Hp",
-        "base_exp": "1 Base Exp",
-        "job_exp": "1 Job Exp",
-        "metadata": {
-            "description": "A very old single-cell mutated monster which evolves slowly. Although it has a certain independent consciousness, when it is attacked or threatened, it will still directly smack into the enemy and explode. It hate others saying that it acts without thinking...",
-            "common_data": {
-                "level": "32",
-                "type": "Monster",
-                "zone": "Field",
-                "race": "Plant",
-                "element": "Water",
-                "size": "Small",
-                "passive_level": "0",
-                "base_exp": "1",
-                "job_exp": "1"
-            },
-            "attribute_data": {
-                "atk": "1",
-                "matk": "1",
-                "def": "1",
-                "mdef": "1",
-                "hp": "3,000",
-                "hit": "112",
-                "flee": "0",
-                "move_spd": "50",
-                "atk_spd": "1"
-            },
-            "card_data": {
-                "imgsrc": "www.roguard.net/content/img/cards/card_40014.jpg",
-                "name": "Marine Sphere Card",
-                "effect": "Can use skill [Magnum Break] Lv.3",
-                "perma_buff": [
-                    "<div style=\"text-align: center;\">Max HP ＋24</div>",
-                    "Max HP ＋24"
-                ]
-            },
-            "drop_data": [
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/19.png",
-                    "name": "Marine Sphere Card",
-                    "drop_rate": "?%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_52202.png",
-                    "name": "Memento",
-                    "drop_rate": "30.56%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
-                    "name": "Zeny",
-                    "drop_rate": "67.4%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_12521.png",
-                    "name": "Blue Gemstone",
-                    "drop_rate": "2.01%"
-                }
-            ],
-            "location_data": [
-                {
-                    "location": "Underwater Temple",
-                    "suggestion_level": "(Lv32~36)"
-                }
-            ]
-        }
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/monsters/goblin4_monster.png",
-        "name": "Goblin(Spear) ★",
-        "element": "Wind",
-        "race": "Demi-Human",
-        "level": "Lv 35",
-        "hp": "43,917 Hp",
-        "base_exp": "1,195 Base Exp",
-        "job_exp": "730 Job Exp",
-        "metadata": {
-            "description": "The second brother in the Goblin group, it will attack with its brothers. Its weapon is a flail. As an ancient family, Its nature is very naughty and evil. Because it is not big, it can't cause great damage when it is alone. Once they're united, the destructive power can not be underestimated.",
-            "common_data": {
-                "level": "35",
-                "type": "Monster",
-                "zone": "Field",
-                "race": "Demi-Human",
-                "element": "Wind",
-                "size": "Medium",
-                "passive_level": "40",
-                "base_exp": "1,195",
-                "job_exp": "730"
-            },
-            "attribute_data": {
-                "atk": "177",
-                "matk": "85",
-                "def": "200",
-                "mdef": "6",
-                "hp": "43,917",
-                "hit": "144",
-                "flee": "44",
-                "move_spd": "60",
-                "atk_spd": "0.76"
-            },
-            "card_data": {
-                "imgsrc": "www.roguard.net/content/img/icons/items/item_48509.png",
-                "name": "Goblin Card",
-                "effect": null,
-                "perma_buff": null
-            },
-            "drop_data": [],
-            "location_data": []
-        }
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/monsters/goblin4_monster.png",
-        "name": "Goblin(Spear)",
-        "element": "Wind",
-        "race": "Demi-Human",
-        "level": "Lv 35",
-        "hp": "4,505 Hp",
-        "base_exp": "239 Base Exp",
-        "job_exp": "146 Job Exp",
-        "metadata": {
-            "description": "The second brother in the Goblin group, it will attack with its brothers. Its weapon is a spear. As an ancient family, Its nature is very naughty and evil. Because it is not big, it can't cause great damage when it is alone. Once they're united, the destructive power can not be underestimated.",
-            "common_data": {
-                "level": "35",
-                "type": "Monster",
-                "zone": "Field",
-                "race": "Demi-Human",
-                "element": "Wind",
-                "size": "Medium",
-                "passive_level": "40",
-                "base_exp": "239",
-                "job_exp": "146"
-            },
-            "attribute_data": {
-                "atk": "53",
-                "matk": "38",
-                "def": "0",
-                "mdef": "6",
-                "hp": "4,505",
-                "hit": "35",
-                "flee": "44",
-                "move_spd": "60",
-                "atk_spd": "0.5"
-            },
-            "card_data": {
-                "imgsrc": "www.roguard.net/content/img/cards/card_10029.jpg",
-                "name": "Goblin Card",
-                "effect": "Dmg to brute race ＋15%",
-                "perma_buff": [
-                    "<div style=\"text-align: center;\">Dmg to brute race ＋2%</div>",
-                    "Dmg to brute race ＋2%"
-                ]
-            },
-            "drop_data": [
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_48509.png",
-                    "name": "Goblin Mask Blueprint",
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_48510.png",
+                    "name": "Surprised Mask Blueprint",
                     "drop_rate": "?%"
                 },
                 {
                     "imgsrc": "www.roguard.net/content/img/icons/items/item_52151.png",
                     "name": "Feather",
-                    "drop_rate": "39.58%"
+                    "drop_rate": "40.86%"
                 },
                 {
                     "imgsrc": "www.roguard.net/content/img/icons/items/item_12004.png",
-                    "name": "Transformation Scroll (Goblin(Spear))",
-                    "drop_rate": "0.44%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
-                    "name": "Zeny",
-                    "drop_rate": "54.86%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
-                    "name": "Zeny",
-                    "drop_rate": "54.86%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_40001.png",
-                    "name": "Spear [2]",
+                    "name": "Transformation Scroll (Goblin(Axe))",
                     "drop_rate": "0.43%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
+                    "name": "Zeny",
+                    "drop_rate": "54.08%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
+                    "name": "Zeny",
+                    "drop_rate": "54.08%"
                 }
             ],
             "location_data": [
@@ -1477,7 +787,7 @@
         }
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/monsters/obeaune_monster.png",
+        "imgsrc": "www.roguard.net/content/img/icons/monsters/obeaune_monster.png",
         "name": "Obeaune",
         "element": "Water",
         "race": "Fish",
@@ -1576,6 +886,696 @@
                     "suggestion_level": "(Lv32~36)"
                 }
             ]
+        }
+    },
+    {
+        "imgsrc": "www.roguard.net/content/img/icons/monsters/goblin4_monster.png",
+        "name": "Goblin(Spear)",
+        "element": "Wind",
+        "race": "Demi-Human",
+        "level": "Lv 35",
+        "hp": "4,505 Hp",
+        "base_exp": "239 Base Exp",
+        "job_exp": "146 Job Exp",
+        "metadata": {
+            "description": "The second brother in the Goblin group, it will attack with its brothers. Its weapon is a spear. As an ancient family, Its nature is very naughty and evil. Because it is not big, it can't cause great damage when it is alone. Once they're united, the destructive power can not be underestimated.",
+            "common_data": {
+                "level": "35",
+                "type": "Monster",
+                "zone": "Field",
+                "race": "Demi-Human",
+                "element": "Wind",
+                "size": "Medium",
+                "passive_level": "40",
+                "base_exp": "239",
+                "job_exp": "146"
+            },
+            "attribute_data": {
+                "atk": "53",
+                "matk": "38",
+                "def": "0",
+                "mdef": "6",
+                "hp": "4,505",
+                "hit": "35",
+                "flee": "44",
+                "move_spd": "60",
+                "atk_spd": "0.5"
+            },
+            "card_data": {
+                "imgsrc": "www.roguard.net/content/img/cards/card_10029.jpg",
+                "name": "Goblin Card",
+                "effect": "Dmg to brute race ＋15%",
+                "perma_buff": [
+                    "<div style=\"text-align: center;\">Dmg to brute race ＋2%</div>",
+                    "Dmg to brute race ＋2%"
+                ]
+            },
+            "drop_data": [
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_48509.png",
+                    "name": "Goblin Mask Blueprint",
+                    "drop_rate": "?%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_52151.png",
+                    "name": "Feather",
+                    "drop_rate": "39.58%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_12004.png",
+                    "name": "Transformation Scroll (Goblin(Spear))",
+                    "drop_rate": "0.44%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
+                    "name": "Zeny",
+                    "drop_rate": "54.86%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
+                    "name": "Zeny",
+                    "drop_rate": "54.86%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_40001.png",
+                    "name": "Spear [2]",
+                    "drop_rate": "0.43%"
+                }
+            ],
+            "location_data": [
+                {
+                    "location": "Goblin Forest",
+                    "suggestion_level": "(Lv35~39)"
+                }
+            ]
+        }
+    },
+    {
+        "imgsrc": "www.roguard.net/content/img/icons/monsters/ghostring_mini.png",
+        "name": "Ghosting",
+        "element": "Ghost",
+        "race": "Demon",
+        "level": "Lv 35",
+        "hp": "306,338 Hp",
+        "base_exp": "1,480 Base Exp",
+        "job_exp": "1,582 Job Exp",
+        "metadata": {
+            "description": "A special type converted from some of Poring souls, which Ghost element annoys many players. It appears and disappears mysteriously and elusive, seems that it's looking for something to end its regret.",
+            "common_data": {
+                "level": "35",
+                "type": "Mini Boss",
+                "zone": "Field",
+                "race": "Demon",
+                "element": "Ghost",
+                "size": "Medium",
+                "passive_level": "999",
+                "base_exp": "1,480",
+                "job_exp": "1,582"
+            },
+            "attribute_data": {
+                "atk": "276",
+                "matk": "138",
+                "def": "0",
+                "mdef": "200",
+                "hp": "306,338",
+                "hit": "180",
+                "flee": "45",
+                "move_spd": "135",
+                "atk_spd": "0.9"
+            },
+            "card_data": {
+                "imgsrc": "www.roguard.net/content/img/cards/card_20004.jpg",
+                "name": "Ghosting Card",
+                "effect": "Turn the armor's element into Ghost, HP Regen -50%",
+                "perma_buff": [
+                    "<div style=\"text-align: center;\">Def ＋4</div>",
+                    "Def ＋4"
+                ]
+            },
+            "drop_data": [
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_45015.png",
+                    "name": "Ghost Bandana Blueprint",
+                    "drop_rate": "1.2%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/19.png",
+                    "name": "Ghosting Card",
+                    "drop_rate": "?%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_52202.png",
+                    "name": "Memento",
+                    "drop_rate": "15.8%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_52304.png",
+                    "name": "Fabric",
+                    "drop_rate": "4.59%"
+                },
+                {
+                    "imgsrc": null,
+                    "name": "Transformation Scroll (Ghosting)",
+                    "drop_rate": "1.37%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_5500.png",
+                    "name": "Emperium",
+                    "drop_rate": "3.67%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_5003.png",
+                    "name": "Elunium",
+                    "drop_rate": "1.6%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_12020.png",
+                    "name": "Dead Branch",
+                    "drop_rate": "22.95%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_12121.png",
+                    "name": "Candy",
+                    "drop_rate": "8.5%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
+                    "name": "Zeny",
+                    "drop_rate": "0.21%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_61502.png",
+                    "name": "Silversmith Bracelet [1]",
+                    "drop_rate": "40.06%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_43525.png",
+                    "name": "Tidal Shoes",
+                    "drop_rate": "100%"
+                }
+            ],
+            "location_data": []
+        }
+    },
+    {
+        "imgsrc": "www.roguard.net/content/img/icons/monsters/goblin_monster.png",
+        "name": "Goblin(Knife)",
+        "element": "Wind",
+        "race": "Demi-Human",
+        "level": "Lv 35",
+        "hp": "4,505 Hp",
+        "base_exp": "240 Base Exp",
+        "job_exp": "145 Job Exp",
+        "metadata": {
+            "description": "The eldest in the Goblin group, it will attack with its brothers. Its weapon is a Knife. As an ancient family, Its nature is very naughty and evil. Because it is not big, it can't cause great damage when it is alone. Once they're united, the destructive power can not be underestimated.",
+            "common_data": {
+                "level": "35",
+                "type": "Monster",
+                "zone": "Field",
+                "race": "Demi-Human",
+                "element": "Wind",
+                "size": "Medium",
+                "passive_level": "40",
+                "base_exp": "240",
+                "job_exp": "145"
+            },
+            "attribute_data": {
+                "atk": "53",
+                "matk": "38",
+                "def": "0",
+                "mdef": "6",
+                "hp": "4,505",
+                "hit": "35",
+                "flee": "78",
+                "move_spd": "60",
+                "atk_spd": "0.6"
+            },
+            "card_data": {
+                "imgsrc": "www.roguard.net/content/img/cards/card_10029.jpg",
+                "name": "Goblin Card",
+                "effect": "Dmg to brute race ＋15%",
+                "perma_buff": [
+                    "<div style=\"text-align: center;\">Dmg to brute race ＋2%</div>",
+                    "Dmg to brute race ＋2%"
+                ]
+            },
+            "drop_data": [
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_48554.png",
+                    "name": "Strange Goblin Mask Blueprint",
+                    "drop_rate": "?%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_52152.png",
+                    "name": "Sticky Mucus",
+                    "drop_rate": "34.38%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_12004.png",
+                    "name": "Transformation Scroll (Goblin(Knife))",
+                    "drop_rate": "0.47%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
+                    "name": "Zeny",
+                    "drop_rate": "59.57%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
+                    "name": "Zeny",
+                    "drop_rate": "59.57%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_40905.png",
+                    "name": "Jur [2]",
+                    "drop_rate": "0.47%"
+                }
+            ],
+            "location_data": [
+                {
+                    "location": "Goblin Forest",
+                    "suggestion_level": "(Lv35~39)"
+                }
+            ]
+        }
+    },
+    {
+        "imgsrc": "www.roguard.net/content/img/icons/monsters/goblin5_monster.png",
+        "name": "Goblin(Hammer)",
+        "element": "Water",
+        "race": "Demi-Human",
+        "level": "Lv 35",
+        "hp": "4,505 Hp",
+        "base_exp": "235 Base Exp",
+        "job_exp": "149 Job Exp",
+        "metadata": {
+            "description": "The youngest in the Goblin group, it will attack with its brothers. Its weapon is a spiked club. As an ancient family, Its nature is very naughty and evil. Because it is not big, it can't cause great damage when it is alone. Once they're united, the destructive power can not be underestimated.",
+            "common_data": {
+                "level": "35",
+                "type": "Monster",
+                "zone": "Field",
+                "race": "Demi-Human",
+                "element": "Water",
+                "size": "Medium",
+                "passive_level": "40",
+                "base_exp": "235",
+                "job_exp": "149"
+            },
+            "attribute_data": {
+                "atk": "53",
+                "matk": "38",
+                "def": "0",
+                "mdef": "6",
+                "hp": "4,505",
+                "hit": "35",
+                "flee": "44",
+                "move_spd": "60",
+                "atk_spd": "0.65"
+            },
+            "card_data": {
+                "imgsrc": "www.roguard.net/content/img/cards/card_10029.jpg",
+                "name": "Goblin Card",
+                "effect": "Dmg to brute race ＋15%",
+                "perma_buff": [
+                    "<div style=\"text-align: center;\">Dmg to brute race ＋2%</div>",
+                    "Dmg to brute race ＋2%"
+                ]
+            },
+            "drop_data": [
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_48512.png",
+                    "name": "Annoyed Mask Blueprint",
+                    "drop_rate": "?%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_52152.png",
+                    "name": "Sticky Mucus",
+                    "drop_rate": "34.38%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_12004.png",
+                    "name": "Transformation Scroll (Goblin(Hammer))",
+                    "drop_rate": "0.47%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
+                    "name": "Zeny",
+                    "drop_rate": "59.57%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
+                    "name": "Zeny",
+                    "drop_rate": "59.57%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_41533.png",
+                    "name": "Chain [2]",
+                    "drop_rate": "0.47%"
+                }
+            ],
+            "location_data": [
+                {
+                    "location": "Goblin Forest",
+                    "suggestion_level": "(Lv35~39)"
+                }
+            ]
+        }
+    },
+    {
+        "imgsrc": "www.roguard.net/content/img/icons/monsters/marinesphere_monster.png",
+        "name": "Marine Sphere",
+        "element": "Water",
+        "race": "Plant",
+        "level": "Lv 32",
+        "hp": "3,000 Hp",
+        "base_exp": "1 Base Exp",
+        "job_exp": "1 Job Exp",
+        "metadata": {
+            "description": "A very old single-cell mutated monster which evolves slowly. Although it has a certain independent consciousness, when it is attacked or threatened, it will still directly smack into the enemy and explode. It hate others saying that it acts without thinking...",
+            "common_data": {
+                "level": "32",
+                "type": "Monster",
+                "zone": "Field",
+                "race": "Plant",
+                "element": "Water",
+                "size": "Small",
+                "passive_level": "0",
+                "base_exp": "1",
+                "job_exp": "1"
+            },
+            "attribute_data": {
+                "atk": "1",
+                "matk": "1",
+                "def": "1",
+                "mdef": "1",
+                "hp": "3,000",
+                "hit": "112",
+                "flee": "0",
+                "move_spd": "50",
+                "atk_spd": "1"
+            },
+            "card_data": {
+                "imgsrc": "www.roguard.net/content/img/cards/card_40014.jpg",
+                "name": "Marine Sphere Card",
+                "effect": "Can use skill [Magnum Break] Lv.3",
+                "perma_buff": [
+                    "<div style=\"text-align: center;\">Max HP ＋24</div>",
+                    "Max HP ＋24"
+                ]
+            },
+            "drop_data": [
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/19.png",
+                    "name": "Marine Sphere Card",
+                    "drop_rate": "?%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_52202.png",
+                    "name": "Memento",
+                    "drop_rate": "30.56%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
+                    "name": "Zeny",
+                    "drop_rate": "67.4%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_12521.png",
+                    "name": "Blue Gemstone",
+                    "drop_rate": "2.01%"
+                }
+            ],
+            "location_data": [
+                {
+                    "location": "Underwater Temple",
+                    "suggestion_level": "(Lv32~36)"
+                }
+            ]
+        }
+    },
+    {
+        "imgsrc": "www.roguard.net/content/img/icons/monsters/goblin4_monster.png",
+        "name": "Goblin(Spear) ★",
+        "element": "Wind",
+        "race": "Demi-Human",
+        "level": "Lv 35",
+        "hp": "43,917 Hp",
+        "base_exp": "1,195 Base Exp",
+        "job_exp": "730 Job Exp",
+        "metadata": {
+            "description": "The second brother in the Goblin group, it will attack with its brothers. Its weapon is a flail. As an ancient family, Its nature is very naughty and evil. Because it is not big, it can't cause great damage when it is alone. Once they're united, the destructive power can not be underestimated.",
+            "common_data": {
+                "level": "35",
+                "type": "Monster",
+                "zone": "Field",
+                "race": "Demi-Human",
+                "element": "Wind",
+                "size": "Medium",
+                "passive_level": "40",
+                "base_exp": "1,195",
+                "job_exp": "730"
+            },
+            "attribute_data": {
+                "atk": "177",
+                "matk": "85",
+                "def": "200",
+                "mdef": "6",
+                "hp": "43,917",
+                "hit": "144",
+                "flee": "44",
+                "move_spd": "60",
+                "atk_spd": "0.76"
+            },
+            "card_data": {
+                "imgsrc": "www.roguard.net/content/img/icons/items/item_48509.png",
+                "name": "Goblin Card",
+                "effect": null,
+                "perma_buff": null
+            },
+            "drop_data": [],
+            "location_data": []
+        }
+    },
+    {
+        "imgsrc": "www.roguard.net/content/img/icons/monsters/skeleton_monster.png",
+        "name": "Skeleton",
+        "element": "Undead",
+        "race": "Undead",
+        "level": "Lv 30",
+        "hp": "2,520 Hp",
+        "base_exp": "179 Base Exp",
+        "job_exp": "140 Job Exp",
+        "metadata": {
+            "description": "Before his death, he was a brave and fearless warrior. After his resurrection, he was once lost the desire to survive again. After chatting with the Porings, he found new goals and started to work hard to warm up and prepare to participate in the monster sprint relay!",
+            "common_data": {
+                "level": "30",
+                "type": "Monster",
+                "zone": "Field",
+                "race": "Undead",
+                "element": "Undead",
+                "size": "Medium",
+                "passive_level": "40",
+                "base_exp": "179",
+                "job_exp": "140"
+            },
+            "attribute_data": {
+                "atk": "40",
+                "matk": "23",
+                "def": "0",
+                "mdef": "0",
+                "hp": "2,520",
+                "hit": "30",
+                "flee": "15",
+                "move_spd": "60",
+                "atk_spd": "0.6"
+            },
+            "card_data": {
+                "imgsrc": "www.roguard.net/content/img/cards/card_10022.jpg",
+                "name": "Skeleton Card",
+                "effect": "auto attack has a 3% chance to stun the target for 5 seconds",
+                "perma_buff": [
+                    "<div style=\"text-align: center;\">Def ＋4</div>",
+                    "Def ＋4"
+                ]
+            },
+            "drop_data": [
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_48504.png",
+                    "name": "Bandana Blueprint",
+                    "drop_rate": "?%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/19.png",
+                    "name": "Skeleton Card",
+                    "drop_rate": "?%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_12004.png",
+                    "name": "Transformation Scroll (Skeleton)",
+                    "drop_rate": "0.02%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
+                    "name": "Zeny",
+                    "drop_rate": "86.96%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
+                    "name": "Zeny",
+                    "drop_rate": "86.96%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_12026.png",
+                    "name": "Awakening Potion",
+                    "drop_rate": "0.77%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_52402.png",
+                    "name": "Steel",
+                    "drop_rate": "3.99%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_40330.png",
+                    "name": "Blade [2]",
+                    "drop_rate": "0.69%"
+                }
+            ],
+            "location_data": [
+                {
+                    "location": "Ghost Ship",
+                    "suggestion_level": "(Lv26~30)"
+                }
+            ]
+        }
+    },
+    {
+        "imgsrc": "www.roguard.net/content/img/icons/monsters/goblin3_monster.png",
+        "name": "Goblin(Buckler)",
+        "element": "Earth",
+        "race": "Demi-Human",
+        "level": "Lv 35",
+        "hp": "4,505 Hp",
+        "base_exp": "237 Base Exp",
+        "job_exp": "147 Job Exp",
+        "metadata": {
+            "description": "The fourth brother in the Goblin group, it will attack with its brothers. Its weapon is a hammer. As an ancient family, Its nature is very naughty and evil. Because it is not big, it can't cause great damage when it is alone. Once they're united, the destructive power can not be underestimated.",
+            "common_data": {
+                "level": "35",
+                "type": "Monster",
+                "zone": "Field",
+                "race": "Demi-Human",
+                "element": "Earth",
+                "size": "Medium",
+                "passive_level": "40",
+                "base_exp": "237",
+                "job_exp": "147"
+            },
+            "attribute_data": {
+                "atk": "53",
+                "matk": "38",
+                "def": "0",
+                "mdef": "6",
+                "hp": "4,505",
+                "hit": "35",
+                "flee": "46",
+                "move_spd": "60",
+                "atk_spd": "0.62"
+            },
+            "card_data": {
+                "imgsrc": "www.roguard.net/content/img/cards/card_10029.jpg",
+                "name": "Goblin Card",
+                "effect": "Dmg to brute race ＋15%",
+                "perma_buff": [
+                    "<div style=\"text-align: center;\">Dmg to brute race ＋2%</div>",
+                    "Dmg to brute race ＋2%"
+                ]
+            },
+            "drop_data": [
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_48511.png",
+                    "name": "Poker Face Blueprint",
+                    "drop_rate": "?%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_52152.png",
+                    "name": "Sticky Mucus",
+                    "drop_rate": "29.85%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_12004.png",
+                    "name": "Transformation Scroll (Goblin(Buckler))",
+                    "drop_rate": "0.5%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
+                    "name": "Zeny",
+                    "drop_rate": "63.23%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
+                    "name": "Zeny",
+                    "drop_rate": "63.23%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_5111.png",
+                    "name": "Great Nature",
+                    "drop_rate": "0.5%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_42526.png",
+                    "name": "Scutum [1]",
+                    "drop_rate": "0.49%"
+                }
+            ],
+            "location_data": [
+                {
+                    "location": "Goblin Forest",
+                    "suggestion_level": "(Lv35~39)"
+                }
+            ]
+        }
+    },
+    {
+        "imgsrc": "www.roguard.net/content/img/icons/monsters/obeaune_monster.png",
+        "name": "Obeaune ★",
+        "element": "Water",
+        "race": "Fish",
+        "level": "Lv 33",
+        "hp": "35,727 Hp",
+        "base_exp": "1,105 Base Exp",
+        "job_exp": "700 Job Exp",
+        "metadata": {
+            "description": "A semi-fish and semi-human monster that appears in the depths of the Underwater Caves. They're very gentle and united and friendly to each other. Due to the overexploitation of the ocean by humans and the impact of the seabed seal, the ecological environment has been deteriorating and some of them have been washed into the sewers.",
+            "common_data": {
+                "level": "33",
+                "type": "Monster",
+                "zone": "Field",
+                "race": "Fish",
+                "element": "Water",
+                "size": "Medium",
+                "passive_level": "40",
+                "base_exp": "1,105",
+                "job_exp": "700"
+            },
+            "attribute_data": {
+                "atk": "148",
+                "matk": "67",
+                "def": "0",
+                "mdef": "50",
+                "hp": "35,727",
+                "hit": "195",
+                "flee": "62",
+                "move_spd": "60",
+                "atk_spd": "0.53"
+            },
+            "card_data": {
+                "imgsrc": "www.roguard.net/content/img/icons/items/item_48506.png",
+                "name": "Obeaune Card",
+                "effect": null,
+                "perma_buff": null
+            },
+            "drop_data": [],
+            "location_data": []
         }
     }
 ]
