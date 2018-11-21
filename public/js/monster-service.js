@@ -112,8 +112,8 @@ function serializeMonsterFullData(url, callback) {
         const cardImg = (cardMatch && cardMatch[0].match(/src="\/\/(.*)"/) && cardMatch[0].match(/src="\/\/(.*)"/)[1]) ? cardMatch[0].match(/src="\/\/(.*)"/)[1] : null
         const cardName = (cardMatch && cardMatch[1] && cardMatch[1].match(/<a .*>(.*)<\/a>/) && cardMatch[1].match(/<a .*>(.*)<\/a>/)[1]) ? cardMatch[1].match(/<a .*>(.*)<\/a>/)[1] : null
 
-        let cardEffect = 'unknown'
-        let cardBuff = 'unknown'
+        let cardEffect = null
+        let cardBuff = null
 
         if (cardMatch && cardMatch[3] && cardMatch[3].match(/<div .*>(.*)<br>\n(.*)<\/div>/)) {
             cardEffect = cardMatch[3].match(/<div .*>((.*)<br>\n(.*))<\/div>/)[1].replace('<br>\n', ', ')
@@ -124,7 +124,7 @@ function serializeMonsterFullData(url, callback) {
         if (cardMatch && cardMatch[5] && cardMatch[5].match(/<div .*>(.*)<br>\n(.*)<\/div>/)) {
             cardBuff = cardMatch[5].match(/<div .*>((.*)<br>\n(.*))<\/div>/)[1].replace('<br>\n', ', ')
         } else {
-            cardBuff = (cardMatch && cardMatch[5] && cardMatch[5].match(/<div .*>(.*)<\/div>/)) ? cardMatch[5].match(/<div .*>(.*)<\/div>/) : null
+            cardBuff = (cardMatch && cardMatch[5] && cardMatch[5].match(/<div .*>(.*)<\/div>/)) ? cardMatch[5].match(/<div .*>(.*)<\/div>/)[1] : null
         }
 
         // drop data dom element        
