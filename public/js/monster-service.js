@@ -105,44 +105,47 @@ function serializeMonsterFullData(url, callback) {
         const monsterATKSpd = attributesMatch[8].match(/<td class="text-right">(.*)<\/td>/)[1]
 
         // card data dom element
-        const cardTbody = attributesDom.window.document.querySelector('div').innerHTML
-        const cardMatch = cardTbody.match(/<div[\s\S]*?<\/div>/g)
+        const cardTbody = (attributesDom.window.document.querySelector('div')) ? attributesDom.window.document.querySelector('div').innerHTML : null
+        const cardMatch = (cardTbody) ? cardTbody.match(/<div[\s\S]*?<\/div>/g) : null
 
         // card data
-        const cardImg = cardMatch[0].match(/src="\/\/(.*)"/)[1]
-        const cardName = cardMatch[1].match(/<a .*>(.*)<\/a>/)[1]
+        const cardImg = (cardMatch && cardMatch[0].match(/src="\/\/(.*)"/) && cardMatch[0].match(/src="\/\/(.*)"/)[1]) ? cardMatch[0].match(/src="\/\/(.*)"/)[1] : null
+        const cardName = (cardMatch && cardMatch[1] && cardMatch[1].match(/<a .*>(.*)<\/a>/) && cardMatch[1].match(/<a .*>(.*)<\/a>/)[1]) ? cardMatch[1].match(/<a .*>(.*)<\/a>/)[1] : null
 
         let cardEffect = 'unknown'
         let cardBuff = 'unknown'
 
-        if (cardMatch[3].match(/<div .*>(.*)<br>\n(.*)<\/div>/)) {
+        if (cardMatch && cardMatch[3] && cardMatch[3].match(/<div .*>(.*)<br>\n(.*)<\/div>/)) {
             cardEffect = cardMatch[3].match(/<div .*>((.*)<br>\n(.*))<\/div>/)[1].replace('<br>\n', ', ')
         } else {
-            cardEffect = cardMatch[3].match(/<div .*>(.*)<\/div>/)[1]
+            cardEffect = (cardMatch && cardMatch[3] && cardMatch[3].match(/<div .*>(.*)<\/div>/) && cardMatch[3].match(/<div .*>(.*)<\/div>/)[1]) ? cardMatch[3].match(/<div .*>(.*)<\/div>/)[1] : null
         }
 
-        if (cardMatch[5].match(/<div .*>(.*)<br>\n(.*)<\/div>/)) {
+        if (cardMatch && cardMatch[5] && cardMatch[5].match(/<div .*>(.*)<br>\n(.*)<\/div>/)) {
             cardBuff = cardMatch[5].match(/<div .*>((.*)<br>\n(.*))<\/div>/)[1].replace('<br>\n', ', ')
         } else {
-            cardBuff = cardMatch[5].match(/<div .*>(.*)<\/div>/)[1]
+            cardBuff = (cardMatch && cardMatch[5] && cardMatch[5].match(/<div .*>(.*)<\/div>/)) ? cardMatch[5].match(/<div .*>(.*)<\/div>/) : null
         }
 
         // drop data dom element        
         const dropDom = splitDiv[2].split('<div style="width: 230px; display: inline-block; margin-top: 10px; vertical-align:top;">')
-        const dropElement = dropDom[2].split('<div style="text-align: center; margin-bottom: 4px;">').slice(1)
+        const dropElement = (dropDom[2]) ? dropDom[2].split('<div style="text-align: center; margin-bottom: 4px;">').slice(1) : []
 
         // drop data
         const dropList = []
-        dropElement.forEach(element => {
-            dropList.push(
-                {
-                    'imgsrc': element.match(/src="\/\/(.*)"/)[1],
-                    'name': element.match(/<a .*>(.*)<\/a>/)[1],
-                    'drop_rate': element.match(/((.*)%)/)[1].replace(/ /g, "").replace('(', "") })
-        });
+        if (dropElement.length) {
+            dropElement.forEach(element => {
+                dropList.push(
+                    {
+                        'imgsrc': (element.match(/src="\/\/(.*)"/)) ? element.match(/src="\/\/(.*)"/)[1] : null,
+                        'name': element.match(/<a .*>(.*)<\/a>/)[1],
+                        'drop_rate': element.match(/((.*)%)/)[1].replace(/ /g, "").replace('(', "")
+                    })
+            })
+        }
 
         // location data dom element
-        const locationElement = dropDom[3].split('<div style="text-align: center; margin-top: 5px;">').slice(1)
+        const locationElement = (dropDom[3]) ? dropDom[3].split('<div style="text-align: center; margin-top: 5px;">').slice(1) : []
 
         // location data
         const locationList = []
