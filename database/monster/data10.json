@@ -1,282 +1,6 @@
 [
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/monsters/cookie_gift_lv_monster.png",
-        "name": "Cookie",
-        "element": "Neutral",
-        "race": "Demi-Human",
-        "level": "Lv 108",
-        "hp": "89,893 Hp",
-        "base_exp": "1,966 Base Exp",
-        "job_exp": "1,142 Job Exp",
-        "metadata": {
-            "description": "The elf from the alien world. The elf is arranged to produce socks in which presents will be put for innocent children. It represents green, the major color of an important festival. The brand of favorite gum: Migumigu.",
-            "common_data": {
-                "level": "108",
-                "type": "Monster",
-                "zone": "Field",
-                "race": "Demi-Human",
-                "element": "Neutral",
-                "size": "Small",
-                "passive_level": "40",
-                "base_exp": "1,966",
-                "job_exp": "1,142"
-            },
-            "attribute_data": {
-                "atk": "144",
-                "matk": "589",
-                "def": "80",
-                "mdef": "258",
-                "hp": "89,893",
-                "hit": "197",
-                "flee": "193",
-                "move_spd": "60",
-                "atk_spd": "0.52"
-            },
-            "card_data": {
-                "imgsrc": null,
-                "name": "Gingerbread Man Card",
-                "effect": "Luk ＋3",
-                "perma_buff": [
-                    "<div style=\"text-align: center;\">M.Def ＋2</div>",
-                    "M.Def ＋2"
-                ]
-            },
-            "drop_data": [
-                {
-                    "imgsrc": null,
-                    "name": "Gingerbread Man clip Blueprint",
-                    "drop_rate": "?%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/19.png",
-                    "name": "Gingerbread Man Card",
-                    "drop_rate": "?%"
-                },
-                {
-                    "imgsrc": null,
-                    "name": "Ice Cube",
-                    "drop_rate": "12.1%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_12004.png",
-                    "name": "Transformation Scroll (Gingerbread Man)",
-                    "drop_rate": "0.02%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
-                    "name": "Zeny",
-                    "drop_rate": "53.27%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
-                    "name": "Zeny",
-                    "drop_rate": "53.27%"
-                },
-                {
-                    "imgsrc": null,
-                    "name": "Edelweiss",
-                    "drop_rate": "29.59%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_42035.png",
-                    "name": "Baptized Robe [1]",
-                    "drop_rate": "0.42%"
-                }
-            ],
-            "location_data": [
-                {
-                    "location": "Toy Factory 1F",
-                    "suggestion_level": "(Lv-)"
-                }
-            ]
-        }
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/monsters/orc_lady_monster.png",
-        "name": "Orc Lady",
-        "element": "Earth",
-        "race": "Demi-Human",
-        "level": "Lv 109",
-        "hp": "50,056 Hp",
-        "base_exp": "1,462 Base Exp",
-        "job_exp": "924 Job Exp",
-        "metadata": {
-            "description": "Educate their children, Discipline their husbands and do housework, Even though they're orc females, They feel tired like human females. However, While human females choose to bear the pressure of life, the orc females often join in the battle to vent.",
-            "common_data": {
-                "level": "109",
-                "type": "Monster",
-                "zone": "Field",
-                "race": "Demi-Human",
-                "element": "Earth",
-                "size": "Medium",
-                "passive_level": "40",
-                "base_exp": "1,462",
-                "job_exp": "924"
-            },
-            "attribute_data": {
-                "atk": "347",
-                "matk": "181",
-                "def": "339",
-                "mdef": "159",
-                "hp": "50,056",
-                "hit": "182",
-                "flee": "167",
-                "move_spd": "45",
-                "atk_spd": "0.5"
-            },
-            "card_data": {
-                "imgsrc": null,
-                "name": "Orc Lady Card",
-                "effect": "Damage to insect race ＋5%",
-                "perma_buff": [
-                    "<div style=\"text-align: center;\">Atk ＋4.5</div>",
-                    "Atk ＋4.5"
-                ]
-            },
-            "drop_data": [
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/19.png",
-                    "name": "Orc Lady Card",
-                    "drop_rate": "?%"
-                },
-                {
-                    "imgsrc": null,
-                    "name": "Witch Star Dust",
-                    "drop_rate": "10.69%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_12004.png",
-                    "name": "Transformation Scroll (Orc Lady)",
-                    "drop_rate": "0.02%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
-                    "name": "Zeny",
-                    "drop_rate": "55.13%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
-                    "name": "Zeny",
-                    "drop_rate": "55.13%"
-                },
-                {
-                    "imgsrc": null,
-                    "name": "Tattered Time Pointer",
-                    "drop_rate": "29.03%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_41505.png",
-                    "name": "Morning Star [2]",
-                    "drop_rate": "0.41%"
-                }
-            ],
-            "location_data": [
-                {
-                    "location": "Clock Tower B1",
-                    "suggestion_level": "(Lv-)"
-                }
-            ]
-        }
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/monsters/valkyrie_mvp.png",
-        "name": "Randgris",
-        "element": "Holy",
-        "race": "Angel",
-        "level": "Lv 100",
-        "hp": "10,803,000 Hp",
-        "base_exp": "1 Base Exp",
-        "job_exp": "1 Job Exp",
-        "metadata": {
-            "description": "Its holiness, Goodness and integrity are deeply rooted in people's heart. Its existence is to protect the world from being invaded by devils. As an Angel, it has extremely high stats and attack, and is a loyal protector of human beings.",
-            "common_data": {
-                "level": "100",
-                "type": "MVP",
-                "zone": "Field",
-                "race": "Angel",
-                "element": "Holy",
-                "size": "Large",
-                "passive_level": "999",
-                "base_exp": "1",
-                "job_exp": "1"
-            },
-            "attribute_data": {
-                "atk": "1,900",
-                "matk": "1,162",
-                "def": "500",
-                "mdef": "200",
-                "hp": "10,803,000",
-                "hit": "792",
-                "flee": "41",
-                "move_spd": "85",
-                "atk_spd": "1"
-            },
-            "card_data": {
-                "imgsrc": "www.roguard.net/content/img/cards/card_60002.jpg",
-                "name": "Randgris Card",
-                "effect": "Refine Atk ＋50",
-                "perma_buff": [
-                    "<div style=\"text-align: center;\">Refine Atk ＋5</div>",
-                    "Refine Atk ＋5"
-                ]
-            },
-            "drop_data": [
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_45090.png",
-                    "name": "Valkyrie Helm [1] Blueprint",
-                    "drop_rate": "?%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/19.png",
-                    "name": "Randgris Card",
-                    "drop_rate": "?%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_52106.png",
-                    "name": "Cyfar",
-                    "drop_rate": "?%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_52317.png",
-                    "name": "Biotite",
-                    "drop_rate": "?%"
-                },
-                {
-                    "imgsrc": null,
-                    "name": "Transformation Scroll (Randgris)",
-                    "drop_rate": "?%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_12119.png",
-                    "name": "Yggdrasil Berry",
-                    "drop_rate": "?%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_5023.png",
-                    "name": "Leaf of Yggdrasil",
-                    "drop_rate": "?%"
-                },
-                {
-                    "imgsrc": null,
-                    "name": "Creste's Royal Medal",
-                    "drop_rate": "?%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
-                    "name": "Zeny",
-                    "drop_rate": "?%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_42533.png",
-                    "name": "Mithril Orb [1]",
-                    "drop_rate": "?%"
-                }
-            ],
-            "location_data": []
-        }
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/monsters/bigben_mini.png",
+        "imgsrc": "www.roguard.net/content/img/icons/monsters/bigben_mini.png",
         "name": "Clock",
         "element": "Earth",
         "race": "Formless",
@@ -378,82 +102,87 @@
         }
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/monsters/alarm_monster.png",
-        "name": "Alarm",
+        "imgsrc": "www.roguard.net/content/img/icons/monsters/elder_monster.png",
+        "name": "Elder",
         "element": "Neutral",
-        "race": "Formless",
-        "level": "Lv 101",
-        "hp": "122,288 Hp",
-        "base_exp": "1,420 Base Exp",
-        "job_exp": "818 Job Exp",
+        "race": "Demi-Human",
+        "level": "Lv 104",
+        "hp": "119,148 Hp",
+        "base_exp": "1,428 Base Exp",
+        "job_exp": "862 Job Exp",
         "metadata": {
-            "description": "The legend has it that it's a by-product of the Clock Tower Labyrinth creators researching the space-time magic device. Because they used a lot of lost magic, it has a high magic resistance.",
+            "description": "A Fantasy Elder tribe that has existed before the Ragnarok times. They were cursed by the gods and demons for acquiring a forbidden magic. From then on, they live between life and death.",
             "common_data": {
-                "level": "101",
+                "level": "104",
                 "type": "Monster",
                 "zone": "Field",
-                "race": "Formless",
+                "race": "Demi-Human",
                 "element": "Neutral",
-                "size": "Medium",
+                "size": "Large",
                 "passive_level": "40",
-                "base_exp": "1,420",
-                "job_exp": "818"
+                "base_exp": "1,428",
+                "job_exp": "862"
             },
             "attribute_data": {
-                "atk": "736",
-                "matk": "171",
-                "def": "210",
-                "mdef": "158",
-                "hp": "122,288",
-                "hit": "145",
-                "flee": "177",
-                "move_spd": "45",
+                "atk": "189",
+                "matk": "514",
+                "def": "377",
+                "mdef": "333",
+                "hp": "119,148",
+                "hit": "137",
+                "flee": "184",
+                "move_spd": "30",
                 "atk_spd": "0.5"
             },
             "card_data": {
                 "imgsrc": null,
-                "name": "Alarm Card",
-                "effect": null,
+                "name": "Elder Card",
+                "effect": "Damage to PVP players ＋3%",
                 "perma_buff": [
-                    "<div style=\"text-align: center;\">Max HP ＋12</div>",
-                    "Max HP ＋12"
+                    "<div style=\"text-align: center;\">Damage to players in PVP mode ＋1%</div>",
+                    "Damage to players in PVP mode ＋1%"
                 ]
             },
             "drop_data": [
                 {
-                    "imgsrc": null,
-                    "name": "Temporal Crystal",
-                    "drop_rate": "5.86%"
+                    "imgsrc": "www.roguard.net/content/img/icons/items/19.png",
+                    "name": "Elder Card",
+                    "drop_rate": "?%"
                 },
                 {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_5001.png",
-                    "name": "Rough Oridecon",
-                    "drop_rate": "0.55%"
+                    "imgsrc": null,
+                    "name": "Witch Star Dust",
+                    "drop_rate": "7.69%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_12106.png",
+                    "name": "Cobaltblue Dyestuffs",
+                    "drop_rate": "0.48%"
                 },
                 {
                     "imgsrc": "www.roguard.net/content/img/icons/items/item_12004.png",
-                    "name": "Transformation Scroll (Alarm)",
-                    "drop_rate": "0.01%"
+                    "name": "Transformation Scroll (Elder)",
+                    "drop_rate": "0.02%"
                 },
                 {
                     "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
                     "name": "Zeny",
-                    "drop_rate": "63.96%"
+                    "drop_rate": "57.36%"
                 },
                 {
                     "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
                     "name": "Zeny",
-                    "drop_rate": "63.96%"
+                    "drop_rate": "57.36%"
                 },
                 {
                     "imgsrc": null,
                     "name": "Tattered Time Pointer",
-                    "drop_rate": "23.76%"
+                    "drop_rate": "29.08%"
                 },
                 {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_43534.png",
-                    "name": "Enchanted Shoes [1]",
-                    "drop_rate": "0.33%"
+                    "imgsrc": null,
+                    "name": "Battle Bow [2]",
+                    "drop_rate": "0.41%"
                 }
             ],
             "location_data": [
@@ -465,7 +194,234 @@
         }
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/monsters/tower_manager_mini.png",
+        "imgsrc": "www.roguard.net/content/img/icons/monsters/bathory_monster.png",
+        "name": "Bathory",
+        "element": "Shadow",
+        "race": "Demi-Human",
+        "level": "Lv 103",
+        "hp": "85,262 Hp",
+        "base_exp": "1,684 Base Exp",
+        "job_exp": "698 Job Exp",
+        "metadata": {
+            "description": "Black witches who have been driven away because their study of the prohibited spells. They were cursed and became monsters. They were riding the broomsticks in the Clock Tower Labyrinth and they were the nightmare of many citizens of Al De Baran in their childhood.",
+            "common_data": {
+                "level": "103",
+                "type": "Monster",
+                "zone": "Field",
+                "race": "Demi-Human",
+                "element": "Shadow",
+                "size": "Medium",
+                "passive_level": "40",
+                "base_exp": "1,684",
+                "job_exp": "698"
+            },
+            "attribute_data": {
+                "atk": "163",
+                "matk": "445",
+                "def": "120",
+                "mdef": "355",
+                "hp": "85,262",
+                "hit": "149",
+                "flee": "175",
+                "move_spd": "135",
+                "atk_spd": "0.5"
+            },
+            "card_data": {
+                "imgsrc": null,
+                "name": "Transformation Scroll (Bathory)",
+                "effect": null,
+                "perma_buff": null
+            },
+            "drop_data": [],
+            "location_data": []
+        }
+    },
+    {
+        "imgsrc": "www.roguard.net/content/img/icons/monsters/dark_lord_mvp.png",
+        "name": "Dark Lord",
+        "element": "Undead",
+        "race": "Demon",
+        "level": "Lv 100",
+        "hp": "19,567,662 Hp",
+        "base_exp": "25,600 Base Exp",
+        "job_exp": "20,000 Job Exp",
+        "metadata": {
+            "description": "One of the leaders of Glast Heim and the absolute master of dark magic and a symbol of fear and despair. After being locked by him, You will fall into the endless darkness!",
+            "common_data": {
+                "level": "100",
+                "type": "MVP",
+                "zone": "Field",
+                "race": "Demon",
+                "element": "Undead",
+                "size": "Large",
+                "passive_level": "999",
+                "base_exp": "25,600",
+                "job_exp": "20,000"
+            },
+            "attribute_data": {
+                "atk": "1,250",
+                "matk": "1,680",
+                "def": "800",
+                "mdef": "125",
+                "hp": "19,567,662",
+                "hit": "200",
+                "flee": "157",
+                "move_spd": "135",
+                "atk_spd": "1"
+            },
+            "card_data": {
+                "imgsrc": null,
+                "name": "Dark Lord Card",
+                "effect": "When suffering attack from physical skills, Caster has a chance to trigger Meteor Storm Lv.10",
+                "perma_buff": [
+                    "<div style=\"text-align: center;\">Fire Dmg ＋8%</div>",
+                    "Fire Dmg ＋8%"
+                ]
+            },
+            "drop_data": [
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_45203.png",
+                    "name": "Coif [1] Blueprint",
+                    "drop_rate": "0.38%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/19.png",
+                    "name": "Dark Lord Card",
+                    "drop_rate": "?%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_52206.png",
+                    "name": "Necklace of Oblivion",
+                    "drop_rate": "4.57%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_52317.png",
+                    "name": "Biotite",
+                    "drop_rate": "51.86%"
+                },
+                {
+                    "imgsrc": null,
+                    "name": "Transformation Scroll (Dark Lord)",
+                    "drop_rate": "3.34%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_5003.png",
+                    "name": "Elunium",
+                    "drop_rate": "35.17%"
+                },
+                {
+                    "imgsrc": null,
+                    "name": "Creste's Royal Medal",
+                    "drop_rate": "4.64%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
+                    "name": "Zeny",
+                    "drop_rate": "?%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_43534.png",
+                    "name": "Enchanted Shoes [1]",
+                    "drop_rate": "?%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_40609.png",
+                    "name": "Kronos [1]",
+                    "drop_rate": "100%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_44003.png",
+                    "name": "Staunch Ring",
+                    "drop_rate": "100%"
+                }
+            ],
+            "location_data": []
+        }
+    },
+    {
+        "imgsrc": "www.roguard.net/content/img/icons/monsters/blackwitch_monster.png",
+        "name": "Black Witch",
+        "element": "Undead",
+        "race": "Undead",
+        "level": "Lv 100",
+        "hp": "80,368 Hp",
+        "base_exp": "1,400 Base Exp",
+        "job_exp": "814 Job Exp",
+        "metadata": {
+            "description": "Through the black magic, it turns from a naughty black cat into a monster like a cute human little girl. It loves pranks. If you don't give it candy, You will be tricked! If you do, You will still be tricked!",
+            "common_data": {
+                "level": "100",
+                "type": "Monster",
+                "zone": "Field",
+                "race": "Undead",
+                "element": "Undead",
+                "size": "Medium",
+                "passive_level": "40",
+                "base_exp": "1,400",
+                "job_exp": "814"
+            },
+            "attribute_data": {
+                "atk": "185",
+                "matk": "349",
+                "def": "120",
+                "mdef": "284",
+                "hp": "80,368",
+                "hit": "141",
+                "flee": "172",
+                "move_spd": "100",
+                "atk_spd": "0.5"
+            },
+            "card_data": {
+                "imgsrc": null,
+                "name": "Black Witch Card",
+                "effect": "INT ＋1, M.Atk ＋10",
+                "perma_buff": [
+                    "<div style=\"text-align: center;\">M.Atk ＋1.5</div>",
+                    "M.Atk ＋1.5"
+                ]
+            },
+            "drop_data": [
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/19.png",
+                    "name": "Black Witch Card",
+                    "drop_rate": "?%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_12004.png",
+                    "name": "Transformation Scroll (Black Witch)",
+                    "drop_rate": "0.03%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
+                    "name": "Zeny",
+                    "drop_rate": "59.07%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
+                    "name": "Zeny",
+                    "drop_rate": "59.07%"
+                },
+                {
+                    "imgsrc": null,
+                    "name": "Tattered Time Pointer",
+                    "drop_rate": "33.08%"
+                },
+                {
+                    "imgsrc": null,
+                    "name": "Glitter Shell",
+                    "drop_rate": "2.71%"
+                }
+            ],
+            "location_data": [
+                {
+                    "location": "Clock Tower 1F",
+                    "suggestion_level": "(Lv-)"
+                }
+            ]
+        }
+    },
+    {
+        "imgsrc": "www.roguard.net/content/img/icons/monsters/tower_manager_mini.png",
         "name": "Clock Tower Manager",
         "element": "Neutral",
         "race": "Formless",
@@ -562,130 +518,82 @@
         }
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/monsters/bathory_monster.png",
-        "name": "Bathory",
-        "element": "Shadow",
-        "race": "Demi-Human",
-        "level": "Lv 103",
-        "hp": "85,262 Hp",
-        "base_exp": "1,684 Base Exp",
-        "job_exp": "698 Job Exp",
+        "imgsrc": "www.roguard.net/content/img/icons/monsters/alarm_monster.png",
+        "name": "Alarm",
+        "element": "Neutral",
+        "race": "Formless",
+        "level": "Lv 101",
+        "hp": "122,288 Hp",
+        "base_exp": "1,420 Base Exp",
+        "job_exp": "818 Job Exp",
         "metadata": {
-            "description": "Black witches who have been driven away because their study of the prohibited spells. They were cursed and became monsters. They were riding the broomsticks in the Clock Tower Labyrinth and they were the nightmare of many citizens of Al De Baran in their childhood.",
+            "description": "The legend has it that it's a by-product of the Clock Tower Labyrinth creators researching the space-time magic device. Because they used a lot of lost magic, it has a high magic resistance.",
             "common_data": {
-                "level": "103",
+                "level": "101",
                 "type": "Monster",
                 "zone": "Field",
-                "race": "Demi-Human",
-                "element": "Shadow",
+                "race": "Formless",
+                "element": "Neutral",
                 "size": "Medium",
                 "passive_level": "40",
-                "base_exp": "1,684",
-                "job_exp": "698"
+                "base_exp": "1,420",
+                "job_exp": "818"
             },
             "attribute_data": {
-                "atk": "163",
-                "matk": "445",
-                "def": "120",
-                "mdef": "355",
-                "hp": "85,262",
-                "hit": "149",
-                "flee": "175",
-                "move_spd": "135",
+                "atk": "736",
+                "matk": "171",
+                "def": "210",
+                "mdef": "158",
+                "hp": "122,288",
+                "hit": "145",
+                "flee": "177",
+                "move_spd": "45",
                 "atk_spd": "0.5"
             },
             "card_data": {
                 "imgsrc": null,
-                "name": "Transformation Scroll (Bathory)",
+                "name": "Alarm Card",
                 "effect": null,
-                "perma_buff": null
-            },
-            "drop_data": [],
-            "location_data": []
-        }
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/monsters/elder_monster.png",
-        "name": "Elder",
-        "element": "Neutral",
-        "race": "Demi-Human",
-        "level": "Lv 104",
-        "hp": "119,148 Hp",
-        "base_exp": "1,428 Base Exp",
-        "job_exp": "862 Job Exp",
-        "metadata": {
-            "description": "A Fantasy Elder tribe that has existed before the Ragnarok times. They were cursed by the gods and demons for acquiring a forbidden magic. From then on, they live between life and death.",
-            "common_data": {
-                "level": "104",
-                "type": "Monster",
-                "zone": "Field",
-                "race": "Demi-Human",
-                "element": "Neutral",
-                "size": "Large",
-                "passive_level": "40",
-                "base_exp": "1,428",
-                "job_exp": "862"
-            },
-            "attribute_data": {
-                "atk": "189",
-                "matk": "514",
-                "def": "377",
-                "mdef": "333",
-                "hp": "119,148",
-                "hit": "137",
-                "flee": "184",
-                "move_spd": "30",
-                "atk_spd": "0.5"
-            },
-            "card_data": {
-                "imgsrc": null,
-                "name": "Elder Card",
-                "effect": "Damage to PVP players ＋3%",
                 "perma_buff": [
-                    "<div style=\"text-align: center;\">Damage to players in PVP mode ＋1%</div>",
-                    "Damage to players in PVP mode ＋1%"
+                    "<div style=\"text-align: center;\">Max HP ＋12</div>",
+                    "Max HP ＋12"
                 ]
             },
             "drop_data": [
                 {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/19.png",
-                    "name": "Elder Card",
-                    "drop_rate": "?%"
-                },
-                {
                     "imgsrc": null,
-                    "name": "Witch Star Dust",
-                    "drop_rate": "7.69%"
+                    "name": "Temporal Crystal",
+                    "drop_rate": "5.86%"
                 },
                 {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_12106.png",
-                    "name": "Cobaltblue Dyestuffs",
-                    "drop_rate": "0.48%"
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_5001.png",
+                    "name": "Rough Oridecon",
+                    "drop_rate": "0.55%"
                 },
                 {
                     "imgsrc": "www.roguard.net/content/img/icons/items/item_12004.png",
-                    "name": "Transformation Scroll (Elder)",
-                    "drop_rate": "0.02%"
+                    "name": "Transformation Scroll (Alarm)",
+                    "drop_rate": "0.01%"
                 },
                 {
                     "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
                     "name": "Zeny",
-                    "drop_rate": "57.36%"
+                    "drop_rate": "63.96%"
                 },
                 {
                     "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
                     "name": "Zeny",
-                    "drop_rate": "57.36%"
+                    "drop_rate": "63.96%"
                 },
                 {
                     "imgsrc": null,
                     "name": "Tattered Time Pointer",
-                    "drop_rate": "29.08%"
+                    "drop_rate": "23.76%"
                 },
                 {
-                    "imgsrc": null,
-                    "name": "Battle Bow [2]",
-                    "drop_rate": "0.41%"
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_43534.png",
+                    "name": "Enchanted Shoes [1]",
+                    "drop_rate": "0.33%"
                 }
             ],
             "location_data": [
@@ -697,7 +605,93 @@
         }
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/monsters/stemworm_monster.png",
+        "imgsrc": "www.roguard.net/content/img/icons/monsters/deviling_mvp.png",
+        "name": "Huge Deviling",
+        "element": "Shadow",
+        "race": "Demon",
+        "level": "Lv 100",
+        "hp": "10,357,875 Hp",
+        "base_exp": "4,818 Base Exp",
+        "job_exp": "9,408 Job Exp",
+        "metadata": {
+            "description": "Its soul has been manipulated by the devil. It's intimate with Deviruchies and did many bad things. In the depths of its fallen heart, it's always looking for the answer to a question - what is the bottom line?",
+            "common_data": {
+                "level": "100",
+                "type": "MVP",
+                "zone": "Field",
+                "race": "Demon",
+                "element": "Shadow",
+                "size": "Medium",
+                "passive_level": "999",
+                "base_exp": "4,818",
+                "job_exp": "9,408"
+            },
+            "attribute_data": {
+                "atk": "2,100",
+                "matk": "417",
+                "def": "24",
+                "mdef": "350",
+                "hp": "10,357,875",
+                "hit": "198",
+                "flee": "81",
+                "move_spd": "135",
+                "atk_spd": "1"
+            },
+            "card_data": {
+                "imgsrc": "www.roguard.net/content/img/icons/items/item_45013.png",
+                "name": "Deviling Card",
+                "effect": null,
+                "perma_buff": null
+            },
+            "drop_data": [],
+            "location_data": []
+        }
+    },
+    {
+        "imgsrc": "www.roguard.net/content/img/icons/monsters/bathory_monster.png",
+        "name": "Bathory ★",
+        "element": "Shadow",
+        "race": "Demi-Human",
+        "level": "Lv 103",
+        "hp": "255,786 Hp",
+        "base_exp": "4,630 Base Exp",
+        "job_exp": "1,915 Job Exp",
+        "metadata": {
+            "description": "Senior Bathories who were Black Witches and driven away by the Mages in the land because of their study of banned spells. They were cursed and turned into monsters. They ride broomsticks in the Clock Tower Labyrinth and are a nightmare for many children of Al De Baran.",
+            "common_data": {
+                "level": "103",
+                "type": "Monster",
+                "zone": "Field",
+                "race": "Demi-Human",
+                "element": "Shadow",
+                "size": "Medium",
+                "passive_level": "40",
+                "base_exp": "4,630",
+                "job_exp": "1,915"
+            },
+            "attribute_data": {
+                "atk": "489",
+                "matk": "1,335",
+                "def": "240",
+                "mdef": "710",
+                "hp": "255,786",
+                "hit": "149",
+                "flee": "175",
+                "move_spd": "135",
+                "atk_spd": "0.5"
+            },
+            "card_data": {
+                "imgsrc": "www.roguard.net/content/img/icons/items/19.png",
+                "name": "Witch Star Dust",
+                "effect": null,
+                "perma_buff": null
+            },
+            "drop_data": [],
+            "location_data": []
+        }
+    },
+    {
+        "imgsrc": "www.roguard.net/content/img/icons/monsters/stemworm_monster.png",
         "name": "Stem Worm",
         "element": "Wind",
         "race": "Plant",
@@ -794,7 +788,7 @@
         }
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/monsters/dracula_mvp.png",
+        "imgsrc": "www.roguard.net/content/img/icons/monsters/dracula_mvp.png",
         "name": "Dracula",
         "element": "Shadow",
         "race": "Demon",
@@ -881,7 +875,147 @@
         }
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/monsters/baphomet_mvp.png",
+        "imgsrc": "www.roguard.net/content/img/icons/monsters/clock_monster.png",
+        "name": "Ancient Clock",
+        "element": "Earth",
+        "race": "Formless",
+        "level": "Lv 102",
+        "hp": "125,127 Hp",
+        "base_exp": "1,158 Base Exp",
+        "job_exp": "988 Job Exp",
+        "metadata": {
+            "description": "It is said that the three alchemists who created the Clock Tower Labyrinth were persecuted by the Senate. Eventually the Senate members' souls were trapped by the revenging alchemists, Made into clocks, and always lingering in the labyrinth.",
+            "common_data": {
+                "level": "102",
+                "type": "Monster",
+                "zone": "Field",
+                "race": "Formless",
+                "element": "Earth",
+                "size": "Medium",
+                "passive_level": "40",
+                "base_exp": "1,158",
+                "job_exp": "988"
+            },
+            "attribute_data": {
+                "atk": "773",
+                "matk": "437",
+                "def": "262",
+                "mdef": "134",
+                "hp": "125,127",
+                "hit": "150",
+                "flee": "178",
+                "move_spd": "45",
+                "atk_spd": "0.5"
+            },
+            "card_data": {
+                "imgsrc": null,
+                "name": "Ancient Clock Card",
+                "effect": null,
+                "perma_buff": [
+                    "<div style=\"text-align: center;\">Max HP ＋12</div>",
+                    "Max HP ＋12"
+                ]
+            },
+            "drop_data": [
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/19.png",
+                    "name": "Ancient Clock Card",
+                    "drop_rate": "?%"
+                },
+                {
+                    "imgsrc": null,
+                    "name": "Temporal Crystal",
+                    "drop_rate": "5.38%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_5004.png",
+                    "name": "Rough Elunium",
+                    "drop_rate": "0.51%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_12004.png",
+                    "name": "Transformation Scroll (Ancient Clock)",
+                    "drop_rate": "0.01%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
+                    "name": "Zeny",
+                    "drop_rate": "64%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
+                    "name": "Zeny",
+                    "drop_rate": "64%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_12020.png",
+                    "name": "Dead Branch",
+                    "drop_rate": "0.6%"
+                },
+                {
+                    "imgsrc": null,
+                    "name": "Tattered Time Pointer",
+                    "drop_rate": "23.66%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_43534.png",
+                    "name": "Enchanted Shoes [1]",
+                    "drop_rate": "0.33%"
+                }
+            ],
+            "location_data": [
+                {
+                    "location": "Clock Tower 1F",
+                    "suggestion_level": "(Lv-)"
+                }
+            ]
+        }
+    },
+    {
+        "imgsrc": "www.roguard.net/content/img/icons/monsters/penomena_monster.png",
+        "name": "Penomena",
+        "element": "Water",
+        "race": "Fish",
+        "level": "Lv 105",
+        "hp": "91,651 Hp",
+        "base_exp": "1,268 Base Exp",
+        "job_exp": "972 Job Exp",
+        "metadata": {
+            "description": "For some reason, in the book \"Midgard Monsters\" compiled by the famous adventurer Ms. Letin, this dangerous creature swimming in cave waters were marked as \"women’s public enemy\".",
+            "common_data": {
+                "level": "105",
+                "type": "Monster",
+                "zone": "Field",
+                "race": "Fish",
+                "element": "Water",
+                "size": "Medium",
+                "passive_level": "40",
+                "base_exp": "1,268",
+                "job_exp": "972"
+            },
+            "attribute_data": {
+                "atk": "562",
+                "matk": "171",
+                "def": "166",
+                "mdef": "232",
+                "hp": "91,651",
+                "hit": "194",
+                "flee": "138",
+                "move_spd": "15",
+                "atk_spd": "0.5"
+            },
+            "card_data": {
+                "imgsrc": "www.roguard.net/content/img/icons/items/19.png",
+                "name": "Crystal Bone",
+                "effect": null,
+                "perma_buff": null
+            },
+            "drop_data": [],
+            "location_data": []
+        }
+    },
+    {
+        "imgsrc": "www.roguard.net/content/img/icons/monsters/baphomet_mvp.png",
         "name": "Baphomet",
         "element": "Shadow",
         "race": "Demon",
@@ -998,320 +1132,56 @@
         }
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/monsters/bathory_monster.png",
-        "name": "Bathory ★",
-        "element": "Shadow",
-        "race": "Demi-Human",
-        "level": "Lv 103",
-        "hp": "255,786 Hp",
-        "base_exp": "4,630 Base Exp",
-        "job_exp": "1,915 Job Exp",
-        "metadata": {
-            "description": "Senior Bathories who were Black Witches and driven away by the Mages in the land because of their study of banned spells. They were cursed and turned into monsters. They ride broomsticks in the Clock Tower Labyrinth and are a nightmare for many children of Al De Baran.",
-            "common_data": {
-                "level": "103",
-                "type": "Monster",
-                "zone": "Field",
-                "race": "Demi-Human",
-                "element": "Shadow",
-                "size": "Medium",
-                "passive_level": "40",
-                "base_exp": "4,630",
-                "job_exp": "1,915"
-            },
-            "attribute_data": {
-                "atk": "489",
-                "matk": "1,335",
-                "def": "240",
-                "mdef": "710",
-                "hp": "255,786",
-                "hit": "149",
-                "flee": "175",
-                "move_spd": "135",
-                "atk_spd": "0.5"
-            },
-            "card_data": {
-                "imgsrc": "www.roguard.net/content/img/icons/items/19.png",
-                "name": "Witch Star Dust",
-                "effect": null,
-                "perma_buff": null
-            },
-            "drop_data": [],
-            "location_data": []
-        }
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/monsters/penomena_monster.png",
-        "name": "Penomena",
-        "element": "Water",
-        "race": "Fish",
-        "level": "Lv 105",
-        "hp": "91,651 Hp",
-        "base_exp": "1,268 Base Exp",
-        "job_exp": "972 Job Exp",
-        "metadata": {
-            "description": "For some reason, in the book \"Midgard Monsters\" compiled by the famous adventurer Ms. Letin, this dangerous creature swimming in cave waters were marked as \"women’s public enemy\".",
-            "common_data": {
-                "level": "105",
-                "type": "Monster",
-                "zone": "Field",
-                "race": "Fish",
-                "element": "Water",
-                "size": "Medium",
-                "passive_level": "40",
-                "base_exp": "1,268",
-                "job_exp": "972"
-            },
-            "attribute_data": {
-                "atk": "562",
-                "matk": "171",
-                "def": "166",
-                "mdef": "232",
-                "hp": "91,651",
-                "hit": "194",
-                "flee": "138",
-                "move_spd": "15",
-                "atk_spd": "0.5"
-            },
-            "card_data": {
-                "imgsrc": "www.roguard.net/content/img/icons/items/19.png",
-                "name": "Crystal Bone",
-                "effect": null,
-                "perma_buff": null
-            },
-            "drop_data": [],
-            "location_data": []
-        }
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/monsters/deviling_mvp.png",
-        "name": "Huge Deviling",
-        "element": "Shadow",
-        "race": "Demon",
+        "imgsrc": "www.roguard.net/content/img/icons/monsters/valkyrie_mvp.png",
+        "name": "Randgris",
+        "element": "Holy",
+        "race": "Angel",
         "level": "Lv 100",
-        "hp": "10,357,875 Hp",
-        "base_exp": "4,818 Base Exp",
-        "job_exp": "9,408 Job Exp",
+        "hp": "10,803,000 Hp",
+        "base_exp": "1 Base Exp",
+        "job_exp": "1 Job Exp",
         "metadata": {
-            "description": "Its soul has been manipulated by the devil. It's intimate with Deviruchies and did many bad things. In the depths of its fallen heart, it's always looking for the answer to a question - what is the bottom line?",
+            "description": "Its holiness, Goodness and integrity are deeply rooted in people's heart. Its existence is to protect the world from being invaded by devils. As an Angel, it has extremely high stats and attack, and is a loyal protector of human beings.",
             "common_data": {
                 "level": "100",
                 "type": "MVP",
                 "zone": "Field",
-                "race": "Demon",
-                "element": "Shadow",
-                "size": "Medium",
+                "race": "Angel",
+                "element": "Holy",
+                "size": "Large",
                 "passive_level": "999",
-                "base_exp": "4,818",
-                "job_exp": "9,408"
+                "base_exp": "1",
+                "job_exp": "1"
             },
             "attribute_data": {
-                "atk": "2,100",
-                "matk": "417",
-                "def": "24",
-                "mdef": "350",
-                "hp": "10,357,875",
-                "hit": "198",
-                "flee": "81",
-                "move_spd": "135",
+                "atk": "1,900",
+                "matk": "1,162",
+                "def": "500",
+                "mdef": "200",
+                "hp": "10,803,000",
+                "hit": "792",
+                "flee": "41",
+                "move_spd": "85",
                 "atk_spd": "1"
             },
             "card_data": {
-                "imgsrc": "www.roguard.net/content/img/icons/items/item_45013.png",
-                "name": "Deviling Card",
-                "effect": null,
-                "perma_buff": null
-            },
-            "drop_data": [],
-            "location_data": []
-        }
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/monsters/alarm_monster.png",
-        "name": "Alarm ★",
-        "element": "Neutral",
-        "race": "Formless",
-        "level": "Lv 101",
-        "hp": "366,864 Hp",
-        "base_exp": "3,905 Base Exp",
-        "job_exp": "2,245 Job Exp",
-        "metadata": {
-            "description": "The legend has it that it's a by-product of the Clock Tower Labyrinth creators researching the space-time magic device. Because they used a lot of lost magic, it has a high magic resistance. Most of the Alarms are quiescent and weird, but some of them are particularly offensive.",
-            "common_data": {
-                "level": "101",
-                "type": "Monster",
-                "zone": "Field",
-                "race": "Formless",
-                "element": "Neutral",
-                "size": "Medium",
-                "passive_level": "40",
-                "base_exp": "3,905",
-                "job_exp": "2,245"
-            },
-            "attribute_data": {
-                "atk": "2,208",
-                "matk": "513",
-                "def": "420",
-                "mdef": "316",
-                "hp": "366,864",
-                "hit": "145",
-                "flee": "177",
-                "move_spd": "45",
-                "atk_spd": "0.5"
-            },
-            "card_data": {
-                "imgsrc": "www.roguard.net/content/img/icons/items/19.png",
-                "name": "Temporal Crystal",
-                "effect": null,
-                "perma_buff": null
-            },
-            "drop_data": [],
-            "location_data": []
-        }
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/monsters/clock_monster.png",
-        "name": "Ancient Clock",
-        "element": "Earth",
-        "race": "Formless",
-        "level": "Lv 102",
-        "hp": "125,127 Hp",
-        "base_exp": "1,158 Base Exp",
-        "job_exp": "988 Job Exp",
-        "metadata": {
-            "description": "It is said that the three alchemists who created the Clock Tower Labyrinth were persecuted by the Senate. Eventually the Senate members' souls were trapped by the revenging alchemists, Made into clocks, and always lingering in the labyrinth.",
-            "common_data": {
-                "level": "102",
-                "type": "Monster",
-                "zone": "Field",
-                "race": "Formless",
-                "element": "Earth",
-                "size": "Medium",
-                "passive_level": "40",
-                "base_exp": "1,158",
-                "job_exp": "988"
-            },
-            "attribute_data": {
-                "atk": "773",
-                "matk": "437",
-                "def": "262",
-                "mdef": "134",
-                "hp": "125,127",
-                "hit": "150",
-                "flee": "178",
-                "move_spd": "45",
-                "atk_spd": "0.5"
-            },
-            "card_data": {
-                "imgsrc": null,
-                "name": "Ancient Clock Card",
-                "effect": null,
+                "imgsrc": "www.roguard.net/content/img/cards/card_60002.jpg",
+                "name": "Randgris Card",
+                "effect": "Refine Atk ＋50",
                 "perma_buff": [
-                    "<div style=\"text-align: center;\">Max HP ＋12</div>",
-                    "Max HP ＋12"
+                    "<div style=\"text-align: center;\">Refine Atk ＋5</div>",
+                    "Refine Atk ＋5"
                 ]
             },
             "drop_data": [
                 {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/19.png",
-                    "name": "Ancient Clock Card",
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_45090.png",
+                    "name": "Valkyrie Helm [1] Blueprint",
                     "drop_rate": "?%"
                 },
                 {
-                    "imgsrc": null,
-                    "name": "Temporal Crystal",
-                    "drop_rate": "5.38%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_5004.png",
-                    "name": "Rough Elunium",
-                    "drop_rate": "0.51%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_12004.png",
-                    "name": "Transformation Scroll (Ancient Clock)",
-                    "drop_rate": "0.01%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
-                    "name": "Zeny",
-                    "drop_rate": "64%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
-                    "name": "Zeny",
-                    "drop_rate": "64%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_12020.png",
-                    "name": "Dead Branch",
-                    "drop_rate": "0.6%"
-                },
-                {
-                    "imgsrc": null,
-                    "name": "Tattered Time Pointer",
-                    "drop_rate": "23.66%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_43534.png",
-                    "name": "Enchanted Shoes [1]",
-                    "drop_rate": "0.33%"
-                }
-            ],
-            "location_data": [
-                {
-                    "location": "Clock Tower 1F",
-                    "suggestion_level": "(Lv-)"
-                }
-            ]
-        }
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/monsters/baphomet_mini.png",
-        "name": "Weak Puppet",
-        "element": "Shadow",
-        "race": "Demon",
-        "level": "Lv 100",
-        "hp": "21,555,318 Hp",
-        "base_exp": "3,732 Base Exp",
-        "job_exp": "1,318 Job Exp",
-        "metadata": {
-            "description": "A well-known goat-headed demon who uses a giant reaper scythe. Like Demon King Morroc, he has a strong desire to destroy and kill. And wherever he goes is full of death...",
-            "common_data": {
-                "level": "100",
-                "type": "Mini Boss",
-                "zone": "Field",
-                "race": "Demon",
-                "element": "Shadow",
-                "size": "Large",
-                "passive_level": "999",
-                "base_exp": "3,732",
-                "job_exp": "1,318"
-            },
-            "attribute_data": {
-                "atk": "3,500",
-                "matk": "1,750",
-                "def": "255",
-                "mdef": "100",
-                "hp": "21,555,318",
-                "hit": "291",
-                "flee": "233",
-                "move_spd": "135",
-                "atk_spd": "1.5"
-            },
-            "card_data": {
-                "imgsrc": null,
-                "name": "Weak Puppet Card",
-                "effect": "Dmg to Demi-Human ＋2%",
-                "perma_buff": [
-                    "<div style=\"text-align: center;\">Max HP ＋12</div>",
-                    "Max HP ＋12"
-                ]
-            },
-            "drop_data": [
-                {
                     "imgsrc": "www.roguard.net/content/img/icons/items/19.png",
-                    "name": "Weak Puppet Card",
+                    "name": "Randgris Card",
                     "drop_rate": "?%"
                 },
                 {
@@ -1320,13 +1190,38 @@
                     "drop_rate": "?%"
                 },
                 {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_52317.png",
+                    "name": "Biotite",
+                    "drop_rate": "?%"
+                },
+                {
                     "imgsrc": null,
-                    "name": "Black Wing",
+                    "name": "Transformation Scroll (Randgris)",
+                    "drop_rate": "?%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_12119.png",
+                    "name": "Yggdrasil Berry",
+                    "drop_rate": "?%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_5023.png",
+                    "name": "Leaf of Yggdrasil",
                     "drop_rate": "?%"
                 },
                 {
                     "imgsrc": null,
                     "name": "Creste's Royal Medal",
+                    "drop_rate": "?%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
+                    "name": "Zeny",
+                    "drop_rate": "?%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_42533.png",
+                    "name": "Mithril Orb [1]",
                     "drop_rate": "?%"
                 }
             ],
@@ -1334,7 +1229,7 @@
         }
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/monsters/brilight_monster.png",
+        "imgsrc": "www.roguard.net/content/img/icons/monsters/brilight_monster.png",
         "name": "Brilight",
         "element": "Fire",
         "race": "Insect",
@@ -1431,187 +1326,292 @@
         }
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/monsters/dark_lord_mvp.png",
-        "name": "Dark Lord",
-        "element": "Undead",
-        "race": "Demon",
-        "level": "Lv 100",
-        "hp": "19,567,662 Hp",
-        "base_exp": "25,600 Base Exp",
-        "job_exp": "20,000 Job Exp",
+        "imgsrc": "www.roguard.net/content/img/icons/monsters/cookie_gift_lv_monster.png",
+        "name": "Cookie",
+        "element": "Neutral",
+        "race": "Demi-Human",
+        "level": "Lv 108",
+        "hp": "89,893 Hp",
+        "base_exp": "1,966 Base Exp",
+        "job_exp": "1,142 Job Exp",
         "metadata": {
-            "description": "One of the leaders of Glast Heim and the absolute master of dark magic and a symbol of fear and despair. After being locked by him, You will fall into the endless darkness!",
+            "description": "The elf from the alien world. The elf is arranged to produce socks in which presents will be put for innocent children. It represents green, the major color of an important festival. The brand of favorite gum: Migumigu.",
             "common_data": {
-                "level": "100",
-                "type": "MVP",
-                "zone": "Field",
-                "race": "Demon",
-                "element": "Undead",
-                "size": "Large",
-                "passive_level": "999",
-                "base_exp": "25,600",
-                "job_exp": "20,000"
-            },
-            "attribute_data": {
-                "atk": "1,250",
-                "matk": "1,680",
-                "def": "800",
-                "mdef": "125",
-                "hp": "19,567,662",
-                "hit": "200",
-                "flee": "157",
-                "move_spd": "135",
-                "atk_spd": "1"
-            },
-            "card_data": {
-                "imgsrc": null,
-                "name": "Dark Lord Card",
-                "effect": "When suffering attack from physical skills, Caster has a chance to trigger Meteor Storm Lv.10",
-                "perma_buff": [
-                    "<div style=\"text-align: center;\">Fire Dmg ＋8%</div>",
-                    "Fire Dmg ＋8%"
-                ]
-            },
-            "drop_data": [
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_45203.png",
-                    "name": "Coif [1] Blueprint",
-                    "drop_rate": "0.38%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/19.png",
-                    "name": "Dark Lord Card",
-                    "drop_rate": "?%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_52206.png",
-                    "name": "Necklace of Oblivion",
-                    "drop_rate": "4.57%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_52317.png",
-                    "name": "Biotite",
-                    "drop_rate": "51.86%"
-                },
-                {
-                    "imgsrc": null,
-                    "name": "Transformation Scroll (Dark Lord)",
-                    "drop_rate": "3.34%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_5003.png",
-                    "name": "Elunium",
-                    "drop_rate": "35.17%"
-                },
-                {
-                    "imgsrc": null,
-                    "name": "Creste's Royal Medal",
-                    "drop_rate": "4.64%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
-                    "name": "Zeny",
-                    "drop_rate": "?%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_43534.png",
-                    "name": "Enchanted Shoes [1]",
-                    "drop_rate": "?%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_40609.png",
-                    "name": "Kronos [1]",
-                    "drop_rate": "100%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_44003.png",
-                    "name": "Staunch Ring",
-                    "drop_rate": "100%"
-                }
-            ],
-            "location_data": []
-        }
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/monsters/blackwitch_monster.png",
-        "name": "Black Witch",
-        "element": "Undead",
-        "race": "Undead",
-        "level": "Lv 100",
-        "hp": "80,368 Hp",
-        "base_exp": "1,400 Base Exp",
-        "job_exp": "814 Job Exp",
-        "metadata": {
-            "description": "Through the black magic, it turns from a naughty black cat into a monster like a cute human little girl. It loves pranks. If you don't give it candy, You will be tricked! If you do, You will still be tricked!",
-            "common_data": {
-                "level": "100",
+                "level": "108",
                 "type": "Monster",
                 "zone": "Field",
-                "race": "Undead",
-                "element": "Undead",
-                "size": "Medium",
+                "race": "Demi-Human",
+                "element": "Neutral",
+                "size": "Small",
                 "passive_level": "40",
-                "base_exp": "1,400",
-                "job_exp": "814"
+                "base_exp": "1,966",
+                "job_exp": "1,142"
             },
             "attribute_data": {
-                "atk": "185",
-                "matk": "349",
-                "def": "120",
-                "mdef": "284",
-                "hp": "80,368",
-                "hit": "141",
-                "flee": "172",
-                "move_spd": "100",
-                "atk_spd": "0.5"
+                "atk": "144",
+                "matk": "589",
+                "def": "80",
+                "mdef": "258",
+                "hp": "89,893",
+                "hit": "197",
+                "flee": "193",
+                "move_spd": "60",
+                "atk_spd": "0.52"
             },
             "card_data": {
                 "imgsrc": null,
-                "name": "Black Witch Card",
-                "effect": "INT ＋1, M.Atk ＋10",
+                "name": "Gingerbread Man Card",
+                "effect": "Luk ＋3",
                 "perma_buff": [
-                    "<div style=\"text-align: center;\">M.Atk ＋1.5</div>",
-                    "M.Atk ＋1.5"
+                    "<div style=\"text-align: center;\">M.Def ＋2</div>",
+                    "M.Def ＋2"
                 ]
             },
             "drop_data": [
                 {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/19.png",
-                    "name": "Black Witch Card",
+                    "imgsrc": null,
+                    "name": "Gingerbread Man clip Blueprint",
                     "drop_rate": "?%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/19.png",
+                    "name": "Gingerbread Man Card",
+                    "drop_rate": "?%"
+                },
+                {
+                    "imgsrc": null,
+                    "name": "Ice Cube",
+                    "drop_rate": "12.1%"
                 },
                 {
                     "imgsrc": "www.roguard.net/content/img/icons/items/item_12004.png",
-                    "name": "Transformation Scroll (Black Witch)",
-                    "drop_rate": "0.03%"
+                    "name": "Transformation Scroll (Gingerbread Man)",
+                    "drop_rate": "0.02%"
                 },
                 {
                     "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
                     "name": "Zeny",
-                    "drop_rate": "59.07%"
+                    "drop_rate": "53.27%"
                 },
                 {
                     "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
                     "name": "Zeny",
-                    "drop_rate": "59.07%"
+                    "drop_rate": "53.27%"
                 },
                 {
                     "imgsrc": null,
-                    "name": "Tattered Time Pointer",
-                    "drop_rate": "33.08%"
+                    "name": "Edelweiss",
+                    "drop_rate": "29.59%"
                 },
                 {
-                    "imgsrc": null,
-                    "name": "Glitter Shell",
-                    "drop_rate": "2.71%"
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_42035.png",
+                    "name": "Baptized Robe [1]",
+                    "drop_rate": "0.42%"
                 }
             ],
             "location_data": [
                 {
-                    "location": "Clock Tower 1F",
+                    "location": "Toy Factory 1F",
                     "suggestion_level": "(Lv-)"
                 }
             ]
+        }
+    },
+    {
+        "imgsrc": "www.roguard.net/content/img/icons/monsters/alarm_monster.png",
+        "name": "Alarm ★",
+        "element": "Neutral",
+        "race": "Formless",
+        "level": "Lv 101",
+        "hp": "366,864 Hp",
+        "base_exp": "3,905 Base Exp",
+        "job_exp": "2,245 Job Exp",
+        "metadata": {
+            "description": "The legend has it that it's a by-product of the Clock Tower Labyrinth creators researching the space-time magic device. Because they used a lot of lost magic, it has a high magic resistance. Most of the Alarms are quiescent and weird, but some of them are particularly offensive.",
+            "common_data": {
+                "level": "101",
+                "type": "Monster",
+                "zone": "Field",
+                "race": "Formless",
+                "element": "Neutral",
+                "size": "Medium",
+                "passive_level": "40",
+                "base_exp": "3,905",
+                "job_exp": "2,245"
+            },
+            "attribute_data": {
+                "atk": "2,208",
+                "matk": "513",
+                "def": "420",
+                "mdef": "316",
+                "hp": "366,864",
+                "hit": "145",
+                "flee": "177",
+                "move_spd": "45",
+                "atk_spd": "0.5"
+            },
+            "card_data": {
+                "imgsrc": "www.roguard.net/content/img/icons/items/19.png",
+                "name": "Temporal Crystal",
+                "effect": null,
+                "perma_buff": null
+            },
+            "drop_data": [],
+            "location_data": []
+        }
+    },
+    {
+        "imgsrc": "www.roguard.net/content/img/icons/monsters/orc_lady_monster.png",
+        "name": "Orc Lady",
+        "element": "Earth",
+        "race": "Demi-Human",
+        "level": "Lv 109",
+        "hp": "50,056 Hp",
+        "base_exp": "1,462 Base Exp",
+        "job_exp": "924 Job Exp",
+        "metadata": {
+            "description": "Educate their children, Discipline their husbands and do housework, Even though they're orc females, They feel tired like human females. However, While human females choose to bear the pressure of life, the orc females often join in the battle to vent.",
+            "common_data": {
+                "level": "109",
+                "type": "Monster",
+                "zone": "Field",
+                "race": "Demi-Human",
+                "element": "Earth",
+                "size": "Medium",
+                "passive_level": "40",
+                "base_exp": "1,462",
+                "job_exp": "924"
+            },
+            "attribute_data": {
+                "atk": "347",
+                "matk": "181",
+                "def": "339",
+                "mdef": "159",
+                "hp": "50,056",
+                "hit": "182",
+                "flee": "167",
+                "move_spd": "45",
+                "atk_spd": "0.5"
+            },
+            "card_data": {
+                "imgsrc": null,
+                "name": "Orc Lady Card",
+                "effect": "Damage to insect race ＋5%",
+                "perma_buff": [
+                    "<div style=\"text-align: center;\">Atk ＋4.5</div>",
+                    "Atk ＋4.5"
+                ]
+            },
+            "drop_data": [
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/19.png",
+                    "name": "Orc Lady Card",
+                    "drop_rate": "?%"
+                },
+                {
+                    "imgsrc": null,
+                    "name": "Witch Star Dust",
+                    "drop_rate": "10.69%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_12004.png",
+                    "name": "Transformation Scroll (Orc Lady)",
+                    "drop_rate": "0.02%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
+                    "name": "Zeny",
+                    "drop_rate": "55.13%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
+                    "name": "Zeny",
+                    "drop_rate": "55.13%"
+                },
+                {
+                    "imgsrc": null,
+                    "name": "Tattered Time Pointer",
+                    "drop_rate": "29.03%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_41505.png",
+                    "name": "Morning Star [2]",
+                    "drop_rate": "0.41%"
+                }
+            ],
+            "location_data": [
+                {
+                    "location": "Clock Tower B1",
+                    "suggestion_level": "(Lv-)"
+                }
+            ]
+        }
+    },
+    {
+        "imgsrc": "www.roguard.net/content/img/icons/monsters/baphomet_mini.png",
+        "name": "Weak Puppet",
+        "element": "Shadow",
+        "race": "Demon",
+        "level": "Lv 100",
+        "hp": "21,555,318 Hp",
+        "base_exp": "3,732 Base Exp",
+        "job_exp": "1,318 Job Exp",
+        "metadata": {
+            "description": "A well-known goat-headed demon who uses a giant reaper scythe. Like Demon King Morroc, he has a strong desire to destroy and kill. And wherever he goes is full of death...",
+            "common_data": {
+                "level": "100",
+                "type": "Mini Boss",
+                "zone": "Field",
+                "race": "Demon",
+                "element": "Shadow",
+                "size": "Large",
+                "passive_level": "999",
+                "base_exp": "3,732",
+                "job_exp": "1,318"
+            },
+            "attribute_data": {
+                "atk": "3,500",
+                "matk": "1,750",
+                "def": "255",
+                "mdef": "100",
+                "hp": "21,555,318",
+                "hit": "291",
+                "flee": "233",
+                "move_spd": "135",
+                "atk_spd": "1.5"
+            },
+            "card_data": {
+                "imgsrc": null,
+                "name": "Weak Puppet Card",
+                "effect": "Dmg to Demi-Human ＋2%",
+                "perma_buff": [
+                    "<div style=\"text-align: center;\">Max HP ＋12</div>",
+                    "Max HP ＋12"
+                ]
+            },
+            "drop_data": [
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/19.png",
+                    "name": "Weak Puppet Card",
+                    "drop_rate": "?%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_52106.png",
+                    "name": "Cyfar",
+                    "drop_rate": "?%"
+                },
+                {
+                    "imgsrc": null,
+                    "name": "Black Wing",
+                    "drop_rate": "?%"
+                },
+                {
+                    "imgsrc": null,
+                    "name": "Creste's Royal Medal",
+                    "drop_rate": "?%"
+                }
+            ],
+            "location_data": []
         }
     }
 ]

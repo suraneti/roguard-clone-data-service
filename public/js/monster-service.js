@@ -29,7 +29,7 @@ function serializeMonsterData(pages, callback) {
         const monsterData = [];
 
         match.forEach(element => {
-            const monsterImage = (element.match(/src\s*=\s*\\*"(.+?)\\*"\s*/) !== null) ? element.match(/src\s*=\s*\\*"(.+?)\\*"\s*/)[1] : null
+            const monsterImage = (element.match(/src\s*=\s*\\*"(.+?)\\*"\s*/) !== null) ? element.match(/src\s*=\s*\\*"\/\/(.+?)\\*"\s*/)[1] : null
             const monsterName = element.match(/<a (.*)>(.+?)<\/a>/)[2]
             const monsterElement = element.match(/<div style="color: (.*);">(.+?) • (.*)<\/div>/)[2];
             const monsterRace = element.match(/<div style="color: (.*);">(.+?) • (.*)<\/div>/)[3];
