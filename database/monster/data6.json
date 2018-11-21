@@ -1,182 +1,134 @@
 [
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/monsters/orc_monster.png",
-        "name": "Orc Warrior",
-        "element": "Earth",
-        "race": "Demi-Human",
-        "level": "Lv 70",
-        "hp": "36,238 Hp",
-        "base_exp": "585 Base Exp",
-        "job_exp": "229 Job Exp",
+        "imgsrc": "www.roguard.net/content/img/icons/monsters/dustiness_monster.png",
+        "name": "Dustiness",
+        "element": "Wind",
+        "race": "Insect",
+        "level": "Lv 62",
+        "hp": "12,479 Hp",
+        "base_exp": "826 Base Exp",
+        "job_exp": "530 Job Exp",
         "metadata": {
-            "description": "The most common Orc soldier. Even so, You can't underestimate its power. Since its duty is to guard the Orc Village, it never loaf on the job. It's always prepared and waiting for the enemy to come! Charge, For the Horde!",
+            "description": "Dustiness is a typical moth monster. Sharp outward fangs and excellent flying ability make it a nightmare for junior adventurers.",
             "common_data": {
-                "level": "70",
+                "level": "62",
                 "type": "Monster",
                 "zone": "Field",
-                "race": "Demi-Human",
-                "element": "Earth",
-                "size": "Medium",
+                "race": "Insect",
+                "element": "Wind",
+                "size": "Small",
                 "passive_level": "40",
-                "base_exp": "585",
-                "job_exp": "229"
+                "base_exp": "826",
+                "job_exp": "530"
             },
             "attribute_data": {
-                "atk": "282",
-                "matk": "159",
-                "def": "350",
-                "mdef": "21",
-                "hp": "36,238",
-                "hit": "130",
-                "flee": "48",
-                "move_spd": "60",
-                "atk_spd": "0.54"
+                "atk": "349",
+                "matk": "174",
+                "def": "119",
+                "mdef": "163",
+                "hp": "12,479",
+                "hit": "39",
+                "flee": "125",
+                "move_spd": "90",
+                "atk_spd": "0.5"
             },
             "card_data": {
-                "imgsrc": "www.roguard.net/content/img/cards/card_10068.jpg",
-                "name": "Orc Warrior Card",
-                "effect": "Damage reduction of brute race ＋20%",
-                "perma_buff": [
-                    "<div style=\"text-align: center;\">Flee ＋10</div>",
-                    "Flee ＋10"
-                ]
+                "imgsrc": "www.roguard.net/content/img/icons/items/19.png",
+                "name": "Scell",
+                "effect": null,
+                "perma_buff": null
             },
-            "drop_data": [
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_48523.png",
-                    "name": "Cigarette Blueprint",
-                    "drop_rate": "?%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/19.png",
-                    "name": "Orc Warrior Card",
-                    "drop_rate": "?%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_5001.png",
-                    "name": "Rough Oridecon",
-                    "drop_rate": "0.92%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_12004.png",
-                    "name": "Transformation Scroll (Orc Warrior)",
-                    "drop_rate": "0.87%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
-                    "name": "Zeny",
-                    "drop_rate": "86.22%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
-                    "name": "Zeny",
-                    "drop_rate": "86.22%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_52505.png",
-                    "name": "Skel-Bone",
-                    "drop_rate": "3.91%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_40334.png",
-                    "name": "Mercenary Sword [2]",
-                    "drop_rate": "0.68%"
-                }
-            ],
-            "location_data": [
-                {
-                    "location": "Orc Village",
-                    "suggestion_level": "(Lv70~73)"
-                },
-                {
-                    "location": "Orc Village South",
-                    "suggestion_level": "(Lv70~73)"
-                }
-            ]
+            "drop_data": [],
+            "location_data": []
         }
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/monsters/minorous_monster.png",
-        "name": "Minorous",
+        "imgsrc": "www.roguard.net/content/img/icons/monsters/marduk_monster.png",
+        "name": "Marduk",
         "element": "Fire",
-        "race": "Brute",
-        "level": "Lv 64",
-        "hp": "27,181 Hp",
-        "base_exp": "507 Base Exp",
-        "job_exp": "226 Job Exp",
+        "race": "Demi-Human",
+        "level": "Lv 68",
+        "hp": "40,512 Hp",
+        "base_exp": "465 Base Exp",
+        "job_exp": "283 Job Exp",
         "metadata": {
-            "description": "It is huge and has super strength. When it is irritated, it will use a giant hammer to smash the enemy into meat. Grumpy, but because of the enviable thick muscles, it has been selected as the bodybuilding champion of the monster world for many times...",
+            "description": "One of the ancient gods, As a guardian angel, the Bone Wand controlled by him has an amazing power. No one knows his true face behind the mask. The principle of living: Don't say too much. Silence is gold...",
             "common_data": {
-                "level": "64",
+                "level": "68",
                 "type": "Monster",
                 "zone": "Field",
-                "race": "Brute",
+                "race": "Demi-Human",
                 "element": "Fire",
                 "size": "Large",
                 "passive_level": "40",
-                "base_exp": "507",
-                "job_exp": "226"
+                "base_exp": "465",
+                "job_exp": "283"
             },
             "attribute_data": {
-                "atk": "203",
-                "matk": "122",
-                "def": "297",
-                "mdef": "19",
-                "hp": "27,181",
-                "hit": "84",
-                "flee": "47",
+                "atk": "263",
+                "matk": "140",
+                "def": "242",
+                "mdef": "51",
+                "hp": "40,512",
+                "hit": "88",
+                "flee": "80",
                 "move_spd": "60",
-                "atk_spd": "0.91"
+                "atk_spd": "0.65"
             },
             "card_data": {
-                "imgsrc": "www.roguard.net/content/img/cards/card_10062.jpg",
-                "name": "Minorous Card",
-                "effect": "Damage to L-size monsters ＋25%, Atk ＋15",
+                "imgsrc": "www.roguard.net/content/img/cards/card_10064.jpg",
+                "name": "Marduk Card",
+                "effect": "Avoid silence effect",
                 "perma_buff": [
-                    "<div style=\"text-align: center;\">Atk ＋8</div>",
-                    "Atk ＋8"
+                    "<div style=\"text-align: center;\">M.Def ＋4</div>",
+                    "M.Def ＋4"
                 ]
             },
             "drop_data": [
                 {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_45183.png",
-                    "name": "Minorous Horn Blueprint",
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_48521.png",
+                    "name": "Cultish Masque Blueprint",
                     "drop_rate": "?%"
                 },
                 {
                     "imgsrc": "www.roguard.net/content/img/icons/items/19.png",
-                    "name": "Minorous Card",
+                    "name": "Marduk Card",
                     "drop_rate": "?%"
                 },
                 {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_5001.png",
-                    "name": "Rough Oridecon",
-                    "drop_rate": "1.26%"
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_52204.png",
+                    "name": "Evil Horn",
+                    "drop_rate": "23.82%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_12101.png",
+                    "name": "Scarlet Dyestuffs",
+                    "drop_rate": "0.5%"
                 },
                 {
                     "imgsrc": "www.roguard.net/content/img/icons/items/item_12004.png",
-                    "name": "Transformation Scroll (Minorous)",
-                    "drop_rate": "0.03%"
+                    "name": "Transformation Scroll (Marduk)",
+                    "drop_rate": "0.02%"
                 },
                 {
                     "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
                     "name": "Zeny",
-                    "drop_rate": "86.68%"
+                    "drop_rate": "68.52%"
                 },
                 {
                     "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
                     "name": "Zeny",
-                    "drop_rate": "86.68%"
+                    "drop_rate": "68.52%"
                 },
                 {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_52404.png",
-                    "name": "Gold Sand",
-                    "drop_rate": "3.92%"
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_5112.png",
+                    "name": "Flame Heart",
+                    "drop_rate": "0.64%"
                 },
                 {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_42030.png",
-                    "name": "Army Armor [1]",
-                    "drop_rate": "0.68%"
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_40629.png",
+                    "name": "Army Staff [2]",
+                    "drop_rate": "0.54%"
                 }
             ],
             "location_data": [
@@ -192,7 +144,757 @@
         }
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/monsters/wilow_huge1_mini.png",
+        "imgsrc": "www.roguard.net/content/img/icons/monsters/horong_monster.png",
+        "name": "Horong ★",
+        "element": "Fire",
+        "race": "Formless",
+        "level": "Lv 62",
+        "hp": "102,306 Hp",
+        "base_exp": "2,115 Base Exp",
+        "job_exp": "1,290 Job Exp",
+        "metadata": {
+            "description": "The ghost fire of the dead, which will quietly follow the passers-by and launch a sneak attack. Remember: If you find that you are followed by it, please Flee quickly, Otherwise you will be attacked and killed and become the next soul!",
+            "common_data": {
+                "level": "62",
+                "type": "Monster",
+                "zone": "Field",
+                "race": "Formless",
+                "element": "Fire",
+                "size": "Small",
+                "passive_level": "40",
+                "base_exp": "2,115",
+                "job_exp": "1,290"
+            },
+            "attribute_data": {
+                "atk": "501",
+                "matk": "206",
+                "def": "500",
+                "mdef": "125",
+                "hp": "102,306",
+                "hit": "174",
+                "flee": "68",
+                "move_spd": "35",
+                "atk_spd": "0.6"
+            },
+            "card_data": {
+                "imgsrc": "www.roguard.net/content/img/icons/items/item_45040.png",
+                "name": "Horong Card",
+                "effect": null,
+                "perma_buff": null
+            },
+            "drop_data": [],
+            "location_data": []
+        }
+    },
+    {
+        "imgsrc": "www.roguard.net/content/img/icons/monsters/ninetail_monster.png",
+        "name": "Nine Tail",
+        "element": "Fire",
+        "race": "Brute",
+        "level": "Lv 72",
+        "hp": "44,313 Hp",
+        "base_exp": "669 Base Exp",
+        "job_exp": "197 Job Exp",
+        "metadata": {
+            "description": "A fox with nine tails. Legend has it that it can become a gorgeous woman to seduce men, With each tail having a different magic. It is said that when a fox has lived for more than a thousand years, it will become a Nine Tail. If you meet it, Don't be fooled by its charm!",
+            "common_data": {
+                "level": "72",
+                "type": "Monster",
+                "zone": "Field",
+                "race": "Brute",
+                "element": "Fire",
+                "size": "Medium",
+                "passive_level": "40",
+                "base_exp": "669",
+                "job_exp": "197"
+            },
+            "attribute_data": {
+                "atk": "313",
+                "matk": "176",
+                "def": "99",
+                "mdef": "21",
+                "hp": "44,313",
+                "hit": "92",
+                "flee": "131",
+                "move_spd": "90",
+                "atk_spd": "0.49"
+            },
+            "card_data": {
+                "imgsrc": "www.roguard.net/content/img/cards/card_10067.jpg",
+                "name": "Nine Tail Card",
+                "effect": "Agi ＋2, Flee ＋5",
+                "perma_buff": [
+                    "<div style=\"text-align: center;\">Flee ＋10</div>",
+                    "Flee ＋10"
+                ]
+            },
+            "drop_data": [
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_48007.png",
+                    "name": "Nine Tails Blueprint",
+                    "drop_rate": "?%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/19.png",
+                    "name": "Nine Tail Card",
+                    "drop_rate": "?%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_52102.png",
+                    "name": "Zargon",
+                    "drop_rate": "22.49%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_5004.png",
+                    "name": "Rough Elunium",
+                    "drop_rate": "0.71%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_12004.png",
+                    "name": "Transformation Scroll (Nine Tail)",
+                    "drop_rate": "0.03%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
+                    "name": "Zeny",
+                    "drop_rate": "68.48%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
+                    "name": "Zeny",
+                    "drop_rate": "68.48%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_12326.png",
+                    "name": "Royal Jelly",
+                    "drop_rate": "0.11%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_12020.png",
+                    "name": "Dead Branch",
+                    "drop_rate": "0.84%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_12329.png",
+                    "name": "Panacea",
+                    "drop_rate": "0.81%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_42033.png",
+                    "name": "Mercenary Coat [1]",
+                    "drop_rate": "0.6%"
+                }
+            ],
+            "location_data": [
+                {
+                    "location": "Payon Cave 2F",
+                    "suggestion_level": "(Lv65~72)"
+                },
+                {
+                    "location": "Payon Cave 3F",
+                    "suggestion_level": "(Lv65~72)"
+                }
+            ]
+        }
+    },
+    {
+        "imgsrc": "www.roguard.net/content/img/icons/monsters/grypjon_mini.png",
+        "name": "Gryphon",
+        "element": "Wind",
+        "race": "Brute",
+        "level": "Lv 70",
+        "hp": "2,173,238 Hp",
+        "base_exp": "3,678 Base Exp",
+        "job_exp": "2,745 Job Exp",
+        "metadata": {
+            "description": "With the body and claws of the lion, the head and wings of the eagle, it has a powerful attacking power. It is a very powerful animal which dominates both the land and the sky. However, There are few strong people on the land who tamed them as mounts. If you don't have the strength, Don't try it easily!",
+            "common_data": {
+                "level": "70",
+                "type": "Mini Boss",
+                "zone": "Field",
+                "race": "Brute",
+                "element": "Wind",
+                "size": "Large",
+                "passive_level": "999",
+                "base_exp": "3,678",
+                "job_exp": "2,745"
+            },
+            "attribute_data": {
+                "atk": "1,500",
+                "matk": "750",
+                "def": "255",
+                "mdef": "64",
+                "hp": "2,173,238",
+                "hit": "277",
+                "flee": "167",
+                "move_spd": "135",
+                "atk_spd": "2"
+            },
+            "card_data": {
+                "imgsrc": "www.roguard.net/content/img/cards/card_20009.jpg",
+                "name": "Gryphon Card",
+                "effect": null,
+                "perma_buff": [
+                    "<div style=\"text-align: center;\">Atk ＋8</div>",
+                    "Atk ＋8"
+                ]
+            },
+            "drop_data": [
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_45041.png",
+                    "name": "Feather Beret [1] Blueprint",
+                    "drop_rate": "0.83%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/19.png",
+                    "name": "Gryphon Card",
+                    "drop_rate": "?%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_52154.png",
+                    "name": "Glass Bead",
+                    "drop_rate": "13.18%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_52310.png",
+                    "name": "Soft Feather",
+                    "drop_rate": "6.7%"
+                },
+                {
+                    "imgsrc": null,
+                    "name": "Transformation Scroll (Gryphon)",
+                    "drop_rate": "2.65%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_5113.png",
+                    "name": "Rough Wind",
+                    "drop_rate": "17.71%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_5002.png",
+                    "name": "Oridecon",
+                    "drop_rate": "3.09%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
+                    "name": "Zeny",
+                    "drop_rate": "0.24%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_42030.png",
+                    "name": "Army Armor [1]",
+                    "drop_rate": "55.55%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_43025.png",
+                    "name": "Doflamingo Cape",
+                    "drop_rate": "100%"
+                }
+            ],
+            "location_data": []
+        }
+    },
+    {
+        "imgsrc": "www.roguard.net/content/img/icons/monsters/mantis_monster.png",
+        "name": "Mantis",
+        "element": "Earth",
+        "race": "Insect",
+        "level": "Lv 65",
+        "hp": "26,232 Hp",
+        "base_exp": "872 Base Exp",
+        "job_exp": "550 Job Exp",
+        "metadata": {
+            "description": "A very aggressive insect monster and full of energy. It's carnivorous but it unexpectedly coexists peacefully with most Plant monsters, and occasionally helps when the latter encounters danger. The church attributes this behavior like dolphins saving human beings as a manifestation of the divine nature.",
+            "common_data": {
+                "level": "65",
+                "type": "Monster",
+                "zone": "Field",
+                "race": "Insect",
+                "element": "Earth",
+                "size": "Medium",
+                "passive_level": "40",
+                "base_exp": "872",
+                "job_exp": "550"
+            },
+            "attribute_data": {
+                "atk": "498",
+                "matk": "174",
+                "def": "164",
+                "mdef": "200",
+                "hp": "26,232",
+                "hit": "29",
+                "flee": "158",
+                "move_spd": "45",
+                "atk_spd": "0.5"
+            },
+            "card_data": {
+                "imgsrc": "www.roguard.net/content/img/icons/items/19.png",
+                "name": "Zargon",
+                "effect": null,
+                "perma_buff": null
+            },
+            "drop_data": [],
+            "location_data": []
+        }
+    },
+    {
+        "imgsrc": "www.roguard.net/content/img/icons/monsters/sohee_monster.png",
+        "name": "Sohee",
+        "element": "Water",
+        "race": "Demon",
+        "level": "Lv 67",
+        "hp": "31,703 Hp",
+        "base_exp": "456 Base Exp",
+        "job_exp": "280 Job Exp",
+        "metadata": {
+            "description": "Before her death, she was an ordinary girl with a beautiful appearance, but somehow she ended up with hate and became a ghost to continue to wander. Maybe it’s because of love, Or unwillingness... Who knows? Everyone has their own stories...",
+            "common_data": {
+                "level": "67",
+                "type": "Monster",
+                "zone": "Field",
+                "race": "Demon",
+                "element": "Water",
+                "size": "Medium",
+                "passive_level": "40",
+                "base_exp": "456",
+                "job_exp": "280"
+            },
+            "attribute_data": {
+                "atk": "248",
+                "matk": "138",
+                "def": "91",
+                "mdef": "67",
+                "hp": "31,703",
+                "hit": "87",
+                "flee": "66",
+                "move_spd": "60",
+                "atk_spd": "0.47"
+            },
+            "card_data": {
+                "imgsrc": "www.roguard.net/content/img/cards/card_10065.jpg",
+                "name": "Sohee Card",
+                "effect": "Max SP ＋15%, SP Regen ＋2",
+                "perma_buff": [
+                    "<div style=\"text-align: center;\">Max SP ＋20</div>",
+                    "Max SP ＋20"
+                ]
+            },
+            "drop_data": [
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_45094.png",
+                    "name": "Decorative Golden Bell Blueprint",
+                    "drop_rate": "?%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_52102.png",
+                    "name": "Zargon",
+                    "drop_rate": "17.66%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_12004.png",
+                    "name": "Transformation Scroll (Sohee)",
+                    "drop_rate": "0.02%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
+                    "name": "Zeny",
+                    "drop_rate": "68.02%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
+                    "name": "Zeny",
+                    "drop_rate": "68.02%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_12310.png",
+                    "name": "Apple Juice",
+                    "drop_rate": "7.45%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_5110.png",
+                    "name": "Mystic Frozen",
+                    "drop_rate": "0.47%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_60009.png",
+                    "name": "Immortal Orb [1]",
+                    "drop_rate": "0.53%"
+                }
+            ],
+            "location_data": [
+                {
+                    "location": "Payon Cave 2F",
+                    "suggestion_level": "(Lv65~72)"
+                },
+                {
+                    "location": "Payon Cave 3F",
+                    "suggestion_level": "(Lv65~72)"
+                }
+            ]
+        }
+    },
+    {
+        "imgsrc": "www.roguard.net/content/img/icons/monsters/horong_monster.png",
+        "name": "Horong",
+        "element": "Fire",
+        "race": "Formless",
+        "level": "Lv 62",
+        "hp": "24,165 Hp",
+        "base_exp": "423 Base Exp",
+        "job_exp": "258 Job Exp",
+        "metadata": {
+            "description": "The ghost fire of the dead, which will quietly follow the passers-by and launch a sneak attack. Remember: If you find that you are followed by it, please Flee quickly, Otherwise you will be attacked and killed and become the next soul!",
+            "common_data": {
+                "level": "62",
+                "type": "Monster",
+                "zone": "Field",
+                "race": "Formless",
+                "element": "Fire",
+                "size": "Small",
+                "passive_level": "40",
+                "base_exp": "423",
+                "job_exp": "258"
+            },
+            "attribute_data": {
+                "atk": "174",
+                "matk": "108",
+                "def": "83",
+                "mdef": "59",
+                "hp": "24,165",
+                "hit": "82",
+                "flee": "68",
+                "move_spd": "60",
+                "atk_spd": "0.6"
+            },
+            "card_data": {
+                "imgsrc": "www.roguard.net/content/img/cards/card_10058.jpg",
+                "name": "Horong Card",
+                "effect": "Can use Skill - [ Sight] Lv.1",
+                "perma_buff": [
+                    "<div style=\"text-align: center;\">M.Def ＋4</div>",
+                    "M.Def ＋4"
+                ]
+            },
+            "drop_data": [
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_45040.png",
+                    "name": "Bomb Wick Blueprint",
+                    "drop_rate": "?%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_12101.png",
+                    "name": "Scarlet Dyestuffs",
+                    "drop_rate": "0.14%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_5004.png",
+                    "name": "Rough Elunium",
+                    "drop_rate": "0.21%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_12004.png",
+                    "name": "Transformation Scroll (Horong)",
+                    "drop_rate": "0.01%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
+                    "name": "Zeny",
+                    "drop_rate": "83.24%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
+                    "name": "Zeny",
+                    "drop_rate": "83.24%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_5112.png",
+                    "name": "Flame Heart",
+                    "drop_rate": "0.18%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_12501.png",
+                    "name": "Fire Arrow",
+                    "drop_rate": "6.02%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_52405.png",
+                    "name": "Mercury",
+                    "drop_rate": "2.54%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_40903.png",
+                    "name": "Army Katar [2]",
+                    "drop_rate": "0.44%"
+                }
+            ],
+            "location_data": [
+                {
+                    "location": "Payon Cave 2F",
+                    "suggestion_level": "(Lv65~72)"
+                },
+                {
+                    "location": "Payon Forest",
+                    "suggestion_level": "(Lv59~62)"
+                },
+                {
+                    "location": "Payon Cave 3F",
+                    "suggestion_level": "(Lv65~72)"
+                }
+            ]
+        }
+    },
+    {
+        "imgsrc": "www.roguard.net/content/img/icons/monsters/skeleton_monster.png",
+        "name": "Archer Skeleton",
+        "element": "Undead",
+        "race": "Undead",
+        "level": "Lv 66",
+        "hp": "30,196 Hp",
+        "base_exp": "461 Base Exp",
+        "job_exp": "269 Job Exp",
+        "metadata": {
+            "description": "Before his death, he was a skilled archer and never missed. After being resurrected, he was training hard. He likes to compete with Orc Archers, Gargoyles and Raydric Archers. He uses one eye to shoot and the accuracy is far ahead...",
+            "common_data": {
+                "level": "66",
+                "type": "Monster",
+                "zone": "Field",
+                "race": "Undead",
+                "element": "Undead",
+                "size": "Medium",
+                "passive_level": "40",
+                "base_exp": "461",
+                "job_exp": "269"
+            },
+            "attribute_data": {
+                "atk": "234",
+                "matk": "135",
+                "def": "89",
+                "mdef": "49",
+                "hp": "30,196",
+                "hit": "110",
+                "flee": "20",
+                "move_spd": "75",
+                "atk_spd": "0.35"
+            },
+            "card_data": {
+                "imgsrc": "www.roguard.net/content/img/cards/card_10063.jpg",
+                "name": "Archer Skeleton Card",
+                "effect": null,
+                "perma_buff": [
+                    "<div style=\"text-align: center;\">Atk ＋8</div>",
+                    "Atk ＋8"
+                ]
+            },
+            "drop_data": [
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_45045.png",
+                    "name": "Apple of Archer Blueprint",
+                    "drop_rate": "?%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/19.png",
+                    "name": "Archer Skeleton Card",
+                    "drop_rate": "?%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_52102.png",
+                    "name": "Zargon",
+                    "drop_rate": "18.6%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_5001.png",
+                    "name": "Rough Oridecon",
+                    "drop_rate": "0.58%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_12004.png",
+                    "name": "Transformation Scroll (Archer Skeleton)",
+                    "drop_rate": "0.02%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
+                    "name": "Zeny",
+                    "drop_rate": "58.2%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
+                    "name": "Zeny",
+                    "drop_rate": "58.2%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_12026.png",
+                    "name": "Awakening Potion",
+                    "drop_rate": "0.28%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_12501.png",
+                    "name": "Fire Arrow",
+                    "drop_rate": "16.82%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_41209.png",
+                    "name": "Army Bow [2]",
+                    "drop_rate": "0.46%"
+                }
+            ],
+            "location_data": [
+                {
+                    "location": "Pyramid 2F",
+                    "suggestion_level": "(Lv64~68)"
+                },
+                {
+                    "location": "Pyramid 3F",
+                    "suggestion_level": "(Lv64~68)"
+                }
+            ]
+        }
+    },
+    {
+        "imgsrc": "www.roguard.net/content/img/icons/monsters/dokebi_monster.png",
+        "name": "Dokebi",
+        "element": "Shadow",
+        "race": "Demon",
+        "level": "Lv 69",
+        "hp": "34,720 Hp",
+        "base_exp": "514 Base Exp",
+        "job_exp": "263 Job Exp",
+        "metadata": {
+            "description": "The long-established indigenous people who are extremely seeking for strength and money. Although they have lived in the cave for a long time and have not seen too many things outside, They can still keep up with the trend. In order to get the Wig they covet, They have a deep understanding of the color.",
+            "common_data": {
+                "level": "69",
+                "type": "Monster",
+                "zone": "Field",
+                "race": "Demon",
+                "element": "Shadow",
+                "size": "Small",
+                "passive_level": "40",
+                "base_exp": "514",
+                "job_exp": "263"
+            },
+            "attribute_data": {
+                "atk": "278",
+                "matk": "144",
+                "def": "340",
+                "mdef": "20",
+                "hp": "34,720",
+                "hit": "89",
+                "flee": "83",
+                "move_spd": "60",
+                "atk_spd": "0.86"
+            },
+            "card_data": {
+                "imgsrc": "www.roguard.net/content/img/cards/card_10066.jpg",
+                "name": "Dokebi Card",
+                "effect": "Turn the armor's element into Wind",
+                "perma_buff": [
+                    "<div style=\"text-align: center;\">Def ＋4</div>",
+                    "Def ＋4"
+                ]
+            },
+            "drop_data": [
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_45184.png",
+                    "name": "Dokebi Horn [1] Blueprint",
+                    "drop_rate": "?%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/19.png",
+                    "name": "Dokebi Card",
+                    "drop_rate": "?%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_5004.png",
+                    "name": "Rough Elunium",
+                    "drop_rate": "0.33%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_12004.png",
+                    "name": "Transformation Scroll (Dokebi)",
+                    "drop_rate": "0.01%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
+                    "name": "Zeny",
+                    "drop_rate": "88.89%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
+                    "name": "Zeny",
+                    "drop_rate": "88.89%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_12121.png",
+                    "name": "Candy",
+                    "drop_rate": "0.44%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_52405.png",
+                    "name": "Mercury",
+                    "drop_rate": "2.25%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_43532.png",
+                    "name": "Army Boots [1]",
+                    "drop_rate": "0.39%"
+                }
+            ],
+            "location_data": [
+                {
+                    "location": "Payon Cave 2F",
+                    "suggestion_level": "(Lv65~72)"
+                },
+                {
+                    "location": "Payon Cave 3F",
+                    "suggestion_level": "(Lv65~72)"
+                }
+            ]
+        }
+    },
+    {
+        "imgsrc": "www.roguard.net/content/img/icons/monsters/sohee_monster.png",
+        "name": "Sohee ★",
+        "element": "Water",
+        "race": "Demon",
+        "level": "Lv 67",
+        "hp": "131,286 Hp",
+        "base_exp": "2,280 Base Exp",
+        "job_exp": "1,400 Job Exp",
+        "metadata": {
+            "description": "Before her death, she was an ordinary girl with a beautiful appearance, but somehow she ended up with hate and became a ghost to continue to wander. Maybe it’s because of love, Or unwillingness... Who knows? Everyone has their own stories...",
+            "common_data": {
+                "level": "67",
+                "type": "Monster",
+                "zone": "Field",
+                "race": "Demon",
+                "element": "Water",
+                "size": "Medium",
+                "passive_level": "40",
+                "base_exp": "2,280",
+                "job_exp": "1,400"
+            },
+            "attribute_data": {
+                "atk": "675",
+                "matk": "257",
+                "def": "0",
+                "mdef": "13",
+                "hp": "131,286",
+                "hit": "181",
+                "flee": "66",
+                "move_spd": "60",
+                "atk_spd": "0.47"
+            },
+            "card_data": {
+                "imgsrc": "www.roguard.net/content/img/icons/items/item_45094.png",
+                "name": "Sohee Card",
+                "effect": null,
+                "perma_buff": null
+            },
+            "drop_data": [],
+            "location_data": []
+        }
+    },
+    {
+        "imgsrc": "www.roguard.net/content/img/icons/monsters/wilow_huge1_mini.png",
         "name": "Wood Goblin",
         "element": "Earth",
         "race": "Plant",
@@ -289,7 +991,488 @@
         }
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/monsters/phreeoni_mvp.png",
+        "imgsrc": "www.roguard.net/content/img/icons/monsters/munak_monster.png",
+        "name": "Munak",
+        "element": "Undead",
+        "race": "Undead",
+        "level": "Lv 63",
+        "hp": "25,672 Hp",
+        "base_exp": "462 Base Exp",
+        "job_exp": "244 Job Exp",
+        "metadata": {
+            "description": "The childhood sweetheart of Bongun, but because of family factors, she was forced to separate from her heartheart. Then she died early because she missed him too much. Being attached by a charm and resurrected, she lost all of her memories. She can only subconsciously look for him... The farthest distance in the world is that the one is by your side but you can't recognize him...",
+            "common_data": {
+                "level": "63",
+                "type": "Monster",
+                "zone": "Field",
+                "race": "Undead",
+                "element": "Undead",
+                "size": "Medium",
+                "passive_level": "40",
+                "base_exp": "462",
+                "job_exp": "244"
+            },
+            "attribute_data": {
+                "atk": "189",
+                "matk": "115",
+                "def": "84",
+                "mdef": "45",
+                "hp": "25,672",
+                "hit": "83",
+                "flee": "45",
+                "move_spd": "60",
+                "atk_spd": "0.6"
+            },
+            "card_data": {
+                "imgsrc": "www.roguard.net/content/img/cards/card_10060.jpg",
+                "name": "Munak Card",
+                "effect": "Earth Dmg Taken -10%, Def ＋10",
+                "perma_buff": [
+                    "<div style=\"text-align: center;\">M.Atk ＋3</div>",
+                    "M.Atk ＋3"
+                ]
+            },
+            "drop_data": [
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_45043.png",
+                    "name": "Munak Hat [1] Blueprint",
+                    "drop_rate": "?%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/19.png",
+                    "name": "Munak Card",
+                    "drop_rate": "?%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_52203.png",
+                    "name": "Immortal Heart",
+                    "drop_rate": "30.6%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_12004.png",
+                    "name": "Transformation Scroll (Munak)",
+                    "drop_rate": "0.58%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
+                    "name": "Zeny",
+                    "drop_rate": "59.99%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
+                    "name": "Zeny",
+                    "drop_rate": "59.99%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_12002.png",
+                    "name": "Orange Potion",
+                    "drop_rate": "3.18%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_40333.png",
+                    "name": "Army Sword [2]",
+                    "drop_rate": "0.47%"
+                }
+            ],
+            "location_data": [
+                {
+                    "location": "Payon Cave 1F",
+                    "suggestion_level": "(Lv61~65)"
+                }
+            ]
+        }
+    },
+    {
+        "imgsrc": "www.roguard.net/content/img/icons/monsters/bon_cun_monster.png",
+        "name": "Bongun",
+        "element": "Undead",
+        "race": "Undead",
+        "level": "Lv 65",
+        "hp": "28,688 Hp",
+        "base_exp": "459 Base Exp",
+        "job_exp": "262 Job Exp",
+        "metadata": {
+            "description": "Before his death, he lived in Payon and was the childhood sweetheart of Munak. Later, after learning that Munak died, he also died. Being attached by a charm and resurrected, he lost all of his memories. He can only subconsciously look for her... The farthest distance in the world is that the one is by your side but you can't recognize her...",
+            "common_data": {
+                "level": "65",
+                "type": "Monster",
+                "zone": "Field",
+                "race": "Undead",
+                "element": "Undead",
+                "size": "Medium",
+                "passive_level": "40",
+                "base_exp": "459",
+                "job_exp": "262"
+            },
+            "attribute_data": {
+                "atk": "218",
+                "matk": "130",
+                "def": "88",
+                "mdef": "48",
+                "hp": "28,688",
+                "hit": "85",
+                "flee": "47",
+                "move_spd": "60",
+                "atk_spd": "0.58"
+            },
+            "card_data": {
+                "imgsrc": "www.roguard.net/content/img/cards/card_10061.jpg",
+                "name": "Bongun Card",
+                "effect": "auto attack has a 3% chance to trigger [Bash] Lv.5",
+                "perma_buff": [
+                    "<div style=\"text-align: center;\">M.Def ＋2</div>",
+                    "M.Def ＋2"
+                ]
+            },
+            "drop_data": [
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_45044.png",
+                    "name": "Bongun Hat [1] Blueprint",
+                    "drop_rate": "?%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/19.png",
+                    "name": "Bongun Card",
+                    "drop_rate": "?%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_12004.png",
+                    "name": "Transformation Scroll (Bongun)",
+                    "drop_rate": "0.81%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
+                    "name": "Zeny",
+                    "drop_rate": "81.71%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
+                    "name": "Zeny",
+                    "drop_rate": "81.71%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_12002.png",
+                    "name": "Orange Potion",
+                    "drop_rate": "5.99%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_52405.png",
+                    "name": "Mercury",
+                    "drop_rate": "3.75%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_41536.png",
+                    "name": "Army Hammer [2]",
+                    "drop_rate": "0.65%"
+                }
+            ],
+            "location_data": [
+                {
+                    "location": "Payon Cave 1F",
+                    "suggestion_level": "(Lv61~65)"
+                },
+                {
+                    "location": "Payon Cave 2F",
+                    "suggestion_level": "(Lv65~72)"
+                },
+                {
+                    "location": "Payon Cave 3F",
+                    "suggestion_level": "(Lv65~72)"
+                }
+            ]
+        }
+    },
+    {
+        "imgsrc": "www.roguard.net/content/img/icons/monsters/orc_archer_monster.png",
+        "name": "Orc Archer",
+        "element": "Earth",
+        "race": "Demi-Human",
+        "level": "Lv 71",
+        "hp": "40,276 Hp",
+        "base_exp": "358 Base Exp",
+        "job_exp": "370 Job Exp",
+        "metadata": {
+            "description": "A ranged Orc soldier who is vigorous and never miss the target. Received severe combat training from an early age, it has perfect combination of strength, Range and accuracy. Be careful when you're fighting against it, Otherwise you will be shot by the arrow and die!",
+            "common_data": {
+                "level": "71",
+                "type": "Monster",
+                "zone": "Field",
+                "race": "Demi-Human",
+                "element": "Earth",
+                "size": "Medium",
+                "passive_level": "40",
+                "base_exp": "358",
+                "job_exp": "370"
+            },
+            "attribute_data": {
+                "atk": "350",
+                "matk": "168",
+                "def": "98",
+                "mdef": "21",
+                "hp": "40,276",
+                "hit": "131",
+                "flee": "93",
+                "move_spd": "60",
+                "atk_spd": "0.51"
+            },
+            "card_data": {
+                "imgsrc": "www.roguard.net/content/img/cards/card_10069.jpg",
+                "name": "Orc Archer Card",
+                "effect": "When Demi-Human-like monsters are skilled, Caster has a 10% chance to restore 20 points of SP",
+                "perma_buff": [
+                    "<div style=\"text-align: center;\">Flee ＋10</div>",
+                    "Flee ＋10"
+                ]
+            },
+            "drop_data": [
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_45049.png",
+                    "name": "Orc Helm Blueprint",
+                    "drop_rate": "?%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/19.png",
+                    "name": "Orc Archer Card",
+                    "drop_rate": "?%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_52154.png",
+                    "name": "Glass Bead",
+                    "drop_rate": "21.3%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_12004.png",
+                    "name": "Transformation Scroll (Orc Archer)",
+                    "drop_rate": "0.54%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
+                    "name": "Zeny",
+                    "drop_rate": "71.29%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
+                    "name": "Zeny",
+                    "drop_rate": "71.29%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_12026.png",
+                    "name": "Awakening Potion",
+                    "drop_rate": "0.32%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_41210.png",
+                    "name": "Mercenary Bow [2]",
+                    "drop_rate": "0.46%"
+                }
+            ],
+            "location_data": [
+                {
+                    "location": "Orc Village",
+                    "suggestion_level": "(Lv70~73)"
+                },
+                {
+                    "location": "Orc Village South",
+                    "suggestion_level": "(Lv70~73)"
+                }
+            ]
+        }
+    },
+    {
+        "imgsrc": "www.roguard.net/content/img/icons/monsters/anubis_mini.png",
+        "name": "Anubis",
+        "element": "Undead",
+        "race": "Demi-Human",
+        "level": "Lv 70",
+        "hp": "2,173,238 Hp",
+        "base_exp": "3,572 Base Exp",
+        "job_exp": "2,807 Job Exp",
+        "metadata": {
+            "description": "A man with a wolf's head, with his ears up and his hand holding a staff. As the son of Osiris, he is his father's most loyal supporter and guardian. The power of gods should not be desecrated and the majesty of his father will last forever! Long live Osiris!",
+            "common_data": {
+                "level": "70",
+                "type": "Mini Boss",
+                "zone": "Field",
+                "race": "Demi-Human",
+                "element": "Undead",
+                "size": "Large",
+                "passive_level": "999",
+                "base_exp": "3,572",
+                "job_exp": "2,807"
+            },
+            "attribute_data": {
+                "atk": "1,440",
+                "matk": "720",
+                "def": "154",
+                "mdef": "53",
+                "hp": "2,173,238",
+                "hit": "242",
+                "flee": "140",
+                "move_spd": "135",
+                "atk_spd": "2"
+            },
+            "card_data": {
+                "imgsrc": "www.roguard.net/content/img/cards/card_20018.jpg",
+                "name": "Anubis Card",
+                "effect": "Angel monsters Dmg Taken -30%",
+                "perma_buff": [
+                    "<div style=\"text-align: center;\">Max HP ＋84</div>",
+                    "Max HP ＋84"
+                ]
+            },
+            "drop_data": [
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_45136.png",
+                    "name": "Pagdayaw [1] Blueprint",
+                    "drop_rate": "0.55%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/19.png",
+                    "name": "Anubis Card",
+                    "drop_rate": "?%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_52154.png",
+                    "name": "Glass Bead",
+                    "drop_rate": "6.75%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_52311.png",
+                    "name": "Bloody Rune",
+                    "drop_rate": "4.15%"
+                },
+                {
+                    "imgsrc": null,
+                    "name": "Transformation Scroll (Anubis)",
+                    "drop_rate": "1.54%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_5002.png",
+                    "name": "Oridecon",
+                    "drop_rate": "1.8%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_52504.png",
+                    "name": "Topaz",
+                    "drop_rate": "48.05%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
+                    "name": "Zeny",
+                    "drop_rate": "?%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_40025.png",
+                    "name": "Army Spear [2]",
+                    "drop_rate": "37.12%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_42006.png",
+                    "name": "Exorcist Robe",
+                    "drop_rate": "100%"
+                }
+            ],
+            "location_data": []
+        }
+    },
+    {
+        "imgsrc": "www.roguard.net/content/img/icons/monsters/minorous_monster.png",
+        "name": "Minorous",
+        "element": "Fire",
+        "race": "Brute",
+        "level": "Lv 64",
+        "hp": "27,181 Hp",
+        "base_exp": "507 Base Exp",
+        "job_exp": "226 Job Exp",
+        "metadata": {
+            "description": "It is huge and has super strength. When it is irritated, it will use a giant hammer to smash the enemy into meat. Grumpy, but because of the enviable thick muscles, it has been selected as the bodybuilding champion of the monster world for many times...",
+            "common_data": {
+                "level": "64",
+                "type": "Monster",
+                "zone": "Field",
+                "race": "Brute",
+                "element": "Fire",
+                "size": "Large",
+                "passive_level": "40",
+                "base_exp": "507",
+                "job_exp": "226"
+            },
+            "attribute_data": {
+                "atk": "203",
+                "matk": "122",
+                "def": "297",
+                "mdef": "19",
+                "hp": "27,181",
+                "hit": "84",
+                "flee": "47",
+                "move_spd": "60",
+                "atk_spd": "0.91"
+            },
+            "card_data": {
+                "imgsrc": "www.roguard.net/content/img/cards/card_10062.jpg",
+                "name": "Minorous Card",
+                "effect": "Damage to L-size monsters ＋25%, Atk ＋15",
+                "perma_buff": [
+                    "<div style=\"text-align: center;\">Atk ＋8</div>",
+                    "Atk ＋8"
+                ]
+            },
+            "drop_data": [
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_45183.png",
+                    "name": "Minorous Horn Blueprint",
+                    "drop_rate": "?%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/19.png",
+                    "name": "Minorous Card",
+                    "drop_rate": "?%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_5001.png",
+                    "name": "Rough Oridecon",
+                    "drop_rate": "1.26%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_12004.png",
+                    "name": "Transformation Scroll (Minorous)",
+                    "drop_rate": "0.03%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
+                    "name": "Zeny",
+                    "drop_rate": "86.68%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
+                    "name": "Zeny",
+                    "drop_rate": "86.68%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_52404.png",
+                    "name": "Gold Sand",
+                    "drop_rate": "3.92%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_42030.png",
+                    "name": "Army Armor [1]",
+                    "drop_rate": "0.68%"
+                }
+            ],
+            "location_data": [
+                {
+                    "location": "Pyramid 2F",
+                    "suggestion_level": "(Lv64~68)"
+                },
+                {
+                    "location": "Pyramid 3F",
+                    "suggestion_level": "(Lv64~68)"
+                }
+            ]
+        }
+    },
+    {
+        "imgsrc": "www.roguard.net/content/img/icons/monsters/phreeoni_mvp.png",
         "name": "Phreeoni",
         "element": "Neutral",
         "race": "Brute",
@@ -401,42 +1584,42 @@
         }
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/monsters/ninetail_monster.png",
-        "name": "Nine Tail",
-        "element": "Fire",
-        "race": "Brute",
-        "level": "Lv 72",
-        "hp": "44,313 Hp",
-        "base_exp": "669 Base Exp",
-        "job_exp": "197 Job Exp",
+        "imgsrc": "www.roguard.net/content/img/icons/monsters/orc_monster.png",
+        "name": "Orc Warrior",
+        "element": "Earth",
+        "race": "Demi-Human",
+        "level": "Lv 70",
+        "hp": "36,238 Hp",
+        "base_exp": "585 Base Exp",
+        "job_exp": "229 Job Exp",
         "metadata": {
-            "description": "A fox with nine tails. Legend has it that it can become a gorgeous woman to seduce men, With each tail having a different magic. It is said that when a fox has lived for more than a thousand years, it will become a Nine Tail. If you meet it, Don't be fooled by its charm!",
+            "description": "The most common Orc soldier. Even so, You can't underestimate its power. Since its duty is to guard the Orc Village, it never loaf on the job. It's always prepared and waiting for the enemy to come! Charge, For the Horde!",
             "common_data": {
-                "level": "72",
+                "level": "70",
                 "type": "Monster",
                 "zone": "Field",
-                "race": "Brute",
-                "element": "Fire",
+                "race": "Demi-Human",
+                "element": "Earth",
                 "size": "Medium",
                 "passive_level": "40",
-                "base_exp": "669",
-                "job_exp": "197"
+                "base_exp": "585",
+                "job_exp": "229"
             },
             "attribute_data": {
-                "atk": "313",
-                "matk": "176",
-                "def": "99",
+                "atk": "282",
+                "matk": "159",
+                "def": "350",
                 "mdef": "21",
-                "hp": "44,313",
-                "hit": "92",
-                "flee": "131",
-                "move_spd": "90",
-                "atk_spd": "0.49"
+                "hp": "36,238",
+                "hit": "130",
+                "flee": "48",
+                "move_spd": "60",
+                "atk_spd": "0.54"
             },
             "card_data": {
-                "imgsrc": "www.roguard.net/content/img/cards/card_10067.jpg",
-                "name": "Nine Tail Card",
-                "effect": "Agi ＋2, Flee ＋5",
+                "imgsrc": "www.roguard.net/content/img/cards/card_10068.jpg",
+                "name": "Orc Warrior Card",
+                "effect": "Damage reduction of brute race ＋20%",
                 "perma_buff": [
                     "<div style=\"text-align: center;\">Flee ＋10</div>",
                     "Flee ＋10"
@@ -444,468 +1627,60 @@
             },
             "drop_data": [
                 {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_48007.png",
-                    "name": "Nine Tails Blueprint",
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_48523.png",
+                    "name": "Cigarette Blueprint",
                     "drop_rate": "?%"
                 },
                 {
                     "imgsrc": "www.roguard.net/content/img/icons/items/19.png",
-                    "name": "Nine Tail Card",
+                    "name": "Orc Warrior Card",
                     "drop_rate": "?%"
                 },
                 {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_52102.png",
-                    "name": "Zargon",
-                    "drop_rate": "22.49%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_5004.png",
-                    "name": "Rough Elunium",
-                    "drop_rate": "0.71%"
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_5001.png",
+                    "name": "Rough Oridecon",
+                    "drop_rate": "0.92%"
                 },
                 {
                     "imgsrc": "www.roguard.net/content/img/icons/items/item_12004.png",
-                    "name": "Transformation Scroll (Nine Tail)",
-                    "drop_rate": "0.03%"
+                    "name": "Transformation Scroll (Orc Warrior)",
+                    "drop_rate": "0.87%"
                 },
                 {
                     "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
                     "name": "Zeny",
-                    "drop_rate": "68.48%"
+                    "drop_rate": "86.22%"
                 },
                 {
                     "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
                     "name": "Zeny",
-                    "drop_rate": "68.48%"
+                    "drop_rate": "86.22%"
                 },
                 {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_12326.png",
-                    "name": "Royal Jelly",
-                    "drop_rate": "0.11%"
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_52505.png",
+                    "name": "Skel-Bone",
+                    "drop_rate": "3.91%"
                 },
                 {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_12020.png",
-                    "name": "Dead Branch",
-                    "drop_rate": "0.84%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_12329.png",
-                    "name": "Panacea",
-                    "drop_rate": "0.81%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_42033.png",
-                    "name": "Mercenary Coat [1]",
-                    "drop_rate": "0.6%"
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_40334.png",
+                    "name": "Mercenary Sword [2]",
+                    "drop_rate": "0.68%"
                 }
             ],
             "location_data": [
                 {
-                    "location": "Payon Cave 2F",
-                    "suggestion_level": "(Lv65~72)"
+                    "location": "Orc Village",
+                    "suggestion_level": "(Lv70~73)"
                 },
                 {
-                    "location": "Payon Cave 3F",
-                    "suggestion_level": "(Lv65~72)"
+                    "location": "Orc Village South",
+                    "suggestion_level": "(Lv70~73)"
                 }
             ]
         }
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/monsters/dustiness_monster.png",
-        "name": "Dustiness",
-        "element": "Wind",
-        "race": "Insect",
-        "level": "Lv 62",
-        "hp": "12,479 Hp",
-        "base_exp": "826 Base Exp",
-        "job_exp": "530 Job Exp",
-        "metadata": {
-            "description": "Dustiness is a typical moth monster. Sharp outward fangs and excellent flying ability make it a nightmare for junior adventurers.",
-            "common_data": {
-                "level": "62",
-                "type": "Monster",
-                "zone": "Field",
-                "race": "Insect",
-                "element": "Wind",
-                "size": "Small",
-                "passive_level": "40",
-                "base_exp": "826",
-                "job_exp": "530"
-            },
-            "attribute_data": {
-                "atk": "349",
-                "matk": "174",
-                "def": "119",
-                "mdef": "163",
-                "hp": "12,479",
-                "hit": "39",
-                "flee": "125",
-                "move_spd": "90",
-                "atk_spd": "0.5"
-            },
-            "card_data": {
-                "imgsrc": "www.roguard.net/content/img/icons/items/19.png",
-                "name": "Scell",
-                "effect": null,
-                "perma_buff": null
-            },
-            "drop_data": [],
-            "location_data": []
-        }
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/monsters/dokebi_monster.png",
-        "name": "Dokebi",
-        "element": "Shadow",
-        "race": "Demon",
-        "level": "Lv 69",
-        "hp": "34,720 Hp",
-        "base_exp": "514 Base Exp",
-        "job_exp": "263 Job Exp",
-        "metadata": {
-            "description": "The long-established indigenous people who are extremely seeking for strength and money. Although they have lived in the cave for a long time and have not seen too many things outside, They can still keep up with the trend. In order to get the Wig they covet, They have a deep understanding of the color.",
-            "common_data": {
-                "level": "69",
-                "type": "Monster",
-                "zone": "Field",
-                "race": "Demon",
-                "element": "Shadow",
-                "size": "Small",
-                "passive_level": "40",
-                "base_exp": "514",
-                "job_exp": "263"
-            },
-            "attribute_data": {
-                "atk": "278",
-                "matk": "144",
-                "def": "340",
-                "mdef": "20",
-                "hp": "34,720",
-                "hit": "89",
-                "flee": "83",
-                "move_spd": "60",
-                "atk_spd": "0.86"
-            },
-            "card_data": {
-                "imgsrc": "www.roguard.net/content/img/cards/card_10066.jpg",
-                "name": "Dokebi Card",
-                "effect": "Turn the armor's element into Wind",
-                "perma_buff": [
-                    "<div style=\"text-align: center;\">Def ＋4</div>",
-                    "Def ＋4"
-                ]
-            },
-            "drop_data": [
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_45184.png",
-                    "name": "Dokebi Horn [1] Blueprint",
-                    "drop_rate": "?%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/19.png",
-                    "name": "Dokebi Card",
-                    "drop_rate": "?%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_5004.png",
-                    "name": "Rough Elunium",
-                    "drop_rate": "0.33%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_12004.png",
-                    "name": "Transformation Scroll (Dokebi)",
-                    "drop_rate": "0.01%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
-                    "name": "Zeny",
-                    "drop_rate": "88.89%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
-                    "name": "Zeny",
-                    "drop_rate": "88.89%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_12121.png",
-                    "name": "Candy",
-                    "drop_rate": "0.44%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_52405.png",
-                    "name": "Mercury",
-                    "drop_rate": "2.25%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_43532.png",
-                    "name": "Army Boots [1]",
-                    "drop_rate": "0.39%"
-                }
-            ],
-            "location_data": [
-                {
-                    "location": "Payon Cave 2F",
-                    "suggestion_level": "(Lv65~72)"
-                },
-                {
-                    "location": "Payon Cave 3F",
-                    "suggestion_level": "(Lv65~72)"
-                }
-            ]
-        }
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/monsters/mantis_monster.png",
-        "name": "Mantis",
-        "element": "Earth",
-        "race": "Insect",
-        "level": "Lv 65",
-        "hp": "26,232 Hp",
-        "base_exp": "872 Base Exp",
-        "job_exp": "550 Job Exp",
-        "metadata": {
-            "description": "A very aggressive insect monster and full of energy. It's carnivorous but it unexpectedly coexists peacefully with most Plant monsters, and occasionally helps when the latter encounters danger. The church attributes this behavior like dolphins saving human beings as a manifestation of the divine nature.",
-            "common_data": {
-                "level": "65",
-                "type": "Monster",
-                "zone": "Field",
-                "race": "Insect",
-                "element": "Earth",
-                "size": "Medium",
-                "passive_level": "40",
-                "base_exp": "872",
-                "job_exp": "550"
-            },
-            "attribute_data": {
-                "atk": "498",
-                "matk": "174",
-                "def": "164",
-                "mdef": "200",
-                "hp": "26,232",
-                "hit": "29",
-                "flee": "158",
-                "move_spd": "45",
-                "atk_spd": "0.5"
-            },
-            "card_data": {
-                "imgsrc": "www.roguard.net/content/img/icons/items/19.png",
-                "name": "Zargon",
-                "effect": null,
-                "perma_buff": null
-            },
-            "drop_data": [],
-            "location_data": []
-        }
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/monsters/horong_monster.png",
-        "name": "Horong",
-        "element": "Fire",
-        "race": "Formless",
-        "level": "Lv 62",
-        "hp": "24,165 Hp",
-        "base_exp": "423 Base Exp",
-        "job_exp": "258 Job Exp",
-        "metadata": {
-            "description": "The ghost fire of the dead, which will quietly follow the passers-by and launch a sneak attack. Remember: If you find that you are followed by it, please Flee quickly, Otherwise you will be attacked and killed and become the next soul!",
-            "common_data": {
-                "level": "62",
-                "type": "Monster",
-                "zone": "Field",
-                "race": "Formless",
-                "element": "Fire",
-                "size": "Small",
-                "passive_level": "40",
-                "base_exp": "423",
-                "job_exp": "258"
-            },
-            "attribute_data": {
-                "atk": "174",
-                "matk": "108",
-                "def": "83",
-                "mdef": "59",
-                "hp": "24,165",
-                "hit": "82",
-                "flee": "68",
-                "move_spd": "60",
-                "atk_spd": "0.6"
-            },
-            "card_data": {
-                "imgsrc": "www.roguard.net/content/img/cards/card_10058.jpg",
-                "name": "Horong Card",
-                "effect": "Can use Skill - [ Sight] Lv.1",
-                "perma_buff": [
-                    "<div style=\"text-align: center;\">M.Def ＋4</div>",
-                    "M.Def ＋4"
-                ]
-            },
-            "drop_data": [
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_45040.png",
-                    "name": "Bomb Wick Blueprint",
-                    "drop_rate": "?%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_12101.png",
-                    "name": "Scarlet Dyestuffs",
-                    "drop_rate": "0.14%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_5004.png",
-                    "name": "Rough Elunium",
-                    "drop_rate": "0.21%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_12004.png",
-                    "name": "Transformation Scroll (Horong)",
-                    "drop_rate": "0.01%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
-                    "name": "Zeny",
-                    "drop_rate": "83.24%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
-                    "name": "Zeny",
-                    "drop_rate": "83.24%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_5112.png",
-                    "name": "Flame Heart",
-                    "drop_rate": "0.18%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_12501.png",
-                    "name": "Fire Arrow",
-                    "drop_rate": "6.02%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_52405.png",
-                    "name": "Mercury",
-                    "drop_rate": "2.54%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_40903.png",
-                    "name": "Army Katar [2]",
-                    "drop_rate": "0.44%"
-                }
-            ],
-            "location_data": [
-                {
-                    "location": "Payon Cave 2F",
-                    "suggestion_level": "(Lv65~72)"
-                },
-                {
-                    "location": "Payon Forest",
-                    "suggestion_level": "(Lv59~62)"
-                },
-                {
-                    "location": "Payon Cave 3F",
-                    "suggestion_level": "(Lv65~72)"
-                }
-            ]
-        }
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/monsters/sohee_monster.png",
-        "name": "Sohee",
-        "element": "Water",
-        "race": "Demon",
-        "level": "Lv 67",
-        "hp": "31,703 Hp",
-        "base_exp": "456 Base Exp",
-        "job_exp": "280 Job Exp",
-        "metadata": {
-            "description": "Before her death, she was an ordinary girl with a beautiful appearance, but somehow she ended up with hate and became a ghost to continue to wander. Maybe it’s because of love, Or unwillingness... Who knows? Everyone has their own stories...",
-            "common_data": {
-                "level": "67",
-                "type": "Monster",
-                "zone": "Field",
-                "race": "Demon",
-                "element": "Water",
-                "size": "Medium",
-                "passive_level": "40",
-                "base_exp": "456",
-                "job_exp": "280"
-            },
-            "attribute_data": {
-                "atk": "248",
-                "matk": "138",
-                "def": "91",
-                "mdef": "67",
-                "hp": "31,703",
-                "hit": "87",
-                "flee": "66",
-                "move_spd": "60",
-                "atk_spd": "0.47"
-            },
-            "card_data": {
-                "imgsrc": "www.roguard.net/content/img/cards/card_10065.jpg",
-                "name": "Sohee Card",
-                "effect": "Max SP ＋15%, SP Regen ＋2",
-                "perma_buff": [
-                    "<div style=\"text-align: center;\">Max SP ＋20</div>",
-                    "Max SP ＋20"
-                ]
-            },
-            "drop_data": [
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_45094.png",
-                    "name": "Decorative Golden Bell Blueprint",
-                    "drop_rate": "?%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_52102.png",
-                    "name": "Zargon",
-                    "drop_rate": "17.66%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_12004.png",
-                    "name": "Transformation Scroll (Sohee)",
-                    "drop_rate": "0.02%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
-                    "name": "Zeny",
-                    "drop_rate": "68.02%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
-                    "name": "Zeny",
-                    "drop_rate": "68.02%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_12310.png",
-                    "name": "Apple Juice",
-                    "drop_rate": "7.45%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_5110.png",
-                    "name": "Mystic Frozen",
-                    "drop_rate": "0.47%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_60009.png",
-                    "name": "Immortal Orb [1]",
-                    "drop_rate": "0.53%"
-                }
-            ],
-            "location_data": [
-                {
-                    "location": "Payon Cave 2F",
-                    "suggestion_level": "(Lv65~72)"
-                },
-                {
-                    "location": "Payon Cave 3F",
-                    "suggestion_level": "(Lv65~72)"
-                }
-            ]
-        }
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/monsters/eddga_mvp.png",
+        "imgsrc": "www.roguard.net/content/img/icons/monsters/eddga_mvp.png",
         "name": "Eddga",
         "element": "Fire",
         "race": "Brute",
@@ -1019,781 +1794,6 @@
                 }
             ],
             "location_data": []
-        }
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/monsters/sohee_monster.png",
-        "name": "Sohee ★",
-        "element": "Water",
-        "race": "Demon",
-        "level": "Lv 67",
-        "hp": "131,286 Hp",
-        "base_exp": "2,280 Base Exp",
-        "job_exp": "1,400 Job Exp",
-        "metadata": {
-            "description": "Before her death, she was an ordinary girl with a beautiful appearance, but somehow she ended up with hate and became a ghost to continue to wander. Maybe it’s because of love, Or unwillingness... Who knows? Everyone has their own stories...",
-            "common_data": {
-                "level": "67",
-                "type": "Monster",
-                "zone": "Field",
-                "race": "Demon",
-                "element": "Water",
-                "size": "Medium",
-                "passive_level": "40",
-                "base_exp": "2,280",
-                "job_exp": "1,400"
-            },
-            "attribute_data": {
-                "atk": "675",
-                "matk": "257",
-                "def": "0",
-                "mdef": "13",
-                "hp": "131,286",
-                "hit": "181",
-                "flee": "66",
-                "move_spd": "60",
-                "atk_spd": "0.47"
-            },
-            "card_data": {
-                "imgsrc": "www.roguard.net/content/img/icons/items/item_45094.png",
-                "name": "Sohee Card",
-                "effect": null,
-                "perma_buff": null
-            },
-            "drop_data": [],
-            "location_data": []
-        }
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/monsters/grypjon_mini.png",
-        "name": "Gryphon",
-        "element": "Wind",
-        "race": "Brute",
-        "level": "Lv 70",
-        "hp": "2,173,238 Hp",
-        "base_exp": "3,678 Base Exp",
-        "job_exp": "2,745 Job Exp",
-        "metadata": {
-            "description": "With the body and claws of the lion, the head and wings of the eagle, it has a powerful attacking power. It is a very powerful animal which dominates both the land and the sky. However, There are few strong people on the land who tamed them as mounts. If you don't have the strength, Don't try it easily!",
-            "common_data": {
-                "level": "70",
-                "type": "Mini Boss",
-                "zone": "Field",
-                "race": "Brute",
-                "element": "Wind",
-                "size": "Large",
-                "passive_level": "999",
-                "base_exp": "3,678",
-                "job_exp": "2,745"
-            },
-            "attribute_data": {
-                "atk": "1,500",
-                "matk": "750",
-                "def": "255",
-                "mdef": "64",
-                "hp": "2,173,238",
-                "hit": "277",
-                "flee": "167",
-                "move_spd": "135",
-                "atk_spd": "2"
-            },
-            "card_data": {
-                "imgsrc": "www.roguard.net/content/img/cards/card_20009.jpg",
-                "name": "Gryphon Card",
-                "effect": null,
-                "perma_buff": [
-                    "<div style=\"text-align: center;\">Atk ＋8</div>",
-                    "Atk ＋8"
-                ]
-            },
-            "drop_data": [
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_45041.png",
-                    "name": "Feather Beret [1] Blueprint",
-                    "drop_rate": "0.83%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/19.png",
-                    "name": "Gryphon Card",
-                    "drop_rate": "?%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_52154.png",
-                    "name": "Glass Bead",
-                    "drop_rate": "13.18%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_52310.png",
-                    "name": "Soft Feather",
-                    "drop_rate": "6.7%"
-                },
-                {
-                    "imgsrc": null,
-                    "name": "Transformation Scroll (Gryphon)",
-                    "drop_rate": "2.65%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_5113.png",
-                    "name": "Rough Wind",
-                    "drop_rate": "17.71%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_5002.png",
-                    "name": "Oridecon",
-                    "drop_rate": "3.09%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
-                    "name": "Zeny",
-                    "drop_rate": "0.24%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_42030.png",
-                    "name": "Army Armor [1]",
-                    "drop_rate": "55.55%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_43025.png",
-                    "name": "Doflamingo Cape",
-                    "drop_rate": "100%"
-                }
-            ],
-            "location_data": []
-        }
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/monsters/anubis_mini.png",
-        "name": "Anubis",
-        "element": "Undead",
-        "race": "Demi-Human",
-        "level": "Lv 70",
-        "hp": "2,173,238 Hp",
-        "base_exp": "3,572 Base Exp",
-        "job_exp": "2,807 Job Exp",
-        "metadata": {
-            "description": "A man with a wolf's head, with his ears up and his hand holding a staff. As the son of Osiris, he is his father's most loyal supporter and guardian. The power of gods should not be desecrated and the majesty of his father will last forever! Long live Osiris!",
-            "common_data": {
-                "level": "70",
-                "type": "Mini Boss",
-                "zone": "Field",
-                "race": "Demi-Human",
-                "element": "Undead",
-                "size": "Large",
-                "passive_level": "999",
-                "base_exp": "3,572",
-                "job_exp": "2,807"
-            },
-            "attribute_data": {
-                "atk": "1,440",
-                "matk": "720",
-                "def": "154",
-                "mdef": "53",
-                "hp": "2,173,238",
-                "hit": "242",
-                "flee": "140",
-                "move_spd": "135",
-                "atk_spd": "2"
-            },
-            "card_data": {
-                "imgsrc": "www.roguard.net/content/img/cards/card_20018.jpg",
-                "name": "Anubis Card",
-                "effect": "Angel monsters Dmg Taken -30%",
-                "perma_buff": [
-                    "<div style=\"text-align: center;\">Max HP ＋84</div>",
-                    "Max HP ＋84"
-                ]
-            },
-            "drop_data": [
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_45136.png",
-                    "name": "Pagdayaw [1] Blueprint",
-                    "drop_rate": "0.55%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/19.png",
-                    "name": "Anubis Card",
-                    "drop_rate": "?%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_52154.png",
-                    "name": "Glass Bead",
-                    "drop_rate": "6.75%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_52311.png",
-                    "name": "Bloody Rune",
-                    "drop_rate": "4.15%"
-                },
-                {
-                    "imgsrc": null,
-                    "name": "Transformation Scroll (Anubis)",
-                    "drop_rate": "1.54%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_5002.png",
-                    "name": "Oridecon",
-                    "drop_rate": "1.8%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_52504.png",
-                    "name": "Topaz",
-                    "drop_rate": "48.05%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
-                    "name": "Zeny",
-                    "drop_rate": "?%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_40025.png",
-                    "name": "Army Spear [2]",
-                    "drop_rate": "37.12%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_42006.png",
-                    "name": "Exorcist Robe",
-                    "drop_rate": "100%"
-                }
-            ],
-            "location_data": []
-        }
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/monsters/munak_monster.png",
-        "name": "Munak",
-        "element": "Undead",
-        "race": "Undead",
-        "level": "Lv 63",
-        "hp": "25,672 Hp",
-        "base_exp": "462 Base Exp",
-        "job_exp": "244 Job Exp",
-        "metadata": {
-            "description": "The childhood sweetheart of Bongun, but because of family factors, she was forced to separate from her heartheart. Then she died early because she missed him too much. Being attached by a charm and resurrected, she lost all of her memories. She can only subconsciously look for him... The farthest distance in the world is that the one is by your side but you can't recognize him...",
-            "common_data": {
-                "level": "63",
-                "type": "Monster",
-                "zone": "Field",
-                "race": "Undead",
-                "element": "Undead",
-                "size": "Medium",
-                "passive_level": "40",
-                "base_exp": "462",
-                "job_exp": "244"
-            },
-            "attribute_data": {
-                "atk": "189",
-                "matk": "115",
-                "def": "84",
-                "mdef": "45",
-                "hp": "25,672",
-                "hit": "83",
-                "flee": "45",
-                "move_spd": "60",
-                "atk_spd": "0.6"
-            },
-            "card_data": {
-                "imgsrc": "www.roguard.net/content/img/cards/card_10060.jpg",
-                "name": "Munak Card",
-                "effect": "Earth Dmg Taken -10%, Def ＋10",
-                "perma_buff": [
-                    "<div style=\"text-align: center;\">M.Atk ＋3</div>",
-                    "M.Atk ＋3"
-                ]
-            },
-            "drop_data": [
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_45043.png",
-                    "name": "Munak Hat [1] Blueprint",
-                    "drop_rate": "?%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/19.png",
-                    "name": "Munak Card",
-                    "drop_rate": "?%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_52203.png",
-                    "name": "Immortal Heart",
-                    "drop_rate": "30.6%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_12004.png",
-                    "name": "Transformation Scroll (Munak)",
-                    "drop_rate": "0.58%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
-                    "name": "Zeny",
-                    "drop_rate": "59.99%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
-                    "name": "Zeny",
-                    "drop_rate": "59.99%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_12002.png",
-                    "name": "Orange Potion",
-                    "drop_rate": "3.18%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_40333.png",
-                    "name": "Army Sword [2]",
-                    "drop_rate": "0.47%"
-                }
-            ],
-            "location_data": [
-                {
-                    "location": "Payon Cave 1F",
-                    "suggestion_level": "(Lv61~65)"
-                }
-            ]
-        }
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/monsters/orc_archer_monster.png",
-        "name": "Orc Archer",
-        "element": "Earth",
-        "race": "Demi-Human",
-        "level": "Lv 71",
-        "hp": "40,276 Hp",
-        "base_exp": "358 Base Exp",
-        "job_exp": "370 Job Exp",
-        "metadata": {
-            "description": "A ranged Orc soldier who is vigorous and never miss the target. Received severe combat training from an early age, it has perfect combination of strength, Range and accuracy. Be careful when you're fighting against it, Otherwise you will be shot by the arrow and die!",
-            "common_data": {
-                "level": "71",
-                "type": "Monster",
-                "zone": "Field",
-                "race": "Demi-Human",
-                "element": "Earth",
-                "size": "Medium",
-                "passive_level": "40",
-                "base_exp": "358",
-                "job_exp": "370"
-            },
-            "attribute_data": {
-                "atk": "350",
-                "matk": "168",
-                "def": "98",
-                "mdef": "21",
-                "hp": "40,276",
-                "hit": "131",
-                "flee": "93",
-                "move_spd": "60",
-                "atk_spd": "0.51"
-            },
-            "card_data": {
-                "imgsrc": "www.roguard.net/content/img/cards/card_10069.jpg",
-                "name": "Orc Archer Card",
-                "effect": "When Demi-Human-like monsters are skilled, Caster has a 10% chance to restore 20 points of SP",
-                "perma_buff": [
-                    "<div style=\"text-align: center;\">Flee ＋10</div>",
-                    "Flee ＋10"
-                ]
-            },
-            "drop_data": [
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_45049.png",
-                    "name": "Orc Helm Blueprint",
-                    "drop_rate": "?%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/19.png",
-                    "name": "Orc Archer Card",
-                    "drop_rate": "?%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_52154.png",
-                    "name": "Glass Bead",
-                    "drop_rate": "21.3%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_12004.png",
-                    "name": "Transformation Scroll (Orc Archer)",
-                    "drop_rate": "0.54%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
-                    "name": "Zeny",
-                    "drop_rate": "71.29%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
-                    "name": "Zeny",
-                    "drop_rate": "71.29%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_12026.png",
-                    "name": "Awakening Potion",
-                    "drop_rate": "0.32%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_41210.png",
-                    "name": "Mercenary Bow [2]",
-                    "drop_rate": "0.46%"
-                }
-            ],
-            "location_data": [
-                {
-                    "location": "Orc Village",
-                    "suggestion_level": "(Lv70~73)"
-                },
-                {
-                    "location": "Orc Village South",
-                    "suggestion_level": "(Lv70~73)"
-                }
-            ]
-        }
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/monsters/horong_monster.png",
-        "name": "Horong ★",
-        "element": "Fire",
-        "race": "Formless",
-        "level": "Lv 62",
-        "hp": "102,306 Hp",
-        "base_exp": "2,115 Base Exp",
-        "job_exp": "1,290 Job Exp",
-        "metadata": {
-            "description": "The ghost fire of the dead, which will quietly follow the passers-by and launch a sneak attack. Remember: If you find that you are followed by it, please Flee quickly, Otherwise you will be attacked and killed and become the next soul!",
-            "common_data": {
-                "level": "62",
-                "type": "Monster",
-                "zone": "Field",
-                "race": "Formless",
-                "element": "Fire",
-                "size": "Small",
-                "passive_level": "40",
-                "base_exp": "2,115",
-                "job_exp": "1,290"
-            },
-            "attribute_data": {
-                "atk": "501",
-                "matk": "206",
-                "def": "500",
-                "mdef": "125",
-                "hp": "102,306",
-                "hit": "174",
-                "flee": "68",
-                "move_spd": "35",
-                "atk_spd": "0.6"
-            },
-            "card_data": {
-                "imgsrc": "www.roguard.net/content/img/icons/items/item_45040.png",
-                "name": "Horong Card",
-                "effect": null,
-                "perma_buff": null
-            },
-            "drop_data": [],
-            "location_data": []
-        }
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/monsters/skeleton_monster.png",
-        "name": "Archer Skeleton",
-        "element": "Undead",
-        "race": "Undead",
-        "level": "Lv 66",
-        "hp": "30,196 Hp",
-        "base_exp": "461 Base Exp",
-        "job_exp": "269 Job Exp",
-        "metadata": {
-            "description": "Before his death, he was a skilled archer and never missed. After being resurrected, he was training hard. He likes to compete with Orc Archers, Gargoyles and Raydric Archers. He uses one eye to shoot and the accuracy is far ahead...",
-            "common_data": {
-                "level": "66",
-                "type": "Monster",
-                "zone": "Field",
-                "race": "Undead",
-                "element": "Undead",
-                "size": "Medium",
-                "passive_level": "40",
-                "base_exp": "461",
-                "job_exp": "269"
-            },
-            "attribute_data": {
-                "atk": "234",
-                "matk": "135",
-                "def": "89",
-                "mdef": "49",
-                "hp": "30,196",
-                "hit": "110",
-                "flee": "20",
-                "move_spd": "75",
-                "atk_spd": "0.35"
-            },
-            "card_data": {
-                "imgsrc": "www.roguard.net/content/img/cards/card_10063.jpg",
-                "name": "Archer Skeleton Card",
-                "effect": null,
-                "perma_buff": [
-                    "<div style=\"text-align: center;\">Atk ＋8</div>",
-                    "Atk ＋8"
-                ]
-            },
-            "drop_data": [
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_45045.png",
-                    "name": "Apple of Archer Blueprint",
-                    "drop_rate": "?%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/19.png",
-                    "name": "Archer Skeleton Card",
-                    "drop_rate": "?%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_52102.png",
-                    "name": "Zargon",
-                    "drop_rate": "18.6%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_5001.png",
-                    "name": "Rough Oridecon",
-                    "drop_rate": "0.58%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_12004.png",
-                    "name": "Transformation Scroll (Archer Skeleton)",
-                    "drop_rate": "0.02%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
-                    "name": "Zeny",
-                    "drop_rate": "58.2%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
-                    "name": "Zeny",
-                    "drop_rate": "58.2%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_12026.png",
-                    "name": "Awakening Potion",
-                    "drop_rate": "0.28%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_12501.png",
-                    "name": "Fire Arrow",
-                    "drop_rate": "16.82%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_41209.png",
-                    "name": "Army Bow [2]",
-                    "drop_rate": "0.46%"
-                }
-            ],
-            "location_data": [
-                {
-                    "location": "Pyramid 2F",
-                    "suggestion_level": "(Lv64~68)"
-                },
-                {
-                    "location": "Pyramid 3F",
-                    "suggestion_level": "(Lv64~68)"
-                }
-            ]
-        }
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/monsters/bon_cun_monster.png",
-        "name": "Bongun",
-        "element": "Undead",
-        "race": "Undead",
-        "level": "Lv 65",
-        "hp": "28,688 Hp",
-        "base_exp": "459 Base Exp",
-        "job_exp": "262 Job Exp",
-        "metadata": {
-            "description": "Before his death, he lived in Payon and was the childhood sweetheart of Munak. Later, after learning that Munak died, he also died. Being attached by a charm and resurrected, he lost all of his memories. He can only subconsciously look for her... The farthest distance in the world is that the one is by your side but you can't recognize her...",
-            "common_data": {
-                "level": "65",
-                "type": "Monster",
-                "zone": "Field",
-                "race": "Undead",
-                "element": "Undead",
-                "size": "Medium",
-                "passive_level": "40",
-                "base_exp": "459",
-                "job_exp": "262"
-            },
-            "attribute_data": {
-                "atk": "218",
-                "matk": "130",
-                "def": "88",
-                "mdef": "48",
-                "hp": "28,688",
-                "hit": "85",
-                "flee": "47",
-                "move_spd": "60",
-                "atk_spd": "0.58"
-            },
-            "card_data": {
-                "imgsrc": "www.roguard.net/content/img/cards/card_10061.jpg",
-                "name": "Bongun Card",
-                "effect": "auto attack has a 3% chance to trigger [Bash] Lv.5",
-                "perma_buff": [
-                    "<div style=\"text-align: center;\">M.Def ＋2</div>",
-                    "M.Def ＋2"
-                ]
-            },
-            "drop_data": [
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_45044.png",
-                    "name": "Bongun Hat [1] Blueprint",
-                    "drop_rate": "?%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/19.png",
-                    "name": "Bongun Card",
-                    "drop_rate": "?%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_12004.png",
-                    "name": "Transformation Scroll (Bongun)",
-                    "drop_rate": "0.81%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
-                    "name": "Zeny",
-                    "drop_rate": "81.71%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
-                    "name": "Zeny",
-                    "drop_rate": "81.71%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_12002.png",
-                    "name": "Orange Potion",
-                    "drop_rate": "5.99%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_52405.png",
-                    "name": "Mercury",
-                    "drop_rate": "3.75%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_41536.png",
-                    "name": "Army Hammer [2]",
-                    "drop_rate": "0.65%"
-                }
-            ],
-            "location_data": [
-                {
-                    "location": "Payon Cave 1F",
-                    "suggestion_level": "(Lv61~65)"
-                },
-                {
-                    "location": "Payon Cave 2F",
-                    "suggestion_level": "(Lv65~72)"
-                },
-                {
-                    "location": "Payon Cave 3F",
-                    "suggestion_level": "(Lv65~72)"
-                }
-            ]
-        }
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/monsters/marduk_monster.png",
-        "name": "Marduk",
-        "element": "Fire",
-        "race": "Demi-Human",
-        "level": "Lv 68",
-        "hp": "40,512 Hp",
-        "base_exp": "465 Base Exp",
-        "job_exp": "283 Job Exp",
-        "metadata": {
-            "description": "One of the ancient gods, As a guardian angel, the Bone Wand controlled by him has an amazing power. No one knows his true face behind the mask. The principle of living: Don't say too much. Silence is gold...",
-            "common_data": {
-                "level": "68",
-                "type": "Monster",
-                "zone": "Field",
-                "race": "Demi-Human",
-                "element": "Fire",
-                "size": "Large",
-                "passive_level": "40",
-                "base_exp": "465",
-                "job_exp": "283"
-            },
-            "attribute_data": {
-                "atk": "263",
-                "matk": "140",
-                "def": "242",
-                "mdef": "51",
-                "hp": "40,512",
-                "hit": "88",
-                "flee": "80",
-                "move_spd": "60",
-                "atk_spd": "0.65"
-            },
-            "card_data": {
-                "imgsrc": "www.roguard.net/content/img/cards/card_10064.jpg",
-                "name": "Marduk Card",
-                "effect": "Avoid silence effect",
-                "perma_buff": [
-                    "<div style=\"text-align: center;\">M.Def ＋4</div>",
-                    "M.Def ＋4"
-                ]
-            },
-            "drop_data": [
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_48521.png",
-                    "name": "Cultish Masque Blueprint",
-                    "drop_rate": "?%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/19.png",
-                    "name": "Marduk Card",
-                    "drop_rate": "?%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_52204.png",
-                    "name": "Evil Horn",
-                    "drop_rate": "23.82%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_12101.png",
-                    "name": "Scarlet Dyestuffs",
-                    "drop_rate": "0.5%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_12004.png",
-                    "name": "Transformation Scroll (Marduk)",
-                    "drop_rate": "0.02%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
-                    "name": "Zeny",
-                    "drop_rate": "68.52%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
-                    "name": "Zeny",
-                    "drop_rate": "68.52%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_5112.png",
-                    "name": "Flame Heart",
-                    "drop_rate": "0.64%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_40629.png",
-                    "name": "Army Staff [2]",
-                    "drop_rate": "0.54%"
-                }
-            ],
-            "location_data": [
-                {
-                    "location": "Pyramid 2F",
-                    "suggestion_level": "(Lv64~68)"
-                },
-                {
-                    "location": "Pyramid 3F",
-                    "suggestion_level": "(Lv64~68)"
-                }
-            ]
         }
     }
 ]

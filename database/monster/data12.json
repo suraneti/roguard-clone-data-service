@@ -1,6 +1,102 @@
 [
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/monsters/lordkaho_mvp.png",
+        "imgsrc": "www.roguard.net/content/img/icons/monsters/lavameco_monster.png",
+        "name": "Fire Elf",
+        "element": "Fire",
+        "race": "Formless",
+        "level": "Lv 122",
+        "hp": "180,427 Hp",
+        "base_exp": "2,220 Base Exp",
+        "job_exp": "1,292 Job Exp",
+        "metadata": {
+            "description": "Because the environment is polluted by human industrial activities, the Elemental Elf loathes human beings so much and thinks all humans are its enemy. It masters the elemental power of flame. When dealing with it, you’d better prepare for facing the raging fire!",
+            "common_data": {
+                "level": "122",
+                "type": "Monster",
+                "zone": "Field",
+                "race": "Formless",
+                "element": "Fire",
+                "size": "Medium",
+                "passive_level": "40",
+                "base_exp": "2,220",
+                "job_exp": "1,292"
+            },
+            "attribute_data": {
+                "atk": "1,071",
+                "matk": "326",
+                "def": "485",
+                "mdef": "160",
+                "hp": "180,427",
+                "hit": "318",
+                "flee": "221",
+                "move_spd": "30",
+                "atk_spd": "0.84"
+            },
+            "card_data": {
+                "imgsrc": null,
+                "name": "Fire Elf Card",
+                "effect": "Fire Dmg Taken -15%, [Dragon Breath] damage ＋10%",
+                "perma_buff": [
+                    "<div style=\"text-align: center;\">Def ＋4.5</div>",
+                    "Def ＋4.5"
+                ]
+            },
+            "drop_data": [
+                {
+                    "imgsrc": null,
+                    "name": "Burning Eyes Drawing",
+                    "drop_rate": "?%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/19.png",
+                    "name": "Fire Elf Card",
+                    "drop_rate": "?%"
+                },
+                {
+                    "imgsrc": null,
+                    "name": "Fire Crystal",
+                    "drop_rate": "16.17%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_12004.png",
+                    "name": "Transformation Scroll (Fire Elf)",
+                    "drop_rate": "0.04%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
+                    "name": "Zeny",
+                    "drop_rate": "72.6%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
+                    "name": "Zeny",
+                    "drop_rate": "72.6%"
+                },
+                {
+                    "imgsrc": null,
+                    "name": "Shell",
+                    "drop_rate": "4.38%"
+                },
+                {
+                    "imgsrc": null,
+                    "name": "Garrison Bow [2]",
+                    "drop_rate": "0.59%"
+                }
+            ],
+            "location_data": [
+                {
+                    "location": "Lava Cave 2F",
+                    "suggestion_level": "(Lv-)"
+                },
+                {
+                    "location": "Lava Cave 3F",
+                    "suggestion_level": "(Lv-)"
+                }
+            ]
+        }
+    },
+    {
+        "imgsrc": "www.roguard.net/content/img/icons/monsters/lordkaho_mvp.png",
         "name": "Firelord Kaho",
         "element": "Fire",
         "race": "Demon",
@@ -102,7 +198,7 @@
         }
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/monsters/kasakid_monster.png",
+        "imgsrc": "www.roguard.net/content/img/icons/monsters/kasakid_monster.png",
         "name": "Fire Fledgling",
         "element": "Fire",
         "race": "Brute",
@@ -198,103 +294,7 @@
         }
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/monsters/lavameco_monster.png",
-        "name": "Fire Elf",
-        "element": "Fire",
-        "race": "Formless",
-        "level": "Lv 122",
-        "hp": "180,427 Hp",
-        "base_exp": "2,220 Base Exp",
-        "job_exp": "1,292 Job Exp",
-        "metadata": {
-            "description": "Because the environment is polluted by human industrial activities, the Elemental Elf loathes human beings so much and thinks all humans are its enemy. It masters the elemental power of flame. When dealing with it, you’d better prepare for facing the raging fire!",
-            "common_data": {
-                "level": "122",
-                "type": "Monster",
-                "zone": "Field",
-                "race": "Formless",
-                "element": "Fire",
-                "size": "Medium",
-                "passive_level": "40",
-                "base_exp": "2,220",
-                "job_exp": "1,292"
-            },
-            "attribute_data": {
-                "atk": "1,071",
-                "matk": "326",
-                "def": "485",
-                "mdef": "160",
-                "hp": "180,427",
-                "hit": "318",
-                "flee": "221",
-                "move_spd": "30",
-                "atk_spd": "0.84"
-            },
-            "card_data": {
-                "imgsrc": null,
-                "name": "Fire Elf Card",
-                "effect": "Fire Dmg Taken -15%, [Dragon Breath] damage ＋10%",
-                "perma_buff": [
-                    "<div style=\"text-align: center;\">Def ＋4.5</div>",
-                    "Def ＋4.5"
-                ]
-            },
-            "drop_data": [
-                {
-                    "imgsrc": null,
-                    "name": "Burning Eyes Drawing",
-                    "drop_rate": "?%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/19.png",
-                    "name": "Fire Elf Card",
-                    "drop_rate": "?%"
-                },
-                {
-                    "imgsrc": null,
-                    "name": "Fire Crystal",
-                    "drop_rate": "16.17%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_12004.png",
-                    "name": "Transformation Scroll (Fire Elf)",
-                    "drop_rate": "0.04%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
-                    "name": "Zeny",
-                    "drop_rate": "72.6%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
-                    "name": "Zeny",
-                    "drop_rate": "72.6%"
-                },
-                {
-                    "imgsrc": null,
-                    "name": "Shell",
-                    "drop_rate": "4.38%"
-                },
-                {
-                    "imgsrc": null,
-                    "name": "Garrison Bow [2]",
-                    "drop_rate": "0.59%"
-                }
-            ],
-            "location_data": [
-                {
-                    "location": "Lava Cave 2F",
-                    "suggestion_level": "(Lv-)"
-                },
-                {
-                    "location": "Lava Cave 3F",
-                    "suggestion_level": "(Lv-)"
-                }
-            ]
-        }
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/monsters/archangeling_mvp.png",
+        "imgsrc": "www.roguard.net/content/img/icons/monsters/archangeling_mvp.png",
         "name": "Arc Angeling",
         "element": "Holy",
         "race": "Angel",
@@ -337,104 +337,7 @@
         }
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/monsters/redexplosion_mini.png",
-        "name": "Fire Witch",
-        "element": "Fire",
-        "race": "Demi-Human",
-        "level": "Lv 128",
-        "hp": "27,563,600 Hp",
-        "base_exp": "7,680 Base Exp",
-        "job_exp": "4,465 Job Exp",
-        "metadata": {
-            "description": "The little witch who is obsessed with flame magic has got herself to the lava zone to study its mystery. She likes to prove her flame power by burning all the things she sees, she really likes to play “fire”.",
-            "common_data": {
-                "level": "128",
-                "type": "Mini Boss",
-                "zone": "Field",
-                "race": "Demi-Human",
-                "element": "Fire",
-                "size": "Medium",
-                "passive_level": "999",
-                "base_exp": "7,680",
-                "job_exp": "4,465"
-            },
-            "attribute_data": {
-                "atk": "3,317",
-                "matk": "1,263",
-                "def": "1,358",
-                "mdef": "865",
-                "hp": "27,563,600",
-                "hit": "357",
-                "flee": "227",
-                "move_spd": "105",
-                "atk_spd": "1.25"
-            },
-            "card_data": {
-                "imgsrc": null,
-                "name": "Fire Witch Card",
-                "effect": "M.Atk ＋20, Ignore MDef ＋4%",
-                "perma_buff": [
-                    "<div style=\"text-align: center;\">Atk ＋8</div>",
-                    "Atk ＋8"
-                ]
-            },
-            "drop_data": [
-                {
-                    "imgsrc": null,
-                    "name": "Fire Hat[1] Drawing",
-                    "drop_rate": "0.38%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/19.png",
-                    "name": "Fire Witch Card",
-                    "drop_rate": "?%"
-                },
-                {
-                    "imgsrc": null,
-                    "name": "Burning Hair",
-                    "drop_rate": "69.11%"
-                },
-                {
-                    "imgsrc": null,
-                    "name": "Fiery Ember",
-                    "drop_rate": "1.87%"
-                },
-                {
-                    "imgsrc": null,
-                    "name": "Transformation Scroll (Fire Witch)",
-                    "drop_rate": "1.96%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_12119.png",
-                    "name": "Yggdrasil Berry",
-                    "drop_rate": "1.09%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
-                    "name": "Zeny",
-                    "drop_rate": "?%"
-                },
-                {
-                    "imgsrc": null,
-                    "name": "Garrison Knuckles [2]",
-                    "drop_rate": "25.56%"
-                },
-                {
-                    "imgsrc": null,
-                    "name": "Forest Hunter [1]",
-                    "drop_rate": "100%"
-                },
-                {
-                    "imgsrc": null,
-                    "name": "Red Square Bag",
-                    "drop_rate": "100%"
-                }
-            ],
-            "location_data": []
-        }
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/monsters/archangeling_mvp.png",
+        "imgsrc": "www.roguard.net/content/img/icons/monsters/archangeling_mvp.png",
         "name": "Arc Angeling",
         "element": "Holy",
         "race": "Angel",
@@ -534,6 +437,103 @@
                 {
                     "imgsrc": null,
                     "name": "Mace of Judgment [1]",
+                    "drop_rate": "100%"
+                }
+            ],
+            "location_data": []
+        }
+    },
+    {
+        "imgsrc": "www.roguard.net/content/img/icons/monsters/redexplosion_mini.png",
+        "name": "Fire Witch",
+        "element": "Fire",
+        "race": "Demi-Human",
+        "level": "Lv 128",
+        "hp": "27,563,600 Hp",
+        "base_exp": "7,680 Base Exp",
+        "job_exp": "4,465 Job Exp",
+        "metadata": {
+            "description": "The little witch who is obsessed with flame magic has got herself to the lava zone to study its mystery. She likes to prove her flame power by burning all the things she sees, she really likes to play “fire”.",
+            "common_data": {
+                "level": "128",
+                "type": "Mini Boss",
+                "zone": "Field",
+                "race": "Demi-Human",
+                "element": "Fire",
+                "size": "Medium",
+                "passive_level": "999",
+                "base_exp": "7,680",
+                "job_exp": "4,465"
+            },
+            "attribute_data": {
+                "atk": "3,317",
+                "matk": "1,263",
+                "def": "1,358",
+                "mdef": "865",
+                "hp": "27,563,600",
+                "hit": "357",
+                "flee": "227",
+                "move_spd": "105",
+                "atk_spd": "1.25"
+            },
+            "card_data": {
+                "imgsrc": null,
+                "name": "Fire Witch Card",
+                "effect": "M.Atk ＋20, Ignore MDef ＋4%",
+                "perma_buff": [
+                    "<div style=\"text-align: center;\">Atk ＋8</div>",
+                    "Atk ＋8"
+                ]
+            },
+            "drop_data": [
+                {
+                    "imgsrc": null,
+                    "name": "Fire Hat[1] Drawing",
+                    "drop_rate": "0.38%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/19.png",
+                    "name": "Fire Witch Card",
+                    "drop_rate": "?%"
+                },
+                {
+                    "imgsrc": null,
+                    "name": "Burning Hair",
+                    "drop_rate": "69.11%"
+                },
+                {
+                    "imgsrc": null,
+                    "name": "Fiery Ember",
+                    "drop_rate": "1.87%"
+                },
+                {
+                    "imgsrc": null,
+                    "name": "Transformation Scroll (Fire Witch)",
+                    "drop_rate": "1.96%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_12119.png",
+                    "name": "Yggdrasil Berry",
+                    "drop_rate": "1.09%"
+                },
+                {
+                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
+                    "name": "Zeny",
+                    "drop_rate": "?%"
+                },
+                {
+                    "imgsrc": null,
+                    "name": "Garrison Knuckles [2]",
+                    "drop_rate": "25.56%"
+                },
+                {
+                    "imgsrc": null,
+                    "name": "Forest Hunter [1]",
+                    "drop_rate": "100%"
+                },
+                {
+                    "imgsrc": null,
+                    "name": "Red Square Bag",
                     "drop_rate": "100%"
                 }
             ],
