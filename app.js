@@ -10,7 +10,7 @@ ROGUARD_EQUIPMENT_PAGES = 138
 monsterService.clone(ROGUARD_MONSTER_PAGES)
 
 // clone and generate card data from ROGuard
-cardService.clone(ROGUARD_CARD_PAGES)
+// cardService.clone(ROGUARD_CARD_PAGES)
 
 // clone and generate equipment data from ROGuard
-equipmentService.clone(ROGUARD_EQUIPMENT_PAGES)
+// equipmentService.clone(ROGUARD_EQUIPMENT_PAGES)
