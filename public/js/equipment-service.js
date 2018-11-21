@@ -29,7 +29,7 @@ function serializeEquipmentData(pages, callback) {
         const monsterData = [];
 
         match.forEach(element => {
-            const equipmentImage = (element.match(/src\s*=\s*\\*"(.+?)\\*"\s*/) !== null) ? element.match(/src\s*=\s*\\*"(.+?)\\*"\s*/)[1] : null
+            const equipmentImage = (element.match(/src\s*=\s*\\*"\/\/(.+?)\\*"\s*/) !== null) ? element.match(/src\s*=\s*\\*"\/\/(.+?)\\*"\s*/)[1] : null
             const equipmentName = element.match(/<a (.*)>(.+?)<\/a>/)[2]
             const equipmentSlot = element.match(/<div style="color: (.*);">(.+?)<\/div>/)[2];
 
