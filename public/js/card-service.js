@@ -136,6 +136,11 @@ function serializeCardFullData(url, callback) {
                     'sell_price': cardSellPrice,
                     'auctionable': cardAuctionable,
                     'storageable': cardStorageable
+                },
+                'drop_data': {
+                    'dropped_by': 'no drop',
+                    'monster_level': 'unknown',
+                    'drop_rate': 'unknown'
                 }
             }
         }
