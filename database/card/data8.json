@@ -5,71 +5,63 @@
         "effect": "Str ＋5",
         "perma_buff": "Max HP ＋28",
         "card_slot": "unknown",
-        "card_type": "unknown"
+        "card_type": "unknown",
+        "metadata": {
+            "common_data": {
+                "level": "9999",
+                "max_stack": "Yes",
+                "sellable": "50,000",
+                "sell_price": "Yes",
+                "auctionable": "Yes",
+                "storageable": "unknown"
+            },
+            "drop_data": {
+                "dropped_by": "Mantis",
+                "monster_level": "Lv 65 Monster",
+                "drop_rate": "?%"
+            }
+        }
     },
     {
-        "imgsrc": null,
-        "name": "Mao Guai Card",
-        "effect": "Damage to ghost monsters ＋15%",
-        "perma_buff": "Max HP ＋28",
-        "card_slot": "unknown",
-        "card_type": "unknown"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/cards/card_10028.jpg",
-        "name": "Marc Card",
-        "effect": "Water Dmg Taken -15%, , Avoid freezing effect",
-        "perma_buff": "Water Dmg Taken -2%",
-        "card_slot": "unknown",
-        "card_type": "unknown"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/cards/card_10064.jpg",
-        "name": "Marduk Card",
-        "effect": "Avoid silence effect",
-        "perma_buff": "M.Def ＋4",
-        "card_slot": "unknown",
-        "card_type": "unknown"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/cards/card_10099.jpg",
+        "imgsrc": "s01.cdn.roguard.net/content/img/cards/card_10099.jpg",
         "name": "Marin Card",
         "effect": "Water Dmg Taken -15%",
         "perma_buff": "",
         "card_slot": "Footgear",
-        "card_type": "Normal"
+        "card_type": "Normal",
+        "metadata": {
+            "common_data": {
+                "level": "0",
+                "max_stack": "9999",
+                "sellable": "Yes",
+                "sell_price": "100",
+                "auctionable": "No",
+                "storageable": "Yes"
+            }
+        }
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/cards/card_10025.jpg",
-        "name": "Marina Card",
-        "effect": "auto attack has a 5% chance to freeze the target for 5 seconds, , Atk ＋10",
-        "perma_buff": "M.Def ＋2",
+        "imgsrc": "s01.cdn.roguard.net/content/img/cards/card_10064.jpg",
+        "name": "Marduk Card",
+        "effect": "Avoid silence effect",
+        "perma_buff": "M.Def ＋4",
         "card_slot": "unknown",
-        "card_type": "unknown"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/cards/card_40014.jpg",
-        "name": "Marine Sphere Card",
-        "effect": "Can use skill [Magnum Break] Lv.3",
-        "perma_buff": "Max HP ＋24",
-        "card_slot": "unknown",
-        "card_type": "unknown"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/cards/card_10072.jpg",
-        "name": "Marionette Card",
-        "effect": "Ghost Dmg Taken -15%",
-        "perma_buff": "Max HP ＋24",
-        "card_slot": "unknown",
-        "card_type": "unknown"
-    },
-    {
-        "imgsrc": null,
-        "name": "Marionette★Card",
-        "effect": "Ghost Dmg Taken -10%, Ghost Atk ＋5%",
-        "perma_buff": "Atk ＋8",
-        "card_slot": "unknown",
-        "card_type": "unknown"
+        "card_type": "unknown",
+        "metadata": {
+            "common_data": {
+                "level": "0",
+                "max_stack": "9999",
+                "sellable": "Yes",
+                "sell_price": "2,000",
+                "auctionable": "Yes",
+                "storageable": "Yes"
+            },
+            "drop_data": {
+                "dropped_by": "Marduk",
+                "monster_level": "Lv 68 Monster",
+                "drop_rate": "?%"
+            }
+        }
     },
     {
         "imgsrc": null,
@@ -77,7 +69,109 @@
         "effect": "Water Dmg Taken -15%, Flee ＋5",
         "perma_buff": "Max HP ＋28",
         "card_slot": "unknown",
-        "card_type": "unknown"
+        "card_type": "unknown",
+        "metadata": {
+            "common_data": {
+                "level": "9999",
+                "max_stack": "Yes",
+                "sellable": "50,000",
+                "sell_price": "Yes",
+                "auctionable": "Yes",
+                "storageable": "unknown"
+            }
+        }
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/cards/card_10028.jpg",
+        "name": "Marc Card",
+        "effect": "Water Dmg Taken -15%, , Avoid freezing effect",
+        "perma_buff": "Water Dmg Taken -2%",
+        "card_slot": "unknown",
+        "card_type": "unknown",
+        "metadata": {
+            "common_data": {
+                "level": "0",
+                "max_stack": "9999",
+                "sellable": "Yes",
+                "sell_price": "5,000",
+                "auctionable": "Yes",
+                "storageable": "Yes"
+            },
+            "drop_data": {
+                "dropped_by": "Marc ★",
+                "monster_level": "Lv 36 Monster",
+                "drop_rate": "0.01%"
+            }
+        }
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/cards/card_40014.jpg",
+        "name": "Marine Sphere Card",
+        "effect": "Can use skill [Magnum Break] Lv.3",
+        "perma_buff": "Max HP ＋24",
+        "card_slot": "unknown",
+        "card_type": "unknown",
+        "metadata": {
+            "common_data": {
+                "level": "0",
+                "max_stack": "9999",
+                "sellable": "Yes",
+                "sell_price": "50,000",
+                "auctionable": "Yes",
+                "storageable": "Yes"
+            },
+            "drop_data": {
+                "dropped_by": "Marine Sphere",
+                "monster_level": "Lv 32 Monster",
+                "drop_rate": "?%"
+            }
+        }
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/cards/card_20017.jpg",
+        "name": "Mastering Card",
+        "effect": "Luk ＋4, Flee ＋5",
+        "perma_buff": "Max HP ＋24",
+        "card_slot": "unknown",
+        "card_type": "unknown",
+        "metadata": {
+            "common_data": {
+                "level": "0",
+                "max_stack": "9999",
+                "sellable": "Yes",
+                "sell_price": "50,000",
+                "auctionable": "Yes",
+                "storageable": "Yes"
+            },
+            "drop_data": {
+                "dropped_by": "Mastering",
+                "monster_level": "Lv 12 Mini Boss",
+                "drop_rate": "?%"
+            }
+        }
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/cards/card_10025.jpg",
+        "name": "Marina Card",
+        "effect": "auto attack has a 5% chance to freeze the target for 5 seconds, , Atk ＋10",
+        "perma_buff": "M.Def ＋2",
+        "card_slot": "unknown",
+        "card_type": "unknown",
+        "metadata": {
+            "common_data": {
+                "level": "0",
+                "max_stack": "9999",
+                "sellable": "Yes",
+                "sell_price": "2,000",
+                "auctionable": "Yes",
+                "storageable": "Yes"
+            },
+            "drop_data": {
+                "dropped_by": "Marina",
+                "monster_level": "Lv 32 Monster",
+                "drop_rate": "?%"
+            }
+        }
     },
     {
         "imgsrc": null,
@@ -85,47 +179,155 @@
         "effect": "Def ＋10, Dmg to Dark monsters ＋10%",
         "perma_buff": "M.Def ＋3",
         "card_slot": "unknown",
-        "card_type": "unknown"
+        "card_type": "unknown",
+        "metadata": {
+            "common_data": {
+                "level": "9999",
+                "max_stack": "Yes",
+                "sellable": "5,000",
+                "sell_price": "Yes",
+                "auctionable": "Yes",
+                "storageable": "unknown"
+            },
+            "drop_data": {
+                "dropped_by": "Marmot",
+                "monster_level": "Lv 116 Monster",
+                "drop_rate": "?%"
+            }
+        }
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/cards/card_20017.jpg",
-        "name": "Mastering Card",
-        "effect": "Luk ＋4, Flee ＋5",
+        "imgsrc": null,
+        "name": "Marionette★Card",
+        "effect": "Ghost Dmg Taken -10%, Ghost Atk ＋5%",
+        "perma_buff": "Atk ＋8",
+        "card_slot": "unknown",
+        "card_type": "unknown",
+        "metadata": {
+            "common_data": {
+                "level": "9999",
+                "max_stack": "Yes",
+                "sellable": "50,000",
+                "sell_price": "Yes",
+                "auctionable": "Yes",
+                "storageable": "unknown"
+            }
+        }
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/cards/card_10072.jpg",
+        "name": "Marionette Card",
+        "effect": "Ghost Dmg Taken -15%",
         "perma_buff": "Max HP ＋24",
         "card_slot": "unknown",
-        "card_type": "unknown"
+        "card_type": "unknown",
+        "metadata": {
+            "common_data": {
+                "level": "0",
+                "max_stack": "9999",
+                "sellable": "Yes",
+                "sell_price": "2,000",
+                "auctionable": "Yes",
+                "storageable": "Yes"
+            },
+            "drop_data": {
+                "dropped_by": "Marionette Doll",
+                "monster_level": "Lv 77 Monster",
+                "drop_rate": "?%"
+            }
+        }
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/cards/card_10051.jpg",
+        "imgsrc": "s01.cdn.roguard.net/content/img/cards/card_10051.jpg",
         "name": "Matyr Card",
         "effect": "Agi ＋1, Max HP ＋5%",
         "perma_buff": "Max HP ＋48",
         "card_slot": "unknown",
-        "card_type": "unknown"
+        "card_type": "unknown",
+        "metadata": {
+            "common_data": {
+                "level": "0",
+                "max_stack": "9999",
+                "sellable": "Yes",
+                "sell_price": "5,000",
+                "auctionable": "Yes",
+                "storageable": "Yes"
+            },
+            "drop_data": {
+                "dropped_by": "Matyr",
+                "monster_level": "Lv 54 Monster",
+                "drop_rate": "?%"
+            }
+        }
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/cards/card_30008.jpg",
+        "imgsrc": "s01.cdn.roguard.net/content/img/cards/card_30008.jpg",
         "name": "Maya Card",
         "effect": "Reflect 20% M.Dmg",
         "perma_buff": "M.Dmg Increase ＋2%",
         "card_slot": "unknown",
-        "card_type": "unknown"
+        "card_type": "unknown",
+        "metadata": {
+            "common_data": {
+                "level": "0",
+                "max_stack": "9999",
+                "sellable": "Yes",
+                "sell_price": "500,000",
+                "auctionable": "Yes",
+                "storageable": "Yes"
+            },
+            "drop_data": {
+                "dropped_by": "Maya",
+                "monster_level": "Lv 60 MVP",
+                "drop_rate": "?%"
+            }
+        }
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/cards/card_10039.jpg",
-        "name": "Menblatt Card",
-        "effect": "Damage to earth monsters ＋20%",
-        "perma_buff": "M.Def ＋4",
-        "card_slot": "unknown",
-        "card_type": "unknown"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/cards/card_40012.jpg",
+        "imgsrc": "s01.cdn.roguard.net/content/img/cards/card_40012.jpg",
         "name": "Meta Ant Egg Card",
         "effect": "Max HP ＋5%",
         "perma_buff": "Max HP ＋24",
         "card_slot": "unknown",
-        "card_type": "unknown"
+        "card_type": "unknown",
+        "metadata": {
+            "common_data": {
+                "level": "0",
+                "max_stack": "9999",
+                "sellable": "Yes",
+                "sell_price": "5,000",
+                "auctionable": "Yes",
+                "storageable": "Yes"
+            },
+            "drop_data": {
+                "dropped_by": "Ant Egg",
+                "monster_level": "Lv 12 Monster",
+                "drop_rate": "0.02%"
+            }
+        }
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/cards/card_10039.jpg",
+        "name": "Menblatt Card",
+        "effect": "Damage to earth monsters ＋20%",
+        "perma_buff": "M.Def ＋4",
+        "card_slot": "unknown",
+        "card_type": "unknown",
+        "metadata": {
+            "common_data": {
+                "level": "0",
+                "max_stack": "9999",
+                "sellable": "Yes",
+                "sell_price": "5,000",
+                "auctionable": "Yes",
+                "storageable": "Yes"
+            },
+            "drop_data": {
+                "dropped_by": "Menblatt",
+                "monster_level": "Lv 45 Monster",
+                "drop_rate": "?%"
+            }
+        }
     },
     {
         "imgsrc": null,
@@ -133,30 +335,108 @@
         "effect": "Str ＋3, Atk ＋20, Equipment ASPD ＋2%",
         "perma_buff": "Equipment ASPD ＋1%",
         "card_slot": "unknown",
-        "card_type": "unknown"
+        "card_type": "unknown",
+        "metadata": {
+            "common_data": {
+                "level": "9999",
+                "max_stack": "Yes",
+                "sellable": "5,000",
+                "sell_price": "Yes",
+                "auctionable": "Yes",
+                "storageable": "unknown"
+            },
+            "drop_data": {
+                "dropped_by": "Metaller",
+                "monster_level": "Lv 55 Monster",
+                "drop_rate": "?%"
+            }
+        }
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/cards/card_40015.jpg",
+        "imgsrc": "s01.cdn.roguard.net/content/img/cards/card_40015.jpg",
         "name": "Mimic Card",
         "effect": "No effect",
         "perma_buff": "Max HP ＋28",
         "card_slot": "unknown",
-        "card_type": "unknown"
+        "card_type": "unknown",
+        "metadata": {
+            "common_data": {
+                "level": "0",
+                "max_stack": "9999",
+                "sellable": "Yes",
+                "sell_price": "2,000",
+                "auctionable": "Yes",
+                "storageable": "Yes"
+            },
+            "drop_data": {
+                "dropped_by": "Mimic",
+                "monster_level": "Lv 80 Monster",
+                "drop_rate": "?%"
+            }
+        }
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/cards/card_10062.jpg",
+        "imgsrc": "s01.cdn.roguard.net/content/img/cards/card_10062.jpg",
         "name": "Minorous Card",
         "effect": "Damage to L-size monsters ＋25%, Atk ＋15",
         "perma_buff": "Atk ＋8",
         "card_slot": "unknown",
-        "card_type": "unknown"
+        "card_type": "unknown",
+        "metadata": {
+            "common_data": {
+                "level": "0",
+                "max_stack": "9999",
+                "sellable": "Yes",
+                "sell_price": "50,000",
+                "auctionable": "Yes",
+                "storageable": "Yes"
+            },
+            "drop_data": {
+                "dropped_by": "Minorous",
+                "monster_level": "Lv 64 Monster",
+                "drop_rate": "?%"
+            }
+        }
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/cards/card_30007.jpg",
+        "imgsrc": "s01.cdn.roguard.net/content/img/cards/card_30007.jpg",
         "name": "Mistress Card",
         "effect": "CT Variable -5%, , Magic Ore of Skill Cost -1",
         "perma_buff": "Magic Reduc. ＋2%",
         "card_slot": "Headgear",
-        "card_type": "MVP"
+        "card_type": "MVP",
+        "metadata": {
+            "common_data": {
+                "level": "0",
+                "max_stack": "9999",
+                "sellable": "Yes",
+                "sell_price": "500,000",
+                "auctionable": "Yes",
+                "storageable": "Yes"
+            },
+            "drop_data": {
+                "dropped_by": "Mistress",
+                "monster_level": "Lv 55 MVP",
+                "drop_rate": "?%"
+            }
+        }
+    },
+    {
+        "imgsrc": null,
+        "name": "Mao Guai Card",
+        "effect": "Damage to ghost monsters ＋15%",
+        "perma_buff": "Max HP ＋28",
+        "card_slot": "unknown",
+        "card_type": "unknown",
+        "metadata": {
+            "common_data": {
+                "level": "9999",
+                "max_stack": "Yes",
+                "sellable": "50,000",
+                "sell_price": "Yes",
+                "auctionable": "Yes",
+                "storageable": "unknown"
+            }
+        }
     }
 ]

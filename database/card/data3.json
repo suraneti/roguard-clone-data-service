@@ -1,51 +1,49 @@
 [
     {
+        "imgsrc": "s01.cdn.roguard.net/content/img/cards/card_10014.jpg",
+        "name": "Creamy Card",
+        "effect": "Can use Skill - [Teleportation] Lv.1",
+        "perma_buff": "M.Def ＋4",
+        "card_slot": "unknown",
+        "card_type": "unknown",
+        "metadata": {
+            "common_data": {
+                "level": "0",
+                "max_stack": "9999",
+                "sellable": "Yes",
+                "sell_price": "50,000",
+                "auctionable": "Yes",
+                "storageable": "Yes"
+            },
+            "drop_data": {
+                "dropped_by": "Creamy ★",
+                "monster_level": "Lv 20 Monster",
+                "drop_rate": "0.01%"
+            }
+        }
+    },
+    {
         "imgsrc": null,
         "name": "Clock Tower Manager Card",
         "effect": "INT ＋2, M.Dmg ＋2%, Max HP ＋400",
         "perma_buff": "Max HP ＋14",
         "card_slot": "unknown",
-        "card_type": "unknown"
-    },
-    {
-        "imgsrc": null,
-        "name": "Cookie Card",
-        "effect": "Luk ＋2, [Judex] damage ＋5%",
-        "perma_buff": "Def ＋2",
-        "card_slot": "unknown",
-        "card_type": "unknown"
-    },
-    {
-        "imgsrc": null,
-        "name": "Cornus Card",
-        "effect": "Holy Dmg Taken -15%, Damage to Holy Monsters ＋5%",
-        "perma_buff": "Max HP ＋28",
-        "card_slot": "unknown",
-        "card_type": "unknown"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/cards/card_10085.jpg",
-        "name": "Cramp Card",
-        "effect": "Luk ＋3, Flee ＋5",
-        "perma_buff": "Flee ＋4",
-        "card_slot": "unknown",
-        "card_type": "unknown"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/cards/card_10014.jpg",
-        "name": "Creamy Card",
-        "effect": "Can use Skill - [Teleportation] Lv.1",
-        "perma_buff": "M.Def ＋4",
-        "card_slot": "unknown",
-        "card_type": "unknown"
-    },
-    {
-        "imgsrc": null,
-        "name": "Cruiser Card",
-        "effect": "Crit.Dmg ＋7%, Crit to Brute monsters ＋10",
-        "perma_buff": "Atk ＋4.5",
-        "card_slot": "unknown",
-        "card_type": "unknown"
+        "card_type": "unknown",
+        "metadata": {
+            "common_data": {
+                "level": "9999",
+                "max_stack": "Yes",
+                "sellable": "50,000",
+                "sell_price": "Yes",
+                "auctionable": "Yes",
+                "storageable": "unknown"
+            },
+            "drop_data": {
+                "dropped_by": "Clock Tower Manager",
+                "monster_level": "Lv 108 Mini Boss",
+                "drop_rate": "?%"
+            }
+        }
     },
     {
         "imgsrc": null,
@@ -53,7 +51,160 @@
         "effect": "Max HP -10%, Max SP -10%, CT Fixed -0.25s",
         "perma_buff": "CT Variable－1%",
         "card_slot": "Headgear",
-        "card_type": "Mini Boss"
+        "card_type": "Mini Boss",
+        "metadata": {
+            "common_data": {
+                "level": "9999",
+                "max_stack": "Yes",
+                "sellable": "500,000",
+                "sell_price": "Yes",
+                "auctionable": "Yes",
+                "storageable": "unknown"
+            },
+            "drop_data": {
+                "dropped_by": "Dark Illusion",
+                "monster_level": "Lv 98 Mini Boss",
+                "drop_rate": "?%"
+            }
+        }
+    },
+    {
+        "imgsrc": null,
+        "name": "Cookie Card",
+        "effect": "Luk ＋2, [Judex] damage ＋5%",
+        "perma_buff": "Def ＋2",
+        "card_slot": "unknown",
+        "card_type": "unknown",
+        "metadata": {
+            "common_data": {
+                "level": "9999",
+                "max_stack": "Yes",
+                "sellable": "5,000",
+                "sell_price": "Yes",
+                "auctionable": "Yes",
+                "storageable": "unknown"
+            },
+            "drop_data": {
+                "dropped_by": "Christmas Cookie",
+                "monster_level": "Lv 112 Monster",
+                "drop_rate": "?%"
+            }
+        }
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/cards/card_30003.jpg",
+        "name": "Deviling Card",
+        "effect": "Neutral Dmg Taken -50%,  Other Dmg Taken from Other Attributes ＋50%",
+        "perma_buff": "Damage Taken Reduction ＋2%",
+        "card_slot": "Garment",
+        "card_type": "MVP",
+        "metadata": {
+            "common_data": {
+                "level": "0",
+                "max_stack": "9999",
+                "sellable": "Yes",
+                "sell_price": "500,000",
+                "auctionable": "Yes",
+                "storageable": "Yes"
+            },
+            "drop_data": {
+                "dropped_by": "Deviling",
+                "monster_level": "Lv 35 MVP",
+                "drop_rate": "?%"
+            }
+        }
+    },
+    {
+        "imgsrc": null,
+        "name": "Cruiser Card",
+        "effect": "Crit.Dmg ＋7%, Crit to Brute monsters ＋10",
+        "perma_buff": "Atk ＋4.5",
+        "card_slot": "unknown",
+        "card_type": "unknown",
+        "metadata": {
+            "common_data": {
+                "level": "9999",
+                "max_stack": "Yes",
+                "sellable": "5,000",
+                "sell_price": "Yes",
+                "auctionable": "Yes",
+                "storageable": "unknown"
+            },
+            "drop_data": {
+                "dropped_by": "Cruiser ★",
+                "monster_level": "Lv 111 Monster",
+                "drop_rate": "?%"
+            }
+        }
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/cards/card_10066.jpg",
+        "name": "Dokebi Card",
+        "effect": "Turn the armor's element into Wind",
+        "perma_buff": "Def ＋4",
+        "card_slot": "unknown",
+        "card_type": "unknown",
+        "metadata": {
+            "common_data": {
+                "level": "0",
+                "max_stack": "9999",
+                "sellable": "Yes",
+                "sell_price": "5,000",
+                "auctionable": "Yes",
+                "storageable": "Yes"
+            },
+            "drop_data": {
+                "dropped_by": "Dokebi",
+                "monster_level": "Lv 69 Monster",
+                "drop_rate": "?%"
+            }
+        }
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/cards/card_30017.jpg",
+        "name": "Detarderous Card",
+        "effect": "Avoid freezing effect, , When suffering M.Atk, There is a 5% chance to trigger [Heaven's Drive] Lv.3",
+        "perma_buff": "Max HP ＋112",
+        "card_slot": "unknown",
+        "card_type": "unknown",
+        "metadata": {
+            "common_data": {
+                "level": "0",
+                "max_stack": "9999",
+                "sellable": "Yes",
+                "sell_price": "500,000",
+                "auctionable": "Yes",
+                "storageable": "Yes"
+            },
+            "drop_data": {
+                "dropped_by": "Detarderous",
+                "monster_level": "Lv 90 MVP",
+                "drop_rate": "?%"
+            }
+        }
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/cards/card_10049.jpg",
+        "name": "Desert Wolf Card",
+        "effect": "Damage to S-size monsters ＋25%, Atk ＋15",
+        "perma_buff": "Atk ＋8",
+        "card_slot": "unknown",
+        "card_type": "unknown",
+        "metadata": {
+            "common_data": {
+                "level": "0",
+                "max_stack": "9999",
+                "sellable": "Yes",
+                "sell_price": "50,000",
+                "auctionable": "Yes",
+                "storageable": "Yes"
+            },
+            "drop_data": {
+                "dropped_by": "Desert Wolf",
+                "monster_level": "Lv 53 Monster",
+                "drop_rate": "?%"
+            }
+        }
     },
     {
         "imgsrc": null,
@@ -61,7 +212,22 @@
         "effect": "When suffering attack from physical skills, Caster has a chance to trigger Meteor Storm Lv.10",
         "perma_buff": "Fire Dmg ＋8%",
         "card_slot": "unknown",
-        "card_type": "unknown"
+        "card_type": "unknown",
+        "metadata": {
+            "common_data": {
+                "level": "9999",
+                "max_stack": "Yes",
+                "sellable": "500,000",
+                "sell_price": "Yes",
+                "auctionable": "Yes",
+                "storageable": "unknown"
+            },
+            "drop_data": {
+                "dropped_by": "Dark Lord",
+                "monster_level": "Lv 100 MVP",
+                "drop_rate": "?%"
+            }
+        }
     },
     {
         "imgsrc": null,
@@ -69,7 +235,63 @@
         "effect": "auto attack has a chance to decrease the target's SP value",
         "perma_buff": "Equipment ASPD ＋1%",
         "card_slot": "unknown",
-        "card_type": "unknown"
+        "card_type": "unknown",
+        "metadata": {
+            "common_data": {
+                "level": "9999",
+                "max_stack": "Yes",
+                "sellable": "5,000",
+                "sell_price": "Yes",
+                "auctionable": "Yes",
+                "storageable": "unknown"
+            },
+            "drop_data": {
+                "dropped_by": "Dark Priest",
+                "monster_level": "Lv 90 Monster",
+                "drop_rate": "?%"
+            }
+        }
+    },
+    {
+        "imgsrc": null,
+        "name": "Cornus Card",
+        "effect": "Holy Dmg Taken -15%, Damage to Holy Monsters ＋5%",
+        "perma_buff": "Max HP ＋28",
+        "card_slot": "unknown",
+        "card_type": "unknown",
+        "metadata": {
+            "common_data": {
+                "level": "9999",
+                "max_stack": "Yes",
+                "sellable": "50,000",
+                "sell_price": "Yes",
+                "auctionable": "Yes",
+                "storageable": "unknown"
+            }
+        }
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/cards/card_10085.jpg",
+        "name": "Cramp Card",
+        "effect": "Luk ＋3, Flee ＋5",
+        "perma_buff": "Flee ＋4",
+        "card_slot": "unknown",
+        "card_type": "unknown",
+        "metadata": {
+            "common_data": {
+                "level": "0",
+                "max_stack": "9999",
+                "sellable": "Yes",
+                "sell_price": "5,000",
+                "auctionable": "Yes",
+                "storageable": "Yes"
+            },
+            "drop_data": {
+                "dropped_by": "Cramp",
+                "monster_level": "Lv 83 Monster",
+                "drop_rate": "?%"
+            }
+        }
     },
     {
         "imgsrc": null,
@@ -77,55 +299,40 @@
         "effect": "Dark Dmg Taken -15%, Damage to Dark Monsters ＋5%",
         "perma_buff": "Max HP ＋28",
         "card_slot": "unknown",
-        "card_type": "unknown"
+        "card_type": "unknown",
+        "metadata": {
+            "common_data": {
+                "level": "9999",
+                "max_stack": "Yes",
+                "sellable": "50,000",
+                "sell_price": "Yes",
+                "auctionable": "Yes",
+                "storageable": "unknown"
+            }
+        }
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/cards/card_10049.jpg",
-        "name": "Desert Wolf Card",
-        "effect": "Damage to S-size monsters ＋25%, Atk ＋15",
-        "perma_buff": "Atk ＋8",
-        "card_slot": "unknown",
-        "card_type": "unknown"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/cards/card_30017.jpg",
-        "name": "Detarderous Card",
-        "effect": "Avoid freezing effect, , When suffering M.Atk, There is a 5% chance to trigger [Heaven's Drive] Lv.3",
-        "perma_buff": "Max HP ＋112",
-        "card_slot": "unknown",
-        "card_type": "unknown"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/cards/card_30003.jpg",
-        "name": "Deviling Card",
-        "effect": "Neutral Dmg Taken -50%,  Other Dmg Taken from Other Attributes ＋50%",
-        "perma_buff": "Damage Taken Reduction ＋2%",
-        "card_slot": "Garment",
-        "card_type": "MVP"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/cards/card_10073.jpg",
+        "imgsrc": "s01.cdn.roguard.net/content/img/cards/card_10073.jpg",
         "name": "Deviruchi Card",
         "effect": "Str ＋3, , Avoid darkness effect",
         "perma_buff": "Max HP ＋24",
         "card_slot": "unknown",
-        "card_type": "unknown"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/cards/card_10066.jpg",
-        "name": "Dokebi Card",
-        "effect": "Turn the armor's element into Wind",
-        "perma_buff": "Def ＋4",
-        "card_slot": "unknown",
-        "card_type": "unknown"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/cards/card_30015.jpg",
-        "name": "Doppelganger Card",
-        "effect": "Equipment ASPD ＋15%",
-        "perma_buff": "Max HP ＋112",
-        "card_slot": "unknown",
-        "card_type": "unknown"
+        "card_type": "unknown",
+        "metadata": {
+            "common_data": {
+                "level": "0",
+                "max_stack": "9999",
+                "sellable": "Yes",
+                "sell_price": "50,000",
+                "auctionable": "Yes",
+                "storageable": "Yes"
+            },
+            "drop_data": {
+                "dropped_by": "Deviruchi",
+                "monster_level": "Lv 80 Monster",
+                "drop_rate": "?%"
+            }
+        }
     },
     {
         "imgsrc": null,
@@ -133,30 +340,108 @@
         "effect": "Earth Dmg Taken -15%, Damage to Earth Monsters ＋5%",
         "perma_buff": "Max HP ＋28",
         "card_slot": "unknown",
-        "card_type": "unknown"
+        "card_type": "unknown",
+        "metadata": {
+            "common_data": {
+                "level": "9999",
+                "max_stack": "Yes",
+                "sellable": "50,000",
+                "sell_price": "Yes",
+                "auctionable": "Yes",
+                "storageable": "unknown"
+            }
+        }
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/cards/card_60001.jpg",
-        "name": "Dracula Card",
-        "effect": "Any attack has a 10% chance to proportionally convert the damage caused by enemy into your own SP value.",
-        "perma_buff": "Max HP ＋28",
-        "card_slot": "unknown",
-        "card_type": "unknown"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/cards/card_40016.jpg",
-        "name": "Dragon Egg Card",
-        "effect": "Damage to dragon monsters ＋20%",
-        "perma_buff": "Max HP ＋24",
-        "card_slot": "unknown",
-        "card_type": "unknown"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/cards/card_20007.jpg",
+        "imgsrc": "s01.cdn.roguard.net/content/img/cards/card_20007.jpg",
         "name": "Dragon Fly Card",
         "effect": "Agi ＋4, Flee ＋5",
         "perma_buff": "Atk ＋8",
         "card_slot": "unknown",
-        "card_type": "unknown"
+        "card_type": "unknown",
+        "metadata": {
+            "common_data": {
+                "level": "0",
+                "max_stack": "9999",
+                "sellable": "Yes",
+                "sell_price": "50,000",
+                "auctionable": "Yes",
+                "storageable": "Yes"
+            },
+            "drop_data": {
+                "dropped_by": "Dragon Fly",
+                "monster_level": "Lv 50 Mini Boss",
+                "drop_rate": "?%"
+            }
+        }
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/cards/card_40016.jpg",
+        "name": "Dragon Egg Card",
+        "effect": "Damage to dragon monsters ＋20%",
+        "perma_buff": "Max HP ＋24",
+        "card_slot": "unknown",
+        "card_type": "unknown",
+        "metadata": {
+            "common_data": {
+                "level": "0",
+                "max_stack": "9999",
+                "sellable": "Yes",
+                "sell_price": "2,000",
+                "auctionable": "Yes",
+                "storageable": "Yes"
+            },
+            "drop_data": {
+                "dropped_by": "Dragon Egg",
+                "monster_level": "Lv 81 Monster",
+                "drop_rate": "?%"
+            }
+        }
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/cards/card_30015.jpg",
+        "name": "Doppelganger Card",
+        "effect": "Equipment ASPD ＋15%",
+        "perma_buff": "Max HP ＋112",
+        "card_slot": "unknown",
+        "card_type": "unknown",
+        "metadata": {
+            "common_data": {
+                "level": "0",
+                "max_stack": "9999",
+                "sellable": "Yes",
+                "sell_price": "500,000",
+                "auctionable": "Yes",
+                "storageable": "Yes"
+            },
+            "drop_data": {
+                "dropped_by": "Doppelganger",
+                "monster_level": "Lv 83 MVP",
+                "drop_rate": "?%"
+            }
+        }
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/cards/card_60001.jpg",
+        "name": "Dracula Card",
+        "effect": "Any attack has a 10% chance to proportionally convert the damage caused by enemy into your own SP value.",
+        "perma_buff": "Max HP ＋28",
+        "card_slot": "unknown",
+        "card_type": "unknown",
+        "metadata": {
+            "common_data": {
+                "level": "0",
+                "max_stack": "9999",
+                "sellable": "Yes",
+                "sell_price": "500,000",
+                "auctionable": "Yes",
+                "storageable": "Yes"
+            },
+            "drop_data": {
+                "dropped_by": "Dracula",
+                "monster_level": "Lv 100 MVP",
+                "drop_rate": "?%"
+            }
+        }
     }
 ]
