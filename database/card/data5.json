@@ -1,19 +1,21 @@
 [
     {
         "imgsrc": null,
-        "name": "Fire Fledgling Card",
-        "effect": "[Improved Acid Demonstration] and [Fire Expansion] Bottle Grenade cost -1",
-        "perma_buff": "Def ＋3",
+        "name": "Gale Speed Card",
+        "effect": "＋10% Equipment ASPD if the wearer is magician jobs",
+        "perma_buff": "Atk ＋4.5",
         "card_slot": "unknown",
-        "card_type": "unknown"
-    },
-    {
-        "imgsrc": null,
-        "name": "Fire Witch Card",
-        "effect": "M.Atk ＋20, Ignore MDef ＋4%",
-        "perma_buff": "Atk ＋8",
-        "card_slot": "unknown",
-        "card_type": "unknown"
+        "card_type": "unknown",
+        "metadata": {
+            "common_data": {
+                "level": "9999",
+                "max_stack": "Yes",
+                "sellable": "50,000",
+                "sell_price": "Yes",
+                "auctionable": "Yes",
+                "storageable": "unknown"
+            }
+        }
     },
     {
         "imgsrc": null,
@@ -21,111 +23,137 @@
         "effect": "Damage to Earth Monsters ＋20%, Fire Dmg ＋10%",
         "perma_buff": "Atk ＋12",
         "card_slot": "unknown",
-        "card_type": "unknown"
+        "card_type": "unknown",
+        "metadata": {
+            "common_data": {
+                "level": "9999",
+                "max_stack": "Yes",
+                "sellable": "500,000",
+                "sell_price": "Yes",
+                "auctionable": "Yes",
+                "storageable": "unknown"
+            },
+            "drop_data": {
+                "dropped_by": "Firelord Kaho",
+                "monster_level": "Lv 126 MVP",
+                "drop_rate": "?%"
+            }
+        }
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/cards/card_10037.jpg",
+        "imgsrc": "s01.cdn.roguard.net/content/img/cards/card_10037.jpg",
         "name": "Flora Card",
         "effect": "Dmg to fish race ＋15%",
         "perma_buff": "Dmg to fish race ＋2%",
         "card_slot": "unknown",
-        "card_type": "unknown"
+        "card_type": "unknown",
+        "metadata": {
+            "common_data": {
+                "level": "0",
+                "max_stack": "9999",
+                "sellable": "Yes",
+                "sell_price": "2,000",
+                "auctionable": "Yes",
+                "storageable": "Yes"
+            },
+            "drop_data": {
+                "dropped_by": "Flora",
+                "monster_level": "Lv 41 Monster",
+                "drop_rate": "?%"
+            }
+        }
     },
     {
         "imgsrc": null,
-        "name": "Gale Speed Card",
-        "effect": "＋10% Equipment ASPD if the wearer is magician jobs",
-        "perma_buff": "Atk ＋4.5",
+        "name": "Fire Witch Card",
+        "effect": "M.Atk ＋20, Ignore MDef ＋4%",
+        "perma_buff": "Atk ＋8",
         "card_slot": "unknown",
-        "card_type": "unknown"
+        "card_type": "unknown",
+        "metadata": {
+            "common_data": {
+                "level": "9999",
+                "max_stack": "Yes",
+                "sellable": "50,000",
+                "sell_price": "Yes",
+                "auctionable": "Yes",
+                "storageable": "unknown"
+            },
+            "drop_data": {
+                "dropped_by": "Fire Witch",
+                "monster_level": "Lv 128 Mini Boss",
+                "drop_rate": "?%"
+            }
+        }
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/cards/card_10081.jpg",
-        "name": "Gargoyle Card",
-        "effect": "When insect monsters are skilled, caster has a 3% chance to increase moving speed by 25%; the effect lasts 20 seconds.",
-        "perma_buff": "Move Spd ＋1%",
-        "card_slot": "unknown",
-        "card_type": "unknown"
-    },
-    {
-        "imgsrc": null,
-        "name": "Gargoyle Card",
-        "effect": "Ignore 3% Def, MDef ＋30",
-        "perma_buff": "Max HP ＋30",
-        "card_slot": "unknown",
-        "card_type": "unknown"
-    },
-    {
-        "imgsrc": null,
-        "name": "Geographer Card",
-        "effect": "When the wearer is an Acolyte, ＋20% damage reduction against Demon and Undead",
-        "perma_buff": "Max HP ＋60",
-        "card_slot": "unknown",
-        "card_type": "unknown"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/cards/card_20004.jpg",
-        "name": "Ghosting Card",
-        "effect": "Turn the armor's element into Ghost, HP Regen -50%",
-        "perma_buff": "Def ＋4",
-        "card_slot": "Armor",
-        "card_type": "Mini Boss"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/cards/card_10045.jpg",
-        "name": "Giearth Card",
-        "effect": "Avoid sleeping effect",
-        "perma_buff": "Earth Dmg Taken -2%",
-        "card_slot": "unknown",
-        "card_type": "unknown"
-    },
-    {
-        "imgsrc": null,
-        "name": "Gingerbread Man Card",
-        "effect": "Luk ＋3",
-        "perma_buff": "M.Def ＋2",
-        "card_slot": "unknown",
-        "card_type": "unknown"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/cards/card_10034.jpg",
-        "name": "Goblin Archer Card",
-        "effect": "Crit.Dmg ＋10%, Crit to undead monsters ＋20",
-        "perma_buff": "Crit.Dmg ＋5%",
-        "card_slot": "unknown",
-        "card_type": "unknown"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/cards/card_10029.jpg",
-        "name": "Goblin Card",
-        "effect": "Dmg to brute race ＋15%",
-        "perma_buff": "Dmg to brute race ＋2%",
-        "card_slot": "unknown",
-        "card_type": "unknown"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/cards/card_30006.jpg",
+        "imgsrc": "s01.cdn.roguard.net/content/img/cards/card_30006.jpg",
         "name": "Goblin Leader Card",
         "effect": "Melee auto attack brings HP Regen equal to 5% damage",
         "perma_buff": "Atk ＋12",
         "card_slot": "unknown",
-        "card_type": "unknown"
+        "card_type": "unknown",
+        "metadata": {
+            "common_data": {
+                "level": "0",
+                "max_stack": "9999",
+                "sellable": "Yes",
+                "sell_price": "500,000",
+                "auctionable": "Yes",
+                "storageable": "Yes"
+            },
+            "drop_data": {
+                "dropped_by": "Goblin Leader",
+                "monster_level": "Lv 50 MVP",
+                "drop_rate": "?%"
+            }
+        }
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/cards/card_30002.jpg",
-        "name": "Golden Thief Bug Card",
-        "effect": "All Magic Dmg Taken -50%, SP cost of skill use ＋100%",
-        "perma_buff": "Max HP ＋112",
-        "card_slot": "Shield",
-        "card_type": "MVP"
+        "imgsrc": "s01.cdn.roguard.net/content/img/cards/card_20004.jpg",
+        "name": "Ghosting Card",
+        "effect": "Turn the armor's element into Ghost, HP Regen -50%",
+        "perma_buff": "Def ＋4",
+        "card_slot": "Armor",
+        "card_type": "Mini Boss",
+        "metadata": {
+            "common_data": {
+                "level": "0",
+                "max_stack": "9999",
+                "sellable": "Yes",
+                "sell_price": "50,000",
+                "auctionable": "Yes",
+                "storageable": "Yes"
+            },
+            "drop_data": {
+                "dropped_by": "Ghosting",
+                "monster_level": "Lv 35 Mini Boss",
+                "drop_rate": "?%"
+            }
+        }
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/cards/card_10101.jpg",
-        "name": "Golem Card",
-        "effect": "Petrified Resistance ＋20%",
-        "perma_buff": "Max HP ＋24",
+        "imgsrc": "s01.cdn.roguard.net/content/img/cards/card_10045.jpg",
+        "name": "Giearth Card",
+        "effect": "Avoid sleeping effect",
+        "perma_buff": "Earth Dmg Taken -2%",
         "card_slot": "unknown",
-        "card_type": "unknown"
+        "card_type": "unknown",
+        "metadata": {
+            "common_data": {
+                "level": "0",
+                "max_stack": "9999",
+                "sellable": "Yes",
+                "sell_price": "5,000",
+                "auctionable": "Yes",
+                "storageable": "Yes"
+            },
+            "drop_data": {
+                "dropped_by": "Giearth",
+                "monster_level": "Lv 48 Monster",
+                "drop_rate": "?%"
+            }
+        }
     },
     {
         "imgsrc": null,
@@ -133,30 +161,287 @@
         "effect": "Dmg Reduc. ＋8%, Max HP ＋500",
         "perma_buff": "Max HP ＋60",
         "card_slot": "unknown",
-        "card_type": "unknown"
+        "card_type": "unknown",
+        "metadata": {
+            "common_data": {
+                "level": "9999",
+                "max_stack": "Yes",
+                "sellable": "50,000",
+                "sell_price": "Yes",
+                "auctionable": "Yes",
+                "storageable": "unknown"
+            }
+        }
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/cards/card_10056.jpg",
-        "name": "Greatest General Card",
-        "effect": "auto attack has a 3% chance to Call Spirits (final damage ＋10%); the effect last 1 minute",
-        "perma_buff": "M.Def ＋2",
-        "card_slot": "unknown",
-        "card_type": "unknown"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/cards/card_10078.jpg",
+        "imgsrc": "s01.cdn.roguard.net/content/img/cards/card_10078.jpg",
         "name": "Green Petite Card",
         "effect": "Damage to dragon monsters ＋20%",
         "perma_buff": "Max HP ＋24",
         "card_slot": "unknown",
-        "card_type": "unknown"
+        "card_type": "unknown",
+        "metadata": {
+            "common_data": {
+                "level": "0",
+                "max_stack": "9999",
+                "sellable": "Yes",
+                "sell_price": "5,000",
+                "auctionable": "Yes",
+                "storageable": "Yes"
+            },
+            "drop_data": {
+                "dropped_by": "Green Petite",
+                "monster_level": "Lv 79 Monster",
+                "drop_rate": "?%"
+            }
+        }
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/cards/card_20009.jpg",
+        "imgsrc": null,
+        "name": "Gargoyle Card",
+        "effect": "Ignore 3% Def, MDef ＋30",
+        "perma_buff": "Max HP ＋30",
+        "card_slot": "unknown",
+        "card_type": "unknown",
+        "metadata": {
+            "common_data": {
+                "level": "9999",
+                "max_stack": "Yes",
+                "sellable": "50,000",
+                "sell_price": "Yes",
+                "auctionable": "Yes",
+                "storageable": "unknown"
+            }
+        }
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/cards/card_10081.jpg",
+        "name": "Gargoyle Card",
+        "effect": "When insect monsters are skilled, caster has a 3% chance to increase moving speed by 25%; the effect lasts 20 seconds.",
+        "perma_buff": "Move Spd ＋1%",
+        "card_slot": "unknown",
+        "card_type": "unknown",
+        "metadata": {
+            "common_data": {
+                "level": "0",
+                "max_stack": "9999",
+                "sellable": "Yes",
+                "sell_price": "5,000",
+                "auctionable": "Yes",
+                "storageable": "Yes"
+            },
+            "drop_data": {
+                "dropped_by": "Gargoyle",
+                "monster_level": "Lv 86 Monster",
+                "drop_rate": "?%"
+            }
+        }
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/cards/card_10029.jpg",
+        "name": "Goblin Card",
+        "effect": "Dmg to brute race ＋15%",
+        "perma_buff": "Dmg to brute race ＋2%",
+        "card_slot": "unknown",
+        "card_type": "unknown",
+        "metadata": {
+            "common_data": {
+                "level": "0",
+                "max_stack": "9999",
+                "sellable": "Yes",
+                "sell_price": "2,000",
+                "auctionable": "Yes",
+                "storageable": "Yes"
+            },
+            "drop_data": {
+                "dropped_by": "Goblin(Knife) ★",
+                "monster_level": "Lv 35 Monster",
+                "drop_rate": "?%"
+            }
+        }
+    },
+    {
+        "imgsrc": null,
+        "name": "Gingerbread Man Card",
+        "effect": "Luk ＋3",
+        "perma_buff": "M.Def ＋2",
+        "card_slot": "unknown",
+        "card_type": "unknown",
+        "metadata": {
+            "common_data": {
+                "level": "9999",
+                "max_stack": "Yes",
+                "sellable": "5,000",
+                "sell_price": "Yes",
+                "auctionable": "Yes",
+                "storageable": "unknown"
+            },
+            "drop_data": {
+                "dropped_by": "Cookie",
+                "monster_level": "Lv 108 Monster",
+                "drop_rate": "?%"
+            }
+        }
+    },
+    {
+        "imgsrc": null,
+        "name": "Geographer Card",
+        "effect": "When the wearer is an Acolyte, ＋20% damage reduction against Demon and Undead",
+        "perma_buff": "Max HP ＋60",
+        "card_slot": "unknown",
+        "card_type": "unknown",
+        "metadata": {
+            "common_data": {
+                "level": "9999",
+                "max_stack": "Yes",
+                "sellable": "50,000",
+                "sell_price": "Yes",
+                "auctionable": "Yes",
+                "storageable": "unknown"
+            },
+            "drop_data": {
+                "dropped_by": "Geographer",
+                "monster_level": "Lv 118 Monster",
+                "drop_rate": "?%"
+            }
+        }
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/cards/card_10034.jpg",
+        "name": "Goblin Archer Card",
+        "effect": "Crit.Dmg ＋10%, Crit to undead monsters ＋20",
+        "perma_buff": "Crit.Dmg ＋5%",
+        "card_slot": "unknown",
+        "card_type": "unknown",
+        "metadata": {
+            "common_data": {
+                "level": "0",
+                "max_stack": "9999",
+                "sellable": "Yes",
+                "sell_price": "50,000",
+                "auctionable": "Yes",
+                "storageable": "Yes"
+            },
+            "drop_data": {
+                "dropped_by": "Goblin Archer",
+                "monster_level": "Lv 37 Monster",
+                "drop_rate": "?%"
+            }
+        }
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/cards/card_10101.jpg",
+        "name": "Golem Card",
+        "effect": "Petrified Resistance ＋20%",
+        "perma_buff": "Max HP ＋24",
+        "card_slot": "unknown",
+        "card_type": "unknown",
+        "metadata": {
+            "common_data": {
+                "level": "0",
+                "max_stack": "9999",
+                "sellable": "Yes",
+                "sell_price": "2,000",
+                "auctionable": "Yes",
+                "storageable": "Yes"
+            },
+            "drop_data": {
+                "dropped_by": "Golem",
+                "monster_level": "Lv 55 Monster",
+                "drop_rate": "?%"
+            }
+        }
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/cards/card_30002.jpg",
+        "name": "Golden Thief Bug Card",
+        "effect": "All Magic Dmg Taken -50%, SP cost of skill use ＋100%",
+        "perma_buff": "Max HP ＋112",
+        "card_slot": "Shield",
+        "card_type": "MVP",
+        "metadata": {
+            "common_data": {
+                "level": "0",
+                "max_stack": "9999",
+                "sellable": "Yes",
+                "sell_price": "500,000",
+                "auctionable": "Yes",
+                "storageable": "Yes"
+            },
+            "drop_data": {
+                "dropped_by": "Golden Thief Bug",
+                "monster_level": "Lv 30 MVP",
+                "drop_rate": "?%"
+            }
+        }
+    },
+    {
+        "imgsrc": null,
+        "name": "Fire Fledgling Card",
+        "effect": "[Improved Acid Demonstration] and [Fire Expansion] Bottle Grenade cost -1",
+        "perma_buff": "Def ＋3",
+        "card_slot": "unknown",
+        "card_type": "unknown",
+        "metadata": {
+            "common_data": {
+                "level": "9999",
+                "max_stack": "Yes",
+                "sellable": "5,000",
+                "sell_price": "Yes",
+                "auctionable": "Yes",
+                "storageable": "unknown"
+            },
+            "drop_data": {
+                "dropped_by": "Fire Fledgling",
+                "monster_level": "Lv 124 Monster",
+                "drop_rate": "?%"
+            }
+        }
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/cards/card_10056.jpg",
+        "name": "Greatest General Card",
+        "effect": "auto attack has a 3% chance to Call Spirits (final damage ＋10%); the effect last 1 minute",
+        "perma_buff": "M.Def ＋2",
+        "card_slot": "unknown",
+        "card_type": "unknown",
+        "metadata": {
+            "common_data": {
+                "level": "0",
+                "max_stack": "9999",
+                "sellable": "Yes",
+                "sell_price": "5,000",
+                "auctionable": "Yes",
+                "storageable": "Yes"
+            },
+            "drop_data": {
+                "dropped_by": "Greatest General",
+                "monster_level": "Lv 60 Monster",
+                "drop_rate": "?%"
+            }
+        }
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/cards/card_20009.jpg",
         "name": "Gryphon Card",
         "effect": "Flee ＋10, Cri ＋5, , When the item is equipped by swordsman, auto attack has a 3% chance to trigger [Bowling Bash] Lv.5",
         "perma_buff": "Atk ＋8",
         "card_slot": "unknown",
-        "card_type": "unknown"
+        "card_type": "unknown",
+        "metadata": {
+            "common_data": {
+                "level": "0",
+                "max_stack": "9999",
+                "sellable": "Yes",
+                "sell_price": "50,000",
+                "auctionable": "Yes",
+                "storageable": "Yes"
+            },
+            "drop_data": {
+                "dropped_by": "Gryphon",
+                "monster_level": "Lv 70 Mini Boss",
+                "drop_rate": "?%"
+            }
+        }
     }
 ]
