@@ -1,51 +1,21 @@
 [
     {
         "imgsrc": null,
-        "name": "万圣魔卡片",
-        "effect": "魔法防御＋2%, 魔法防御＋15",
-        "perma_buff": "Def ＋3",
-        "card_slot": "Accecssory",
-        "card_type": "Normal"
-    },
-    {
-        "imgsrc": null,
-        "name": "倾城卡片",
-        "effect": "Max HP ＋500",
-        "perma_buff": "PVP(GVG)中对玩家伤害＋3%",
-        "card_slot": "unknown",
-        "card_type": "unknown"
-    },
-    {
-        "imgsrc": null,
-        "name": "兔斯拉卡片",
-        "effect": "物伤减免＋2%, 生命上限＋100",
-        "perma_buff": "Def ＋3",
-        "card_slot": "unknown",
-        "card_type": "unknown"
-    },
-    {
-        "imgsrc": null,
-        "name": "兽人腐尸★卡片",
-        "effect": "生命上限＋3000, , 受到物理攻击时，有一定概率（10%）给与敌人随机状态异常（眩昏、诅咒、沉默、中毒、流血）",
-        "perma_buff": "Atk ＋8",
-        "card_slot": "unknown",
-        "card_type": "unknown"
-    },
-    {
-        "imgsrc": null,
-        "name": "凯美拉★卡片",
-        "effect": "受到物理伤害时3%几率使中毒。当盗贼系装备时12%使中毒, , 避免陷入中毒状态, 对中毒的目标造成伤害＋20%",
-        "perma_buff": "M.Atk ＋12",
-        "card_slot": "unknown",
-        "card_type": "unknown"
-    },
-    {
-        "imgsrc": null,
-        "name": "凯美拉亡者卡片",
-        "effect": "普通攻击时有3%概率自动施放【天使加护】Lv.1技能，使自身接下来的3秒时间内无敌",
+        "name": "月夜猫亡者卡片",
+        "effect": "闪避＋20, 灵巧＋5, 物理穿刺＋3%",
         "perma_buff": "Atk ＋12",
         "card_slot": "unknown",
-        "card_type": "unknown"
+        "card_type": "unknown",
+        "metadata": {
+            "common_data": {
+                "level": "9999",
+                "max_stack": "Yes",
+                "sellable": "50,000",
+                "sell_price": "Yes",
+                "auctionable": "Yes",
+                "storageable": "unknown"
+            }
+        }
     },
     {
         "imgsrc": null,
@@ -53,7 +23,17 @@
         "effect": "受到不死属性伤害－5%, 对不死属性魔物伤害＋10%",
         "perma_buff": "Max HP ＋60",
         "card_slot": "Shield",
-        "card_type": "Normal"
+        "card_type": "Normal",
+        "metadata": {
+            "common_data": {
+                "level": "9999",
+                "max_stack": "Yes",
+                "sellable": "5,000",
+                "sell_price": "Yes",
+                "auctionable": "Yes",
+                "storageable": "unknown"
+            }
+        }
     },
     {
         "imgsrc": null,
@@ -61,71 +41,71 @@
         "effect": "暴击＋5, 敏捷＋5, 灵巧+2, 移动速度＋5%",
         "perma_buff": "M.Atk ＋8",
         "card_slot": "Footgear",
-        "card_type": "Mini Boss"
+        "card_type": "Mini Boss",
+        "metadata": {
+            "common_data": {
+                "level": "9999",
+                "max_stack": "Yes",
+                "sellable": "50,000",
+                "sell_price": "Yes",
+                "auctionable": "Yes",
+                "storageable": "unknown"
+            }
+        }
     },
     {
         "imgsrc": null,
-        "name": "嗜血怪人卡片",
-        "effect": "暴击＋7，暴击伤害增加＋12%, , 普通攻击，暴击时有概率（10%）获得【嗜血】状态，普通攻击伤害＋5%，持续5秒",
-        "perma_buff": "Max HP ＋112",
+        "name": "万圣魔卡片",
+        "effect": "魔法防御＋2%, 魔法防御＋15",
+        "perma_buff": "Def ＋3",
+        "card_slot": "Accecssory",
+        "card_type": "Normal",
+        "metadata": {
+            "common_data": {
+                "level": "9999",
+                "max_stack": "Yes",
+                "sellable": "5,000",
+                "sell_price": "Yes",
+                "auctionable": "Yes",
+                "storageable": "unknown"
+            }
+        }
+    },
+    {
+        "imgsrc": null,
+        "name": "凯美拉★卡片",
+        "effect": "受到物理伤害时3%几率使中毒。当盗贼系装备时12%使中毒, , 避免陷入中毒状态, 对中毒的目标造成伤害＋20%",
+        "perma_buff": "M.Atk ＋12",
         "card_slot": "unknown",
-        "card_type": "unknown"
+        "card_type": "unknown",
+        "metadata": {
+            "common_data": {
+                "level": "9999",
+                "max_stack": "Yes",
+                "sellable": "50,000",
+                "sell_price": "Yes",
+                "auctionable": "Yes",
+                "storageable": "unknown"
+            }
+        }
     },
     {
         "imgsrc": null,
-        "name": "土人★卡片",
-        "effect": "暴击防护＋15, 当盔甲精炼＋10及以上时，暴击防护＋15",
-        "perma_buff": "Max HP ＋72",
-        "card_slot": "unknown",
-        "card_type": "unknown"
-    },
-    {
-        "imgsrc": null,
-        "name": "墓碑怪人卡片",
-        "effect": "物理防御＋2%, 魔法防御＋2%, 物理防御＋10, 魔法防御＋10",
-        "perma_buff": "M.Def ＋3",
-        "card_slot": "unknown",
-        "card_type": "unknown"
-    },
-    {
-        "imgsrc": null,
-        "name": "守护卡片",
-        "effect": "Max HP ＋500",
-        "perma_buff": "PVP(GVG)中受玩家伤害－3%",
-        "card_slot": "unknown",
-        "card_type": "unknown"
-    },
-    {
-        "imgsrc": null,
-        "name": "完美舞姿",
-        "effect": "当诗人或舞娘系职业演奏时，佩戴者每800点魔法上限可以使周围5米范围内队友提升1%物理和魔法伤害减免",
+        "name": "凯美拉亡者卡片",
+        "effect": "普通攻击时有3%概率自动施放【天使加护】Lv.1技能，使自身接下来的3秒时间内无敌",
         "perma_buff": "Atk ＋12",
         "card_slot": "unknown",
-        "card_type": "unknown"
-    },
-    {
-        "imgsrc": null,
-        "name": "恶灵★卡片",
-        "effect": "全能力＋1, 晕眩、冰冻类型攻击的晕眩、冰冻概率＋25%，晕眩、冰冻时间＋25%",
-        "perma_buff": "M.Atk ＋8",
-        "card_slot": "unknown",
-        "card_type": "unknown"
-    },
-    {
-        "imgsrc": null,
-        "name": "恶魔波利★卡片",
-        "effect": "受到无属性伤害＋50%, 受到其他属性伤害-20%, , 【恶魔波利亡者卡片】和【恶魔波利★卡片】一起装备时，受到无属性伤害-50%，受到物理伤害-15%",
-        "perma_buff": "物伤减免＋1%，生命上限＋36",
-        "card_slot": "unknown",
-        "card_type": "unknown"
-    },
-    {
-        "imgsrc": null,
-        "name": "恶魔波利亡者卡片",
-        "effect": "受到魔法伤害-30%, 受到物理伤害＋15%, , 【恶魔波利亡者卡片】和【恶魔波利★卡片】一起装备时，受到无属性伤害-50%，受到物理伤害-15%",
-        "perma_buff": "魔伤减免＋1%，生命上限＋36",
-        "card_slot": "unknown",
-        "card_type": "unknown"
+        "card_type": "unknown",
+        "metadata": {
+            "common_data": {
+                "level": "9999",
+                "max_stack": "Yes",
+                "sellable": "50,000",
+                "sell_price": "Yes",
+                "auctionable": "Yes",
+                "storageable": "unknown"
+            }
+        }
     },
     {
         "imgsrc": null,
@@ -133,15 +113,17 @@
         "effect": "当佩戴者是刺客系职业时，对中毒的目标造成伤害＋10%, , 当佩戴者是刺客系职业时，攻击中毒的目标有5%概率使目标晕眩3秒",
         "perma_buff": "M.Atk ＋12",
         "card_slot": "unknown",
-        "card_type": "unknown"
-    },
-    {
-        "imgsrc": null,
-        "name": "无颅武士卡片",
-        "effect": "受到火属性伤害－15%, 【枪阵-血十字】伤害＋10%",
-        "perma_buff": "Max HP ＋60",
-        "card_slot": "Garment",
-        "card_type": "Normal"
+        "card_type": "unknown",
+        "metadata": {
+            "common_data": {
+                "level": "9999",
+                "max_stack": "Yes",
+                "sellable": "50,000",
+                "sell_price": "Yes",
+                "auctionable": "Yes",
+                "storageable": "unknown"
+            }
+        }
     },
     {
         "imgsrc": null,
@@ -149,14 +131,232 @@
         "effect": "永久提升移速30%, , 避免移动速度降低",
         "perma_buff": "移动速度＋2%",
         "card_slot": "unknown",
-        "card_type": "unknown"
+        "card_type": "unknown",
+        "metadata": {
+            "common_data": {
+                "level": "9999",
+                "max_stack": "Yes",
+                "sellable": "50,000",
+                "sell_price": "Yes",
+                "auctionable": "Yes",
+                "storageable": "unknown"
+            }
+        }
     },
     {
         "imgsrc": null,
-        "name": "月夜猫亡者卡片",
-        "effect": "闪避＋20, 灵巧＋5, 物理穿刺＋3%",
+        "name": "守护卡片",
+        "effect": "Max HP ＋500",
+        "perma_buff": "PVP(GVG)中受玩家伤害－3%",
+        "card_slot": "unknown",
+        "card_type": "unknown",
+        "metadata": {
+            "common_data": {
+                "level": "9999",
+                "max_stack": "Yes",
+                "sellable": "50,000",
+                "sell_price": "Yes",
+                "auctionable": "Yes",
+                "storageable": "unknown"
+            }
+        }
+    },
+    {
+        "imgsrc": null,
+        "name": "恶灵★卡片",
+        "effect": "全能力＋1, 晕眩、冰冻类型攻击的晕眩、冰冻概率＋25%，晕眩、冰冻时间＋25%",
+        "perma_buff": "M.Atk ＋8",
+        "card_slot": "unknown",
+        "card_type": "unknown",
+        "metadata": {
+            "common_data": {
+                "level": "9999",
+                "max_stack": "Yes",
+                "sellable": "50,000",
+                "sell_price": "Yes",
+                "auctionable": "Yes",
+                "storageable": "unknown"
+            }
+        }
+    },
+    {
+        "imgsrc": null,
+        "name": "嗜血怪人卡片",
+        "effect": "暴击＋7，暴击伤害增加＋12%, , 普通攻击，暴击时有概率（10%）获得【嗜血】状态，普通攻击伤害＋5%，持续5秒",
+        "perma_buff": "Max HP ＋112",
+        "card_slot": "unknown",
+        "card_type": "unknown",
+        "metadata": {
+            "common_data": {
+                "level": "9999",
+                "max_stack": "Yes",
+                "sellable": "500,000",
+                "sell_price": "Yes",
+                "auctionable": "Yes",
+                "storageable": "unknown"
+            }
+        }
+    },
+    {
+        "imgsrc": null,
+        "name": "完美舞姿",
+        "effect": "当诗人或舞娘系职业演奏时，佩戴者每800点魔法上限可以使周围5米范围内队友提升1%物理和魔法伤害减免",
         "perma_buff": "Atk ＋12",
         "card_slot": "unknown",
-        "card_type": "unknown"
+        "card_type": "unknown",
+        "metadata": {
+            "common_data": {
+                "level": "9999",
+                "max_stack": "Yes",
+                "sellable": "50,000",
+                "sell_price": "Yes",
+                "auctionable": "Yes",
+                "storageable": "unknown"
+            }
+        }
+    },
+    {
+        "imgsrc": null,
+        "name": "恶魔波利★卡片",
+        "effect": "受到无属性伤害＋50%, 受到其他属性伤害-20%, , 【恶魔波利亡者卡片】和【恶魔波利★卡片】一起装备时，受到无属性伤害-50%，受到物理伤害-15%",
+        "perma_buff": "物伤减免＋1%，生命上限＋36",
+        "card_slot": "unknown",
+        "card_type": "unknown",
+        "metadata": {
+            "common_data": {
+                "level": "9999",
+                "max_stack": "Yes",
+                "sellable": "50,000",
+                "sell_price": "Yes",
+                "auctionable": "Yes",
+                "storageable": "unknown"
+            }
+        }
+    },
+    {
+        "imgsrc": null,
+        "name": "无颅武士卡片",
+        "effect": "受到火属性伤害－15%, 【枪阵-血十字】伤害＋10%",
+        "perma_buff": "Max HP ＋60",
+        "card_slot": "Garment",
+        "card_type": "Normal",
+        "metadata": {
+            "common_data": {
+                "level": "9999",
+                "max_stack": "Yes",
+                "sellable": "5,000",
+                "sell_price": "Yes",
+                "auctionable": "Yes",
+                "storageable": "unknown"
+            }
+        }
+    },
+    {
+        "imgsrc": null,
+        "name": "兔斯拉卡片",
+        "effect": "物伤减免＋2%, 生命上限＋100",
+        "perma_buff": "Def ＋3",
+        "card_slot": "unknown",
+        "card_type": "unknown",
+        "metadata": {
+            "common_data": {
+                "level": "9999",
+                "max_stack": "Yes",
+                "sellable": "5,000",
+                "sell_price": "Yes",
+                "auctionable": "Yes",
+                "storageable": "unknown"
+            }
+        }
+    },
+    {
+        "imgsrc": null,
+        "name": "兽人腐尸★卡片",
+        "effect": "生命上限＋3000, , 受到物理攻击时，有一定概率（10%）给与敌人随机状态异常（眩昏、诅咒、沉默、中毒、流血）",
+        "perma_buff": "Atk ＋8",
+        "card_slot": "unknown",
+        "card_type": "unknown",
+        "metadata": {
+            "common_data": {
+                "level": "9999",
+                "max_stack": "Yes",
+                "sellable": "50,000",
+                "sell_price": "Yes",
+                "auctionable": "Yes",
+                "storageable": "unknown"
+            }
+        }
+    },
+    {
+        "imgsrc": null,
+        "name": "土人★卡片",
+        "effect": "暴击防护＋15, 当盔甲精炼＋10及以上时，暴击防护＋15",
+        "perma_buff": "Max HP ＋72",
+        "card_slot": "unknown",
+        "card_type": "unknown",
+        "metadata": {
+            "common_data": {
+                "level": "9999",
+                "max_stack": "Yes",
+                "sellable": "50,000",
+                "sell_price": "Yes",
+                "auctionable": "Yes",
+                "storageable": "unknown"
+            }
+        }
+    },
+    {
+        "imgsrc": null,
+        "name": "墓碑怪人卡片",
+        "effect": "物理防御＋2%, 魔法防御＋2%, 物理防御＋10, 魔法防御＋10",
+        "perma_buff": "M.Def ＋3",
+        "card_slot": "unknown",
+        "card_type": "unknown",
+        "metadata": {
+            "common_data": {
+                "level": "9999",
+                "max_stack": "Yes",
+                "sellable": "5,000",
+                "sell_price": "Yes",
+                "auctionable": "Yes",
+                "storageable": "unknown"
+            }
+        }
+    },
+    {
+        "imgsrc": null,
+        "name": "恶魔波利亡者卡片",
+        "effect": "受到魔法伤害-30%, 受到物理伤害＋15%, , 【恶魔波利亡者卡片】和【恶魔波利★卡片】一起装备时，受到无属性伤害-50%，受到物理伤害-15%",
+        "perma_buff": "魔伤减免＋1%，生命上限＋36",
+        "card_slot": "unknown",
+        "card_type": "unknown",
+        "metadata": {
+            "common_data": {
+                "level": "9999",
+                "max_stack": "Yes",
+                "sellable": "50,000",
+                "sell_price": "Yes",
+                "auctionable": "Yes",
+                "storageable": "unknown"
+            }
+        }
+    },
+    {
+        "imgsrc": null,
+        "name": "倾城卡片",
+        "effect": "Max HP ＋500",
+        "perma_buff": "PVP(GVG)中对玩家伤害＋3%",
+        "card_slot": "unknown",
+        "card_type": "unknown",
+        "metadata": {
+            "common_data": {
+                "level": "9999",
+                "max_stack": "Yes",
+                "sellable": "50,000",
+                "sell_price": "Yes",
+                "auctionable": "Yes",
+                "storageable": "unknown"
+            }
+        }
     }
 ]
