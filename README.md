@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/suraneti/roguard-clone-service.svg?branch=master)](https://travis-ci.com/suraneti/roguard-clone-service)
+
 ## Running
 
 Make sure you have [Node.js](http://nodejs.org/)
