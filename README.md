@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.com/suraneti/roguard-clone-service.svg?branch=master)](https://travis-ci.com/suraneti/roguard-clone-service)
 
-# ROGuard Clone Service
+# ROGuard Clone Data Service
 
 Service that clone ragnarok mobile data (monster, card, equipment, item) and generate as json file from https://www.roguard.net
 
