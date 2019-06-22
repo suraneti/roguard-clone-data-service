@@ -1,122 +1,122 @@
 [
     {
         "imgsrc": null,
-        "name": "Chocolate Donuts",
-        "slot": "Mouth",
-        "status": "INT ＋1, Str ＋1, Atk ＋5"
-    },
-    {
-        "imgsrc": null,
-        "name": "Christmas Beret",
+        "name": "Cersei's Memory",
         "slot": "Head",
-        "status": "Def ＋20, CritRes ＋10"
+        "status": "Luk ＋5, Attack Spd ＋5%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41533.png",
+        "name": "Chain",
+        "slot": "Mace",
+        "status": "Atk + 90"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42005.png",
+        "name": "Chain Mail",
+        "slot": "Armour",
+        "status": "VIT ＋2, HP Regen ＋3%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42005.png",
+        "name": "Chain Mail [1]",
+        "slot": "Armour",
+        "status": "VIT ＋2, HP Regen ＋3%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41533.png",
+        "name": "Chain [2]",
+        "slot": "Mace",
+        "status": "Atk + 90"
     },
     {
         "imgsrc": null,
-        "name": "Christmas Beret [1]",
-        "slot": "Head",
-        "status": "Def ＋20, CritRes ＋10"
-    },
-    {
-        "imgsrc": null,
-        "name": "Christmas Clothing Series",
+        "name": "Chameleon Armor",
         "slot": "Armour",
         "status": ""
     },
     {
         "imgsrc": null,
-        "name": "Christmas Horn",
-        "slot": "Head",
-        "status": "Luk ＋2, Atk ＋5"
+        "name": "Chameleon Armor [1]",
+        "slot": "Armour",
+        "status": ""
     },
     {
         "imgsrc": null,
-        "name": "Christmas Horn [1]",
-        "slot": "Head",
-        "status": "Luk ＋2, Atk ＋5"
+        "name": "Chameleon Boots",
+        "slot": "Shoes",
+        "status": "Move Spd ＋9%, Agi ＋6, Max HP ＋500, [Advanced Sack Teddy Shoes] ＋ [Cat's Blessing VI] ＋ [Blueeve Cape IV]: Strength ＋ 5, Attack Spd ＋ 5%"
     },
     {
         "imgsrc": null,
-        "name": "Christmas Pack",
-        "slot": "Head",
-        "status": "Def ＋10"
+        "name": "Chameleon Boots [1]",
+        "slot": "Shoes",
+        "status": "Move Spd ＋9%, Agi ＋6, Max HP ＋500, [Advanced Sack Teddy Shoes] ＋ [Cat's Blessing VI] ＋ [Blueeve Cape IV]: Strength ＋ 5, Attack Spd ＋ 5%"
     },
     {
         "imgsrc": null,
-        "name": "Christmas Pack [1]",
-        "slot": "Head",
-        "status": "Def ＋10"
+        "name": "Chameleon Manteau",
+        "slot": "Robe",
+        "status": "Def + 25"
     },
     {
         "imgsrc": null,
-        "name": "Christmas Propeller",
-        "slot": "Head",
-        "status": "Max HP ＋100"
+        "name": "Chameleon Manteau [1]",
+        "slot": "Robe",
+        "status": "Def + 25"
     },
     {
         "imgsrc": null,
-        "name": "Christmas Propeller [1]",
-        "slot": "Head",
-        "status": "Max HP ＋100"
+        "name": "Chameleon Ring",
+        "slot": "Accessory",
+        "status": ""
     },
     {
         "imgsrc": null,
-        "name": "Christmas Ribbon",
+        "name": "Chameleon Ring [1]",
+        "slot": "Accessory",
+        "status": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45125.png",
+        "name": "Charming Ribbon",
+        "slot": "Head",
+        "status": "Damage reduction of undead race ＋5%, Damage reduction of demon race ＋5%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45125.png",
+        "name": "Charming Ribbon [1]",
+        "slot": "Head",
+        "status": "Damage reduction of undead race ＋5%, Damage reduction of demon race ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Chef Hat",
+        "slot": "Head",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Chef Hat",
         "slot": "Head",
         "status": "Dex ＋3, AGI ＋3"
     },
     {
         "imgsrc": null,
-        "name": "Christmas Ribbon [1]",
+        "name": "Chef Hat II",
         "slot": "Head",
-        "status": "Luk ＋5, Max SP ＋100"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_48523.png",
-        "name": "Cigarette",
-        "slot": "Mouth",
-        "status": "Def ＋10, Damage reduction of Insect race ＋5%"
+        "status": "Dex ＋3, AGI ＋3"
     },
     {
         "imgsrc": null,
-        "name": "Claw [1]",
-        "slot": "Knuckle",
-        "status": "Str ＋10, For Refining ＋5, ＋10, ＋15, Atk ＋5%, ＋10%, ＋15%, Refining increases by 1, auto attack increases by 60 points"
+        "name": "Chef Hat III",
+        "slot": "Head",
+        "status": "Dex ＋3, AGI ＋3"
     },
     {
         "imgsrc": null,
-        "name": "Claw [2]",
-        "slot": "Knuckle",
-        "status": "Str ＋10, For Refining ＋5, ＋10, ＋15, Atk ＋5%, ＋10%, ＋15%, Refining increases by 1, auto attack increases by 60 points"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42013.png",
-        "name": "Claytos Cracking Earth Armor",
-        "slot": "Armour",
-        "status": "Def + 37"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42013.png",
-        "name": "Claytos Cracking Earth Armor [1]",
-        "slot": "Armour",
-        "status": "Def + 37"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41805.png",
-        "name": "Cleaver [1]",
-        "slot": "Axe",
-        "status": "HP Regen ＋10, auto attacks has a 5% chance to increase Atk for a while, but this effect cause HP loss, When killing demi-human monsters, Caster has a 10% chance to restore his/her own HP"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41805.png",
-        "name": "Cleaver [2]",
-        "slot": "Axe",
-        "status": "HP Regen ＋10, auto attacks has a 5% chance to increase Atk for a while, but this effect cause HP loss, When killing demi-human monsters, Caster has a 10% chance to restore his/her own HP"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_44011.png",
-        "name": "Clip",
-        "slot": "Accessory",
-        "status": "Atk + 30"
+        "name": "Chemical Protection Gloves",
+        "slot": "Bracer",
+        "status": "M.Def ＋10, Dex ＋2, Max HP ＋500, For Refining ＋8, Atk ＋3%; For Refining ＋12, Ignore Def ＋5%"
     }
 ]

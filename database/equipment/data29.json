@@ -1,122 +1,122 @@
 [
     {
         "imgsrc": null,
-        "name": "Dark Randgris Helm [1]",
-        "slot": "Head",
-        "status": "All Attributes ＋2, Max HP ＋800"
-    },
-    {
-        "imgsrc": null,
-        "name": "Dark Shadow",
-        "slot": "Katar",
+        "name": "Costume·Wishing Wear·Starfish Yellow",
+        "slot": "Armour",
         "status": ""
     },
     {
         "imgsrc": null,
-        "name": "Dark Wizard Hat",
-        "slot": "Head",
-        "status": "Overall Ability ＋2, Atk ＋12, M.Atk ＋12"
-    },
-    {
-        "imgsrc": null,
-        "name": "Darkness Orb [1]",
-        "slot": "Orb",
-        "status": "Def + 112"
-    },
-    {
-        "imgsrc": null,
-        "name": "Darkness Orb [2]",
-        "slot": "Orb",
-        "status": "Def + 112"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41504.png",
-        "name": "Dea Staff [2]",
-        "slot": "Mace",
-        "status": "Atk + 180"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41504.png",
-        "name": "Dea Staff [3]",
-        "slot": "Mace",
-        "status": "Atk + 180"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40601.png",
-        "name": "Dead Tree Cane [2]",
-        "slot": "Staff",
-        "status": "M.Atk + 180"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40601.png",
-        "name": "Dead Tree Cane [3]",
-        "slot": "Staff",
-        "status": "M.Atk + 180"
-    },
-    {
-        "imgsrc": null,
-        "name": "Death Black Crown",
-        "slot": "Head",
-        "status": "All Attributes ＋2, Pen. ＋4%, MPen. ＋4%"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42036.png",
-        "name": "Deathcat Armor",
+        "name": "Costume·Wishing Wear·Water Blue",
         "slot": "Armour",
-        "status": "Luk ＋5, When equipped by wizards, Archers, Acolytes, Silence Def ＋50%, When equipped by swordsmen, Merchants, Thieves, Stunning Def ＋50%"
+        "status": ""
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42036.png",
-        "name": "Deathcat Armor [1]",
+        "imgsrc": null,
+        "name": "Costume·Wishing Wear·Water Blue",
         "slot": "Armour",
-        "status": "Luk ＋5, When equipped by wizards, Archers, Acolytes, Silence Def ＋50%, When equipped by swordsmen, Merchants, Thieves, Stunning Def ＋50%"
+        "status": ""
     },
     {
-        "imgsrc": null,
-        "name": "Deathcat Boots",
-        "slot": "Shoes",
-        "status": "Def ＋20, When equipped by wizards, Archers, Priests, Max HP ＋(Base Lv×8), When equipped by swordsmen, Merchants, Thieves, Max SP ＋ (Job Lv x5)"
-    },
-    {
-        "imgsrc": null,
-        "name": "Deathcat Boots [1]",
-        "slot": "Shoes",
-        "status": "Def ＋20, When equipped by wizards, Archers, Priests, Max HP ＋(Base Lv×8), When equipped by swordsmen, Merchants, Thieves, Max SP ＋ (Job Lv x5)"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_43005.png",
-        "name": "Deathcat Cape",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43026.png",
+        "name": "Cotton Shirt",
         "slot": "Robe",
-        "status": "When equipped by wizards, Archers, Acolytes, Flee ＋35, When Refining ＋10, Flee ＋10, When equipped by swordsmen/merchants/thieves, Reflection of Melee Dam ＋5%, When Refining ＋10, Damage reflection ＋15%"
+        "status": "Def + 13"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45193.png",
-        "name": "Deathcat Helm [1]",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43026.png",
+        "name": "Cotton Shirt [1]",
+        "slot": "Robe",
+        "status": "Def + 13"
+    },
+    {
+        "imgsrc": null,
+        "name": "Creamy Wing",
+        "slot": "Wing",
+        "status": "No effect"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41201.png",
+        "name": "Creeper Bow [2]",
+        "slot": "Bow",
+        "status": "Atk + 180"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41201.png",
+        "name": "Creeper Bow [3]",
+        "slot": "Bow",
+        "status": "Atk + 180"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40005.png",
+        "name": "Crescent Scythe (Baphomet only)",
+        "slot": "Spear",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Crescent Scythe [1]",
+        "slot": "Spear",
+        "status": "Hit ＋30, Str ＋8, Receive [Baphomet’s Fury]: immediately cause damage (range from 1 Point - (caster's Base Lv xAdjusted Value)) to the target, Any damage endured by the caster will proportionally turns into adjusted value of [Baphomet’s Fury], For Refining ＋2, Adjusted value ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Crescent Scythe [2]",
+        "slot": "Spear",
+        "status": "Hit ＋30, Str ＋8, Receive [Baphomet’s Fury]: immediately cause damage (range from 1 Point - (caster's Base Lv xAdjusted Value)) to the target, Any damage endured by the caster will proportionally turns into adjusted value of [Baphomet’s Fury], For Refining ＋2, Adjusted value ＋5%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45110.png",
+        "name": "Cresent Hairpin",
         "slot": "Head",
-        "status": "M.Def ＋10, EXP penalty for death -20%"
+        "status": "Hit ＋10"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_43536.png",
-        "name": "Deathcat Shoes",
-        "slot": "Shoes",
-        "status": "When equipped by wizards, Archers, Priests, Max HP ＋(Base Lv×5), When equipped by swordsmen, Merchants, Thieves, Max SP ＋ (Job Lv x2)"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_43536.png",
-        "name": "Deathcat Shoes [1]",
-        "slot": "Shoes",
-        "status": "When equipped by wizards, Archers, Priests, Max HP ＋(Base Lv×5), When equipped by swordsmen, Merchants, Thieves, Max SP ＋ (Job Lv x2)"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45094.png",
-        "name": "Decorative Golden Bell",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45110.png",
+        "name": "Cresent Hairpin [1]",
         "slot": "Head",
-        "status": "M.Def ＋15"
+        "status": "Hit ＋10"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45094.png",
-        "name": "Decorative Golden Bell [1]",
-        "slot": "Head",
-        "status": "M.Def ＋15"
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_60004.png",
+        "name": "Crimson Orb",
+        "slot": "Orb",
+        "status": "Fire Dmg Taken -15%, When equipped by wizards, Fire Damage ＋10%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_60004.png",
+        "name": "Crimson Orb [1]",
+        "slot": "Orb",
+        "status": "Fire Dmg Taken -15%, When equipped by wizards, Fire Damage ＋10%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Crimson Staff [1]",
+        "slot": "Staff",
+        "status": "M.Atk + 180"
+    },
+    {
+        "imgsrc": null,
+        "name": "Crimson Staff [2]",
+        "slot": "Staff",
+        "status": "M.Atk + 180"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_44015.png",
+        "name": "Critical Ring",
+        "slot": "Accessory",
+        "status": "Atk + 60"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_44015.png",
+        "name": "Critical Ring [1]",
+        "slot": "Accessory",
+        "status": "Atk + 60"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_44001.png",
+        "name": "Critical Ring [2]",
+        "slot": "Accessory",
+        "status": "Atk + 40"
     }
 ]

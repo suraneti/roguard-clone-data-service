@@ -1,122 +1,122 @@
 [
     {
         "imgsrc": null,
-        "name": "Halloween Night",
+        "name": "Gold Clock Guardian",
+        "slot": "Head",
+        "status": "Max SP ＋50, HP Regen ＋1"
+    },
+    {
+        "imgsrc": null,
+        "name": "Gold Clock Guardian [1]",
+        "slot": "Head",
+        "status": "Max SP ＋50, HP Regen ＋1"
+    },
+    {
+        "imgsrc": null,
+        "name": "Gold Deviruchi Wing",
         "slot": "Wing",
-        "status": "When launching auto attacks, caster has a 30% chance to increase Atk by 20 points, the effect can stack up 10 times."
+        "status": "All Attributes ＋1, Dmg ＋5%, M.Dmg ＋5%"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45080.png",
-        "name": "Halo",
-        "slot": "Head",
-        "status": "Def ＋10"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45080.png",
-        "name": "Halo [1]",
-        "slot": "Head",
-        "status": "Def ＋10"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41803.png",
-        "name": "Hammer",
-        "slot": "Axe",
-        "status": "Atk + 120"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41803.png",
-        "name": "Hammer [2]",
-        "slot": "Axe",
-        "status": "Atk + 120"
-    },
-    {
-        "imgsrc": null,
-        "name": "Hamster Bugler",
-        "slot": "Head",
-        "status": "Agi ＋2, Move Spd ＋2%"
-    },
-    {
-        "imgsrc": null,
-        "name": "Hamster Bugler [1]",
-        "slot": "Head",
-        "status": "Dex ＋3, AGI ＋3"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41828.png",
-        "name": "Hand Axe",
-        "slot": "Axe",
-        "status": "Atk + 60"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41828.png",
-        "name": "Hand Axe [2]",
-        "slot": "Axe",
-        "status": "Atk + 60"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_61501.png",
-        "name": "Handcuffs [1]",
-        "slot": "Bracelet",
-        "status": "Def + 112"
-    },
-    {
-        "imgsrc": null,
-        "name": "Handcuffs [2]",
-        "slot": "Bracelet",
-        "status": "Def + 112"
-    },
-    {
-        "imgsrc": null,
-        "name": "Happy Bird",
-        "slot": "Tail",
-        "status": "Max HP ＋400, M.Atk ＋3%"
-    },
-    {
-        "imgsrc": null,
-        "name": "Happy Poem",
-        "slot": "Head",
-        "status": "Dex ＋3, AGI ＋3"
-    },
-    {
-        "imgsrc": null,
-        "name": "Happy Rose [1]",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40705.png",
+        "name": "Gold Hook Dagger",
         "slot": "Knife",
+        "status": "Atk + 198"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40705.png",
+        "name": "Gold Hook Dagger [2]",
+        "slot": "Knife",
+        "status": "Atk + 198"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/21.png",
+        "name": "Gold Lion",
+        "slot": "Mount",
+        "status": "Move Spd ＋50%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/21.png",
+        "name": "Gold Lion",
+        "slot": "Mount",
+        "status": "Move Spd ＋50%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Gold Triple Star",
+        "slot": "Head",
+        "status": "Str ＋3, INT ＋3"
+    },
+    {
+        "imgsrc": null,
+        "name": "Gold Triple Star [1]",
+        "slot": "Head",
+        "status": "Dex ＋3, AGI ＋3"
+    },
+    {
+        "imgsrc": null,
+        "name": "Golden Antenna",
+        "slot": "Head",
+        "status": "Pen. ＋2%, Atk ＋45, STR ＋2"
+    },
+    {
+        "imgsrc": null,
+        "name": "Golden Antenna [1]",
+        "slot": "Head",
+        "status": "Pen. ＋2%, Atk ＋45, STR ＋2"
+    },
+    {
+        "imgsrc": null,
+        "name": "Golden Archer",
+        "slot": "Wing",
+        "status": "Wind element damage ＋5%, Skill Sp cost －5%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45094.png",
+        "name": "Golden Bell",
+        "slot": "Head",
         "status": ""
     },
     {
         "imgsrc": null,
-        "name": "Happy Unicorn",
-        "slot": "Tail",
-        "status": "When target is killed, There is a chance to reduce all damage you suffer to 1 point; the effect lasts 3 seconds, Cooldown lasts 5 seconds (The less targets being killed in a unit time, the higher the trigger probability)"
+        "name": "Golden Bough",
+        "slot": "Staff",
+        "status": "INT ＋18, VIT ＋12, All Attributes ＋8, Healing ＋15%, SP cost of all skills -10%, M.Atk ＋15%, Ignore M.Def ＋15%, Demi-Human Race Damage ＋30%, Max HP ＋14000"
     },
     {
         "imgsrc": null,
-        "name": "Happy Watering Can Whale",
-        "slot": "Tail",
-        "status": "Damage to Wind Monsters ＋10%, Wind damage taken -10%"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45005.png",
-        "name": "Hat",
-        "slot": "Head",
-        "status": "Def ＋10"
+        "name": "Golden Bough 2 [2]",
+        "slot": "Staff",
+        "status": "INT ＋18, VIT ＋12, All Attributes ＋14, Healing ＋15%, SP cost of all skills -10%, M.Atk ＋20%, Ignore M.Def ＋25%, Demi-Human Race Damage ＋40%, Max HP ＋21000, Dmg Reduc. ＋5%, Magic Reduc. ＋5%"
     },
     {
         "imgsrc": null,
-        "name": "Hat of the Bright Moon God",
-        "slot": "Head",
-        "status": "Max HP ＋5000, Def ＋5%, MDef ＋15%, Crit Res＋15, Dmg Reduc. ＋2.5%, Magic Reduc. ＋7.5%, Poison, Holy, Dark, Ghost, Neutral damage taken -5%. Fire, Water, Earth, Wind damage taken -15%, Gain passive skill [Ring of Brilliant Moon]: Triggers every 10s, -50% Equipment ASPD and -50 Critical for nearby enemies within a 5m radius for 5s."
+        "name": "Golden Bough 3 [2]",
+        "slot": "Staff",
+        "status": "INT ＋18, VIT ＋12, All Attributes ＋20, Healing ＋15%, SP cost of all skills -10%, M.Atk ＋25%, Ignore M.Def ＋35%, Demi-Human Race Damage ＋50%, Max HP ＋28000, Dmg Reduc. ＋10%, Magic Reduc. ＋10%"
     },
     {
         "imgsrc": null,
-        "name": "Hat of the Brilliant Star God",
-        "slot": "Head",
-        "status": "Max HP ＋5000, Def ＋10%, MDef ＋10%, Crit Res＋15, Dmg Reduc. ＋5%, Magic Reduc. ＋5%, Poison, Holy, Dark, Ghost, Neutral, Fire, Water, Earth and Wind damage taken -10%, Gain passive skill [Nebula Coil]: Applies a stack of [Slow] debuff on the attack when you’re hit. Each stack reduces the attacker’s movement speed by 15% for 3s, stacking up to 3 times."
+        "name": "Golden Bough Forged",
+        "slot": "Staff",
+        "status": "INT ＋18, VIT ＋12, All Attributes ＋14, Healing ＋15%, SP cost of all skills -10%, M.Atk ＋20%, Ignore M.Def ＋25%, Demi-Human Race Damage ＋40%, Max HP ＋21000, Dmg Reduc. ＋5%, Magic Reduc. ＋5%, Golden Bough bursts the power of Yggdrasil, reviving all dead allies in a 12-meter range and restoring 60% of their Max HP. This effect is not restricted by GVG revival time. CD: 200 seconds."
     },
     {
         "imgsrc": null,
-        "name": "Hat of the Moon God",
+        "name": "Golden Bough Sky Forged",
+        "slot": "Staff",
+        "status": "INT ＋18, VIT ＋12, All Attributes ＋20, Healing ＋15%, SP cost of all skills -10%, M.Atk ＋25%, Ignore M.Def ＋35%, Demi-Human Race Damage ＋50%, Max HP ＋28000, Dmg Reduc. ＋10%, Magic Reduc. ＋10%, Golden Bough bursts the power of Yggdrasil, reviving all dead allies in a 16-meter range and restoring 100% of their Max HP. This effect will not be restricted by GVG Revive time. CD: 135 Seconds"
+    },
+    {
+        "imgsrc": null,
+        "name": "Golden Bough [2]",
+        "slot": "Staff",
+        "status": "INT ＋18, VIT ＋12, All Attributes ＋8, Healing ＋15%, SP cost of all skills -10%, M.Atk ＋15%, Ignore M.Def ＋15%, Demi-Human Race Damage ＋30%, Max HP ＋14000"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45007.png",
+        "name": "Golden Gear",
         "slot": "Head",
-        "status": "Max HP ＋4000, Def ＋5%, MDef ＋15%, Crit Res ＋15, Poison, Holy, Dark, Ghost, Neutral damage taken -5%. Fire, Water, Earth, Wind damage taken -15%, Gain passive skill [Ring of Brilliant Moon]: Triggers every 10s, -30% Equipment ASPD and -30 Critical for nearby enemies within a 5m radius for 5s."
+        "status": "Def ＋20, When Refining ＋10, Def ＋10%"
     }
 ]

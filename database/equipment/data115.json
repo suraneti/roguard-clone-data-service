@@ -1,122 +1,122 @@
 [
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_43503.png",
-        "name": "Sleipnir [1]",
-        "slot": "Shoes",
-        "status": "Def + 45"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_43503.png",
-        "name": "Sleipnir [2]",
-        "slot": "Shoes",
-        "status": "Def + 45"
+        "imgsrc": null,
+        "name": "Sakura Suit",
+        "slot": "Armour",
+        "status": "Unable to fight with Blessed effect"
     },
     {
         "imgsrc": null,
-        "name": "Small Poring Band",
+        "name": "Sakura Wedding Dress",
+        "slot": "Armour",
+        "status": "Unable to fight with Blessed effect"
+    },
+    {
+        "imgsrc": null,
+        "name": "SAKURA·SAKURA",
+        "slot": "Mouth",
+        "status": "Max SP ＋100"
+    },
+    {
+        "imgsrc": null,
+        "name": "Samambaia",
         "slot": "Head",
         "status": "Dex ＋3, AGI ＋3"
     },
     {
         "imgsrc": null,
-        "name": "Small Poring Band [1]",
+        "name": "Samambaia [1]",
         "slot": "Head",
-        "status": "Dex ＋5, Hit ＋10%"
+        "status": "Atk ＋10, M.Atk ＋10, Attack Spd ＋2%, Bonus Healing Received ＋2%"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45069.png",
-        "name": "Small Ribbons",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43523.png",
+        "name": "Sandals",
+        "slot": "Shoes",
+        "status": "Def + 9"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43523.png",
+        "name": "Sandals [1]",
+        "slot": "Shoes",
+        "status": "Def + 9"
+    },
+    {
+        "imgsrc": null,
+        "name": "Sandstorm [1]",
+        "slot": "Knife",
+        "status": "Hit ＋40, Damage to L-size monsters ＋30%, Damage to middle-size monsters ＋10%, auto attack has a chance to cause the target loses Attack Spd for a while"
+    },
+    {
+        "imgsrc": null,
+        "name": "Sandstorm [2]",
+        "slot": "Knife",
+        "status": "Hit ＋40, Damage to L-size monsters ＋30%, Damage to middle-size monsters ＋10%, auto attack has a chance to cause the target loses Attack Spd for a while"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45199.png",
+        "name": "Santa Hat",
         "slot": "Head",
-        "status": "Flee ＋20"
+        "status": "M.Def ＋5, Luk ＋1"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45069.png",
-        "name": "Small Ribbons [1]",
-        "slot": "Head",
-        "status": "Flee ＋20"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41504.png",
-        "name": "Smasher",
-        "slot": "Mace",
-        "status": "Atk + 112"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_48555.png",
-        "name": "Smile Goblin Mask",
-        "slot": "Face",
-        "status": "Damage reduction of Demi-Human race ＋10%"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_48531.png",
-        "name": "Smile Mask",
-        "slot": "Face",
-        "status": "Def ＋5"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45180.png",
-        "name": "Smokie Leaf",
-        "slot": "Head",
-        "status": "Def ＋10"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45180.png",
-        "name": "Smokie Leaf [1]",
-        "slot": "Head",
-        "status": "Def ＋10"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45033.png",
-        "name": "Snake hairpin",
+        "imgsrc": null,
+        "name": "Santa Hat",
         "slot": "Head",
         "status": ""
     },
     {
         "imgsrc": null,
-        "name": "Sniping Suit",
-        "slot": "Armour",
-        "status": "Equipment ASPD ＋6%, Flee ＋25, When Luck reaches 60, Crit.Dmg ＋3%, When Luck reaches 90, Crit.Dmg ＋4%, When Luck reaches 120, Crit.Dmg ＋5%, [Sniping Suit IV] ＋[Malang Snow Crab IV]: Agi ＋5, Crit.Dmg ＋10%"
-    },
-    {
-        "imgsrc": null,
-        "name": "Sniping Suit [1]",
-        "slot": "Armour",
-        "status": "Equipment ASPD ＋6%, Flee ＋25, When Luck reaches 60, Crit.Dmg ＋3%, When Luck reaches 90, Crit.Dmg ＋4%, When Luck reaches 120, Crit.Dmg ＋5%, [Sniping Suit IV] ＋[Malang Snow Crab IV]: Agi ＋5, Crit.Dmg ＋10%"
-    },
-    {
-        "imgsrc": null,
-        "name": "Snow Mage Hat",
+        "name": "Santa Hat",
         "slot": "Head",
-        "status": "INT ＋2, Dex ＋2, Max SP ＋100"
+        "status": ""
     },
     {
         "imgsrc": null,
-        "name": "Snow Mage Hat [1]",
+        "name": "Santa Poring Pet Headwear",
         "slot": "Head",
-        "status": "INT ＋2, Dex ＋2, Max SP ＋100"
+        "status": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42008.png",
+        "name": "Saphien's Armor of Ocean",
+        "slot": "Armour",
+        "status": "Def + 28"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42008.png",
+        "name": "Saphien's Armor of Ocean [1]",
+        "slot": "Armour",
+        "status": "Def + 28"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40314.png",
+        "name": "Sashimi [1]",
+        "slot": "Sword",
+        "status": "Str ＋5, Def ＋40, When Strength reaches 75, Atk ＋5%, auto attack has a chance to deal multiple attribute Dmg to targets"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40314.png",
+        "name": "Sashimi [2]",
+        "slot": "Sword",
+        "status": "Str ＋5, Def ＋40, When Strength reaches 75, Atk ＋5%, auto attack has a chance to deal multiple attribute Dmg to targets"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40703.png",
+        "name": "Saurel Sword [2]",
+        "slot": "Knife",
+        "status": "Atk + 360"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40703.png",
+        "name": "Saurel Sword [3]",
+        "slot": "Knife",
+        "status": "Atk + 360"
     },
     {
         "imgsrc": null,
-        "name": "Snowman Horn",
+        "name": "Savage Babe Balloon",
         "slot": "Wing",
-        "status": "Luk ＋5, Max HP ＋400"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40301.png",
-        "name": "Solar Sword [2]",
-        "slot": "Sword",
-        "status": "Atk + 180"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40301.png",
-        "name": "Solar Sword [3]",
-        "slot": "Sword",
-        "status": "Atk + 180"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_43506.png",
-        "name": "Soldier Boots",
-        "slot": "Shoes",
-        "status": "Move Spd ＋5%, HP Regen ＋5%"
+        "status": "Dmg to brute race ＋5%"
     }
 ]

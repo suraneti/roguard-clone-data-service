@@ -1,60 +1,96 @@
 [
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45075.png",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42030.png",
+        "name": "Army Armor",
+        "slot": "Armour",
+        "status": "Def + 75"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42030.png",
+        "name": "Army Armor [1]",
+        "slot": "Armour",
+        "status": "Def + 75"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43532.png",
+        "name": "Army Boots",
+        "slot": "Shoes",
+        "status": "Def + 22"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43532.png",
+        "name": "Army Boots [1]",
+        "slot": "Shoes",
+        "status": "Def + 22"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41209.png",
+        "name": "Army Bow",
+        "slot": "Bow",
+        "status": "Atk + 115"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41209.png",
+        "name": "Army Bow [2]",
+        "slot": "Bow",
+        "status": "Atk + 115"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45075.png",
         "name": "Army Cap",
         "slot": "Head",
         "status": "Def ＋5"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45075.png",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45075.png",
         "name": "Army Cap [1]",
         "slot": "Head",
         "status": "Def ＋5"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42031.png",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42031.png",
         "name": "Army Coat",
         "slot": "Armour",
         "status": "Def + 37"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42031.png",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42031.png",
         "name": "Army Coat [1]",
         "slot": "Armour",
         "status": "Def + 37"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41536.png",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41536.png",
         "name": "Army Hammer",
         "slot": "Mace",
         "status": "Atk + 144"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41536.png",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41536.png",
         "name": "Army Hammer [2]",
         "slot": "Mace",
         "status": "Atk + 144"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40903.png",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40903.png",
         "name": "Army Katar",
         "slot": "Katar",
         "status": "Atk + 115"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40903.png",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40903.png",
         "name": "Army Katar [2]",
         "slot": "Katar",
         "status": "Atk + 115"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40709.png",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40709.png",
         "name": "Army Knife",
         "slot": "Knife",
         "status": "Atk + 144"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40709.png",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40709.png",
         "name": "Army Knife [2]",
         "slot": "Knife",
         "status": "Atk + 144"
@@ -72,51 +108,15 @@
         "status": "Atk + 194"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42502.png",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42502.png",
         "name": "Army Shield",
         "slot": "Shield",
         "status": "Def + 75"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42502.png",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42502.png",
         "name": "Army Shield [1]",
         "slot": "Shield",
         "status": "Def + 75"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40025.png",
-        "name": "Army Spear",
-        "slot": "Spear",
-        "status": "Atk + 180"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40025.png",
-        "name": "Army Spear [2]",
-        "slot": "Spear",
-        "status": "Atk + 180"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40629.png",
-        "name": "Army Staff",
-        "slot": "Staff",
-        "status": "M.Atk + 87"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40629.png",
-        "name": "Army Staff [2]",
-        "slot": "Staff",
-        "status": "M.Atk + 87"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40333.png",
-        "name": "Army Sword",
-        "slot": "Sword",
-        "status": "Atk + 144"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40333.png",
-        "name": "Army Sword [2]",
-        "slot": "Sword",
-        "status": "Atk + 144"
     }
 ]

@@ -1,122 +1,122 @@
 [
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41830.png",
-        "name": "Huge Axe",
+        "imgsrc": null,
+        "name": "Hamster Bugler",
+        "slot": "Head",
+        "status": "Agi ＋2, Move Spd ＋2%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Hamster Bugler [1]",
+        "slot": "Head",
+        "status": "Dex ＋3, AGI ＋3"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41828.png",
+        "name": "Hand Axe",
         "slot": "Axe",
-        "status": "Atk + 240"
+        "status": "Atk + 60"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41830.png",
-        "name": "Huge Axe [2]",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41828.png",
+        "name": "Hand Axe [2]",
         "slot": "Axe",
-        "status": "Atk + 240"
+        "status": "Atk + 60"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_61501.png",
+        "name": "Handcuffs [1]",
+        "slot": "Bracelet",
+        "status": "Def + 112"
     },
     {
         "imgsrc": null,
-        "name": "Hurricane Fury [1]",
-        "slot": "Axe",
-        "status": "Atk + 180"
+        "name": "Handcuffs [2]",
+        "slot": "Bracelet",
+        "status": "Def + 112"
     },
     {
         "imgsrc": null,
-        "name": "Hurricane Fury [2]",
-        "slot": "Axe",
-        "status": "Atk + 180"
+        "name": "Happy Bird",
+        "slot": "Tail",
+        "status": "Max HP ＋400, M.Atk ＋3%"
     },
     {
         "imgsrc": null,
-        "name": "Hydra",
-        "slot": "Wing",
-        "status": "INT ＋8, M.Atk ＋15"
-    },
-    {
-        "imgsrc": null,
-        "name": "Hydrangea Hairpin",
-        "slot": "Head",
-        "status": "Max HP ＋500"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45171.png",
-        "name": "Hyegun Hat",
-        "slot": "Head",
-        "status": "Def ＋5, M.Def ＋5, Dmg Reduc. of devil race ＋10%"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45171.png",
-        "name": "Hyegun Hat [1]",
-        "slot": "Head",
-        "status": "Def ＋5, M.Def ＋5, Dmg Reduc. of devil race ＋10%"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40601.png",
-        "name": "Hypnotist's Staff [2]",
-        "slot": "Staff",
-        "status": "M.Atk + 180"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40601.png",
-        "name": "Hypnotist's Staff [3]",
-        "slot": "Staff",
-        "status": "M.Atk + 180"
-    },
-    {
-        "imgsrc": null,
-        "name": "I'm Late! ",
-        "slot": "Head",
-        "status": "Flee ＋5, Move Spd ＋3%"
-    },
-    {
-        "imgsrc": null,
-        "name": "I'm Late! [1]",
-        "slot": "Head",
-        "status": "Flee ＋5, Move Spd ＋3%"
-    },
-    {
-        "imgsrc": null,
-        "name": "Ice Apple",
+        "name": "Happy Poem",
         "slot": "Head",
         "status": "Dex ＋3, AGI ＋3"
     },
     {
         "imgsrc": null,
-        "name": "Ice Apple [1]",
+        "name": "Happy Reindeer Horn",
         "slot": "Head",
-        "status": "Dex ＋3, Ranged Dmg ＋3%"
+        "status": "Movement Spd＋2%, All Attributes＋1, When attack with skills, has a 15% percent chance to freeze the target for 3 sec."
     },
     {
         "imgsrc": null,
-        "name": "Ice Penguin",
-        "slot": "Head",
-        "status": "Max SP ＋50"
-    },
-    {
-        "imgsrc": null,
-        "name": "Ice Pick [1]",
+        "name": "Happy Rose [1]",
         "slot": "Knife",
-        "status": "Max HP ＋300, Luk ＋3, Ignore Def ＋25%, For Refining ＋5, ＋10, ＋15, the basic trigger probability of [Strip Accessory] and [Strip Shield] ＋5%, ＋5%, 10% respectively"
+        "status": ""
     },
     {
         "imgsrc": null,
-        "name": "Ice Pick [2]",
-        "slot": "Knife",
-        "status": "Max HP ＋300, Luk ＋3, Ignore Def ＋25%, For Refining ＋5, ＋10, ＋15, the basic trigger probability of [Strip Accessory] and [Strip Shield] ＋5%, ＋5%, 10% respectively"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40703.png",
-        "name": "Ice Pick [3]",
-        "slot": "Knife",
-        "status": "Atk + 360"
+        "name": "Happy Unicorn",
+        "slot": "Tail",
+        "status": "When target is killed, There is a chance to reduce all damage you suffer to 1 point; the effect lasts 3 seconds, Cooldown lasts 5 seconds (The less targets being killed in a unit time, the higher the trigger probability)"
     },
     {
         "imgsrc": null,
-        "name": "Ice Poring Clip",
+        "name": "Happy Watering Can Whale",
+        "slot": "Tail",
+        "status": "Damage to Wind Monsters ＋10%, Wind damage taken -10%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45005.png",
+        "name": "Hat",
         "slot": "Head",
-        "status": "M.Def ＋5"
+        "status": "Def ＋10"
     },
     {
         "imgsrc": null,
-        "name": "Ice Poring Clip [1]",
+        "name": "Hat of the Bright Moon God",
         "slot": "Head",
-        "status": "M.Def ＋5"
+        "status": "Max HP ＋5000, Def ＋5%, MDef ＋15%, Crit Res＋15, Dmg Reduc. ＋2.5%, Magic Reduc. ＋7.5%, Poison, Holy, Dark, Ghost, Neutral damage taken -5%. Fire, Water, Earth, Wind damage taken -15%, Gain passive skill [Ring of Brilliant Moon]: Triggers every 10s, -50% Attack Spd and -50 Critical for nearby enemies within a 5m radius for 5s."
+    },
+    {
+        "imgsrc": null,
+        "name": "Hat of the Brilliant Star God",
+        "slot": "Head",
+        "status": "Max HP ＋5000, Def ＋10%, MDef ＋10%, Crit Res＋15, Dmg Reduc. ＋5%, Magic Reduc. ＋5%, Poison, Holy, Dark, Ghost, Neutral, Fire, Water, Earth and Wind damage taken -10%, Gain passive skill [Nebula Coil]: Applies a stack of [Slow] debuff on the attack when you’re hit. Each stack reduces the attacker’s movement speed by 15% for 3s, stacking up to 3 times."
+    },
+    {
+        "imgsrc": null,
+        "name": "Hat of the Moon God",
+        "slot": "Head",
+        "status": "Max HP ＋4000, Def ＋5%, MDef ＋15%, Crit Res ＋15, Poison, Holy, Dark, Ghost, Neutral damage taken -5%. Fire, Water, Earth, Wind damage taken -15%, Gain passive skill [Ring of Brilliant Moon]: Triggers every 10s, -30% Attack Spd and -30 Critical for nearby enemies within a 5m radius for 5s."
+    },
+    {
+        "imgsrc": null,
+        "name": "Hat of the Radiant Sun God",
+        "slot": "Head",
+        "status": "Max HP ＋5000, Def ＋15%, MDef ＋5%, Crit Res＋15, Dmg Reduc. ＋7.5%, Magic Reduc. ＋2.5%, Poison, Holy, Dark, Ghost, Neutral damage taken -15%. Fire, Water, Earth, Wind damage taken -5%, Gain passive skill [Solar Flare]: 30% chance to trigger Solar Flare effect when hit, dealing real damage equal to 1% of your max HP (in the field) per second to enemies around you within a 3m radius for 5s"
+    },
+    {
+        "imgsrc": null,
+        "name": "Hat of the Star God",
+        "slot": "Head",
+        "status": "Max HP ＋4000, Def ＋10%, MDef ＋10%, Crit Res＋15,  Poison, Holy, Dark, Ghost, Neutral, Fire, Water, Earth and Wind damage taken -10%, Gain passive skill [Nebula Coil]: Applies a stack of [Slow] debuff on the attack when you’re hit. Each stack reduces the attacker’s movement speed by 8% for 3s, stacking up to 3 times."
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45101.png",
+        "name": "Hat of the Sun God",
+        "slot": "Head",
+        "status": "No effect"
+    },
+    {
+        "imgsrc": null,
+        "name": "Hat of the Sun God",
+        "slot": "Head",
+        "status": "Max HP ＋4000, Def ＋15%, MDef ＋5%, Crit Res ＋15, Poison, Holy, Dark, Ghost, Neutral damage taken -15%. Fire, Water, Earth, Wind damage taken -5%, Gain passive skill [Solar Flare]: 30% chance to trigger Solar Flare effect when hit, dealing real damage equal to 0.5% of your max HP (in the field) per second to enemies around you within a 3m radius for 5s"
     }
 ]

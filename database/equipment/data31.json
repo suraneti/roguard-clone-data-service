@@ -1,122 +1,122 @@
 [
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45053.png",
-        "name": "Deviruchi Hat",
-        "slot": "Head",
-        "status": "Def ＋10, Str ＋1, INT ＋1"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45053.png",
-        "name": "Deviruchi Hat [1]",
-        "slot": "Head",
-        "status": "Def ＋10, Str ＋1, INT ＋1"
-    },
-    {
-        "imgsrc": null,
-        "name": "Deviruchi Headphone",
-        "slot": "Head",
-        "status": "Max HP ＋50, Max SP ＋50"
-    },
-    {
-        "imgsrc": null,
-        "name": "Deviruchi Headphone [1]",
-        "slot": "Head",
-        "status": "Max HP ＋50, Max SP ＋50"
-    },
-    {
-        "imgsrc": null,
-        "name": "Deviruchi Julian",
-        "slot": "Tail",
-        "status": "Atk ＋2%, Atk ＋25"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_48006.png",
-        "name": "Deviruchi Tail",
-        "slot": "Tail",
-        "status": "Flee ＋5%, Darkness Resistance ＋100%"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_61504.png",
-        "name": "Dex Bracelet",
-        "slot": "Bracelet",
-        "status": "Def + 28"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_61504.png",
-        "name": "Dex Bracelet [1]",
-        "slot": "Bracelet",
-        "status": "Def + 28"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_43503.png",
-        "name": "Diabolus Boots [1]",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43524.png",
+        "name": "Crystal Pumps [1]",
         "slot": "Shoes",
-        "status": "Def + 90"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_43503.png",
-        "name": "Diabolus Boots [2]",
-        "slot": "Shoes",
-        "status": "Def + 90"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45145.png",
-        "name": "Diadem",
-        "slot": "Head",
-        "status": "No effect"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45145.png",
-        "name": "Diadem [1]",
-        "slot": "Head",
-        "status": "No effect"
+        "status": "INT ＋5, M.Atk ＋3%, [Cat's Blessing VI] ＋ [Crystal Pumps]: Fire/Water/Earth/Wind/Element atk ＋7%, [Wizardry Staff VIII] ＋ [Robe of Cast VIII] ＋ [Eye of Dullahan VIII] ＋ [Crystal Pumps IV]: －5% CT Variable, ＋3% M.Dmg, ＋3% Ignore MDef"
     },
     {
         "imgsrc": null,
-        "name": "Diamond Galaxy",
-        "slot": "Accessory",
-        "status": "MaxHp + 1314"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_44012.png",
-        "name": "Diamond Ring [1]",
-        "slot": "Accessory",
-        "status": "Atk + 42"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_44001.png",
-        "name": "Diamond Ring[2]",
-        "slot": "Accessory",
-        "status": "Atk + 42"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_44001.png",
-        "name": "Diamond Ring[2]",
-        "slot": "Accessory",
-        "status": "M.Atk + 30"
+        "name": "Cuckoo",
+        "slot": "Head",
+        "status": "Max HP ＋400, Ignore Def ＋2%"
     },
     {
         "imgsrc": null,
-        "name": "Director of the voice club",
-        "slot": "Wing",
-        "status": "M.Atk ＋20, Max HP ＋200"
+        "name": "Cuckoo [1]",
+        "slot": "Head",
+        "status": "Max HP ＋400, Ignore Def ＋2%"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40703.png",
-        "name": "Dirk [2]",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_48521.png",
+        "name": "Cultish Masque",
+        "slot": "Face",
+        "status": "Def ＋15"
+    },
+    {
+        "imgsrc": null,
+        "name": "Cursed Lyre [1]",
+        "slot": "Bow",
+        "status": "Agi ＋5, INT ＋5, auto attack has a chance to trigger [Double Strafe] Lv.10, When [Beastmastery] Lv.10 is learned, the damage of [Beastmastery] will increases by 100%, When auto attack triggers [Blitz Beat], There is a chance to reduce the target's SP value (this effect is valid only on PVP maps), [Cursed Lyre IV] ＋[Ranger Clothes IV]: improve the influence of Atk on Falcon's Atk"
+    },
+    {
+        "imgsrc": null,
+        "name": "Cursed Lyre [2]",
+        "slot": "Bow",
+        "status": "Agi ＋5, INT ＋5, auto attack has a chance to trigger [Double Strafe] Lv.10, When [Beastmastery] Lv.10 is learned, the damage of [Beastmastery] will increases by 100%, When auto attack triggers [Blitz Beat], There is a chance to reduce the target's SP value (this effect is valid only on PVP maps), [Cursed Lyre IV] ＋[Ranger Clothes IV]: improve the influence of Atk on Falcon's Atk"
+    },
+    {
+        "imgsrc": null,
+        "name": "Cute Bear",
+        "slot": "Head",
+        "status": "All Attributes ＋1, Dmg ＋4%, M.Dmg ＋4%, Become a Scenery! Wear [Cute Bear] to become a Scenery yourself. Adventurers who take photo of it will unlock the event Scenery \"Next Stop: Happiness\"!"
+    },
+    {
+        "imgsrc": null,
+        "name": "Cute Bear [1]",
+        "slot": "Head",
+        "status": "All Attributes ＋1, Dmg ＋4%, M.Dmg ＋4%, Become a Scenery! Wear [Cute Bear] to become a Scenery yourself. Adventurers who take photo of it will unlock the event Scenery \"Next Stop: Happiness\"!"
+    },
+    {
+        "imgsrc": null,
+        "name": "Cute Reindeer Horn",
+        "slot": "Head",
+        "status": "Demi-Human Dmg Reduc. ＋3%, Atk ＋10, M.Atk ＋11"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45003.png",
+        "name": "Cute Ribbon",
+        "slot": "Head",
+        "status": "Def ＋5, Max SP ＋20"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45003.png",
+        "name": "Cute Ribbon [1]",
+        "slot": "Head",
+        "status": "Def ＋5, Max SP ＋20"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40311.png",
+        "name": "Cutlus [1]",
+        "slot": "Sword",
+        "status": "Str ＋1, Dex ＋2, When caster learned [Bash] Lv.10, Damage of [Bash] increases by 50%, When caster learned [Bowling Bash] Lv.10, Damage of [Bowling Bash] increases by 30%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40311.png",
+        "name": "Cutlus [2]",
+        "slot": "Sword",
+        "status": "Str ＋1, Dex ＋2, When caster learned [Bash] Lv.10, Damage of [Bash] increases by 50%, When caster learned [Bowling Bash] Lv.10, Damage of [Bowling Bash] increases by 30%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40702.png",
+        "name": "Cutter",
         "slot": "Knife",
-        "status": "Atk + 96"
+        "status": "Atk + 36"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40702.png",
+        "name": "Cutter [2]",
+        "slot": "Knife",
+        "status": "Atk + 36"
     },
     {
         "imgsrc": null,
-        "name": "Divine hand",
+        "name": "Cyanogen Windmill",
         "slot": "Head",
-        "status": "Max HP ＋400, Dmg to Demi-Human race ＋5%"
+        "status": "Atk ＋2%, M.Atk ＋2%, Atk ＋10, M.Atk ＋10"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_43025.png",
-        "name": "Doflamingo Cape",
-        "slot": "Robe",
-        "status": "Def + 25"
+        "imgsrc": null,
+        "name": "Cyber Shooter",
+        "slot": "Bow",
+        "status": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40705.png",
+        "name": "Dagger",
+        "slot": "Knife",
+        "status": "Atk + 180"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40705.png",
+        "name": "Dagger [2]",
+        "slot": "Knife",
+        "status": "Atk + 180"
+    },
+    {
+        "imgsrc": null,
+        "name": "Dark Cuisine Pack",
+        "slot": "Wing",
+        "status": "M.Atk ＋20, INT ＋5"
     }
 ]

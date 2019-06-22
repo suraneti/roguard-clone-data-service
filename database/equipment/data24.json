@@ -1,122 +1,122 @@
 [
     {
         "imgsrc": null,
-        "name": "Clothing·Christmas Prince",
+        "name": "Christmas Propeller [1]",
+        "slot": "Head",
+        "status": "Max HP ＋100"
+    },
+    {
+        "imgsrc": null,
+        "name": "Christmas Reindeer Costume",
+        "slot": "Face",
+        "status": "Max Hp ＋3%, Def ＋4%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Christmas Reindeer Horn",
+        "slot": "Head",
+        "status": "Movement Spd＋2%, All Attributes＋1, Stun chance(for skills or attacks that cause stun effect) ＋10%, Stun Duration ＋10%, Stun Resist＋10%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Christmas Ribbon",
+        "slot": "Head",
+        "status": "Dex ＋3, AGI ＋3"
+    },
+    {
+        "imgsrc": null,
+        "name": "Christmas Ribbon [1]",
+        "slot": "Head",
+        "status": "Luk ＋5, Max SP ＋100"
+    },
+    {
+        "imgsrc": null,
+        "name": "Christmas Song",
+        "slot": "Head",
+        "status": "Movement Spd ＋2%, Atk ＋30, Auto attack has 30% chance to trigger Christmas Song: Atk ＋3%, Attack Spd ＋3%, for 10 Sec."
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_48523.png",
+        "name": "Cigarette",
+        "slot": "Mouth",
+        "status": "Def ＋10, Damage reduction of Insect race ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Claw [1]",
+        "slot": "Knuckle",
+        "status": "Str ＋10, For Refining ＋5, ＋10, ＋15, Atk ＋5%, ＋10%, ＋15%, Refining increases by 1, auto attack increases by 60 points"
+    },
+    {
+        "imgsrc": null,
+        "name": "Claw [2]",
+        "slot": "Knuckle",
+        "status": "Str ＋10, For Refining ＋5, ＋10, ＋15, Atk ＋5%, ＋10%, ＋15%, Refining increases by 1, auto attack increases by 60 points"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42013.png",
+        "name": "Claytos Cracking Earth Armor",
         "slot": "Armour",
+        "status": "Def + 37"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42013.png",
+        "name": "Claytos Cracking Earth Armor [1]",
+        "slot": "Armour",
+        "status": "Def + 37"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41805.png",
+        "name": "Cleaver [1]",
+        "slot": "Axe",
+        "status": "HP Regen ＋10, auto attacks has a 5% chance to increase Atk for a while, but this effect cause HP loss, When killing demi-human monsters, Caster has a 10% chance to restore his/her own HP"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41805.png",
+        "name": "Cleaver [2]",
+        "slot": "Axe",
+        "status": "HP Regen ＋10, auto attacks has a 5% chance to increase Atk for a while, but this effect cause HP loss, When killing demi-human monsters, Caster has a 10% chance to restore his/her own HP"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_44011.png",
+        "name": "Clip",
+        "slot": "Accessory",
+        "status": "Atk + 30"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_44011.png",
+        "name": "Clip [1]",
+        "slot": "Accessory",
+        "status": "Atk + 30"
+    },
+    {
+        "imgsrc": null,
+        "name": "Clock's Halo",
+        "slot": "Wing",
         "status": ""
     },
     {
         "imgsrc": null,
-        "name": "Clothing·Elite Adventurer·Christmas Red",
-        "slot": "Armour",
-        "status": ""
+        "name": "Cloudwhisk Headwear",
+        "slot": "Head",
+        "status": "All Attributes ＋2, Ignore M.Def ＋6%"
     },
     {
         "imgsrc": null,
-        "name": "Clothing·Elite Adventurer·Christmas Red",
-        "slot": "Armour",
-        "status": ""
+        "name": "Cloudwhisk·Flame",
+        "slot": "Head",
+        "status": "All Attributes ＋2, Ignore M.Def ＋6%"
     },
     {
         "imgsrc": null,
-        "name": "Clothing·Elite Adventurer·Demon Purple",
-        "slot": "Armour",
-        "status": ""
+        "name": "Cloudwhisk·Glacier",
+        "slot": "Head",
+        "status": "All Attributes ＋2, Ignore M.Def ＋6%"
     },
     {
         "imgsrc": null,
-        "name": "Clothing·Elite Adventurer·Demon Purple",
-        "slot": "Armour",
-        "status": ""
-    },
-    {
-        "imgsrc": null,
-        "name": "Clothing·Elite Adventurer·Starfish Yellow",
-        "slot": "Armour",
-        "status": ""
-    },
-    {
-        "imgsrc": null,
-        "name": "Clothing·Elite Adventurer·Starfish Yellow",
-        "slot": "Armour",
-        "status": ""
-    },
-    {
-        "imgsrc": null,
-        "name": "Clothing·Elite Adventurer·Water Blue",
-        "slot": "Armour",
-        "status": ""
-    },
-    {
-        "imgsrc": null,
-        "name": "Clothing·Elite Adventurer·Water Blue",
-        "slot": "Armour",
-        "status": ""
-    },
-    {
-        "imgsrc": null,
-        "name": "Clothing·Reindeer's Blessing",
-        "slot": "Armour",
-        "status": ""
-    },
-    {
-        "imgsrc": null,
-        "name": "Clothing·Sacred Clothing",
-        "slot": "Armour",
-        "status": "Unable to fight with Blessed effect"
-    },
-    {
-        "imgsrc": null,
-        "name": "Clothing·Sacred Veil",
-        "slot": "Armour",
-        "status": "Unable to fight with Blessed effect"
-    },
-    {
-        "imgsrc": null,
-        "name": "Clothing·Wishing Wear·Christmas Red",
-        "slot": "Armour",
-        "status": ""
-    },
-    {
-        "imgsrc": null,
-        "name": "Clothing·Wishing Wear·Christmas Red",
-        "slot": "Armour",
-        "status": ""
-    },
-    {
-        "imgsrc": null,
-        "name": "Clothing·Wishing Wear·Demon Purple",
-        "slot": "Armour",
-        "status": ""
-    },
-    {
-        "imgsrc": null,
-        "name": "Clothing·Wishing Wear·Demon Purple",
-        "slot": "Armour",
-        "status": ""
-    },
-    {
-        "imgsrc": null,
-        "name": "Clothing·Wishing Wear·Starfish Yellow",
-        "slot": "Armour",
-        "status": ""
-    },
-    {
-        "imgsrc": null,
-        "name": "Clothing·Wishing Wear·Starfish Yellow",
-        "slot": "Armour",
-        "status": ""
-    },
-    {
-        "imgsrc": null,
-        "name": "Clothing·Wishing Wear·Water Blue",
-        "slot": "Armour",
-        "status": ""
-    },
-    {
-        "imgsrc": null,
-        "name": "Clothing·Wishing Wear·Water Blue",
-        "slot": "Armour",
-        "status": ""
+        "name": "Cloudwhisk·Purple",
+        "slot": "Head",
+        "status": "All Attributes ＋2, Ignore M.Def ＋6%"
     }
 ]

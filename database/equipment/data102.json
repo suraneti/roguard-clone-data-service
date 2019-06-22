@@ -1,122 +1,122 @@
 [
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_44026.png",
-        "name": "Ring",
-        "slot": "Accessory",
-        "status": "M.Atk + 5"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40305.png",
-        "name": "Ring Pommel Saber [2]",
-        "slot": "Sword",
-        "status": "Atk + 84"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40305.png",
-        "name": "Ring Pommel Saber [3]",
-        "slot": "Sword",
-        "status": "Atk + 84"
-    },
-    {
-        "imgsrc": null,
-        "name": "RJC Katusa Flower",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45188.png",
+        "name": "Pointer Headwear [1]",
         "slot": "Head",
-        "status": "Max SP ＋50, M.Atk ＋5"
+        "status": "Def ＋10"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_61005.png",
+        "name": "Poison Gloves",
+        "slot": "Bracer",
+        "status": "Atk ＋25, Crit.Dmg ＋15%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_61005.png",
+        "name": "Poison Gloves [1]",
+        "slot": "Bracer",
+        "status": "Atk ＋25, Crit.Dmg ＋15%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40719.png",
+        "name": "Poison Knife [1]",
+        "slot": "Knife",
+        "status": "auto attack has a large probability to set targets into poisoning state, For Refining ＋1, ignore Def ＋2%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40719.png",
+        "name": "Poison Knife [2]",
+        "slot": "Knife",
+        "status": "auto attack has a large probability to set targets into poisoning state, For Refining ＋1, ignore Def ＋2%"
     },
     {
         "imgsrc": null,
-        "name": "RJC Katusa Flower [1]",
+        "name": "Poisoned Duke's Mask",
+        "slot": "Face",
+        "status": "All Attributes ＋1"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_48511.png",
+        "name": "Poker Face",
+        "slot": "Face",
+        "status": "Damage reduction of Demi-Human race ＋10%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Polar Bear Gift Box",
+        "slot": "Tail",
+        "status": "Damage to Demi-Human ＋3%, Demi-Human damage reduction＋3%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40008.png",
+        "name": "Pole Axe [1]",
+        "slot": "Spear",
+        "status": "Str ＋3, Hit ＋15"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40008.png",
+        "name": "Pole Axe [2]",
+        "slot": "Spear",
+        "status": "Str ＋3, Hit ＋15"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45036.png",
+        "name": "Poo Poo Hat",
         "slot": "Head",
-        "status": "Max SP ＋50, M.Atk ＋5"
+        "status": "Damage reduction of Demi-Human race ＋10%"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_61501.png",
-        "name": "RO Bracelet",
-        "slot": "Accessory",
-        "status": "Atk ＋5000, M.Atk ＋5000, Def ＋100000, M.Def ＋100000, Max HP ＋1000000, Max SP ＋100000, Hit ＋200, Flee ＋200, Cri ＋50, Life Steal ＋100%, CT Variable Reduction ＋100%, HP Regen ＋100%, SP Regen ＋100%"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42043.png",
-        "name": "Robe of Cast",
-        "slot": "Armour",
-        "status": "INT ＋4, M.Atk ＋5%, CT Variable -10%, [Wizardry Staff VIII] ＋ [Robe of Cast VIII] ＋ [Eye of Dullahan VIII] ＋ [Crystal Pumps IV]: -5% CT Variable, ＋3% M.Dmg, ＋3% Ignore MDef"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42043.png",
-        "name": "Robe of Cast [1]",
-        "slot": "Armour",
-        "status": "INT ＋4, M.Atk ＋5%, CT Variable -10%, [Wizardry Staff VIII] ＋ [Robe of Cast VIII] ＋ [Eye of Dullahan VIII] ＋ [Crystal Pumps IV]: -5% CT Variable, ＋3% M.Dmg, ＋3% Ignore MDef"
-    },
-    {
-        "imgsrc": null,
-        "name": "Robe of Judgment",
-        "slot": "Armour",
-        "status": "INT ＋5, Max HP ＋1000, Max SP ＋200, CT Variable -5%, ＋100% [Adoramus] multiplier upon reaching refining ＋10"
-    },
-    {
-        "imgsrc": null,
-        "name": "Robe of Judgment [1]",
-        "slot": "Armour",
-        "status": "INT ＋5, Max HP ＋1000, Max SP ＋200, CT Variable -5%, ＋100% [Adoramus] multiplier upon reaching refining ＋10"
-    },
-    {
-        "imgsrc": null,
-        "name": "Robinhood Hat",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45036.png",
+        "name": "Poo Poo Hat [1]",
         "slot": "Head",
-        "status": "Str ＋1, VIT ＋1, INT ＋1, Dex ＋1, Agi ＋1, Luk ＋1"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40602.png",
-        "name": "Rod",
-        "slot": "Staff",
-        "status": "M.Atk + 21"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40602.png",
-        "name": "Rod [2]",
-        "slot": "Staff",
-        "status": "M.Atk + 21"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40601.png",
-        "name": "Rod [2] (pending)",
-        "slot": "Staff",
-        "status": "M.Atk + 15"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40601.png",
-        "name": "Rod [3] (pending)",
-        "slot": "Staff",
-        "status": "M.Atk + 15"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42011.png",
-        "name": "Rogue Clothes",
-        "slot": "Armour",
-        "status": "Agi ＋3, Str ＋1"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42011.png",
-        "name": "Rogue Clothes [1]",
-        "slot": "Armour",
-        "status": "Agi ＋3, Str ＋1"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_44018.png",
-        "name": "Rogue's Treasure",
-        "slot": "Accessory",
-        "status": "Atk + 60"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_44018.png",
-        "name": "Rogue's Treasure [1]",
-        "slot": "Accessory",
-        "status": "Atk + 60"
+        "status": "Damage reduction of Demi-Human race ＋10%"
     },
     {
         "imgsrc": null,
-        "name": "Roguemaster's Bow [1]",
-        "slot": "Bow",
-        "status": "Dex ＋4, ASPD ＋5%, auto attack has a chance to trigger [Archery Proficient]. [Archery Proficient]: ASPD ＋5%, Ranged Dmg ＋10%; the effect lasts 3 seconds."
+        "name": "Pope Music",
+        "slot": "Head",
+        "status": "moving spd ＋3%, Attack Spd ＋5%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_25002.png",
+        "name": "Poring",
+        "slot": "Mount",
+        "status": "Move Spd ＋25%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_25002.png",
+        "name": "Poring",
+        "slot": "Mount",
+        "status": "Move Spd ＋25%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Poring Garland",
+        "slot": "Head",
+        "status": "All Attributes ＋1"
+    },
+    {
+        "imgsrc": null,
+        "name": "Poring Garland [1]",
+        "slot": "Head",
+        "status": "All Attributes ＋1"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45001.png",
+        "name": "Poring Hat",
+        "slot": "Head",
+        "status": "Def ＋10"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45001.png",
+        "name": "Poring Hat [1]",
+        "slot": "Head",
+        "status": "Def ＋10"
+    },
+    {
+        "imgsrc": null,
+        "name": "Poring Lollipop",
+        "slot": "Mouth",
+        "status": "MAX HP ＋500, HP Regen ＋5, SP Regen ＋5"
     }
 ]

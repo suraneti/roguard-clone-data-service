@@ -1,306 +1,338 @@
 [
     {
-        "imgsrc": "www.roguard.net/content/img/icons/monsters/geographer_monster.png",
-        "name": "Geographer",
-        "element": "Earth",
-        "race": "Plant",
-        "level": "Lv 118",
-        "hp": "165,957 Hp",
-        "base_exp": "1,894 Base Exp",
-        "job_exp": "1,396 Job Exp",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/monsters/garm_mvp.png",
+        "name": "Garm",
+        "element": "Water",
+        "race": "Brute",
+        "level": "class=\"desktop-only\"",
+        "hp": "Lv 118",
+        "base_exp": "class=\"desktop-only\"",
+        "job_exp": "41,943 Base Exp",
         "metadata": {
-            "description": "The favorable sunflowers was contaminated and turned into the crazy Geographers which is one of the evil monsters that adventurers with ranged attacks would love to bully. But be careful when you pass them, it’s not good to get bitten by them!",
+            "description": "The elegant monster in the shape of a giant wolf always wanders on the field covered with snow in the alien world. Scales of ice as clear as crystals cover the entire body of the monster. Anyone intruding on its territory will be punished at absolute zero.",
             "common_data": {
                 "level": "118",
+                "type": "MVP",
+                "zone": "Field",
+                "race": "Brute",
+                "element": "Water",
+                "size": "Large",
+                "passive_level": "999",
+                "base_exp": "41,943",
+                "job_exp": "16,778"
+            },
+            "attribute_data": {
+                "atk": "3,207",
+                "matk": "1,342",
+                "def": "2,176",
+                "mdef": "848",
+                "hp": "44,504,135",
+                "hit": "243",
+                "flee": "220",
+                "move_spd": "150",
+                "atk_spd": "1.24"
+            },
+            "card_data": {
+                "imgsrc": null,
+                "name": "Garm Card",
+                "effect": "When launching auto attacks, Caster has a 50% chance to freeze the enemy for 5 seconds",
+                "perma_buff": "Max HP ＋112"
+            },
+            "drop_data": [
+                {
+                    "imgsrc": null,
+                    "name": "Icy Brand Blueprint",
+                    "drop_rate": "?%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+                    "name": "Garm Card",
+                    "drop_rate": "?%"
+                },
+                {
+                    "imgsrc": null,
+                    "name": "Ice Cube",
+                    "drop_rate": "?%"
+                },
+                {
+                    "imgsrc": null,
+                    "name": "Fang of Garm",
+                    "drop_rate": "?%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12004.png",
+                    "name": "Transformation Scroll (Garm)",
+                    "drop_rate": "?%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12119.png",
+                    "name": "Yggdrasil Berry",
+                    "drop_rate": "?%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_5002.png",
+                    "name": "Oridecon",
+                    "drop_rate": "?%"
+                },
+                {
+                    "imgsrc": null,
+                    "name": "Edelweiss",
+                    "drop_rate": "?%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_5110.png",
+                    "name": "Mystic Frozen",
+                    "drop_rate": "?%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_100.png",
+                    "name": "Zeny",
+                    "drop_rate": "?%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41833.png",
+                    "name": "Dwarf King's Axe [2]",
+                    "drop_rate": "?%"
+                },
+                {
+                    "imgsrc": null,
+                    "name": "Fang of Garm [1]",
+                    "drop_rate": "?%"
+                },
+                {
+                    "imgsrc": null,
+                    "name": "Fairy in Bottle",
+                    "drop_rate": "?%"
+                }
+            ],
+            "location_data": []
+        }
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/monsters/orc_lady_monster.png",
+        "name": "Orc Lady",
+        "element": "Earth",
+        "race": "Demi-Human",
+        "level": "class=\"desktop-only\"",
+        "hp": "Lv 109",
+        "base_exp": "class=\"desktop-only\"",
+        "job_exp": "1,462 Base Exp",
+        "metadata": {
+            "description": "Educate their children, Discipline their husbands and do housework, Even though they're orc females, They feel tired like human females. However, While human females choose to bear the pressure of life, the orc females often join in the battle to vent.",
+            "common_data": {
+                "level": "109",
                 "type": "Monster",
                 "zone": "Field",
-                "race": "Plant",
+                "race": "Demi-Human",
                 "element": "Earth",
                 "size": "Medium",
                 "passive_level": "40",
-                "base_exp": "1,894",
-                "job_exp": "1,396"
+                "base_exp": "1,462",
+                "job_exp": "924"
             },
             "attribute_data": {
-                "atk": "763",
-                "matk": "790",
-                "def": "234",
-                "mdef": "464",
-                "hp": "165,957",
-                "hit": "309",
-                "flee": "217",
-                "move_spd": "0",
-                "atk_spd": "0.62"
+                "atk": "347",
+                "matk": "181",
+                "def": "339",
+                "mdef": "159",
+                "hp": "50,056",
+                "hit": "182",
+                "flee": "167",
+                "move_spd": "45",
+                "atk_spd": "0.5"
             },
             "card_data": {
                 "imgsrc": null,
-                "name": "Geographer Card",
-                "effect": "When the wearer is an Acolyte, ＋20% damage reduction against Demon and Undead",
-                "perma_buff": [
-                    "<div style=\"text-align: center;\">Max HP ＋60</div>",
-                    "Max HP ＋60"
-                ]
+                "name": "Orc Lady Card",
+                "effect": "Damage to insect race ＋5%",
+                "perma_buff": "Atk ＋4.5"
             },
             "drop_data": [
                 {
-                    "imgsrc": null,
-                    "name": "Sunflower Lollipop Drawing",
-                    "drop_rate": "?%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/19.png",
-                    "name": "Geographer Card",
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+                    "name": "Orc Lady Card",
                     "drop_rate": "?%"
                 },
                 {
                     "imgsrc": null,
-                    "name": "Fire Crystal",
-                    "drop_rate": "15.97%"
+                    "name": "Witch Star Dust",
+                    "drop_rate": "10.69%"
                 },
                 {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_12004.png",
-                    "name": "Transformation Scroll (Geographer)",
-                    "drop_rate": "0.04%"
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12004.png",
+                    "name": "Transformation Scroll (Orc Lady)",
+                    "drop_rate": "0.02%"
                 },
                 {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_100.png",
                     "name": "Zeny",
-                    "drop_rate": "72.81%"
+                    "drop_rate": "55.13%"
                 },
                 {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_100.png",
                     "name": "Zeny",
-                    "drop_rate": "72.81%"
+                    "drop_rate": "55.13%"
                 },
                 {
                     "imgsrc": null,
-                    "name": "Thorn Seed",
-                    "drop_rate": "4.33%"
+                    "name": "Tattered Time Pointer",
+                    "drop_rate": "29.03%"
                 },
                 {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_40307.png",
-                    "name": "Garrison Sword [2]",
-                    "drop_rate": "0.6%"
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41505.png",
+                    "name": "Morning Star [2]",
+                    "drop_rate": "0.41%"
                 }
             ],
             "location_data": [
                 {
-                    "location": "Border Checkpoint",
-                    "suggestion_level": "(Lv-)"
-                },
-                {
-                    "location": "Einbroch Field",
+                    "location": "Clock Tower B1",
                     "suggestion_level": "(Lv-)"
                 }
             ]
         }
     },
     {
-        "imgsrc": "www.roguard.net/content/img/icons/monsters/hapy_monster.png",
-        "name": "Harpy",
-        "element": "Wind",
-        "race": "Demon",
-        "level": "Lv 119",
-        "hp": "169,089 Hp",
-        "base_exp": "2,166 Base Exp",
-        "job_exp": "1,260 Job Exp",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/monsters/cruiser_monster.png",
+        "name": "Cruiser ★",
+        "element": "Neutral",
+        "race": "Formless",
+        "level": "class=\"desktop-only\"",
+        "hp": "Lv 111",
+        "base_exp": "class=\"desktop-only\"",
+        "job_exp": "2,372 Base Exp",
         "metadata": {
-            "description": "The half-naked, half-bird subhuman monster likes to captive the weak-minded adventurers (especially male) to become its slave with its attractive body and magical voice! Never face this beautiful demon alone if you’re not quite sure you can beat it!!",
+            "description": "The soldier is made of delicate gears in a surprisingly complex way. Even experts have confirmed that it is not actuated by magic power! Though assembled weapons are toys, it is reported that they can hurt adventurers...",
             "common_data": {
-                "level": "119",
+                "level": "111",
                 "type": "Monster",
                 "zone": "Field",
-                "race": "Demon",
-                "element": "Wind",
+                "race": "Formless",
+                "element": "Neutral",
                 "size": "Medium",
                 "passive_level": "40",
-                "base_exp": "2,166",
-                "job_exp": "1,260"
+                "base_exp": "2,372",
+                "job_exp": "970"
             },
             "attribute_data": {
-                "atk": "1,045",
-                "matk": "637",
-                "def": "473",
-                "mdef": "156",
-                "hp": "169,089",
-                "hit": "311",
-                "flee": "218",
-                "move_spd": "90",
-                "atk_spd": "0.83"
+                "atk": "2,264",
+                "matk": "392",
+                "def": "366",
+                "mdef": "46",
+                "hp": "343,304",
+                "hit": "253",
+                "flee": "252",
+                "move_spd": "30",
+                "atk_spd": "0.65"
             },
             "card_data": {
-                "imgsrc": null,
-                "name": "Harpy Card",
-                "effect": "Neutral Dmg Taken -8%, [Soul Expansion] Dmg ＋10%",
-                "perma_buff": [
-                    "<div style=\"text-align: center;\">Def ＋4.5</div>",
-                    "Def ＋4.5"
-                ]
+                "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+                "name": "Box Wrapper",
+                "effect": null,
+                "perma_buff": null
             },
-            "drop_data": [
-                {
-                    "imgsrc": null,
-                    "name": "Wagtail Crest[1] Drawing",
-                    "drop_rate": "?%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/19.png",
-                    "name": "Harpy Card",
-                    "drop_rate": "?%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_12004.png",
-                    "name": "Transformation Scroll (Harpy)",
-                    "drop_rate": "0.03%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
-                    "name": "Zeny",
-                    "drop_rate": "87.14%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
-                    "name": "Zeny",
-                    "drop_rate": "87.14%"
-                },
-                {
-                    "imgsrc": null,
-                    "name": "Wall Paint",
-                    "drop_rate": "1.37%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_12121.png",
-                    "name": "Candy",
-                    "drop_rate": "0.63%"
-                },
-                {
-                    "imgsrc": null,
-                    "name": "Harpy’s Feather",
-                    "drop_rate": "2.87%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_40631.png",
-                    "name": "Garrison Staff [2]",
-                    "drop_rate": "0.5%"
-                }
-            ],
-            "location_data": [
-                {
-                    "location": "Border Checkpoint",
-                    "suggestion_level": "(Lv-)"
-                },
-                {
-                    "location": "Einbroch Field",
-                    "suggestion_level": "(Lv-)"
-                }
-            ]
+            "drop_data": [],
+            "location_data": []
         }
     },
     {
-        "imgsrc": "www.roguard.net/content/img/icons/monsters/diabolic_monster.png",
-        "name": "Fiery Deviruchi",
-        "element": "Shadow",
-        "race": "Demon",
-        "level": "Lv 119",
-        "hp": "169,089 Hp",
-        "base_exp": "2,166 Base Exp",
-        "job_exp": "1,260 Job Exp",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/monsters/cookie_gift_lv_monster.png",
+        "name": "Cookie",
+        "element": "Neutral",
+        "race": "Demi-Human",
+        "level": "class=\"desktop-only\"",
+        "hp": "Lv 108",
+        "base_exp": "class=\"desktop-only\"",
+        "job_exp": "1,966 Base Exp",
         "metadata": {
-            "description": "The Fiery Deviruchi has been affected by the heat of lava for years and got the power of flame, but it’s still like a mischievous kid. Be careful, don’t ever get poked to the butt by its firing fork!",
+            "description": "The elf from the alien world. The elf is arranged to produce socks in which presents will be put for innocent children. It represents green, the major color of an important festival. The brand of favorite gum: Migumigu.",
             "common_data": {
-                "level": "119",
+                "level": "108",
                 "type": "Monster",
                 "zone": "Field",
-                "race": "Demon",
-                "element": "Shadow",
+                "race": "Demi-Human",
+                "element": "Neutral",
                 "size": "Small",
                 "passive_level": "40",
-                "base_exp": "2,166",
-                "job_exp": "1,260"
+                "base_exp": "1,966",
+                "job_exp": "1,142"
             },
             "attribute_data": {
-                "atk": "660",
-                "matk": "797",
-                "def": "315",
-                "mdef": "468",
-                "hp": "169,089",
-                "hit": "311",
-                "flee": "218",
-                "move_spd": "90",
-                "atk_spd": "0.75"
+                "atk": "144",
+                "matk": "589",
+                "def": "80",
+                "mdef": "258",
+                "hp": "89,893",
+                "hit": "197",
+                "flee": "193",
+                "move_spd": "60",
+                "atk_spd": "0.52"
             },
             "card_data": {
                 "imgsrc": null,
-                "name": "Fiery Deviruchi Card",
-                "effect": "VIT ＋3, Immune to buring status",
-                "perma_buff": [
-                    "<div style=\"text-align: center;\">M.Atk ＋8</div>",
-                    "M.Atk ＋8"
-                ]
+                "name": "Gingerbread Man Card",
+                "effect": "Luk ＋3",
+                "perma_buff": "M.Def ＋2"
             },
             "drop_data": [
                 {
                     "imgsrc": null,
-                    "name": "Portable Deviruchi Drawing",
+                    "name": "Gingerbread Man clip Blueprint",
                     "drop_rate": "?%"
                 },
                 {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/19.png",
-                    "name": "Fiery Deviruchi Card",
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+                    "name": "Gingerbread Man Card",
                     "drop_rate": "?%"
                 },
                 {
                     "imgsrc": null,
-                    "name": "Burning Heart",
-                    "drop_rate": "15.86%"
+                    "name": "Ice Cube",
+                    "drop_rate": "12.1%"
                 },
                 {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_12004.png",
-                    "name": "Transformation Scroll (Fiery Deviruchi)",
-                    "drop_rate": "0.04%"
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12004.png",
+                    "name": "Transformation Scroll (Gingerbread Man)",
+                    "drop_rate": "0.02%"
                 },
                 {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_100.png",
                     "name": "Zeny",
-                    "drop_rate": "72.97%"
+                    "drop_rate": "53.27%"
                 },
                 {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_100.png",
                     "name": "Zeny",
-                    "drop_rate": "72.97%"
+                    "drop_rate": "53.27%"
                 },
                 {
                     "imgsrc": null,
-                    "name": "Shell",
-                    "drop_rate": "4.3%"
+                    "name": "Edelweiss",
+                    "drop_rate": "29.59%"
                 },
                 {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_40908.png",
-                    "name": "Garrison Katar [2]",
-                    "drop_rate": "0.59%"
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42035.png",
+                    "name": "Baptized Robe [1]",
+                    "drop_rate": "0.42%"
                 }
             ],
             "location_data": [
                 {
-                    "location": "Lava Cave 1F",
-                    "suggestion_level": "(Lv-)"
-                },
-                {
-                    "location": "Lava Cave 3F",
+                    "location": "Toy Factory 1F",
                     "suggestion_level": "(Lv-)"
                 }
             ]
         }
     },
     {
-        "imgsrc": "www.roguard.net/content/img/icons/monsters/teddy_bear_monster.png",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/monsters/teddy_bear_monster.png",
         "name": "Teddy Bear ★",
         "element": "Neutral",
         "race": "Formless",
-        "level": "Lv 114",
-        "hp": "495,449 Hp",
-        "base_exp": "2,066 Base Exp",
-        "job_exp": "1,212 Job Exp",
+        "level": "class=\"desktop-only\"",
+        "hp": "Lv 114",
+        "base_exp": "class=\"desktop-only\"",
+        "job_exp": "2,066 Base Exp",
         "metadata": {
             "description": "It is said the teddy bear was loved by an aristocratic young lady in ancient times. After being discarded, the bear gradually had its own soul and wanted to know its master, wandering year by year.",
             "common_data": {
@@ -326,7 +358,7 @@
                 "atk_spd": "0.39"
             },
             "card_data": {
-                "imgsrc": "www.roguard.net/content/img/icons/items/19.png",
+                "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
                 "name": "Box Wrapper",
                 "effect": null,
                 "perma_buff": null
@@ -336,142 +368,87 @@
         }
     },
     {
-        "imgsrc": "www.roguard.net/content/img/icons/monsters/teddy_bear_monster.png",
-        "name": "Teddy Bear",
-        "element": "Neutral",
-        "race": "Formless",
-        "level": "Lv 114",
-        "hp": "141,557 Hp",
-        "base_exp": "1 Base Exp",
-        "job_exp": "1 Job Exp",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/monsters/cookie_gift_hong_monster.png",
+        "name": "Christmas Cookie",
+        "element": "Holy",
+        "race": "Demi-Human",
+        "level": "class=\"desktop-only\"",
+        "hp": "Lv 112",
+        "base_exp": "class=\"desktop-only\"",
+        "job_exp": "1,978 Base Exp",
         "metadata": {
-            "description": "It is said the teddy bear was loved by an aristocratic young lady in ancient times. After being discarded, the bear gradually had its own soul and wanted to know its master, wandering year by year.",
+            "description": "The elf from the alien world. The elf is arranged to produce presents for innocent children. It represents red, the major color of an important festival. The favorite dessert: Tabala Mamasu.",
             "common_data": {
-                "level": "114",
+                "level": "112",
                 "type": "Monster",
                 "zone": "Field",
-                "race": "Formless",
-                "element": "Neutral",
+                "race": "Demi-Human",
+                "element": "Holy",
                 "size": "Small",
                 "passive_level": "40",
-                "base_exp": "1",
-                "job_exp": "1"
+                "base_exp": "1,978",
+                "job_exp": "1,220"
             },
             "attribute_data": {
-                "atk": "856",
-                "matk": "207",
-                "def": "581",
-                "mdef": "125",
-                "hp": "141,557",
-                "hit": "217",
-                "flee": "213",
-                "move_spd": "60",
-                "atk_spd": "0.39"
-            },
-            "card_data": {
-                "imgsrc": null,
-                "name": null,
-                "effect": null,
-                "perma_buff": null
-            },
-            "drop_data": [],
-            "location_data": []
-        }
-    },
-    {
-        "imgsrc": "www.roguard.net/content/img/icons/monsters/mystcase_monster.png",
-        "name": "Myst Case",
-        "element": "Neutral",
-        "race": "Formless",
-        "level": "Lv 110",
-        "hp": "108,544 Hp",
-        "base_exp": "1,942 Base Exp",
-        "job_exp": "1,200 Job Exp",
-        "metadata": {
-            "description": "It's just a gift box. Yes, Just a gift box. Humans~ They know it seems to be strange, but just cannot stop touching. When they find out it's actually a Chest Monster, It's just too late~",
-            "common_data": {
-                "level": "110",
-                "type": "Monster",
-                "zone": "Field",
-                "race": "Formless",
-                "element": "Neutral",
-                "size": "Medium",
-                "passive_level": "40",
-                "base_exp": "1,942",
-                "job_exp": "1,200"
-            },
-            "attribute_data": {
-                "atk": "781",
-                "matk": "189",
-                "def": "276",
-                "mdef": "70",
-                "hp": "108,544",
-                "hit": "195",
-                "flee": "206",
+                "atk": "147",
+                "matk": "602",
+                "def": "73",
+                "mdef": "469",
+                "hp": "87,625",
+                "hit": "185",
+                "flee": "195",
                 "move_spd": "30",
                 "atk_spd": "0.63"
             },
             "card_data": {
                 "imgsrc": null,
-                "name": "Myst Case Card",
-                "effect": "Each attack to monsters restores 10 points of SP, this effect is triggered every 5 seconds at most.",
-                "perma_buff": [
-                    "<div style=\"text-align: center;\">Max HP ＋40</div>",
-                    "Max HP ＋40"
-                ]
+                "name": "Cookie Card",
+                "effect": "Luk ＋2, [Judex] damage ＋5%",
+                "perma_buff": "Def ＋2"
             },
             "drop_data": [
                 {
                     "imgsrc": null,
-                    "name": "Gift Box Helm Blueprint",
+                    "name": "Pinocchio's Nose Blueprint",
                     "drop_rate": "?%"
                 },
                 {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/19.png",
-                    "name": "Myst Case Card",
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+                    "name": "Cookie Card",
                     "drop_rate": "?%"
                 },
                 {
                     "imgsrc": null,
-                    "name": "Frozen Heart",
-                    "drop_rate": "9.9%"
+                    "name": "Ice Cube",
+                    "drop_rate": "12.13%"
                 },
                 {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_12004.png",
-                    "name": "Transformation Scroll (Myst Case)",
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12004.png",
+                    "name": "Transformation Scroll (Christmas Cookie)",
                     "drop_rate": "0.02%"
                 },
                 {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_100.png",
                     "name": "Zeny",
-                    "drop_rate": "53.73%"
+                    "drop_rate": "53.36%"
                 },
                 {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_100.png",
                     "name": "Zeny",
-                    "drop_rate": "53.73%"
+                    "drop_rate": "53.36%"
                 },
                 {
                     "imgsrc": null,
                     "name": "Edelweiss",
-                    "drop_rate": "30.02%"
+                    "drop_rate": "29.5%"
                 },
                 {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_12121.png",
-                    "name": "Candy",
-                    "drop_rate": "1.24%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_40908.png",
-                    "name": "White Flower Katar [2]",
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42034.png",
+                    "name": "Baptized Armor [1]",
                     "drop_rate": "0.42%"
                 }
             ],
             "location_data": [
-                {
-                    "location": "Toy Factory 1F",
-                    "suggestion_level": "(Lv-)"
-                },
                 {
                     "location": "Toy Factory 2F",
                     "suggestion_level": "(Lv-)"
@@ -480,14 +457,14 @@
         }
     },
     {
-        "imgsrc": "www.roguard.net/content/img/icons/monsters/carat_monster.png",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/monsters/carat_monster.png",
         "name": "Carat",
         "element": "Wind",
         "race": "Demon",
-        "level": "Lv 116",
-        "hp": "130,927 Hp",
-        "base_exp": "1,912 Base Exp",
-        "job_exp": "1,344 Job Exp",
+        "level": "class=\"desktop-only\"",
+        "hp": "Lv 116",
+        "base_exp": "class=\"desktop-only\"",
+        "job_exp": "1,912 Base Exp",
         "metadata": {
             "description": "The clown doll is made of delicate gears in a surprisingly complex way. Even experts have confirmed that it is not actuated by magic power! It can roll on balls depending on an excellent sense of balance. It is said that it was actually an ice cream maker in ancient times...",
             "common_data": {
@@ -516,14 +493,11 @@
                 "imgsrc": null,
                 "name": "Carat Card",
                 "effect": "INT ＋2, Max SP ＋80",
-                "perma_buff": [
-                    "<div style=\"text-align: center;\">M.Atk ＋4.5</div>",
-                    "M.Atk ＋4.5"
-                ]
+                "perma_buff": "M.Atk ＋4.5"
             },
             "drop_data": [
                 {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/19.png",
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
                     "name": "Carat Card",
                     "drop_rate": "?%"
                 },
@@ -533,17 +507,17 @@
                     "drop_rate": "17.99%"
                 },
                 {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_12004.png",
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12004.png",
                     "name": "Transformation Scroll (Carat)",
                     "drop_rate": "0.04%"
                 },
                 {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_100.png",
                     "name": "Zeny",
                     "drop_rate": "74.9%"
                 },
                 {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_100.png",
                     "name": "Zeny",
                     "drop_rate": "74.9%"
                 },
@@ -562,14 +536,393 @@
         }
     },
     {
-        "imgsrc": "www.roguard.net/content/img/icons/monsters/knight_of_windstorm_mvp.png",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/monsters/timeholder_mvp.png",
+        "name": "Time Holder",
+        "element": "Neutral",
+        "race": "Demon",
+        "level": "class=\"desktop-only\"",
+        "hp": "Lv 110",
+        "base_exp": "class=\"desktop-only\"",
+        "job_exp": "26,880 Base Exp",
+        "metadata": {
+            "description": "A strange creature that can only be seen in the area which time and space are in chaos. The big eyeballs all over its body are said to be able to see through the past and the future.",
+            "common_data": {
+                "level": "110",
+                "type": "MVP",
+                "zone": "Field",
+                "race": "Demon",
+                "element": "Neutral",
+                "size": "Large",
+                "passive_level": "999",
+                "base_exp": "26,880",
+                "job_exp": "22,744"
+            },
+            "attribute_data": {
+                "atk": "1,771",
+                "matk": "2,217",
+                "def": "771",
+                "mdef": "742",
+                "hp": "37,715,369",
+                "hit": "279",
+                "flee": "178",
+                "move_spd": "150",
+                "atk_spd": "0.5"
+            },
+            "card_data": {
+                "imgsrc": null,
+                "name": "Time Holder Card",
+                "effect": null,
+                "perma_buff": "Max HP ＋14"
+            },
+            "drop_data": [
+                {
+                    "imgsrc": null,
+                    "name": "Flutter Butterfly [1] Blueprint",
+                    "drop_rate": "0.16%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+                    "name": "Time Holder Card",
+                    "drop_rate": "?%"
+                },
+                {
+                    "imgsrc": null,
+                    "name": "Crystal Bone",
+                    "drop_rate": "63.04%"
+                },
+                {
+                    "imgsrc": null,
+                    "name": "Time Twister",
+                    "drop_rate": "12.27%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12004.png",
+                    "name": "Transformation Scroll (Time Holder)",
+                    "drop_rate": "1.33%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12119.png",
+                    "name": "Yggdrasil Berry",
+                    "drop_rate": "6.65%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_5002.png",
+                    "name": "Oridecon",
+                    "drop_rate": "13.96%"
+                },
+                {
+                    "imgsrc": null,
+                    "name": "Tattered Time Pointer",
+                    "drop_rate": "2.57%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_100.png",
+                    "name": "Zeny",
+                    "drop_rate": "?%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43534.png",
+                    "name": "Enchanted Shoes [1]",
+                    "drop_rate": "?%"
+                },
+                {
+                    "imgsrc": null,
+                    "name": "Sacred Mission",
+                    "drop_rate": "100%"
+                }
+            ],
+            "location_data": []
+        }
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/monsters/geographer_monster.png",
+        "name": "Geographer",
+        "element": "Earth",
+        "race": "Plant",
+        "level": "class=\"desktop-only\"",
+        "hp": "Lv 118",
+        "base_exp": "class=\"desktop-only\"",
+        "job_exp": "1,894 Base Exp",
+        "metadata": {
+            "description": "The favorable sunflowers was contaminated and turned into the crazy Geographers which is one of the evil monsters that adventurers with ranged attacks would love to bully. But be careful when you pass them, it’s not good to get bitten by them!",
+            "common_data": {
+                "level": "118",
+                "type": "Monster",
+                "zone": "Field",
+                "race": "Plant",
+                "element": "Earth",
+                "size": "Medium",
+                "passive_level": "40",
+                "base_exp": "1,894",
+                "job_exp": "1,396"
+            },
+            "attribute_data": {
+                "atk": "763",
+                "matk": "790",
+                "def": "234",
+                "mdef": "464",
+                "hp": "165,957",
+                "hit": "309",
+                "flee": "217",
+                "move_spd": "0",
+                "atk_spd": "0.62"
+            },
+            "card_data": {
+                "imgsrc": null,
+                "name": "Geographer Card",
+                "effect": "When the wearer is an Acolyte, ＋20% damage reduction against Demon and Undead",
+                "perma_buff": "Max HP ＋60"
+            },
+            "drop_data": [
+                {
+                    "imgsrc": null,
+                    "name": "Sunflower Lollipop Blueprint",
+                    "drop_rate": "?%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+                    "name": "Geographer Card",
+                    "drop_rate": "?%"
+                },
+                {
+                    "imgsrc": null,
+                    "name": "Fire Crystal",
+                    "drop_rate": "15.97%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12004.png",
+                    "name": "Transformation Scroll (Geographer)",
+                    "drop_rate": "0.04%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_100.png",
+                    "name": "Zeny",
+                    "drop_rate": "72.81%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_100.png",
+                    "name": "Zeny",
+                    "drop_rate": "72.81%"
+                },
+                {
+                    "imgsrc": null,
+                    "name": "Thorn Seed",
+                    "drop_rate": "4.33%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40307.png",
+                    "name": "Garrison Sword [2]",
+                    "drop_rate": "0.6%"
+                }
+            ],
+            "location_data": [
+                {
+                    "location": "Border Checkpoint",
+                    "suggestion_level": "(Lv-)"
+                },
+                {
+                    "location": "Einbroch Field",
+                    "suggestion_level": "(Lv-)"
+                }
+            ]
+        }
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/monsters/mystcase_monster.png",
+        "name": "Myst Case",
+        "element": "Neutral",
+        "race": "Formless",
+        "level": "class=\"desktop-only\"",
+        "hp": "Lv 110",
+        "base_exp": "class=\"desktop-only\"",
+        "job_exp": "1,942 Base Exp",
+        "metadata": {
+            "description": "It's just a gift box. Yes, Just a gift box. Humans~ They know it seems to be strange, but just cannot stop touching. When they find out it's actually a Chest Monster, It's just too late~",
+            "common_data": {
+                "level": "110",
+                "type": "Monster",
+                "zone": "Field",
+                "race": "Formless",
+                "element": "Neutral",
+                "size": "Medium",
+                "passive_level": "40",
+                "base_exp": "1,942",
+                "job_exp": "1,200"
+            },
+            "attribute_data": {
+                "atk": "781",
+                "matk": "189",
+                "def": "276",
+                "mdef": "70",
+                "hp": "108,544",
+                "hit": "195",
+                "flee": "206",
+                "move_spd": "30",
+                "atk_spd": "0.63"
+            },
+            "card_data": {
+                "imgsrc": null,
+                "name": "Myst Case Card",
+                "effect": "Each attack to monsters restores 10 points of SP, this effect is triggered every 5 seconds at most.",
+                "perma_buff": "Max HP ＋40"
+            },
+            "drop_data": [
+                {
+                    "imgsrc": null,
+                    "name": "Gift Box Helm Blueprint",
+                    "drop_rate": "?%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+                    "name": "Myst Case Card",
+                    "drop_rate": "?%"
+                },
+                {
+                    "imgsrc": null,
+                    "name": "Frozen Heart",
+                    "drop_rate": "9.9%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12004.png",
+                    "name": "Transformation Scroll (Myst Case)",
+                    "drop_rate": "0.02%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_100.png",
+                    "name": "Zeny",
+                    "drop_rate": "53.73%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_100.png",
+                    "name": "Zeny",
+                    "drop_rate": "53.73%"
+                },
+                {
+                    "imgsrc": null,
+                    "name": "Edelweiss",
+                    "drop_rate": "30.02%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12121.png",
+                    "name": "Candy",
+                    "drop_rate": "1.24%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40908.png",
+                    "name": "White Flower Katar [2]",
+                    "drop_rate": "0.42%"
+                }
+            ],
+            "location_data": [
+                {
+                    "location": "Toy Factory 1F",
+                    "suggestion_level": "(Lv-)"
+                },
+                {
+                    "location": "Toy Factory 2F",
+                    "suggestion_level": "(Lv-)"
+                }
+            ]
+        }
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/monsters/no_icon.png",
+        "name": "Zipper Bear",
+        "element": "Shadow",
+        "race": "Brute",
+        "level": "class=\"desktop-only\"",
+        "hp": "Lv 113",
+        "base_exp": "class=\"desktop-only\"",
+        "job_exp": "2,056 Base Exp",
+        "metadata": {
+            "description": "The stuffed bear that Alice, a mysterious girl, Loves most. Don't look at the bear's eyes. Though it seems to be cute, it is, After all, a confused monster.",
+            "common_data": {
+                "level": "113",
+                "type": "Monster",
+                "zone": "Field",
+                "race": "Brute",
+                "element": "Shadow",
+                "size": "Medium",
+                "passive_level": "40",
+                "base_exp": "2,056",
+                "job_exp": "1,196"
+            },
+            "attribute_data": {
+                "atk": "926",
+                "matk": "224",
+                "def": "632",
+                "mdef": "40",
+                "hp": "104,574",
+                "hit": "191",
+                "flee": "212",
+                "move_spd": "90",
+                "atk_spd": "0.51"
+            },
+            "card_data": {
+                "imgsrc": null,
+                "name": "Zipper Bear Card",
+                "effect": "Atk ＋25",
+                "perma_buff": "Max HP ＋40"
+            },
+            "drop_data": [
+                {
+                    "imgsrc": null,
+                    "name": "Honey Jar Blueprint",
+                    "drop_rate": "?%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+                    "name": "Zipper Bear Card",
+                    "drop_rate": "?%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12004.png",
+                    "name": "Transformation Scroll (Zipper Bear)",
+                    "drop_rate": "0.02%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_100.png",
+                    "name": "Zeny",
+                    "drop_rate": "65.99%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_100.png",
+                    "name": "Zeny",
+                    "drop_rate": "65.99%"
+                },
+                {
+                    "imgsrc": null,
+                    "name": "Edelweiss",
+                    "drop_rate": "25.8%"
+                },
+                {
+                    "imgsrc": null,
+                    "name": "Christmas Garland",
+                    "drop_rate": "2.11%"
+                },
+                {
+                    "imgsrc": null,
+                    "name": "Berserk Fist [2]",
+                    "drop_rate": "0.36%"
+                }
+            ],
+            "location_data": [
+                {
+                    "location": "Toy Factory 1F",
+                    "suggestion_level": "(Lv-)"
+                }
+            ]
+        }
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/monsters/knight_of_windstorm_mvp.png",
         "name": "Stormy Knight",
         "element": "Wind",
         "race": "Formless",
-        "level": "Lv 115",
-        "hp": "42,269,985 Hp",
-        "base_exp": "43,856 Base Exp",
-        "job_exp": "14,619 Job Exp",
+        "level": "class=\"desktop-only\"",
+        "hp": "Lv 115",
+        "base_exp": "class=\"desktop-only\"",
+        "job_exp": "43,856 Base Exp",
         "metadata": {
             "description": "Investigator W said, \"the red-nosed Rudolph suddenly became crazy... We had to run away from the frightful snow and frost...\" Investigator M said, \"we still need to investigate the reason why the mount of the great person turned into such a scary figure and took action alone... That's it...\"",
             "common_data": {
@@ -598,10 +951,7 @@
                 "imgsrc": null,
                 "name": "Stormy Knight Card",
                 "effect": null,
-                "perma_buff": [
-                    "<div style=\"text-align: center;\">Max HP ＋112</div>",
-                    "Max HP ＋112"
-                ]
+                "perma_buff": "Max HP ＋112"
             },
             "drop_data": [
                 {
@@ -610,7 +960,7 @@
                     "drop_rate": "0.17%"
                 },
                 {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/19.png",
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
                     "name": "Stormy Knight Card",
                     "drop_rate": "?%"
                 },
@@ -625,12 +975,12 @@
                     "drop_rate": "21.43%"
                 },
                 {
-                    "imgsrc": null,
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12004.png",
                     "name": "Transformation Scroll (Stormy Knight)",
                     "drop_rate": "2.32%"
                 },
                 {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_5003.png",
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_5003.png",
                     "name": "Elunium",
                     "drop_rate": "24.38%"
                 },
@@ -640,7 +990,7 @@
                     "drop_rate": "2.79%"
                 },
                 {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_5110.png",
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_5110.png",
                     "name": "Mystic Frozen",
                     "drop_rate": "13.59%"
                 },
@@ -650,12 +1000,12 @@
                     "drop_rate": "9.06%"
                 },
                 {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_100.png",
                     "name": "Zeny",
                     "drop_rate": "13.95%"
                 },
                 {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_40009.png",
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40009.png",
                     "name": "Royal Pike [2]",
                     "drop_rate": "?%"
                 },
@@ -674,14 +1024,14 @@
         }
     },
     {
-        "imgsrc": "www.roguard.net/content/img/icons/monsters/teddy_bear_monster.png",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/monsters/teddy_bear_monster.png",
         "name": "Teddy Bear",
         "element": "Neutral",
         "race": "Formless",
-        "level": "Lv 114",
-        "hp": "141,557 Hp",
-        "base_exp": "2,066 Base Exp",
-        "job_exp": "1,212 Job Exp",
+        "level": "class=\"desktop-only\"",
+        "hp": "Lv 114",
+        "base_exp": "class=\"desktop-only\"",
+        "job_exp": "2,066 Base Exp",
         "metadata": {
             "description": "It is said the teddy bear was loved by an aristocratic young lady in ancient times. After being discarded, the bear gradually had its own soul and wanted to know its master, wandering year by year.",
             "common_data": {
@@ -717,342 +1067,14 @@
         }
     },
     {
-        "imgsrc": "www.roguard.net/content/img/icons/monsters/cookie_gift_hong_monster.png",
-        "name": "Christmas Cookie",
-        "element": "Holy",
-        "race": "Demi-Human",
-        "level": "Lv 112",
-        "hp": "87,625 Hp",
-        "base_exp": "1,978 Base Exp",
-        "job_exp": "1,220 Job Exp",
-        "metadata": {
-            "description": "The elf from the alien world. The elf is arranged to produce presents for innocent children. It represents red, the major color of an important festival. The favorite dessert: Tabala Mamasu.",
-            "common_data": {
-                "level": "112",
-                "type": "Monster",
-                "zone": "Field",
-                "race": "Demi-Human",
-                "element": "Holy",
-                "size": "Small",
-                "passive_level": "40",
-                "base_exp": "1,978",
-                "job_exp": "1,220"
-            },
-            "attribute_data": {
-                "atk": "147",
-                "matk": "602",
-                "def": "73",
-                "mdef": "469",
-                "hp": "87,625",
-                "hit": "185",
-                "flee": "195",
-                "move_spd": "30",
-                "atk_spd": "0.63"
-            },
-            "card_data": {
-                "imgsrc": null,
-                "name": "Cookie Card",
-                "effect": "Luk ＋2, [Judex] damage ＋5%",
-                "perma_buff": [
-                    "<div style=\"text-align: center;\">Def ＋2</div>",
-                    "Def ＋2"
-                ]
-            },
-            "drop_data": [
-                {
-                    "imgsrc": null,
-                    "name": "Pinocchio's Nose Blueprint",
-                    "drop_rate": "?%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/19.png",
-                    "name": "Cookie Card",
-                    "drop_rate": "?%"
-                },
-                {
-                    "imgsrc": null,
-                    "name": "Ice Cube",
-                    "drop_rate": "12.13%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_12004.png",
-                    "name": "Transformation Scroll (Christmas Cookie)",
-                    "drop_rate": "0.02%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
-                    "name": "Zeny",
-                    "drop_rate": "53.36%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
-                    "name": "Zeny",
-                    "drop_rate": "53.36%"
-                },
-                {
-                    "imgsrc": null,
-                    "name": "Edelweiss",
-                    "drop_rate": "29.5%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_42034.png",
-                    "name": "Baptized Armor [1]",
-                    "drop_rate": "0.42%"
-                }
-            ],
-            "location_data": [
-                {
-                    "location": "Toy Factory 2F",
-                    "suggestion_level": "(Lv-)"
-                }
-            ]
-        }
-    },
-    {
-        "imgsrc": "www.roguard.net/content/img/icons/monsters/perese_g_monster.png",
-        "name": "Highland Parasite",
-        "element": "Wind",
-        "race": "Plant",
-        "level": "Lv 121",
-        "hp": "177,194 Hp",
-        "base_exp": "2,202 Base Exp",
-        "job_exp": "1,280 Job Exp",
-        "metadata": {
-            "description": "Highland Parasite, who thinks she’s the most beautiful monster of Einbroch Field, doesn’t like human beings to call her “Highland”. She decides to teach these upright-walking creatures a lesson. If the Monster Laboratory called her Perlis the Rose at first, then nothing would have happened now.",
-            "common_data": {
-                "level": "121",
-                "type": "Monster",
-                "zone": "Field",
-                "race": "Plant",
-                "element": "Wind",
-                "size": "Medium",
-                "passive_level": "40",
-                "base_exp": "2,202",
-                "job_exp": "1,280"
-            },
-            "attribute_data": {
-                "atk": "671",
-                "matk": "729",
-                "def": "160",
-                "mdef": "476",
-                "hp": "177,194",
-                "hit": "316",
-                "flee": "220",
-                "move_spd": "30",
-                "atk_spd": "0.94"
-            },
-            "card_data": {
-                "imgsrc": null,
-                "name": "Highland Parasite Card",
-                "effect": "[Soul Breaker] Cast Delay -0.5s",
-                "perma_buff": [
-                    "<div style=\"text-align: center;\">Max HP ＋30</div>",
-                    "Max HP ＋30"
-                ]
-            },
-            "drop_data": [
-                {
-                    "imgsrc": null,
-                    "name": "Highland Flower Hairpin[1] Drawing",
-                    "drop_rate": "?%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/19.png",
-                    "name": "Highland Parasite Card",
-                    "drop_rate": "?%"
-                },
-                {
-                    "imgsrc": null,
-                    "name": "Fire Crystal",
-                    "drop_rate": "12.53%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_5004.png",
-                    "name": "Rough Elunium",
-                    "drop_rate": "1.19%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_12004.png",
-                    "name": "Transformation Scroll (Highland Parasite)",
-                    "drop_rate": "0.04%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
-                    "name": "Zeny",
-                    "drop_rate": "77.25%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
-                    "name": "Zeny",
-                    "drop_rate": "77.25%"
-                },
-                {
-                    "imgsrc": null,
-                    "name": "Holy Water",
-                    "drop_rate": "1.7%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_40705.png",
-                    "name": "Garrison Dagger [2]",
-                    "drop_rate": "0.64%"
-                }
-            ],
-            "location_data": [
-                {
-                    "location": "Border Checkpoint",
-                    "suggestion_level": "(Lv-)"
-                }
-            ]
-        }
-    },
-    {
-        "imgsrc": "www.roguard.net/content/img/icons/monsters/flamehorse_monster.png",
-        "name": "Fiery Mane",
-        "element": "Undead",
-        "race": "Undead",
-        "level": "Lv 120",
-        "hp": "173,990 Hp",
-        "base_exp": "2,184 Base Exp",
-        "job_exp": "1,270 Job Exp",
-        "metadata": {
-            "description": "The monster that perches in lava zone became very aggressive after its land was polluted by human beings. Its mane are burning flames, and it’s a dangerous guy which can quickly chase its prey on the boiling ground that human can’t even lay their foot on.",
-            "common_data": {
-                "level": "120",
-                "type": "Monster",
-                "zone": "Field",
-                "race": "Undead",
-                "element": "Undead",
-                "size": "Large",
-                "passive_level": "40",
-                "base_exp": "2,184",
-                "job_exp": "1,270"
-            },
-            "attribute_data": {
-                "atk": "1,053",
-                "matk": "321",
-                "def": "477",
-                "mdef": "315",
-                "hp": "173,990",
-                "hit": "314",
-                "flee": "219",
-                "move_spd": "120",
-                "atk_spd": "0.8"
-            },
-            "card_data": {
-                "imgsrc": null,
-                "name": "Fiery Mane Card",
-                "effect": "Move Spd ＋3%, Agi ＋2",
-                "perma_buff": [
-                    "<div style=\"text-align: center;\">M.Atk ＋4.5</div>",
-                    "M.Atk ＋4.5"
-                ]
-            },
-            "drop_data": [
-                {
-                    "imgsrc": null,
-                    "name": "Zealous Rhino Drawing",
-                    "drop_rate": "?%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/19.png",
-                    "name": "Fiery Mane Card",
-                    "drop_rate": "?%"
-                },
-                {
-                    "imgsrc": null,
-                    "name": "Burning Heart",
-                    "drop_rate": "15.92%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_12004.png",
-                    "name": "Fiery Mane Transformation scroll",
-                    "drop_rate": "0.04%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
-                    "name": "Zeny",
-                    "drop_rate": "72.85%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
-                    "name": "Zeny",
-                    "drop_rate": "72.85%"
-                },
-                {
-                    "imgsrc": null,
-                    "name": "Madogear Fuel",
-                    "drop_rate": "4.31%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_41833.png",
-                    "name": "Garrison Axe [2]",
-                    "drop_rate": "0.59%"
-                }
-            ],
-            "location_data": [
-                {
-                    "location": "Lava Cave 1F",
-                    "suggestion_level": "(Lv-)"
-                },
-                {
-                    "location": "Lava Cave 2F",
-                    "suggestion_level": "(Lv-)"
-                }
-            ]
-        }
-    },
-    {
-        "imgsrc": "www.roguard.net/content/img/icons/monsters/cruiser_monster.png",
-        "name": "Cruiser ★",
-        "element": "Neutral",
-        "race": "Formless",
-        "level": "Lv 111",
-        "hp": "343,304 Hp",
-        "base_exp": "2,372 Base Exp",
-        "job_exp": "970 Job Exp",
-        "metadata": {
-            "description": "The soldier is made of delicate gears in a surprisingly complex way. Even experts have confirmed that it is not actuated by magic power! Though assembled weapons are toys, it is reported that they can hurt adventurers...",
-            "common_data": {
-                "level": "111",
-                "type": "Monster",
-                "zone": "Field",
-                "race": "Formless",
-                "element": "Neutral",
-                "size": "Medium",
-                "passive_level": "40",
-                "base_exp": "2,372",
-                "job_exp": "970"
-            },
-            "attribute_data": {
-                "atk": "2,264",
-                "matk": "392",
-                "def": "366",
-                "mdef": "46",
-                "hp": "343,304",
-                "hit": "253",
-                "flee": "252",
-                "move_spd": "30",
-                "atk_spd": "0.65"
-            },
-            "card_data": {
-                "imgsrc": "www.roguard.net/content/img/icons/items/19.png",
-                "name": "Box Wrapper",
-                "effect": null,
-                "perma_buff": null
-            },
-            "drop_data": [],
-            "location_data": []
-        }
-    },
-    {
-        "imgsrc": "www.roguard.net/content/img/icons/monsters/specialre_mvp.png",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/monsters/specialre_mvp.png",
         "name": "Spashire",
         "element": "Water",
         "race": "Demi-Human",
-        "level": "Lv 113",
-        "hp": "9,999,999 Hp",
-        "base_exp": "33,901 Base Exp",
-        "job_exp": "19,709 Job Exp",
+        "level": "class=\"desktop-only\"",
+        "hp": "Lv 113",
+        "base_exp": "class=\"desktop-only\"",
+        "job_exp": "33,901 Base Exp",
         "metadata": {
             "description": "A dangerous man who led monsters to attack adventurers frequently in the Clock Tower Labyrinth in recent years, claiming himself to be one of the three alchemists who created the Clock Tower Labyrinth.",
             "common_data": {
@@ -1081,10 +1103,7 @@
                 "imgsrc": null,
                 "name": "Spashire Card",
                 "effect": null,
-                "perma_buff": [
-                    "<div style=\"text-align: center;\">Max HP ＋14</div>",
-                    "Max HP ＋14"
-                ]
+                "perma_buff": "Max HP ＋14"
             },
             "drop_data": [
                 {
@@ -1093,7 +1112,7 @@
                     "drop_rate": "0.07%"
                 },
                 {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/19.png",
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
                     "name": "Spashire Card",
                     "drop_rate": "?%"
                 },
@@ -1108,12 +1127,12 @@
                     "drop_rate": "6.28%"
                 },
                 {
-                    "imgsrc": null,
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12004.png",
                     "name": "Transformation Scroll (Spashire)",
                     "drop_rate": "0.57%"
                 },
                 {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_5003.png",
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_5003.png",
                     "name": "Elunium",
                     "drop_rate": "6.04%"
                 },
@@ -1128,12 +1147,12 @@
                     "drop_rate": "27.64%"
                 },
                 {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_100.png",
                     "name": "Zeny",
                     "drop_rate": "30.83%"
                 },
                 {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_40307.png",
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40307.png",
                     "name": "Bastard Sword [2]",
                     "drop_rate": "?%"
                 },
@@ -1143,609 +1162,12 @@
                     "drop_rate": "100%"
                 },
                 {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_43524.png",
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43524.png",
                     "name": "Crystal Pumps",
                     "drop_rate": "100%"
                 }
             ],
             "location_data": []
-        }
-    },
-    {
-        "imgsrc": "www.roguard.net/content/img/icons/monsters/no_icon.png",
-        "name": "Zipper Bear",
-        "element": "Shadow",
-        "race": "Brute",
-        "level": "Lv 113",
-        "hp": "104,574 Hp",
-        "base_exp": "2,056 Base Exp",
-        "job_exp": "1,196 Job Exp",
-        "metadata": {
-            "description": "The stuffed bear that Alice, a mysterious girl, Loves most. Don't look at the bear's eyes. Though it seems to be cute, it is, After all, a confused monster.",
-            "common_data": {
-                "level": "113",
-                "type": "Monster",
-                "zone": "Field",
-                "race": "Brute",
-                "element": "Shadow",
-                "size": "Medium",
-                "passive_level": "40",
-                "base_exp": "2,056",
-                "job_exp": "1,196"
-            },
-            "attribute_data": {
-                "atk": "926",
-                "matk": "224",
-                "def": "632",
-                "mdef": "40",
-                "hp": "104,574",
-                "hit": "191",
-                "flee": "212",
-                "move_spd": "90",
-                "atk_spd": "0.51"
-            },
-            "card_data": {
-                "imgsrc": null,
-                "name": "Zipper Bear Card",
-                "effect": "Atk ＋25",
-                "perma_buff": [
-                    "<div style=\"text-align: center;\">Max HP ＋40</div>",
-                    "Max HP ＋40"
-                ]
-            },
-            "drop_data": [
-                {
-                    "imgsrc": null,
-                    "name": "Honey Jar Blueprint",
-                    "drop_rate": "?%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/19.png",
-                    "name": "Zipper Bear Card",
-                    "drop_rate": "?%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_12004.png",
-                    "name": "Transformation Scroll (Zipper Bear)",
-                    "drop_rate": "0.02%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
-                    "name": "Zeny",
-                    "drop_rate": "65.99%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
-                    "name": "Zeny",
-                    "drop_rate": "65.99%"
-                },
-                {
-                    "imgsrc": null,
-                    "name": "Edelweiss",
-                    "drop_rate": "25.8%"
-                },
-                {
-                    "imgsrc": null,
-                    "name": "Christmas Garland",
-                    "drop_rate": "2.11%"
-                },
-                {
-                    "imgsrc": null,
-                    "name": "Berserk Fist [2]",
-                    "drop_rate": "0.36%"
-                }
-            ],
-            "location_data": [
-                {
-                    "location": "Toy Factory 1F",
-                    "suggestion_level": "(Lv-)"
-                }
-            ]
-        }
-    },
-    {
-        "imgsrc": "www.roguard.net/content/img/icons/monsters/garm_mvp.png",
-        "name": "Hatii",
-        "element": "Water",
-        "race": "Brute",
-        "level": "Lv 118",
-        "hp": "44,504,135 Hp",
-        "base_exp": "41,943 Base Exp",
-        "job_exp": "16,778 Job Exp",
-        "metadata": {
-            "description": "The elegant monster in the shape of a giant wolf always wanders on the field covered with snow in the alien world. Scales of ice as clear as crystals cover the entire body of the monster. Anyone intruding on its territory will be punished at absolute zero.",
-            "common_data": {
-                "level": "118",
-                "type": "MVP",
-                "zone": "Field",
-                "race": "Brute",
-                "element": "Water",
-                "size": "Large",
-                "passive_level": "999",
-                "base_exp": "41,943",
-                "job_exp": "16,778"
-            },
-            "attribute_data": {
-                "atk": "3,207",
-                "matk": "1,342",
-                "def": "2,176",
-                "mdef": "848",
-                "hp": "44,504,135",
-                "hit": "243",
-                "flee": "220",
-                "move_spd": "150",
-                "atk_spd": "1.24"
-            },
-            "card_data": {
-                "imgsrc": null,
-                "name": "Hatii Card",
-                "effect": "When launching auto attacks, Caster has a 50% chance to freeze the enemy for 5 seconds",
-                "perma_buff": [
-                    "<div style=\"text-align: center;\">Max HP ＋112</div>",
-                    "Max HP ＋112"
-                ]
-            },
-            "drop_data": [
-                {
-                    "imgsrc": null,
-                    "name": "Icy Brand Blueprint",
-                    "drop_rate": "?%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/19.png",
-                    "name": "Hatii Card",
-                    "drop_rate": "?%"
-                },
-                {
-                    "imgsrc": null,
-                    "name": "Ice Cube",
-                    "drop_rate": "?%"
-                },
-                {
-                    "imgsrc": null,
-                    "name": "Fang of Hatii",
-                    "drop_rate": "?%"
-                },
-                {
-                    "imgsrc": null,
-                    "name": "Transformation Scroll (Hatii)",
-                    "drop_rate": "?%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_12119.png",
-                    "name": "Yggdrasil Berry",
-                    "drop_rate": "?%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_5002.png",
-                    "name": "Oridecon",
-                    "drop_rate": "?%"
-                },
-                {
-                    "imgsrc": null,
-                    "name": "Edelweiss",
-                    "drop_rate": "?%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_5110.png",
-                    "name": "Mystic Frozen",
-                    "drop_rate": "?%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
-                    "name": "Zeny",
-                    "drop_rate": "?%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_41833.png",
-                    "name": "Dwarf King's Axe [2]",
-                    "drop_rate": "?%"
-                },
-                {
-                    "imgsrc": null,
-                    "name": "Fang of Hatii [1]",
-                    "drop_rate": "?%"
-                },
-                {
-                    "imgsrc": null,
-                    "name": "Fairy in Bottle",
-                    "drop_rate": "?%"
-                }
-            ],
-            "location_data": []
-        }
-    },
-    {
-        "imgsrc": "www.roguard.net/content/img/icons/monsters/chepet_mini.png",
-        "name": "Chepet",
-        "element": "Fire",
-        "race": "Demi-Human",
-        "level": "Lv 116",
-        "hp": "13,050,947 Hp",
-        "base_exp": "6,719 Base Exp",
-        "job_exp": "4,187 Job Exp",
-        "metadata": {
-            "description": "The elf that can control dolls and has always been a puzzle. The elf is confirmed by Adventurer's Guild that it can use magic of various types. \"Do not be deceived by its appearance and never provoke it please. \" written by injured Rafini.",
-            "common_data": {
-                "level": "116",
-                "type": "Mini Boss",
-                "zone": "Field",
-                "race": "Demi-Human",
-                "element": "Fire",
-                "size": "Medium",
-                "passive_level": "999",
-                "base_exp": "6,719",
-                "job_exp": "4,187"
-            },
-            "attribute_data": {
-                "atk": "1,152",
-                "matk": "2,193",
-                "def": "653",
-                "mdef": "624",
-                "hp": "13,050,947",
-                "hit": "224",
-                "flee": "212",
-                "move_spd": "120",
-                "atk_spd": "1.02"
-            },
-            "card_data": {
-                "imgsrc": null,
-                "name": "Chepet Card",
-                "effect": null,
-                "perma_buff": [
-                    "<div style=\"text-align: center;\">Max HP ＋64</div>",
-                    "Max HP ＋64"
-                ]
-            },
-            "drop_data": [
-                {
-                    "imgsrc": null,
-                    "name": "Magic Firewood Blueprint",
-                    "drop_rate": "0.5%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/19.png",
-                    "name": "Chepet Card",
-                    "drop_rate": "?%"
-                },
-                {
-                    "imgsrc": null,
-                    "name": "Frozen Heart",
-                    "drop_rate": "6.69%"
-                },
-                {
-                    "imgsrc": null,
-                    "name": "Ice Powder",
-                    "drop_rate": "4.95%"
-                },
-                {
-                    "imgsrc": null,
-                    "name": "Transformation Scroll (Chepet)",
-                    "drop_rate": "4.82%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_5023.png",
-                    "name": "Leaf of Yggdrasil",
-                    "drop_rate": "45.04%"
-                },
-                {
-                    "imgsrc": null,
-                    "name": "Edelweiss",
-                    "drop_rate": "4.06%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
-                    "name": "Zeny",
-                    "drop_rate": "?%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_40631.png",
-                    "name": "Ancient Tree Staff [2]",
-                    "drop_rate": "33.9%"
-                },
-                {
-                    "imgsrc": null,
-                    "name": "Ice Pick [1]",
-                    "drop_rate": "100%"
-                }
-            ],
-            "location_data": []
-        }
-    },
-    {
-        "imgsrc": "www.roguard.net/content/img/icons/monsters/martin_monster.png",
-        "name": "Marmot",
-        "element": "Earth",
-        "race": "Brute",
-        "level": "Lv 116",
-        "hp": "159,780 Hp",
-        "base_exp": "2,006 Base Exp",
-        "job_exp": "1,288 Job Exp",
-        "metadata": {
-            "description": "The small animal born with gagteeth are originally fond of living underground, but someday it heard human beings are making fun of it. “Ah--”, the Martin screams, and it comes out of the hole angrily, declaring a war to the passing adventurers with its rounded belly.",
-            "common_data": {
-                "level": "116",
-                "type": "Monster",
-                "zone": "Field",
-                "race": "Brute",
-                "element": "Earth",
-                "size": "Small",
-                "passive_level": "40",
-                "base_exp": "2,006",
-                "job_exp": "1,288"
-            },
-            "attribute_data": {
-                "atk": "1,126",
-                "matk": "310",
-                "def": "461",
-                "mdef": "228",
-                "hp": "159,780",
-                "hit": "305",
-                "flee": "215",
-                "move_spd": "60",
-                "atk_spd": "0.55"
-            },
-            "card_data": {
-                "imgsrc": null,
-                "name": "Martin Card",
-                "effect": "Def ＋10, Dmg to Dark monsters ＋10%",
-                "perma_buff": [
-                    "<div style=\"text-align: center;\">M.Def ＋3</div>",
-                    "M.Def ＋3"
-                ]
-            },
-            "drop_data": [
-                {
-                    "imgsrc": null,
-                    "name": "Martin Hat[1] Drawing",
-                    "drop_rate": "?%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/19.png",
-                    "name": "Martin Card",
-                    "drop_rate": "?%"
-                },
-                {
-                    "imgsrc": null,
-                    "name": "Burning Hair",
-                    "drop_rate": "16.74%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_12004.png",
-                    "name": "Transformation Scroll (Martin)",
-                    "drop_rate": "0.04%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
-                    "name": "Zeny",
-                    "drop_rate": "73.25%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
-                    "name": "Zeny",
-                    "drop_rate": "73.25%"
-                },
-                {
-                    "imgsrc": null,
-                    "name": "New Poison",
-                    "drop_rate": "3.02%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_40009.png",
-                    "name": "Garrison Spear [2]",
-                    "drop_rate": "0.6%"
-                }
-            ],
-            "location_data": [
-                {
-                    "location": "Einbroch Field",
-                    "suggestion_level": "(Lv-)"
-                }
-            ]
-        }
-    },
-    {
-        "imgsrc": "www.roguard.net/content/img/icons/monsters/timeholder_mvp.png",
-        "name": "Time Holder",
-        "element": "Neutral",
-        "race": "Demon",
-        "level": "Lv 110",
-        "hp": "37,715,369 Hp",
-        "base_exp": "26,880 Base Exp",
-        "job_exp": "22,744 Job Exp",
-        "metadata": {
-            "description": "A strange creature that can only be seen in the area which time and space are in chaos. The big eyeballs all over its body are said to be able to see through the past and the future.",
-            "common_data": {
-                "level": "110",
-                "type": "MVP",
-                "zone": "Field",
-                "race": "Demon",
-                "element": "Neutral",
-                "size": "Large",
-                "passive_level": "999",
-                "base_exp": "26,880",
-                "job_exp": "22,744"
-            },
-            "attribute_data": {
-                "atk": "1,771",
-                "matk": "2,217",
-                "def": "771",
-                "mdef": "742",
-                "hp": "37,715,369",
-                "hit": "279",
-                "flee": "178",
-                "move_spd": "150",
-                "atk_spd": "0.5"
-            },
-            "card_data": {
-                "imgsrc": null,
-                "name": "Time Holder Card",
-                "effect": null,
-                "perma_buff": [
-                    "<div style=\"text-align: center;\">Max HP ＋14</div>",
-                    "Max HP ＋14"
-                ]
-            },
-            "drop_data": [
-                {
-                    "imgsrc": null,
-                    "name": "Flutter Butterfly [1] Blueprint",
-                    "drop_rate": "0.16%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/19.png",
-                    "name": "Time Holder Card",
-                    "drop_rate": "?%"
-                },
-                {
-                    "imgsrc": null,
-                    "name": "Crystal Bone",
-                    "drop_rate": "63.04%"
-                },
-                {
-                    "imgsrc": null,
-                    "name": "Time Twister",
-                    "drop_rate": "12.27%"
-                },
-                {
-                    "imgsrc": null,
-                    "name": "Transformation Scroll (Time Holder)",
-                    "drop_rate": "1.33%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_12119.png",
-                    "name": "Yggdrasil Berry",
-                    "drop_rate": "6.65%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_5002.png",
-                    "name": "Oridecon",
-                    "drop_rate": "13.96%"
-                },
-                {
-                    "imgsrc": null,
-                    "name": "Tattered Time Pointer",
-                    "drop_rate": "2.57%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
-                    "name": "Zeny",
-                    "drop_rate": "?%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_43534.png",
-                    "name": "Enchanted Shoes [1]",
-                    "drop_rate": "?%"
-                },
-                {
-                    "imgsrc": null,
-                    "name": "Sacred Mission",
-                    "drop_rate": "100%"
-                }
-            ],
-            "location_data": []
-        }
-    },
-    {
-        "imgsrc": "www.roguard.net/content/img/icons/monsters/cruiser_monster.png",
-        "name": "Cruiser",
-        "element": "Neutral",
-        "race": "Formless",
-        "level": "Lv 111",
-        "hp": "98,087 Hp",
-        "base_exp": "2,372 Base Exp",
-        "job_exp": "970 Job Exp",
-        "metadata": {
-            "description": "The soldier is made of delicate gears in a surprisingly complex way. Even experts have confirmed that it is not actuated by magic power! Though assembled weapons are toys, it is reported that they can hurt adventurers...",
-            "common_data": {
-                "level": "111",
-                "type": "Monster",
-                "zone": "Field",
-                "race": "Formless",
-                "element": "Neutral",
-                "size": "Medium",
-                "passive_level": "40",
-                "base_exp": "2,372",
-                "job_exp": "970"
-            },
-            "attribute_data": {
-                "atk": "647",
-                "matk": "157",
-                "def": "305",
-                "mdef": "39",
-                "hp": "98,087",
-                "hit": "195",
-                "flee": "194",
-                "move_spd": "30",
-                "atk_spd": "0.65"
-            },
-            "card_data": {
-                "imgsrc": null,
-                "name": "Cruiser Card",
-                "effect": "Crit.Dmg ＋7%, Crit to Brute monsters ＋10",
-                "perma_buff": [
-                    "<div style=\"text-align: center;\">Atk ＋4.5</div>",
-                    "Atk ＋4.5"
-                ]
-            },
-            "drop_data": [
-                {
-                    "imgsrc": null,
-                    "name": "Legionnaire Hat [1] Blueprint",
-                    "drop_rate": "?%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/19.png",
-                    "name": "Cruiser Card",
-                    "drop_rate": "?%"
-                },
-                {
-                    "imgsrc": null,
-                    "name": "Box Wrapper",
-                    "drop_rate": "7.48%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_5001.png",
-                    "name": "Rough Oridecon",
-                    "drop_rate": "0.71%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_12004.png",
-                    "name": "Transformation Scroll (Cruiser)",
-                    "drop_rate": "0.02%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
-                    "name": "Zeny",
-                    "drop_rate": "55.25%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
-                    "name": "Zeny",
-                    "drop_rate": "55.25%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_5113.png",
-                    "name": "Rough Wind",
-                    "drop_rate": "0.6%"
-                },
-                {
-                    "imgsrc": null,
-                    "name": "Edelweiss",
-                    "drop_rate": "30.72%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_43534.png",
-                    "name": "Baptized Shoes [1]",
-                    "drop_rate": "0.43%"
-                }
-            ],
-            "location_data": [
-                {
-                    "location": "Toy Factory 1F",
-                    "suggestion_level": "(Lv-)"
-                }
-            ]
         }
     }
 ]

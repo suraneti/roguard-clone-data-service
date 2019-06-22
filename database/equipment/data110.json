@@ -1,122 +1,122 @@
 [
     {
         "imgsrc": null,
-        "name": "School Clothing Series",
-        "slot": "Armour",
-        "status": ""
-    },
-    {
-        "imgsrc": null,
-        "name": "School Life",
+        "name": "Romance Origami",
         "slot": "Tail",
-        "status": "Dex ＋5, INT ＋5"
+        "status": "All Attributes ＋1, MAX HP＋100"
     },
     {
-        "imgsrc": null,
-        "name": "School Witch Mocha Brown",
-        "slot": "Armour",
-        "status": ""
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_48557.png",
+        "name": "Romantic Flower",
+        "slot": "Mouth",
+        "status": "Damage reduction of plant race ＋5%"
     },
     {
-        "imgsrc": null,
-        "name": "School Witch·Christmas Red",
-        "slot": "Armour",
-        "status": ""
-    },
-    {
-        "imgsrc": null,
-        "name": "School Witch·Crystal Purple",
-        "slot": "Armour",
-        "status": ""
-    },
-    {
-        "imgsrc": null,
-        "name": "School Witch·Demon Purple",
-        "slot": "Armour",
-        "status": ""
-    },
-    {
-        "imgsrc": null,
-        "name": "School Witch·Starfish Yellow",
-        "slot": "Armour",
-        "status": ""
-    },
-    {
-        "imgsrc": null,
-        "name": "School Witch·Sugar Brown",
-        "slot": "Armour",
-        "status": ""
-    },
-    {
-        "imgsrc": null,
-        "name": "School Witch·Turquoise Green",
-        "slot": "Armour",
-        "status": ""
-    },
-    {
-        "imgsrc": null,
-        "name": "School Witch·Water Blue",
-        "slot": "Armour",
-        "status": ""
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40301.png",
-        "name": "Scimitar",
-        "slot": "Sword",
-        "status": "Atk + 90"
-    },
-    {
-        "imgsrc": null,
-        "name": "Scorpio Crown",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45010.png",
+        "name": "Romantic Gent",
         "slot": "Head",
-        "status": "M.Atk ＋1, Max HP ＋30"
+        "status": "Def ＋10"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45010.png",
+        "name": "Romantic Gent [1]",
+        "slot": "Head",
+        "status": "Def ＋10"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_48534.png",
+        "name": "Romantic Leaf",
+        "slot": "Mouth",
+        "status": "Max HP ＋120, SP Regen ＋1"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45200.png",
+        "name": "Rooster Year Bandana",
+        "slot": "Head",
+        "status": "INT ＋2"
     },
     {
         "imgsrc": null,
-        "name": "Scorpio Crown [1]",
+        "name": "Rooster Year Bandana",
         "slot": "Head",
-        "status": "No effect"
+        "status": "INT ＋2"
     },
     {
         "imgsrc": null,
-        "name": "Scorpio Diadem",
-        "slot": "Head",
-        "status": "Dex ＋3, AGI ＋3"
+        "name": "Rosa Bracelet",
+        "slot": "Bracelet",
+        "status": "Def + 31"
     },
     {
         "imgsrc": null,
-        "name": "Scorpio Diadem [1]",
-        "slot": "Head",
-        "status": "INT ＋2, VIT ＋1"
+        "name": "Rosa Bracelet [1]",
+        "slot": "Bracelet",
+        "status": "Def + 31"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42526.png",
-        "name": "Scutum",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42512.png",
+        "name": "Rosa Shield",
         "slot": "Shield",
-        "status": "Def + 46"
+        "status": "Melee Dmg ＋15%, Hit ＋25"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42526.png",
-        "name": "Scutum [1]",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42512.png",
+        "name": "Rosa Shield [1]",
         "slot": "Shield",
-        "status": "Def + 46"
+        "status": "Melee Dmg ＋15%, Hit ＋25"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_43520.png",
-        "name": "Shackles [1]",
-        "slot": "Shoes",
-        "status": "Def + 22"
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_44019.png",
+        "name": "Rosary",
+        "slot": "Accessory",
+        "status": "Atk + 48"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_43503.png",
-        "name": "Shackles [2]",
-        "slot": "Shoes",
-        "status": "Def + 22"
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_44019.png",
+        "name": "Rosary [1]",
+        "slot": "Accessory",
+        "status": "Atk + 48"
     },
     {
         "imgsrc": null,
-        "name": "Shadow Bracer [1]",
-        "slot": "Bracer",
-        "status": "Def + 112"
+        "name": "Rose Handkerchief",
+        "slot": "Face",
+        "status": "Max HP ＋100, Flee ＋10"
+    },
+    {
+        "imgsrc": null,
+        "name": "Rose Snowman Horn",
+        "slot": "Wing",
+        "status": "INT ＋5, Max HP ＋400"
+    },
+    {
+        "imgsrc": null,
+        "name": "Rose Witch Hat",
+        "slot": "Head",
+        "status": "All Attributes ＋2, Atk ＋12, M.Atk ＋12"
+    },
+    {
+        "imgsrc": null,
+        "name": "Rosette Headband",
+        "slot": "Head",
+        "status": "Int ＋2, Agi ＋2, Dex ＋2, M.Atk ＋10"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42510.png",
+        "name": "Round Buckleer",
+        "slot": "Shield",
+        "status": "Max HP ＋50, Def ＋5"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42510.png",
+        "name": "Round Buckleer [1]",
+        "slot": "Shield",
+        "status": "Max HP ＋50, Def ＋5"
+    },
+    {
+        "imgsrc": null,
+        "name": "Royal Helm",
+        "slot": "Head",
+        "status": ""
     }
 ]

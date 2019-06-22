@@ -1,122 +1,122 @@
 [
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45198.png",
-        "name": "Maple Which Falls",
-        "slot": "Head",
-        "status": "Def ＋5"
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_61001.png",
+        "name": "Loki Gloves [1]",
+        "slot": "Bracer",
+        "status": "Def + 112"
     },
     {
         "imgsrc": null,
-        "name": "Marchosias' Arrow",
-        "slot": "Mouth",
-        "status": "Refining M.Atk ＋10, For Refining ＋1, refining M.Atk ＋2"
+        "name": "Loki Gloves [2]",
+        "slot": "Bracer",
+        "status": "Def + 112"
     },
     {
-        "imgsrc": null,
-        "name": "Marchosias' Bag",
-        "slot": "Wing",
-        "status": "Max HP ＋500, For Refining ＋1, Max HP ＋20, Bag Slot ＋10"
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40919.png",
+        "name": "Loki's Nail [1]",
+        "slot": "Katar",
+        "status": "Doubles Critical, Agi ＋2, Auto attacks have a chance to get an Attack Speed Buff: Attack Spd ＋30%; last for 7 seconds, [Loki's Nail V] ＋[Noble Bracer]: Every 2% Attack Spd will provide 1 Atk, [Loki's Nail IX] ＋ [Windrunner Cape]: ＋5% [Cross Ripper Slasher] damage"
     },
     {
-        "imgsrc": null,
-        "name": "Marchosias' Gaze",
-        "slot": "Head",
-        "status": "Max HP ＋300, Dmg to Demi-Human race ＋3%, For Refining ＋1, Dmg to Demi-Human race ＋0.1%"
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40919.png",
+        "name": "Loki's Nail [2]",
+        "slot": "Katar",
+        "status": "Doubles Critical, Agi ＋2, Auto attacks have a chance to get an Attack Speed Buff: Attack Spd ＋30%; last for 7 seconds, [Loki's Nail V] ＋[Noble Bracer]: Every 2% Attack Spd will provide 1 Atk, [Loki's Nail IX] ＋ [Windrunner Cape]: ＋5% [Cross Ripper Slasher] damage"
     },
     {
-        "imgsrc": null,
-        "name": "Marchosias' Tail",
-        "slot": "Tail",
-        "status": "Refine Atk ＋10, For Refining ＋1, Refine Atk ＋2"
-    },
-    {
-        "imgsrc": null,
-        "name": "Martin Hat",
-        "slot": "Head",
-        "status": "Def ＋3%, Max HP ＋100"
-    },
-    {
-        "imgsrc": null,
-        "name": "Martin Hat [1]",
-        "slot": "Head",
-        "status": "Def ＋3%, Max HP ＋100"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_48542.png",
-        "name": "Mask of Darkness",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_48526.png",
+        "name": "Loki's Whispers",
         "slot": "Face",
-        "status": "VIT ＋2, For Refining ＋1, M.Def ＋1% (upper limit of increases is 15%)"
+        "status": "auto attack or any skill attack has a chance to cause target loses 5% Atk for a certain period"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_48528.png",
-        "name": "Masquerade",
-        "slot": "Face",
-        "status": "Dmg to Demi-Human ＋8%"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_48002.png",
-        "name": "Matyr Tail",
+        "imgsrc": null,
+        "name": "Loli Ruri's Cat",
         "slot": "Tail",
-        "status": "No effect"
+        "status": "auto attack deals Dam: SP x(1 ＋Luck/100), Each auto attack costs SP: -2"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_44021.png",
-        "name": "Matyr's Leash",
-        "slot": "Accessory",
-        "status": "Atk + 66"
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41201.png",
+        "name": "Long Bow",
+        "slot": "Bow",
+        "status": "Atk + 57"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_44021.png",
-        "name": "Matyr's Leash [1]",
-        "slot": "Accessory",
-        "status": "Atk + 66"
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41201.png",
+        "name": "Long Bow [2]",
+        "slot": "Bow",
+        "status": "Atk + 57"
     },
     {
-        "imgsrc": null,
-        "name": "Maya Hat",
-        "slot": "Head",
-        "status": "No effect"
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40021.png",
+        "name": "Long Horn [1]",
+        "slot": "Spear",
+        "status": "Holy, Attack Spd ＋10%, auto attack has a chance to cause the target loses HP for 10 seconds., Can use skill - [Detoxify]"
     },
     {
-        "imgsrc": null,
-        "name": "Maya Hat [1]",
-        "slot": "Head",
-        "status": "No effect"
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40021.png",
+        "name": "Long Horn [2]",
+        "slot": "Spear",
+        "status": "Holy, Attack Spd ＋10%, auto attack has a chance to cause the target loses HP for 10 seconds., Can use skill - [Detoxify]"
     },
     {
-        "imgsrc": null,
-        "name": "Maya Sword (Maya only)",
-        "slot": "Sword",
-        "status": ""
-    },
-    {
-        "imgsrc": null,
-        "name": "Medicine Pack [1]",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41504.png",
+        "name": "Long Mace [2]",
         "slot": "Mace",
-        "status": ""
+        "status": "Atk + 123"
     },
     {
-        "imgsrc": null,
-        "name": "Medicine Pack [2]",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41504.png",
+        "name": "Long Mace [3]",
         "slot": "Mace",
-        "status": ""
+        "status": "Atk + 123"
     },
     {
         "imgsrc": null,
-        "name": "Melon Cat",
-        "slot": "Head",
-        "status": "Str ＋1, VIT ＋1, INT ＋1, Dex ＋1, Agi ＋1, Luk ＋1"
+        "name": "Longinus Spear [2]",
+        "slot": "Spear",
+        "status": "Atk + 247"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45194.png",
-        "name": "Melting Ice Cream [1]",
-        "slot": "Head",
-        "status": "Def ＋5"
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40005.png",
+        "name": "Longinus Spear [3]",
+        "slot": "Spear",
+        "status": "Atk + 247"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42515.png",
-        "name": "Memory Book",
-        "slot": "Shield",
-        "status": "Def + 33"
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45103.png",
+        "name": "Lord Kaho's Horn",
+        "slot": "Head",
+        "status": "No effect"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45103.png",
+        "name": "Lord Kaho's Horn [1]",
+        "slot": "Head",
+        "status": "No effect"
+    },
+    {
+        "imgsrc": null,
+        "name": "Lord's Clothes",
+        "slot": "Armour",
+        "status": "Str ＋3, VIT ＋3, Dex ＋3"
+    },
+    {
+        "imgsrc": null,
+        "name": "Lord's Clothes [1]",
+        "slot": "Armour",
+        "status": "Str ＋3, VIT ＋3, Dex ＋3"
+    },
+    {
+        "imgsrc": null,
+        "name": "Love and Bravery 2018",
+        "slot": "Head",
+        "status": "All Attributes ＋1, Max HP ＋100, Max SP ＋100"
+    },
+    {
+        "imgsrc": null,
+        "name": "Love at Tokyo Tower [1]",
+        "slot": "Head",
+        "status": "All Attributes ＋1, Max SP ＋50"
     }
 ]

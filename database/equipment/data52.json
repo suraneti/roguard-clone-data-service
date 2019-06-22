@@ -1,122 +1,122 @@
 [
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42020.png",
-        "name": "Goibne's Armor [1]",
-        "slot": "Armour",
-        "status": "VIT ＋5, Max HP ＋10%"
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41505.png",
+        "name": "Garrison Hammer [2]",
+        "slot": "Mace",
+        "status": "Atk + 180"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_43511.png",
-        "name": "Goibne's Greaves",
-        "slot": "Shoes",
-        "status": "M.Def ＋35, SP Regen ＋5"
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40908.png",
+        "name": "Garrison Katar",
+        "slot": "Katar",
+        "status": "Atk + 144"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_43511.png",
-        "name": "Goibne's Greaves [1]",
-        "slot": "Shoes",
-        "status": "M.Def ＋35, SP Regen ＋5"
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40908.png",
+        "name": "Garrison Katar [2]",
+        "slot": "Katar",
+        "status": "Atk + 144"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45122.png",
-        "name": "Goibne's Helm",
+        "imgsrc": null,
+        "name": "Garrison Knuckles",
+        "slot": "Knuckle",
+        "status": "Atk + 180"
+    },
+    {
+        "imgsrc": null,
+        "name": "Garrison Knuckles [2]",
+        "slot": "Knuckle",
+        "status": "Atk + 180"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40009.png",
+        "name": "Garrison Spear",
+        "slot": "Spear",
+        "status": "Atk + 225"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40009.png",
+        "name": "Garrison Spear [2]",
+        "slot": "Spear",
+        "status": "Atk + 225"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40631.png",
+        "name": "Garrison Staff",
+        "slot": "Staff",
+        "status": "M.Atk + 108"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40631.png",
+        "name": "Garrison Staff [2]",
+        "slot": "Staff",
+        "status": "M.Atk + 108"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40307.png",
+        "name": "Garrison Sword",
+        "slot": "Sword",
+        "status": "Atk + 180"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40307.png",
+        "name": "Garrison Sword [2]",
+        "slot": "Sword",
+        "status": "Atk + 180"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_48540.png",
+        "name": "Gas Mask",
+        "slot": "Face",
+        "status": "Def -20, Poison Dmg Taken -30%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Geathering Machine [1]",
+        "slot": "Trolley",
+        "status": "Def + 112"
+    },
+    {
+        "imgsrc": null,
+        "name": "Geathering Machine [2]",
+        "slot": "Trolley",
+        "status": "Def + 112"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_48532.png",
+        "name": "Geek Glasses",
+        "slot": "Face",
+        "status": "No effect"
+    },
+    {
+        "imgsrc": null,
+        "name": "Gemini Crown",
         "slot": "Head",
-        "status": "Def ＋10, VIT ＋3, M.Def ＋5"
+        "status": "Agi ＋1"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45122.png",
-        "name": "Goibne's Helm [1]",
+        "imgsrc": null,
+        "name": "Gemini Crown [1]",
         "slot": "Head",
-        "status": "Def ＋10, VIT ＋3, M.Def ＋5"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_43014.png",
-        "name": "Goibne's Spaulders",
-        "slot": "Robe",
-        "status": "VIT ＋2, Reduction of Ranged Dmg ＋10%"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_43014.png",
-        "name": "Goibne's Spaulders [1]",
-        "slot": "Robe",
-        "status": "VIT ＋2, Reduction of Ranged Dmg ＋10%"
+        "status": "No effect"
     },
     {
         "imgsrc": null,
-        "name": "Gold Angel",
-        "slot": "Head",
-        "status": "VIT ＋1, Str ＋1, Max HP ＋50"
-    },
-    {
-        "imgsrc": null,
-        "name": "Gold Christmas Bell",
-        "slot": "Wing",
-        "status": "Holy Dmg ＋8%, Dark, Ghost, Undead, Poison Dmg Taken -10%"
-    },
-    {
-        "imgsrc": null,
-        "name": "Gold Clock Guardian",
-        "slot": "Head",
-        "status": "Max SP ＋50, HP Regen ＋1"
-    },
-    {
-        "imgsrc": null,
-        "name": "Gold Clock Guardian [1]",
-        "slot": "Head",
-        "status": "Max SP ＋50, HP Regen ＋1"
-    },
-    {
-        "imgsrc": null,
-        "name": "Gold Deviruchi Wing",
-        "slot": "Wing",
-        "status": "All Attributes ＋1, Dmg ＋5%, M.Dmg ＋5%"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40705.png",
-        "name": "Gold Hook Dagger",
-        "slot": "Knife",
-        "status": "Atk + 198"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40705.png",
-        "name": "Gold Hook Dagger [2]",
-        "slot": "Knife",
-        "status": "Atk + 198"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/21.png",
-        "name": "Gold Lion",
-        "slot": "Mount",
-        "status": "Move Spd ＋50%"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/21.png",
-        "name": "Gold Lion",
-        "slot": "Mount",
-        "status": "Move Spd ＋50%"
-    },
-    {
-        "imgsrc": null,
-        "name": "Gold Triple Star",
-        "slot": "Head",
-        "status": "Str ＋3, INT ＋3"
-    },
-    {
-        "imgsrc": null,
-        "name": "Gold Triple Star [1]",
+        "name": "Gemini Diadem",
         "slot": "Head",
         "status": "Dex ＋3, AGI ＋3"
     },
     {
         "imgsrc": null,
-        "name": "Golden Antenna",
+        "name": "Gemini Diadem [1]",
         "slot": "Head",
-        "status": "Pen. ＋2%, Atk ＋45, STR ＋2"
+        "status": "Agi ＋3"
     },
     {
-        "imgsrc": null,
-        "name": "Golden Antenna [1]",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45098.png",
+        "name": "Gemmed Sallet",
         "slot": "Head",
-        "status": "Pen. ＋2%, Atk ＋45, STR ＋2"
+        "status": "Def ＋5, M.Def ＋10"
     }
 ]

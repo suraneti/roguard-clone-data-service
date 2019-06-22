@@ -1,122 +1,122 @@
 [
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_44001.png",
-        "name": "Critical Ring [2]",
-        "slot": "Accessory",
-        "status": "Atk + 40"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41510.png",
-        "name": "Croce Staff [1]",
-        "slot": "Staff",
-        "status": "INT ＋5, SP Regen ＋30%, For Refining ＋1, The recovery effect of [Heal], [Sanctuary] ＋4%, [Croce Staff IV] ＋ [Holy Robe IV]: Healing bonus ＋ 5%. When [Holy Robe] Refining is ＋10 or above, the healing bonus increases to 10%"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41510.png",
-        "name": "Croce Staff [2]",
-        "slot": "Staff",
-        "status": "INT ＋5, SP Regen ＋30%, For Refining ＋1, The recovery effect of [Heal], [Sanctuary] ＋4%, [Croce Staff IV] ＋ [Holy Robe IV]: Healing bonus ＋ 5%. When [Holy Robe] Refining is ＋10 or above, the healing bonus increases to 10%"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/21.png",
-        "name": "Crocuta",
-        "slot": "Mount",
-        "status": "Move Spd ＋75%"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/21.png",
-        "name": "Crocuta",
-        "slot": "Mount",
-        "status": "Move Spd ＋75%"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41228.png",
-        "name": "Cross Bow [1]",
-        "slot": "Bow",
-        "status": "Dex ＋2, Atk ＋10, When Dexterity reaches 95, Ranged Phy, Atk ＋10%"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41228.png",
-        "name": "Cross Bow [2]",
-        "slot": "Bow",
-        "status": "Dex ＋2, Atk ＋10, When Dexterity reaches 95, Ranged Phy, Atk ＋10%"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42511.png",
-        "name": "Cross Shield",
-        "slot": "Shield",
-        "status": "Def + 57"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42511.png",
-        "name": "Cross Shield [1]",
-        "slot": "Shield",
-        "status": "Def + 57"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45046.png",
-        "name": "Crown",
-        "slot": "Head",
-        "status": "Int ＋3, Damage to holy monsters ＋5%, For Refining ＋1, damage to holy monsters ＋1% (upper limit of increase is ＋15%)"
+        "imgsrc": null,
+        "name": "Costume·BrightNight·Green",
+        "slot": "Armour",
+        "status": ""
     },
     {
         "imgsrc": null,
-        "name": "Crown Headwear",
-        "slot": "Head",
-        "status": "All Attributes ＋2, Pen. ＋4%, MPen. ＋4%"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45035.png",
-        "name": "Crown of Ancient Queen",
-        "slot": "Head",
-        "status": "Def ＋15"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45035.png",
-        "name": "Crown of Ancient Queen [1]",
-        "slot": "Head",
-        "status": "Def ＋15"
+        "name": "Costume·BrightNight·OceanBlue",
+        "slot": "Armour",
+        "status": ""
     },
     {
         "imgsrc": null,
-        "name": "Crown of Mistress",
-        "slot": "Head",
-        "status": "No effect"
+        "name": "Costume·BrightNight·Sun",
+        "slot": "Armour",
+        "status": ""
     },
     {
         "imgsrc": null,
-        "name": "Crown of Mistress [1]",
-        "slot": "Head",
-        "status": "No effect"
+        "name": "Costume·Carol·Brown",
+        "slot": "Armour",
+        "status": ""
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45046.png",
-        "name": "Crown [1]",
-        "slot": "Head",
-        "status": "Int ＋3, Damage to holy monsters ＋5%, For Refining ＋1, damage to holy monsters ＋1% (upper limit of increase is ＋15%)"
+        "imgsrc": null,
+        "name": "Costume·Carol·Green",
+        "slot": "Armour",
+        "status": ""
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_60001.png",
-        "name": "Crystal Orb [1]",
-        "slot": "Orb",
-        "status": "Def + 22"
+        "imgsrc": null,
+        "name": "Costume·Carol·Red",
+        "slot": "Armour",
+        "status": ""
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_60001.png",
-        "name": "Crystal Orb [2]",
-        "slot": "Orb",
-        "status": "Def + 22"
+        "imgsrc": null,
+        "name": "Costume·Carol·White",
+        "slot": "Armour",
+        "status": ""
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_43524.png",
-        "name": "Crystal Pumps",
-        "slot": "Shoes",
-        "status": "INT ＋5, M.Atk ＋3%, [Cat's Blessing VI] ＋ [Crystal Pumps]: Fire/Water/Earth/Wind/Element atk ＋7%, [Wizardry Staff VIII] ＋ [Robe of Cast VIII] ＋ [Eye of Dullahan VIII] ＋ [Crystal Pumps IV]: -5% CT Variable, ＋3% M.Dmg, ＋3% Ignore MDef"
+        "imgsrc": null,
+        "name": "Costume·Christmas Prince",
+        "slot": "Armour",
+        "status": ""
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_43524.png",
-        "name": "Crystal Pumps [1]",
-        "slot": "Shoes",
-        "status": "INT ＋5, M.Atk ＋3%, [Cat's Blessing VI] ＋ [Crystal Pumps]: Fire/Water/Earth/Wind/Element atk ＋7%, [Wizardry Staff VIII] ＋ [Robe of Cast VIII] ＋ [Eye of Dullahan VIII] ＋ [Crystal Pumps IV]: -5% CT Variable, ＋3% M.Dmg, ＋3% Ignore MDef"
+        "imgsrc": null,
+        "name": "Costume·Elite Adventurer·Christmas Red",
+        "slot": "Armour",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Costume·Elite Adventurer·Christmas Red",
+        "slot": "Armour",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Costume·Elite Adventurer·Demon Purple",
+        "slot": "Armour",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Costume·Elite Adventurer·Demon Purple",
+        "slot": "Armour",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Costume·Elite Adventurer·Starfish Yellow",
+        "slot": "Armour",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Costume·Elite Adventurer·Starfish Yellow",
+        "slot": "Armour",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Costume·Elite Adventurer·Water Blue",
+        "slot": "Armour",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Costume·Elite Adventurer·Water Blue",
+        "slot": "Armour",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Costume·I, Steward female",
+        "slot": "Armour",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Costume·I, Steward male",
+        "slot": "Armour",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Costume·Moonlight",
+        "slot": "Armour",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Costume·NightSakura",
+        "slot": "Armour",
+        "status": ""
     }
 ]

@@ -1,122 +1,122 @@
 [
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40307.png",
-        "name": "Garrison Sword",
-        "slot": "Sword",
-        "status": "Atk + 180"
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_44001.png",
+        "name": "Flower Ring [1]",
+        "slot": "Accessory",
+        "status": "Atk ＋20, Damage from plant monster's attack -10%"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40307.png",
-        "name": "Garrison Sword [2]",
-        "slot": "Sword",
-        "status": "Atk + 180"
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_44001.png",
+        "name": "Flower Ring [1]",
+        "slot": "Accessory",
+        "status": "Atk ＋20, Damage from plant monster's attack -10%, "
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_48540.png",
-        "name": "Gas Mask",
-        "slot": "Face",
-        "status": "Def -20, Poison Dmg Taken -30%"
-    },
-    {
-        "imgsrc": null,
-        "name": "Geathering Machine [1]",
-        "slot": "Trolley",
-        "status": "Def + 112"
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_48537.png",
+        "name": "Flu Mask",
+        "slot": "Mouth",
+        "status": "Silence Resistance ＋10%"
     },
     {
         "imgsrc": null,
-        "name": "Geathering Machine [2]",
-        "slot": "Trolley",
-        "status": "Def + 112"
+        "name": "Fluffy Cloud",
+        "slot": "Tail",
+        "status": "Dmg to Insects +8%, Dmg Taken from Insects -8%"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_48532.png",
-        "name": "Geek Glasses",
-        "slot": "Face",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_60005.png",
+        "name": "Fluo Orb [1]",
+        "slot": "Orb",
+        "status": "Def + 30"
+    },
+    {
+        "imgsrc": null,
+        "name": "Fluo Orb [2]",
+        "slot": "Orb",
+        "status": "Def + 30"
+    },
+    {
+        "imgsrc": null,
+        "name": "Flurry CocoCat Coco",
+        "slot": "Armour",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Flurry CocoCat SugarFrost",
+        "slot": "Armour",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Flutter Butterfly",
+        "slot": "Head",
+        "status": "Damage to formless race ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Flutter Butterfly [1]",
+        "slot": "Head",
+        "status": "Damage to formless race ＋5%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_47004.png",
+        "name": "Flying Angel",
+        "slot": "Wing",
         "status": "No effect"
     },
     {
         "imgsrc": null,
-        "name": "Gemini Crown",
-        "slot": "Head",
-        "status": "Agi ＋1"
+        "name": "Flying Demon Wings",
+        "slot": "Wing",
+        "status": "Dex ＋5, Max HP ＋500"
     },
     {
         "imgsrc": null,
-        "name": "Gemini Crown [1]",
-        "slot": "Head",
-        "status": "No effect"
+        "name": "Flying Demon·Black",
+        "slot": "Wing",
+        "status": "Dex ＋5, Max HP ＋500"
     },
     {
         "imgsrc": null,
-        "name": "Gemini Diadem",
+        "name": "Flying Demon·Purple",
+        "slot": "Wing",
+        "status": "Dex ＋5, Max HP ＋500"
+    },
+    {
+        "imgsrc": null,
+        "name": "Flying Demon·Red",
+        "slot": "Wing",
+        "status": "Dex ＋5, Max HP ＋500"
+    },
+    {
+        "imgsrc": null,
+        "name": "Fog Snowman Horn",
+        "slot": "Wing",
+        "status": "VIT ＋5, Max HP ＋400"
+    },
+    {
+        "imgsrc": null,
+        "name": "Fooling Laser Gun (Monster)",
+        "slot": "Wing",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "For Alice",
         "slot": "Head",
         "status": "Dex ＋3, AGI ＋3"
     },
     {
         "imgsrc": null,
-        "name": "Gemini Diadem [1]",
+        "name": "For Alice [1]",
         "slot": "Head",
-        "status": "Agi ＋3"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45098.png",
-        "name": "Gemmed Sallet",
-        "slot": "Head",
-        "status": "Def ＋5, M.Def ＋10"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45098.png",
-        "name": "Gemmed Sallet [1]",
-        "slot": "Head",
-        "status": "Def ＋5, M.Def ＋10"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40607.png",
-        "name": "Gentleman's Staff [1]",
-        "slot": "Staff",
-        "status": "Dex ＋3, INT ＋3, VIT ＋3"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40607.png",
-        "name": "Gentleman's Staff [2]",
-        "slot": "Staff",
-        "status": "Dex ＋3, INT ＋3, VIT ＋3"
+        "status": "Max HP ＋300, Job EXP of killing monsters ＋5%"
     },
     {
         "imgsrc": null,
-        "name": "Ghost Archer Bow",
-        "slot": "Bow",
-        "status": ""
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_47018.png",
-        "name": "Ghost Archer Horong",
-        "slot": "Wing",
-        "status": ""
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45015.png",
-        "name": "Ghost Bandana",
+        "name": "Forest Crown[1]",
         "slot": "Head",
-        "status": "Agi ＋2, Dark Dmg Taken -15%"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45015.png",
-        "name": "Ghost Bandana [1]",
-        "slot": "Head",
-        "status": "Agi ＋2, Dark Dmg Taken -15%"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/21.png",
-        "name": "Ghost Horse",
-        "slot": "Mount",
-        "status": "Move Spd ＋50%"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/21.png",
-        "name": "Ghost Horse",
-        "slot": "Mount",
-        "status": "Move Spd ＋50%"
+        "status": "All Attributes ＋1, Damage taken from Plants and Brutes monsters －2%"
     }
 ]

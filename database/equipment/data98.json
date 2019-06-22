@@ -1,122 +1,122 @@
 [
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45048.png",
-        "name": "Puppy Love",
-        "slot": "Head",
-        "status": "Luk ＋3, Flee ＋5, For Refining ＋1, Flee ＋1 (upper limit of increase is 15)"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45048.png",
-        "name": "Puppy Love [1]",
-        "slot": "Head",
-        "status": "Luk ＋3, Flee ＋5, For Refining ＋1, Flee ＋1 (upper limit of increase is 15)"
+        "imgsrc": null,
+        "name": "Ouroboros Spear",
+        "slot": "Spear",
+        "status": ""
     },
     {
         "imgsrc": null,
-        "name": "Purple Poison Dagger [1]",
-        "slot": "Knife",
-        "status": "Str ＋5, With a large probability to set target into poisoning state when launching auto attacks, For Refining increases by 1, ignore 3% more Def, Damage of [Purple Poison Dagger] and [Venom Knife] increases by 100%, Poison state cannot be cured by Panacea"
+        "name": "Ouroboros Staff",
+        "slot": "Staff",
+        "status": ""
     },
     {
         "imgsrc": null,
-        "name": "Purple Poison Dagger [2]",
-        "slot": "Knife",
-        "status": "Str ＋5, With a large probability to set target into poisoning state when launching auto attacks, For Refining increases by 1, ignore 3% more Def, Damage of [Purple Poison Dagger] and [Venom Knife] increases by 100%, Poison state cannot be cured by Panacea"
+        "name": "Ouroboros Sword",
+        "slot": "Sword",
+        "status": ""
     },
     {
         "imgsrc": null,
-        "name": "Pyramid Puzzle",
-        "slot": "Head",
-        "status": "INT ＋3, Ignore MDef ＋5%, When INT reaches 200, ignore MDef ＋5%"
+        "name": "Overclock [1]",
+        "slot": "Trolley",
+        "status": "Def + 112"
     },
     {
         "imgsrc": null,
-        "name": "Pyramid Puzzle [1]",
-        "slot": "Head",
-        "status": "INT ＋3, Ignore MDef ＋5%, When INT reaches 200, ignore MDef ＋5%"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41504.png",
-        "name": "Quadrille [2]",
-        "slot": "Mace",
-        "status": "Atk + 112"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41504.png",
-        "name": "Quadrille [3]",
-        "slot": "Mace",
-        "status": "Atk + 112"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45033.png",
-        "name": "Queen's Hair Ornament",
-        "slot": "Head",
-        "status": "Def ＋10"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45033.png",
-        "name": "Queen's Hair Ornament [1]",
-        "slot": "Head",
-        "status": "Def ＋10"
+        "name": "Overclock [2]",
+        "slot": "Trolley",
+        "status": "Def + 112"
     },
     {
         "imgsrc": null,
-        "name": "Quietness Wizard Hat",
-        "slot": "Head",
-        "status": "Overall Ability ＋2, Atk ＋12, M.Atk ＋12"
-    },
-    {
-        "imgsrc": null,
-        "name": "Rabbit Bag",
-        "slot": "Wing",
-        "status": "Max SP ＋50, Max HP ＋100"
-    },
-    {
-        "imgsrc": null,
-        "name": "Rabbit Earmuff",
-        "slot": "Head",
-        "status": "Max HP ＋50, Max SP ＋50"
-    },
-    {
-        "imgsrc": null,
-        "name": "Rabbit Hat",
-        "slot": "Head",
-        "status": "Max HP ＋100"
-    },
-    {
-        "imgsrc": null,
-        "name": "Rabbit Lamp",
+        "name": "Ox Bone Helm",
         "slot": "Head",
         "status": ""
     },
     {
         "imgsrc": null,
-        "name": "Rabbit Lamp 1",
+        "name": "Ox Bone Helm",
         "slot": "Head",
         "status": ""
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45113.png",
-        "name": "Raccoon Hat",
-        "slot": "Head",
-        "status": "Def ＋15"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45113.png",
-        "name": "Raccoon Hat [1]",
-        "slot": "Head",
-        "status": "Def ＋15"
-    },
-    {
         "imgsrc": null,
-        "name": "Radiant Sun God Backwear",
-        "slot": "Wing",
-        "status": "Max HP ＋5000, Def ＋5%, MDef ＋15%, Crit Res＋15, Dmg Reduc. ＋2.5%, Magic Reduc. ＋7.5%, Poison, Holy, Dark, Ghost, Neutral damage taken -5%, Fire, Water, Earth and Wind damage taken -15%, Gain passive skill [Solar Counter]: When you’re hit, deals (Atk ＋ M.Atk)*50% Real Damage to the attacker."
-    },
-    {
-        "imgsrc": null,
-        "name": "Radio Antenna",
+        "name": "Ox Bone Helm [1]",
         "slot": "Head",
         "status": "Dex ＋3, AGI ＋3"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_48502.png",
+        "name": "Oxygen Mask",
+        "slot": "Face",
+        "status": "Poison Dmg Taken -20%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41206.png",
+        "name": "P. Bow",
+        "slot": "Bow",
+        "status": "Atk + 43"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41206.png",
+        "name": "P. Bow [2]",
+        "slot": "Bow",
+        "status": "Atk + 43"
+    },
+    {
+        "imgsrc": null,
+        "name": "P. Knuckle",
+        "slot": "Knuckle",
+        "status": "Atk + 212"
+    },
+    {
+        "imgsrc": null,
+        "name": "P. Knuckle [2]",
+        "slot": "Knuckle",
+        "status": "Atk + 212"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40604.png",
+        "name": "P. Staff",
+        "slot": "Staff",
+        "status": "M.Atk + 33"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40604.png",
+        "name": "P. Staff [2]",
+        "slot": "Staff",
+        "status": "M.Atk + 33"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41503.png",
+        "name": "P. Stick",
+        "slot": "Mace",
+        "status": "Atk + 54"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41503.png",
+        "name": "P. Stick [2]",
+        "slot": "Mace",
+        "status": "Atk + 54"
+    },
+    {
+        "imgsrc": null,
+        "name": "Pablo's Secret",
+        "slot": "Wing",
+        "status": "Auto Attacks trigger Tentacle Attacks. Auto Attacks damage increase by BaseLv×10. For refining ＋1 to +6, each level of refining will increase Auto Attack damage by BaseLv×5 (maximum at BaseLv×30), 5% chance to gain 5 extra Zeny when slaying a target"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_48524.png",
+        "name": "Pacifier",
+        "slot": "Face",
+        "status": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45136.png",
+        "name": "Pagdayaw",
+        "slot": "Head",
+        "status": "auto attack or any skill attack has a 3% chance to cast curse"
     }
 ]

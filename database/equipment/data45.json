@@ -1,122 +1,122 @@
 [
     {
-        "imgsrc": null,
-        "name": "For Alice [1]",
-        "slot": "Head",
-        "status": "Max HP ＋300, Job EXP of killing monsters ＋5%"
-    },
-    {
-        "imgsrc": null,
-        "name": "Forest Hunter [1]",
-        "slot": "Bow",
-        "status": "Critical ＋5, Crit.Dmg ＋10%, ＋10% [Deadly Snipe] multiplier for each refining level after reaching refining ＋8 (up to 70%),  ＋5% Crit.Dmg at refining ＋5, ＋10% Crit.Dmg at refining ＋10, ＋10% [Deadly Snipe] damage at refining ＋15"
-    },
-    {
-        "imgsrc": null,
-        "name": "Forest Hunter [2]",
-        "slot": "Bow",
-        "status": "Critical ＋5, Crit.Dmg ＋10%, ＋10% [Deadly Snipe] multiplier for each refining level after reaching refining ＋8 (up to 70%),  ＋5% Crit.Dmg at refining ＋5, ＋10% Crit.Dmg at refining ＋10, ＋10% [Deadly Snipe] damage at refining ＋15"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40622.png",
-        "name": "Forest Staff [1]",
-        "slot": "Staff",
-        "status": "Agi ＋5, Equipment ASPD ＋15%, Spray damage to targets and all targets surrounding in a small area\\ (only effective to Mages), Refining increases by 1, Flee ＋3, Equipment ASPD ＋1%"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40622.png",
-        "name": "Forest Staff [2]",
-        "slot": "Staff",
-        "status": "Agi ＋5, Equipment ASPD ＋15%, Spray damage to targets and all targets surrounding in a small area\\ (only effective to Mages), Refining increases by 1, Flee ＋3, Equipment ASPD ＋1%"
-    },
-    {
-        "imgsrc": null,
-        "name": "Forever Flame [1]",
-        "slot": "Knife",
-        "status": ""
-    },
-    {
-        "imgsrc": null,
-        "name": "Forged Eternal Spear",
-        "slot": "Spear",
-        "status": "Str ＋18, Agi ＋12, All Attributes ＋14, Equipment ASPD ＋10%, Dmg ＋15%, Ignore Def ＋25%, Demi-Human Race Damage ＋40%, Max HP ＋25000, Dmg Reduc. ＋5%, Magic Reduc. ＋5%, The Eternal Spear bursts out of Valkyrie’s Will, which shines all enemies in a 6-meter range. [Valkyrie’s Will]: targets affected by Valkyrie’s Will cannot cast any skills. This effect lasts 4 seconds and cannot be removed by Panacea (silence); CD: 120 seconds."
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42029.png",
-        "name": "Formal Suit",
-        "slot": "Armour",
-        "status": "Def + 19"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42029.png",
-        "name": "Formal Suit [1]",
-        "slot": "Armour",
-        "status": "Def + 19"
-    },
-    {
-        "imgsrc": null,
-        "name": "Fortune Cat Fan",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40303.png",
+        "name": "Falchion",
         "slot": "Sword",
-        "status": ""
+        "status": "Atk + 54"
     },
     {
-        "imgsrc": null,
-        "name": "Fortune Cat Wings",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40303.png",
+        "name": "Falchion [2]",
+        "slot": "Sword",
+        "status": "Atk + 54"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43023.png",
+        "name": "Falcon Muffler [1]",
+        "slot": "Robe",
+        "status": "Def + 22"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41216.png",
+        "name": "Falken Blitz [1]",
+        "slot": "Bow",
+        "status": "Dex ＋3, Costs of [Arrow Repel] and [Heavy Arrow] -40%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41216.png",
+        "name": "Falken Blitz [2]",
+        "slot": "Bow",
+        "status": "Dex ＋3, Costs of [Arrow Repel] and [Heavy Arrow] -40%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_47010.png",
+        "name": "Fallen Angel Wing",
         "slot": "Wing",
-        "status": ""
+        "status": "No effect"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_44001.png",
-        "name": "Fortune Necklace [2]",
-        "slot": "Accessory",
-        "status": "Atk + 20"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40715.png",
-        "name": "Fortune Sword [1]",
-        "slot": "Knife",
-        "status": "Int ＋10, Max HP ＋600, Soul Breaker Damage ＋20%, For Refining ＋15, Soul Breaker will bring bonus of Ranged damage"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40715.png",
-        "name": "Fortune Sword [2]",
-        "slot": "Knife",
-        "status": "Int ＋10, Max HP ＋600, Soul Breaker Damage ＋20%, For Refining ＋15, Soul Breaker will bring bonus of Ranged damage"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45142.png",
-        "name": "Fox Ears Bell Ribbon",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45011.png",
+        "name": "Fancy Flower",
         "slot": "Head",
-        "status": "Int ＋3, Max HP ＋5%, For Refining ＋1, healing value of a single target ＋1% (upper limit of increase is 15%)"
+        "status": "Damage reduction of plant race ＋10%"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45142.png",
-        "name": "Fox Ears Bell Ribbon [1]",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45011.png",
+        "name": "Fancy Flower [1]",
         "slot": "Head",
-        "status": "INT ＋3, Max HP ＋5%"
+        "status": "Damage reduction of plant race ＋10%"
     },
     {
         "imgsrc": null,
-        "name": "Fox Grass",
+        "name": "Fang of Garm [1]",
+        "slot": "Knife",
+        "status": "Agi ＋8, Attack Spd ＋5%, Atk ＋5%, Damage to fire monsters ＋10%, For Refining ＋10, ＋15, Atk ＋5%, Damage to fire monsters ＋10%; for Atk ＋5%, Damage to fire monsters ＋10%, auto attack may release [Freezing Wind]. [Freezing Wind]: Atk ＋5%, Damage to fire monsters ＋15%; the effect lasts 5 seconds."
+    },
+    {
+        "imgsrc": null,
+        "name": "Fang of Garm [2]",
+        "slot": "Knife",
+        "status": "Agi ＋8, Attack Spd ＋5%, Atk ＋5%, Damage to fire monsters ＋10%, For Refining ＋10, ＋15, Atk ＋5%, Damage to fire monsters ＋10%; for Atk ＋5%, Damage to fire monsters ＋10%, auto attack may release [Freezing Wind]. [Freezing Wind]: Atk ＋5%, Damage to fire monsters ＋15%; the effect lasts 5 seconds."
+    },
+    {
+        "imgsrc": null,
+        "name": "Fantasy Star·Dawn",
+        "slot": "Armour",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Fantasy Star·Lyrics",
+        "slot": "Armour",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Fantasy Star·Melody",
+        "slot": "Armour",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Fantasy Star·String",
+        "slot": "Armour",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Fashionable Glasses",
         "slot": "Face",
+        "status": "No effect"
+    },
+    {
+        "imgsrc": null,
+        "name": "Fatal Magic Eye [1]",
+        "slot": "Knife",
         "status": ""
     },
     {
-        "imgsrc": null,
-        "name": "Fox King’s Smiling Face",
-        "slot": "Head",
-        "status": "M.Atk ＋10, Max SP ＋100"
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40905.png",
+        "name": "Fear Katar [2]",
+        "slot": "Katar",
+        "status": "Atk + 90"
     },
     {
-        "imgsrc": null,
-        "name": "Fox King’s Smiling Face [1]",
-        "slot": "Head",
-        "status": "M.Atk ＋10, Max SP ＋100"
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40905.png",
+        "name": "Fear Katar [3]",
+        "slot": "Katar",
+        "status": "Atk + 90"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_61004.png",
-        "name": "Fox Wrist Guard",
-        "slot": "Bracer",
-        "status": "Def + 33"
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45041.png",
+        "name": "Feather Beret",
+        "slot": "Head",
+        "status": "Def ＋10, M.Def ＋5, Damage reduction of Demi-Human race ＋10%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45041.png",
+        "name": "Feather Beret [1]",
+        "slot": "Head",
+        "status": "Def ＋10, M.Def ＋5, Damage reduction of Demi-Human race ＋10%"
     }
 ]

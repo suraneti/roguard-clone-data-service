@@ -1,122 +1,122 @@
 [
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_47008.png",
-        "name": "Perm Demon",
-        "slot": "Wing",
-        "status": "Max SP ＋10%"
-    },
-    {
         "imgsrc": null,
-        "name": "Pet Apron",
-        "slot": "Wing",
-        "status": ""
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_48004.png",
-        "name": "Petite's Tail",
-        "slot": "Tail",
-        "status": "Move Spd ＋5%, Avoid being auto-target dragon monsters"
-    },
-    {
-        "imgsrc": null,
-        "name": "Ph.D Hat",
-        "slot": "Head",
-        "status": "Max HP ＋50, Max SP ＋50, INT ＋1"
-    },
-    {
-        "imgsrc": null,
-        "name": "Ph.D Hat [1]",
-        "slot": "Head",
-        "status": "Dex ＋3, AGI ＋3"
-    },
-    {
-        "imgsrc": null,
-        "name": "Picky Eggshell",
-        "slot": "Head",
-        "status": ""
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40611.png",
-        "name": "Piercing Staff [1]",
+        "name": "Nemesis [1]",
         "slot": "Staff",
-        "status": "INT ＋2, M.Atk ＋5%"
+        "status": "M.Atk ＋15%, Luk ＋5, CT Variable of [Holy Light Strike], [Turn Undead], [Magnus Exorcismus Attack] -25%, Luck value brings extra damage to [Holy Light Strike], [Judex]"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40611.png",
-        "name": "Piercing Staff [2]",
+        "imgsrc": null,
+        "name": "Nemesis [2]",
         "slot": "Staff",
-        "status": "INT ＋2, M.Atk ＋5%"
+        "status": "M.Atk ＋15%, Luk ＋5, CT Variable of [Holy Light Strike], [Turn Undead], [Magnus Exorcismus Attack] -25%, Luck value brings extra damage to [Holy Light Strike], [Judex]"
     },
     {
         "imgsrc": null,
-        "name": "Pierrot Mask",
+        "name": "Night Aira",
         "slot": "Face",
-        "status": "Def ＋10, Damage reduction of Human race ＋5%"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40002.png",
-        "name": "Pike",
-        "slot": "Spear",
-        "status": "Atk + 247"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40002.png",
-        "name": "Pike [3]",
-        "slot": "Spear",
-        "status": "Atk + 247"
+        "status": "Atk ＋10, M.Atk ＋10, Base EXP of killing monsters ＋5%"
     },
     {
         "imgsrc": null,
-        "name": "Pinafore",
-        "slot": "Head",
-        "status": "Dex ＋3, AGI ＋3"
-    },
-    {
-        "imgsrc": null,
-        "name": "Pinafore [1]",
-        "slot": "Head",
-        "status": "Dex ＋3, AGI ＋3"
-    },
-    {
-        "imgsrc": null,
-        "name": "Pinocchio's Nose",
+        "name": "Night Aira[1]",
         "slot": "Face",
-        "status": "Dmg to Demi-Human ＋5%"
+        "status": "Atk ＋10, M.Atk ＋10, Base EXP of killing monsters ＋5%"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_48520.png",
-        "name": "Pipe",
+        "imgsrc": null,
+        "name": "Night Feather",
+        "slot": "Wing",
+        "status": "All Attributes ＋2, Pen. ＋4%, MPen. ＋4%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Night fire Gryphon",
+        "slot": "Mount",
+        "status": "Move Spd ＋25%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Night Headwear",
+        "slot": "Head",
+        "status": "Atk ＋30, Pen. ＋3%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Night Sakura·Infatuation",
         "slot": "Mouth",
-        "status": "Str ＋3, Damage reduction of Insect race ＋10%, When Refining reaches 10Max HP ＋10%"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45014.png",
-        "name": "Pirate Bandana",
-        "slot": "Head",
-        "status": "Def ＋5, Str ＋2"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45014.png",
-        "name": "Pirate Bandana [1]",
-        "slot": "Head",
-        "status": "Def ＋5, Str ＋2"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45189.png",
-        "name": "Pirate Flag",
-        "slot": "Head",
-        "status": "No effect"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45189.png",
-        "name": "Pirate Flag [1]",
-        "slot": "Head",
-        "status": "No effect"
+        "status": "INT ＋2, Ignore M.Def ＋2%"
     },
     {
         "imgsrc": null,
-        "name": "Pirate Skeleton (Pirate Skeleton only)",
-        "slot": "Sword",
-        "status": ""
+        "name": "Night Watch Abyssal Blue",
+        "slot": "Head",
+        "status": "Atk ＋30, Pen. ＋3%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Night Watch Fiery Red",
+        "slot": "Head",
+        "status": "Atk ＋30, Pen. ＋3%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Night Watch Nether Green",
+        "slot": "Head",
+        "status": "Atk ＋30, Pen. ＋3%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Night Watch Sunlit Yellow",
+        "slot": "Head",
+        "status": "Atk ＋30, Pen. ＋3%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_61506.png",
+        "name": "Nile's Bracelet",
+        "slot": "Bracelet",
+        "status": "Def + 42"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_61506.png",
+        "name": "Nile's Bracelet [1]",
+        "slot": "Bracelet",
+        "status": "Def + 42"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/21.png",
+        "name": "Nine Tail",
+        "slot": "Mount",
+        "status": "Move Spd ＋50%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/21.png",
+        "name": "Nine Tail",
+        "slot": "Mount",
+        "status": "Move Spd ＋50%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_48003.png",
+        "name": "Nine Tail",
+        "slot": "Tail",
+        "status": "No effect"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_48007.png",
+        "name": "Nine Tails",
+        "slot": "Tail",
+        "status": "Flee ＋5%, Fire Dmg Taken -10%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Ninja Suit Moonlight",
+        "slot": "Armour",
+        "status": "Luk ＋8, Attack Spd ＋10%, Max HP ＋300, For Refining increases by 5, the damage to L-size monsters increases by 5%, For Refining increases by 10 and 15, Melee Dmg increases by 4% and 8% respectively"
+    },
+    {
+        "imgsrc": null,
+        "name": "Ninja Suit Moonlight [1]",
+        "slot": "Armour",
+        "status": "Luk ＋8, Attack Spd ＋10%, Max HP ＋300, For Refining increases by 5, the damage to L-size monsters increases by 5%, For Refining increases by 10 and 15, Melee Dmg increases by 4% and 8% respectively"
     }
 ]

@@ -1,122 +1,122 @@
 [
     {
-        "imgsrc": null,
-        "name": "Ms. Moura's Smile",
-        "slot": "Head",
-        "status": "Earth Dmg ＋5%, Dex ＋1"
-    },
-    {
-        "imgsrc": null,
-        "name": "Ms. Moura's Smile [1]",
-        "slot": "Head",
-        "status": "Earth Dmg ＋5%, Dex ＋1"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_43008.png",
-        "name": "Muffler[1]",
-        "slot": "Robe",
-        "status": "Def + 22"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45043.png",
-        "name": "Munak Hat",
-        "slot": "Head",
-        "status": "Damage reduction of undead race ＋10%"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45043.png",
-        "name": "Munak Hat [1]",
-        "slot": "Head",
-        "status": "Damage reduction of undead race ＋10%"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40322.png",
-        "name": "Muramasa [2]",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40334.png",
+        "name": "Mercenary Sword [2]",
         "slot": "Sword",
-        "status": "Critical ＋25, Equipment ASPD ＋10%, auto attack has a chance to stun the target for 3 seconds, during which the damage caused by swordsman to the target increases by 50%"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40322.png",
-        "name": "Muramasa[1]",
-        "slot": "Sword",
-        "status": "Critical ＋25, Equipment ASPD ＋10%, auto attack has a chance to stun the target for 3 seconds, during which the damage caused by swordsman to the target increases by 50%"
+        "status": "Atk + 162"
     },
     {
         "imgsrc": null,
-        "name": "Musical Instrument",
-        "slot": "Book",
+        "name": "Merlin's Gift",
+        "slot": "Knife",
         "status": ""
     },
     {
         "imgsrc": null,
-        "name": "Musika [2]",
-        "slot": "Robe",
-        "status": "Def + 22"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45089.png",
-        "name": "Musketeer Hat",
+        "name": "Merry Christmas Hat",
         "slot": "Head",
-        "status": "No effect"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45089.png",
-        "name": "Musketeer Hat [1]",
-        "slot": "Head",
-        "status": "No effect"
+        "status": "Max SP ＋5%, Magic Reduc. ＋3%"
     },
     {
         "imgsrc": null,
-        "name": "My heart is like snow",
-        "slot": "Mouth",
-        "status": "Water Dmg ＋3%, M.Atk ＋10"
+        "name": "Merry Christmas Hat [1]",
+        "slot": "Head",
+        "status": "Dex ＋3, AGI ＋3"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40301.png",
-        "name": "Mysteltainn [2]",
-        "slot": "Sword",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42028.png",
+        "name": "Metal Armor",
+        "slot": "Armour",
+        "status": "Def + 33"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42028.png",
+        "name": "Metal Armor [1]",
+        "slot": "Armour",
+        "status": "Def + 33"
+    },
+    {
+        "imgsrc": null,
+        "name": "Metal Axe [1]",
+        "slot": "Axe",
         "status": "Atk + 180"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40301.png",
-        "name": "Mysteltainn [3]",
-        "slot": "Sword",
+        "imgsrc": null,
+        "name": "Metal Axe [2]",
+        "slot": "Axe",
         "status": "Atk + 180"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41217.png",
-        "name": "Mystery Bow [1]",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41207.png",
+        "name": "Metal Bow",
         "slot": "Bow",
-        "status": "Dex ＋5, Atk ＋75, When Dexterity reaches 95, Atk ＋10%, When Dexterity reaches 120, Atk ＋3%, When Dexterity reaches 150, Atk ＋3%"
+        "status": "Atk + 100"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41217.png",
-        "name": "Mystery Bow [2]",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41207.png",
+        "name": "Metal Bow [2]",
         "slot": "Bow",
-        "status": "Dex ＋5, Atk ＋75, When Dexterity reaches 95, Atk ＋10%, When Dexterity reaches 120, Atk ＋3%, When Dexterity reaches 150, Atk ＋3%"
+        "status": "Atk + 100"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40708.png",
+        "name": "Metal Dagger",
+        "slot": "Knife",
+        "status": "Atk + 126"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40708.png",
+        "name": "Metal Dagger [2]",
+        "slot": "Knife",
+        "status": "Atk + 126"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40902.png",
+        "name": "Metal Katar",
+        "slot": "Katar",
+        "status": "Atk + 100"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40902.png",
+        "name": "Metal Katar [2]",
+        "slot": "Katar",
+        "status": "Atk + 100"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40628.png",
+        "name": "Metal Staff",
+        "slot": "Staff",
+        "status": "M.Atk + 75"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40628.png",
+        "name": "Metal Staff [2]",
+        "slot": "Staff",
+        "status": "M.Atk + 75"
     },
     {
         "imgsrc": null,
-        "name": "Mystletainn",
-        "slot": "Knife",
-        "status": "Str ＋18, VIT ＋12, All Attributes ＋8, Hit ＋50, Atk ＋24%, Demi-Human Race Damage ＋30%, Max HP ＋15000"
+        "name": "Metal Two Handed Axe [1]",
+        "slot": "Axe",
+        "status": "When Luck reaches 90, Atk ＋100, When Dexterity reaches 90, Damage of [Mammonite] ＋50%, When Refining ＋5, ＋10, ＋15, Damage of [Mammonite] ＋10%, 20%, 30% respectively, [Mammonite] has a 10% chance to trigger Crit, which cause skills deal 1.5 times of damage"
     },
     {
         "imgsrc": null,
-        "name": "Mystletainn 2 [2]",
-        "slot": "Knife",
-        "status": "Str ＋18, VIT ＋12, All Attributes ＋14, Hit ＋50, Atk ＋36%, Demi-Human Race Damage ＋40%, Max HP ＋23500, Dmg Reduc. ＋5%, Magic Reduc. ＋5%"
+        "name": "Metal Two Handed Axe [2]",
+        "slot": "Axe",
+        "status": "When Luck reaches 90, Atk ＋100, When Dexterity reaches 90, Damage of [Mammonite] ＋50%, When Refining ＋5, ＋10, ＋15, Damage of [Mammonite] ＋10%, 20%, 30% respectively, [Mammonite] has a 10% chance to trigger Crit, which cause skills deal 1.5 times of damage"
     },
     {
-        "imgsrc": null,
-        "name": "Mystletainn 3 [2]",
-        "slot": "Knife",
-        "status": "Str ＋18, VIT ＋12, All Attributes ＋20, Hit ＋50, Atk ＋48%, Demi-Human Race Damage ＋50%, Max HP ＋32000, Dmg Reduc. ＋10%, Magic Reduc. ＋10%"
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42040.png",
+        "name": "Meteorite Armor",
+        "slot": "Armour",
+        "status": "Def + 33"
     },
     {
-        "imgsrc": null,
-        "name": "Mystletainn Forged",
-        "slot": "Knife",
-        "status": "Str ＋18, VIT ＋12, All Attributes ＋14, Hit ＋50, Atk ＋36%, Demi-Human Race Damage ＋40%, Max HP ＋23500, Dmg Reduc. ＋5%, Magic Reduc. ＋5%, Mystletainn releasing void power enables caster in [Void Space] to teleport in a short range. [Void Space]: players can immediately move to anywhere in a 6-meter range; Mystletainn allows players to use Void Space again within 6 seconds after previous use (continuous use within 1 second is unavailable). But the void force is so powerful that part of its energy will retain in the site after use. The remained energy will be sensed by all people. Every time the use of [Void Space] will set players into [Void hiding]. [Void hiding] enables caster to be invisible for 5 seconds. During [Void hiding], the damage of first attack will increase by 35%, both Atk and M.Atk increase by 150%; CD: 90 seconds."
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42040.png",
+        "name": "Meteorite Armor [1]",
+        "slot": "Armour",
+        "status": "Def + 33"
     }
 ]

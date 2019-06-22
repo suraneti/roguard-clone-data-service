@@ -1,9 +1,75 @@
 [
     {
         "imgsrc": null,
+        "name": "Beach goggle series Face Headwear",
+        "slot": "Face",
+        "status": "Def ＋3%, MDef ＋3%, Fire damage taken －5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Beach goggle·Green",
+        "slot": "Face",
+        "status": "Def ＋3%, MDef ＋3%, Fire damage taken －5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Beach goggle·ocean blue",
+        "slot": "Face",
+        "status": "Def ＋3%, MDef ＋3%, Fire damage taken －5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Beach goggle·Red",
+        "slot": "Face",
+        "status": "Def ＋3%, MDef ＋3%, Fire damage taken －5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Beach goggle·Yellow",
+        "slot": "Face",
+        "status": "Def ＋3%, MDef ＋3%, Fire damage taken －5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Beach Hat",
+        "slot": "Head",
+        "status": "Max HP ＋500"
+    },
+    {
+        "imgsrc": null,
+        "name": "Beach Melon",
+        "slot": "Wing",
+        "status": "MAX HP＋500, Dmg Reduc.＋2%, MDmg Reduc.＋2%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45201.png",
+        "name": "Beast Headwear [1]",
+        "slot": "Head",
+        "status": "Luk ＋6"
+    },
+    {
+        "imgsrc": null,
+        "name": "Beast Heart",
+        "slot": "Armour",
+        "status": "Agi ＋4, Cri ＋5, Max HP ＋800, [Flamberge X] ＋ [Advanced Sack Teddy Shoes IV] ＋ [Undershirt VIII] ＋ [Beast Heart VIII]: ＋3% Atk, ＋3% Crit.Dmg, ＋5% Atk SPD, ＋10% Max HP"
+    },
+    {
+        "imgsrc": null,
+        "name": "Beast Heart [1]",
+        "slot": "Armour",
+        "status": "Agi ＋4, Cri ＋5, Max HP ＋800, [Flamberge X] ＋ [Advanced Sack Teddy Shoes IV] ＋ [Undershirt VIII] ＋ [Beast Heart VIII]: ＋3% Atk, ＋3% Crit.Dmg, ＋5% Atk SPD, ＋10% Max HP"
+    },
+    {
+        "imgsrc": null,
         "name": "Beast Stomach",
         "slot": "Wing",
-        "status": "Def ＋15, When Refining reaches ＋10 and Strength reaches 90, Atk ＋20, When Refining reaches ＋10 and Agility reaches 90, Equipment ASPD ＋5%, When Refining reaches ＋10 and Vitality reaches 90, Neutral Dmg Taken -10%, When Refining reaches ＋10 and Intelligence reaches 90, M.Atk ＋20, When Refining reaches ＋10 and Dexterity reaches 90, Ranged Damage ＋5%, When Refining reaches ＋10 and Luck reaches 90, Crit.Dmg ＋5%"
+        "status": "Def ＋15, When Refining ＋10 and Strength reaches 90, Atk ＋20, When Refining ＋10 and Agility reaches 90, Attack Spd ＋5%, When Refining ＋10 and Vitality reaches 90, Neutral Dmg Taken -10%, When Refining ＋10 and Intelligence reaches 90, M.Atk ＋20, When Refining ＋10 and Dexterity reaches 90, Ranged Damage ＋5%, When Refining ＋10 and Luck reaches 90, Crit.Dmg ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Beast's Tail",
+        "slot": "Tail",
+        "status": "All Attributes +1, Ignore DEF +2%, Ignore M.Def +2%"
     },
     {
         "imgsrc": null,
@@ -18,20 +84,26 @@
         "status": "Max HP ＋50, Max SP ＋50"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45139.png",
+        "imgsrc": null,
+        "name": "Bell plant",
+        "slot": "Face",
+        "status": "All Attributes ＋1, Neutral Dmg ＋2%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45139.png",
         "name": "Bell Ribbon",
         "slot": "Head",
         "status": "No effect"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45139.png",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45139.png",
         "name": "Bell Ribbon [1]",
         "slot": "Head",
         "status": "Agi ＋3, Luk ＋3"
     },
     {
         "imgsrc": null,
-        "name": "Bemstar Doll Hat ",
+        "name": "Bemstar Doll Hat",
         "slot": "Head",
         "status": "MDef ＋2%, MDef ＋10"
     },
@@ -45,78 +117,6 @@
         "imgsrc": null,
         "name": "Berdysz [1]",
         "slot": "Axe",
-        "status": "VIT ＋2, Equipment ASPD ＋5%, [Alloy Mail] ＋[Berdysz]: each auto attack causes Amistr's Atk increases by 3%; the effect lasts 5 seconds, and can stack 3 times at most."
-    },
-    {
-        "imgsrc": null,
-        "name": "Berdysz [2]",
-        "slot": "Axe",
-        "status": "VIT ＋2, Equipment ASPD ＋5%, [Alloy Mail] ＋[Berdysz]: each auto attack causes Amistr's Atk increases by 3%; the effect lasts 5 seconds, and can stack 3 times at most."
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45128.png",
-        "name": "Beret",
-        "slot": "Head",
-        "status": "Def ＋5, Damage reduction of Human race ＋10%"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45128.png",
-        "name": "Beret [1]",
-        "slot": "Head",
-        "status": "Def ＋5, Damage reduction of Human race ＋10%"
-    },
-    {
-        "imgsrc": null,
-        "name": "Berry Sunhat",
-        "slot": "Head",
-        "status": "Max HP ＋500"
-    },
-    {
-        "imgsrc": null,
-        "name": "Berserk Fist",
-        "slot": "Knuckle",
-        "status": "Atk + 253"
-    },
-    {
-        "imgsrc": null,
-        "name": "Berserk Fist [2]",
-        "slot": "Knuckle",
-        "status": "Atk + 253"
-    },
-    {
-        "imgsrc": null,
-        "name": "Berserk [1]",
-        "slot": "Knuckle",
-        "status": "auto attack has a 5% chance to increase ASPD by 5%; the effect lasts 5 seconds, and can stack up 3 times, Damage of [Triple Attack] ＋15%"
-    },
-    {
-        "imgsrc": null,
-        "name": "Berserk [2]",
-        "slot": "Knuckle",
-        "status": "auto attack has a 5% chance to increase ASPD by 5%; the effect lasts 5 seconds, and can stack up 3 times, Damage of [Triple Attack] ＋15%"
-    },
-    {
-        "imgsrc": null,
-        "name": "Besom",
-        "slot": "Wing",
-        "status": "Def ＋15, When Refining reaches ＋10 and Strength reaches 90, Atk ＋20, When Refining reaches ＋10 and Agility reaches 90, Equipment ASPD ＋5%, When Refining reaches ＋10 and Vitality reaches 90, Neutral Dmg Taken -10%, When Refining reaches ＋10 and Intelligence reaches 90, M.Atk ＋20, When Refining reaches ＋10 and Dexterity reaches 90, Ranged Damage ＋5%, When Refining reaches ＋10 and Luck reaches 90, Crit.Dmg ＋5%"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_52025.png",
-        "name": "Bible",
-        "slot": "Mace",
-        "status": "Atk + 180"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_52025.png",
-        "name": "Bible",
-        "slot": "Book",
-        "status": ""
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_52025.png",
-        "name": "Bible",
-        "slot": "Book",
-        "status": ""
+        "status": "VIT ＋2, Attack Spd ＋5%, [Alloy Mail] ＋[Berdysz]: each auto attack causes Amistr's Atk increases by 3%; the effect lasts 5 seconds, and can stack 3 times at most."
     }
 ]

@@ -1,122 +1,122 @@
 [
     {
-        "imgsrc": null,
-        "name": "Mace of Judgment [2]",
-        "slot": "Mace",
-        "status": "INT ＋6, DEX ＋6, ＋20% [Adoramus] multiplier for each refining level gained after reaching refining ＋5 (up to 200%)"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41529.png",
-        "name": "Mace [2]",
-        "slot": "Mace",
-        "status": "Atk + 72"
-    },
-    {
-        "imgsrc": null,
-        "name": "Mad Hat",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45132.png",
+        "name": "Laurel Wreath",
         "slot": "Head",
-        "status": "Atk ＋20, Max HP ＋150"
+        "status": "M.Def ＋5, Luk ＋3, Curse Resistance ＋5%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45132.png",
+        "name": "Laurel Wreath [1]",
+        "slot": "Head",
+        "status": "M.Def ＋5, Luk ＋3, Curse Resistance ＋5%"
     },
     {
         "imgsrc": null,
-        "name": "Mad Hat [1]",
+        "name": "Lazy Corgi - Color 1",
         "slot": "Head",
-        "status": "Atk ＋20, Max HP ＋150"
+        "status": "All Attributes ＋1, Dmg to Demi-Human ＋5%"
     },
     {
         "imgsrc": null,
-        "name": "Mado helm·Berry",
+        "name": "Lazy Corgi - Color 2",
         "slot": "Head",
-        "status": "Max HP ＋200, Def ＋5, M.Def ＋5"
+        "status": "All Attributes ＋1, Dmg to Demi-Human ＋5%"
     },
     {
         "imgsrc": null,
-        "name": "Mado helm·Cheetah",
+        "name": "Lazy Corgi - Color 3",
         "slot": "Head",
-        "status": "Max HP ＋200, Def ＋5, M.Def ＋5"
+        "status": "All Attributes ＋1, Dmg to Demi-Human ＋5%"
     },
     {
         "imgsrc": null,
-        "name": "Mado helm·Deep blue",
+        "name": "Lazy Corgi - Color 4",
         "slot": "Head",
-        "status": "Max HP ＋200, Def ＋5, M.Def ＋5"
+        "status": "All Attributes ＋1, Dmg to Demi-Human ＋5%"
     },
     {
         "imgsrc": null,
-        "name": "Mado helm·Earth",
+        "name": "Lazy Corgi Headwear",
         "slot": "Head",
-        "status": "Max HP ＋200, Def ＋5, M.Def ＋5"
+        "status": "All Attributes ＋1, Dmg to Demi-Human ＋5%"
     },
     {
         "imgsrc": null,
-        "name": "Mado helm·Glacier",
+        "name": "Lazy Corgi Headwear",
         "slot": "Head",
-        "status": "Max HP ＋200, Def ＋5, M.Def ＋5"
+        "status": "All Attributes ＋1, Dmg to Demi-Human ＋5%"
     },
     {
         "imgsrc": null,
-        "name": "Mado helm·Guards",
+        "name": "Lazy Corgi·Sharp Black",
         "slot": "Head",
-        "status": "Max HP ＋200, Def ＋5, M.Def ＋5"
+        "status": "All Attributes ＋1, Dmg to Demi-Human ＋5%"
     },
     {
         "imgsrc": null,
-        "name": "Mado helm·Hades",
+        "name": "Lazy Corgi·Starfish Yellow",
         "slot": "Head",
-        "status": "Max HP ＋200, Def ＋5, M.Def ＋5"
+        "status": "All Attributes ＋1, Dmg to Demi-Human ＋5%"
     },
     {
         "imgsrc": null,
-        "name": "Mado helm·Holy light",
+        "name": "Lazy Corgi·Stone Green",
         "slot": "Head",
-        "status": "Max HP ＋200, Def ＋5, M.Def ＋5"
+        "status": "All Attributes ＋1, Dmg to Demi-Human ＋5%"
     },
     {
         "imgsrc": null,
-        "name": "Mado helm·Jungle berry",
+        "name": "Lazy Corgi·Sugar Brown",
         "slot": "Head",
-        "status": "Max HP ＋200, Def ＋5, M.Def ＋5"
+        "status": "All Attributes ＋1, Dmg to Demi-Human ＋5%"
     },
     {
         "imgsrc": null,
-        "name": "Mado helm·King",
+        "name": "Lazy Poring",
         "slot": "Head",
-        "status": "Max HP ＋200, Def ＋5, M.Def ＋5"
+        "status": "Holy Dmg ＋3%, ＋1% healing Inc. for each refining level"
     },
     {
         "imgsrc": null,
-        "name": "Mado helm·Mint",
+        "name": "Lazy Poring [1]",
         "slot": "Head",
-        "status": "Max HP ＋200, Def ＋5, M.Def ＋5"
+        "status": "Holy Dmg ＋3%, ＋1% healing Inc. for each refining level"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42024.png",
+        "name": "Leather Armor",
+        "slot": "Armour",
+        "status": "Def + 28"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42024.png",
+        "name": "Leather Armor[1]",
+        "slot": "Armour",
+        "status": "Def + 28"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45032.png",
+        "name": "Leather Goggles",
+        "slot": "Head",
+        "status": "Def ＋15"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42023.png",
+        "name": "Leather Jacket",
+        "slot": "Armour",
+        "status": "Def + 13"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42023.png",
+        "name": "Leather Jacket [1]",
+        "slot": "Armour",
+        "status": "Def + 13"
     },
     {
         "imgsrc": null,
-        "name": "Mado helm·Night sakura",
-        "slot": "Head",
-        "status": "Max HP ＋200, Def ＋5, M.Def ＋5"
-    },
-    {
-        "imgsrc": null,
-        "name": "Mado helm·Poison",
-        "slot": "Head",
-        "status": "Max HP ＋200, Def ＋5, M.Def ＋5"
-    },
-    {
-        "imgsrc": null,
-        "name": "Mado helm·Pure",
-        "slot": "Head",
-        "status": "Max HP ＋200, Def ＋5, M.Def ＋5"
-    },
-    {
-        "imgsrc": null,
-        "name": "Mado helm·Scarlet flame",
-        "slot": "Head",
-        "status": "Max HP ＋200, Def ＋5, M.Def ＋5"
-    },
-    {
-        "imgsrc": null,
-        "name": "Mado helm·Sunshine",
-        "slot": "Head",
-        "status": "Max HP ＋200, Def ＋5, M.Def ＋5"
+        "name": "Leather of Tendrilion [2]",
+        "slot": "Robe",
+        "status": "Def + 90"
     }
 ]

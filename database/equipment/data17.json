@@ -1,122 +1,122 @@
 [
     {
-        "imgsrc": null,
-        "name": "Bradium Shield [2]",
-        "slot": "Shield",
-        "status": "Def + 33"
-    },
-    {
-        "imgsrc": null,
-        "name": "Bradium Shield[1]",
-        "slot": "Shield",
-        "status": "Def + 33"
-    },
-    {
-        "imgsrc": null,
-        "name": "Bread in Mouth",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_48550.png",
+        "name": "Bone in Mouth",
         "slot": "Mouth",
-        "status": "auto attack has a chance to proportionally convert the damage into HP"
+        "status": "Def ＋10"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45086.png",
-        "name": "Bride's Corolla",
-        "slot": "Head",
-        "status": "Avoid being auto-targeted by demi-human monsters in the wild, After it sits down, flower that symbolizes happiness will bloom around."
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45086.png",
-        "name": "Bride's Corolla [1]",
-        "slot": "Head",
-        "status": "Avoid being auto-targeted by demi-human monsters in the wild, After it sits down, flower that symbolizes happiness will bloom around."
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45138.png",
-        "name": "Bright Fury",
-        "slot": "Head",
-        "status": "Def ＋5, Str ＋1, Equipment ASPD ＋2%, Atk ＋2%"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45138.png",
-        "name": "Bright Fury [1]",
-        "slot": "Head",
-        "status": "Def ＋5, Str ＋1, Equipment ASPD ＋2%, Atk ＋2%"
-    },
-    {
-        "imgsrc": null,
-        "name": "Bright Moon God Backwear",
-        "slot": "Wing",
-        "status": "Max HP ＋5000, Def ＋15%, MDef ＋5%, Crit Res＋15, Dmg Reduc. ＋7.5%, Magic Reduc. ＋2.5%, Poison, Holy, Dark, Ghost, Neutral damage taken -15%, Fire, Water, Earth and Wind damage taken -5%, Gain passive skill [Lunar Mirror Shield]: 30% chance to become immune to ranged attacks for the next 2s after being hit by a ranged physical attack"
-    },
-    {
-        "imgsrc": null,
-        "name": "Bright Star",
-        "slot": "Staff",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_48550.png",
+        "name": "Bone in Mouth",
+        "slot": "Face",
         "status": ""
     },
     {
         "imgsrc": null,
-        "name": "Brilliant Star God Backwear",
+        "name": "Bone Plate",
+        "slot": "Armour",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Bone Plate [1]",
+        "slot": "Armour",
+        "status": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45044.png",
+        "name": "Bongun Hat",
+        "slot": "Head",
+        "status": "Def ＋10"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45044.png",
+        "name": "Bongun Hat [1]",
+        "slot": "Head",
+        "status": "Def ＋10"
+    },
+    {
+        "imgsrc": null,
+        "name": "Boots of Judgment",
+        "slot": "Shoes",
+        "status": "Move Spd ＋8%, Max HP ＋1000, ＋1% Holy Dmg for each refining level gained after reaching refining ＋10 (up to 5%), ＋50% [Adoramus] multiplier upon reaching refining ＋10; ＋100% [Adoramus] multiplier upon reaching refining ＋15"
+    },
+    {
+        "imgsrc": null,
+        "name": "Boots of Judgment [1]",
+        "slot": "Shoes",
+        "status": "Move Spd ＋8%, Max HP ＋1000, ＋1% Holy Dmg for each refining level gained after reaching refining ＋10 (up to 5%), ＋50% [Adoramus] multiplier upon reaching refining ＋10; ＋100% [Adoramus] multiplier upon reaching refining ＋15"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41202.png",
+        "name": "Bow",
+        "slot": "Bow",
+        "status": "Atk + 28"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41201.png",
+        "name": "Bow of Storms [2]",
+        "slot": "Bow",
+        "status": "Atk + 180"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41201.png",
+        "name": "Bow of Storms [3]",
+        "slot": "Bow",
+        "status": "Atk + 180"
+    },
+    {
+        "imgsrc": null,
+        "name": "Bow Thimble [1]",
+        "slot": "Bracelet",
+        "status": "Def + 112"
+    },
+    {
+        "imgsrc": null,
+        "name": "Bow Thimble [2]",
+        "slot": "Bracelet",
+        "status": "Def + 112"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41202.png",
+        "name": "Bow [2]",
+        "slot": "Bow",
+        "status": "Atk + 28"
+    },
+    {
+        "imgsrc": null,
+        "name": "Bowknot Glaze",
         "slot": "Wing",
-        "status": "Max HP ＋5000, Def ＋10%, MDef ＋10%, Crit Res＋15, Dmg Reduc. ＋5%, Magic Reduc. ＋5%, Poison, Holy, Dark, Ghost, Neutral, Fire, Water, Earth and Wind damage taken -10%, Gain passive skill [Decaying Star]: Reduces Atk and M.Atk of nearby enemies within a 3m radius by 15%."
+        "status": "M.Dmg Reduc. ＋ 8%, For every 1 percent of M.Dmg Reduc., gain extra 75 Max HP."
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45108.png",
+        "name": "Boy's Cap",
+        "slot": "Head",
+        "status": "Def ＋15"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45108.png",
+        "name": "Boy's Cap [1]",
+        "slot": "Head",
+        "status": "Def ＋15"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_61501.png",
+        "name": "Bracelet of Gray",
+        "slot": "Bracelet",
+        "status": "Def + 9"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_61501.png",
+        "name": "Bracelet of Gray [1]",
+        "slot": "Bracelet",
+        "status": "Def + 9"
     },
     {
         "imgsrc": null,
-        "name": "Brionac [2]",
-        "slot": "Spear",
-        "status": "Atk + 247"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40005.png",
-        "name": "Brionac [3]",
-        "slot": "Spear",
-        "status": "Atk + 247"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_44001.png",
-        "name": "Brisingamen [4]",
-        "slot": "Accessory",
-        "status": "Max HP ＋40000, Max SP ＋4000, M.Atk ＋2000, Def ＋500, M.Def ＋500, Hit ＋100, Flee ＋100, Cri ＋100, Crit.Dmg ＋300%, All Attributes ＋50, Dmg Reduc. ＋50%, Magic Reduc. ＋50%, Dmg Bonus ＋50%, Dmg Bonus ＋50%, Ignore Def ＋50%, Ignore M.Def ＋50%, Move Spd ＋50%, "
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_44022.png",
-        "name": "Brooch",
-        "slot": "Accessory",
-        "status": "Atk + 42"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_44022.png",
-        "name": "Brooch [1]",
-        "slot": "Accessory",
-        "status": "Atk + 42"
-    },
-    {
-        "imgsrc": null,
-        "name": "Brown Feather Gryphon",
-        "slot": "Mount",
-        "status": "Move Spd ＋25%"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42503.png",
-        "name": "Buckler",
+        "name": "Bradium Shield [2]",
         "slot": "Shield",
-        "status": "Def + 28"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42503.png",
-        "name": "Buckler [1]",
-        "slot": "Shield",
-        "status": "Def + 28"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45079.png",
-        "name": "Bunny Band",
-        "slot": "Head",
-        "status": "Def ＋5, Luk ＋2"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45079.png",
-        "name": "Bunny Band [1]",
-        "slot": "Head",
-        "status": "Def ＋5, Luk ＋2"
+        "status": "Def + 33"
     }
 ]

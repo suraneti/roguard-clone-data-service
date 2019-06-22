@@ -1,122 +1,122 @@
 [
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40905.png",
-        "name": "Dragon Howling [2]",
-        "slot": "Katar",
-        "status": "Atk + 90"
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45193.png",
+        "name": "Deathcat Helm [1]",
+        "slot": "Head",
+        "status": "M.Def ＋10, EXP penalty for death -20%"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40905.png",
-        "name": "Dragon Howling [3]",
-        "slot": "Katar",
-        "status": "Atk + 90"
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43536.png",
+        "name": "Deathcat Shoes",
+        "slot": "Shoes",
+        "status": "When equipped by wizards, Archers, Priests, Max HP ＋(Base Lv×5), When equipped by swordsmen, Merchants, Thieves, Max SP ＋ (Job Lv x2)"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40703.png",
-        "name": "Dragon Killer [2]",
-        "slot": "Knife",
-        "status": "Atk + 360"
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43536.png",
+        "name": "Deathcat Shoes [1]",
+        "slot": "Shoes",
+        "status": "When equipped by wizards, Archers, Priests, Max HP ＋(Base Lv×5), When equipped by swordsmen, Merchants, Thieves, Max SP ＋ (Job Lv x2)"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40703.png",
-        "name": "Dragon Killer [3]",
-        "slot": "Knife",
-        "status": "Atk + 360"
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45094.png",
+        "name": "Decorative Golden Bell",
+        "slot": "Head",
+        "status": "M.Def ＋15"
     },
     {
-        "imgsrc": null,
-        "name": "Dragon Manteau [1]",
-        "slot": "Robe",
-        "status": "Def + 90"
-    },
-    {
-        "imgsrc": null,
-        "name": "Dragon Manteau [2]",
-        "slot": "Robe",
-        "status": "Def + 90"
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45094.png",
+        "name": "Decorative Golden Bell [1]",
+        "slot": "Head",
+        "status": "M.Def ＋15"
     },
     {
         "imgsrc": null,
-        "name": "Dragon Pike [1]",
-        "slot": "Spear",
-        "status": "Atk + 202"
+        "name": "Deep Sea Love",
+        "slot": "Mouth",
+        "status": "Atk +20,  M.Atk +20"
     },
     {
         "imgsrc": null,
-        "name": "Dragon Pike [2]",
-        "slot": "Spear",
-        "status": "Atk + 202"
+        "name": "Defolty Doll Hat",
+        "slot": "Head",
+        "status": "No effect"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_48560.png",
-        "name": "Dragon Scale Stripe",
+        "imgsrc": null,
+        "name": "Defolty Doll Hat [1]",
+        "slot": "Head",
+        "status": "No effect"
+    },
+    {
+        "imgsrc": null,
+        "name": "Demon Eyepatch",
         "slot": "Face",
-        "status": "Dex ＋10, INT ＋5"
+        "status": "CT Variable -5%, M.Atk ＋3%"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_61502.png",
-        "name": "Dragon Teeth Bracelet [1]",
-        "slot": "Bracelet",
-        "status": "Def + 112"
-    },
-    {
-        "imgsrc": null,
-        "name": "Dragon Teeth Bracelet [2]",
-        "slot": "Bracelet",
-        "status": "Def + 112"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42018.png",
-        "name": "Dragon Vest",
-        "slot": "Armour",
-        "status": "Equipment ASPD ＋3%, Flee ＋25"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42018.png",
-        "name": "Dragon Vest [1]",
-        "slot": "Armour",
-        "status": "Equipment ASPD ＋3%, Flee ＋25"
-    },
-    {
-        "imgsrc": null,
-        "name": "Dragon Will",
-        "slot": "Spear",
-        "status": ""
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41201.png",
-        "name": "Dragon Wing [2]",
-        "slot": "Bow",
-        "status": "Atk + 180"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41201.png",
-        "name": "Dragon Wing [3]",
-        "slot": "Bow",
-        "status": "Atk + 180"
-    },
-    {
-        "imgsrc": null,
-        "name": "Dream Paper Plane",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45170.png",
+        "name": "Desert Prince",
         "slot": "Head",
-        "status": "Flee ＋10, Move Spd ＋3%"
+        "status": "Def ＋10"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45170.png",
+        "name": "Desert Prince [1]",
+        "slot": "Head",
+        "status": "Def ＋10"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40724.png",
+        "name": "Desert Twilight [1]",
+        "slot": "Knife",
+        "status": "Hit ＋30, Damage to L-size monsters ＋25%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40724.png",
+        "name": "Desert Twilight [2]",
+        "slot": "Knife",
+        "status": "Hit ＋30, Damage to L-size monsters ＋25%"
     },
     {
         "imgsrc": null,
-        "name": "Dream Paper Plane [1]",
-        "slot": "Head",
-        "status": "Flee ＋10, Move Spd ＋3%"
+        "name": "Destroyer",
+        "slot": "Knuckle",
+        "status": "Str ＋20, Dex ＋10, All Attributes ＋8, Max SP ＋500, Pen. ＋20%, Ignore Def ＋25%, Demi-Human Race Damage ＋30%, Max HP ＋18000"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40905.png",
-        "name": "Drill Katar [2]",
-        "slot": "Katar",
-        "status": "Atk + 90"
+        "imgsrc": null,
+        "name": "Destroyer 2[2]",
+        "slot": "Knuckle",
+        "status": "Str ＋20, Dex ＋10, All Attributes ＋14, Max SP ＋500, Pen. ＋25%, Ignore Def ＋35%, Demi-Human Race Damage ＋40%, Max HP ＋26500, Dmg Reduc. ＋5%, Magic Reduc. ＋5%"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40905.png",
-        "name": "Drill Katar [3]",
-        "slot": "Katar",
-        "status": "Atk + 90"
+        "imgsrc": null,
+        "name": "Destroyer 3[2]",
+        "slot": "Knuckle",
+        "status": "Str ＋20, Dex ＋10, All Attributes ＋20, Max SP ＋500, Pen. ＋30%, Ignore Def ＋45%, Demi-Human Race Damage ＋50%, Max HP ＋35000, Dmg Reduc. ＋10%, Magic Reduc. ＋10%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Destroyer Reforged",
+        "slot": "Knuckle",
+        "status": "Str ＋20, Dex ＋10, All Attributes ＋14, Max SP ＋500, Pen. ＋25%, Ignore Def ＋35%, Demi-Human Race Damage ＋40%, Max HP ＋26500, Dmg Reduc. ＋5%, Magic Reduc. ＋5%, Destroyer knows all rules in the world so the caster can be well protected. Destroyer release power to provide [Live to Obliterate] to the caster and Party Member in a 8-meter range. [Live to Obliterate]: immunizes all damage and control effect for 3 seconds; CD: 300 seconds."
+    },
+    {
+        "imgsrc": null,
+        "name": "Destroyer Sky Forged",
+        "slot": "Knuckle",
+        "status": "Str ＋20, Dex ＋10, All Attributes ＋20, Max SP ＋500, Pen. ＋30%, Ignore Def ＋45%, Demi-Human Race Damage ＋50%, Max HP ＋35000, Dmg Reduc. ＋10%, Magic Reduc. ＋10%, Destroyer knows all rules in the world so the caster can be well protected. Destroyer release power to provide [Live to Obliterate] to the caster and Party Member in a 8-meter range. [Live to Obliterate]: immunizes all damage and control effect for 5 seconds; CD: 180 seconds."
+    },
+    {
+        "imgsrc": null,
+        "name": "Destroyer [2]",
+        "slot": "Knuckle",
+        "status": "Str ＋20, Dex ＋10, All Attributes ＋8, Max SP ＋500, Pen. ＋20%, Ignore Def ＋25%, Demi-Human Race Damage ＋30%, Max HP ＋18000"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_60001.png",
+        "name": "Destruction Orb [1]",
+        "slot": "Orb",
+        "status": "Def + 112"
     }
 ]

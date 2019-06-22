@@ -1,0 +1,122 @@
+[
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45107.png",
+        "name": "Wizard Hat",
+        "slot": "Head",
+        "status": "Def ＋5, Max SP ＋100"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45107.png",
+        "name": "Wizard Hat [1]",
+        "slot": "Head",
+        "status": "Def ＋5, Max SP ＋100"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40620.png",
+        "name": "Wizardry Staff [1]",
+        "slot": "Staff",
+        "status": "Int ＋3, M.Atk ＋10%, For Refining ＋1, ignore M.Def ＋2%, [Wizardry Staff VIII] ＋ [Robe of Cast VIII] ＋ [Eye of Dullahan VIII] ＋ [Crystal Pumps IV]: －5% CT Variable, ＋3% M.Dmg, ＋3% Ignore MDef"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40620.png",
+        "name": "Wizardry Staff [2]",
+        "slot": "Staff",
+        "status": "Int ＋3, M.Atk ＋10%, For Refining ＋1, ignore M.Def ＋2%, [Wizardry Staff VIII] ＋ [Robe of Cast VIII] ＋ [Eye of Dullahan VIII] ＋ [Crystal Pumps IV]: －5% CT Variable, ＋3% M.Dmg, ＋3% Ignore MDef"
+    },
+    {
+        "imgsrc": null,
+        "name": "Wooden Helmet",
+        "slot": "Head",
+        "status": "Max SP ＋50, M.Atk ＋10"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42026.png",
+        "name": "Wooden Mail",
+        "slot": "Armour",
+        "status": "Str ＋2, VIT ＋1"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42026.png",
+        "name": "Wooden Mail [1]",
+        "slot": "Armour",
+        "status": "Str ＋2, VIT ＋1"
+    },
+    {
+        "imgsrc": null,
+        "name": "Year Beast Doll",
+        "slot": "Head",
+        "status": "Dmg to MVP, Mini monsters ＋6%, Dmg received from MVP, Mini monsters －6%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Yellow Cat in Hands",
+        "slot": "Knife",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Yellow Drooping Cat",
+        "slot": "Head",
+        "status": "Luk ＋3, Curse Resistance ＋50%, Slow Resistance ＋50%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Yellow Drooping Cat [1]",
+        "slot": "Head",
+        "status": "Luk ＋3, Curse Resistance ＋50%, Slow Resistance ＋50%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Yellow Ribbon",
+        "slot": "Head",
+        "status": "Dex ＋3, AGI ＋3"
+    },
+    {
+        "imgsrc": null,
+        "name": "Yellow Ribbon [1]",
+        "slot": "Head",
+        "status": "Dex ＋3, AGI ＋3"
+    },
+    {
+        "imgsrc": null,
+        "name": "Yoyo Orchestra",
+        "slot": "Tail",
+        "status": "Moving Spd＋5%, Skill Damage +3%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_48001.png",
+        "name": "Yoyo Tail",
+        "slot": "Tail",
+        "status": "No effect"
+    },
+    {
+        "imgsrc": null,
+        "name": "Zealous Rhino",
+        "slot": "Head",
+        "status": "M.Atk ＋10, Max HP ＋200"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41201.png",
+        "name": "Zebra Eel [2]",
+        "slot": "Bow",
+        "status": "Atk + 180"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41201.png",
+        "name": "Zebra Eel [3]",
+        "slot": "Bow",
+        "status": "Atk + 180"
+    },
+    {
+        "imgsrc": null,
+        "name": "Zephyrus [2]",
+        "slot": "Spear",
+        "status": "Atk + 247"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40005.png",
+        "name": "Zephyrus [3]",
+        "slot": "Spear",
+        "status": "Atk + 247"
+    }
+]

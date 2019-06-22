@@ -1,122 +1,122 @@
 [
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41504.png",
-        "name": "Cat Club [2]",
-        "slot": "Mace",
-        "status": "Atk + 180"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41504.png",
-        "name": "Cat Club [3]",
-        "slot": "Mace",
-        "status": "Atk + 180"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45146.png",
-        "name": "Cat Ear Beret",
+        "imgsrc": null,
+        "name": "Cancer Crown",
         "slot": "Head",
-        "status": "Atk ＋5%"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45146.png",
-        "name": "Cat Ear Beret [1]",
-        "slot": "Head",
-        "status": "Atk ＋5%"
+        "status": "Atk ＋1, Hit ＋1"
     },
     {
         "imgsrc": null,
-        "name": "Cat Marshmallow",
+        "name": "Cancer Crown [1]",
         "slot": "Head",
-        "status": "Def ＋20, M.Def ＋10"
+        "status": "No effect"
     },
     {
         "imgsrc": null,
-        "name": "Cat Marshmallow [1]",
+        "name": "Cancer Diadem",
         "slot": "Head",
         "status": "Dex ＋3, AGI ＋3"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/toy_506.png",
-        "name": "Cat Toy [1]",
-        "slot": "Knife",
-        "status": "Atk + 96"
+        "imgsrc": null,
+        "name": "Cancer Diadem [1]",
+        "slot": "Head",
+        "status": "Str ＋2, Dex ＋1"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/toy_506.png",
-        "name": "Cat Toy [2]",
-        "slot": "Knife",
-        "status": "Atk + 96"
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45064.png",
+        "name": "Candle",
+        "slot": "Head",
+        "status": "Def ＋10"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42041.png",
-        "name": "Cat's Blessing",
-        "slot": "Armour",
-        "status": "Max HP ＋1000, [Advanced Sack Teddy Shoes] ＋ [Cat's Blessing VI] ＋ [Blueeve Cape IV]: Strength ＋5, Equipment ASPD ​​ ＋5%, [Cat's Blessing VI] ＋ [Crystal Pumps]: Fire/Water/Earth/Wind/Element atk ＋7%"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42041.png",
-        "name": "Cat's Blessing [1]",
-        "slot": "Armour",
-        "status": "Max HP ＋1000, [Advanced Sack Teddy Shoes] ＋ [Cat's Blessing VI] ＋ [Blueeve Cape IV]: Strength ＋5, Equipment ASPD ​​ ＋5%, [Cat's Blessing VI] ＋ [Crystal Pumps]: Fire/Water/Earth/Wind/Element atk ＋7%"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41212.png",
-        "name": "Catapult",
-        "slot": "Bow",
-        "status": "Atk + 158"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41212.png",
-        "name": "Catapult [2]",
-        "slot": "Bow",
-        "status": "Atk + 158"
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45064.png",
+        "name": "Candle [1]",
+        "slot": "Head",
+        "status": "Def ＋10"
     },
     {
         "imgsrc": null,
-        "name": "Celestial Axe [1]",
-        "slot": "Axe",
-        "status": "Atk + 180"
+        "name": "Candy Bag",
+        "slot": "Head",
+        "status": "Max SP ＋50"
     },
     {
         "imgsrc": null,
-        "name": "Celestial Axe [2]",
-        "slot": "Axe",
-        "status": "Atk + 180"
+        "name": "Candy Bag [1]",
+        "slot": "Head",
+        "status": "Max SP ＋50"
     },
     {
         "imgsrc": null,
-        "name": "Celestial Dark Flame",
-        "slot": "Face",
-        "status": "Def ＋15"
+        "name": "Canon Champagne",
+        "slot": "Wing",
+        "status": "Luk ＋5, Auto Attack brings 1 stack of Lucky Blessing: Luk ＋2, Crit.Dmg ＋2%, for 10 sec, Maximum 5 stacks"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41533.png",
-        "name": "Chain",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45179.png",
+        "name": "Cap",
+        "slot": "Head",
+        "status": "Def ＋10"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45173.png",
+        "name": "Cap Of Blindness",
+        "slot": "Head",
+        "status": "Avoid darkness effect"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45173.png",
+        "name": "Cap Of Blindness [1]",
+        "slot": "Head",
+        "status": "Avoid darkness effect, auto attack has a chance to decrease the target's Hit by 40 points"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45179.png",
+        "name": "Cap [1]",
+        "slot": "Head",
+        "status": "Def ＋10"
+    },
+    {
+        "imgsrc": null,
+        "name": "Capricorn Crown",
+        "slot": "Head",
+        "status": "Attack Spd ＋1%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Capricorn Crown [1]",
+        "slot": "Head",
+        "status": "No effect"
+    },
+    {
+        "imgsrc": null,
+        "name": "Capricorn Diadem",
+        "slot": "Head",
+        "status": "Dex ＋3, AGI ＋3"
+    },
+    {
+        "imgsrc": null,
+        "name": "Capricorn Diadem [1]",
+        "slot": "Head",
+        "status": "Dex ＋2, AGi ＋1"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40016.png",
+        "name": "Cardo [1]",
+        "slot": "Spear",
+        "status": "VIT ＋3, For Refining ＋1, Def ＋1%, M.Def ＋0.5%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40016.png",
+        "name": "Cardo [2]",
+        "slot": "Spear",
+        "status": "VIT ＋3, For Refining ＋1, Def ＋1%, M.Def ＋0.5%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41504.png",
+        "name": "Carga Mace [2]",
         "slot": "Mace",
-        "status": "Atk + 90"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42005.png",
-        "name": "Chain Mail",
-        "slot": "Armour",
-        "status": "VIT ＋2, HP Regen ＋3%"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42005.png",
-        "name": "Chain Mail [1]",
-        "slot": "Armour",
-        "status": "VIT ＋2, HP Regen ＋3%"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41533.png",
-        "name": "Chain [2]",
-        "slot": "Mace",
-        "status": "Atk + 90"
-    },
-    {
-        "imgsrc": null,
-        "name": "Chameleon Armor",
-        "slot": "Armour",
-        "status": ""
+        "status": "Atk + 180"
     }
 ]

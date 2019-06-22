@@ -1,122 +1,122 @@
 [
     {
         "imgsrc": null,
-        "name": "Ultraman Orb",
-        "slot": "Armour",
-        "status": "Become a Scenery! Wear [Ultraman Tiga] to become a Scenery yourself. Adventurers who take photo of it will unlock the event Scenery \"The Giant of Light\"!"
+        "name": "Staunch Mana Manteau [1]",
+        "slot": "Robe",
+        "status": "Neutral Dmg Taken -15%, Max HP ＋100, [Staunch Mana Manteau] ＋ [High Fashion Sandals IV]: Magic Reduc. ＋5%"
     },
     {
-        "imgsrc": null,
-        "name": "Ultraman series clothes",
-        "slot": "Armour",
-        "status": ""
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_44003.png",
+        "name": "Staunch Ring",
+        "slot": "Accessory",
+        "status": "Max HP ＋400, Max SP ＋150, Healing Received ＋5%, For [Asura Strike], the damage multiplier of [Skill level x4 ＋ Remaining Sp/100] increases by 1.5, [Sura Rampage] ＋ [Staunch Clothes X] ＋ [Staunch Ring IV]: ＋5% [Hell Gate] damage"
     },
     {
-        "imgsrc": null,
-        "name": "Ultraman Tiga",
-        "slot": "Armour",
-        "status": "Become a Scenery! Wear [Ultraman Tiga] to become a Scenery yourself. Adventurers who take photo of it will unlock the event Scenery \"The Giant of Light\"!"
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_44003.png",
+        "name": "Staunch Ring [1]",
+        "slot": "Accessory",
+        "status": "Max HP ＋400, Max SP ＋150, Healing Received ＋5%, For [Asura Strike], the damage multiplier of [Skill level x4 ＋ Remaining Sp/100] increases by 1.5, [Sura Rampage] ＋ [Staunch Clothes X] ＋ [Staunch Ring IV]: ＋5% [Hell Gate] damage"
     },
     {
-        "imgsrc": null,
-        "name": "Ultraman Tiga",
-        "slot": "Armour",
-        "status": "Become a Scenery! Wear [Ultraman Tiga] to become a Scenery yourself. Adventurers who take photo of it will unlock the event Scenery \"The Giant of Light\"!"
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43535.png",
+        "name": "Staunch Shoes",
+        "slot": "Shoes",
+        "status": "Move Spd ＋2%, Max HP ＋ (Base Lv×10)"
     },
     {
-        "imgsrc": null,
-        "name": "Ultraman Tiga Backpack",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43535.png",
+        "name": "Staunch Shoes [1]",
+        "slot": "Shoes",
+        "status": "Move Spd ＋2%, Max HP ＋ (Base Lv×10)"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_47022.png",
+        "name": "Steam Goblin Bag",
         "slot": "Wing",
-        "status": "Ignore Def ＋5%, When Refining reaches ＋6, ignore Def ＋5%"
+        "status": "Bag Slot ＋10, All Attributes ＋1, Dmg to Demi-Human ＋2%"
     },
     {
-        "imgsrc": null,
-        "name": "Ultraman Tiga series clothes",
-        "slot": "Armour",
-        "status": ""
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41829.png",
+        "name": "Steel Axe",
+        "slot": "Axe",
+        "status": "Atk + 150"
     },
     {
-        "imgsrc": null,
-        "name": "Ultraman Zero",
-        "slot": "Armour",
-        "status": "Become a Scenery! Wear [Ultraman Tiga] to become a Scenery yourself. Adventurers who take photo of it will unlock the event Scenery \"The Giant of Light\"!"
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41829.png",
+        "name": "Steel Axe [2]",
+        "slot": "Axe",
+        "status": "Atk + 150"
     },
     {
-        "imgsrc": null,
-        "name": "Ultraman Zero",
-        "slot": "Armour",
-        "status": "Become a Scenery! Wear [Ultraman Tiga] to become a Scenery yourself. Adventurers who take photo of it will unlock the event Scenery \"The Giant of Light\"!"
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41832.png",
+        "name": "Steel Battle Axe",
+        "slot": "Axe",
+        "status": "Atk + 180"
     },
     {
-        "imgsrc": null,
-        "name": "Umbrella Hat",
-        "slot": "Head",
-        "status": "Water Dmg ＋2%, Dex ＋1"
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41832.png",
+        "name": "Steel Battle Axe [2]",
+        "slot": "Axe",
+        "status": "Atk + 180"
     },
     {
-        "imgsrc": null,
-        "name": "Umbrella Hat [1]",
-        "slot": "Head",
-        "status": "Water Dmg ＋2%, Dex ＋1"
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41534.png",
+        "name": "Steel Staff",
+        "slot": "Mace",
+        "status": "Atk + 108"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42022.png",
-        "name": "Undershirt",
-        "slot": "Robe",
-        "status": "Flee ＋10, Luk ＋4, [Panties VI] ＋ [Shirt IV]: Agility ＋5. Every Fleewill provide 5 max HP, [Flamberge X] ＋ [Advanced Sack Teddy Shoes IV] ＋ [Undershirt VIII] ＋ [Beast Heart VIII]: ＋3% Atk, ＋3% Crit.Dmg, ＋5% Atk SPD, ＋10% Max HP"
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41534.png",
+        "name": "Steel Staff [2]",
+        "slot": "Mace",
+        "status": "Atk + 108"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42022.png",
-        "name": "Undershirt [1]",
-        "slot": "Robe",
-        "status": "Flee ＋10, Luk ＋4, [Panties VI] ＋ [Shirt IV]: Agility ＋5. Every Fleewill provide 5 max HP, [Flamberge X] ＋ [Advanced Sack Teddy Shoes IV] ＋ [Undershirt VIII] ＋ [Beast Heart VIII]: ＋3% Atk, ＋3% Crit.Dmg, ＋5% Atk SPD, ＋10% Max HP"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40905.png",
-        "name": "Unholy Touch [2]",
-        "slot": "Katar",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40304.png",
+        "name": "Steel Sword",
+        "slot": "Sword",
         "status": "Atk + 90"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40905.png",
-        "name": "Unholy Touch [3]",
-        "slot": "Katar",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40304.png",
+        "name": "Steel Sword [2]",
+        "slot": "Sword",
         "status": "Atk + 90"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45088.png",
-        "name": "Unicorn Horn",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45052.png",
+        "name": "Stellar",
         "slot": "Head",
-        "status": "Def ＋10, Max HP ＋200"
+        "status": "Def ＋10"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45088.png",
-        "name": "Unicorn Horn [1]",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45052.png",
+        "name": "Stellar Hairpin",
         "slot": "Head",
-        "status": "Def ＋10, Max HP ＋200"
-    },
-    {
-        "imgsrc": null,
-        "name": "Uniform Boy",
-        "slot": "Armour",
         "status": ""
     },
     {
         "imgsrc": null,
-        "name": "Uniform Girl",
-        "slot": "Armour",
-        "status": ""
+        "name": "Stellar Headwear",
+        "slot": "Head",
+        "status": "M.Atk ＋3%, Dmg to Demi-Human ＋3%"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_43503.png",
-        "name": "Ur's Greaves [1]",
-        "slot": "Shoes",
-        "status": "Def + 90"
+        "imgsrc": null,
+        "name": "Stellar Headwear",
+        "slot": "Head",
+        "status": "Max Hp ＋5%, Silent Res ＋15%"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_43503.png",
-        "name": "Ur's Greaves [2]",
-        "slot": "Shoes",
-        "status": "Def + 90"
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45052.png",
+        "name": "Stellar [1]",
+        "slot": "Head",
+        "status": "Def ＋10"
+    },
+    {
+        "imgsrc": null,
+        "name": "Stellar·Blue",
+        "slot": "Head",
+        "status": "M.Atk ＋3%, Dmg to Demi-Human ＋3%"
     }
 ]

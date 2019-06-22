@@ -1,122 +1,122 @@
 [
     {
         "imgsrc": null,
-        "name": "Valg Green Petite",
-        "slot": "Mount",
-        "status": "Move Spd ＋25%"
-    },
-    {
-        "imgsrc": null,
-        "name": "Vali's Manteau [2]",
-        "slot": "Robe",
-        "status": "Def + 90"
-    },
-    {
-        "imgsrc": null,
-        "name": "Vali's Manteau[1]",
-        "slot": "Robe",
-        "status": "Def + 90"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45090.png",
-        "name": "Valkyrie Helm",
+        "name": "Stellar·Dark",
         "slot": "Head",
-        "status": "M.Def ＋20, Max HP ＋600"
+        "status": "M.Atk ＋3%, Dmg to Demi-Human ＋3%"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45090.png",
-        "name": "Valkyrie Helm (For Monster)",
+        "imgsrc": null,
+        "name": "Stellar·Flame",
         "slot": "Head",
-        "status": ""
+        "status": "M.Atk ＋3%, Dmg to Demi-Human ＋3%"
     },
     {
         "imgsrc": null,
-        "name": "Valkyrie Helm (MVP)",
+        "name": "Stellar·Green",
         "slot": "Head",
-        "status": ""
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45090.png",
-        "name": "Valkyrie Helm [1]",
-        "slot": "Head",
-        "status": "M.Def ＋20, Max HP ＋600"
+        "status": "M.Atk ＋3%, Dmg to Demi-Human ＋3%"
     },
     {
         "imgsrc": null,
-        "name": "Valkyrie Manteau [1]",
-        "slot": "Robe",
-        "status": "Def + 90"
-    },
-    {
-        "imgsrc": null,
-        "name": "Valkyrie Manteau [2]",
-        "slot": "Robe",
-        "status": "Def + 90"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_43503.png",
-        "name": "Valkyrie Shoes [1]",
-        "slot": "Shoes",
-        "status": "Def + 90"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_43503.png",
-        "name": "Valkyrie Shoes [2]",
-        "slot": "Shoes",
-        "status": "Def + 90"
-    },
-    {
-        "imgsrc": null,
-        "name": "Valkyrie Weapon 1 [Sword]",
-        "slot": "Sword",
-        "status": ""
-    },
-    {
-        "imgsrc": null,
-        "name": "Valkyrie Weapon 2 [Armor]",
-        "slot": "Sword",
-        "status": ""
-    },
-    {
-        "imgsrc": null,
-        "name": "Valkyrie Wings",
+        "name": "Steward Briefcase",
         "slot": "Wing",
+        "status": "Atk ＋3%, Ignore Def ＋3%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Steward Costume",
+        "slot": "Armour",
         "status": ""
     },
     {
         "imgsrc": null,
-        "name": "Valkyrja's Shield [2]",
+        "name": "Steward Top Hat",
+        "slot": "Head",
+        "status": "All Attributes ＋1, Def ＋2%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41502.png",
+        "name": "Stick [2]",
+        "slot": "Mace",
+        "status": "Atk + 67"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41502.png",
+        "name": "Stick [3]",
+        "slot": "Mace",
+        "status": "Atk + 67"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40707.png",
+        "name": "Stiletto",
+        "slot": "Knife",
+        "status": "Atk + 108"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40707.png",
+        "name": "Stiletto [2]",
+        "slot": "Knife",
+        "status": "Atk + 108"
+    },
+    {
+        "imgsrc": null,
+        "name": "Sting Composer [1]",
+        "slot": "Head",
+        "status": "Int＋5, Dex ＋5, When refining ＋6, Int ＋5, Dex ＋5"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45065.png",
+        "name": "Sting hat",
+        "slot": "Head",
+        "status": "Def ＋10, Str ＋2, VIT ＋1, M.Def ＋3, Earth damage reduction ＋5%, Damage to fire monsters ＋5%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45065.png",
+        "name": "Sting hat [1]",
+        "slot": "Head",
+        "status": "Def ＋10, Str ＋2, VIT ＋1, M.Def ＋3, Earth damage reduction ＋5%, Damage to fire monsters ＋5%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42507.png",
+        "name": "Stone Buckler",
         "slot": "Shield",
-        "status": "Def + 112"
+        "status": "Damage from L-size monsters -25%, Green Steel Pike IV ＋ Greaves  VII ＋ Stone Buckler IV: Ignores 5% Def, ＋5% Atk"
     },
     {
-        "imgsrc": null,
-        "name": "Valkyrja's Shield[1]",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42507.png",
+        "name": "Stone Buckler [1]",
         "slot": "Shield",
-        "status": "Def + 112"
+        "status": "Damage from L-size monsters -25%, Green Steel Pike IV ＋ Greaves  VII ＋ Stone Buckler IV: Ignores 5% Def, ＋5% Atk"
     },
     {
-        "imgsrc": null,
-        "name": "Vane Hairpin",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45182.png",
+        "name": "Stone Heart",
         "slot": "Head",
-        "status": "Wind Dmg ＋2%"
+        "status": "Def ＋10"
     },
     {
-        "imgsrc": null,
-        "name": "Vane Hairpin",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45182.png",
+        "name": "Stone Heart [1]",
         "slot": "Head",
-        "status": "MDmg Reduc. ＋3%, MDef ＋5%, MAX HP＋2%"
+        "status": "Def ＋10"
     },
     {
-        "imgsrc": null,
-        "name": "Vane Hairpin [1]",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45037.png",
+        "name": "Stop Post",
         "slot": "Head",
-        "status": "Wind Dmg ＋2%"
+        "status": "Def ＋10"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_43503.png",
-        "name": "Variant Shoes [1]",
-        "slot": "Shoes",
-        "status": "Def + 45"
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45037.png",
+        "name": "Stop Post [1]",
+        "slot": "Head",
+        "status": "Def ＋10"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_60002.png",
+        "name": "Storm Orb [1]",
+        "slot": "Orb",
+        "status": "Def + 30"
     }
 ]

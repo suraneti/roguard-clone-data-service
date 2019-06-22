@@ -1,122 +1,122 @@
 [
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42502.png",
-        "name": "Guard",
-        "slot": "Shield",
-        "status": "Def + 19"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42502.png",
-        "name": "Guard [1]",
-        "slot": "Shield",
-        "status": "Def + 19"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42532.png",
-        "name": "Guardian Shield",
-        "slot": "Shield",
-        "status": "Def + 94"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42532.png",
-        "name": "Guardian Shield [1]",
-        "slot": "Shield",
-        "status": "Def + 94"
-    },
-    {
-        "imgsrc": null,
-        "name": "Guardian Spear",
-        "slot": "Spear",
-        "status": ""
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40912.png",
-        "name": "Guillotine Katar [1]",
-        "slot": "Katar",
-        "status": "Doubles Critical, Max HP ＋800, When HP is lower than 25%, caster receives a Bloodthirsty effect: speed up following attacks, damage, damage causes additional HP loss; the effect lasts 10 seconds (CD lasts 120 seconds)"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40912.png",
-        "name": "Guillotine Katar [2]",
-        "slot": "Katar",
-        "status": "Doubles Critical, Max HP ＋800, When HP is lower than 25%, caster receives a Bloodthirsty effect: speed up following attacks, damage, damage causes additional HP loss; the effect lasts 10 seconds (CD lasts 120 seconds)"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41811.png",
-        "name": "Guillotine [1]",
-        "slot": "Axe",
-        "status": "auto attack has a 10% chance to stun the target, For Refining ＋1, Dmg to stunning targets ＋5%, Equipment ASPD ＋10%"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41811.png",
-        "name": "Guillotine [2]",
-        "slot": "Axe",
-        "status": "auto attack has a 10% chance to stun the target, For Refining ＋1, Dmg to stunning targets ＋5%, Equipment ASPD ＋10%"
-    },
-    {
-        "imgsrc": null,
-        "name": "Gungnir [2]",
-        "slot": "Spear",
-        "status": "Atk + 247"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40005.png",
-        "name": "Gungnir [3]",
-        "slot": "Spear",
-        "status": "Atk + 247"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40306.png",
-        "name": "Haedonggum [1]",
-        "slot": "Sword",
-        "status": "Str ＋2, Def ＋20"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40306.png",
-        "name": "Haedonggum [2]",
-        "slot": "Sword",
-        "status": "Str ＋2, Def ＋20"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45073.png",
-        "name": "Hair Band",
-        "slot": "Head",
-        "status": "Def ＋5"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45073.png",
-        "name": "Hair Band [1]",
-        "slot": "Head",
-        "status": "Def ＋5"
-    },
-    {
-        "imgsrc": null,
-        "name": "Hairband Of Reginleif",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_48517.png",
+        "name": "Goblin Leader Mask",
         "slot": "Face",
-        "status": "No effect"
+        "status": "Def -30, Damage reduction of Human race ＋30%"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45074.png",
-        "name": "Hairpin",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_48509.png",
+        "name": "Goblin Mask",
+        "slot": "Face",
+        "status": "Def ＋5, Damage reduction of Human race ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Goblin Pilot",
         "slot": "Head",
-        "status": "No effect"
+        "status": "Dex ＋1, Luk ＋1, Max SP ＋100"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45074.png",
-        "name": "Hairpin [1]",
+        "imgsrc": null,
+        "name": "God Hand [1]",
         "slot": "Head",
-        "status": "No effect"
+        "status": "Max HP ＋400, Dmg to Demi-Human race ＋5%"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40003.png",
-        "name": "Halberd [1]",
-        "slot": "Spear",
-        "status": "Str ＋6, Hit ＋25, SP cost of [Pierce] -50%"
+        "imgsrc": null,
+        "name": "Gods' Gaze",
+        "slot": "Staff",
+        "status": "INT ＋20, Dex ＋10, All Attributes ＋8, AOE Dmg ＋15%, CT Variable -5%, M.Atk ＋30%, Demi-Human Race Damage ＋30%, Max HP ＋13500"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40003.png",
-        "name": "Halberd [2]",
-        "slot": "Spear",
-        "status": "Str ＋6, Hit ＋25, SP cost of [Pierce] -50%"
+        "imgsrc": null,
+        "name": "Gods' Gaze 2 [2]",
+        "slot": "Staff",
+        "status": "INT ＋20, Dex ＋10, All Attributes ＋14, AOE Dmg ＋15%, CT Variable -5%, M.Atk ＋40%, Demi-Human Race Damage ＋40%, Max HP ＋20000, Dmg Reduc. ＋5%, Magic Reduc. ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Gods' Gaze 3 [2]",
+        "slot": "Staff",
+        "status": "INT ＋20, Dex ＋10, All Attributes ＋20, AOE Dmg ＋15%, CT Variable -5%, M.Atk ＋50%, Demi-Human Race Damage ＋50%, Max HP ＋26500, Dmg Reduc. ＋10%, Magic Reduc. ＋10%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Gods' Gaze Reforged",
+        "slot": "Staff",
+        "status": "INT ＋20, Dex ＋10, All Attributes ＋14, AOE Dmg ＋15%, CT Variable -5%, M.Atk ＋40%, Demi-Human Race Damage ＋40%, Max HP ＋20000, Dmg Reduc. ＋5%, Magic Reduc. ＋5%, The gods grant wisdom and love to all living things, Enabling all allies in a 8- meter range receive an effect of [Gods' Bless]. [Gods' Bless]: all Casts cannot be interrupted, All skills' variable Casts shorten by 100%, All skills' fixed Casts shorten by 50% for 5 seconds, CD: 120 seconds"
+    },
+    {
+        "imgsrc": null,
+        "name": "Gods' Gaze Sky Forged",
+        "slot": "Staff",
+        "status": "INT ＋20, Dex ＋10, All Attributes ＋20, AOE Dmg ＋15%, CT Variable -5%, M.Atk ＋50%, Demi-Human Race Damage ＋50%, Max HP ＋26500, Dmg Reduc. ＋10%, Magic Reduc. ＋10%, The gods grant wisdom and love to all living things, Enabling all allies in a 8- meter range receive an effect of [Gods' Bless]. [Gods' Bless]: all Casts cannot be interrupted, All skills' variable Casts shorten by 100%, All skills' fixed Casts shorten by 100% for 8 seconds, CD: 90 seconds"
+    },
+    {
+        "imgsrc": null,
+        "name": "Gods' Gaze [2]",
+        "slot": "Staff",
+        "status": "INT ＋20, Dex ＋10, All Attributes ＋8, AOE Dmg ＋15%, CT Variable -5%, M.Atk ＋30%, Demi-Human Race Damage ＋30%, Max HP ＋13500"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42020.png",
+        "name": "Goibne's Armor",
+        "slot": "Armour",
+        "status": "VIT ＋5, Max HP ＋10%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42020.png",
+        "name": "Goibne's Armor [1]",
+        "slot": "Armour",
+        "status": "VIT ＋5, Max HP ＋10%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43511.png",
+        "name": "Goibne's Greaves",
+        "slot": "Shoes",
+        "status": "M.Def ＋35, SP Regen ＋5"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43511.png",
+        "name": "Goibne's Greaves [1]",
+        "slot": "Shoes",
+        "status": "M.Def ＋35, SP Regen ＋5"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45122.png",
+        "name": "Goibne's Helm",
+        "slot": "Head",
+        "status": "Def ＋10, VIT ＋3, M.Def ＋5"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45122.png",
+        "name": "Goibne's Helm [1]",
+        "slot": "Head",
+        "status": "Def ＋10, VIT ＋3, M.Def ＋5"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43014.png",
+        "name": "Goibne's Spaulders",
+        "slot": "Robe",
+        "status": "VIT ＋2, Reduction of Ranged Dmg ＋10%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43014.png",
+        "name": "Goibne's Spaulders [1]",
+        "slot": "Robe",
+        "status": "VIT ＋2, Reduction of Ranged Dmg ＋10%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Gold Angel",
+        "slot": "Head",
+        "status": "VIT ＋1, Str ＋1, Max HP ＋50"
+    },
+    {
+        "imgsrc": null,
+        "name": "Gold Christmas Bell",
+        "slot": "Wing",
+        "status": "Holy Dmg ＋8%, Dark, Ghost, Undead, Poison Dmg Taken -10%"
     }
 ]

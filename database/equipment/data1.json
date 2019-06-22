@@ -1,6 +1,12 @@
 [
     {
         "imgsrc": null,
+        "name": "2019 Bandana",
+        "slot": "Head",
+        "status": "Max HP +200, LUK +2"
+    },
+    {
+        "imgsrc": null,
         "name": "3 Brothers: Crab",
         "slot": "Head",
         "status": "Max HP ＋100, Water Dmg ＋3%"
@@ -24,37 +30,43 @@
         "status": "Max HP ＋100, Fire Dmg Taken -5%"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_47016.png",
+        "imgsrc": null,
+        "name": "A.T. Field Toy Back Headwear",
+        "slot": "Wing",
+        "status": "Generate the Absolute Terror Field: Def +10%, fire damage taken -10%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_47016.png",
         "name": "Abysmal Knight Shield",
         "slot": "Wing",
         "status": "When suffering auto attacks or any skill attacks, You have a chance to trigger Spikeweed attack, which deals multiple physical damage with attributes to targets"
     },
     {
         "imgsrc": null,
-        "name": "Academy Headwares",
+        "name": "Academy headwears",
         "slot": "Head",
         "status": "All Attributes ＋1, Max HP ＋350"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41803.png",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41803.png",
         "name": "Advanced Eden Team Axe [1]",
         "slot": "Axe",
         "status": "Atk + 125"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41204.png",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41204.png",
         "name": "Advanced Eden Team Bow [1]",
         "slot": "Bow",
         "status": "Atk + 81"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_61002.png",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_61002.png",
         "name": "Advanced Eden Team Bracer",
         "slot": "Bracer",
         "status": "Def + 20"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42001.png",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42001.png",
         "name": "Advanced Eden Team Coat",
         "slot": "Armour",
         "status": "Def + 20"
@@ -66,57 +78,45 @@
         "status": "Atk + 146"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40706.png",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40706.png",
         "name": "Advanced Eden Team Knife [1]",
         "slot": "Knife",
         "status": "Atk + 108"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_43001.png",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43001.png",
         "name": "Advanced Eden Team Manteau",
         "slot": "Robe",
         "status": "Def + 15"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_44002.png",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_44002.png",
         "name": "Advanced Eden Team Necklace",
         "slot": "Accessory",
         "status": "Atk + 20"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_44026.png",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_44026.png",
         "name": "Advanced Eden Team Ring",
         "slot": "Accessory",
         "status": "M.Atk + 20"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_43501.png",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43501.png",
         "name": "Advanced Eden Team Shoes",
         "slot": "Shoes",
         "status": "Def + 15"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40605.png",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40605.png",
         "name": "Advanced Eden Team Staff [1]",
         "slot": "Staff",
         "status": "M.Atk + 60"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40302.png",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40302.png",
         "name": "Advanced Eden Team Sword [1]",
         "slot": "Sword",
         "status": "Atk + 108"
-    },
-    {
-        "imgsrc": null,
-        "name": "Advanced Sack Teddy Shoes",
-        "slot": "Shoes",
-        "status": "Move Spd ＋9%, Agi ＋6, Max HP ＋500, [Advanced Sack Teddy Shoes] ＋ [Cat's Blessing VI] ＋ [Blueeve Cape IV]: Strength ＋5, Equipment ASPD ​​ ＋5%, [Flamberge X] ＋ [Advanced Sack Teddy Shoes IV] ＋ [Undershirt VIII] ＋ [Beast Heart VIII]: ＋3% Atk, ＋3% Crit.Dmg, ＋5% Atk SPD, ＋10% Max HP"
-    },
-    {
-        "imgsrc": null,
-        "name": "Advanced Sack Teddy Shoes [1]",
-        "slot": "Shoes",
-        "status": "Move Spd ＋9%, Agi ＋6, Max HP ＋500, [Advanced Sack Teddy Shoes] ＋ [Cat's Blessing VI] ＋ [Blueeve Cape IV]: Strength ＋5, Equipment ASPD ​​ ＋5%, [Flamberge X] ＋ [Advanced Sack Teddy Shoes IV] ＋ [Undershirt VIII] ＋ [Beast Heart VIII]: ＋3% Atk, ＋3% Crit.Dmg, ＋5% Atk SPD, ＋10% Max HP"
     }
 ]

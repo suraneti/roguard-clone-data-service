@@ -1,122 +1,122 @@
 [
     {
-        "imgsrc": null,
-        "name": "Tropical Coconut",
-        "slot": "Head",
-        "status": ""
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40301.png",
-        "name": "Tsurugi",
-        "slot": "Sword",
-        "status": "Atk + 135"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41504.png",
-        "name": "Tuna [2]",
-        "slot": "Mace",
-        "status": "Atk + 180"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41504.png",
-        "name": "Tuna [3]",
-        "slot": "Mace",
-        "status": "Atk + 180"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45092.png",
-        "name": "Turban",
-        "slot": "Head",
-        "status": "Def ＋5"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45092.png",
-        "name": "Turban [1]",
-        "slot": "Head",
-        "status": "Def ＋5"
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_60505.png",
+        "name": "Statue of Judgement [1]",
+        "slot": "Eikon",
+        "status": "Def ＋5, SP Regen ＋5%"
     },
     {
         "imgsrc": null,
-        "name": "Twilight Captain Cap",
-        "slot": "Head",
-        "status": "Max SP ＋100, Atk ＋10, M.Atk ＋10"
+        "name": "Statue of Moirai [1]",
+        "slot": "Eikon",
+        "status": "Def + 112"
     },
     {
         "imgsrc": null,
-        "name": "Twin Katana",
-        "slot": "Wing",
-        "status": "Melee Atk ＋5%, Flee ＋20"
+        "name": "Statue of Moirai [2]",
+        "slot": "Eikon",
+        "status": "Def + 112"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41802.png",
-        "name": "Two-Handed Axe [1]",
-        "slot": "Axe",
-        "status": "Atk + 90"
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_60504.png",
+        "name": "Statue of Mother Mary [1]",
+        "slot": "Eikon",
+        "status": "Def ＋30, SP Regen ＋5%, SP Regen ＋5"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41802.png",
-        "name": "Two-Handed Axe [2]",
-        "slot": "Axe",
-        "status": "Atk + 90"
-    },
-    {
-        "imgsrc": null,
-        "name": "Tyrfing",
-        "slot": "Sword",
-        "status": "Str ＋10, Agi ＋10, Dex ＋10, All Attributes ＋8, Hit ＋50, Atk ＋16%, Dmg ＋12%, Demi-Human Race Damage ＋30%, Max HP ＋17000"
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_60504.png",
+        "name": "Statue of Mother Mary [2]",
+        "slot": "Eikon",
+        "status": "Def ＋30, SP Regen ＋5%, SP Regen ＋5"
     },
     {
         "imgsrc": null,
-        "name": "Tyrfing Reforged",
-        "slot": "Sword",
-        "status": "Str ＋10, Agi ＋10, Dex ＋10, All Attributes ＋14, Hit ＋50, Atk ＋20%, Dmg ＋15%, Demi-Human Race Damage ＋40%, Max HP ＋26000, Dmg Reduc. ＋5%, Magic Reduc. ＋5%, Tyr's power will cure all diseases and abnormal states in the effecting area. All allies within a 8-meter radius will gain [Tyre's Blessing]. [Tyre's Blessing]: immediately restores 25% of Max HP, removes all abnormal states ( states incurable by Panacea included), and immunize abnormal states; this effect lasts 5 seconds; CD: 180 seconds."
+        "name": "Statue of Nike [1]",
+        "slot": "Eikon",
+        "status": "Def + 112"
     },
     {
         "imgsrc": null,
-        "name": "Tyrfing Sky Forged",
-        "slot": "Sword",
-        "status": "Str ＋10, Agi ＋10, Dex ＋10, All Attributes ＋20, Hit ＋50, Atk ＋24%, Dmg ＋18%, Demi-Human Race Damage ＋50%, Max HP ＋35000, Dmg Reduc. ＋10%, Magic Reduc. ＋10%, Tyr's power will cure all diseases and abnormal states in the effecting area. All allies within a 8-meter radius will gain [Tyre's Blessing]. [Tyre's Blessing]: immediately restores 45% of Max HP, removes all abnormal states ( states uncurable by Panacea included), and immunize abnormal states; this effect lasts 5 seconds; CD: 120 seconds."
+        "name": "Statue of Nike [2]",
+        "slot": "Eikon",
+        "status": "Def + 112"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_60501.png",
+        "name": "Statue of Odin [1]",
+        "slot": "Eikon",
+        "status": "Def + 112"
     },
     {
         "imgsrc": null,
-        "name": "Tyrfing [2]",
-        "slot": "Sword",
-        "status": "Str ＋10, Agi ＋10, Dex ＋10, All Attributes ＋8, Hit ＋50, Atk ＋16%, Dmg ＋12%, Demi-Human Race Damage ＋30%, Max HP ＋17000"
+        "name": "Statue of Odin [2]",
+        "slot": "Eikon",
+        "status": "Def + 112"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_60501.png",
+        "name": "Statue of Saint Deer [1]",
+        "slot": "Eikon",
+        "status": "Def + 30"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_60501.png",
+        "name": "Statue of Saint Deer [2]",
+        "slot": "Eikon",
+        "status": "Def + 30"
     },
     {
         "imgsrc": null,
-        "name": "Tyrfing2[2]",
-        "slot": "Sword",
-        "status": "Str ＋10, Agi ＋10, Dex ＋10, All Attributes ＋14, Hit ＋50, Atk ＋20%, Dmg ＋15%, Demi-Human Race Damage ＋40%, Max HP ＋26000, Dmg Reduc. ＋5%, Magic Reduc. ＋5%"
+        "name": "Statue of Tyche [1]",
+        "slot": "Eikon",
+        "status": "Def + 112"
     },
     {
         "imgsrc": null,
-        "name": "Tyrfing3[2]",
-        "slot": "Sword",
-        "status": "Str ＋10, Agi ＋10, Dex ＋10, All Attributes ＋20, Hit ＋50, Atk ＋24%, Dmg ＋18%, Demi-Human Race Damage ＋50%, Max HP ＋35000, Dmg Reduc. ＋10%, Magic Reduc. ＋10%"
+        "name": "Statue of Tyche [2]",
+        "slot": "Eikon",
+        "status": "Def + 112"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45039.png",
-        "name": "Ulle's Cap",
-        "slot": "Head",
-        "status": "Dex ＋3, AGI ＋3"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45039.png",
-        "name": "Ulle's Cap [1]",
-        "slot": "Head",
-        "status": "Dex ＋3, AGI ＋3"
-    },
-    {
-        "imgsrc": null,
-        "name": "Ultimate Crown",
-        "slot": "Head",
-        "status": "All Attributes ＋2, Pen. ＋4%, MPen. ＋4%"
-    },
-    {
-        "imgsrc": null,
-        "name": "Ultraman Orb",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42037.png",
+        "name": "Staunch Armor",
         "slot": "Armour",
-        "status": "Become a Scenery! Wear [Ultraman Tiga] to become a Scenery yourself. Adventurers who take photo of it will unlock the event Scenery \"The Giant of Light\"!"
+        "status": "Str ＋2, Dex ＋1, Avoid fear effect"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42037.png",
+        "name": "Staunch Armor [1]",
+        "slot": "Armour",
+        "status": "Str ＋2, Dex ＋1, Avoid fear effect"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43027.png",
+        "name": "Staunch Cape",
+        "slot": "Robe",
+        "status": "Def + 22"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43027.png",
+        "name": "Staunch Cape [1]",
+        "slot": "Robe",
+        "status": "Def + 22"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42038.png",
+        "name": "Staunch Clothes",
+        "slot": "Armour",
+        "status": "Dex ＋1, INT ＋2, Avoid fear effect, [Sura Rampage] ＋ [Staunch Clothes X] ＋ [Staunch Ring IV]: ＋5% [Hell Gate] damage"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42038.png",
+        "name": "Staunch Clothes [1]",
+        "slot": "Armour",
+        "status": "Dex ＋1, INT ＋2, Avoid fear effect, [Sura Rampage] ＋ [Staunch Clothes X] ＋ [Staunch Ring IV]: ＋5% [Hell Gate] damage"
+    },
+    {
+        "imgsrc": null,
+        "name": "Staunch Mana Manteau",
+        "slot": "Robe",
+        "status": "Neutral Dmg Taken -15%, Max HP ＋100, [Staunch Mana Manteau] ＋ [High Fashion Sandals IV]: Magic Reduc. ＋5%"
     }
 ]

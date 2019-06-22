@@ -1,122 +1,122 @@
 [
     {
-        "imgsrc": null,
-        "name": "Moonlight Mischief Rabbit Hat·Muka Brown",
-        "slot": "Head",
-        "status": "INT ＋4, Max HP ＋500, Max SP ＋50"
-    },
-    {
-        "imgsrc": null,
-        "name": "Moonlight Mischief Rabbit Hat·Strawberry Red",
-        "slot": "Head",
-        "status": "INT ＋4, Max HP ＋500, Max SP ＋50"
-    },
-    {
-        "imgsrc": null,
-        "name": "Moonlight series Headwear",
-        "slot": "Head",
-        "status": "M.Atk ＋20, MPen. ＋3%"
-    },
-    {
-        "imgsrc": null,
-        "name": "Moonlight Sweetheart·Ice Blue",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42032.png",
+        "name": "Mercenary Armor [1]",
         "slot": "Armour",
-        "status": ""
+        "status": "Def + 84"
     },
     {
-        "imgsrc": null,
-        "name": "Moonlight Sweetheart·Jelly Purple",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41210.png",
+        "name": "Mercenary Bow",
+        "slot": "Bow",
+        "status": "Atk + 129"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41210.png",
+        "name": "Mercenary Bow [2]",
+        "slot": "Bow",
+        "status": "Atk + 129"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42033.png",
+        "name": "Mercenary Coat",
         "slot": "Armour",
-        "status": ""
+        "status": "Def + 42"
     },
     {
-        "imgsrc": null,
-        "name": "Moonlight Sweetheart·Muka Brown",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42033.png",
+        "name": "Mercenary Coat [1]",
         "slot": "Armour",
-        "status": ""
+        "status": "Def + 42"
     },
     {
-        "imgsrc": null,
-        "name": "Moonlight Sweetheart·Strawberry Red",
-        "slot": "Armour",
-        "status": ""
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41505.png",
-        "name": "Morning Star",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41537.png",
+        "name": "Mercenary Hammer",
         "slot": "Mace",
-        "status": "Atk + 180"
+        "status": "Atk + 162"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41505.png",
-        "name": "Morning Star [2]",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41537.png",
+        "name": "Mercenary Hammer [2]",
         "slot": "Mace",
-        "status": "Atk + 180"
+        "status": "Atk + 162"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42523.png",
-        "name": "Morpheus's Bracelet",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40906.png",
+        "name": "Mercenary Katar",
+        "slot": "Katar",
+        "status": "Atk + 129"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40906.png",
+        "name": "Mercenary Katar [2]",
+        "slot": "Katar",
+        "status": "Atk + 129"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40710.png",
+        "name": "Mercenary Knife",
+        "slot": "Knife",
+        "status": "Atk + 162"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40710.png",
+        "name": "Mercenary Knife [2]",
+        "slot": "Knife",
+        "status": "Atk + 162"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42502.png",
+        "name": "Mercenary Shield",
         "slot": "Shield",
-        "status": "Def + 24"
+        "status": "Def + 84"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42523.png",
-        "name": "Morpheus's Bracelet [1]",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42502.png",
+        "name": "Mercenary Shield [1]",
         "slot": "Shield",
-        "status": "Def + 24"
+        "status": "Def + 84"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45120.png",
-        "name": "Morpheus's Hood",
-        "slot": "Head",
-        "status": "Def ＋5, INT ＋2"
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43533.png",
+        "name": "Mercenary Shoes",
+        "slot": "Shoes",
+        "status": "Def + 25"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45120.png",
-        "name": "Morpheus's Hood [1]",
-        "slot": "Head",
-        "status": "Def ＋5, INT ＋2"
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43533.png",
+        "name": "Mercenary Shoes [1]",
+        "slot": "Shoes",
+        "status": "Def + 25"
     },
     {
-        "imgsrc": null,
-        "name": "Morpheus's Shawl [1]",
-        "slot": "Robe",
-        "status": "Def + 90"
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40026.png",
+        "name": "Mercenary Spear",
+        "slot": "Spear",
+        "status": "Atk + 202"
     },
     {
-        "imgsrc": null,
-        "name": "Morpheus's Shawl [2]",
-        "slot": "Robe",
-        "status": "Def + 90"
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40026.png",
+        "name": "Mercenary Spear [2]",
+        "slot": "Spear",
+        "status": "Atk + 202"
     },
     {
-        "imgsrc": null,
-        "name": "Morrigane's Helm",
-        "slot": "Head",
-        "status": "No effect"
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40630.png",
+        "name": "Mercenary Staff",
+        "slot": "Staff",
+        "status": "M.Atk + 97"
     },
     {
-        "imgsrc": null,
-        "name": "Morrigane's Helm [1]",
-        "slot": "Head",
-        "status": "No effect"
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40630.png",
+        "name": "Mercenary Staff [2]",
+        "slot": "Staff",
+        "status": "M.Atk + 97"
     },
     {
-        "imgsrc": null,
-        "name": "Morrigane's Manteau [1]",
-        "slot": "Robe",
-        "status": "Def + 90"
-    },
-    {
-        "imgsrc": null,
-        "name": "Morrigane's Manteau [2]",
-        "slot": "Robe",
-        "status": "Def + 90"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_48519.png",
-        "name": "Mr. Scream",
-        "slot": "Face",
-        "status": "Petrifying Resistance ＋30%, For Refining ＋1, Petrified Resistance ＋2% (upper limit of increases is 60%)"
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40334.png",
+        "name": "Mercenary Sword",
+        "slot": "Sword",
+        "status": "Atk + 162"
     }
 ]

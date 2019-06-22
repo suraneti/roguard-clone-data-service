@@ -1,122 +1,122 @@
 [
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40331.png",
-        "name": "Rapier",
-        "slot": "Sword",
-        "status": "Atk + 108"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40331.png",
-        "name": "Rapier [2]",
-        "slot": "Sword",
-        "status": "Atk + 108"
-    },
-    {
         "imgsrc": null,
-        "name": "Raydric Sword",
-        "slot": "Sword",
+        "name": "Peace Maker",
+        "slot": "Shield",
         "status": ""
     },
     {
-        "imgsrc": null,
-        "name": "Raynojose's Med Bottle",
-        "slot": "Sword",
-        "status": ""
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45030.png",
+        "name": "Peco Ears [1]",
+        "slot": "Head",
+        "status": "Def ＋5, Agi ＋2, M.Def ＋10"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_25001.png",
+        "name": "Peco Peco",
+        "slot": "Mount",
+        "status": "Move Spd ＋25%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_25001.png",
+        "name": "Peco Peco",
+        "slot": "Mount",
+        "status": "Move Spd ＋25%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_25001.png",
+        "name": "Peco Peco",
+        "slot": "Mount",
+        "status": "Move Spd ＋25%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45030.png",
+        "name": "Peco Peco Hairband",
+        "slot": "Head",
+        "status": "Def ＋5, Agi ＋2, M.Def ＋10"
     },
     {
         "imgsrc": null,
-        "name": "Rea the tabby cat",
+        "name": "Pegasus Wing Ears",
+        "slot": "Head",
+        "status": "No effect"
+    },
+    {
+        "imgsrc": null,
+        "name": "Pegasus Wing Ears [1]",
+        "slot": "Head",
+        "status": "No effect"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_47008.png",
+        "name": "Perm Demon",
+        "slot": "Wing",
+        "status": "Max SP ＋10%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Pet Apron",
+        "slot": "Wing",
+        "status": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_48004.png",
+        "name": "Petite's Tail",
         "slot": "Tail",
-        "status": "Max HP ＋500, Atk ＋15, M.Atk ＋10"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41504.png",
-        "name": "Recovery Light [2]",
-        "slot": "Mace",
-        "status": "Atk + 180"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41504.png",
-        "name": "Recovery Light [3]",
-        "slot": "Mace",
-        "status": "Atk + 180"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45027.png",
-        "name": "Red Bandana",
-        "slot": "Head",
-        "status": "Def ＋5"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45027.png",
-        "name": "Red Bandana [1]",
-        "slot": "Head",
-        "status": "Def ＋5"
+        "status": "Move Spd ＋5%, Avoid being auto-target dragon monsters"
     },
     {
         "imgsrc": null,
-        "name": "Red Bull Eye",
+        "name": "Ph.D Hat",
+        "slot": "Head",
+        "status": "Max HP ＋50, Max SP ＋50, INT ＋1"
+    },
+    {
+        "imgsrc": null,
+        "name": "Ph.D Hat [1]",
+        "slot": "Head",
+        "status": "Dex ＋3, AGI ＋3"
+    },
+    {
+        "imgsrc": null,
+        "name": "Phen Guitar",
+        "slot": "Wing",
+        "status": "Max HP ＋5%, When equipped by Priest, Healing increase ＋3%; when equipped by other Jobs, Healing received ＋3%, Wind, Earth, Water, Fire Dmg Taken －3%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Picky Eggshell",
+        "slot": "Head",
+        "status": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40611.png",
+        "name": "Piercing Staff [1]",
+        "slot": "Staff",
+        "status": "INT ＋2, M.Atk ＋5%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40611.png",
+        "name": "Piercing Staff [2]",
+        "slot": "Staff",
+        "status": "INT ＋2, M.Atk ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Pierrot Mask",
         "slot": "Face",
-        "status": "No effect"
+        "status": "Def ＋10, Damage reduction of Human race ＋5%"
     },
     {
-        "imgsrc": null,
-        "name": "Red Ether Bag [1]",
-        "slot": "Mace",
-        "status": ""
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40002.png",
+        "name": "Pike",
+        "slot": "Spear",
+        "status": "Atk + 247"
     },
     {
-        "imgsrc": null,
-        "name": "Red Ether Bag [2]",
-        "slot": "Mace",
-        "status": ""
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_43002.png",
-        "name": "Red Muffler",
-        "slot": "Robe",
-        "status": "Def + 28"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_43002.png",
-        "name": "Red Muffler [1]",
-        "slot": "Robe",
-        "status": "Def + 28"
-    },
-    {
-        "imgsrc": null,
-        "name": "Red Ribbon",
-        "slot": "Head",
-        "status": "No effect"
-    },
-    {
-        "imgsrc": null,
-        "name": "Red Ribbon [1]",
-        "slot": "Head",
-        "status": "No effect"
-    },
-    {
-        "imgsrc": null,
-        "name": "Red Square Bag",
-        "slot": "Bracer",
-        "status": "MDef ＋30,  STR ＋3, Max SP ＋150,  ＋15% [Sphere Mine] and [Sphere Parasitism] damage,  ＋15% [Crazy Weed] damage"
-    },
-    {
-        "imgsrc": null,
-        "name": "Red Square Bag [1]",
-        "slot": "Mace",
-        "status": ""
-    },
-    {
-        "imgsrc": null,
-        "name": "Red Square Bag [1]",
-        "slot": "Bracer",
-        "status": "MDef ＋30,  STR ＋3, Max SP ＋150,  ＋15% [Sphere Mine] and [Sphere Parasitism] damage,  ＋15% [Crazy Weed] damage"
-    },
-    {
-        "imgsrc": null,
-        "name": "Red Square Bag [2]",
-        "slot": "Mace",
-        "status": "Atk + 180"
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40002.png",
+        "name": "Pike [3]",
+        "slot": "Spear",
+        "status": "Atk + 247"
     }
 ]

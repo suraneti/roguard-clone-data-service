@@ -1,122 +1,122 @@
 [
     {
         "imgsrc": null,
-        "name": "Statue of Tyche [2]",
-        "slot": "Eikon",
-        "status": "Def + 112"
+        "name": "Shutter shades",
+        "slot": "Face",
+        "status": "Max HP ＋100, Def ＋10, M.Def ＋10"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42037.png",
-        "name": "Staunch Armor",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45069.png",
+        "name": "Silk Ribbon",
+        "slot": "Head",
+        "status": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42009.png",
+        "name": "Silk Robe",
         "slot": "Armour",
-        "status": "Str ＋2, Dex ＋1, Avoid fear effect"
+        "status": "M.Def ＋20, Water Dmg Taken -15%, [Tidal Shoes VI] ＋[Silk Robe VI]: Has a 10% chance to turn the target into Water target for 10 seconds during auto attacks"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42037.png",
-        "name": "Staunch Armor [1]",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42009.png",
+        "name": "Silk Robe [1]",
         "slot": "Armour",
-        "status": "Str ＋2, Dex ＋1, Avoid fear effect"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_43027.png",
-        "name": "Staunch Cape",
-        "slot": "Robe",
-        "status": "Def + 22"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_43027.png",
-        "name": "Staunch Cape [1]",
-        "slot": "Robe",
-        "status": "Def + 22"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42038.png",
-        "name": "Staunch Clothes",
-        "slot": "Armour",
-        "status": "Dex ＋1, INT ＋2, Avoid fear effect, [Sura Rampage] ＋ [Staunch Clothes X] ＋ [Staunch Ring IV]: ＋5% [Hell Gate] damage"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42038.png",
-        "name": "Staunch Clothes [1]",
-        "slot": "Armour",
-        "status": "Dex ＋1, INT ＋2, Avoid fear effect, [Sura Rampage] ＋ [Staunch Clothes X] ＋ [Staunch Ring IV]: ＋5% [Hell Gate] damage"
+        "status": "M.Def ＋20, Water Dmg Taken -15%, [Tidal Shoes VI] ＋[Silk Robe VI]: Has a 10% chance to turn the target into Water target for 10 seconds during auto attacks"
     },
     {
         "imgsrc": null,
-        "name": "Staunch Mana Manteau",
-        "slot": "Robe",
-        "status": "Neutral Dmg Taken -15%, Max HP ＋100, [Staunch Mana Manteau] ＋ [High Fashion Sandals IV]: Magic Reduc. ＋5%"
+        "name": "Silver Bell",
+        "slot": "Tail",
+        "status": "Cast Delay -10%, SP cost -10%"
     },
     {
         "imgsrc": null,
-        "name": "Staunch Mana Manteau [1]",
+        "name": "Silver Goat Helm",
+        "slot": "Head",
+        "status": "INT ＋2"
+    },
+    {
+        "imgsrc": null,
+        "name": "Silver Robe",
+        "slot": "Armour",
+        "status": "INT ＋5, Chant disrupts durability ＋30%, Max HP ＋100, Caster receives [High-energy Cast], the next skill to be cast will turn into sudden skill. (This BUFF will not be removed even it's not used for 20 seconds, Every 30 seconds this skill can be triggered once only.), [Silver Robe] ＋ [Statue of Archangel IV]: M.Atk ＋12%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Silver Robe [1]",
+        "slot": "Armour",
+        "status": "INT ＋5, Chant disrupts durability ＋30%, Max HP ＋100, Caster receives [High-energy Cast], the next skill to be cast will turn into sudden skill. (This BUFF will not be removed even it's not used for 20 seconds, Every 30 seconds this skill can be triggered once only.), [Silver Robe] ＋ [Statue of Archangel IV]: M.Atk ＋12%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45126.png",
+        "name": "Silver Tiara",
+        "slot": "Head",
+        "status": "Def ＋5, Dex ＋2"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45126.png",
+        "name": "Silver Tiara [1]",
+        "slot": "Head",
+        "status": "Def ＋5, Dex ＋2"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_61502.png",
+        "name": "Silversmith Bracelet",
+        "slot": "Bracelet",
+        "status": "Def + 19"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_61502.png",
+        "name": "Silversmith Bracelet [1]",
+        "slot": "Bracelet",
+        "status": "Def + 19"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45038.png",
+        "name": "Singing Bird",
+        "slot": "Head",
+        "status": "Def ＋15"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45038.png",
+        "name": "Singing Bird [1]",
+        "slot": "Head",
+        "status": "Def ＋15"
+    },
+    {
+        "imgsrc": null,
+        "name": "Siren Head",
+        "slot": "Head",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Skeleton Bone",
+        "slot": "Sword",
+        "status": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45057.png",
+        "name": "Skeleton Helm",
+        "slot": "Head",
+        "status": "Def ＋10, Str ＋2, M.Def ＋5, Stun Resistance ＋5%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45057.png",
+        "name": "Skeleton Helm [1]",
+        "slot": "Head",
+        "status": "Def ＋10, Str ＋2, M.Def ＋5, Stun Resistance ＋5%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43010.png",
+        "name": "Skeleton Manteau [1]",
         "slot": "Robe",
-        "status": "Neutral Dmg Taken -15%, Max HP ＋100, [Staunch Mana Manteau] ＋ [High Fashion Sandals IV]: Magic Reduc. ＋5%"
+        "status": "Def + 45"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_44003.png",
-        "name": "Staunch Ring",
-        "slot": "Accessory",
-        "status": "Max HP ＋400, Max SP ＋150, Healing effect ＋5%, For [Asura Strike], the damage multiplier of [Skill level x4 ＋ Remaining Sp/100] increases by 1.5, [Sura Rampage] ＋ [Staunch Clothes X] ＋ [Staunch Ring IV]: ＋5% [Hell Gate] damage"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_44003.png",
-        "name": "Staunch Ring [1]",
-        "slot": "Accessory",
-        "status": "Max HP ＋400, Max SP ＋150, Healing effect ＋5%, For [Asura Strike], the damage multiplier of [Skill level x4 ＋ Remaining Sp/100] increases by 1.5, [Sura Rampage] ＋ [Staunch Clothes X] ＋ [Staunch Ring IV]: ＋5% [Hell Gate] damage"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_43535.png",
-        "name": "Staunch Shoes",
-        "slot": "Shoes",
-        "status": "Move Spd ＋2%, Max HP ＋ (Base Lv×10)"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_43535.png",
-        "name": "Staunch Shoes [1]",
-        "slot": "Shoes",
-        "status": "Move Spd ＋2%, Max HP ＋ (Base Lv×10)"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_47022.png",
-        "name": "Steam Goblin Bag",
-        "slot": "Wing",
-        "status": "Bag Slot ＋10, All Attributes ＋1, Dmg to Demi-Human ＋2%"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41829.png",
-        "name": "Steel Axe",
-        "slot": "Axe",
-        "status": "Atk + 150"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41829.png",
-        "name": "Steel Axe [2]",
-        "slot": "Axe",
-        "status": "Atk + 150"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41832.png",
-        "name": "Steel Battle Axe",
-        "slot": "Axe",
-        "status": "Atk + 180"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41832.png",
-        "name": "Steel Battle Axe [2]",
-        "slot": "Axe",
-        "status": "Atk + 180"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41534.png",
-        "name": "Steel Staff",
-        "slot": "Mace",
-        "status": "Atk + 108"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41534.png",
-        "name": "Steel Staff [2]",
-        "slot": "Mace",
-        "status": "Atk + 108"
+        "imgsrc": null,
+        "name": "Skull Armor",
+        "slot": "Armour",
+        "status": ""
     }
 ]

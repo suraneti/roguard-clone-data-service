@@ -1,122 +1,122 @@
 [
     {
         "imgsrc": null,
-        "name": "Sagittarius Crown",
-        "slot": "Head",
-        "status": "INT ＋1"
-    },
-    {
-        "imgsrc": null,
-        "name": "Sagittarius Crown [1]",
-        "slot": "Head",
-        "status": "No effect"
-    },
-    {
-        "imgsrc": null,
-        "name": "Sagittarius Diadem",
-        "slot": "Head",
-        "status": "Dex ＋3, AGI ＋3"
-    },
-    {
-        "imgsrc": null,
-        "name": "Sagittarius Diadem [1]",
-        "slot": "Head",
-        "status": "Luk ＋2, INT ＋1"
-    },
-    {
-        "imgsrc": null,
-        "name": "Saint Axe [1]",
-        "slot": "Axe",
-        "status": ""
-    },
-    {
-        "imgsrc": null,
-        "name": "Saint Axe [2]",
-        "slot": "Axe",
-        "status": "Atk + 60"
-    },
-    {
-        "imgsrc": null,
-        "name": "Saint Bow [1]",
-        "slot": "Bow",
-        "status": ""
-    },
-    {
-        "imgsrc": null,
-        "name": "Saint Bow [2]",
-        "slot": "Bow",
-        "status": ""
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_43020.png",
-        "name": "Saint Cape [1]",
+        "name": "Ragamuffin Manteau [2]",
         "slot": "Robe",
         "status": "Def + 22"
     },
     {
         "imgsrc": null,
-        "name": "Saint Dagger [1]",
-        "slot": "Knife",
+        "name": "Rage of Asgard",
+        "slot": "Mace",
         "status": ""
     },
     {
-        "imgsrc": null,
-        "name": "Saint Dagger [2]",
-        "slot": "Knife",
-        "status": ""
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45137.png",
+        "name": "Rain Cloud",
+        "slot": "Head",
+        "status": "No effect"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45137.png",
+        "name": "Rain Cloud [1]",
+        "slot": "Head",
+        "status": "No effect"
     },
     {
         "imgsrc": null,
-        "name": "Saint Fist [1]",
-        "slot": "Knuckle",
-        "status": ""
+        "name": "Rain Flute",
+        "slot": "Mouth",
+        "status": "Max Hp ＋100, Magic damage reduction ＋2%"
     },
     {
         "imgsrc": null,
-        "name": "Saint Fist [2]",
-        "slot": "Knuckle",
-        "status": ""
+        "name": "Rainbow Bridge",
+        "slot": "Accessory",
+        "status": "MaxHp + 1314"
     },
     {
         "imgsrc": null,
-        "name": "Saint Gryphon",
+        "name": "Rainbow Peco Peco",
         "slot": "Mount",
         "status": "Move Spd ＋25%"
     },
     {
         "imgsrc": null,
-        "name": "Saint Hammer [1]",
-        "slot": "Mace",
+        "name": "Rainbow Unicorn",
+        "slot": "Head",
+        "status": "Luk ＋5, Cri ＋3"
+    },
+    {
+        "imgsrc": null,
+        "name": "Rainbow Unicorn [1]",
+        "slot": "Head",
+        "status": "Luk ＋5, Cri ＋3"
+    },
+    {
+        "imgsrc": null,
+        "name": "Rainbow Wishing Whale",
+        "slot": "Tail",
+        "status": "Atk ＋3%, When the opponent‘s current HP is lower than yours, the final damage increases by 5%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45178.png",
+        "name": "Ramen Hat",
+        "slot": "Head",
+        "status": "Dex ＋1, When daggers are equipped, auto attack has a 10% chance to trigger Double Attack, When Refining ＋10, Dex ＋4, Hit ＋10"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45178.png",
+        "name": "Ramen Hat [1]",
+        "slot": "Head",
+        "status": "Dex ＋1, When daggers are equipped, auto attack has a 10% chance to trigger Double Attack, When Refining ＋10, Dex ＋4, Hit ＋10"
+    },
+    {
+        "imgsrc": null,
+        "name": "Ramune",
+        "slot": "Wing",
+        "status": "Str ＋4, INT ＋4, Max HP ＋200, Max SP ＋50"
+    },
+    {
+        "imgsrc": null,
+        "name": "Rancid Scale Armor",
+        "slot": "Armour",
         "status": ""
     },
     {
         "imgsrc": null,
-        "name": "Saint Hammer [2]",
-        "slot": "Mace",
+        "name": "Rancid Scale Armor [1]",
+        "slot": "Armour",
         "status": ""
     },
     {
         "imgsrc": null,
-        "name": "Saint Katar [1]",
-        "slot": "Katar",
-        "status": "Doubles Critical"
+        "name": "Ranger Clothes",
+        "slot": "Armour",
+        "status": "Dex ＋5, Atk ＋8%, Increase the influence of intelligence on Falcon's Atk, [Cursed Lyre IV] ＋[Ranger Clothes IV]: improve the influence of Atk on Falcon's Atk"
     },
     {
         "imgsrc": null,
-        "name": "Saint Katar [2]",
-        "slot": "Katar",
-        "status": "Doubles Critical"
+        "name": "Ranger Clothes [1]",
+        "slot": "Armour",
+        "status": "Dex ＋5, Atk ＋8%, Increase the influence of intelligence on Falcon's Atk, [Cursed Lyre IV] ＋[Ranger Clothes IV]: improve the influence of Atk on Falcon's Atk"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40331.png",
+        "name": "Rapier",
+        "slot": "Sword",
+        "status": "Atk + 108"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40331.png",
+        "name": "Rapier [2]",
+        "slot": "Sword",
+        "status": "Atk + 108"
     },
     {
         "imgsrc": null,
-        "name": "Saint Necklace",
-        "slot": "Accessory",
-        "status": ""
-    },
-    {
-        "imgsrc": null,
-        "name": "Saint Necklace [1]",
-        "slot": "Accessory",
+        "name": "Raydric Sword",
+        "slot": "Sword",
         "status": ""
     }
 ]

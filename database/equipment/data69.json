@@ -1,122 +1,122 @@
 [
     {
-        "imgsrc": null,
-        "name": "Krishna Gloves [2]",
-        "slot": "Bracer",
-        "status": "Def + 112"
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42513.png",
+        "name": "Imperial Guard",
+        "slot": "Shield",
+        "status": "Dmg Reduc. ＋10%, CritRes ＋15"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40609.png",
-        "name": "Kronos [1]",
-        "slot": "Staff",
-        "status": "Int ＋5, Max HP ＋500, For Refining ＋1, Int ＋1, Max HP ＋100, When using magic skills, there is 3% chance to enter a \"Vision\" state: M.Atk ＋25%, SP Cost ＋50%; the effect lasts 10 seconds"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40609.png",
-        "name": "Kronos [2]",
-        "slot": "Staff",
-        "status": "Int ＋5, Max HP ＋500, For Refining ＋1, Int ＋1, Max HP ＋100, When using magic skills, there is 3% chance to enter a \"Vision\" state: M.Atk ＋25%, SP Cost ＋50%; the effect lasts 10 seconds"
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42513.png",
+        "name": "Imperial Guard [1]",
+        "slot": "Shield",
+        "status": "Dmg Reduc. ＋10%, CritRes ＋15"
     },
     {
         "imgsrc": null,
-        "name": "Lance of Dragon Tamer [1]",
+        "name": "Imperial Spear [1]",
         "slot": "Spear",
-        "status": "Max SP ＋200,  [Dragon Breath] damge ＋1% for each refining level, Upon reaching refining ＋10, you’ll gain 5% Dmg and Magic Reduc. for 10s after using [Dragon Breath], Upon reaching refining ＋15, [Dragon Breath] multiplier ＋100%"
+        "status": "Str ＋5, INT ＋5, Max HP ＋2000"
     },
     {
         "imgsrc": null,
-        "name": "Lance of Dragon Tamer [2]",
+        "name": "Imperial Spear [2]",
         "slot": "Spear",
-        "status": "Max SP ＋200,  [Dragon Breath] damge ＋1% for each refining level, Upon reaching refining ＋10, you’ll gain 5% Dmg and Magic Reduc. for 10s after using [Dragon Breath], Upon reaching refining ＋15, [Dragon Breath] multiplier ＋100%"
+        "status": "Str ＋5, INT ＋5, Max HP ＋2000"
     },
     {
         "imgsrc": null,
-        "name": "Lance [1]",
-        "slot": "Spear",
-        "status": "Str ＋2, Equipment ASPD ＋10%, Holy Dmg ＋10%"
+        "name": "Incomplete Left Dragon Wing",
+        "slot": "Wing",
+        "status": "Attack Spd ＋8%"
     },
     {
         "imgsrc": null,
-        "name": "Lance [2]",
-        "slot": "Spear",
-        "status": "Str ＋2, Equipment ASPD ＋10%, Holy Dmg ＋10%"
+        "name": "Incomplete Right Dragon Wing",
+        "slot": "Wing",
+        "status": "M.Atk ＋50"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45132.png",
-        "name": "Laurel Wreath",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45062.png",
+        "name": "Incubus Horn",
         "slot": "Head",
-        "status": "M.Def ＋5, Luk ＋3, Curse Resistance ＋5%"
+        "status": "Def ＋10, Agi ＋1, M.Def ＋5"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45132.png",
-        "name": "Laurel Wreath [1]",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45062.png",
+        "name": "Incubus Horn [1]",
         "slot": "Head",
-        "status": "M.Def ＋5, Luk ＋3, Curse Resistance ＋5%"
+        "status": "Def ＋10, Agi ＋1, M.Def ＋5"
     },
     {
-        "imgsrc": null,
-        "name": "Lazy Corgi - Color 1",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45026.png",
+        "name": "Indian Fillet",
         "slot": "Head",
-        "status": "All Attributes ＋1, Dmg to Demi-Human ＋5%"
+        "status": "Def ＋10"
     },
     {
-        "imgsrc": null,
-        "name": "Lazy Corgi - Color 2",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45026.png",
+        "name": "Indian Fillet [1]",
         "slot": "Head",
-        "status": "All Attributes ＋1, Dmg to Demi-Human ＋5%"
+        "status": "Def ＋10"
     },
     {
-        "imgsrc": null,
-        "name": "Lazy Corgi - Color 3",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45060.png",
+        "name": "Indifferent Solo Hat",
         "slot": "Head",
-        "status": "All Attributes ＋1, Dmg to Demi-Human ＋5%"
+        "status": "Def ＋10"
     },
     {
-        "imgsrc": null,
-        "name": "Lazy Corgi - Color 4",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45060.png",
+        "name": "Indifferent Solo Hat [1]",
         "slot": "Head",
-        "status": "All Attributes ＋1, Dmg to Demi-Human ＋5%"
+        "status": "Def ＋10"
     },
     {
-        "imgsrc": null,
-        "name": "Lazy Corgi Headwear",
-        "slot": "Head",
-        "status": "All Attributes ＋1, Dmg to Demi-Human ＋5%"
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40923.png",
+        "name": "Infiltrator [1]",
+        "slot": "Katar",
+        "status": "Doubles Critical, Damage to Demi-Human monsters -50%, Def ＋20, Flee ＋20"
     },
     {
-        "imgsrc": null,
-        "name": "Lazy Corgi Headwear",
-        "slot": "Head",
-        "status": "All Attributes ＋1, Dmg to Demi-Human ＋5%"
-    },
-    {
-        "imgsrc": null,
-        "name": "Lazy Corgi·Sharp Black",
-        "slot": "Head",
-        "status": "All Attributes ＋1, Dmg to Demi-Human ＋5%"
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40923.png",
+        "name": "Infiltrator [2]",
+        "slot": "Katar",
+        "status": "Doubles Critical, Damage to Demi-Human monsters -50%, Def ＋20, Flee ＋20"
     },
     {
         "imgsrc": null,
-        "name": "Lazy Corgi·Starfish Yellow",
-        "slot": "Head",
-        "status": "All Attributes ＋1, Dmg to Demi-Human ＋5%"
+        "name": "Infinity Axe [1]",
+        "slot": "Axe",
+        "status": "Atk + 180"
     },
     {
         "imgsrc": null,
-        "name": "Lazy Corgi·Stone Green",
-        "slot": "Head",
-        "status": "All Attributes ＋1, Dmg to Demi-Human ＋5%"
+        "name": "Infinity Axe [2]",
+        "slot": "Axe",
+        "status": "Atk + 180"
     },
     {
-        "imgsrc": null,
-        "name": "Lazy Corgi·Sugar Brown",
-        "slot": "Head",
-        "status": "All Attributes ＋1, Dmg to Demi-Human ＋5%"
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41201.png",
+        "name": "Infinity Bow [2]",
+        "slot": "Bow",
+        "status": "Atk + 180"
     },
     {
-        "imgsrc": null,
-        "name": "Lazy Poring",
-        "slot": "Head",
-        "status": "Holy Dmg ＋3%, ＋1% healing bonus for each refining level"
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41201.png",
+        "name": "Infinity Bow [3]",
+        "slot": "Bow",
+        "status": "Atk + 180"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_44020.png",
+        "name": "INT Earring",
+        "slot": "Accessory",
+        "status": "M.Atk + 42"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_44020.png",
+        "name": "INT Earring [1]",
+        "slot": "Accessory",
+        "status": "M.Atk + 42"
     }
 ]

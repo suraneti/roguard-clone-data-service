@@ -1,122 +1,122 @@
 [
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_62001.png",
-        "name": "Energy Equipment [1]",
-        "slot": "Trolley",
-        "status": "Def + 112"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_62001.png",
-        "name": "Energy Equipment [2]",
-        "slot": "Trolley",
-        "status": "Def + 112"
-    },
-    {
         "imgsrc": null,
-        "name": "Energy Rune Guard [1]",
-        "slot": "Shield",
-        "status": "Def + 112"
-    },
-    {
-        "imgsrc": null,
-        "name": "Energy Rune Guard [2]",
-        "slot": "Shield",
-        "status": "Def + 112"
-    },
-    {
-        "imgsrc": null,
-        "name": "Engineer’s Wrench [1]",
-        "slot": "Mace",
-        "status": "Str ＋5, Max HP ＋1000, ＋2% [Suicidal Destruction] damage for each refining level"
-    },
-    {
-        "imgsrc": null,
-        "name": "Engineer’s Wrench [2]",
-        "slot": "Mace",
-        "status": "Str ＋5, Max HP ＋1000, ＋2% [Suicidal Destruction] damage for each refining level"
-    },
-    {
-        "imgsrc": null,
-        "name": "Engorging Lee",
-        "slot": "Face",
-        "status": "Ignore M.Def ＋3%, Max HP ＋400"
-    },
-    {
-        "imgsrc": null,
-        "name": "Epic Spirit-Lightning",
-        "slot": "Face",
-        "status": "Int ＋1, Dex ＋1, Wind Dmg ＋10%, For Refining ＋1, Wind Dmg ＋1%"
-    },
-    {
-        "imgsrc": null,
-        "name": "Epic Spirit·Assassin Mist",
-        "slot": "Katar",
-        "status": ""
-    },
-    {
-        "imgsrc": null,
-        "name": "Epic Spirit·Assassin Mist(change color)",
-        "slot": "Katar",
-        "status": ""
-    },
-    {
-        "imgsrc": null,
-        "name": "Epic Spirit·Death Choice",
+        "name": "Dropping Marionette [1]",
         "slot": "Head",
-        "status": "Max HP ＋200, Damage to undead race ＋5%"
+        "status": "Def ＋15"
     },
     {
         "imgsrc": null,
-        "name": "Epic Spirit·Death Choice(change color)",
+        "name": "Duff's Cape",
+        "slot": "Robe",
+        "status": "VIT ＋5, Ranged Dmg Taken Reduction ＋15%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Duff's Cape [1]",
+        "slot": "Robe",
+        "status": "VIT ＋5, Ranged Dmg Taken Reduction ＋15%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Duke Gem",
+        "slot": "Mount",
+        "status": "Move Spd ＋25%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Dulange Green Petite",
+        "slot": "Mount",
+        "status": "Move Spd ＋25%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40335.png",
+        "name": "Durandal Shadow",
+        "slot": "Sword",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Durandal Shadow",
+        "slot": "Sword",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Dusk Veil",
+        "slot": "Mouth",
+        "status": "Atk ＋10, M.Atk ＋10, Job EXP of killing monsters ＋3%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41833.png",
+        "name": "Dwarf King's Axe",
+        "slot": "Axe",
+        "status": "Atk + 288"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41833.png",
+        "name": "Dwarf King's Axe [2]",
+        "slot": "Axe",
+        "status": "Atk + 288"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45181.png",
+        "name": "Ear Muffs",
         "slot": "Head",
-        "status": "Dex ＋3, AGI ＋3"
+        "status": "Curse Resistance ＋10%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45181.png",
+        "name": "Ear Muffs [1]",
+        "slot": "Head",
+        "status": "Curse Resistance ＋10%"
     },
     {
         "imgsrc": null,
-        "name": "Epic Spirit·Death Convoy",
-        "slot": "Tail",
-        "status": "Max HP ＋300, Damage to undead race ＋10%"
+        "name": "Earth Axe [1]",
+        "slot": "Axe",
+        "status": "Earth, Str ＋5, Agi ＋5, Auto Attack has a 7% chance to deal multiple earth damage to the target and up to 3 nearby targets, For Refining ＋1, Earth Dmg ＋5%"
     },
     {
         "imgsrc": null,
-        "name": "Epic Spirit·Death Convoy(change color)",
-        "slot": "Tail",
-        "status": "No effect"
+        "name": "Earth Axe [2]",
+        "slot": "Axe",
+        "status": "Earth, Str ＋5, Agi ＋5, Auto Attack has a 7% chance to deal multiple earth damage to the target and up to 3 nearby targets, For Refining ＋1, Earth Dmg ＋5%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41201.png",
+        "name": "Earth Bow [2]",
+        "slot": "Bow",
+        "status": "Atk + 180"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41201.png",
+        "name": "Earth Bow[3]",
+        "slot": "Bow",
+        "status": "Atk + 180"
     },
     {
         "imgsrc": null,
-        "name": "Epic Spirit·Destructive Lightning",
-        "slot": "Mouth",
-        "status": "auto attack has a chance to proportionally convert the damage into HP"
+        "name": "Earth Knife [1]",
+        "slot": "Knife",
+        "status": "Earth Knife, Str ＋5, For Refining ＋1Dmg ＋1%"
     },
     {
         "imgsrc": null,
-        "name": "Epic Spirit·Destructive Lightning(change color)",
-        "slot": "Mouth",
-        "status": "auto attack has a chance to proportionally convert the damage into HP"
+        "name": "Earth Knife [2]",
+        "slot": "Knife",
+        "status": "Earth Knife, Str ＋5, For Refining ＋1Dmg ＋1%"
     },
     {
         "imgsrc": null,
-        "name": "Epic Spirit·Eye of Lightning",
-        "slot": "Mouth",
-        "status": "auto attack has a chance to proportionally convert the damage into HP"
+        "name": "Earth Witch Hat",
+        "slot": "Head",
+        "status": "All Attributes ＋2, Atk ＋12, M.Atk ＋12"
     },
     {
-        "imgsrc": null,
-        "name": "Epic Spirit·Gern's Singing",
-        "slot": "Staff",
-        "status": ""
-    },
-    {
-        "imgsrc": null,
-        "name": "Epic Spirit·Gern's Singing(change color)",
-        "slot": "Staff",
-        "status": ""
-    },
-    {
-        "imgsrc": null,
-        "name": "Epic Spirit·Gerold's Glory",
-        "slot": "Spear",
-        "status": ""
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_47019.png",
+        "name": "Eden Team Bag",
+        "slot": "Wing",
+        "status": "Hit ＋5"
     }
 ]

@@ -3,8 +3,8 @@ const cardService = require('./public/js/card-service')
 const equipmentService = require('./public/js/equipment-service')
 
 ROGUARD_MONSTER_PAGES = 12
-ROGUARD_CARD_PAGES = 17
-ROGUARD_EQUIPMENT_PAGES = 138
+ROGUARD_CARD_PAGES = 15
+ROGUARD_EQUIPMENT_PAGES = 149
 
 // clone and generate monster data from ROGuard
 monsterService.clone(ROGUARD_MONSTER_PAGES)

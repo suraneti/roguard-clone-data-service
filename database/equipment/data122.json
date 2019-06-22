@@ -1,122 +1,122 @@
 [
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_60002.png",
-        "name": "Storm Orb [1]",
-        "slot": "Orb",
-        "status": "Def + 30"
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41836.png",
+        "name": "Slaughter Hand Axe [1]",
+        "slot": "Axe",
+        "status": "Dex ＋5, Luk ＋5, Dmg to Brute race ＋15%, Ignore Brute defense, When you use Auto Attacks against Brute monsters, there is a chance to release [Dying Tactic] (invalid to MVP/MINI monsters)"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_60002.png",
-        "name": "Storm Orb [2]",
-        "slot": "Orb",
-        "status": "Def + 30"
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41836.png",
+        "name": "Slaughter Hand Axe [2]",
+        "slot": "Axe",
+        "status": "Dex ＋5, Luk ＋5, Dmg to Brute race ＋15%, Ignore Brute defense, When you use Auto Attacks against Brute monsters, there is a chance to release [Dying Tactic] (invalid to MVP/MINI monsters)"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41810.png",
+        "name": "Slaughter [1]",
+        "slot": "Axe",
+        "status": "Dex ＋5, Dmg to brute race ＋15%, When Refining ＋5, Dmg to brute race ＋5%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41810.png",
+        "name": "Slaughter [2]",
+        "slot": "Axe",
+        "status": "Dex ＋5, Dmg to brute race ＋15%, When Refining ＋5, Dmg to brute race ＋5%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43503.png",
+        "name": "Sleipnir [1]",
+        "slot": "Shoes",
+        "status": "Def + 45"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43503.png",
+        "name": "Sleipnir [2]",
+        "slot": "Shoes",
+        "status": "Def + 45"
     },
     {
         "imgsrc": null,
-        "name": "Storm Pike [1]",
-        "slot": "Spear",
-        "status": "Str ＋6, VIT ＋6, Damage of [Spiral Pierce] ＋10%, For Refining ＋10, ＋15, Atk ＋5%, Damage to water monsters ＋10%; For Atk ＋5%, Damage to water monsters ＋10%, Dmg to Water monsters ＋10%, Using this skill may trigger [Storm Force]. [Storm Force]: Atk ＋10%, Damage to water monster ＋10%; the effect lasts 10 seconds."
+        "name": "Small Poring Band",
+        "slot": "Head",
+        "status": "Dex ＋3, AGI ＋3"
     },
     {
         "imgsrc": null,
-        "name": "Storm Pike [2]",
-        "slot": "Spear",
-        "status": "Str ＋6, VIT ＋6, Damage of [Spiral Pierce] ＋10%, For Refining ＋10, ＋15, Atk ＋5%, Damage to water monsters ＋10%; For Atk ＋5%, Damage to water monsters ＋10%, Dmg to Water monsters ＋10%, Using this skill may trigger [Storm Force]. [Storm Force]: Atk ＋10%, Damage to water monster ＋10%; the effect lasts 10 seconds."
+        "name": "Small Poring Band [1]",
+        "slot": "Head",
+        "status": "Dex ＋5, Hit ＋10%"
     },
     {
-        "imgsrc": null,
-        "name": "STR Necklace",
-        "slot": "Accessory",
-        "status": "VIT ＋5, Max HP ＋3%"
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45069.png",
+        "name": "Small Ribbons",
+        "slot": "Head",
+        "status": "Flee ＋20"
     },
     {
-        "imgsrc": null,
-        "name": "STR Necklace[1]",
-        "slot": "Accessory",
-        "status": "VIT ＋5, Max HP ＋3%"
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45069.png",
+        "name": "Small Ribbons [1]",
+        "slot": "Head",
+        "status": "Flee ＋20"
     },
     {
-        "imgsrc": null,
-        "name": "Strange Fireworks",
-        "slot": "Mouth",
-        "status": "MAX HP＋100, Atk ＋10, M.Atk ＋10"
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41504.png",
+        "name": "Smasher",
+        "slot": "Mace",
+        "status": "Atk + 112"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_48554.png",
-        "name": "Strange Goblin Mask",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_48555.png",
+        "name": "Smile Goblin Mask",
         "slot": "Face",
         "status": "Damage reduction of Demi-Human race ＋10%"
     },
     {
-        "imgsrc": null,
-        "name": "Strawberry Clip",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_48531.png",
+        "name": "Smile Mask",
+        "slot": "Face",
+        "status": "Def ＋5"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45180.png",
+        "name": "Smokie Leaf Headwear",
         "slot": "Head",
-        "status": "Atk ＋10, M.Atk ＋10"
+        "status": "Def ＋10"
     },
     {
-        "imgsrc": null,
-        "name": "Strawberry Pudding",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45180.png",
+        "name": "Smokie Leaf [1]",
         "slot": "Head",
-        "status": "Atk ＋15, M.Atk ＋15"
+        "status": "Def ＋10"
     },
     {
-        "imgsrc": null,
-        "name": "Strawberry Pudding [1]",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45033.png",
+        "name": "Snake hairpin",
         "slot": "Head",
-        "status": "Dex ＋3, AGI ＋3"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_44016.png",
-        "name": "Strength Ring",
-        "slot": "Accessory",
-        "status": "Atk + 42"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_44016.png",
-        "name": "Strength Ring [1]",
-        "slot": "Accessory",
-        "status": "Atk + 42"
-    },
-    {
-        "imgsrc": null,
-        "name": "Strong Shield",
-        "slot": "Shield",
-        "status": "VIT ＋5, M.Def ＋15, Damage from [Devotion] -5%"
-    },
-    {
-        "imgsrc": null,
-        "name": "Strong Shield [1]",
-        "slot": "Shield",
-        "status": "VIT ＋5, M.Def ＋15, Damage from [Devotion] -5%"
-    },
-    {
-        "imgsrc": null,
-        "name": "Strouf's Spear",
-        "slot": "Sword",
         "status": ""
     },
     {
         "imgsrc": null,
-        "name": "Studded Knuckles [1]",
-        "slot": "Knuckle",
-        "status": "VIT ＋6, Max HP ＋1600, Natural recovery of HP ＋15, Remove wearer's moving speed penalty in state -[Steel Body], [Studded Knuckles] ＋ [Saint's Cape IV]: Max HP ＋5%"
+        "name": "Sniping Suit",
+        "slot": "Armour",
+        "status": "Attack Spd ＋6%, Flee ＋25, When Luck reaches 60, Crit.Dmg ＋3%, When Luck reaches 90, Crit.Dmg ＋4%, When Luck reaches 120, Crit.Dmg ＋5%, [Sniping Suit IV] ＋[Malang Snow Crab IV]: Agi ＋5, Crit.Dmg ＋10%"
     },
     {
         "imgsrc": null,
-        "name": "Studded Knuckles [2]",
-        "slot": "Knuckle",
-        "status": "VIT ＋6, Max HP ＋1600, Natural recovery of HP ＋15, Remove wearer's moving speed penalty in state -[Steel Body], [Studded Knuckles] ＋ [Saint's Cape IV]: Max HP ＋5%"
+        "name": "Sniping Suit [1]",
+        "slot": "Armour",
+        "status": "Attack Spd ＋6%, Flee ＋25, When Luck reaches 60, Crit.Dmg ＋3%, When Luck reaches 90, Crit.Dmg ＋4%, When Luck reaches 120, Crit.Dmg ＋5%, [Sniping Suit IV] ＋[Malang Snow Crab IV]: Agi ＋5, Crit.Dmg ＋10%"
     },
     {
         "imgsrc": null,
-        "name": "Student's Hat",
+        "name": "Snow Carol Costume",
+        "slot": "Armour",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Snow Mage Hat",
         "slot": "Head",
-        "status": "Dex ＋3, AGI ＋3"
-    },
-    {
-        "imgsrc": null,
-        "name": "Student's Hat [1]",
-        "slot": "Head",
-        "status": "Dex ＋3, AGI ＋3"
+        "status": "INT ＋2, Dex ＋2, Max SP ＋100"
     }
 ]

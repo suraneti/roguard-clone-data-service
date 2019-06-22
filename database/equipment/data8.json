@@ -1,15 +1,39 @@
 [
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_47020.png",
-        "name": "Arrow Bag",
-        "slot": "Wing",
-        "status": "Ranged Atk ＋7%"
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40025.png",
+        "name": "Army Spear",
+        "slot": "Spear",
+        "status": "Atk + 180"
     },
     {
-        "imgsrc": null,
-        "name": "Arrow Bag (For Goblin)",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40025.png",
+        "name": "Army Spear [2]",
+        "slot": "Spear",
+        "status": "Atk + 180"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40629.png",
+        "name": "Army Staff",
+        "slot": "Staff",
+        "status": "M.Atk + 87"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40629.png",
+        "name": "Army Staff [2]",
+        "slot": "Staff",
+        "status": "M.Atk + 87"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40333.png",
+        "name": "Army Sword",
         "slot": "Sword",
-        "status": ""
+        "status": "Atk + 144"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40333.png",
+        "name": "Army Sword [2]",
+        "slot": "Sword",
+        "status": "Atk + 144"
     },
     {
         "imgsrc": null,
@@ -42,13 +66,13 @@
         "status": "Def + 90"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40703.png",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40703.png",
         "name": "Assassin Dagger [2]",
         "slot": "Knife",
         "status": "Atk + 360"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40703.png",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40703.png",
         "name": "Assassin Dagger [3]",
         "slot": "Knife",
         "status": "Atk + 360"
@@ -72,7 +96,7 @@
         "status": ""
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40005.png",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40005.png",
         "name": "Assassin's Fishing Rod",
         "slot": "Spear",
         "status": ""
@@ -93,30 +117,6 @@
         "imgsrc": null,
         "name": "Astral·Lightning Bolt",
         "slot": "Knife",
-        "status": ""
-    },
-    {
-        "imgsrc": null,
-        "name": "Astral·Mage",
-        "slot": "Staff",
-        "status": ""
-    },
-    {
-        "imgsrc": null,
-        "name": "Astral·Reaper",
-        "slot": "Spear",
-        "status": ""
-    },
-    {
-        "imgsrc": null,
-        "name": "Astral·Star Elegy",
-        "slot": "Katar",
-        "status": ""
-    },
-    {
-        "imgsrc": null,
-        "name": "Astral·Star Eye",
-        "slot": "Bow",
         "status": ""
     }
 ]
