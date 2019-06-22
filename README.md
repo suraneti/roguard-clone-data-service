@@ -19,8 +19,8 @@ What things you need to install the software and how to install them
 ### Setup environments and running
 
 ```sh
-git clone https://suraneti@bitbucket.org/thainoveldev/roguard_clone_service.git
-cd roguard_clone_service
+git clone https://github.com/suraneti/roguard-clone-data-service.git
+cd roguard-clone-data-service
 npm install
 node app.js
 ```
