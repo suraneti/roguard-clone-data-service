@@ -1,122 +1,122 @@
 [
     {
-        "imgsrc": null,
-        "name": "Kaho’s Protection",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40301.png",
+        "name": "Honglyun's Sword [3]",
+        "slot": "Sword",
+        "status": "Atk + 180"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43005.png",
+        "name": "Hood [2]",
+        "slot": "Robe",
+        "status": "Def + 22"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_47018.png",
+        "name": "Horong",
         "slot": "Wing",
-        "status": "-10% earth and fire damage taken by Party members (self included) within a 5m radius. -1% earth and fire damage taken for each refining level"
+        "status": "Can use [Soul Strike] Lv.10"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_47015.png",
-        "name": "Katana",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45034.png",
+        "name": "Hot-blooded Headband",
+        "slot": "Head",
+        "status": "Def ＋5, Str ＋2"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45034.png",
+        "name": "Hot-blooded Headband [1]",
+        "slot": "Head",
+        "status": "Def ＋5, Str ＋2"
+    },
+    {
+        "imgsrc": null,
+        "name": "HP Potion",
+        "slot": "Head",
+        "status": "MAX HP ＋100, HP Regen ＋5"
+    },
+    {
+        "imgsrc": null,
+        "name": "HP Potion [1]",
+        "slot": "Head",
+        "status": "Dex ＋3, AGI ＋3"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41830.png",
+        "name": "Huge Axe",
+        "slot": "Axe",
+        "status": "Atk + 240"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41830.png",
+        "name": "Huge Axe [2]",
+        "slot": "Axe",
+        "status": "Atk + 240"
+    },
+    {
+        "imgsrc": null,
+        "name": "Hurricane Fury [1]",
+        "slot": "Axe",
+        "status": "Atk + 180"
+    },
+    {
+        "imgsrc": null,
+        "name": "Hurricane Fury [2]",
+        "slot": "Axe",
+        "status": "Atk + 180"
+    },
+    {
+        "imgsrc": null,
+        "name": "Hydra",
         "slot": "Wing",
-        "status": "Receive passive skill -[Double Attack] Lv.3"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40901.png",
-        "name": "Katar",
-        "slot": "Katar",
-        "status": "Atk + 87"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40905.png",
-        "name": "Katar of Frozen Icicle [2]",
-        "slot": "Katar",
-        "status": "Atk + 90"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40905.png",
-        "name": "Katar of Frozen Icicle [3]",
-        "slot": "Katar",
-        "status": "Atk + 90"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40905.png",
-        "name": "Katar of Piercing Wind [2]",
-        "slot": "Katar",
-        "status": "Atk + 90"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40905.png",
-        "name": "Katar of Piercing Wind [3]",
-        "slot": "Katar",
-        "status": "Atk + 90"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40904.png",
-        "name": "Katar of Quaking [1]",
-        "slot": "Katar",
-        "status": "Doubles Critical, Critical ＋5, Crit.Dmg ＋15%"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40904.png",
-        "name": "Katar of Quaking [2]",
-        "slot": "Katar",
-        "status": "Doubles Critical, Critical ＋5, Crit.Dmg ＋15%"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40905.png",
-        "name": "Katar of Raging Blaze [2]",
-        "slot": "Katar",
-        "status": "Atk + 90"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40905.png",
-        "name": "Katar of Raging Blaze [3]",
-        "slot": "Katar",
-        "status": "Atk + 90"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40901.png",
-        "name": "Katar [2]",
-        "slot": "Katar",
-        "status": "Atk + 87"
+        "status": "INT ＋8, M.Atk ＋15"
     },
     {
         "imgsrc": null,
-        "name": "Katyusha Wrapping Lace",
+        "name": "Hydrangea Hairpin",
         "slot": "Head",
-        "status": "Overall Ability ＋1, MDef ＋2%"
+        "status": "Max HP ＋500"
     },
     {
-        "imgsrc": null,
-        "name": "Key of Heaven",
-        "slot": "Mount",
-        "status": "Move Spd ＋50%"
-    },
-    {
-        "imgsrc": null,
-        "name": "King Joe Doll Hat ",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45171.png",
+        "name": "Hyegun Hat",
         "slot": "Head",
-        "status": "Def ＋2%,  MDef ＋2%"
+        "status": "Def ＋5, M.Def ＋5, Dmg Reduc. of devil race ＋10%"
     },
     {
-        "imgsrc": null,
-        "name": "King Joe Doll Hat [1]",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45171.png",
+        "name": "Hyegun Hat [1]",
         "slot": "Head",
-        "status": "Def ＋2%,  MDef ＋2%"
+        "status": "Def ＋5, M.Def ＋5, Dmg Reduc. of devil race ＋10%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40601.png",
+        "name": "Hypnotist's Staff [2]",
+        "slot": "Staff",
+        "status": "M.Atk + 180"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40601.png",
+        "name": "Hypnotist's Staff [3]",
+        "slot": "Staff",
+        "status": "M.Atk + 180"
     },
     {
         "imgsrc": null,
-        "name": "King Poring Series Headwear",
+        "name": "I'm Late!",
         "slot": "Head",
-        "status": "Overall Ability ＋1, Max HP ＋120"
+        "status": "Flee ＋5, Move Spd ＋3%"
     },
     {
         "imgsrc": null,
-        "name": "King Poring's Majesty",
+        "name": "I'm Late! [1]",
         "slot": "Head",
-        "status": "Overall Ability ＋1, Max HP ＋120"
+        "status": "Flee ＋5, Move Spd ＋3%"
     },
     {
         "imgsrc": null,
-        "name": "King Poring's Melancholy",
+        "name": "Ice Apple",
         "slot": "Head",
-        "status": "Overall Ability ＋1, Max HP ＋120"
-    },
-    {
-        "imgsrc": null,
-        "name": "Kirin Wing",
-        "slot": "Wing",
-        "status": "No effect"
+        "status": "Dex ＋3, AGI ＋3"
     }
 ]

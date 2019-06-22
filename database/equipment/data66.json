@@ -1,122 +1,122 @@
 [
     {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41519.png",
+        "name": "Holy Stick [1]",
+        "slot": "Staff",
+        "status": "M.Atk ＋10%, CT Variable of [Holy Light Strike], [Turn Undead], [Magnus Exorcismus Attack] -25%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41519.png",
+        "name": "Holy Stick [2]",
+        "slot": "Staff",
+        "status": "M.Atk ＋10%, CT Variable of [Holy Light Strike], [Turn Undead], [Magnus Exorcismus Attack] -25%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40905.png",
+        "name": "Holy Wing Katar [2]",
+        "slot": "Katar",
+        "status": "Atk + 90"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40905.png",
+        "name": "Holy Wing Katar [3]",
+        "slot": "Katar",
+        "status": "Atk + 90"
+    },
+    {
         "imgsrc": null,
-        "name": "Judger [2]",
+        "name": "Holy·Gern Dahl's anthem",
         "slot": "Staff",
         "status": ""
     },
     {
         "imgsrc": null,
-        "name": "Juno Garrison",
-        "slot": "Head",
+        "name": "Holy·Gore's Roar hammer",
+        "slot": "Mace",
         "status": ""
     },
     {
         "imgsrc": null,
-        "name": "Juno Garrison [1]",
-        "slot": "Head",
+        "name": "Holy·Gus's shadow fist",
+        "slot": "Knuckle",
         "status": ""
     },
     {
         "imgsrc": null,
-        "name": "Juno Soldier's Hat",
-        "slot": "Wing",
+        "name": "Holy·Hayfjord's star slayer bow",
+        "slot": "Bow",
         "status": ""
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40905.png",
-        "name": "Jur",
+        "imgsrc": null,
+        "name": "Holy·Hillock's broken sword",
+        "slot": "Sword",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Holy·Jolo's Glory Spear",
+        "slot": "Spear",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Holy·Mist's illusion Blade",
         "slot": "Katar",
-        "status": "Atk + 72"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40905.png",
-        "name": "Jur [2]",
-        "slot": "Katar",
-        "status": "Atk + 72"
+        "status": ""
     },
     {
         "imgsrc": null,
-        "name": "Kafra Band",
+        "name": "Holy·Reginleif's Rage",
+        "slot": "Knife",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Holy·Skullgrid's War Axe",
+        "slot": "Axe",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Holy·The shield of Landy Grace",
+        "slot": "Shield",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Honey cake",
         "slot": "Head",
         "status": "Dex ＋3, AGI ＋3"
     },
     {
         "imgsrc": null,
-        "name": "Kafra Band [1]",
+        "name": "Honey Cake [1]",
         "slot": "Head",
         "status": "Dex ＋3, AGI ＋3"
     },
     {
         "imgsrc": null,
-        "name": "Kafra Headwear Color 1",
-        "slot": "Head",
-        "status": ""
-    },
-    {
-        "imgsrc": null,
-        "name": "Kafra Headwear Color 2",
-        "slot": "Head",
-        "status": ""
-    },
-    {
-        "imgsrc": null,
-        "name": "Kafra Headwear Color 3",
-        "slot": "Head",
-        "status": ""
-    },
-    {
-        "imgsrc": null,
-        "name": "Kafra Summer cone",
-        "slot": "Head",
-        "status": "Fire damage taken - 3%, Damage to Fire Monsters ＋3%"
-    },
-    {
-        "imgsrc": null,
-        "name": "Kafra Tail Color 1",
-        "slot": "Tail",
-        "status": ""
-    },
-    {
-        "imgsrc": null,
-        "name": "Kafra Tail Color 2",
-        "slot": "Tail",
-        "status": ""
-    },
-    {
-        "imgsrc": null,
-        "name": "Kafra Tail Color 3",
-        "slot": "Tail",
-        "status": ""
-    },
-    {
-        "imgsrc": null,
-        "name": "Kafra Wing Color 1",
+        "name": "Honey Chocolate",
         "slot": "Wing",
-        "status": ""
+        "status": "Dmg to Shellfish +10%, Dmg Taken from Shellfish -10%"
     },
     {
         "imgsrc": null,
-        "name": "Kafra Wing Color 2",
-        "slot": "Wing",
-        "status": ""
+        "name": "Honey Jar",
+        "slot": "Head",
+        "status": "Max SP ＋100, SP Regen ＋1"
     },
     {
         "imgsrc": null,
-        "name": "Kafra Wing Color 3",
-        "slot": "Wing",
-        "status": ""
-    },
-    {
-        "imgsrc": null,
-        "name": "Kafra's Headwear",
+        "name": "Honey Jar [1]",
         "slot": "Head",
         "status": "Dex ＋3, AGI ＋3"
     },
     {
-        "imgsrc": null,
-        "name": "Kafra's Headwear [1]",
-        "slot": "Head",
-        "status": "Dex ＋3, AGI ＋3"
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40301.png",
+        "name": "Honglyun's Sword [2]",
+        "slot": "Sword",
+        "status": "Atk + 180"
     }
 ]

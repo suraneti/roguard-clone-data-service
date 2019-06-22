@@ -1,122 +1,122 @@
 [
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42042.png",
-        "name": "Orleans's Gown",
-        "slot": "Armour",
-        "status": "CT Variable ＋20%, The skill's effect will not be interrupted"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42042.png",
-        "name": "Orleans's Gown [1]",
-        "slot": "Armour",
-        "status": "CT Variable ＋20%, The skill's effect will not be interrupted"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42525.png",
-        "name": "Orleans's Server",
-        "slot": "Shield",
-        "status": "M.Dmg Reflect ＋10%, M.Def ＋50"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42525.png",
-        "name": "Orleans's Server [1]",
-        "slot": "Shield",
-        "status": "M.Dmg Reflect ＋10%, M.Def ＋50"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/21.png",
-        "name": "Ostrich",
-        "slot": "Mount",
-        "status": "Move Spd ＋75%"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/21.png",
-        "name": "Ostrich",
-        "slot": "Mount",
-        "status": "Move Spd ＋75%"
-    },
-    {
         "imgsrc": null,
-        "name": "Ouch! Kobold",
+        "name": "Moonlight Mage·Demon Purple",
         "slot": "Head",
-        "status": "M.Def ＋5%, Max HP ＋200"
+        "status": "Str ＋4, Max HP ＋500, Max SP ＋50"
     },
     {
         "imgsrc": null,
-        "name": "Ouch! Kobold [1]",
+        "name": "Moonlight Mage·Nightmare Blue",
         "slot": "Head",
-        "status": "M.Def ＋5%, Max HP ＋200"
+        "status": "Str ＋4, Max HP ＋500, Max SP ＋50"
     },
     {
         "imgsrc": null,
-        "name": "Ouroboros Axe",
-        "slot": "Axe",
+        "name": "Moonlight Mischief Rabbit Hat",
+        "slot": "Head",
+        "status": "INT ＋4, Max HP ＋500, Max SP ＋50"
+    },
+    {
+        "imgsrc": null,
+        "name": "Moonlight Mischief Rabbit Hat·Ice Blue",
+        "slot": "Head",
+        "status": "INT ＋4, Max HP ＋500, Max SP ＋50"
+    },
+    {
+        "imgsrc": null,
+        "name": "Moonlight Mischief Rabbit Hat·Jelly Purple",
+        "slot": "Head",
+        "status": "INT ＋4, Max HP ＋500, Max SP ＋50"
+    },
+    {
+        "imgsrc": null,
+        "name": "Moonlight Mischief Rabbit Hat·Muka Brown",
+        "slot": "Head",
+        "status": "INT ＋4, Max HP ＋500, Max SP ＋50"
+    },
+    {
+        "imgsrc": null,
+        "name": "Moonlight Mischief Rabbit Hat·Strawberry Red",
+        "slot": "Head",
+        "status": "INT ＋4, Max HP ＋500, Max SP ＋50"
+    },
+    {
+        "imgsrc": null,
+        "name": "Moonlight Sweetheart·Ice Blue",
+        "slot": "Armour",
         "status": ""
     },
     {
         "imgsrc": null,
-        "name": "Ouroboros Blade",
-        "slot": "Knife",
+        "name": "Moonlight Sweetheart·Jelly Purple",
+        "slot": "Armour",
         "status": ""
     },
     {
         "imgsrc": null,
-        "name": "Ouroboros Bow",
-        "slot": "Bow",
+        "name": "Moonlight Sweetheart·Muka Brown",
+        "slot": "Armour",
         "status": ""
     },
     {
         "imgsrc": null,
-        "name": "Ouroboros Boxing Gloves",
-        "slot": "Knuckle",
+        "name": "Moonlight Sweetheart·Strawberry Red",
+        "slot": "Armour",
         "status": ""
     },
     {
-        "imgsrc": null,
-        "name": "Ouroboros Hammer",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41505.png",
+        "name": "Morning Star",
         "slot": "Mace",
-        "status": ""
+        "status": "Atk + 180"
     },
     {
-        "imgsrc": null,
-        "name": "Ouroboros Katar",
-        "slot": "Katar",
-        "status": ""
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41505.png",
+        "name": "Morning Star [2]",
+        "slot": "Mace",
+        "status": "Atk + 180"
     },
     {
-        "imgsrc": null,
-        "name": "Ouroboros Shield",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42523.png",
+        "name": "Morpheus's Bracelet",
         "slot": "Shield",
-        "status": ""
+        "status": "Def + 24"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42523.png",
+        "name": "Morpheus's Bracelet [1]",
+        "slot": "Shield",
+        "status": "Def + 24"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45120.png",
+        "name": "Morpheus's Hood",
+        "slot": "Head",
+        "status": "Def ＋5, INT ＋2"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45120.png",
+        "name": "Morpheus's Hood [1]",
+        "slot": "Head",
+        "status": "Def ＋5, INT ＋2"
     },
     {
         "imgsrc": null,
-        "name": "Ouroboros Spear",
-        "slot": "Spear",
-        "status": ""
+        "name": "Morpheus's Shawl [1]",
+        "slot": "Robe",
+        "status": "Def + 90"
     },
     {
         "imgsrc": null,
-        "name": "Ouroboros Staff",
-        "slot": "Staff",
-        "status": ""
+        "name": "Morpheus's Shawl [2]",
+        "slot": "Robe",
+        "status": "Def + 90"
     },
     {
         "imgsrc": null,
-        "name": "Ouroboros Sword",
-        "slot": "Sword",
-        "status": ""
-    },
-    {
-        "imgsrc": null,
-        "name": "Overclock [1]",
-        "slot": "Trolley",
-        "status": "Def + 112"
-    },
-    {
-        "imgsrc": null,
-        "name": "Overclock [2]",
-        "slot": "Trolley",
-        "status": "Def + 112"
+        "name": "Morrigane's Helm",
+        "slot": "Head",
+        "status": "No effect"
     }
 ]

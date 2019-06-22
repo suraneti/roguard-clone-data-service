@@ -1,122 +1,122 @@
 [
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40703.png",
-        "name": "Kitchen Knife [2]",
+        "imgsrc": null,
+        "name": "Ice Apple [1]",
+        "slot": "Head",
+        "status": "Dex ＋3, Ranged Dmg ＋3%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Ice Penguin",
+        "slot": "Head",
+        "status": "Max SP ＋50"
+    },
+    {
+        "imgsrc": null,
+        "name": "Ice Pick [1]",
+        "slot": "Knife",
+        "status": "Max HP ＋300, Luk ＋3, Ignore Def ＋25%, For Refining ＋5, ＋10, ＋15, the basic trigger probability of [Strip Accessory] and [Strip Shield] ＋5%, ＋5%, 10% respectively"
+    },
+    {
+        "imgsrc": null,
+        "name": "Ice Pick [2]",
+        "slot": "Knife",
+        "status": "Max HP ＋300, Luk ＋3, Ignore Def ＋25%, For Refining ＋5, ＋10, ＋15, the basic trigger probability of [Strip Accessory] and [Strip Shield] ＋5%, ＋5%, 10% respectively"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40703.png",
+        "name": "Ice Pick [3]",
         "slot": "Knife",
         "status": "Atk + 360"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40703.png",
-        "name": "Kitchen Knife [3]",
-        "slot": "Knife",
-        "status": "Atk + 360"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_48539.png",
-        "name": "Kitsune Mask",
+        "imgsrc": null,
+        "name": "Ice Poring Clip",
         "slot": "Head",
-        "status": "Def ＋10, Agi ＋1, Luk ＋1"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_48539.png",
-        "name": "Kitsune Mask [1]",
-        "slot": "Head",
-        "status": "Def ＋10, Agi ＋1, Luk ＋1"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45002.png",
-        "name": "Kitty Band",
-        "slot": "Head",
-        "status": "Def ＋10"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45002.png",
-        "name": "Kitty Band [1]",
-        "slot": "Head",
-        "status": "Def ＋10"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40701.png",
-        "name": "Knife [2]",
-        "slot": "Knife",
-        "status": "Atk + 12"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40701.png",
-        "name": "Knife [3]",
-        "slot": "Knife",
-        "status": "Atk + 12"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40005.png",
-        "name": "Knight Spear",
-        "slot": "Spear",
-        "status": "Atk + 247"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40005.png",
-        "name": "Knight Spear [3]",
-        "slot": "Spear",
-        "status": "Atk + 247"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40301.png",
-        "name": "Knight's Sword",
-        "slot": "Sword",
-        "status": ""
+        "status": "M.Def ＋5"
     },
     {
         "imgsrc": null,
-        "name": "Knowledge Master",
-        "slot": "Wing",
-        "status": "Atk ＋30, Critical ＋3"
+        "name": "Ice Poring Clip [1]",
+        "slot": "Head",
+        "status": "M.Def ＋5"
     },
     {
         "imgsrc": null,
-        "name": "Knuckle Dusters [1]",
-        "slot": "Knuckle",
-        "status": "VIT ＋3, Max HP ＋800, Natural Recovery of HP ＋10"
-    },
-    {
-        "imgsrc": null,
-        "name": "Knuckle Dusters [2]",
-        "slot": "Knuckle",
-        "status": "VIT ＋3, Max HP ＋800, Natural Recovery of HP ＋10"
-    },
-    {
-        "imgsrc": null,
-        "name": "Knuckles",
+        "name": "Icicle Fist [1]",
         "slot": "Knuckle",
         "status": "Atk + 140"
     },
     {
         "imgsrc": null,
-        "name": "Knuckles [2]",
+        "name": "Icicle Fist [2]",
         "slot": "Knuckle",
         "status": "Atk + 140"
     },
     {
         "imgsrc": null,
-        "name": "Kobold Bow",
-        "slot": "Bow",
-        "status": ""
+        "name": "Icy Brand",
+        "slot": "Face",
+        "status": "Water Dmg ＋10%, Every 15 seconds, set enemies in a 2-meter range into frozen state"
     },
     {
         "imgsrc": null,
-        "name": "Kobold Leader Blade",
+        "name": "Ignus Steel [1]",
+        "slot": "Axe",
+        "status": "Atk + 180"
+    },
+    {
+        "imgsrc": null,
+        "name": "Ignus Steel [2]",
+        "slot": "Axe",
+        "status": "Atk + 180"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40301.png",
+        "name": "Immaterial Sword[2]",
         "slot": "Sword",
-        "status": ""
+        "status": "Atk + 180"
     },
     {
-        "imgsrc": null,
-        "name": "Kobold Leader Shield",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40301.png",
+        "name": "Immaterial Sword[3]",
         "slot": "Sword",
+        "status": "Atk + 180"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_60009.png",
+        "name": "Immortal Orb",
+        "slot": "Orb",
+        "status": "Def + 37"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_60009.png",
+        "name": "Immortal Orb [1]",
+        "slot": "Orb",
+        "status": "Def + 37"
+    },
+    {
+        "imgsrc": null,
+        "name": "Impact Hammer",
+        "slot": "Mace",
         "status": ""
     },
     {
         "imgsrc": null,
-        "name": "Krishna Gloves [1]",
-        "slot": "Bracer",
-        "status": "Def + 112"
+        "name": "Imperial Armor",
+        "slot": "Armour",
+        "status": "MDef ＋63,  Max HP ＋2000, After using [Devotion], restores 2% of Max HP every 5s for 60s, ＋2% Max HP for each refining level gained after reaching refining ＋10 (Up to 10%)"
+    },
+    {
+        "imgsrc": null,
+        "name": "Imperial Armor [1]",
+        "slot": "Armour",
+        "status": "MDef ＋63,  Max HP ＋2000, After using [Devotion], restores 2% of Max HP every 5s for 60s, ＋2% Max HP for each refining level gained after reaching refining ＋10 (Up to 10%)"
+    },
+    {
+        "imgsrc": null,
+        "name": "Imperial Gryphon",
+        "slot": "Mount",
+        "status": "Move Spd ＋25%"
     }
 ]

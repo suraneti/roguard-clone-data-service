@@ -1,122 +1,122 @@
 [
     {
         "imgsrc": null,
-        "name": "Heart Breaker [1]",
-        "slot": "Axe",
-        "status": "ASPD ＋10%, Cri ＋15, For Refining ＋5, ＋10, ＋15, Crit.Dmg ＋5%, ＋10%, ＋15%, Refining increases by 1, Damage of auto attack increases by 3%"
+        "name": "Goshawk Gryphon",
+        "slot": "Mount",
+        "status": "Move Spd ＋25%"
     },
     {
         "imgsrc": null,
-        "name": "Heart Breaker [2]",
-        "slot": "Axe",
-        "status": "ASPD ＋10%, Cri ＋15, For Refining ＋5, ＋10, ＋15, Crit.Dmg ＋5%, ＋10%, ＋15%, Refining increases by 1, Damage of auto attack increases by 3%"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45077.png",
-        "name": "Heart Hairpin",
-        "slot": "Head",
-        "status": "Def ＋5"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45077.png",
-        "name": "Heart Hairpin [1]",
-        "slot": "Head",
-        "status": "Def ＋5"
-    },
-    {
-        "imgsrc": null,
-        "name": "Heart of Ice and Fire",
-        "slot": "Axe",
+        "name": "Gospel of Awakening",
+        "slot": "Book",
         "status": ""
     },
     {
-        "imgsrc": null,
-        "name": "Heart Sunglasses",
-        "slot": "Face",
-        "status": "Max SP ＋50"
-    },
-    {
-        "imgsrc": null,
-        "name": "Heavy Spear [1]",
-        "slot": "Spear",
-        "status": "Str ＋8, Equipment ASPD ＋15%, Holy Dmg ＋20%"
-    },
-    {
-        "imgsrc": null,
-        "name": "Heavy Spear [2]",
-        "slot": "Spear",
-        "status": "Str ＋8, Equipment ASPD ＋15%, Holy Dmg ＋20%"
-    },
-    {
-        "imgsrc": null,
-        "name": "Hector Sword",
-        "slot": "Sword",
-        "status": ""
-    },
-    {
-        "imgsrc": null,
-        "name": "Hellfire [2]",
-        "slot": "Spear",
-        "status": "Atk + 247"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40005.png",
-        "name": "Hellfire [3]",
-        "slot": "Spear",
-        "status": "Atk + 247"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45097.png",
-        "name": "Helm",
-        "slot": "Head",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_48508.png",
+        "name": "Grampa Beard",
+        "slot": "Mouth",
         "status": "Def ＋10"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45109.png",
-        "name": "Helm of Angel",
+        "imgsrc": null,
+        "name": "Grand Chef·Broth",
         "slot": "Head",
-        "status": "Agi ＋2, Luk ＋2, M.Def ＋10, For Refining ＋1Flee ＋1% (upper limit of increase is 15%)"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45109.png",
-        "name": "Helm of Angel [1]",
-        "slot": "Head",
-        "status": "Agi ＋2, Luk ＋2, M.Def ＋10, For Refining ＋1Flee ＋1% (upper limit of increase is 15%)"
+        "status": "Max HP ＋50, INT ＋2"
     },
     {
         "imgsrc": null,
-        "name": "Helm of Darkness",
+        "name": "Grand Chef·Cookie",
         "slot": "Head",
-        "status": "No effect"
+        "status": "Atk ＋10, M.Atk ＋10, Agi ＋1"
     },
     {
         "imgsrc": null,
-        "name": "Helm of Darkness [1]",
+        "name": "Grand Chef·Fish Kebab",
         "slot": "Head",
-        "status": "No effect"
+        "status": "Max HP ＋50, Luk ＋2"
     },
     {
         "imgsrc": null,
-        "name": "Helm Of Dragon",
+        "name": "Grand Chef·Fish Soup",
         "slot": "Head",
-        "status": "No effect"
+        "status": "Atk ＋10, M.Atk ＋10, Str ＋1"
     },
     {
         "imgsrc": null,
-        "name": "Helm Of Dragon [1]",
+        "name": "Grand Chef·Fish Steak",
         "slot": "Head",
-        "status": "No effect"
+        "status": "Max HP ＋50, Dex ＋2"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45097.png",
-        "name": "Helm [1]",
+        "imgsrc": null,
+        "name": "Grand Chef·Green BBQ",
         "slot": "Head",
-        "status": "Def ＋10"
+        "status": "Atk ＋10, M.Atk ＋10, INT ＋1"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45050.png",
-        "name": "Helmet of Orc Hero",
+        "imgsrc": null,
+        "name": "Grand Chef·Ice Cream",
         "slot": "Head",
-        "status": "Str ＋2, VIT ＋2, When Refining reaches ＋10, Melee Dmg ＋10%"
+        "status": "Atk ＋10, M.Atk ＋10, Luk ＋1"
+    },
+    {
+        "imgsrc": null,
+        "name": "Grand Chef·Juice",
+        "slot": "Head",
+        "status": "Max HP ＋50, Agi ＋2"
+    },
+    {
+        "imgsrc": null,
+        "name": "Grand Chef·Meat Kebab",
+        "slot": "Head",
+        "status": "Max HP ＋50, VIT ＋2"
+    },
+    {
+        "imgsrc": null,
+        "name": "Grand Chef·Meat Steak",
+        "slot": "Head",
+        "status": "Max HP ＋50, Str ＋2"
+    },
+    {
+        "imgsrc": null,
+        "name": "Grand Chef·Salad",
+        "slot": "Head",
+        "status": "Atk ＋10, M.Atk ＋10, VIT ＋1"
+    },
+    {
+        "imgsrc": null,
+        "name": "Grand Chef·Vegetable Soup",
+        "slot": "Head",
+        "status": "Atk ＋10, M.Atk ＋10, Dex ＋1"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45056.png",
+        "name": "Grand Circlet",
+        "slot": "Head",
+        "status": "Str ＋1, Int ＋1, Luk ＋1, When Refining ＋10, Max HP ＋1000"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45056.png",
+        "name": "Grand Circlet [1]",
+        "slot": "Head",
+        "status": "Str ＋1, Int ＋1, Luk ＋1, When Refining ＋10, Max HP ＋1000"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41808.png",
+        "name": "Great Axe [1]",
+        "slot": "Axe",
+        "status": "Atk + 135"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41808.png",
+        "name": "Great Axe [2]",
+        "slot": "Axe",
+        "status": "Atk + 135"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43516.png",
+        "name": "Greaves",
+        "slot": "Shoes",
+        "status": "Move Spd ＋8%, Def ＋12, HP Regen ＋5, Green Steel Pike IV ＋ Greaves  VII ＋ Stone Buckler IV: Ignores 5% Def, ＋5% Atk"
     }
 ]

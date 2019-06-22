@@ -25,7 +25,7 @@ function serializeMonsterData(pages, callback) {
         const dom = new JSDOM(resp.serialize());
         const tbody = dom.window.document.querySelector('tbody').innerHTML
         const match = tbody.match(/<tr[\s\S]*?<\/tr>/g)
-
+        
         const monsterData = [];
 
         match.forEach(element => {
@@ -33,10 +33,12 @@ function serializeMonsterData(pages, callback) {
             const monsterName = element.match(/<a (.*)>(.+?)<\/a>/)[2]
             const monsterElement = element.match(/<div style="color: (.*);">(.+?) • (.*)<\/div>/)[2];
             const monsterRace = element.match(/<div style="color: (.*);">(.+?) • (.*)<\/div>/)[3];
-            const monsterInfo = element.match(/<td><div>(.+?)<\/div><div>(.+?)<\/div><\/td>/)
+            const monsterInfo = element.match(/<td (.*)><div>(.+?)<\/div><div>(.+?)<\/div><\/td>/)
+
+            // Extract monsterInfo
             const monsterLevel = monsterInfo[1]
             const monsterHp = monsterInfo[2]
-            const monsterExp = element.match(/<td><div>(.* Base Exp)<\/div><div>(.* Job Exp)<\/div><\/td>/)
+            const monsterExp = element.match(/<td (.*)><div>(.* Base Exp)<\/div><div>(.* Job Exp)<\/div><\/td>/)
             const monsterBaseExp = monsterExp[1]
             const monsterJobExp = monsterExp[2]
             const monsterUrl = element.match(/<a href="(.*)">/)[1]

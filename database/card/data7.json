@@ -1,92 +1,23 @@
 [
     {
-        "imgsrc": "s01.cdn.roguard.net/content/img/cards/card_10095.jpg",
-        "name": "Joker Card",
-        "effect": "Can use skill - [Stone Curse] Lv.5",
-        "perma_buff": "M.Atk ＋1.5",
-        "card_slot": "unknown",
-        "card_type": "unknown",
+        "imgsrc": "s01.cdn.roguard.net/content/img/cards/card_20011.jpg",
+        "name": "Jakk Card",
+        "effect": "Fire Dmg Taken -30%, Flee ＋10",
+        "perma_buff": "Max HP ＋84",
+        "card_slot": "Garment",
+        "card_type": "Mini Boss",
         "metadata": {
             "common_data": {
                 "level": "0",
                 "max_stack": "9999",
                 "sellable": "Yes",
-                "sell_price": "5,000",
+                "sell_price": "50,000",
                 "auctionable": "Yes",
                 "storageable": "Yes"
             },
             "drop_data": {
-                "dropped_by": "Joker",
-                "monster_level": "Lv 96 Monster",
-                "drop_rate": "?%"
-            }
-        }
-    },
-    {
-        "imgsrc": "s01.cdn.roguard.net/content/img/cards/card_10106.jpg",
-        "name": "Kobold Archer Card",
-        "effect": "Crit.Dmg ＋10%, Crit to plant monsters ＋20",
-        "perma_buff": "Max HP ＋24",
-        "card_slot": "unknown",
-        "card_type": "unknown",
-        "metadata": {
-            "common_data": {
-                "level": "0",
-                "max_stack": "9999",
-                "sellable": "Yes",
-                "sell_price": "5,000",
-                "auctionable": "Yes",
-                "storageable": "Yes"
-            },
-            "drop_data": {
-                "dropped_by": "Kobold Archer",
-                "monster_level": "Lv 75 Monster",
-                "drop_rate": "?%"
-            }
-        }
-    },
-    {
-        "imgsrc": "s01.cdn.roguard.net/content/img/cards/card_10009.jpg",
-        "name": "Male Thief Bug Card",
-        "effect": "Equipment ASPD ＋3%",
-        "perma_buff": "Atk ＋6",
-        "card_slot": "Footgear",
-        "card_type": "Normal",
-        "metadata": {
-            "common_data": {
-                "level": "0",
-                "max_stack": "9999",
-                "sellable": "Yes",
-                "sell_price": "2,000",
-                "auctionable": "Yes",
-                "storageable": "Yes"
-            },
-            "drop_data": {
-                "dropped_by": "Thief Bug Male ★",
-                "monster_level": "Lv 20 Monster",
-                "drop_rate": "?%"
-            }
-        }
-    },
-    {
-        "imgsrc": null,
-        "name": "Mandragora Card",
-        "effect": "auto attack has a 5% chance to set the target into fearing state for a certain period",
-        "perma_buff": "Max HP ＋24",
-        "card_slot": "Weapon",
-        "card_type": "Normal",
-        "metadata": {
-            "common_data": {
-                "level": "9999",
-                "max_stack": "Yes",
-                "sellable": "50,000",
-                "sell_price": "Yes",
-                "auctionable": "Yes",
-                "storageable": "unknown"
-            },
-            "drop_data": {
-                "dropped_by": "Mandragora Seed",
-                "monster_level": "Lv 1 Monster",
+                "dropped_by": "Jakk",
+                "monster_level": "Lv 80 Mini Boss",
                 "drop_rate": "?%"
             }
         }
@@ -96,8 +27,8 @@
         "name": "Kaho Card",
         "effect": "Damage to earth monsters ＋15%",
         "perma_buff": "Max HP ＋28",
-        "card_slot": "unknown",
-        "card_type": "unknown",
+        "card_slot": "Accecssory",
+        "card_type": "Normal",
         "metadata": {
             "common_data": {
                 "level": "9999",
@@ -106,6 +37,57 @@
                 "sell_price": "Yes",
                 "auctionable": "Yes",
                 "storageable": "unknown"
+            },
+            "drop_data": {
+                "dropped_by": "no drop",
+                "monster_level": "unknown",
+                "drop_rate": "unknown"
+            }
+        }
+    },
+    {
+        "imgsrc": null,
+        "name": "King Poring's Gift",
+        "effect": "M.Def ＋1",
+        "perma_buff": "",
+        "card_slot": "Headgear",
+        "card_type": "Normal",
+        "metadata": {
+            "common_data": {
+                "level": "9999",
+                "max_stack": "Yes",
+                "sellable": "2,000",
+                "sell_price": "No",
+                "auctionable": "No",
+                "storageable": "unknown"
+            },
+            "drop_data": {
+                "dropped_by": "Gashapon Test Pack (F)",
+                "monster_level": "",
+                "drop_rate": "unknown"
+            }
+        }
+    },
+    {
+        "imgsrc": null,
+        "name": "Leader’s Demeanor Card",
+        "effect": "[Lord's Aura] increases Atk of the whole Party by ＋8%",
+        "perma_buff": "Max HP ＋112",
+        "card_slot": "Armor",
+        "card_type": "Normal",
+        "metadata": {
+            "common_data": {
+                "level": "9999",
+                "max_stack": "Yes",
+                "sellable": "50,000",
+                "sell_price": "Yes",
+                "auctionable": "Yes",
+                "storageable": "unknown"
+            },
+            "drop_data": {
+                "dropped_by": "no drop",
+                "monster_level": "unknown",
+                "drop_rate": "unknown"
             }
         }
     },
@@ -114,8 +96,8 @@
         "name": "Kukre Card",
         "effect": "Agi ＋3, Luk ＋2",
         "perma_buff": "Max HP ＋28",
-        "card_slot": "unknown",
-        "card_type": "unknown",
+        "card_slot": "Accecssory",
+        "card_type": "Normal",
         "metadata": {
             "common_data": {
                 "level": "9999",
@@ -124,39 +106,21 @@
                 "sell_price": "Yes",
                 "auctionable": "Yes",
                 "storageable": "unknown"
-            }
-        }
-    },
-    {
-        "imgsrc": "s01.cdn.roguard.net/content/img/cards/card_10048.jpg",
-        "name": "Magnolia Card",
-        "effect": "auto attack has a 5% chance to restore 30 points of SP for the caster",
-        "perma_buff": "M.Def ＋2",
-        "card_slot": "unknown",
-        "card_type": "unknown",
-        "metadata": {
-            "common_data": {
-                "level": "0",
-                "max_stack": "9999",
-                "sellable": "Yes",
-                "sell_price": "5,000",
-                "auctionable": "Yes",
-                "storageable": "Yes"
             },
             "drop_data": {
-                "dropped_by": "Magnolia",
-                "monster_level": "Lv 51 Monster",
-                "drop_rate": "?%"
+                "dropped_by": "no drop",
+                "monster_level": "unknown",
+                "drop_rate": "unknown"
             }
         }
     },
     {
         "imgsrc": null,
-        "name": "Luciola Vespa Card",
-        "effect": "Wind Dmg Taken -15%, Damage to Wind Monsters ＋5%",
-        "perma_buff": "Max HP ＋28",
-        "card_slot": "unknown",
-        "card_type": "unknown",
+        "name": "Lunatic★Card",
+        "effect": "Cri.Res ＋30",
+        "perma_buff": "Damage taken from players during PVP (GVG) -2%",
+        "card_slot": "Shield",
+        "card_type": "Normal",
         "metadata": {
             "common_data": {
                 "level": "9999",
@@ -165,16 +129,67 @@
                 "sell_price": "Yes",
                 "auctionable": "Yes",
                 "storageable": "unknown"
+            },
+            "drop_data": {
+                "dropped_by": "no drop",
+                "monster_level": "unknown",
+                "drop_rate": "unknown"
+            }
+        }
+    },
+    {
+        "imgsrc": null,
+        "name": "Magic Snake Card",
+        "effect": "INT ＋1, MPen. ＋2%",
+        "perma_buff": "Max HP ＋60",
+        "card_slot": "Accecssory",
+        "card_type": "Normal",
+        "metadata": {
+            "common_data": {
+                "level": "9999",
+                "max_stack": "Yes",
+                "sellable": "50,000",
+                "sell_price": "Yes",
+                "auctionable": "Yes",
+                "storageable": "unknown"
+            },
+            "drop_data": {
+                "dropped_by": "unknown",
+                "monster_level": "",
+                "drop_rate": "unknown"
+            }
+        }
+    },
+    {
+        "imgsrc": null,
+        "name": "Magic Snowbear Card",
+        "effect": "Max SP ＋200",
+        "perma_buff": "Max SP ＋5",
+        "card_slot": "Armor",
+        "card_type": "Normal",
+        "metadata": {
+            "common_data": {
+                "level": "9999",
+                "max_stack": "Yes",
+                "sellable": "60",
+                "sell_price": "Yes",
+                "auctionable": "Yes",
+                "storageable": "unknown"
+            },
+            "drop_data": {
+                "dropped_by": "no drop",
+                "monster_level": "unknown",
+                "drop_rate": "unknown"
             }
         }
     },
     {
         "imgsrc": "s01.cdn.roguard.net/content/img/cards/card_30024.jpg",
         "name": "Kobold Leader Card",
-        "effect": "Melee skill that deals Dmg and locks the targets will bring HP Regen equal to 5% damage",
+        "effect": "Melee single target skill has 5% lifesteal",
         "perma_buff": "Max HP ＋112",
-        "card_slot": "unknown",
-        "card_type": "unknown",
+        "card_slot": "Weapon",
+        "card_type": "MVP",
         "metadata": {
             "common_data": {
                 "level": "0",
@@ -192,12 +207,104 @@
         }
     },
     {
-        "imgsrc": "s01.cdn.roguard.net/content/img/cards/card_10015.jpg",
-        "name": "Mandragora Card",
-        "effect": "Damage to wind monsters ＋20%",
-        "perma_buff": "Damage to wind monster ＋2%",
-        "card_slot": "unknown",
-        "card_type": "unknown",
+        "imgsrc": null,
+        "name": "Luciola Vespa Card",
+        "effect": "Wind Dmg Taken -15%, Dmg to Wind Monsters ＋5%",
+        "perma_buff": "Max HP ＋28",
+        "card_slot": "Shield",
+        "card_type": "Normal",
+        "metadata": {
+            "common_data": {
+                "level": "9999",
+                "max_stack": "Yes",
+                "sellable": "50,000",
+                "sell_price": "Yes",
+                "auctionable": "Yes",
+                "storageable": "unknown"
+            },
+            "drop_data": {
+                "dropped_by": "Gorgeous Card Album",
+                "monster_level": "",
+                "drop_rate": ""
+            }
+        }
+    },
+    {
+        "imgsrc": null,
+        "name": "Kraken Card",
+        "effect": "",
+        "perma_buff": "",
+        "card_slot": "Armor",
+        "card_type": "MVP",
+        "metadata": {
+            "common_data": {
+                "level": "9999",
+                "max_stack": "Yes",
+                "sellable": "100",
+                "sell_price": "No",
+                "auctionable": "Yes",
+                "storageable": "unknown"
+            },
+            "drop_data": {
+                "dropped_by": "no drop",
+                "monster_level": "unknown",
+                "drop_rate": "unknown"
+            }
+        }
+    },
+    {
+        "imgsrc": null,
+        "name": "Light Fairy Card",
+        "effect": "Blue Gemstone cost by [Magnus Exorcismus] -1",
+        "perma_buff": "M.Atk ＋6",
+        "card_slot": "Weapon",
+        "card_type": "Normal",
+        "metadata": {
+            "common_data": {
+                "level": "9999",
+                "max_stack": "Yes",
+                "sellable": "100",
+                "sell_price": "Yes",
+                "auctionable": "Yes",
+                "storageable": "unknown"
+            },
+            "drop_data": {
+                "dropped_by": "no drop",
+                "monster_level": "unknown",
+                "drop_rate": "unknown"
+            }
+        }
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/cards/card_10053.jpg",
+        "name": "Isis Card",
+        "effect": "Dark Dmg Taken -15%",
+        "perma_buff": "Max SP ＋20",
+        "card_slot": "Garment",
+        "card_type": "Normal",
+        "metadata": {
+            "common_data": {
+                "level": "0",
+                "max_stack": "9999",
+                "sellable": "Yes",
+                "sell_price": "2,000",
+                "auctionable": "Yes",
+                "storageable": "Yes"
+            },
+            "drop_data": {
+                "dropped_by": "Isis",
+                "monster_level": "Lv 57 Monster",
+                "drop_rate": "?%"
+            }
+        }
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/cards/card_10095.jpg",
+        "name": "Joker Card",
+        "effect": "Can use skill - [Stone Curse] Lv.5",
+        "perma_buff": "M.Atk ＋1.5",
+        "card_slot": "Accecssory",
+        "card_type": "Normal",
         "metadata": {
             "common_data": {
                 "level": "0",
@@ -208,27 +315,55 @@
                 "storageable": "Yes"
             },
             "drop_data": {
-                "dropped_by": "Mandragora",
-                "monster_level": "Lv 22 Monster",
+                "dropped_by": "Joker",
+                "monster_level": "Lv 96 Monster",
                 "drop_rate": "?%"
             }
         }
     },
     {
-        "imgsrc": null,
-        "name": "Light Fairy Card",
-        "effect": "Blue Gemstone cost by [Magnus Exorcismus] -1",
-        "perma_buff": "M.Atk ＋6",
-        "card_slot": "unknown",
-        "card_type": "unknown",
+        "imgsrc": "s01.cdn.roguard.net/content/img/cards/card_10091.jpg",
+        "name": "Khalitzburg Card",
+        "effect": "Damage reduction of demon race ＋10%",
+        "perma_buff": "Damage reduction of demon race ＋1%",
+        "card_slot": "Shield",
+        "card_type": "Normal",
         "metadata": {
             "common_data": {
-                "level": "9999",
-                "max_stack": "Yes",
-                "sellable": "100",
-                "sell_price": "Yes",
+                "level": "0",
+                "max_stack": "9999",
+                "sellable": "Yes",
+                "sell_price": "5,000",
                 "auctionable": "Yes",
-                "storageable": "unknown"
+                "storageable": "Yes"
+            },
+            "drop_data": {
+                "dropped_by": "Khalitzburg",
+                "monster_level": "Lv 98 Monster",
+                "drop_rate": "?%"
+            }
+        }
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/cards/card_10106.jpg",
+        "name": "Kobold Archer Card",
+        "effect": "Crit.Dmg ＋10%, Crit to plant monsters ＋20",
+        "perma_buff": "Max HP ＋24",
+        "card_slot": "Weapon",
+        "card_type": "Normal",
+        "metadata": {
+            "common_data": {
+                "level": "0",
+                "max_stack": "9999",
+                "sellable": "Yes",
+                "sell_price": "5,000",
+                "auctionable": "Yes",
+                "storageable": "Yes"
+            },
+            "drop_data": {
+                "dropped_by": "Kobold Archer",
+                "monster_level": "Lv 75 Monster",
+                "drop_rate": "?%"
             }
         }
     },
@@ -256,30 +391,12 @@
         }
     },
     {
-        "imgsrc": null,
-        "name": "Leader’s Demeanor Card",
-        "effect": "[Lord's Aura] increases Atk of the whole Party by ＋8%",
-        "perma_buff": "Max HP ＋112",
-        "card_slot": "unknown",
-        "card_type": "unknown",
-        "metadata": {
-            "common_data": {
-                "level": "9999",
-                "max_stack": "Yes",
-                "sellable": "50,000",
-                "sell_price": "Yes",
-                "auctionable": "Yes",
-                "storageable": "unknown"
-            }
-        }
-    },
-    {
-        "imgsrc": "s01.cdn.roguard.net/content/img/cards/card_10091.jpg",
-        "name": "Khalitzburg Card",
-        "effect": "Damage reduction of demon race ＋10%",
-        "perma_buff": "Damage reduction of demon race ＋1%",
-        "card_slot": "unknown",
-        "card_type": "unknown",
+        "imgsrc": "s01.cdn.roguard.net/content/img/cards/card_10048.jpg",
+        "name": "Magnolia Card",
+        "effect": "auto attack has a 5% chance to restore 30 points of SP for the caster",
+        "perma_buff": "M.Def ＋2",
+        "card_slot": "Weapon",
+        "card_type": "Normal",
         "metadata": {
             "common_data": {
                 "level": "0",
@@ -290,99 +407,9 @@
                 "storageable": "Yes"
             },
             "drop_data": {
-                "dropped_by": "Khalitzburg",
-                "monster_level": "Lv 98 Monster",
+                "dropped_by": "Magnolia",
+                "monster_level": "Lv 51 Monster",
                 "drop_rate": "?%"
-            }
-        }
-    },
-    {
-        "imgsrc": null,
-        "name": "Lunatic★Card",
-        "effect": "Cri.Res ＋30",
-        "perma_buff": "Damage taken from players during PVP (GVG) -2%",
-        "card_slot": "unknown",
-        "card_type": "unknown",
-        "metadata": {
-            "common_data": {
-                "level": "9999",
-                "max_stack": "Yes",
-                "sellable": "50,000",
-                "sell_price": "Yes",
-                "auctionable": "Yes",
-                "storageable": "unknown"
-            }
-        }
-    },
-    {
-        "imgsrc": null,
-        "name": "Kraken Card",
-        "effect": "",
-        "perma_buff": "",
-        "card_slot": "Armor",
-        "card_type": "MVP",
-        "metadata": {
-            "common_data": {
-                "level": "9999",
-                "max_stack": "Yes",
-                "sellable": "100",
-                "sell_price": "No",
-                "auctionable": "Yes",
-                "storageable": "unknown"
-            }
-        }
-    },
-    {
-        "imgsrc": null,
-        "name": "King Poring's Gift",
-        "effect": "M.Def ＋1",
-        "perma_buff": "",
-        "card_slot": "Headgear",
-        "card_type": "Normal",
-        "metadata": {
-            "common_data": {
-                "level": "9999",
-                "max_stack": "Yes",
-                "sellable": "2,000",
-                "sell_price": "No",
-                "auctionable": "No",
-                "storageable": "unknown"
-            }
-        }
-    },
-    {
-        "imgsrc": null,
-        "name": "Magic Snowbear Card",
-        "effect": "Max SP ＋200",
-        "perma_buff": "Max SP ＋5",
-        "card_slot": "unknown",
-        "card_type": "unknown",
-        "metadata": {
-            "common_data": {
-                "level": "9999",
-                "max_stack": "Yes",
-                "sellable": "60",
-                "sell_price": "Yes",
-                "auctionable": "Yes",
-                "storageable": "unknown"
-            }
-        }
-    },
-    {
-        "imgsrc": null,
-        "name": "Magic Snake Card",
-        "effect": "INT ＋1, MPen. ＋2%",
-        "perma_buff": "Max HP ＋60",
-        "card_slot": "unknown",
-        "card_type": "unknown",
-        "metadata": {
-            "common_data": {
-                "level": "9999",
-                "max_stack": "Yes",
-                "sellable": "50,000",
-                "sell_price": "Yes",
-                "auctionable": "Yes",
-                "storageable": "unknown"
             }
         }
     },
@@ -391,8 +418,8 @@
         "name": "Kobold Card",
         "effect": "Str ＋4, Cri ＋10",
         "perma_buff": "Max HP ＋24",
-        "card_slot": "unknown",
-        "card_type": "unknown",
+        "card_slot": "Accecssory",
+        "card_type": "Normal",
         "metadata": {
             "common_data": {
                 "level": "0",
@@ -405,6 +432,29 @@
             "drop_data": {
                 "dropped_by": "Kobold (Axe)",
                 "monster_level": "Lv 72 Monster",
+                "drop_rate": "?%"
+            }
+        }
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/cards/card_10009.jpg",
+        "name": "Male Thief Bug Card",
+        "effect": "Attack Spd ＋3%",
+        "perma_buff": "Atk ＋6",
+        "card_slot": "Footgear",
+        "card_type": "Normal",
+        "metadata": {
+            "common_data": {
+                "level": "0",
+                "max_stack": "9999",
+                "sellable": "Yes",
+                "sell_price": "2,000",
+                "auctionable": "Yes",
+                "storageable": "Yes"
+            },
+            "drop_data": {
+                "dropped_by": "Thief Bug Male ★",
+                "monster_level": "Lv 20 Monster",
                 "drop_rate": "?%"
             }
         }

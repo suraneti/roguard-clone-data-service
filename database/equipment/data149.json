@@ -1,0 +1,26 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Zero Doll Hat",
+        "slot": "Head",
+        "status": "Atk ＋20, Damage to middle-size monster ＋6%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Zero Doll Hat [1]",
+        "slot": "Head",
+        "status": "Atk ＋20, Damage to middle-size monster ＋6%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_48505.png",
+        "name": "Zorro Masque",
+        "slot": "Face",
+        "status": "Def ＋10"
+    },
+    {
+        "imgsrc": null,
+        "name": "[Year]",
+        "slot": "Wing",
+        "status": "All Attributes ＋1, Pen. ＋3%, MPen. ＋3%"
+    }
+]

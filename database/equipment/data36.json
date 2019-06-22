@@ -1,122 +1,122 @@
 [
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_43503.png",
-        "name": "Eden Team Shoes [2]",
-        "slot": "Shoes",
+        "imgsrc": null,
+        "name": "Doom Axe [2]",
+        "slot": "Axe",
+        "status": "Str ＋5, For each level of [Skin Tempering] is learned, Extra Fire Dmg ＋10%, When Strength reaches 50, Atk ＋10%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Doom Slayer [1]",
+        "slot": "Axe",
+        "status": "When Strength reaches 95, Atk ＋340, SP cost will be doubled, Attack Spd -40%, When Refining ＋5, ＋10, ＋15, Attack Spd ＋5%, ＋10%, ＋15% accordingly, Auto Attack has a 30% chance to stun the target, With a probability to destroy armors (no content yet)"
+    },
+    {
+        "imgsrc": null,
+        "name": "Doom Slayer [2]",
+        "slot": "Axe",
+        "status": "When Strength reaches 95, Atk ＋340, SP cost will be doubled, Attack Spd -40%, When Refining ＋5, ＋10, ＋15, Attack Spd ＋5%, ＋10%, ＋15% accordingly, Auto Attack has a 30% chance to stun the target, With a probability to destroy armors (no content yet)"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41208.png",
+        "name": "Double Bound [1]",
+        "slot": "Bow",
+        "status": "Agi ＋2, auto attack has a chance to trigger [Double Strafe] Lv.5, When [Beastmastery] Lv.10 is learned, the damage of [Beastmastery] ＋20%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41208.png",
+        "name": "Double Bound [2]",
+        "slot": "Bow",
+        "status": "Agi ＋2, auto attack has a chance to trigger [Double Strafe] Lv.5, When [Beastmastery] Lv.10 is learned, the damage of [Beastmastery] ＋20%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42533.png",
+        "name": "Dragon Fire Orb",
+        "slot": "Orb",
+        "status": "Def + 50"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42533.png",
+        "name": "Dragon Fire Orb [1]",
+        "slot": "Orb",
+        "status": "Def + 50"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40905.png",
+        "name": "Dragon Howling [2]",
+        "slot": "Katar",
+        "status": "Atk + 90"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40905.png",
+        "name": "Dragon Howling [3]",
+        "slot": "Katar",
+        "status": "Atk + 90"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40703.png",
+        "name": "Dragon Killer [2]",
+        "slot": "Knife",
+        "status": "Atk + 360"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40703.png",
+        "name": "Dragon Killer [3]",
+        "slot": "Knife",
+        "status": "Atk + 360"
+    },
+    {
+        "imgsrc": null,
+        "name": "Dragon Manteau [1]",
+        "slot": "Robe",
         "status": "Def + 90"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42001.png",
-        "name": "Eden Team Training Clothes",
+        "imgsrc": null,
+        "name": "Dragon Manteau [2]",
+        "slot": "Robe",
+        "status": "Def + 90"
+    },
+    {
+        "imgsrc": null,
+        "name": "Dragon Pike [1]",
+        "slot": "Spear",
+        "status": "Atk + 202"
+    },
+    {
+        "imgsrc": null,
+        "name": "Dragon Pike [2]",
+        "slot": "Spear",
+        "status": "Atk + 202"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_48560.png",
+        "name": "Dragon Scale Stripe",
+        "slot": "Face",
+        "status": "Dex ＋10, INT ＋5"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_61502.png",
+        "name": "Dragon Teeth Bracelet [1]",
+        "slot": "Bracelet",
+        "status": "Def + 112"
+    },
+    {
+        "imgsrc": null,
+        "name": "Dragon Teeth Bracelet [2]",
+        "slot": "Bracelet",
+        "status": "Def + 112"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42018.png",
+        "name": "Dragon Vest",
         "slot": "Armour",
-        "status": "Def + 4"
+        "status": "Attack Spd ＋3%, Flee ＋25"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42001.png",
-        "name": "Eden Team Training Clothes [1]",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42018.png",
+        "name": "Dragon Vest [1]",
         "slot": "Armour",
-        "status": "Def + 4"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45195.png",
-        "name": "Eden Team Turban [1]",
-        "slot": "Head",
-        "status": "Def ＋5"
-    },
-    {
-        "imgsrc": null,
-        "name": "Egg and Bacon",
-        "slot": "Head",
-        "status": "Atk ＋20, Str ＋5"
-    },
-    {
-        "imgsrc": null,
-        "name": "Egg and Bacon [1]",
-        "slot": "Head",
-        "status": "Dex ＋3, AGI ＋3"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45042.png",
-        "name": "Eggshell",
-        "slot": "Head",
-        "status": "Def ＋10"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45042.png",
-        "name": "Eggshell [1]",
-        "slot": "Head",
-        "status": "Def ＋10"
-    },
-    {
-        "imgsrc": null,
-        "name": "Elder's Fire on Head",
-        "slot": "Head",
-        "status": ""
-    },
-    {
-        "imgsrc": null,
-        "name": "Elder's Hammer [1]",
-        "slot": "Mace",
-        "status": "STR ＋4, Increase the basic rate of equipment destruction causes by alchemy using [Acid Terror], [Acid Demonstration], [Improved Acid Demonstration], For Refining ＋1, the damage of [Acid Demonstration] ＋5%, Damage of [Acid Terror] ＋2%, skill multiplier of [Improved Acid Demonstration] ＋30%"
-    },
-    {
-        "imgsrc": null,
-        "name": "Elder's Hammer [2]",
-        "slot": "Mace",
-        "status": "STR ＋4, Increase the basic rate of equipment destruction causes by alchemy using [Acid Terror], [Acid Demonstration], [Improved Acid Demonstration], For Refining ＋1, the damage of [Acid Demonstration] ＋5%, Damage of [Acid Terror] ＋2%, skill multiplier of [Improved Acid Demonstration] ＋30%"
-    },
-    {
-        "imgsrc": null,
-        "name": "Electric Fist [1]",
-        "slot": "Knuckle",
-        "status": "Atk + 140"
-    },
-    {
-        "imgsrc": null,
-        "name": "Electric Fist [2]",
-        "slot": "Knuckle",
-        "status": "Atk + 140"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40301.png",
-        "name": "Elemental Sword [2]",
-        "slot": "Sword",
-        "status": "Atk + 180"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40301.png",
-        "name": "Elemental Sword [3]",
-        "slot": "Sword",
-        "status": "Atk + 180"
-    },
-    {
-        "imgsrc": null,
-        "name": "Elite Adventurer Clothing Series",
-        "slot": "Armour",
-        "status": ""
-    },
-    {
-        "imgsrc": null,
-        "name": "Elite Adventurer Headwear Series",
-        "slot": "Head",
-        "status": "All Attributes ＋1, Damage reduction of Demi-Human race ＋5%"
-    },
-    {
-        "imgsrc": null,
-        "name": "Elite Adventurer Headwear·Christmas Red",
-        "slot": "Head",
-        "status": "All Attributes ＋1, Damage reduction of Demi-Human race ＋5%"
-    },
-    {
-        "imgsrc": null,
-        "name": "Elite Adventurer Headwear·Demon Purple",
-        "slot": "Head",
-        "status": "All Attributes ＋1, Damage reduction of Demi-Human race ＋5%"
-    },
-    {
-        "imgsrc": null,
-        "name": "Elite Adventurer Headwear·Starfish Yellow",
-        "slot": "Head",
-        "status": "All Attributes ＋1, Damage reduction of Demi-Human race ＋5%"
+        "status": "Attack Spd ＋3%, Flee ＋25"
     }
 ]

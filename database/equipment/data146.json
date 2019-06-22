@@ -1,0 +1,122 @@
+[
+    {
+        "imgsrc": null,
+        "name": "White Christmas",
+        "slot": "Head",
+        "status": "Dex ＋3, AGI ＋3"
+    },
+    {
+        "imgsrc": null,
+        "name": "White Christmas [1]",
+        "slot": "Head",
+        "status": "Agi ＋5, Crit.Dmg ＋10%"
+    },
+    {
+        "imgsrc": null,
+        "name": "White Dog Equip",
+        "slot": "Head",
+        "status": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40908.png",
+        "name": "White Flower Katar",
+        "slot": "Katar",
+        "status": "Atk + 158"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40908.png",
+        "name": "White Flower Katar [2]",
+        "slot": "Katar",
+        "status": "Atk + 158"
+    },
+    {
+        "imgsrc": null,
+        "name": "White Winged Boots",
+        "slot": "Shoes",
+        "status": "Move Spd ＋10%, AGI ＋4, Max HP ＋500,  Critical ＋2 and Crit.Dmg ＋2% at Refinement ＋10, Critical ＋6 and Crit.Dmg ＋6% at Refinement ＋15"
+    },
+    {
+        "imgsrc": null,
+        "name": "White Winged Boots [1]",
+        "slot": "Shoes",
+        "status": "Move Spd ＋10%, AGI ＋4, Max HP ＋500,  Critical ＋2 and Crit.Dmg ＋2% at Refinement ＋10, Critical ＋6 and Crit.Dmg ＋6% at Refinement ＋15"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40703.png",
+        "name": "Wide Dagger",
+        "slot": "Knife",
+        "status": "Atk + 54"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40703.png",
+        "name": "Wide Dagger [2]",
+        "slot": "Knife",
+        "status": "Atk + 54"
+    },
+    {
+        "imgsrc": null,
+        "name": "Wind Hammer [1]",
+        "slot": "Axe",
+        "status": "Wind, Str ＋5, Agi ＋5, Auto Attack has a 7% chance to deal multiple wind damage to the target and up to 3 nearby targets, For Refining ＋1, Wind Dmg ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Wind Hammer [2]",
+        "slot": "Axe",
+        "status": "Wind, Str ＋5, Agi ＋5, Auto Attack has a 7% chance to deal multiple wind damage to the target and up to 3 nearby targets, For Refining ＋1, Wind Dmg ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Wind Knife [1]",
+        "slot": "Knife",
+        "status": "Wind, Str ＋5, For Refining ＋1, Dmg ＋1%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Wind Knife [2]",
+        "slot": "Knife",
+        "status": "Wind, Str ＋5, For Refining ＋1, Dmg ＋1%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Wind Splitter",
+        "slot": "Knuckle",
+        "status": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41813.png",
+        "name": "Windhawk [1]",
+        "slot": "Axe",
+        "status": "VIT ＋10, CritRes ＋15, Dmg to Stun targets ＋15%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41813.png",
+        "name": "Windhawk [2]",
+        "slot": "Axe",
+        "status": "VIT ＋10, CritRes ＋15, Dmg to Stun targets ＋15%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Window of Wealth",
+        "slot": "Face",
+        "status": "Max HP ＋200, Pen. ＋3%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Windperch Crest Headwear female",
+        "slot": "Head",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Windperch Crest [1]",
+        "slot": "Head",
+        "status": "All Attributes ＋1, MAX HP＋2%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Windperch Drake",
+        "slot": "Tail",
+        "status": "Deal 5% more damage to targets with more than 50% Hp"
+    }
+]

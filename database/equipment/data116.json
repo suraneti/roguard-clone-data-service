@@ -1,122 +1,122 @@
 [
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_43506.png",
-        "name": "Soldier Boots [1]",
-        "slot": "Shoes",
-        "status": "Move Spd ＋5%, HP Regen ＋5%"
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/21.png",
+        "name": "Savage Lord",
+        "slot": "Mount",
+        "status": "Move Spd ＋50%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/21.png",
+        "name": "Savage Lord",
+        "slot": "Mount",
+        "status": "Move Spd ＋50%"
     },
     {
         "imgsrc": null,
-        "name": "Spashire's Whisper",
-        "slot": "Face",
-        "status": "Dmg to undead monsters ＋10%, For Refining ＋1, Dmg to undead monsters ＋1%"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40001.png",
-        "name": "Spear",
-        "slot": "Spear",
-        "status": "Atk + 112"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40001.png",
-        "name": "Spear [2]",
-        "slot": "Spear",
-        "status": "Atk + 112"
+        "name": "Scalpel [1]",
+        "slot": "Knife",
+        "status": "Str ＋4, Max HP ＋500, For Refining ＋10, the damage of [Back Stab] to Demi-Human ＋5%; For Refining ＋15, the damage of [Back Stab] to Demi-Human ＋10%"
     },
     {
         "imgsrc": null,
-        "name": "Spearfish Pike [1]",
-        "slot": "Spear",
-        "status": "Str ＋4, Agi ＋4, Skill multiplier of [Holy Cross] ＋100%, For Refining ＋1, Equipment ASPD ＋1%, Skill multiplier of [Holy Cross] ＋30%"
+        "name": "Scalpel [2]",
+        "slot": "Knife",
+        "status": "Str ＋4, Max HP ＋500, For Refining ＋10, the damage of [Back Stab] to Demi-Human ＋5%; For Refining ＋15, the damage of [Back Stab] to Demi-Human ＋10%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42010.png",
+        "name": "Scapulare",
+        "slot": "Armour",
+        "status": "INT ＋2, Max SP ＋3%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42010.png",
+        "name": "Scapulare [1]",
+        "slot": "Armour",
+        "status": "INT ＋2, Max SP ＋3%"
     },
     {
         "imgsrc": null,
-        "name": "Spearfish Pike [2]",
-        "slot": "Spear",
-        "status": "Str ＋4, Agi ＋4, Skill multiplier of [Holy Cross] ＋100%, For Refining ＋1, Equipment ASPD ＋1%, Skill multiplier of [Holy Cross] ＋30%"
+        "name": "Scarlet Blade",
+        "slot": "Sword",
+        "status": ""
     },
     {
         "imgsrc": null,
-        "name": "Spearfish Pike(abandon)",
+        "name": "Scarlet Bolt [1]",
+        "slot": "Bow",
+        "status": "Dex ＋5, Costs of [Arrow Repel] and [Heavy Arrow] -40%, Skill CD of [Heavy Arrow] -1s, Damage of [Arrow Repel] ＋100%, With a chance to trigger [Heavy Arrow] Lv.1 during auto attacks. , Refining increases by 1, auto attack increases by 20 points"
+    },
+    {
+        "imgsrc": null,
+        "name": "Scarlet Bolt [2]",
+        "slot": "Bow",
+        "status": "Dex ＋5, Costs of [Arrow Repel] and [Heavy Arrow] -40%, Skill CD of [Heavy Arrow] -1s, Damage of [Arrow Repel] ＋100%, With a chance to trigger [Heavy Arrow] Lv.1 during auto attacks. , Refining increases by 1, auto attack increases by 20 points"
+    },
+    {
+        "imgsrc": null,
+        "name": "Scarlet Pike",
         "slot": "Spear",
         "status": ""
     },
     {
         "imgsrc": null,
-        "name": "Special Kafra Face Color",
-        "slot": "Face",
+        "name": "Scarlet Wizard Hat",
+        "slot": "Head",
+        "status": "All Attributes ＋2, Atk ＋12, M.Atk ＋12"
+    },
+    {
+        "imgsrc": null,
+        "name": "School Black Warlock Demon Purple",
+        "slot": "Armour",
         "status": ""
     },
     {
         "imgsrc": null,
-        "name": "Special Kafra Mouth Color",
-        "slot": "Mouth",
+        "name": "School Black Warlock Muka Brown",
+        "slot": "Armour",
         "status": ""
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40908.png",
-        "name": "Specialty Jur",
-        "slot": "Katar",
-        "status": "Atk + 144"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40908.png",
-        "name": "Specialty Jur [2]",
-        "slot": "Katar",
-        "status": "Atk + 144"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40005.png",
-        "name": "Spectral Spear [3]",
-        "slot": "Spear",
-        "status": "Atk + 247"
+        "imgsrc": null,
+        "name": "School Black Warlock·Christmas Red",
+        "slot": "Armour",
+        "status": ""
     },
     {
         "imgsrc": null,
-        "name": "Spectral Spear[2]",
-        "slot": "Spear",
-        "status": "Atk + 247"
+        "name": "School Black Warlock·Crystal Purple",
+        "slot": "Armour",
+        "status": ""
     },
     {
         "imgsrc": null,
-        "name": "Sphinx Hat",
-        "slot": "Head",
-        "status": "No effect"
+        "name": "School Black Warlock·Gold Yellow",
+        "slot": "Armour",
+        "status": ""
     },
     {
         "imgsrc": null,
-        "name": "Sphinx Hat [1]",
-        "slot": "Head",
-        "status": "No effect"
+        "name": "School Black Warlock·Sharp Black",
+        "slot": "Armour",
+        "status": ""
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_48548.png",
-        "name": "Spiked Scarf",
-        "slot": "Mouth",
-        "status": "Def ＋5, VIT ＋2, Dmg to demi-human race ＋5%, Dmg Reduc. of demi-human race ＋5%"
+        "imgsrc": null,
+        "name": "School Black Warlock·Turquoise Green",
+        "slot": "Armour",
+        "status": ""
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45055.png",
-        "name": "Spiky Band",
-        "slot": "Head",
-        "status": "Def ＋10"
+        "imgsrc": null,
+        "name": "School Black Warlock·Water Blue",
+        "slot": "Armour",
+        "status": ""
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45055.png",
-        "name": "Spiky Band [1]",
-        "slot": "Head",
-        "status": "Def ＋10"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40905.png",
-        "name": "Spirit Katar [2]",
-        "slot": "Katar",
-        "status": "Atk + 90"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40905.png",
-        "name": "Spirit Katar [3]",
-        "slot": "Katar",
-        "status": "Atk + 90"
+        "imgsrc": null,
+        "name": "School Clothing Series",
+        "slot": "Armour",
+        "status": ""
     }
 ]

@@ -1,122 +1,122 @@
 [
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_43509.png",
-        "name": "Bunny Slipper",
-        "slot": "Shoes",
-        "status": "Move Spd ＋8%, SP Regen ＋3, SP Regen ＋15%, [Life Magic Book IV] ＋[Bunny Slipper]: Cooldown of all skills shortens by 5%"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_43509.png",
-        "name": "Bunny Slipper [1]",
-        "slot": "Shoes",
-        "status": "Move Spd ＋8%, SP Regen ＋3, SP Regen ＋15%, [Life Magic Book IV] ＋[Bunny Slipper]: Cooldown of all skills shortens by 5%"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45148.png",
-        "name": "Bunny Top Hat",
-        "slot": "Head",
-        "status": "Agi ＋3, When suffering attacks, Caster has a 5% chance to increase Agility by 7 points, increase moving speed by 25%; the effect lasts 30 seconds"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45148.png",
-        "name": "Bunny Top Hat [1]",
-        "slot": "Head",
-        "status": "Agi ＋3, When suffering attacks, Caster has a 5% chance to increase Agility by 7 points, increase moving speed by 25%; the effect lasts 30 seconds"
-    },
-    {
         "imgsrc": null,
-        "name": "Buring Alvitr",
+        "name": "Bradium Shield[1]",
         "slot": "Shield",
+        "status": "Def + 33"
+    },
+    {
+        "imgsrc": null,
+        "name": "Bread in Mouth",
+        "slot": "Mouth",
+        "status": "auto attack has a chance to proportionally convert the damage into HP"
+    },
+    {
+        "imgsrc": null,
+        "name": "Breaking Dawn",
+        "slot": "Spear",
         "status": ""
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41201.png",
-        "name": "Burning Bow [2]",
-        "slot": "Bow",
-        "status": "Atk + 180"
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45086.png",
+        "name": "Bride's Corolla",
+        "slot": "Head",
+        "status": "Avoid being auto-targeted by demi-human monsters in the wild, After it sits down, flower that symbolizes happiness will bloom around."
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41201.png",
-        "name": "Burning Bow[3]",
-        "slot": "Bow",
-        "status": "Atk + 180"
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45086.png",
+        "name": "Bride's Corolla [1]",
+        "slot": "Head",
+        "status": "Avoid being auto-targeted by demi-human monsters in the wild, After it sits down, flower that symbolizes happiness will bloom around."
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45138.png",
+        "name": "Bright Fury",
+        "slot": "Head",
+        "status": "Def ＋5, Str ＋1, Attack Spd ＋2%, Atk ＋2%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45138.png",
+        "name": "Bright Fury [1]",
+        "slot": "Head",
+        "status": "Def ＋5, Str ＋1, Attack Spd ＋2%, Atk ＋2%"
     },
     {
         "imgsrc": null,
-        "name": "Burning Eyes",
-        "slot": "Face",
-        "status": "Atk ＋15, Max HP ＋200"
-    },
-    {
-        "imgsrc": null,
-        "name": "Burning Passion Guitar",
+        "name": "Bright Moon God Back Headwear",
         "slot": "Wing",
-        "status": "Def ＋15, When Refining reaches ＋10 and Strength reaches 90, Atk ＋20, When Refining reaches ＋10 and Agility reaches 90, Equipment ASPD ＋5%, When Refining reaches ＋10 and Vitality reaches 90, Neutral Dmg Taken -10%, When Refining reaches ＋10 and Intelligence reaches 90, M.Atk ＋20, When Refining reaches ＋10 and Dexterity reaches 90, Ranged Damage ＋5%, When Refining reaches ＋10 and Luck reaches 90, Crit.Dmg ＋5%"
+        "status": "Max HP ＋5000, Def ＋15%, MDef ＋5%, Crit Res＋15, Dmg Reduc. ＋7.5%, Magic Reduc. ＋2.5%, Poison, Holy, Dark, Ghost, Neutral damage taken -15%, Fire, Water, Earth and Wind damage taken -5%, Gain passive skill [Lunar Mirror Shield]: 30% chance to become immune to ranged attacks for the next 2s after being hit by a ranged physical attack"
     },
     {
         "imgsrc": null,
-        "name": "Bury [1]",
-        "slot": "Katar",
+        "name": "Bright Star",
+        "slot": "Staff",
         "status": ""
     },
     {
         "imgsrc": null,
-        "name": "Bury [2]",
-        "slot": "Katar",
-        "status": ""
+        "name": "Brilliant Star God Back Headwear",
+        "slot": "Wing",
+        "status": "Max HP ＋5000, Def ＋10%, MDef ＋10%, Crit Res＋15, Dmg Reduc. ＋5%, Magic Reduc. ＋5%, Poison, Holy, Dark, Ghost, Neutral, Fire, Water, Earth and Wind damage taken -10%, Gain passive skill [Decaying Star]: Reduces Atk and M.Atk of nearby enemies within a 3m radius by 15%."
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41806.png",
-        "name": "Buster [1]",
-        "slot": "Axe",
-        "status": "Str ＋2, Atk ＋10, When Strength reaches 50, Atk ＋15"
+        "imgsrc": null,
+        "name": "Brionac [2]",
+        "slot": "Spear",
+        "status": "Atk + 247"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41806.png",
-        "name": "Buster [2]",
-        "slot": "Axe",
-        "status": "Str ＋2, Atk ＋10, When Strength reaches 50, Atk ＋15"
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40005.png",
+        "name": "Brionac [3]",
+        "slot": "Spear",
+        "status": "Atk + 247"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45190.png",
-        "name": "Butterfly Hairpin",
-        "slot": "Head",
-        "status": "Def ＋10"
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_44022.png",
+        "name": "Brooch",
+        "slot": "Accessory",
+        "status": "Atk + 42"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45190.png",
-        "name": "Butterfly Hairpin [1]",
-        "slot": "Head",
-        "status": "Def ＋10"
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_44022.png",
+        "name": "Brooch [1]",
+        "slot": "Accessory",
+        "status": "Atk + 42"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_48515.png",
-        "name": "Butterfly Wing Ears",
+        "imgsrc": null,
+        "name": "Brown Feather Gryphon",
+        "slot": "Mount",
+        "status": "Move Spd ＋25%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Bubble Feelings",
         "slot": "Face",
-        "status": "Def ＋15"
+        "status": "Max HP +200, Water Dmg Taken -3%"
     },
     {
-        "imgsrc": null,
-        "name": "Calder Dagger [1]",
-        "slot": "Knife",
-        "status": "Str ＋4, Agi ＋3, auto attack has a chance (8%) to trigger [Disperse] effect. [Disperse]: damage of [Back Stab] and [Permanent Damage] increases by 50%; the effect lasts 2 seconds"
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42503.png",
+        "name": "Buckler",
+        "slot": "Shield",
+        "status": "Def + 28"
     },
     {
-        "imgsrc": null,
-        "name": "Calder Dagger [2]",
-        "slot": "Knife",
-        "status": "Str ＋4, Agi ＋3, auto attack has a chance (8%) to trigger [Disperse] effect. [Disperse]: damage of [Back Stab] and [Permanent Damage] increases by 50%; the effect lasts 2 seconds"
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42503.png",
+        "name": "Buckler [1]",
+        "slot": "Shield",
+        "status": "Def + 28"
     },
     {
-        "imgsrc": null,
-        "name": "Cancer Crown",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45079.png",
+        "name": "Bunny Band",
         "slot": "Head",
-        "status": "Atk ＋1, Hit ＋1"
+        "status": "Def ＋5, Luk ＋2"
     },
     {
-        "imgsrc": null,
-        "name": "Cancer Crown [1]",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45079.png",
+        "name": "Bunny Band [1]",
         "slot": "Head",
-        "status": "No effect"
+        "status": "Def ＋5, Luk ＋2"
     }
 ]

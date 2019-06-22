@@ -1,122 +1,122 @@
 [
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45026.png",
-        "name": "Indian Fillet",
-        "slot": "Head",
-        "status": "Def ＋10"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45026.png",
-        "name": "Indian Fillet [1]",
-        "slot": "Head",
-        "status": "Def ＋10"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45060.png",
-        "name": "Indifferent Solo Hat",
-        "slot": "Head",
-        "status": "Def ＋10"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45060.png",
-        "name": "Indifferent Solo Hat [1]",
-        "slot": "Head",
-        "status": "Def ＋10"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40923.png",
-        "name": "Infiltrator [1]",
-        "slot": "Katar",
-        "status": "Doubles Critical, Damage to human-like monsters -50%, Def ＋20, Flee ＋20"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40923.png",
-        "name": "Infiltrator [2]",
-        "slot": "Katar",
-        "status": "Doubles Critical, Damage to human-like monsters -50%, Def ＋20, Flee ＋20"
+        "imgsrc": null,
+        "name": "Heartbeat",
+        "slot": "Face",
+        "status": "M.Atk +4%, Ignore M.Def +4%"
     },
     {
         "imgsrc": null,
-        "name": "Infinity Axe [1]",
-        "slot": "Axe",
-        "status": "Atk + 180"
+        "name": "Heartseeker Abby",
+        "slot": "Tail",
+        "status": "Moving Spd ＋2%, Auto Attack damage ＋2%"
     },
     {
         "imgsrc": null,
-        "name": "Infinity Axe [2]",
-        "slot": "Axe",
-        "status": "Atk + 180"
+        "name": "Heavy Spear [1]",
+        "slot": "Spear",
+        "status": "Str ＋8, Attack Spd ＋15%, Holy Dmg ＋20%"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41201.png",
-        "name": "Infinity Bow [2]",
+        "imgsrc": null,
+        "name": "Heavy Spear [2]",
+        "slot": "Spear",
+        "status": "Str ＋8, Attack Spd ＋15%, Holy Dmg ＋20%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Hector Sword",
+        "slot": "Sword",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Hellfire [2]",
+        "slot": "Spear",
+        "status": "Atk + 247"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40005.png",
+        "name": "Hellfire [3]",
+        "slot": "Spear",
+        "status": "Atk + 247"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45097.png",
+        "name": "Helm",
+        "slot": "Head",
+        "status": "Def ＋10"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45109.png",
+        "name": "Helm of Angel",
+        "slot": "Head",
+        "status": "Agi ＋2, Luk ＋2, M.Def ＋10, For Refining ＋1, Flee ＋1% (up to 15%)"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45109.png",
+        "name": "Helm of Angel [1]",
+        "slot": "Head",
+        "status": "Agi ＋2, Luk ＋2, M.Def ＋10, For Refining ＋1, Flee ＋1% (up to 15%)"
+    },
+    {
+        "imgsrc": null,
+        "name": "Helm of Darkness",
+        "slot": "Head",
+        "status": "No effect"
+    },
+    {
+        "imgsrc": null,
+        "name": "Helm of Darkness [1]",
+        "slot": "Head",
+        "status": "No effect"
+    },
+    {
+        "imgsrc": null,
+        "name": "Helm Of Dragon",
+        "slot": "Head",
+        "status": "No effect"
+    },
+    {
+        "imgsrc": null,
+        "name": "Helm Of Dragon [1]",
+        "slot": "Head",
+        "status": "No effect"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45097.png",
+        "name": "Helm [1]",
+        "slot": "Head",
+        "status": "Def ＋10"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45050.png",
+        "name": "Helmet of Orc Hero",
+        "slot": "Head",
+        "status": "Str ＋2, VIT ＋2, When Refining ＋10, Melee Dmg ＋10%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45050.png",
+        "name": "Helmet of Orc Hero [1]",
+        "slot": "Head",
+        "status": "Str ＋2, VIT ＋2, When Refining ＋10, Melee Dmg ＋10%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Hercules Bow",
         "slot": "Bow",
-        "status": "Atk + 180"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41201.png",
-        "name": "Infinity Bow [3]",
-        "slot": "Bow",
-        "status": "Atk + 180"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_44020.png",
-        "name": "INT Earring",
-        "slot": "Accessory",
-        "status": "M.Atk + 42"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_44020.png",
-        "name": "INT Earring [1]",
-        "slot": "Accessory",
-        "status": "M.Atk + 42"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_44014.png",
-        "name": "INT Glove [1]",
-        "slot": "Accessory",
-        "status": "Atk + 42"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_44001.png",
-        "name": "INT Glove [2]",
-        "slot": "Accessory",
-        "status": "Atk + 30"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42007.png",
-        "name": "Iron Armor",
-        "slot": "Armour",
-        "status": "Str ＋3, VIT ＋2, When equipped by Melee attackers, Atk ＋20"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42007.png",
-        "name": "Iron Armor [1]",
-        "slot": "Armour",
-        "status": "Str ＋3, VIT ＋2, When equipped by Melee attackers, Atk ＋20"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_48527.png",
-        "name": "Iron Cain",
-        "slot": "Mouth",
-        "status": "Def ＋10"
+        "status": ""
     },
     {
         "imgsrc": null,
-        "name": "Iron Knuckle",
-        "slot": "Knuckle",
-        "status": "Atk + 158"
+        "name": "Heroes are afraid of me",
+        "slot": "Head",
+        "status": "Dex ＋3, AGI ＋3"
     },
     {
         "imgsrc": null,
-        "name": "Iron Knuckle [2]",
-        "slot": "Knuckle",
-        "status": "Atk + 158"
-    },
-    {
-        "imgsrc": null,
-        "name": "Ivory Knife [1]",
-        "slot": "Knife",
-        "status": "Luk ＋4, Dex ＋4, the basic trigger probability of [Strip Accessory] and [Strip Shield] ＋3%"
+        "name": "Heroes are afraid of me [1]",
+        "slot": "Head",
+        "status": "When launching auto attacks, Caster has a 5% to set target into slowing state, Decrease the target's Def by 10%, the effect lasts 5 seconds."
     }
 ]

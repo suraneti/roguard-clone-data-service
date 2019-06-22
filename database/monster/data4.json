@@ -1,1742 +1,13 @@
 [
     {
-        "imgsrc": "www.roguard.net/content/img/icons/monsters/goblin2_monster.png",
-        "name": "Goblin(Axe) ★",
-        "element": "Earth",
-        "race": "Demi-Human",
-        "level": "Lv 35",
-        "hp": "43,917 Hp",
-        "base_exp": "1,325 Base Exp",
-        "job_exp": "655 Job Exp",
-        "metadata": {
-            "description": "The third brother in the Goblin group, it will attack with its brothers. Its weapon is an axe. As an ancient family, Its nature is very naughty and evil. Because it is not big, it can't cause great damage when it is alone. Once they're united, the destructive power can not be underestimated.",
-            "common_data": {
-                "level": "35",
-                "type": "Monster",
-                "zone": "Field",
-                "race": "Demi-Human",
-                "element": "Earth",
-                "size": "Medium",
-                "passive_level": "40",
-                "base_exp": "1,325",
-                "job_exp": "655"
-            },
-            "attribute_data": {
-                "atk": "177",
-                "matk": "50",
-                "def": "200",
-                "mdef": "6",
-                "hp": "43,917",
-                "hit": "138",
-                "flee": "48",
-                "move_spd": "60",
-                "atk_spd": "0.62"
-            },
-            "card_data": {
-                "imgsrc": "www.roguard.net/content/img/icons/items/item_48510.png",
-                "name": "Goblin Card",
-                "effect": null,
-                "perma_buff": null
-            },
-            "drop_data": [],
-            "location_data": []
-        }
-    },
-    {
-        "imgsrc": "www.roguard.net/content/img/icons/monsters/marc_monster.png",
-        "name": "Marc",
-        "element": "Water",
-        "race": "Fish",
-        "level": "Lv 36",
-        "hp": "4,902 Hp",
-        "base_exp": "242 Base Exp",
-        "job_exp": "153 Job Exp",
-        "metadata": {
-            "description": "A monster that lives on the bottom of the sea. Its size is not big, but its attack is quick and powerful. It's a powerful one in the aquatic monsters. According to research, Their descendants are born by males, and their dream is to take a leisurely walk in the dreamy night.",
-            "common_data": {
-                "level": "36",
-                "type": "Monster",
-                "zone": "Field",
-                "race": "Fish",
-                "element": "Water",
-                "size": "Medium",
-                "passive_level": "40",
-                "base_exp": "242",
-                "job_exp": "153"
-            },
-            "attribute_data": {
-                "atk": "70",
-                "matk": "36",
-                "def": "0",
-                "mdef": "50",
-                "hp": "4,902",
-                "hit": "36",
-                "flee": "72",
-                "move_spd": "80",
-                "atk_spd": "0.79"
-            },
-            "card_data": {
-                "imgsrc": "www.roguard.net/content/img/cards/card_10028.jpg",
-                "name": "Marc Card",
-                "effect": null,
-                "perma_buff": [
-                    "<div style=\"text-align: center;\">Water Dmg Taken -2%</div>",
-                    "Water Dmg Taken -2%"
-                ]
-            },
-            "drop_data": [
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_48508.png",
-                    "name": "Grampa Beard Blueprint",
-                    "drop_rate": "?%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_52103.png",
-                    "name": "Garlet",
-                    "drop_rate": "26.29%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_5001.png",
-                    "name": "Rough Oridecon",
-                    "drop_rate": "0.52%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_12004.png",
-                    "name": "Transformation Scroll (Marc)",
-                    "drop_rate": "0.02%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
-                    "name": "Zeny",
-                    "drop_rate": "65.07%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
-                    "name": "Zeny",
-                    "drop_rate": "65.07%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_5110.png",
-                    "name": "Mystic Frozen",
-                    "drop_rate": "0.44%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_12521.png",
-                    "name": "Blue Gemstone",
-                    "drop_rate": "1.48%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_40706.png",
-                    "name": "Thick Dagger [2]",
-                    "drop_rate": "0.52%"
-                }
-            ],
-            "location_data": [
-                {
-                    "location": "Underwater Temple",
-                    "suggestion_level": "(Lv32~36)"
-                }
-            ]
-        }
-    },
-    {
-        "imgsrc": "www.roguard.net/content/img/icons/monsters/bee_monster.png",
-        "name": "Hornet",
-        "element": "Wind",
-        "race": "Insect",
-        "level": "Lv 38",
-        "hp": "4,568 Hp",
-        "base_exp": "225 Base Exp",
-        "job_exp": "178 Job Exp",
-        "metadata": {
-            "description": "As the mistress's guard, It's hardworking and brave and likes to collect honey. Although they don't attack humans often, If you steal their honey or try to steal their collections, Your safety can't be guaranteed.",
-            "common_data": {
-                "level": "38",
-                "type": "Monster",
-                "zone": "Field",
-                "race": "Insect",
-                "element": "Wind",
-                "size": "Small",
-                "passive_level": "40",
-                "base_exp": "225",
-                "job_exp": "178"
-            },
-            "attribute_data": {
-                "atk": "68",
-                "matk": "47",
-                "def": "0",
-                "mdef": "6",
-                "hp": "4,568",
-                "hit": "38",
-                "flee": "28",
-                "move_spd": "60",
-                "atk_spd": "0.6"
-            },
-            "card_data": {
-                "imgsrc": "www.roguard.net/content/img/cards/card_10036.jpg",
-                "name": "Hornet Card",
-                "effect": "Str ＋1, Atk ＋10",
-                "perma_buff": [
-                    "<div style=\"text-align: center;\">Atk ＋6</div>",
-                    "Atk ＋6"
-                ]
-            },
-            "drop_data": [
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_45008.png",
-                    "name": "Green Feeler Blueprint",
-                    "drop_rate": "?%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/19.png",
-                    "name": "Hornet Card",
-                    "drop_rate": "?%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_52103.png",
-                    "name": "Garlet",
-                    "drop_rate": "21.38%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_12100.png",
-                    "name": "Green Dyestuffs",
-                    "drop_rate": "0.28%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_12004.png",
-                    "name": "Transformation Scroll (Hornet)",
-                    "drop_rate": "0.01%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
-                    "name": "Zeny",
-                    "drop_rate": "70.02%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
-                    "name": "Zeny",
-                    "drop_rate": "70.02%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_12117.png",
-                    "name": "Honey",
-                    "drop_rate": "0.33%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_5113.png",
-                    "name": "Rough Wind",
-                    "drop_rate": "0.36%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_5024.png",
-                    "name": "Fly Wing",
-                    "drop_rate": "1.61%"
-                }
-            ],
-            "location_data": [
-                {
-                    "location": "Labyrinth Forest",
-                    "suggestion_level": "(Lv20~24)"
-                },
-                {
-                    "location": "Mjolnir Mountains",
-                    "suggestion_level": "(Lv38~45)"
-                }
-            ]
-        }
-    },
-    {
-        "imgsrc": "www.roguard.net/content/img/icons/monsters/goblin_archer_monster.png",
-        "name": "Goblin Archer",
-        "element": "Water",
-        "race": "Demi-Human",
-        "level": "Lv 37",
-        "hp": "4,243 Hp",
-        "base_exp": "252 Base Exp",
-        "job_exp": "155 Job Exp",
-        "metadata": {
-            "description": "A troublemaker in the Goblin group, it liked to play slingshot since it was young. After trying the bow, it began to love the bow. Although its accuracy has been very low, Its crazy shooting also makes the target extremely fearful. Even you lay around it, You will also get shot.",
-            "common_data": {
-                "level": "37",
-                "type": "Monster",
-                "zone": "Field",
-                "race": "Demi-Human",
-                "element": "Water",
-                "size": "Small",
-                "passive_level": "40",
-                "base_exp": "252",
-                "job_exp": "155"
-            },
-            "attribute_data": {
-                "atk": "46",
-                "matk": "45",
-                "def": "0",
-                "mdef": "0",
-                "hp": "4,243",
-                "hit": "37",
-                "flee": "43",
-                "move_spd": "60",
-                "atk_spd": "0.5"
-            },
-            "card_data": {
-                "imgsrc": "www.roguard.net/content/img/cards/card_10034.jpg",
-                "name": "Goblin Archer Card",
-                "effect": "Crit.Dmg ＋10%, Crit to undead monsters ＋20",
-                "perma_buff": [
-                    "<div style=\"text-align: center;\">Crit.Dmg ＋5%</div>",
-                    "Crit.Dmg ＋5%"
-                ]
-            },
-            "drop_data": [
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_48556.png",
-                    "name": "Evil Goblin Mask Blueprint",
-                    "drop_rate": "?%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/19.png",
-                    "name": "Goblin Archer Card",
-                    "drop_rate": "?%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_52152.png",
-                    "name": "Sticky Mucus",
-                    "drop_rate": "34.64%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_12004.png",
-                    "name": "Transformation Scroll (Goblin Archer)",
-                    "drop_rate": "0.48%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
-                    "name": "Zeny",
-                    "drop_rate": "59.28%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
-                    "name": "Zeny",
-                    "drop_rate": "59.28%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_41203.png",
-                    "name": "Composite Bow [2]",
-                    "drop_rate": "0.47%"
-                }
-            ],
-            "location_data": [
-                {
-                    "location": "Goblin Forest",
-                    "suggestion_level": "(Lv35~39)"
-                }
-            ]
-        }
-    },
-    {
-        "imgsrc": "www.roguard.net/content/img/icons/monsters/goblin_panzer_monster.png",
-        "name": "Steam Goblin",
-        "element": "Wind",
-        "race": "Demi-Human",
-        "level": "Lv 39",
-        "hp": "6,093 Hp",
-        "base_exp": "275 Base Exp",
-        "job_exp": "158 Job Exp",
-        "metadata": {
-            "description": "A scientist in the Goblin group, Together with the Rotar Zairo, They're known as the Genius Two. Its character is hot and it likes to go straight. After years of research, it developed a portable version of the Flame Thrower. The only drawback is that it is easy to extinguish, and it is still in improvement...",
-            "common_data": {
-                "level": "39",
-                "type": "Monster",
-                "zone": "Field",
-                "race": "Demi-Human",
-                "element": "Wind",
-                "size": "Medium",
-                "passive_level": "40",
-                "base_exp": "275",
-                "job_exp": "158"
-            },
-            "attribute_data": {
-                "atk": "60",
-                "matk": "17",
-                "def": "0",
-                "mdef": "6",
-                "hp": "6,093",
-                "hit": "39",
-                "flee": "94",
-                "move_spd": "60",
-                "atk_spd": "0.6"
-            },
-            "card_data": {
-                "imgsrc": "www.roguard.net/content/img/cards/card_10035.jpg",
-                "name": "Steam Goblin Card",
-                "effect": "Crit.Dmg ＋10%, Crit to formless monsters ＋20",
-                "perma_buff": [
-                    "<div style=\"text-align: center;\">Crit.Dmg ＋5%</div>",
-                    "Crit.Dmg ＋5%"
-                ]
-            },
-            "drop_data": [
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_48555.png",
-                    "name": "Smile Goblin Mask Blueprint",
-                    "drop_rate": "?%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/19.png",
-                    "name": "Steam Goblin Card",
-                    "drop_rate": "?%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_12004.png",
-                    "name": "Transformation Scroll (Steam Goblin)",
-                    "drop_rate": "0.71%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
-                    "name": "Zeny",
-                    "drop_rate": "87.24%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
-                    "name": "Zeny",
-                    "drop_rate": "87.24%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_52403.png",
-                    "name": "Coal",
-                    "drop_rate": "3.93%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_40605.png",
-                    "name": "Wand [2]",
-                    "drop_rate": "0.68%"
-                }
-            ],
-            "location_data": [
-                {
-                    "location": "Goblin Forest",
-                    "suggestion_level": "(Lv35~39)"
-                }
-            ]
-        }
-    },
-    {
-        "imgsrc": "www.roguard.net/content/img/icons/monsters/marc_monster.png",
-        "name": "Marc ★",
-        "element": "Water",
-        "race": "Fish",
-        "level": "Lv 36",
-        "hp": "48,012 Hp",
-        "base_exp": "1,210 Base Exp",
-        "job_exp": "765 Job Exp",
-        "metadata": {
-            "description": "A monster that lives on the bottom of the sea. Its size is not big, but its attack is quick and powerful. It's a powerful one in the aquatic monsters. According to research, Their descendants are born by males, and their dream is to take a leisurely walk in the dreamy night.",
-            "common_data": {
-                "level": "36",
-                "type": "Monster",
-                "zone": "Field",
-                "race": "Fish",
-                "element": "Water",
-                "size": "Medium",
-                "passive_level": "40",
-                "base_exp": "1,210",
-                "job_exp": "765"
-            },
-            "attribute_data": {
-                "atk": "192",
-                "matk": "67",
-                "def": "24",
-                "mdef": "13",
-                "hp": "48,012",
-                "hit": "182",
-                "flee": "72",
-                "move_spd": "80",
-                "atk_spd": "0.79"
-            },
-            "card_data": {
-                "imgsrc": "www.roguard.net/content/img/icons/items/item_48508.png",
-                "name": "Marc Card",
-                "effect": null,
-                "perma_buff": null
-            },
-            "drop_data": [],
-            "location_data": []
-        }
-    },
-    {
-        "imgsrc": "www.roguard.net/content/img/icons/monsters/drake_mvp.png",
-        "name": "Drake",
-        "element": "Undead",
-        "race": "Undead",
-        "level": "Lv 40",
-        "hp": "2,012,343 Hp",
-        "base_exp": "10,101 Base Exp",
-        "job_exp": "8,081 Job Exp",
-        "metadata": {
-            "description": "Before his death, he was a legendary pirate leader in the ocean. He loved the sea, pirate ship and crow... Although he was a captain with morality and ethics being doubted, he had the courage a pirate should have.",
-            "common_data": {
-                "level": "40",
-                "type": "MVP",
-                "zone": "Field",
-                "race": "Undead",
-                "element": "Undead",
-                "size": "Medium",
-                "passive_level": "999",
-                "base_exp": "10,101",
-                "job_exp": "8,081"
-            },
-            "attribute_data": {
-                "atk": "971",
-                "matk": "486",
-                "def": "114",
-                "mdef": "64",
-                "hp": "2,012,343",
-                "hit": "239",
-                "flee": "150",
-                "move_spd": "125",
-                "atk_spd": "1.5"
-            },
-            "card_data": {
-                "imgsrc": "www.roguard.net/content/img/cards/card_30004.jpg",
-                "name": "Drake Card",
-                "effect": "Deal 100% damage to small-/middle-/L-size monsters",
-                "perma_buff": [
-                    "<div style=\"text-align: center;\">Dmg ＋1%</div>",
-                    "Dmg ＋1%"
-                ]
-            },
-            "drop_data": [
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_45016.png",
-                    "name": "Corsair [1] Blueprint",
-                    "drop_rate": "0.13%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/19.png",
-                    "name": "Drake Card",
-                    "drop_rate": "?%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_52202.png",
-                    "name": "Memento",
-                    "drop_rate": "8.6%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_52304.png",
-                    "name": "Fabric",
-                    "drop_rate": "16.44%"
-                },
-                {
-                    "imgsrc": null,
-                    "name": "Transformation Scroll (Drake)",
-                    "drop_rate": "0.54%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_4001.png",
-                    "name": "Dreamer's Dream",
-                    "drop_rate": "21.92%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_5003.png",
-                    "name": "Elunium",
-                    "drop_rate": "5.75%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_12023.png",
-                    "name": "White Potion",
-                    "drop_rate": "46.59%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
-                    "name": "Zeny",
-                    "drop_rate": "?%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_40707.png",
-                    "name": "Stiletto [2]",
-                    "drop_rate": "?%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_40310.png",
-                    "name": "Flamberge [1]",
-                    "drop_rate": "100%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_42036.png",
-                    "name": "Deathcat Armor",
-                    "drop_rate": "100%"
-                }
-            ],
-            "location_data": []
-        }
-    },
-    {
-        "imgsrc": "www.roguard.net/content/img/icons/monsters/rodafrog_mini.png",
-        "name": "Toad",
-        "element": "Water",
-        "race": "Fish",
-        "level": "Lv 40",
-        "hp": "804,938 Hp",
-        "base_exp": "2,581 Base Exp",
-        "job_exp": "1,290 Job Exp",
-        "metadata": {
-            "description": "The leader of Roda Frogs, which loves the group members. With a strong body, Sometimes it will bask to maintain a healthy complexion. The most uncomfortable thing for it is Roda Frogs or Thara Frog being bullied. If it finds it, it will severely punish the enemy!",
-            "common_data": {
-                "level": "40",
-                "type": "Mini Boss",
-                "zone": "Field",
-                "race": "Fish",
-                "element": "Water",
-                "size": "Medium",
-                "passive_level": "999",
-                "base_exp": "2,581",
-                "job_exp": "1,290"
-            },
-            "attribute_data": {
-                "atk": "327",
-                "matk": "164",
-                "def": "0",
-                "mdef": "0",
-                "hp": "804,938",
-                "hit": "110",
-                "flee": "15",
-                "move_spd": "135",
-                "atk_spd": "1"
-            },
-            "card_data": {
-                "imgsrc": "www.roguard.net/content/img/cards/card_20005.jpg",
-                "name": "Toad Card",
-                "effect": "Dex ＋4, Flee ＋5",
-                "perma_buff": [
-                    "<div style=\"text-align: center;\">Def ＋4</div>",
-                    "Def ＋4"
-                ]
-            },
-            "drop_data": [
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_45019.png",
-                    "name": "Big Ribbon [1] Blueprint",
-                    "drop_rate": "0.96%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/19.png",
-                    "name": "Toad Card",
-                    "drop_rate": "?%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_52152.png",
-                    "name": "Sticky Mucus",
-                    "drop_rate": "11.69%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_52305.png",
-                    "name": "Light Granule",
-                    "drop_rate": "3.52%"
-                },
-                {
-                    "imgsrc": null,
-                    "name": "Transformation Scroll (Toad)",
-                    "drop_rate": "1.2%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_12117.png",
-                    "name": "Honey",
-                    "drop_rate": "4.47%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_5004.png",
-                    "name": "Rough Elunium",
-                    "drop_rate": "14.1%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
-                    "name": "Zeny",
-                    "drop_rate": "?%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_43502.png",
-                    "name": "Light Shoes [1]",
-                    "drop_rate": "32.01%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_42523.png",
-                    "name": "Morpheus's Bracelet [1]",
-                    "drop_rate": "32.01%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_42009.png",
-                    "name": "Silk Robe",
-                    "drop_rate": "100%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_42008.png",
-                    "name": "Saphien's Armor of Ocean",
-                    "drop_rate": "100%"
-                }
-            ],
-            "location_data": []
-        }
-    },
-    {
-        "imgsrc": "www.roguard.net/content/img/icons/monsters/ant2_monster.png",
-        "name": "Deniro",
-        "element": "Earth",
-        "race": "Insect",
-        "level": "Lv 40",
-        "hp": "8,156 Hp",
-        "base_exp": "269 Base Exp",
-        "job_exp": "169 Job Exp",
-        "metadata": {
-            "description": "One of the common ants, Whose main duties are guarding and fighting. Its upper jaw is advanced and huge that can crush hard food and become a weapon when defending the group. As the most loyal fan, it absolutely obeys all orders of the queen.",
-            "common_data": {
-                "level": "40",
-                "type": "Monster",
-                "zone": "Field",
-                "race": "Insect",
-                "element": "Earth",
-                "size": "Small",
-                "passive_level": "40",
-                "base_exp": "269",
-                "job_exp": "169"
-            },
-            "attribute_data": {
-                "atk": "76",
-                "matk": "51",
-                "def": "63",
-                "mdef": "16",
-                "hp": "8,156",
-                "hit": "60",
-                "flee": "38",
-                "move_spd": "55",
-                "atk_spd": "0.6"
-            },
-            "card_data": {
-                "imgsrc": "www.roguard.net/content/img/cards/card_10040.jpg",
-                "name": "Andre Card",
-                "effect": "Atk ＋10",
-                "perma_buff": [
-                    "<div style=\"text-align: center;\">Atk ＋3</div>",
-                    "Atk ＋3"
-                ]
-            },
-            "drop_data": [
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_45025.png",
-                    "name": "Safety Helmet Blueprint",
-                    "drop_rate": "?%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_52103.png",
-                    "name": "Garlet",
-                    "drop_rate": "32%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_12004.png",
-                    "name": "Transformation Scroll (Deniro)",
-                    "drop_rate": "0.51%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
-                    "name": "Zeny",
-                    "drop_rate": "61.62%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
-                    "name": "Zeny",
-                    "drop_rate": "61.62%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_5112.png",
-                    "name": "Flame Heart",
-                    "drop_rate": "0.54%"
-                }
-            ],
-            "location_data": [
-                {
-                    "location": "Ant Hell",
-                    "suggestion_level": "(Lv40~48)"
-                },
-                {
-                    "location": "Sograt Desert",
-                    "suggestion_level": "(Lv40~51)"
-                },
-                {
-                    "location": "Ant Hell",
-                    "suggestion_level": "(Lv40~48)"
-                }
-            ]
-        }
-    },
-    {
-        "imgsrc": "www.roguard.net/content/img/icons/monsters/flora_monster.png",
-        "name": "Flora",
-        "element": "Earth",
-        "race": "Plant",
-        "level": "Lv 41",
-        "hp": "5,699 Hp",
-        "base_exp": "274 Base Exp",
-        "job_exp": "174 Job Exp",
-        "metadata": {
-            "description": "A maneating plant, with ferocious nature of carnivores, it will actively attack the passing adventurers. Communication bewteen them has been difficult, because the big mouths with teeth will scare each other, and the serious fetid breath...",
-            "common_data": {
-                "level": "41",
-                "type": "Monster",
-                "zone": "Field",
-                "race": "Plant",
-                "element": "Earth",
-                "size": "Large",
-                "passive_level": "40",
-                "base_exp": "274",
-                "job_exp": "174"
-            },
-            "attribute_data": {
-                "atk": "79",
-                "matk": "52",
-                "def": "11",
-                "mdef": "13",
-                "hp": "5,699",
-                "hit": "61",
-                "flee": "52",
-                "move_spd": "0",
-                "atk_spd": "0.7"
-            },
-            "card_data": {
-                "imgsrc": "www.roguard.net/content/img/cards/card_10037.jpg",
-                "name": "Flora Card",
-                "effect": "Dmg to fish race ＋15%",
-                "perma_buff": [
-                    "<div style=\"text-align: center;\">Dmg to fish race ＋2%</div>",
-                    "Dmg to fish race ＋2%"
-                ]
-            },
-            "drop_data": [
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_45022.png",
-                    "name": "Hibiscus Blueprint",
-                    "drop_rate": "?%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/19.png",
-                    "name": "Flora Card",
-                    "drop_rate": "?%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_52202.png",
-                    "name": "Memento",
-                    "drop_rate": "42.78%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_12004.png",
-                    "name": "Transformation Scroll (Flora)",
-                    "drop_rate": "0.01%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
-                    "name": "Zeny",
-                    "drop_rate": "52.67%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
-                    "name": "Zeny",
-                    "drop_rate": "52.67%"
-                }
-            ],
-            "location_data": [
-                {
-                    "location": "Mjolnir Mountains",
-                    "suggestion_level": "(Lv38~45)"
-                }
-            ]
-        }
-    },
-    {
-        "imgsrc": "www.roguard.net/content/img/icons/monsters/ant_monster.png",
-        "name": "Andre",
-        "element": "Earth",
-        "race": "Insect",
-        "level": "Lv 44",
-        "hp": "9,956 Hp",
-        "base_exp": "290 Base Exp",
-        "job_exp": "189 Job Exp",
-        "metadata": {
-            "description": "A common ant, who is responsible for supervising the work of Deniros and Pieres. Management and supervision are arts, and they need perfect planning and coordination. Don't annoy it, Otherwise... The Pieres and Andres will attack you!",
-            "common_data": {
-                "level": "44",
-                "type": "Monster",
-                "zone": "Field",
-                "race": "Insect",
-                "element": "Earth",
-                "size": "Small",
-                "passive_level": "40",
-                "base_exp": "290",
-                "job_exp": "189"
-            },
-            "attribute_data": {
-                "atk": "86",
-                "matk": "57",
-                "def": "22",
-                "mdef": "12",
-                "hp": "9,956",
-                "hit": "64",
-                "flee": "34",
-                "move_spd": "50",
-                "atk_spd": "0.6"
-            },
-            "card_data": {
-                "imgsrc": "www.roguard.net/content/img/cards/card_10040.jpg",
-                "name": "Andre Card",
-                "effect": "Atk ＋10",
-                "perma_buff": [
-                    "<div style=\"text-align: center;\">Atk ＋3</div>",
-                    "Atk ＋3"
-                ]
-            },
-            "drop_data": [
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/19.png",
-                    "name": "Andre Card",
-                    "drop_rate": "?%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_52104.png",
-                    "name": "Scell",
-                    "drop_rate": "27.01%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_12004.png",
-                    "name": "Transformation Scroll (Andre)",
-                    "drop_rate": "0.57%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
-                    "name": "Zeny",
-                    "drop_rate": "66.14%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
-                    "name": "Zeny",
-                    "drop_rate": "66.14%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_5111.png",
-                    "name": "Great Nature",
-                    "drop_rate": "0.59%"
-                }
-            ],
-            "location_data": [
-                {
-                    "location": "Ant Hell",
-                    "suggestion_level": "(Lv40~48)"
-                },
-                {
-                    "location": "Sograt Desert",
-                    "suggestion_level": "(Lv40~51)"
-                },
-                {
-                    "location": "Ant Hell",
-                    "suggestion_level": "(Lv40~48)"
-                }
-            ]
-        }
-    },
-    {
-        "imgsrc": "www.roguard.net/content/img/icons/monsters/ant3_monster.png",
-        "name": "Piere",
-        "element": "Earth",
-        "race": "Insect",
-        "level": "Lv 42",
-        "hp": "9,056 Hp",
-        "base_exp": "280 Base Exp",
-        "job_exp": "179 Job Exp",
-        "metadata": {
-            "description": "One of the common ants, whose main duties are building and defending in a large area, collecting food, feeding young ants and queen. Its upper jaw is advanced and huge that can crush hard food and become a weapon when defending the group. The interests of the ants are supreme for them!",
-            "common_data": {
-                "level": "42",
-                "type": "Monster",
-                "zone": "Field",
-                "race": "Insect",
-                "element": "Earth",
-                "size": "Small",
-                "passive_level": "40",
-                "base_exp": "280",
-                "job_exp": "179"
-            },
-            "attribute_data": {
-                "atk": "81",
-                "matk": "54",
-                "def": "26",
-                "mdef": "12",
-                "hp": "9,056",
-                "hit": "62",
-                "flee": "36",
-                "move_spd": "55",
-                "atk_spd": "0.6"
-            },
-            "card_data": {
-                "imgsrc": "www.roguard.net/content/img/cards/card_10040.jpg",
-                "name": "Andre Card",
-                "effect": "Atk ＋10",
-                "perma_buff": [
-                    "<div style=\"text-align: center;\">Atk ＋3</div>",
-                    "Atk ＋3"
-                ]
-            },
-            "drop_data": [
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/19.png",
-                    "name": "Andre Card",
-                    "drop_rate": "?%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_52103.png",
-                    "name": "Garlet",
-                    "drop_rate": "30.64%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_12004.png",
-                    "name": "Transformation Scroll (Piere)",
-                    "drop_rate": "0.52%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
-                    "name": "Zeny",
-                    "drop_rate": "62.5%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
-                    "name": "Zeny",
-                    "drop_rate": "62.5%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_5113.png",
-                    "name": "Rough Wind",
-                    "drop_rate": "0.51%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_42511.png",
-                    "name": "Cross Shield [1]",
-                    "drop_rate": "0.49%"
-                }
-            ],
-            "location_data": [
-                {
-                    "location": "Ant Hell",
-                    "suggestion_level": "(Lv40~48)"
-                },
-                {
-                    "location": "Sograt Desert",
-                    "suggestion_level": "(Lv40~51)"
-                },
-                {
-                    "location": "Ant Hell",
-                    "suggestion_level": "(Lv40~48)"
-                }
-            ]
-        }
-    },
-    {
-        "imgsrc": "www.roguard.net/content/img/icons/monsters/giearth_monster.png",
-        "name": "Giearth",
-        "element": "Earth",
-        "race": "Demon",
-        "level": "Lv 48",
-        "hp": "11,756 Hp",
-        "base_exp": "329 Base Exp",
-        "job_exp": "200 Job Exp",
-        "metadata": {
-            "description": "A senior miner, with many years mining experience. It can deal with all kinds of cave accidents. It works in the dark caves and mines all the year round, and doesn't like to deal with people. If you disturb its mining, He will use the shovel to fight you!",
-            "common_data": {
-                "level": "48",
-                "type": "Monster",
-                "zone": "Field",
-                "race": "Demon",
-                "element": "Earth",
-                "size": "Small",
-                "passive_level": "40",
-                "base_exp": "329",
-                "job_exp": "200"
-            },
-            "attribute_data": {
-                "atk": "96",
-                "matk": "63",
-                "def": "86",
-                "mdef": "20",
-                "hp": "11,756",
-                "hit": "68",
-                "flee": "58",
-                "move_spd": "60",
-                "atk_spd": "0.6"
-            },
-            "card_data": {
-                "imgsrc": "www.roguard.net/content/img/cards/card_10045.jpg",
-                "name": "Giearth Card",
-                "effect": "Avoid sleeping effect",
-                "perma_buff": [
-                    "<div style=\"text-align: center;\">Earth Dmg Taken -2%</div>",
-                    "Earth Dmg Taken -2%"
-                ]
-            },
-            "drop_data": [
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_48516.png",
-                    "name": "Elven Ears Blueprint",
-                    "drop_rate": "?%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/19.png",
-                    "name": "Giearth Card",
-                    "drop_rate": "?%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_12004.png",
-                    "name": "Transformation Scroll (Giearth)",
-                    "drop_rate": "0.06%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
-                    "name": "Zeny",
-                    "drop_rate": "81.93%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
-                    "name": "Zeny",
-                    "drop_rate": "81.93%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_5111.png",
-                    "name": "Great Nature",
-                    "drop_rate": "2.27%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_52404.png",
-                    "name": "Gold Sand",
-                    "drop_rate": "7.42%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_61504.png",
-                    "name": "Dex Bracelet [1]",
-                    "drop_rate": "1.29%"
-                }
-            ],
-            "location_data": [
-                {
-                    "location": "Ant Hell",
-                    "suggestion_level": "(Lv40~48)"
-                },
-                {
-                    "location": "Ant Hell",
-                    "suggestion_level": "(Lv40~48)"
-                }
-            ]
-        }
-    },
-    {
-        "imgsrc": "www.roguard.net/content/img/icons/monsters/black_ant_monster.png",
-        "name": "Vitata",
-        "element": "Earth",
-        "race": "Insect",
-        "level": "Lv 47",
-        "hp": "11,306 Hp",
-        "base_exp": "318 Base Exp",
-        "job_exp": "198 Job Exp",
-        "metadata": {
-            "description": "A large ant, Except for migration and nesting, it rarely goes out. But its development is the most complete. It gives birth to and breeds offsprings. Its body size is much larger than that of common ants, and it also has a good fighting power. Dare to provoke the ants? Let's see what will happen!",
-            "common_data": {
-                "level": "47",
-                "type": "Monster",
-                "zone": "Field",
-                "race": "Insect",
-                "element": "Earth",
-                "size": "Small",
-                "passive_level": "40",
-                "base_exp": "318",
-                "job_exp": "198"
-            },
-            "attribute_data": {
-                "atk": "93",
-                "matk": "62",
-                "def": "0",
-                "mdef": "22",
-                "hp": "11,306",
-                "hit": "67",
-                "flee": "40",
-                "move_spd": "60",
-                "atk_spd": "0.6"
-            },
-            "card_data": {
-                "imgsrc": "www.roguard.net/content/img/cards/card_10044.jpg",
-                "name": "Vitata Card",
-                "effect": "Can use Skill - [Heal] Lv.2",
-                "perma_buff": [
-                    "<div style=\"text-align: center;\">Max HP ＋56</div>",
-                    "Max HP ＋56"
-                ]
-            },
-            "drop_data": [
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/19.png",
-                    "name": "Vitata Card",
-                    "drop_rate": "?%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_52104.png",
-                    "name": "Scell",
-                    "drop_rate": "10.18%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_5001.png",
-                    "name": "Rough Oridecon",
-                    "drop_rate": "0.26%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_12004.png",
-                    "name": "Transformation Scroll (Vitata)",
-                    "drop_rate": "0.01%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
-                    "name": "Zeny",
-                    "drop_rate": "81.93%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
-                    "name": "Zeny",
-                    "drop_rate": "81.93%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_12117.png",
-                    "name": "Honey",
-                    "drop_rate": "0.2%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_12326.png",
-                    "name": "Royal Jelly",
-                    "drop_rate": "0.04%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_43524.png",
-                    "name": "Glass Boots [1]",
-                    "drop_rate": "0.32%"
-                }
-            ],
-            "location_data": [
-                {
-                    "location": "Ant Hell",
-                    "suggestion_level": "(Lv40~48)"
-                },
-                {
-                    "location": "Ant Hell",
-                    "suggestion_level": "(Lv40~48)"
-                }
-            ]
-        }
-    },
-    {
-        "imgsrc": "www.roguard.net/content/img/icons/monsters/strouf_mvp.png",
-        "name": "Strouf",
-        "element": "Water",
-        "race": "Fish",
-        "level": "Lv 45",
-        "hp": "2,806,387 Hp",
-        "base_exp": "12,433 Base Exp",
-        "job_exp": "8,469 Job Exp",
-        "metadata": {
-            "description": "The great and majestic Sea King who is in charge of all the waters around the mainland. Just like the waves of the sea, his character is unruly. And his artifact Trident has an amazing destructive power and can even trigger a tsunami.",
-            "common_data": {
-                "level": "45",
-                "type": "MVP",
-                "zone": "Field",
-                "race": "Fish",
-                "element": "Water",
-                "size": "Large",
-                "passive_level": "999",
-                "base_exp": "12,433",
-                "job_exp": "8,469"
-            },
-            "attribute_data": {
-                "atk": "350",
-                "matk": "1,120",
-                "def": "20",
-                "mdef": "450",
-                "hp": "2,806,387",
-                "hit": "181",
-                "flee": "88",
-                "move_spd": "105",
-                "atk_spd": "0.9"
-            },
-            "card_data": {
-                "imgsrc": "www.roguard.net/content/img/cards/card_30005.jpg",
-                "name": "Strouf Card",
-                "effect": "Damage to demon monsters ＋25%",
-                "perma_buff": [
-                    "<div style=\"text-align: center;\">Dmg to Demon ＋2%</div>",
-                    "Dmg to Demon ＋2%"
-                ]
-            },
-            "drop_data": [
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_45020.png",
-                    "name": "Thunderstorm Cloud Blueprint",
-                    "drop_rate": "0.1%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/19.png",
-                    "name": "Strouf Card",
-                    "drop_rate": "?%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_52152.png",
-                    "name": "Sticky Mucus",
-                    "drop_rate": "1.1%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_12106.png",
-                    "name": "Cobaltblue Dyestuffs",
-                    "drop_rate": "26.99%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_52309.png",
-                    "name": "Pearl",
-                    "drop_rate": "8.63%"
-                },
-                {
-                    "imgsrc": null,
-                    "name": "Transformation Scroll (Strouf)",
-                    "drop_rate": "0.38%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_4001.png",
-                    "name": "Dream of Whale",
-                    "drop_rate": "15.42%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_5002.png",
-                    "name": "Oridecon",
-                    "drop_rate": "4.04%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
-                    "name": "Zeny",
-                    "drop_rate": "43.29%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_40006.png",
-                    "name": "Equestrian's Spear [2]",
-                    "drop_rate": "?%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_40610.png",
-                    "name": "Lich Staff [1]",
-                    "drop_rate": "100%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_42038.png",
-                    "name": "Staunch Clothes",
-                    "drop_rate": "100%"
-                }
-            ],
-            "location_data": []
-        }
-    },
-    {
-        "imgsrc": "www.roguard.net/content/img/icons/monsters/goblin_helicopter_mini.png",
-        "name": "Rotar Zairo",
-        "element": "Wind",
-        "race": "Formless",
-        "level": "Lv 45",
-        "hp": "801,825 Hp",
-        "base_exp": "2,630 Base Exp",
-        "job_exp": "1,611 Job Exp",
-        "metadata": {
-            "description": "A Goblin scientist, Together with Steam Goblin, are called Genius Twin Stars. Its character is easy-going. It's good at communication and it recently developed the new generation of Goblin Helicopter-XIII, which battery life needs to be improved...",
-            "common_data": {
-                "level": "45",
-                "type": "Mini Boss",
-                "zone": "Field",
-                "race": "Formless",
-                "element": "Wind",
-                "size": "Large",
-                "passive_level": "999",
-                "base_exp": "2,630",
-                "job_exp": "1,611"
-            },
-            "attribute_data": {
-                "atk": "499",
-                "matk": "250",
-                "def": "19",
-                "mdef": "61",
-                "hp": "801,825",
-                "hit": "170",
-                "flee": "87",
-                "move_spd": "125",
-                "atk_spd": "1"
-            },
-            "card_data": {
-                "imgsrc": "www.roguard.net/content/img/cards/card_20006.jpg",
-                "name": "Rotar Zairo Card",
-                "effect": "Critical ＋7, Crit.Dmg ＋10%",
-                "perma_buff": [
-                    "<div style=\"text-align: center;\">Critical ＋2</div>",
-                    "Critical ＋2"
-                ]
-            },
-            "drop_data": [
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_45021.png",
-                    "name": "Mini Propeller Blueprint",
-                    "drop_rate": "0.55%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/19.png",
-                    "name": "Rotar Zairo Card",
-                    "drop_rate": "?%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_52103.png",
-                    "name": "Garlet",
-                    "drop_rate": "15.07%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_52306.png",
-                    "name": "Parts",
-                    "drop_rate": "4.17%"
-                },
-                {
-                    "imgsrc": null,
-                    "name": "Transformation Scroll (Rotar Zairo)",
-                    "drop_rate": "1.28%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_5002.png",
-                    "name": "Oridecon",
-                    "drop_rate": "1.49%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_52503.png",
-                    "name": "Zircon",
-                    "drop_rate": "39.94%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
-                    "name": "Zeny",
-                    "drop_rate": "0.18%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_41534.png",
-                    "name": "Steel Staff [2]",
-                    "drop_rate": "37.27%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_44006.png",
-                    "name": "Luna Brooch",
-                    "drop_rate": "100%"
-                }
-            ],
-            "location_data": []
-        }
-    },
-    {
-        "imgsrc": "www.roguard.net/content/img/icons/monsters/menblatt_monster.png",
-        "name": "Menblatt",
-        "element": "Wind",
-        "race": "Insect",
-        "level": "Lv 45",
-        "hp": "7,615 Hp",
-        "base_exp": "260 Base Exp",
-        "job_exp": "215 Job Exp",
-        "metadata": {
-            "description": "A beautiful elf inhabiting the Mjolnir Mountains, Featuring a beautiful pair of butterfly wings. Its temperament is mild, Cheerful and passionate. It loves nature, Can communicate with trees and flowers, Fish and birds, but it is not soft to the enemies who destroy the nature.",
-            "common_data": {
-                "level": "45",
-                "type": "Monster",
-                "zone": "Field",
-                "race": "Insect",
-                "element": "Wind",
-                "size": "Large",
-                "passive_level": "40",
-                "base_exp": "260",
-                "job_exp": "215"
-            },
-            "attribute_data": {
-                "atk": "88",
-                "matk": "56",
-                "def": "24",
-                "mdef": "1",
-                "hp": "7,615",
-                "hit": "65",
-                "flee": "82",
-                "move_spd": "80",
-                "atk_spd": "0.799"
-            },
-            "card_data": {
-                "imgsrc": "www.roguard.net/content/img/cards/card_10039.jpg",
-                "name": "Menblatt Card",
-                "effect": "Damage to earth monsters ＋20%",
-                "perma_buff": [
-                    "<div style=\"text-align: center;\">M.Def ＋4</div>",
-                    "M.Def ＋4"
-                ]
-            },
-            "drop_data": [
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_48515.png",
-                    "name": "Butterfly Wing Ears Blueprint",
-                    "drop_rate": "?%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/19.png",
-                    "name": "Menblatt Card",
-                    "drop_rate": "?%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_52103.png",
-                    "name": "Garlet",
-                    "drop_rate": "37.45%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_12004.png",
-                    "name": "Transformation Scroll (Menblatt)",
-                    "drop_rate": "0.03%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
-                    "name": "Zeny",
-                    "drop_rate": "46.73%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
-                    "name": "Zeny",
-                    "drop_rate": "46.73%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_12310.png",
-                    "name": "Apple Juice",
-                    "drop_rate": "9.87%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_50001.png",
-                    "name": "Butterfly Wing",
-                    "drop_rate": "1.18%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_40627.png",
-                    "name": "Arc Wand [2]",
-                    "drop_rate": "0.73%"
-                }
-            ],
-            "location_data": [
-                {
-                    "location": "Mjolnir Mountains",
-                    "suggestion_level": "(Lv38~45)"
-                }
-            ]
-        }
-    },
-    {
-        "imgsrc": "www.roguard.net/content/img/icons/monsters/drainliar_monster.png",
-        "name": "Drainliar",
-        "element": "Shadow",
-        "race": "Brute",
-        "level": "Lv 46",
-        "hp": "10,856 Hp",
-        "base_exp": "378 Base Exp",
-        "job_exp": "155 Job Exp",
-        "metadata": {
-            "description": "The variant version of Familiar, flying faster. It likes to attack players in groups. For it, blood is an absolute temptation. Don't be scornful because of its small size, its two blood-sucking tusks are no small threat to any creature.",
-            "common_data": {
-                "level": "46",
-                "type": "Monster",
-                "zone": "Field",
-                "race": "Brute",
-                "element": "Shadow",
-                "size": "Small",
-                "passive_level": "40",
-                "base_exp": "378",
-                "job_exp": "155"
-            },
-            "attribute_data": {
-                "atk": "91",
-                "matk": "60",
-                "def": "41",
-                "mdef": "0",
-                "hp": "10,856",
-                "hit": "66",
-                "flee": "60",
-                "move_spd": "50",
-                "atk_spd": "0.6"
-            },
-            "card_data": {
-                "imgsrc": "www.roguard.net/content/img/cards/card_10043.jpg",
-                "name": "Drainliar Card",
-                "effect": "Dmg to Water monsters ＋20%",
-                "perma_buff": [
-                    "<div style=\"text-align: center;\">M.Atk ＋6</div>",
-                    "M.Atk ＋6"
-                ]
-            },
-            "drop_data": [
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_45006.png",
-                    "name": "Ribbon [1] Blueprint",
-                    "drop_rate": "?%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/19.png",
-                    "name": "Drainliar Card",
-                    "drop_rate": "?%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_52152.png",
-                    "name": "Sticky Mucus",
-                    "drop_rate": "28.81%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_12101.png",
-                    "name": "Scarlet Dyestuffs",
-                    "drop_rate": "0.38%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_5001.png",
-                    "name": "Rough Oridecon",
-                    "drop_rate": "0.56%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_12004.png",
-                    "name": "Transformation Scroll (Drainliar)",
-                    "drop_rate": "0.02%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
-                    "name": "Zeny",
-                    "drop_rate": "62.61%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
-                    "name": "Zeny",
-                    "drop_rate": "62.61%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_5024.png",
-                    "name": "Fly Wing",
-                    "drop_rate": "2.17%"
-                }
-            ],
-            "location_data": [
-                {
-                    "location": "Ant Hell",
-                    "suggestion_level": "(Lv40~48)"
-                },
-                {
-                    "location": "Ant Hell",
-                    "suggestion_level": "(Lv40~48)"
-                }
-            ]
-        }
-    },
-    {
-        "imgsrc": "www.roguard.net/content/img/icons/monsters/argiope_monster.png",
-        "name": "Argiope",
-        "element": "Poison",
-        "race": "Insect",
-        "level": "Lv 43",
-        "hp": "6,657 Hp",
-        "base_exp": "332 Base Exp",
-        "job_exp": "157 Job Exp",
-        "metadata": {
-            "description": "A large insect with strong territory possession desire. People see it the first time will be scared by its appearance. Its body is made up of many body sections, Each with feet. The most troublesome thing for it is the foot care, Every time it is asked how many feet it has, it will become very violent!",
-            "common_data": {
-                "level": "43",
-                "type": "Monster",
-                "zone": "Field",
-                "race": "Insect",
-                "element": "Poison",
-                "size": "Large",
-                "passive_level": "40",
-                "base_exp": "332",
-                "job_exp": "157"
-            },
-            "attribute_data": {
-                "atk": "84",
-                "matk": "56",
-                "def": "86",
-                "mdef": "6",
-                "hp": "6,657",
-                "hit": "63",
-                "flee": "82",
-                "move_spd": "60",
-                "atk_spd": "0.75"
-            },
-            "card_data": {
-                "imgsrc": "www.roguard.net/content/img/cards/card_10038.jpg",
-                "name": "Argiope Card",
-                "effect": "Turn the armor's element into Poison, Def ＋20",
-                "perma_buff": [
-                    "<div style=\"text-align: center;\">Def ＋4</div>",
-                    "Def ＋4"
-                ]
-            },
-            "drop_data": [
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_48540.png",
-                    "name": "Gas Mask Blueprint",
-                    "drop_rate": "?%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/19.png",
-                    "name": "Argiope Card",
-                    "drop_rate": "?%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_5004.png",
-                    "name": "Rough Elunium",
-                    "drop_rate": "1%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_12004.png",
-                    "name": "Transformation Scroll (Argiope)",
-                    "drop_rate": "0.03%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
-                    "name": "Zeny",
-                    "drop_rate": "86.77%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
-                    "name": "Zeny",
-                    "drop_rate": "86.77%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_52403.png",
-                    "name": "Coal",
-                    "drop_rate": "3.97%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_61504.png",
-                    "name": "Dex Bracelet [1]",
-                    "drop_rate": "0.69%"
-                }
-            ],
-            "location_data": [
-                {
-                    "location": "Labyrinth Forest",
-                    "suggestion_level": "(Lv20~24)"
-                },
-                {
-                    "location": "Mjolnir Mountains",
-                    "suggestion_level": "(Lv38~45)"
-                }
-            ]
-        }
-    },
-    {
-        "imgsrc": "www.roguard.net/content/img/icons/monsters/ant2_monster.png",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/monsters/ant2_monster.png",
         "name": "Deniro ★",
         "element": "Earth",
         "race": "Insect",
-        "level": "Lv 40",
-        "hp": "55,461 Hp",
-        "base_exp": "1,345 Base Exp",
-        "job_exp": "845 Job Exp",
+        "level": "class=\"desktop-only\"",
+        "hp": "Lv 40",
+        "base_exp": "class=\"desktop-only\"",
+        "job_exp": "1,345 Base Exp",
         "metadata": {
             "description": "One of the common ants, Whose main duties are guarding and fighting. Its upper jaw is advanced and huge that can crush hard food and become a weapon when defending the group. As the most loyal fan, it absolutely obeys all orders of the queen.",
             "common_data": {
@@ -1762,13 +33,1271 @@
                 "atk_spd": "0.6"
             },
             "card_data": {
-                "imgsrc": "www.roguard.net/content/img/icons/items/item_45025.png",
+                "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45025.png",
                 "name": "Andre Card",
                 "effect": null,
                 "perma_buff": null
             },
             "drop_data": [],
             "location_data": []
+        }
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/monsters/ant3_monster.png",
+        "name": "Piere",
+        "element": "Earth",
+        "race": "Insect",
+        "level": "class=\"desktop-only\"",
+        "hp": "Lv 42",
+        "base_exp": "class=\"desktop-only\"",
+        "job_exp": "280 Base Exp",
+        "metadata": {
+            "description": "One of the common ants, whose main duties are building and defending in a large area, collecting food, feeding young ants and queen. Its upper jaw is advanced and huge that can crush hard food and become a weapon when defending the group. The interests of the ants are supreme for them!",
+            "common_data": {
+                "level": "42",
+                "type": "Monster",
+                "zone": "Field",
+                "race": "Insect",
+                "element": "Earth",
+                "size": "Small",
+                "passive_level": "40",
+                "base_exp": "280",
+                "job_exp": "179"
+            },
+            "attribute_data": {
+                "atk": "81",
+                "matk": "54",
+                "def": "26",
+                "mdef": "12",
+                "hp": "9,056",
+                "hit": "62",
+                "flee": "36",
+                "move_spd": "55",
+                "atk_spd": "0.6"
+            },
+            "card_data": {
+                "imgsrc": "s01.cdn.roguard.net/content/img/cards/card_10040.jpg",
+                "name": "Andre Card",
+                "effect": "Atk ＋10",
+                "perma_buff": "Atk ＋3"
+            },
+            "drop_data": [
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+                    "name": "Andre Card",
+                    "drop_rate": "?%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_52103.png",
+                    "name": "Garlet",
+                    "drop_rate": "30.64%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12004.png",
+                    "name": "Transformation Scroll (Piere)",
+                    "drop_rate": "0.52%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_100.png",
+                    "name": "Zeny",
+                    "drop_rate": "62.5%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_100.png",
+                    "name": "Zeny",
+                    "drop_rate": "62.5%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_5113.png",
+                    "name": "Rough Wind",
+                    "drop_rate": "0.51%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42511.png",
+                    "name": "Cross Shield [1]",
+                    "drop_rate": "0.49%"
+                }
+            ],
+            "location_data": [
+                {
+                    "location": "Ant Hell",
+                    "suggestion_level": "(Lv40~48)"
+                },
+                {
+                    "location": "Sograt Desert",
+                    "suggestion_level": "(Lv40~51)"
+                },
+                {
+                    "location": "Ant Hell",
+                    "suggestion_level": "(Lv40~48)"
+                }
+            ]
+        }
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/monsters/bee_monster.png",
+        "name": "Hornet",
+        "element": "Wind",
+        "race": "Insect",
+        "level": "class=\"desktop-only\"",
+        "hp": "Lv 38",
+        "base_exp": "class=\"desktop-only\"",
+        "job_exp": "225 Base Exp",
+        "metadata": {
+            "description": "As the mistress's guard, It's hardworking and brave and likes to collect honey. Although they don't attack humans often, If you steal their honey or try to steal their collections, Your safety can't be guaranteed.",
+            "common_data": {
+                "level": "38",
+                "type": "Monster",
+                "zone": "Field",
+                "race": "Insect",
+                "element": "Wind",
+                "size": "Small",
+                "passive_level": "40",
+                "base_exp": "225",
+                "job_exp": "178"
+            },
+            "attribute_data": {
+                "atk": "68",
+                "matk": "47",
+                "def": "0",
+                "mdef": "6",
+                "hp": "4,568",
+                "hit": "38",
+                "flee": "28",
+                "move_spd": "60",
+                "atk_spd": "0.6"
+            },
+            "card_data": {
+                "imgsrc": "s01.cdn.roguard.net/content/img/cards/card_10036.jpg",
+                "name": "Hornet Card",
+                "effect": "Str ＋1, Atk ＋10",
+                "perma_buff": "Atk ＋6"
+            },
+            "drop_data": [
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45008.png",
+                    "name": "Green Feeler Blueprint",
+                    "drop_rate": "?%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+                    "name": "Hornet Card",
+                    "drop_rate": "?%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_52103.png",
+                    "name": "Garlet",
+                    "drop_rate": "21.38%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12100.png",
+                    "name": "Green Dyestuffs",
+                    "drop_rate": "0.28%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12004.png",
+                    "name": "Transformation Scroll (Hornet)",
+                    "drop_rate": "0.01%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_100.png",
+                    "name": "Zeny",
+                    "drop_rate": "70.02%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_100.png",
+                    "name": "Zeny",
+                    "drop_rate": "70.02%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12117.png",
+                    "name": "Honey",
+                    "drop_rate": "0.33%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_5113.png",
+                    "name": "Rough Wind",
+                    "drop_rate": "0.36%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_5024.png",
+                    "name": "Fly Wing",
+                    "drop_rate": "1.61%"
+                }
+            ],
+            "location_data": [
+                {
+                    "location": "Labyrinth Forest",
+                    "suggestion_level": "(Lv20~24)"
+                },
+                {
+                    "location": "Mjolnir Mountains",
+                    "suggestion_level": "(Lv38~45)"
+                }
+            ]
+        }
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/monsters/ant2_monster.png",
+        "name": "Deniro",
+        "element": "Earth",
+        "race": "Insect",
+        "level": "class=\"desktop-only\"",
+        "hp": "Lv 40",
+        "base_exp": "class=\"desktop-only\"",
+        "job_exp": "269 Base Exp",
+        "metadata": {
+            "description": "One of the common ants, Whose main duties are guarding and fighting. Its upper jaw is advanced and huge that can crush hard food and become a weapon when defending the group. As the most loyal fan, it absolutely obeys all orders of the queen.",
+            "common_data": {
+                "level": "40",
+                "type": "Monster",
+                "zone": "Field",
+                "race": "Insect",
+                "element": "Earth",
+                "size": "Small",
+                "passive_level": "40",
+                "base_exp": "269",
+                "job_exp": "169"
+            },
+            "attribute_data": {
+                "atk": "76",
+                "matk": "51",
+                "def": "63",
+                "mdef": "16",
+                "hp": "8,156",
+                "hit": "60",
+                "flee": "38",
+                "move_spd": "55",
+                "atk_spd": "0.6"
+            },
+            "card_data": {
+                "imgsrc": "s01.cdn.roguard.net/content/img/cards/card_10040.jpg",
+                "name": "Andre Card",
+                "effect": "Atk ＋10",
+                "perma_buff": "Atk ＋3"
+            },
+            "drop_data": [
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45025.png",
+                    "name": "Safety Helmet Blueprint",
+                    "drop_rate": "?%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_52103.png",
+                    "name": "Garlet",
+                    "drop_rate": "32%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12004.png",
+                    "name": "Transformation Scroll (Deniro)",
+                    "drop_rate": "0.51%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_100.png",
+                    "name": "Zeny",
+                    "drop_rate": "61.62%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_100.png",
+                    "name": "Zeny",
+                    "drop_rate": "61.62%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_5112.png",
+                    "name": "Flame Heart",
+                    "drop_rate": "0.54%"
+                }
+            ],
+            "location_data": [
+                {
+                    "location": "Ant Hell",
+                    "suggestion_level": "(Lv40~48)"
+                },
+                {
+                    "location": "Sograt Desert",
+                    "suggestion_level": "(Lv40~51)"
+                },
+                {
+                    "location": "Ant Hell",
+                    "suggestion_level": "(Lv40~48)"
+                }
+            ]
+        }
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/monsters/goblin2_monster.png",
+        "name": "Goblin(Axe) ★",
+        "element": "Earth",
+        "race": "Demi-Human",
+        "level": "class=\"desktop-only\"",
+        "hp": "Lv 35",
+        "base_exp": "class=\"desktop-only\"",
+        "job_exp": "1,325 Base Exp",
+        "metadata": {
+            "description": "The third brother in the Goblin group, it will attack with its brothers. Its weapon is an axe. As an ancient family, Its nature is very naughty and evil. Because it is not big, it can't cause great damage when it is alone. Once they're united, the destructive power can not be underestimated.",
+            "common_data": {
+                "level": "35",
+                "type": "Monster",
+                "zone": "Field",
+                "race": "Demi-Human",
+                "element": "Earth",
+                "size": "Medium",
+                "passive_level": "40",
+                "base_exp": "1,325",
+                "job_exp": "655"
+            },
+            "attribute_data": {
+                "atk": "177",
+                "matk": "50",
+                "def": "200",
+                "mdef": "6",
+                "hp": "43,917",
+                "hit": "138",
+                "flee": "48",
+                "move_spd": "60",
+                "atk_spd": "0.62"
+            },
+            "card_data": {
+                "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_48510.png",
+                "name": "Goblin Card",
+                "effect": null,
+                "perma_buff": null
+            },
+            "drop_data": [],
+            "location_data": []
+        }
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/monsters/strouf_mvp.png",
+        "name": "Strouf",
+        "element": "Water",
+        "race": "Fish",
+        "level": "class=\"desktop-only\"",
+        "hp": "Lv 45",
+        "base_exp": "class=\"desktop-only\"",
+        "job_exp": "12,433 Base Exp",
+        "metadata": {
+            "description": "The great and majestic Sea King who is in charge of all the waters around the mainland. Just like the waves of the sea, his character is unruly. And his artifact Trident has an amazing destructive power and can even trigger a tsunami.",
+            "common_data": {
+                "level": "45",
+                "type": "MVP",
+                "zone": "Field",
+                "race": "Fish",
+                "element": "Water",
+                "size": "Large",
+                "passive_level": "999",
+                "base_exp": "12,433",
+                "job_exp": "8,469"
+            },
+            "attribute_data": {
+                "atk": "350",
+                "matk": "1,120",
+                "def": "20",
+                "mdef": "450",
+                "hp": "2,806,387",
+                "hit": "181",
+                "flee": "88",
+                "move_spd": "105",
+                "atk_spd": "0.9"
+            },
+            "card_data": {
+                "imgsrc": "s01.cdn.roguard.net/content/img/cards/card_30005.jpg",
+                "name": "Strouf Card",
+                "effect": "Damage to demon monsters ＋25%",
+                "perma_buff": "Dmg to Demon ＋2%"
+            },
+            "drop_data": [
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45020.png",
+                    "name": "Thunderstorm Cloud Blueprint",
+                    "drop_rate": "0.1%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+                    "name": "Strouf Card",
+                    "drop_rate": "?%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_52152.png",
+                    "name": "Sticky Mucus",
+                    "drop_rate": "1.1%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12106.png",
+                    "name": "Cobaltblue Dyestuffs",
+                    "drop_rate": "26.99%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_52309.png",
+                    "name": "Pearl",
+                    "drop_rate": "8.63%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12004.png",
+                    "name": "Transformation Scroll (Strouf)",
+                    "drop_rate": "0.38%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_4001.png",
+                    "name": "Dream of Whale",
+                    "drop_rate": "15.42%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_5002.png",
+                    "name": "Oridecon",
+                    "drop_rate": "4.04%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_100.png",
+                    "name": "Zeny",
+                    "drop_rate": "43.29%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40006.png",
+                    "name": "Equestrian's Spear [2]",
+                    "drop_rate": "?%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40610.png",
+                    "name": "Lich Staff [1]",
+                    "drop_rate": "100%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42038.png",
+                    "name": "Staunch Clothes",
+                    "drop_rate": "100%"
+                }
+            ],
+            "location_data": []
+        }
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/monsters/rodafrog_mini.png",
+        "name": "Toad",
+        "element": "Water",
+        "race": "Fish",
+        "level": "class=\"desktop-only\"",
+        "hp": "Lv 40",
+        "base_exp": "class=\"desktop-only\"",
+        "job_exp": "2,581 Base Exp",
+        "metadata": {
+            "description": "The leader of Roda Frogs, which loves the group members. With a strong body, Sometimes it will bask to maintain a healthy complexion. The most uncomfortable thing for it is Roda Frogs or Thara Frog being bullied. If it finds it, it will severely punish the enemy!",
+            "common_data": {
+                "level": "40",
+                "type": "Mini Boss",
+                "zone": "Field",
+                "race": "Fish",
+                "element": "Water",
+                "size": "Medium",
+                "passive_level": "999",
+                "base_exp": "2,581",
+                "job_exp": "1,290"
+            },
+            "attribute_data": {
+                "atk": "327",
+                "matk": "164",
+                "def": "0",
+                "mdef": "0",
+                "hp": "804,938",
+                "hit": "110",
+                "flee": "15",
+                "move_spd": "135",
+                "atk_spd": "1"
+            },
+            "card_data": {
+                "imgsrc": "s01.cdn.roguard.net/content/img/cards/card_20005.jpg",
+                "name": "Toad Card",
+                "effect": "Dex ＋4, Flee ＋5",
+                "perma_buff": "Def ＋4"
+            },
+            "drop_data": [
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45019.png",
+                    "name": "Big Ribbon [1] Blueprint",
+                    "drop_rate": "0.96%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+                    "name": "Toad Card",
+                    "drop_rate": "?%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_52152.png",
+                    "name": "Sticky Mucus",
+                    "drop_rate": "11.69%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_52305.png",
+                    "name": "Light Granule",
+                    "drop_rate": "3.52%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12004.png",
+                    "name": "Transformation Scroll (Toad)",
+                    "drop_rate": "1.2%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12117.png",
+                    "name": "Honey",
+                    "drop_rate": "4.47%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_5004.png",
+                    "name": "Rough Elunium",
+                    "drop_rate": "14.1%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_100.png",
+                    "name": "Zeny",
+                    "drop_rate": "?%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43502.png",
+                    "name": "Light Shoes [1]",
+                    "drop_rate": "32.01%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42523.png",
+                    "name": "Morpheus's Bracelet [1]",
+                    "drop_rate": "32.01%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42009.png",
+                    "name": "Silk Robe",
+                    "drop_rate": "100%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42008.png",
+                    "name": "Saphien's Armor of Ocean",
+                    "drop_rate": "100%"
+                }
+            ],
+            "location_data": []
+        }
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/monsters/drainliar_monster.png",
+        "name": "Drainliar",
+        "element": "Shadow",
+        "race": "Brute",
+        "level": "class=\"desktop-only\"",
+        "hp": "Lv 46",
+        "base_exp": "class=\"desktop-only\"",
+        "job_exp": "378 Base Exp",
+        "metadata": {
+            "description": "The variant version of Familiar, flying faster. It likes to attack players in groups. For it, blood is an absolute temptation. Don't be scornful because of its small size, its two blood-sucking tusks are no small threat to any creature.",
+            "common_data": {
+                "level": "46",
+                "type": "Monster",
+                "zone": "Field",
+                "race": "Brute",
+                "element": "Shadow",
+                "size": "Small",
+                "passive_level": "40",
+                "base_exp": "378",
+                "job_exp": "155"
+            },
+            "attribute_data": {
+                "atk": "91",
+                "matk": "60",
+                "def": "41",
+                "mdef": "0",
+                "hp": "10,856",
+                "hit": "66",
+                "flee": "60",
+                "move_spd": "50",
+                "atk_spd": "0.6"
+            },
+            "card_data": {
+                "imgsrc": "s01.cdn.roguard.net/content/img/cards/card_10043.jpg",
+                "name": "Drainliar Card",
+                "effect": "Dmg to Water monsters ＋20%",
+                "perma_buff": "M.Atk ＋6"
+            },
+            "drop_data": [
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45006.png",
+                    "name": "Ribbon [1] Blueprint",
+                    "drop_rate": "?%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+                    "name": "Drainliar Card",
+                    "drop_rate": "?%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_52152.png",
+                    "name": "Sticky Mucus",
+                    "drop_rate": "28.81%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12101.png",
+                    "name": "Scarlet Dyestuffs",
+                    "drop_rate": "0.38%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_5001.png",
+                    "name": "Rough Oridecon",
+                    "drop_rate": "0.56%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12004.png",
+                    "name": "Transformation Scroll (Drainliar)",
+                    "drop_rate": "0.02%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_100.png",
+                    "name": "Zeny",
+                    "drop_rate": "62.61%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_100.png",
+                    "name": "Zeny",
+                    "drop_rate": "62.61%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_5024.png",
+                    "name": "Fly Wing",
+                    "drop_rate": "2.17%"
+                }
+            ],
+            "location_data": [
+                {
+                    "location": "Ant Hell",
+                    "suggestion_level": "(Lv40~48)"
+                },
+                {
+                    "location": "Ant Hell",
+                    "suggestion_level": "(Lv40~48)"
+                }
+            ]
+        }
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/monsters/goblin_panzer_monster.png",
+        "name": "Steam Goblin",
+        "element": "Wind",
+        "race": "Demi-Human",
+        "level": "class=\"desktop-only\"",
+        "hp": "Lv 39",
+        "base_exp": "class=\"desktop-only\"",
+        "job_exp": "275 Base Exp",
+        "metadata": {
+            "description": "A scientist in the Goblin group, Together with the Rotar Zairo, They're known as the Genius Two. Its character is hot and it likes to go straight. After years of research, it developed a portable version of the Flame Thrower. The only drawback is that it is easy to extinguish, and it is still in improvement...",
+            "common_data": {
+                "level": "39",
+                "type": "Monster",
+                "zone": "Field",
+                "race": "Demi-Human",
+                "element": "Wind",
+                "size": "Medium",
+                "passive_level": "40",
+                "base_exp": "275",
+                "job_exp": "158"
+            },
+            "attribute_data": {
+                "atk": "60",
+                "matk": "17",
+                "def": "0",
+                "mdef": "6",
+                "hp": "6,093",
+                "hit": "39",
+                "flee": "94",
+                "move_spd": "60",
+                "atk_spd": "0.6"
+            },
+            "card_data": {
+                "imgsrc": "s01.cdn.roguard.net/content/img/cards/card_10035.jpg",
+                "name": "Steam Goblin Card",
+                "effect": "Crit.Dmg ＋10%, Crit to formless monsters ＋20",
+                "perma_buff": "Crit.Dmg ＋5%"
+            },
+            "drop_data": [
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_48555.png",
+                    "name": "Smile Goblin Mask Blueprint",
+                    "drop_rate": "?%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+                    "name": "Steam Goblin Card",
+                    "drop_rate": "?%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12004.png",
+                    "name": "Transformation Scroll (Steam Goblin)",
+                    "drop_rate": "0.71%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_100.png",
+                    "name": "Zeny",
+                    "drop_rate": "87.24%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_100.png",
+                    "name": "Zeny",
+                    "drop_rate": "87.24%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_52403.png",
+                    "name": "Coal",
+                    "drop_rate": "3.93%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40605.png",
+                    "name": "Wand [2]",
+                    "drop_rate": "0.68%"
+                }
+            ],
+            "location_data": [
+                {
+                    "location": "Goblin Forest",
+                    "suggestion_level": "(Lv35~39)"
+                }
+            ]
+        }
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/monsters/drake_mvp.png",
+        "name": "Drake",
+        "element": "Undead",
+        "race": "Undead",
+        "level": "class=\"desktop-only\"",
+        "hp": "Lv 40",
+        "base_exp": "class=\"desktop-only\"",
+        "job_exp": "10,101 Base Exp",
+        "metadata": {
+            "description": "Before his death, he was a legendary pirate leader in the ocean. He loved the sea, pirate ship and crow... Although he was a captain with morality and ethics being doubted, he had the courage a pirate should have.",
+            "common_data": {
+                "level": "40",
+                "type": "MVP",
+                "zone": "Field",
+                "race": "Undead",
+                "element": "Undead",
+                "size": "Medium",
+                "passive_level": "999",
+                "base_exp": "10,101",
+                "job_exp": "8,081"
+            },
+            "attribute_data": {
+                "atk": "971",
+                "matk": "486",
+                "def": "114",
+                "mdef": "64",
+                "hp": "2,012,343",
+                "hit": "239",
+                "flee": "150",
+                "move_spd": "125",
+                "atk_spd": "1.5"
+            },
+            "card_data": {
+                "imgsrc": "s01.cdn.roguard.net/content/img/cards/card_30004.jpg",
+                "name": "Drake Card",
+                "effect": "Deal 100% damage to small-/middle-/L-size monsters",
+                "perma_buff": "Dmg ＋1%"
+            },
+            "drop_data": [
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45016.png",
+                    "name": "Corsair [1] Blueprint",
+                    "drop_rate": "0.13%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+                    "name": "Drake Card",
+                    "drop_rate": "?%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_52202.png",
+                    "name": "Memento",
+                    "drop_rate": "8.6%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_52304.png",
+                    "name": "Fabric",
+                    "drop_rate": "16.44%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12004.png",
+                    "name": "Transformation Scroll (Drake)",
+                    "drop_rate": "0.54%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_4001.png",
+                    "name": "Dreamer's Dream",
+                    "drop_rate": "21.92%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_5003.png",
+                    "name": "Elunium",
+                    "drop_rate": "5.75%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12023.png",
+                    "name": "White Potion",
+                    "drop_rate": "46.59%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_100.png",
+                    "name": "Zeny",
+                    "drop_rate": "?%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40707.png",
+                    "name": "Stiletto [2]",
+                    "drop_rate": "?%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40310.png",
+                    "name": "Flamberge [1]",
+                    "drop_rate": "100%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42036.png",
+                    "name": "Deathcat Armor",
+                    "drop_rate": "100%"
+                }
+            ],
+            "location_data": []
+        }
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/monsters/flora_monster.png",
+        "name": "Flora",
+        "element": "Earth",
+        "race": "Plant",
+        "level": "class=\"desktop-only\"",
+        "hp": "Lv 41",
+        "base_exp": "class=\"desktop-only\"",
+        "job_exp": "274 Base Exp",
+        "metadata": {
+            "description": "A maneating plant, with ferocious nature of carnivores, it will actively attack the passing adventurers. Communication bewteen them has been difficult, because the big mouths with teeth will scare each other, and the serious fetid breath...",
+            "common_data": {
+                "level": "41",
+                "type": "Monster",
+                "zone": "Field",
+                "race": "Plant",
+                "element": "Earth",
+                "size": "Large",
+                "passive_level": "40",
+                "base_exp": "274",
+                "job_exp": "174"
+            },
+            "attribute_data": {
+                "atk": "79",
+                "matk": "52",
+                "def": "11",
+                "mdef": "13",
+                "hp": "5,699",
+                "hit": "61",
+                "flee": "52",
+                "move_spd": "0",
+                "atk_spd": "0.7"
+            },
+            "card_data": {
+                "imgsrc": "s01.cdn.roguard.net/content/img/cards/card_10037.jpg",
+                "name": "Flora Card",
+                "effect": "Dmg to fish race ＋15%",
+                "perma_buff": "Dmg to fish race ＋2%"
+            },
+            "drop_data": [
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45022.png",
+                    "name": "Hibiscus Blueprint",
+                    "drop_rate": "?%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+                    "name": "Flora Card",
+                    "drop_rate": "?%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_52202.png",
+                    "name": "Memento",
+                    "drop_rate": "42.78%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12004.png",
+                    "name": "Transformation Scroll (Flora)",
+                    "drop_rate": "0.01%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_100.png",
+                    "name": "Zeny",
+                    "drop_rate": "52.67%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_100.png",
+                    "name": "Zeny",
+                    "drop_rate": "52.67%"
+                }
+            ],
+            "location_data": [
+                {
+                    "location": "Mjolnir Mountains",
+                    "suggestion_level": "(Lv38~45)"
+                }
+            ]
+        }
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/monsters/argiope_monster.png",
+        "name": "Argiope",
+        "element": "Poison",
+        "race": "Insect",
+        "level": "class=\"desktop-only\"",
+        "hp": "Lv 43",
+        "base_exp": "class=\"desktop-only\"",
+        "job_exp": "332 Base Exp",
+        "metadata": {
+            "description": "A large insect with strong territory possession desire. People see it the first time will be scared by its appearance. Its body is made up of many body sections, Each with feet. The most troublesome thing for it is the foot care, Every time it is asked how many feet it has, it will become very violent!",
+            "common_data": {
+                "level": "43",
+                "type": "Monster",
+                "zone": "Field",
+                "race": "Insect",
+                "element": "Poison",
+                "size": "Large",
+                "passive_level": "40",
+                "base_exp": "332",
+                "job_exp": "157"
+            },
+            "attribute_data": {
+                "atk": "84",
+                "matk": "56",
+                "def": "86",
+                "mdef": "6",
+                "hp": "6,657",
+                "hit": "63",
+                "flee": "82",
+                "move_spd": "60",
+                "atk_spd": "0.75"
+            },
+            "card_data": {
+                "imgsrc": "s01.cdn.roguard.net/content/img/cards/card_10038.jpg",
+                "name": "Argiope Card",
+                "effect": "Turn the armor's element into Poison, Def ＋20",
+                "perma_buff": "Def ＋4"
+            },
+            "drop_data": [
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_48540.png",
+                    "name": "Gas Mask Blueprint",
+                    "drop_rate": "?%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+                    "name": "Argiope Card",
+                    "drop_rate": "?%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_5004.png",
+                    "name": "Rough Elunium",
+                    "drop_rate": "1%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12004.png",
+                    "name": "Transformation Scroll (Argiope)",
+                    "drop_rate": "0.03%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_100.png",
+                    "name": "Zeny",
+                    "drop_rate": "86.77%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_100.png",
+                    "name": "Zeny",
+                    "drop_rate": "86.77%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_52403.png",
+                    "name": "Coal",
+                    "drop_rate": "3.97%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_61504.png",
+                    "name": "Dex Bracelet [1]",
+                    "drop_rate": "0.69%"
+                }
+            ],
+            "location_data": [
+                {
+                    "location": "Labyrinth Forest",
+                    "suggestion_level": "(Lv20~24)"
+                },
+                {
+                    "location": "Mjolnir Mountains",
+                    "suggestion_level": "(Lv38~45)"
+                }
+            ]
+        }
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/monsters/menblatt_monster.png",
+        "name": "Menblatt",
+        "element": "Wind",
+        "race": "Insect",
+        "level": "class=\"desktop-only\"",
+        "hp": "Lv 45",
+        "base_exp": "class=\"desktop-only\"",
+        "job_exp": "260 Base Exp",
+        "metadata": {
+            "description": "A beautiful elf inhabiting the Mjolnir Mountains, Featuring a beautiful pair of butterfly wings. Its temperament is mild, Cheerful and passionate. It loves nature, Can communicate with trees and flowers, Fish and birds, but it is not soft to the enemies who destroy the nature.",
+            "common_data": {
+                "level": "45",
+                "type": "Monster",
+                "zone": "Field",
+                "race": "Insect",
+                "element": "Wind",
+                "size": "Large",
+                "passive_level": "40",
+                "base_exp": "260",
+                "job_exp": "215"
+            },
+            "attribute_data": {
+                "atk": "88",
+                "matk": "56",
+                "def": "24",
+                "mdef": "1",
+                "hp": "7,615",
+                "hit": "65",
+                "flee": "82",
+                "move_spd": "80",
+                "atk_spd": "0.799"
+            },
+            "card_data": {
+                "imgsrc": "s01.cdn.roguard.net/content/img/cards/card_10039.jpg",
+                "name": "Menblatt Card",
+                "effect": "Damage to earth monsters ＋20%",
+                "perma_buff": "M.Def ＋4"
+            },
+            "drop_data": [
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_48515.png",
+                    "name": "Butterfly Wing Ears Blueprint",
+                    "drop_rate": "?%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+                    "name": "Menblatt Card",
+                    "drop_rate": "?%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_52103.png",
+                    "name": "Garlet",
+                    "drop_rate": "37.45%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12004.png",
+                    "name": "Transformation Scroll (Menblatt)",
+                    "drop_rate": "0.03%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_100.png",
+                    "name": "Zeny",
+                    "drop_rate": "46.73%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_100.png",
+                    "name": "Zeny",
+                    "drop_rate": "46.73%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12310.png",
+                    "name": "Apple Juice",
+                    "drop_rate": "9.87%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_50001.png",
+                    "name": "Butterfly Wing",
+                    "drop_rate": "1.18%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40627.png",
+                    "name": "Arc Wand [2]",
+                    "drop_rate": "0.73%"
+                }
+            ],
+            "location_data": [
+                {
+                    "location": "Mjolnir Mountains",
+                    "suggestion_level": "(Lv38~45)"
+                }
+            ]
+        }
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/monsters/goblin5_monster.png",
+        "name": "Goblin(Hammer) ★",
+        "element": "Water",
+        "race": "Demi-Human",
+        "level": "class=\"desktop-only\"",
+        "hp": "Lv 35",
+        "base_exp": "class=\"desktop-only\"",
+        "job_exp": "1,175 Base Exp",
+        "metadata": {
+            "description": "The youngest in the Goblin group, it will attack with its brothers. Its weapon is a spiked club. As an ancient family, Its nature is very naughty and evil. Because it is not big, it can't cause great damage when it is alone. Once they're united, the destructive power can not be underestimated.",
+            "common_data": {
+                "level": "35",
+                "type": "Monster",
+                "zone": "Field",
+                "race": "Demi-Human",
+                "element": "Water",
+                "size": "Medium",
+                "passive_level": "40",
+                "base_exp": "1,175",
+                "job_exp": "745"
+            },
+            "attribute_data": {
+                "atk": "177",
+                "matk": "204",
+                "def": "200",
+                "mdef": "6",
+                "hp": "43,917",
+                "hit": "144",
+                "flee": "44",
+                "move_spd": "60",
+                "atk_spd": "0.65"
+            },
+            "card_data": {
+                "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_48512.png",
+                "name": "Goblin Card",
+                "effect": null,
+                "perma_buff": null
+            },
+            "drop_data": [],
+            "location_data": []
+        }
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/monsters/marc_monster.png",
+        "name": "Marc ★",
+        "element": "Water",
+        "race": "Fish",
+        "level": "class=\"desktop-only\"",
+        "hp": "Lv 36",
+        "base_exp": "class=\"desktop-only\"",
+        "job_exp": "1,210 Base Exp",
+        "metadata": {
+            "description": "A monster that lives on the bottom of the sea. Its size is not big, but its attack is quick and powerful. It's a powerful one in the aquatic monsters. According to research, Their descendants are born by males, and their dream is to take a leisurely walk in the dreamy night.",
+            "common_data": {
+                "level": "36",
+                "type": "Monster",
+                "zone": "Field",
+                "race": "Fish",
+                "element": "Water",
+                "size": "Medium",
+                "passive_level": "40",
+                "base_exp": "1,210",
+                "job_exp": "765"
+            },
+            "attribute_data": {
+                "atk": "192",
+                "matk": "67",
+                "def": "24",
+                "mdef": "13",
+                "hp": "48,012",
+                "hit": "182",
+                "flee": "72",
+                "move_spd": "80",
+                "atk_spd": "0.79"
+            },
+            "card_data": {
+                "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_48508.png",
+                "name": "Marc Card",
+                "effect": null,
+                "perma_buff": null
+            },
+            "drop_data": [],
+            "location_data": []
+        }
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/monsters/ant_monster.png",
+        "name": "Andre",
+        "element": "Earth",
+        "race": "Insect",
+        "level": "class=\"desktop-only\"",
+        "hp": "Lv 44",
+        "base_exp": "class=\"desktop-only\"",
+        "job_exp": "290 Base Exp",
+        "metadata": {
+            "description": "A common ant, who is responsible for supervising the work of Deniros and Pieres. Management and supervision are arts, and they need perfect planning and coordination. Don't annoy it, Otherwise... The Pieres and Andres will attack you!",
+            "common_data": {
+                "level": "44",
+                "type": "Monster",
+                "zone": "Field",
+                "race": "Insect",
+                "element": "Earth",
+                "size": "Small",
+                "passive_level": "40",
+                "base_exp": "290",
+                "job_exp": "189"
+            },
+            "attribute_data": {
+                "atk": "86",
+                "matk": "57",
+                "def": "22",
+                "mdef": "12",
+                "hp": "9,956",
+                "hit": "64",
+                "flee": "34",
+                "move_spd": "50",
+                "atk_spd": "0.6"
+            },
+            "card_data": {
+                "imgsrc": "s01.cdn.roguard.net/content/img/cards/card_10040.jpg",
+                "name": "Andre Card",
+                "effect": "Atk ＋10",
+                "perma_buff": "Atk ＋3"
+            },
+            "drop_data": [
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+                    "name": "Andre Card",
+                    "drop_rate": "?%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_52104.png",
+                    "name": "Scell",
+                    "drop_rate": "27.01%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12004.png",
+                    "name": "Transformation Scroll (Andre)",
+                    "drop_rate": "0.57%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_100.png",
+                    "name": "Zeny",
+                    "drop_rate": "66.14%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_100.png",
+                    "name": "Zeny",
+                    "drop_rate": "66.14%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_5111.png",
+                    "name": "Great Nature",
+                    "drop_rate": "0.59%"
+                }
+            ],
+            "location_data": [
+                {
+                    "location": "Ant Hell",
+                    "suggestion_level": "(Lv40~48)"
+                },
+                {
+                    "location": "Sograt Desert",
+                    "suggestion_level": "(Lv40~51)"
+                },
+                {
+                    "location": "Ant Hell",
+                    "suggestion_level": "(Lv40~48)"
+                }
+            ]
         }
     }
 ]

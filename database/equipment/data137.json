@@ -1,122 +1,122 @@
 [
     {
         "imgsrc": null,
-        "name": "Wizard Hairband",
+        "name": "Thunder Oni's evil horn",
         "slot": "Head",
-        "status": ""
+        "status": "Max HP ＋100"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45107.png",
-        "name": "Wizard Hat",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45020.png",
+        "name": "Thunderstorm Cloud",
         "slot": "Head",
-        "status": "Def ＋5, Max SP ＋100"
+        "status": "Int ＋2, Damage to wind monsters ＋5%, For Refining ＋1, Damage to wind monsters ＋1% (up to ＋15%)"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45107.png",
-        "name": "Wizard Hat [1]",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45020.png",
+        "name": "Thunderstorm Cloud [1]",
         "slot": "Head",
-        "status": "Def ＋5, Max SP ＋100"
+        "status": "Int ＋2, Damage to wind monsters ＋5%, For Refining ＋1, Damage to wind monsters ＋1% (up to ＋15%)"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40620.png",
-        "name": "Wizardry Staff [1]",
-        "slot": "Staff",
-        "status": "Int ＋3, M.Atk ＋10%, For Refining ＋1, ignore M.Def ＋2%, [Wizardry Staff VIII] ＋ [Robe of Cast VIII] ＋ [Eye of Dullahan VIII] ＋ [Crystal Pumps IV]: -5% CT Variable, ＋3% M.Dmg, ＋3% Ignore MDef"
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45028.png",
+        "name": "Tiara",
+        "slot": "Head",
+        "status": "Int ＋3, Damage to earth monsters ＋5%, For Refining ＋1, damage to earth monsters ＋1% (up to ＋15%)"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40620.png",
-        "name": "Wizardry Staff [2]",
-        "slot": "Staff",
-        "status": "Int ＋3, M.Atk ＋10%, For Refining ＋1, ignore M.Def ＋2%, [Wizardry Staff VIII] ＋ [Robe of Cast VIII] ＋ [Eye of Dullahan VIII] ＋ [Crystal Pumps IV]: -5% CT Variable, ＋3% M.Dmg, ＋3% Ignore MDef"
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45028.png",
+        "name": "Tiara [1]",
+        "slot": "Head",
+        "status": "Int ＋3, Damage to earth monsters ＋5%, For Refining ＋1, damage to earth monsters ＋1% (up to ＋15%)"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43525.png",
+        "name": "Tidal Shoes",
+        "slot": "Shoes",
+        "status": "Move Spd ＋5%, Water Dmg Taken -10%, [Tidal Shoes VI] ＋[Silk Robe VI]: Has a 10% chance to turn the target into Water target for 10 seconds during auto attacks"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43525.png",
+        "name": "Tidal Shoes [1]",
+        "slot": "Shoes",
+        "status": "Move Spd ＋5%, Water Dmg Taken -10%, [Tidal Shoes VI] ＋[Silk Robe VI]: Has a 10% chance to turn the target into Water target for 10 seconds during auto attacks"
     },
     {
         "imgsrc": null,
-        "name": "Wooden Helmet",
+        "name": "Tiga Doll Hat",
         "slot": "Head",
-        "status": "Max SP ＋50, M.Atk ＋10"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42026.png",
-        "name": "Wooden Mail",
-        "slot": "Armour",
-        "status": "Str ＋2, VIT ＋1"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42026.png",
-        "name": "Wooden Mail [1]",
-        "slot": "Armour",
-        "status": "Str ＋2, VIT ＋1"
+        "status": "M.Atk ＋20, CT Variable -5%"
     },
     {
         "imgsrc": null,
-        "name": "Yellow Cat in Hands",
-        "slot": "Knife",
-        "status": ""
+        "name": "Tiga Doll Hat [1]",
+        "slot": "Head",
+        "status": "M.Atk ＋20, CT Variable -5%"
     },
     {
         "imgsrc": null,
-        "name": "Yellow Drooping Cat",
+        "name": "Tiger head hat",
         "slot": "Head",
-        "status": "Luk ＋3, Curse Def ＋50%, Slow Def ＋50%"
+        "status": "Atk ＋15, Ignore Def ＋5%"
     },
     {
         "imgsrc": null,
-        "name": "Yellow Drooping Cat [1]",
+        "name": "Tiger Mask",
         "slot": "Head",
-        "status": "Luk ＋3, Curse Def ＋50%, Slow Def ＋50%"
-    },
-    {
-        "imgsrc": null,
-        "name": "Yellow Ribbon",
-        "slot": "Head",
-        "status": "Dex ＋3, AGI ＋3"
-    },
-    {
-        "imgsrc": null,
-        "name": "Yellow Ribbon [1]",
-        "slot": "Head",
-        "status": "Dex ＋3, AGI ＋3"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_48001.png",
-        "name": "Yoyo Tail",
-        "slot": "Tail",
         "status": "No effect"
     },
     {
-        "imgsrc": null,
-        "name": "Zealous Rhino",
-        "slot": "Head",
-        "status": "M.Atk ＋10, Max HP ＋200"
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42016.png",
+        "name": "Tights",
+        "slot": "Armour",
+        "status": "Dex ＋2, Atk ＋4%"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41201.png",
-        "name": "Zebra Eel [2]",
-        "slot": "Bow",
-        "status": "Atk + 180"
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42016.png",
+        "name": "Tights [1]",
+        "slot": "Armour",
+        "status": "Dex ＋2, Atk ＋4%"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41201.png",
-        "name": "Zebra Eel [3]",
-        "slot": "Bow",
-        "status": "Atk + 180"
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43503.png",
+        "name": "Time Keeper's Boots [1]",
+        "slot": "Shoes",
+        "status": "Def + 45"
     },
     {
-        "imgsrc": null,
-        "name": "Zephyrus [2]",
-        "slot": "Spear",
-        "status": "Atk + 247"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40005.png",
-        "name": "Zephyrus [3]",
-        "slot": "Spear",
-        "status": "Atk + 247"
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43504.png",
+        "name": "Time Keeper's Boots [2]",
+        "slot": "Shoes",
+        "status": "Def + 45"
     },
     {
         "imgsrc": null,
-        "name": "Zero Doll Hat",
-        "slot": "Head",
-        "status": "Atk ＋20, Damage to middle-size monster ＋6%"
+        "name": "Time Keeper's Loop",
+        "slot": "Wing",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Time Keeper's Manteau [1]",
+        "slot": "Robe",
+        "status": "Def + 90"
+    },
+    {
+        "imgsrc": null,
+        "name": "Time Keeper's Manteau [2]",
+        "slot": "Robe",
+        "status": "Def + 90"
+    },
+    {
+        "imgsrc": null,
+        "name": "Time Observation",
+        "slot": "Face",
+        "status": "Max SP ＋50, Refining M.Atk ＋5"
+    },
+    {
+        "imgsrc": null,
+        "name": "Time Shadow",
+        "slot": "Wing",
+        "status": "Def ＋15, When Refining ＋10 and Strength reaches 90, Atk ＋20, When Refining ＋10 and Agility reaches 90, Attack Spd ＋5%, When Refining ＋10 and Vitality reaches 90, Neutral Dmg Taken -10%, When Refining ＋10 and Intelligence reaches 90, M.Atk ＋20, When Refining ＋10 and Dexterity reaches 90, Ranged Damage ＋5%, When Refining ＋10 and Luck reaches 90, Crit.Dmg ＋5%"
     }
 ]

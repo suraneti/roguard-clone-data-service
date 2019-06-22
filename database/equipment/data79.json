@@ -1,122 +1,122 @@
 [
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42515.png",
-        "name": "Memory Book [1]",
-        "slot": "Shield",
-        "status": "Def + 33"
+        "imgsrc": null,
+        "name": "Love Autumn",
+        "slot": "Head",
+        "status": "Max HP ＋100"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42032.png",
-        "name": "Mercenary Armor",
-        "slot": "Armour",
-        "status": "Def + 84"
+        "imgsrc": null,
+        "name": "Love Beach Mirror",
+        "slot": "Face",
+        "status": "Max SP ＋50"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42032.png",
-        "name": "Mercenary Armor [1]",
-        "slot": "Armour",
-        "status": "Def + 84"
+        "imgsrc": null,
+        "name": "Love Blush",
+        "slot": "Face",
+        "status": "Max HP ＋50"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41210.png",
-        "name": "Mercenary Bow",
-        "slot": "Bow",
-        "status": "Atk + 129"
+        "imgsrc": null,
+        "name": "Love Cake",
+        "slot": "Head",
+        "status": "MAX HP ＋200, HP Regen ＋10%, SP Regen ＋3"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41210.png",
-        "name": "Mercenary Bow [2]",
-        "slot": "Bow",
-        "status": "Atk + 129"
+        "imgsrc": null,
+        "name": "Love Cake [1]",
+        "slot": "Head",
+        "status": "MAX HP ＋200, HP Regen ＋10%, SP Regen ＋3"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42033.png",
-        "name": "Mercenary Coat",
+        "imgsrc": null,
+        "name": "Love Goddess",
+        "slot": "Wing",
+        "status": "Your own damage increases by 10%, but all damage you suffer increases by 20%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Love Heart Autumn",
+        "slot": "Wing",
+        "status": "Max SP ＋100"
+    },
+    {
+        "imgsrc": null,
+        "name": "Love Heart Spring",
+        "slot": "Wing",
+        "status": "Max SP ＋100"
+    },
+    {
+        "imgsrc": null,
+        "name": "Love Heart Summer",
+        "slot": "Wing",
+        "status": "Max SP ＋100"
+    },
+    {
+        "imgsrc": null,
+        "name": "Love Heart Winter",
+        "slot": "Head",
+        "status": "Max SP ＋100"
+    },
+    {
+        "imgsrc": null,
+        "name": "Love in your eyes",
+        "slot": "Face",
+        "status": "Max SP ＋50, Atk ＋10"
+    },
+    {
+        "imgsrc": null,
+        "name": "Love of the Tokyo Iron Tower",
+        "slot": "Head",
+        "status": "All Attributes ＋1, Max SP ＋50"
+    },
+    {
+        "imgsrc": null,
+        "name": "Love Spring",
+        "slot": "Head",
+        "status": "Max HP ＋100"
+    },
+    {
+        "imgsrc": null,
+        "name": "Love Summer",
+        "slot": "Head",
+        "status": "Max HP ＋100"
+    },
+    {
+        "imgsrc": null,
+        "name": "Love Winter",
+        "slot": "Mouth",
+        "status": "Max HP ＋100"
+    },
+    {
+        "imgsrc": null,
+        "name": "Love Witch Hat",
+        "slot": "Head",
+        "status": "All Attributes ＋2, Atk ＋12, M.Atk ＋12"
+    },
+    {
+        "imgsrc": null,
+        "name": "Love You",
+        "slot": "Mouth",
+        "status": "Ignore Def ＋5%, Atk ＋20"
+    },
+    {
+        "imgsrc": null,
+        "name": "Loving Butterfly",
+        "slot": "Face",
+        "status": "Move Spd ＋3%, Luk ＋5, Atk ＋20"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42002.png",
+        "name": "Lucius's Fierce Armor of Volcano",
         "slot": "Armour",
         "status": "Def + 42"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42033.png",
-        "name": "Mercenary Coat [1]",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42002.png",
+        "name": "Lucius's Fierce Armor of Volcano [1]",
         "slot": "Armour",
         "status": "Def + 42"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41537.png",
-        "name": "Mercenary Hammer",
-        "slot": "Mace",
-        "status": "Atk + 162"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41537.png",
-        "name": "Mercenary Hammer [2]",
-        "slot": "Mace",
-        "status": "Atk + 162"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40906.png",
-        "name": "Mercenary Katar",
-        "slot": "Katar",
-        "status": "Atk + 129"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40906.png",
-        "name": "Mercenary Katar [2]",
-        "slot": "Katar",
-        "status": "Atk + 129"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40710.png",
-        "name": "Mercenary Knife",
-        "slot": "Knife",
-        "status": "Atk + 162"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40710.png",
-        "name": "Mercenary Knife [2]",
-        "slot": "Knife",
-        "status": "Atk + 162"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42502.png",
-        "name": "Mercenary Shield",
-        "slot": "Shield",
-        "status": "Def + 84"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42502.png",
-        "name": "Mercenary Shield [1]",
-        "slot": "Shield",
-        "status": "Def + 84"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_43533.png",
-        "name": "Mercenary Shoes",
-        "slot": "Shoes",
-        "status": "Def + 25"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_43533.png",
-        "name": "Mercenary Shoes [1]",
-        "slot": "Shoes",
-        "status": "Def + 25"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40026.png",
-        "name": "Mercenary Spear",
-        "slot": "Spear",
-        "status": "Atk + 202"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40026.png",
-        "name": "Mercenary Spear [2]",
-        "slot": "Spear",
-        "status": "Atk + 202"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40630.png",
-        "name": "Mercenary Staff",
-        "slot": "Staff",
-        "status": "M.Atk + 97"
     }
 ]

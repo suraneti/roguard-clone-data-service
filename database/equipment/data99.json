@@ -1,122 +1,122 @@
 [
     {
-        "imgsrc": null,
-        "name": "Radio Antenna [1]",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45136.png",
+        "name": "Pagdayaw [1]",
         "slot": "Head",
-        "status": "Dex ＋3, AGI ＋3"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40601.png",
-        "name": "Rafini Staff [2]",
-        "slot": "Staff",
-        "status": "M.Atk + 180"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40601.png",
-        "name": "Rafini Staff [3]",
-        "slot": "Staff",
-        "status": "M.Atk + 180"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_43004.png",
-        "name": "Ragamuffin Manteau",
-        "slot": "Robe",
-        "status": "Def + 16"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_43004.png",
-        "name": "Ragamuffin Manteau [1]",
-        "slot": "Robe",
-        "status": "Def + 16"
+        "status": "auto attack or any skill attack has a 3% chance to cast curse"
     },
     {
         "imgsrc": null,
-        "name": "Ragamuffin Manteau [2]",
-        "slot": "Robe",
-        "status": "Def + 22"
+        "name": "Panda and Poring’s Bamboo",
+        "slot": "Head",
+        "status": "Atk ＋3%,  Damage of Demi-Human ＋5%"
     },
     {
         "imgsrc": null,
-        "name": "Rage of Asgard",
-        "slot": "Mace",
+        "name": "Panda and Poring’s Bamboo [1]",
+        "slot": "Head",
+        "status": "Atk ＋3%,  Damage of Demi-Human ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Panda Hat",
+        "slot": "Head",
+        "status": "No effect"
+    },
+    {
+        "imgsrc": null,
+        "name": "Panda Hat [1]",
+        "slot": "Head",
+        "status": "No effect"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42014.png",
+        "name": "Panties",
+        "slot": "Armour",
+        "status": "Dex ＋7, [Panties VI] ＋ [Shirt IV]: Agility ＋5. Every Fleewill provide 5 max HP"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42014.png",
+        "name": "Panties [1]",
+        "slot": "Armour",
+        "status": "Dex ＋7, [Panties VI] ＋ [Shirt IV]: Agility ＋5. Every Fleewill provide 5 max HP"
+    },
+    {
+        "imgsrc": null,
+        "name": "Paper towel cat",
+        "slot": "Head",
+        "status": "M.Atk ＋10, Ignore MDef ＋5%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45187.png",
+        "name": "Parcel Hat",
+        "slot": "Head",
+        "status": "Fire Dmg ＋5%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45187.png",
+        "name": "Parcel Hat [1]",
+        "slot": "Head",
+        "status": "Fire Dmg ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Particle Slicer",
+        "slot": "Knife",
         "status": ""
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45137.png",
-        "name": "Rain Cloud",
+        "imgsrc": null,
+        "name": "Party Hat",
         "slot": "Head",
-        "status": "No effect"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45137.png",
-        "name": "Rain Cloud [1]",
-        "slot": "Head",
-        "status": "No effect"
+        "status": "Max HP ＋100"
     },
     {
         "imgsrc": null,
-        "name": "Rainbow Bridge",
-        "slot": "Accessory",
-        "status": "MaxHp + 1314"
+        "name": "Party Horn",
+        "slot": "Mouth",
+        "status": "Atk ＋20, Damage to Dark monsters ＋3%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45082.png",
+        "name": "Party Recruiter Hat",
+        "slot": "Head",
+        "status": "Def ＋5"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45082.png",
+        "name": "Party Recruiter Hat [1]",
+        "slot": "Head",
+        "status": "Def ＋5"
     },
     {
         "imgsrc": null,
-        "name": "Rainbow Peco Peco",
-        "slot": "Mount",
-        "status": "Move Spd ＋25%"
-    },
-    {
-        "imgsrc": null,
-        "name": "Rainbow Unicorn",
-        "slot": "Head",
-        "status": "Luk ＋5, Cri ＋3"
-    },
-    {
-        "imgsrc": null,
-        "name": "Rainbow Unicorn [1]",
-        "slot": "Head",
-        "status": "Luk ＋5, Cri ＋3"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45178.png",
-        "name": "Ramen Hat",
-        "slot": "Head",
-        "status": "Dex ＋1, When daggers are equipped, auto attack has a 10% chance to trigger Double Attack, When Refining reaches 10, Dex ＋4, Hit ＋10"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45178.png",
-        "name": "Ramen Hat [1]",
-        "slot": "Head",
-        "status": "Dex ＋1, When daggers are equipped, auto attack has a 10% chance to trigger Double Attack, When Refining reaches 10, Dex ＋4, Hit ＋10"
-    },
-    {
-        "imgsrc": null,
-        "name": "Ramune",
+        "name": "Past Time",
         "slot": "Wing",
-        "status": "Str ＋4, INT ＋4, Max HP ＋200, Max SP ＋50"
+        "status": "Def ＋15, When Refining ＋10 and Strength reaches 90, Atk ＋20, When Refining ＋10 and Agility reaches 90, Attack Spd ＋5%, When Refining ＋10 and Vitality reaches 90, Neutral Dmg Taken -10%, When Refining ＋10 and Intelligence reaches 90, M.Atk ＋20, When Refining ＋10 and Dexterity reaches 90, Ranged Damage ＋5%, When Refining ＋10 and Luck reaches 90, Crit.Dmg ＋5%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43009.png",
+        "name": "Pauldron",
+        "slot": "Robe",
+        "status": "Def ＋80, SP cost of [Endure] -50%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43009.png",
+        "name": "Pauldron [1]",
+        "slot": "Robe",
+        "status": "Def ＋80, SP cost of [Endure] -50%"
     },
     {
         "imgsrc": null,
-        "name": "Rancid Scale Armor",
-        "slot": "Armour",
-        "status": ""
+        "name": "Pauldron [2]",
+        "slot": "Robe",
+        "status": "Def + 45"
     },
     {
         "imgsrc": null,
-        "name": "Rancid Scale Armor [1]",
-        "slot": "Armour",
-        "status": ""
-    },
-    {
-        "imgsrc": null,
-        "name": "Ranger Clothes",
-        "slot": "Armour",
-        "status": "Dex ＋5, Atk ＋8%, Increase the influence of intelligence on Falcon's Atk, [Cursed Lyre IV] ＋[Ranger Clothes IV]: improve the influence of Atk on Falcon's Atk"
-    },
-    {
-        "imgsrc": null,
-        "name": "Ranger Clothes [1]",
-        "slot": "Armour",
-        "status": "Dex ＋5, Atk ＋8%, Increase the influence of intelligence on Falcon's Atk, [Cursed Lyre IV] ＋[Ranger Clothes IV]: improve the influence of Atk on Falcon's Atk"
+        "name": "Peace Beauty",
+        "slot": "Tail",
+        "status": "Dmg to Water monsters ＋10%, Water Dmg Taken -10%"
     }
 ]

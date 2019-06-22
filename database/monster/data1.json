@@ -1,13 +1,56 @@
 [
     {
-        "imgsrc": "www.roguard.net/content/img/icons/monsters/boli_monster.png",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/monsters/fengtu_monster.png",
+        "name": "Lunatic",
+        "element": "Neutral",
+        "race": "Brute",
+        "level": "class=\"desktop-only\"",
+        "hp": "Lv 2",
+        "base_exp": "class=\"desktop-only\"",
+        "job_exp": "18 Base Exp",
+        "metadata": {
+            "description": "An intelligential rabbit and a very cute monster. It's sometimes shy and sometimes unrestrained. It likes jumping. Carrot is its favorite food. Its hair is quite fluffy even without special care. Novices can deal with it easily.",
+            "common_data": {
+                "level": "2",
+                "type": "Monster",
+                "zone": "Field",
+                "race": "Brute",
+                "element": "Neutral",
+                "size": "Small",
+                "passive_level": "0",
+                "base_exp": "18",
+                "job_exp": "6"
+            },
+            "attribute_data": {
+                "atk": "20",
+                "matk": "10",
+                "def": "0",
+                "mdef": "29",
+                "hp": "500,000",
+                "hit": "2",
+                "flee": "6",
+                "move_spd": "60",
+                "atk_spd": "0.6"
+            },
+            "card_data": {
+                "imgsrc": null,
+                "name": null,
+                "effect": null,
+                "perma_buff": null
+            },
+            "drop_data": [],
+            "location_data": []
+        }
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/monsters/boli_monster.png",
         "name": "Poring",
         "element": "Water",
         "race": "Plant",
-        "level": "Lv 1",
-        "hp": "10 Hp",
-        "base_exp": "7 Base Exp",
-        "job_exp": "4 Job Exp",
+        "level": "class=\"desktop-only\"",
+        "hp": "Lv 1",
+        "base_exp": "class=\"desktop-only\"",
+        "job_exp": "7 Base Exp",
         "metadata": {
             "description": "The super-popular monster in RO, which is popular with thousands of players in its kawaii style, and its limelight is much higher than that of Poporing. It likes apple very much, and will follow the people who give apple to it. It will also pick up all kinds of dropped items. With the weakest ability, it's aways being bullied by others. Suitable for novices.",
             "common_data": {
@@ -33,52 +76,49 @@
                 "atk_spd": "0.53"
             },
             "card_data": {
-                "imgsrc": "www.roguard.net/content/img/cards/card_10001.jpg",
+                "imgsrc": "s01.cdn.roguard.net/content/img/cards/card_10001.jpg",
                 "name": "Poring Card",
                 "effect": "Luk ＋1, Flee ＋1",
-                "perma_buff": [
-                    "<div style=\"text-align: center;\">Def ＋2</div>",
-                    "Def ＋2"
-                ]
+                "perma_buff": "Def ＋2"
             },
             "drop_data": [
                 {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_45001.png",
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45001.png",
                     "name": "Poring Hat Blueprint",
                     "drop_rate": "0.01%"
                 },
                 {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/19.png",
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
                     "name": "Poring Card",
                     "drop_rate": "0.01%"
                 },
                 {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_52101.png",
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_52101.png",
                     "name": "Jellopy",
                     "drop_rate": "21.21%"
                 },
                 {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_12004.png",
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12004.png",
                     "name": "Transformation Scroll (Poring)",
                     "drop_rate": "0.38%"
                 },
                 {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_100.png",
                     "name": "Zeny",
                     "drop_rate": "62.34%"
                 },
                 {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_100.png",
                     "name": "Zeny",
                     "drop_rate": "62.34%"
                 },
                 {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_12310.png",
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12310.png",
                     "name": "Apple Juice",
                     "drop_rate": "8.95%"
                 },
                 {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_40301.png",
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40301.png",
                     "name": "Eden Team Knife [2]",
                     "drop_rate": "1.67%"
                 }
@@ -100,118 +140,14 @@
         }
     },
     {
-        "imgsrc": "www.roguard.net/content/img/icons/monsters/mandala_monster.png",
-        "name": "Mandragora Seed",
-        "element": "Earth",
-        "race": "Plant",
-        "level": "Lv 1",
-        "hp": "13 Hp",
-        "base_exp": "1 Base Exp",
-        "job_exp": "1 Job Exp",
-        "metadata": {
-            "description": "A Fantasy plant which is not big. It's shy and good at hide and seek. It is said that they can only be found after taking a special potion in the Labyrinth Forest to enhance the sixth sense. As a seed, it's cute and adorable...",
-            "common_data": {
-                "level": "1",
-                "type": "Monster",
-                "zone": "Field",
-                "race": "Plant",
-                "element": "Earth",
-                "size": "Small",
-                "passive_level": "0",
-                "base_exp": "1",
-                "job_exp": "1"
-            },
-            "attribute_data": {
-                "atk": "1",
-                "matk": "1",
-                "def": "1",
-                "mdef": "1",
-                "hp": "13",
-                "hit": "1",
-                "flee": "1",
-                "move_spd": "150",
-                "atk_spd": "0.6"
-            },
-            "card_data": {
-                "imgsrc": null,
-                "name": "Mandragora Card",
-                "effect": "auto attack has a 5% chance to set the target into fearing state for a certain period",
-                "perma_buff": [
-                    "<div style=\"text-align: center;\">Max HP ＋24</div>",
-                    "Max HP ＋24"
-                ]
-            },
-            "drop_data": [
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/19.png",
-                    "name": "Mandragora Card",
-                    "drop_rate": "?%"
-                }
-            ],
-            "location_data": []
-        }
-    },
-    {
-        "imgsrc": "www.roguard.net/content/img/icons/monsters/mandala_monster.png",
-        "name": "Screaming Mandragora",
-        "element": "Earth",
-        "race": "Plant",
-        "level": "Lv 1",
-        "hp": "25 Hp",
-        "base_exp": "1 Base Exp",
-        "job_exp": "1 Job Exp",
-        "metadata": {
-            "description": "A Fantasy plant which is not big. It's shy and good at hide and seek. It is said that they can only be found after taking a special potion in the Labyrinth Forest to enhance the sixth sense. It grows slowly and has no difference with the seed. However, It's more sensitive, and will be screaming when it's frightened by strangers.",
-            "common_data": {
-                "level": "1",
-                "type": "Monster",
-                "zone": "Field",
-                "race": "Plant",
-                "element": "Earth",
-                "size": "Small",
-                "passive_level": "0",
-                "base_exp": "1",
-                "job_exp": "1"
-            },
-            "attribute_data": {
-                "atk": "1",
-                "matk": "1",
-                "def": "1",
-                "mdef": "1",
-                "hp": "25",
-                "hit": "1",
-                "flee": "1",
-                "move_spd": "150",
-                "atk_spd": "0.6"
-            },
-            "card_data": {
-                "imgsrc": null,
-                "name": "Mandragora Card",
-                "effect": "auto attack has a 5% chance to set the target into fearing state for a certain period",
-                "perma_buff": [
-                    "<div style=\"text-align: center;\">Max HP ＋24</div>",
-                    "Max HP ＋24"
-                ]
-            },
-            "drop_data": [
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/19.png",
-                    "name": "Mandragora Card",
-                    "drop_rate": "?%"
-                }
-            ],
-            "location_data": []
-        }
-    },
-    {
-        "imgsrc": "www.roguard.net/content/img/icons/monsters/savage_baby_monster.png",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/monsters/savage_baby_monster.png",
         "name": "Savage Babe",
         "element": "Earth",
         "race": "Brute",
-        "level": "Lv 5",
-        "hp": "20 Hp",
-        "base_exp": "19 Base Exp",
-        "job_exp": "13 Job Exp",
+        "level": "class=\"desktop-only\"",
+        "hp": "Lv 5",
+        "base_exp": "class=\"desktop-only\"",
+        "job_exp": "19 Base Exp",
         "metadata": {
             "description": "An omnivorous animal, with a strong body and thick and short limbs, thick mane and sharp tusks. Although it is a pig, its meat is very firm and its body is absolutely strong. If you unfortunately annoy it, its deadly tusks will teach you a lesson!",
             "common_data": {
@@ -247,14 +183,374 @@
         }
     },
     {
-        "imgsrc": "www.roguard.net/content/img/icons/monsters/littlewolf_monster.png",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/monsters/tarou_monster.png",
+        "name": "Tarou",
+        "element": "Shadow",
+        "race": "Brute",
+        "level": "class=\"desktop-only\"",
+        "hp": "Lv 11",
+        "base_exp": "class=\"desktop-only\"",
+        "job_exp": "83 Base Exp",
+        "metadata": {
+            "description": "A mouse that has been mutated because of staying in dark environment for many years. It's very sensitive to magic. In dark and humid places, its reproductive capacity is beyond imagination. People formed a sewer cleaning Party to control the number of them.",
+            "common_data": {
+                "level": "11",
+                "type": "Monster",
+                "zone": "Field",
+                "race": "Brute",
+                "element": "Shadow",
+                "size": "Small",
+                "passive_level": "40",
+                "base_exp": "83",
+                "job_exp": "41"
+            },
+            "attribute_data": {
+                "atk": "10",
+                "matk": "5",
+                "def": "0",
+                "mdef": "0",
+                "hp": "350",
+                "hit": "11",
+                "flee": "8",
+                "move_spd": "60",
+                "atk_spd": "0.57"
+            },
+            "card_data": {
+                "imgsrc": "s01.cdn.roguard.net/content/img/cards/card_10004.jpg",
+                "name": "Tarou Card",
+                "effect": "Str ＋2",
+                "perma_buff": "Atk ＋3"
+            },
+            "drop_data": [
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+                    "name": "Tarou Card",
+                    "drop_rate": "?%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_52151.png",
+                    "name": "Feather",
+                    "drop_rate": "21.7%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12004.png",
+                    "name": "Transformation Scroll (Tarou)",
+                    "drop_rate": "0.23%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_100.png",
+                    "name": "Zeny",
+                    "drop_rate": "71.29%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_100.png",
+                    "name": "Zeny",
+                    "drop_rate": "71.29%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_61501.png",
+                    "name": "Bracelet of Gray [1]",
+                    "drop_rate": "0.57%"
+                }
+            ],
+            "location_data": [
+                {
+                    "location": "Capital Sewer 1F",
+                    "suggestion_level": "(Lv11~14)"
+                }
+            ]
+        }
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/monsters/chonchon_monster.png",
+        "name": "Chon Chon",
+        "element": "Wind",
+        "race": "Insect",
+        "level": "class=\"desktop-only\"",
+        "hp": "Lv 13",
+        "base_exp": "class=\"desktop-only\"",
+        "job_exp": "94 Base Exp",
+        "metadata": {
+            "description": "Its screaming around people is very disturbing. Although the flies in the RO world do not have germs, They are always smashed by people who pass by. This creature is really unpleasant, After all, Appearance is still the key.",
+            "common_data": {
+                "level": "13",
+                "type": "Monster",
+                "zone": "Field",
+                "race": "Insect",
+                "element": "Wind",
+                "size": "Small",
+                "passive_level": "40",
+                "base_exp": "94",
+                "job_exp": "76"
+            },
+            "attribute_data": {
+                "atk": "10",
+                "matk": "5",
+                "def": "0",
+                "mdef": "0",
+                "hp": "625",
+                "hit": "13",
+                "flee": "8",
+                "move_spd": "60",
+                "atk_spd": "0.6"
+            },
+            "card_data": {
+                "imgsrc": "s01.cdn.roguard.net/content/img/cards/card_10010.jpg",
+                "name": "Chon Chon Card",
+                "effect": "Str ＋2",
+                "perma_buff": "Def ＋2"
+            },
+            "drop_data": [
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_48540.png",
+                    "name": "Gas Mask Blueprint",
+                    "drop_rate": "?%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+                    "name": "Chon Chon Card",
+                    "drop_rate": "?%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12004.png",
+                    "name": "Transformation Scroll (Chon Chon)",
+                    "drop_rate": "0.76%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_100.png",
+                    "name": "Zeny",
+                    "drop_rate": "82.68%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_100.png",
+                    "name": "Zeny",
+                    "drop_rate": "82.68%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_5024.png",
+                    "name": "Fly Wing",
+                    "drop_rate": "2.17%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_52401.png",
+                    "name": "Iron",
+                    "drop_rate": "6.23%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42503.png",
+                    "name": "Buckler [1]",
+                    "drop_rate": "1.08%"
+                }
+            ],
+            "location_data": [
+                {
+                    "location": "Prontera West Gate",
+                    "suggestion_level": "(Lv16~21)"
+                },
+                {
+                    "location": "Labyrinth Forest",
+                    "suggestion_level": "(Lv20~24)"
+                }
+            ]
+        }
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/monsters/smokie_mini.png",
+        "name": "Smokie",
+        "element": "Earth",
+        "race": "Brute",
+        "level": "class=\"desktop-only\"",
+        "hp": "Lv 8",
+        "base_exp": "class=\"desktop-only\"",
+        "job_exp": "457 Base Exp",
+        "metadata": {
+            "description": "A unique creature that inhabits the grassland and forest which is cunning and quite fast. Its daily life is regular. It take exercise every few hours every day to maintain a healthy body. It is said that destined person can learn the secret skill \"Diverse Civet\" through the Raccoon Leaf dropped from it!",
+            "common_data": {
+                "level": "8",
+                "type": "Mini Boss",
+                "zone": "Field",
+                "race": "Brute",
+                "element": "Earth",
+                "size": "Small",
+                "passive_level": "999",
+                "base_exp": "457",
+                "job_exp": "293"
+            },
+            "attribute_data": {
+                "atk": "78",
+                "matk": "39",
+                "def": "0",
+                "mdef": "13",
+                "hp": "10,350",
+                "hit": "134",
+                "flee": "36",
+                "move_spd": "60",
+                "atk_spd": "0.6"
+            },
+            "card_data": {
+                "imgsrc": "s01.cdn.roguard.net/content/img/cards/card_20001.jpg",
+                "name": "Smokie Card",
+                "effect": "Can use skill - [Hiding] Lv.1",
+                "perma_buff": "Def ＋4"
+            },
+            "drop_data": [
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45002.png",
+                    "name": "Kitty Band Blueprint",
+                    "drop_rate": "0.93%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+                    "name": "Smokie Card",
+                    "drop_rate": "?%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_52151.png",
+                    "name": "Feather",
+                    "drop_rate": "10.14%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_52301.png",
+                    "name": "Raccoon Leaf",
+                    "drop_rate": "2.99%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12004.png",
+                    "name": "Transformation Scroll (Smokie)",
+                    "drop_rate": "0.84%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12026.png",
+                    "name": "Awakening Potion",
+                    "drop_rate": "7.53%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_5004.png",
+                    "name": "Rough Elunium",
+                    "drop_rate": "9.89%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12121.png",
+                    "name": "Candy",
+                    "drop_rate": "5.23%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_100.png",
+                    "name": "Zeny",
+                    "drop_rate": "?%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42023.png",
+                    "name": "Leather Jacket [1]",
+                    "drop_rate": "31.2%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41202.png",
+                    "name": "Bow [2]",
+                    "drop_rate": "31.2%"
+                }
+            ],
+            "location_data": []
+        }
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/monsters/masterring_mini.png",
+        "name": "Mastering",
+        "element": "Water",
+        "race": "Plant",
+        "level": "class=\"desktop-only\"",
+        "hp": "Lv 12",
+        "base_exp": "class=\"desktop-only\"",
+        "job_exp": "915 Base Exp",
+        "metadata": {
+            "description": "As the king of Porings, it has a supreme position in the Poring world. It is surrounded by Porings all the time. It is always on the Poring Island with all the others, carrying the symbol of the king - Unicorn Horn.",
+            "common_data": {
+                "level": "12",
+                "type": "Mini Boss",
+                "zone": "Field",
+                "race": "Plant",
+                "element": "Water",
+                "size": "Medium",
+                "passive_level": "999",
+                "base_exp": "915",
+                "job_exp": "305"
+            },
+            "attribute_data": {
+                "atk": "284",
+                "matk": "142",
+                "def": "0",
+                "mdef": "13",
+                "hp": "25,950",
+                "hit": "109",
+                "flee": "4",
+                "move_spd": "50",
+                "atk_spd": "1"
+            },
+            "card_data": {
+                "imgsrc": "s01.cdn.roguard.net/content/img/cards/card_20017.jpg",
+                "name": "Mastering Card",
+                "effect": "Luk ＋4, Flee ＋5",
+                "perma_buff": "Max HP ＋24"
+            },
+            "drop_data": [
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45088.png",
+                    "name": "Unicorn Horn Blueprint",
+                    "drop_rate": "0.49%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+                    "name": "Mastering Card",
+                    "drop_rate": "?%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_52101.png",
+                    "name": "Jellopy",
+                    "drop_rate": "17.53%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_52305.png",
+                    "name": "Light Granule",
+                    "drop_rate": "4.62%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12004.png",
+                    "name": "Transformation Scroll (Mastering)",
+                    "drop_rate": "1.58%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_52501.png",
+                    "name": "Mandragora",
+                    "drop_rate": "?%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12310.png",
+                    "name": "Apple Juice",
+                    "drop_rate": "42.35%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_100.png",
+                    "name": "Zeny",
+                    "drop_rate": "0.38%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40603.png",
+                    "name": "Staff [2]",
+                    "drop_rate": "33.02%"
+                }
+            ],
+            "location_data": []
+        }
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/monsters/littlewolf_monster.png",
         "name": "Desert Wolf Baby",
         "element": "Fire",
         "race": "",
-        "level": "Lv 5",
-        "hp": "50 Hp",
-        "base_exp": "19 Base Exp",
-        "job_exp": "13 Job Exp",
+        "level": "class=\"desktop-only\"",
+        "hp": "Lv 5",
+        "base_exp": "class=\"desktop-only\"",
+        "job_exp": "19 Base Exp",
         "metadata": {
             "description": "A wolf that survives in the desert, which has a stronger attack than the common wolves and will actively attack the enemy. The one who fits the environment survives, nature is so cruel. Although it has small eyes, maybe it's staring at the target...",
             "common_data": {
@@ -290,22 +586,65 @@
         }
     },
     {
-        "imgsrc": "www.roguard.net/content/img/icons/monsters/thiefbug_egg_monster.png",
-        "name": "Thief Bug Egg",
-        "element": "Shadow",
-        "race": "Insect",
-        "level": "Lv 13",
-        "hp": "600 Hp",
-        "base_exp": "1 Base Exp",
-        "job_exp": "1 Job Exp",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/monsters/eclipse_mini.png",
+        "name": "Eclipse",
+        "element": "Neutral",
+        "race": "Brute",
+        "level": "class=\"desktop-only\"",
+        "hp": "Lv 10",
+        "base_exp": "class=\"desktop-only\"",
+        "job_exp": "466 Base Exp",
         "metadata": {
-            "description": "An egg of Thief Bug, which can often be seen in dark and humid places and may become a Thief Bug at any time. Due to its too powerful fertility, the team has to be dispatched regularly to control their quantity.",
+            "description": "The guardian of Lunatics with a bigger size, It's deeply loved by the Lunatics. It's said that it was only a well-behaved ordinary Lunatic. When it was picking the Four-leaf Clover, it accidentally touched the blue hair dye and mutated.",
             "common_data": {
-                "level": "13",
+                "level": "10",
+                "type": "Mini Boss",
+                "zone": "Field",
+                "race": "Brute",
+                "element": "Neutral",
+                "size": "Medium",
+                "passive_level": "0",
+                "base_exp": "466",
+                "job_exp": "427"
+            },
+            "attribute_data": {
+                "atk": "62",
+                "matk": "31",
+                "def": "0",
+                "mdef": "80",
+                "hp": "1,000,000",
+                "hit": "107",
+                "flee": "42",
+                "move_spd": "60",
+                "atk_spd": "0.7"
+            },
+            "card_data": {
+                "imgsrc": null,
+                "name": null,
+                "effect": null,
+                "perma_buff": null
+            },
+            "drop_data": [],
+            "location_data": []
+        }
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/monsters/pupa_monster.png",
+        "name": "Pupa",
+        "element": "Earth",
+        "race": "Insect",
+        "level": "class=\"desktop-only\"",
+        "hp": "Lv 4",
+        "base_exp": "class=\"desktop-only\"",
+        "job_exp": "1 Base Exp",
+        "metadata": {
+            "description": "Creamy's pupa, which is turned from Fabre. Its lifelong pursuit is extremely simple: break through the pupa, turn into a butterfly and fly. Although it has a very thick hard shell as protection, it is a good target for novices to bully.",
+            "common_data": {
+                "level": "4",
                 "type": "Monster",
                 "zone": "Field",
                 "race": "Insect",
-                "element": "Shadow",
+                "element": "Earth",
                 "size": "Small",
                 "passive_level": "0",
                 "base_exp": "1",
@@ -316,538 +655,51 @@
                 "matk": "1",
                 "def": "1",
                 "mdef": "1",
-                "hp": "600",
-                "hit": "112",
+                "hp": "300",
+                "hit": "32",
                 "flee": "0",
                 "move_spd": "0",
                 "atk_spd": "1"
             },
             "card_data": {
-                "imgsrc": "www.roguard.net/content/img/cards/card_40013.jpg",
-                "name": "Thief Bug Egg Card",
+                "imgsrc": "s01.cdn.roguard.net/content/img/cards/card_40009.jpg",
+                "name": "Pupa Card",
                 "effect": "Max HP ＋200",
-                "perma_buff": [
-                    "<div style=\"text-align: center;\">Max HP ＋24</div>",
-                    "Max HP ＋24"
-                ]
+                "perma_buff": "Max HP ＋24"
             },
             "drop_data": [
                 {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/19.png",
-                    "name": "Thief Bug Egg Card",
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+                    "name": "Pupa Card",
                     "drop_rate": "0.05%"
                 },
                 {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_100.png",
                     "name": "Zeny",
                     "drop_rate": "99.94%"
                 }
             ],
             "location_data": [
                 {
-                    "location": "Capital Sewer 1F",
-                    "suggestion_level": "(Lv11~14)"
+                    "location": "Prontera South Gate",
+                    "suggestion_level": "(Lv1~10)"
+                },
+                {
+                    "location": "Mjolnir Mountains",
+                    "suggestion_level": "(Lv38~45)"
                 }
             ]
         }
     },
     {
-        "imgsrc": "www.roguard.net/content/img/icons/monsters/thiefbug_monster.png",
-        "name": "Thief Bug",
-        "element": "Neutral",
-        "race": "Insect",
-        "level": "Lv 13",
-        "hp": "500 Hp",
-        "base_exp": "112 Base Exp",
-        "job_exp": "33 Job Exp",
-        "metadata": {
-            "description": "The insects that appear in the dark corners are basically cockroaches. As a veritable monster, it's very fast and will steal the player's items. Players who have just changed job should be careful. The result of ignoring it is that you will be surrounded by the brothers it brings...",
-            "common_data": {
-                "level": "13",
-                "type": "Monster",
-                "zone": "Field",
-                "race": "Insect",
-                "element": "Neutral",
-                "size": "Small",
-                "passive_level": "40",
-                "base_exp": "112",
-                "job_exp": "33"
-            },
-            "attribute_data": {
-                "atk": "11",
-                "matk": "6",
-                "def": "0",
-                "mdef": "0",
-                "hp": "500",
-                "hit": "13",
-                "flee": "8",
-                "move_spd": "60",
-                "atk_spd": "0.78"
-            },
-            "card_data": {
-                "imgsrc": "www.roguard.net/content/img/cards/card_10005.jpg",
-                "name": "Thief Bug Card",
-                "effect": "Hit ＋10",
-                "perma_buff": [
-                    "<div style=\"text-align: center;\">Atk ＋3</div>",
-                    "Atk ＋3"
-                ]
-            },
-            "drop_data": [
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/19.png",
-                    "name": "Thief Bug Card",
-                    "drop_rate": "?%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_12004.png",
-                    "name": "Transformation Scroll (Thief Bug)",
-                    "drop_rate": "0.57%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
-                    "name": "Zeny",
-                    "drop_rate": "85.54%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
-                    "name": "Zeny",
-                    "drop_rate": "85.54%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_52401.png",
-                    "name": "Iron",
-                    "drop_rate": "5.56%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_40702.png",
-                    "name": "Cutter [2]",
-                    "drop_rate": "0.97%"
-                }
-            ],
-            "location_data": [
-                {
-                    "location": "Capital Sewer 1F",
-                    "suggestion_level": "(Lv11~14)"
-                },
-                {
-                    "location": "Capital Sewer 2F",
-                    "suggestion_level": "(Lv13~17)"
-                }
-            ]
-        }
-    },
-    {
-        "imgsrc": "www.roguard.net/content/img/icons/monsters/pecopeco_egg_monster.png",
-        "name": "Peco Peco Egg",
-        "element": "Neutral",
-        "race": "Formless",
-        "level": "Lv 6",
-        "hp": "2,000 Hp",
-        "base_exp": "1 Base Exp",
-        "job_exp": "1 Job Exp",
-        "metadata": {
-            "description": "An egg of Peco Peco, which may hatch into a chicken at any time. Be careful when attacking it! Don't be seen by its mother. Legend has it that many eggs eventually fail to hatch, and many resentments will be turned into Magnolia to tell the world that they have lived.",
-            "common_data": {
-                "level": "6",
-                "type": "Monster",
-                "zone": "Field",
-                "race": "Formless",
-                "element": "Neutral",
-                "size": "Small",
-                "passive_level": "0",
-                "base_exp": "1",
-                "job_exp": "1"
-            },
-            "attribute_data": {
-                "atk": "1",
-                "matk": "1",
-                "def": "1",
-                "mdef": "1",
-                "hp": "2,000",
-                "hit": "48",
-                "flee": "0",
-                "move_spd": "0",
-                "atk_spd": "1"
-            },
-            "card_data": {
-                "imgsrc": "www.roguard.net/content/img/cards/card_40010.jpg",
-                "name": "Peco Peco Egg Card",
-                "effect": "Damage to formless race ＋15%",
-                "perma_buff": [
-                    "<div style=\"text-align: center;\">Max HP ＋24</div>",
-                    "Max HP ＋24"
-                ]
-            },
-            "drop_data": [
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/19.png",
-                    "name": "Peco Peco Egg Card",
-                    "drop_rate": "0.05%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_12101.png",
-                    "name": "Scarlet Dyestuffs",
-                    "drop_rate": "1.26%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
-                    "name": "Zeny",
-                    "drop_rate": "98.68%"
-                }
-            ],
-            "location_data": [
-                {
-                    "location": "Morroc",
-                    "suggestion_level": "(Lv49~55)"
-                }
-            ]
-        }
-    },
-    {
-        "imgsrc": "www.roguard.net/content/img/icons/monsters/spore_monster.png",
-        "name": "Spore",
-        "element": "Water",
-        "race": "Plant",
-        "level": "Lv 15",
-        "hp": "600 Hp",
-        "base_exp": "48 Base Exp",
-        "job_exp": "78 Job Exp",
-        "metadata": {
-            "description": "It bounces to move. Its appearance is cute, but once it is provoked, it will show its sinister appearance. In order to obtain gold coins, Some people specially organize to step on them, and finally got beaten by them.",
-            "common_data": {
-                "level": "15",
-                "type": "Monster",
-                "zone": "Field",
-                "race": "Plant",
-                "element": "Water",
-                "size": "Medium",
-                "passive_level": "40",
-                "base_exp": "48",
-                "job_exp": "78"
-            },
-            "attribute_data": {
-                "atk": "12",
-                "matk": "7",
-                "def": "0",
-                "mdef": "0",
-                "hp": "600",
-                "hit": "15",
-                "flee": "8",
-                "move_spd": "60",
-                "atk_spd": "0.53"
-            },
-            "card_data": {
-                "imgsrc": "www.roguard.net/content/img/cards/card_10006.jpg",
-                "name": "Spore Card",
-                "effect": "VIT ＋2",
-                "perma_buff": [
-                    "<div style=\"text-align: center;\">M.Atk ＋4.5</div>",
-                    "M.Atk ＋4.5"
-                ]
-            },
-            "drop_data": [
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_45005.png",
-                    "name": "Hat [1] Blueprint",
-                    "drop_rate": "?%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/19.png",
-                    "name": "Spore Card",
-                    "drop_rate": "?%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_52101.png",
-                    "name": "Jellopy",
-                    "drop_rate": "43.68%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_12004.png",
-                    "name": "Transformation Scroll (Spore)",
-                    "drop_rate": "0.47%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
-                    "name": "Zeny",
-                    "drop_rate": "50.72%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
-                    "name": "Zeny",
-                    "drop_rate": "50.72%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_43001.png",
-                    "name": "Eden Team Manteau [1]",
-                    "drop_rate": "0.79%"
-                }
-            ],
-            "location_data": [
-                {
-                    "location": "Capital Sewer 1F",
-                    "suggestion_level": "(Lv11~14)"
-                },
-                {
-                    "location": "Capital Sewer 2F",
-                    "suggestion_level": "(Lv13~17)"
-                }
-            ]
-        }
-    },
-    {
-        "imgsrc": "www.roguard.net/content/img/icons/monsters/chonchon_monster.png",
-        "name": "Chon Chon",
-        "element": "Wind",
-        "race": "Insect",
-        "level": "Lv 13",
-        "hp": "625 Hp",
-        "base_exp": "94 Base Exp",
-        "job_exp": "76 Job Exp",
-        "metadata": {
-            "description": "Its screaming around people is very disturbing. Although the flies in the RO world do not have germs, They are always smashed by people who pass by. This creature is really unpleasant, After all, Appearance is still the key.",
-            "common_data": {
-                "level": "13",
-                "type": "Monster",
-                "zone": "Field",
-                "race": "Insect",
-                "element": "Wind",
-                "size": "Small",
-                "passive_level": "40",
-                "base_exp": "94",
-                "job_exp": "76"
-            },
-            "attribute_data": {
-                "atk": "10",
-                "matk": "5",
-                "def": "0",
-                "mdef": "0",
-                "hp": "625",
-                "hit": "13",
-                "flee": "8",
-                "move_spd": "60",
-                "atk_spd": "0.6"
-            },
-            "card_data": {
-                "imgsrc": "www.roguard.net/content/img/cards/card_10010.jpg",
-                "name": "Chon Chon Card",
-                "effect": "Str ＋2",
-                "perma_buff": [
-                    "<div style=\"text-align: center;\">Def ＋2</div>",
-                    "Def ＋2"
-                ]
-            },
-            "drop_data": [
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_48540.png",
-                    "name": "Gas Mask Blueprint",
-                    "drop_rate": "?%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/19.png",
-                    "name": "Chon Chon Card",
-                    "drop_rate": "?%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_12004.png",
-                    "name": "Transformation Scroll (Chon Chon)",
-                    "drop_rate": "0.76%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
-                    "name": "Zeny",
-                    "drop_rate": "82.68%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
-                    "name": "Zeny",
-                    "drop_rate": "82.68%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_5024.png",
-                    "name": "Fly Wing",
-                    "drop_rate": "2.17%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_52401.png",
-                    "name": "Iron",
-                    "drop_rate": "6.23%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_42503.png",
-                    "name": "Buckler [1]",
-                    "drop_rate": "1.08%"
-                }
-            ],
-            "location_data": [
-                {
-                    "location": "Prontera West Gate",
-                    "suggestion_level": "(Lv16~21)"
-                },
-                {
-                    "location": "Labyrinth Forest",
-                    "suggestion_level": "(Lv20~24)"
-                }
-            ]
-        }
-    },
-    {
-        "imgsrc": "www.roguard.net/content/img/icons/monsters/tarou_monster.png",
-        "name": "Tarou",
-        "element": "Shadow",
-        "race": "Brute",
-        "level": "Lv 11",
-        "hp": "350 Hp",
-        "base_exp": "83 Base Exp",
-        "job_exp": "41 Job Exp",
-        "metadata": {
-            "description": "A mouse that has been mutated because of staying in dark environment for many years. It's very sensitive to magic. In dark and humid places, its reproductive capacity is beyond imagination. People formed a sewer cleaning Party to control the number of them.",
-            "common_data": {
-                "level": "11",
-                "type": "Monster",
-                "zone": "Field",
-                "race": "Brute",
-                "element": "Shadow",
-                "size": "Small",
-                "passive_level": "40",
-                "base_exp": "83",
-                "job_exp": "41"
-            },
-            "attribute_data": {
-                "atk": "10",
-                "matk": "5",
-                "def": "0",
-                "mdef": "0",
-                "hp": "350",
-                "hit": "11",
-                "flee": "8",
-                "move_spd": "60",
-                "atk_spd": "0.57"
-            },
-            "card_data": {
-                "imgsrc": "www.roguard.net/content/img/cards/card_10004.jpg",
-                "name": "Tarou Card",
-                "effect": "Str ＋2",
-                "perma_buff": [
-                    "<div style=\"text-align: center;\">Atk ＋3</div>",
-                    "Atk ＋3"
-                ]
-            },
-            "drop_data": [
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/19.png",
-                    "name": "Tarou Card",
-                    "drop_rate": "?%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_52151.png",
-                    "name": "Feather",
-                    "drop_rate": "21.7%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_12004.png",
-                    "name": "Transformation Scroll (Tarou)",
-                    "drop_rate": "0.23%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
-                    "name": "Zeny",
-                    "drop_rate": "71.29%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
-                    "name": "Zeny",
-                    "drop_rate": "71.29%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_61501.png",
-                    "name": "Bracelet of Gray [1]",
-                    "drop_rate": "0.57%"
-                }
-            ],
-            "location_data": [
-                {
-                    "location": "Capital Sewer 1F",
-                    "suggestion_level": "(Lv11~14)"
-                }
-            ]
-        }
-    },
-    {
-        "imgsrc": "www.roguard.net/content/img/icons/monsters/ant_egg_monster.png",
-        "name": "Ant Egg",
-        "element": "Neutral",
-        "race": "Formless",
-        "level": "Lv 12",
-        "hp": "5,000 Hp",
-        "base_exp": "1 Base Exp",
-        "job_exp": "1 Job Exp",
-        "metadata": {
-            "description": "The ant larvae, which are all over the ground in the caves. Although they all look the same, Their types are different when hatched. In the ant community, the moment of birth determines their status for life. Come, Bet, Do you want to bet whether the next one is the queen?",
-            "common_data": {
-                "level": "12",
-                "type": "Monster",
-                "zone": "Field",
-                "race": "Formless",
-                "element": "Neutral",
-                "size": "Small",
-                "passive_level": "0",
-                "base_exp": "1",
-                "job_exp": "1"
-            },
-            "attribute_data": {
-                "atk": "1",
-                "matk": "1",
-                "def": "1",
-                "mdef": "1",
-                "hp": "5,000",
-                "hit": "96",
-                "flee": "0",
-                "move_spd": "0",
-                "atk_spd": "1"
-            },
-            "card_data": {
-                "imgsrc": "www.roguard.net/content/img/cards/card_40012.jpg",
-                "name": "Meta Ant Egg Card",
-                "effect": "Max HP ＋5%",
-                "perma_buff": [
-                    "<div style=\"text-align: center;\">Max HP ＋24</div>",
-                    "Max HP ＋24"
-                ]
-            },
-            "drop_data": [
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/19.png",
-                    "name": "Meta Ant Egg Card",
-                    "drop_rate": "0.02%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
-                    "name": "Zeny",
-                    "drop_rate": "99.97%"
-                }
-            ],
-            "location_data": [
-                {
-                    "location": "Ant Hell",
-                    "suggestion_level": "(Lv40~48)"
-                },
-                {
-                    "location": "Sograt Desert",
-                    "suggestion_level": "(Lv40~51)"
-                }
-            ]
-        }
-    },
-    {
-        "imgsrc": "www.roguard.net/content/img/icons/monsters/mandala_monster.png",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/monsters/mandala_monster.png",
         "name": "Rare Mandragora",
         "element": "Earth",
         "race": "Plant",
-        "level": "Lv 1",
-        "hp": "38 Hp",
-        "base_exp": "1 Base Exp",
-        "job_exp": "1 Job Exp",
+        "level": "class=\"desktop-only\"",
+        "hp": "Lv 1",
+        "base_exp": "class=\"desktop-only\"",
+        "job_exp": "1 Base Exp",
         "metadata": {
             "description": "A Fantasy plant which is not big. It's shy and good at hide and seek. It is said that they can only be found after taking a special potion in the Labyrinth Forest to enhance the sixth sense. After it has grown up, It's very good at hide and seek, but it's still small. They're rare.",
             "common_data": {
@@ -876,14 +728,11 @@
                 "imgsrc": null,
                 "name": "Mandragora Card",
                 "effect": "auto attack has a 5% chance to set the target into fearing state for a certain period",
-                "perma_buff": [
-                    "<div style=\"text-align: center;\">Max HP ＋24</div>",
-                    "Max HP ＋24"
-                ]
+                "perma_buff": "Max HP ＋24"
             },
             "drop_data": [
                 {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/19.png",
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
                     "name": "Mandragora Card",
                     "drop_rate": "?%"
                 }
@@ -892,116 +741,14 @@
         }
     },
     {
-        "imgsrc": "www.roguard.net/content/img/icons/monsters/smokie_mini.png",
-        "name": "Smokie",
-        "element": "Earth",
-        "race": "Brute",
-        "level": "Lv 8",
-        "hp": "10,350 Hp",
-        "base_exp": "457 Base Exp",
-        "job_exp": "293 Job Exp",
-        "metadata": {
-            "description": "A unique creature that inhabits the grassland and forest which is cunning and quite fast. Its daily life is regular. It take exercise every few hours every day to maintain a healthy body. It is said that destined person can learn the secret skill \"Diverse Civet\" through the Raccoon Leaf dropped from it!",
-            "common_data": {
-                "level": "8",
-                "type": "Mini Boss",
-                "zone": "Field",
-                "race": "Brute",
-                "element": "Earth",
-                "size": "Small",
-                "passive_level": "999",
-                "base_exp": "457",
-                "job_exp": "293"
-            },
-            "attribute_data": {
-                "atk": "78",
-                "matk": "39",
-                "def": "0",
-                "mdef": "13",
-                "hp": "10,350",
-                "hit": "134",
-                "flee": "36",
-                "move_spd": "60",
-                "atk_spd": "0.6"
-            },
-            "card_data": {
-                "imgsrc": "www.roguard.net/content/img/cards/card_20001.jpg",
-                "name": "Smokie Card",
-                "effect": "Can use skill - [Hiding] Lv.1",
-                "perma_buff": [
-                    "<div style=\"text-align: center;\">Def ＋4</div>",
-                    "Def ＋4"
-                ]
-            },
-            "drop_data": [
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_45002.png",
-                    "name": "Kitty Band Blueprint",
-                    "drop_rate": "0.93%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/19.png",
-                    "name": "Smokie Card",
-                    "drop_rate": "?%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_52151.png",
-                    "name": "Feather",
-                    "drop_rate": "10.14%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_52301.png",
-                    "name": "Raccoon Leaf",
-                    "drop_rate": "2.99%"
-                },
-                {
-                    "imgsrc": null,
-                    "name": "Transformation Scroll (Smokie)",
-                    "drop_rate": "0.84%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_12026.png",
-                    "name": "Awakening Potion",
-                    "drop_rate": "7.53%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_5004.png",
-                    "name": "Rough Elunium",
-                    "drop_rate": "9.89%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_12121.png",
-                    "name": "Candy",
-                    "drop_rate": "5.23%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
-                    "name": "Zeny",
-                    "drop_rate": "?%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_42023.png",
-                    "name": "Leather Jacket [1]",
-                    "drop_rate": "31.2%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_41202.png",
-                    "name": "Bow [2]",
-                    "drop_rate": "31.2%"
-                }
-            ],
-            "location_data": []
-        }
-    },
-    {
-        "imgsrc": "www.roguard.net/content/img/icons/monsters/fengtu_monster.png",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/monsters/fengtu_monster.png",
         "name": "Lunatic",
         "element": "Neutral",
         "race": "Brute",
-        "level": "Lv 2",
-        "hp": "48 Hp",
-        "base_exp": "18 Base Exp",
-        "job_exp": "6 Job Exp",
+        "level": "class=\"desktop-only\"",
+        "hp": "Lv 2",
+        "base_exp": "class=\"desktop-only\"",
+        "job_exp": "18 Base Exp",
         "metadata": {
             "description": "An intelligential rabbit and a very cute monster. It's sometimes shy and sometimes unrestrained. It likes jumping. Carrot is its favorite food. Its hair is quite fluffy even without special care. Novices can deal with it easily.",
             "common_data": {
@@ -1027,57 +774,54 @@
                 "atk_spd": "0.6"
             },
             "card_data": {
-                "imgsrc": "www.roguard.net/content/img/cards/card_10002.jpg",
+                "imgsrc": "s01.cdn.roguard.net/content/img/cards/card_10002.jpg",
                 "name": "Lunatic Card",
                 "effect": "Luk ＋1, Cri ＋1",
-                "perma_buff": [
-                    "<div style=\"text-align: center;\">Atk ＋3</div>",
-                    "Atk ＋3"
-                ]
+                "perma_buff": "Atk ＋3"
             },
             "drop_data": [
                 {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_48501.png",
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_48501.png",
                     "name": "Clown Nose Blueprint",
                     "drop_rate": "0.01%"
                 },
                 {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/19.png",
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
                     "name": "Lunatic Card",
                     "drop_rate": "0.01%"
                 },
                 {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_52151.png",
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_52151.png",
                     "name": "Feather",
                     "drop_rate": "26.63%"
                 },
                 {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_12004.png",
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12004.png",
                     "name": "Transformation Scroll (Lunatic)",
                     "drop_rate": "0.48%"
                 },
                 {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_100.png",
                     "name": "Zeny",
                     "drop_rate": "53.25%"
                 },
                 {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_100.png",
                     "name": "Zeny",
                     "drop_rate": "53.25%"
                 },
                 {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_12310.png",
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12310.png",
                     "name": "Apple Juice",
                     "drop_rate": "11.24%"
                 },
                 {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_12002.png",
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12002.png",
                     "name": "Orange Potion",
                     "drop_rate": "1.7%"
                 },
                 {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_43501.png",
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43501.png",
                     "name": "Eden Team Boots [1]",
                     "drop_rate": "2.1%"
                 }
@@ -1095,172 +839,14 @@
         }
     },
     {
-        "imgsrc": "www.roguard.net/content/img/icons/monsters/masterring_mini.png",
-        "name": "Mastering",
-        "element": "Water",
-        "race": "Plant",
-        "level": "Lv 12",
-        "hp": "25,950 Hp",
-        "base_exp": "915 Base Exp",
-        "job_exp": "305 Job Exp",
-        "metadata": {
-            "description": "As the king of Porings, it has a supreme position in the Poring world. It is surrounded by Porings all the time. It is always on the Poring Island with all the others, carrying the symbol of the king - Unicorn Horn.",
-            "common_data": {
-                "level": "12",
-                "type": "Mini Boss",
-                "zone": "Field",
-                "race": "Plant",
-                "element": "Water",
-                "size": "Medium",
-                "passive_level": "999",
-                "base_exp": "915",
-                "job_exp": "305"
-            },
-            "attribute_data": {
-                "atk": "284",
-                "matk": "142",
-                "def": "0",
-                "mdef": "13",
-                "hp": "25,950",
-                "hit": "109",
-                "flee": "4",
-                "move_spd": "50",
-                "atk_spd": "1"
-            },
-            "card_data": {
-                "imgsrc": "www.roguard.net/content/img/cards/card_20017.jpg",
-                "name": "Mastering Card",
-                "effect": "Luk ＋4, Flee ＋5",
-                "perma_buff": [
-                    "<div style=\"text-align: center;\">Max HP ＋24</div>",
-                    "Max HP ＋24"
-                ]
-            },
-            "drop_data": [
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_45088.png",
-                    "name": "Unicorn Horn Blueprint",
-                    "drop_rate": "0.49%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/19.png",
-                    "name": "Mastering Card",
-                    "drop_rate": "?%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_52101.png",
-                    "name": "Jellopy",
-                    "drop_rate": "17.53%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_52305.png",
-                    "name": "Light Granule",
-                    "drop_rate": "4.62%"
-                },
-                {
-                    "imgsrc": null,
-                    "name": "Transformation Scroll (Mastering)",
-                    "drop_rate": "1.58%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_52501.png",
-                    "name": "Mandragora",
-                    "drop_rate": "?%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_12310.png",
-                    "name": "Apple Juice",
-                    "drop_rate": "42.35%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
-                    "name": "Zeny",
-                    "drop_rate": "0.38%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_40603.png",
-                    "name": "Staff [2]",
-                    "drop_rate": "33.02%"
-                }
-            ],
-            "location_data": []
-        }
-    },
-    {
-        "imgsrc": "www.roguard.net/content/img/icons/monsters/pupa_monster.png",
-        "name": "Pupa",
-        "element": "Earth",
-        "race": "Insect",
-        "level": "Lv 4",
-        "hp": "300 Hp",
-        "base_exp": "1 Base Exp",
-        "job_exp": "1 Job Exp",
-        "metadata": {
-            "description": "Creamy's pupa, which is turned from Fabre. Its lifelong pursuit is extremely simple: break through the pupa, turn into a butterfly and fly. Although it has a very thick hard shell as protection, it is a good target for novices to bully.",
-            "common_data": {
-                "level": "4",
-                "type": "Monster",
-                "zone": "Field",
-                "race": "Insect",
-                "element": "Earth",
-                "size": "Small",
-                "passive_level": "0",
-                "base_exp": "1",
-                "job_exp": "1"
-            },
-            "attribute_data": {
-                "atk": "1",
-                "matk": "1",
-                "def": "1",
-                "mdef": "1",
-                "hp": "300",
-                "hit": "32",
-                "flee": "0",
-                "move_spd": "0",
-                "atk_spd": "1"
-            },
-            "card_data": {
-                "imgsrc": "www.roguard.net/content/img/cards/card_40009.jpg",
-                "name": "Pupa Card",
-                "effect": "Max HP ＋200",
-                "perma_buff": [
-                    "<div style=\"text-align: center;\">Max HP ＋24</div>",
-                    "Max HP ＋24"
-                ]
-            },
-            "drop_data": [
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/19.png",
-                    "name": "Pupa Card",
-                    "drop_rate": "0.05%"
-                },
-                {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
-                    "name": "Zeny",
-                    "drop_rate": "99.94%"
-                }
-            ],
-            "location_data": [
-                {
-                    "location": "Prontera South Gate",
-                    "suggestion_level": "(Lv1~10)"
-                },
-                {
-                    "location": "Mjolnir Mountains",
-                    "suggestion_level": "(Lv38~45)"
-                }
-            ]
-        }
-    },
-    {
-        "imgsrc": "www.roguard.net/content/img/icons/monsters/lvmianchong_monster.png",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/monsters/lvmianchong_monster.png",
         "name": "Fabre",
         "element": "Earth",
         "race": "Insect",
-        "level": "Lv 3",
-        "hp": "60 Hp",
-        "base_exp": "19 Base Exp",
-        "job_exp": "13 Job Exp",
+        "level": "class=\"desktop-only\"",
+        "hp": "Lv 3",
+        "base_exp": "class=\"desktop-only\"",
+        "job_exp": "19 Base Exp",
         "metadata": {
             "description": "The common monster in the South Gate is the Creamy Larva. Novices can handle it with a little care. But these green worms occasionally evolve into pupas. If you dream of a Fabre crawling on your body, it will itch for a while.",
             "common_data": {
@@ -1286,42 +872,39 @@
                 "atk_spd": "0.6"
             },
             "card_data": {
-                "imgsrc": "www.roguard.net/content/img/cards/card_10003.jpg",
+                "imgsrc": "s01.cdn.roguard.net/content/img/cards/card_10003.jpg",
                 "name": "Fabre Card",
                 "effect": "VIT ＋1, Max HP ＋50",
-                "perma_buff": [
-                    "<div style=\"text-align: center;\">Max HP ＋24</div>",
-                    "Max HP ＋24"
-                ]
+                "perma_buff": "Max HP ＋24"
             },
             "drop_data": [
                 {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/19.png",
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
                     "name": "Fabre Card",
                     "drop_rate": "?%"
                 },
                 {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_52101.png",
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_52101.png",
                     "name": "Jellopy",
                     "drop_rate": "26.32%"
                 },
                 {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_12004.png",
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12004.png",
                     "name": "Transformation Scroll (Fabre)",
                     "drop_rate": "0.28%"
                 },
                 {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_100.png",
                     "name": "Zeny",
                     "drop_rate": "66.74%"
                 },
                 {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_100.png",
                     "name": "Zeny",
                     "drop_rate": "66.74%"
                 },
                 {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_42001.png",
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42001.png",
                     "name": "Eden Team Training Clothes [1]",
                     "drop_rate": "0.88%"
                 }
@@ -1343,14 +926,112 @@
         }
     },
     {
-        "imgsrc": "www.roguard.net/content/img/icons/monsters/picky_monster.png",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/monsters/mandala_monster.png",
+        "name": "Mandragora Seed",
+        "element": "Earth",
+        "race": "Plant",
+        "level": "class=\"desktop-only\"",
+        "hp": "Lv 1",
+        "base_exp": "class=\"desktop-only\"",
+        "job_exp": "1 Base Exp",
+        "metadata": {
+            "description": "A Fantasy plant which is not big. It's shy and good at hide and seek. It is said that they can only be found after taking a special potion in the Labyrinth Forest to enhance the sixth sense. As a seed, it's cute and adorable...",
+            "common_data": {
+                "level": "1",
+                "type": "Monster",
+                "zone": "Field",
+                "race": "Plant",
+                "element": "Earth",
+                "size": "Small",
+                "passive_level": "0",
+                "base_exp": "1",
+                "job_exp": "1"
+            },
+            "attribute_data": {
+                "atk": "1",
+                "matk": "1",
+                "def": "1",
+                "mdef": "1",
+                "hp": "13",
+                "hit": "1",
+                "flee": "1",
+                "move_spd": "150",
+                "atk_spd": "0.6"
+            },
+            "card_data": {
+                "imgsrc": null,
+                "name": "Mandragora Card",
+                "effect": "auto attack has a 5% chance to set the target into fearing state for a certain period",
+                "perma_buff": "Max HP ＋24"
+            },
+            "drop_data": [
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+                    "name": "Mandragora Card",
+                    "drop_rate": "?%"
+                }
+            ],
+            "location_data": []
+        }
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/monsters/mandala_monster.png",
+        "name": "Screaming Mandragora",
+        "element": "Earth",
+        "race": "Plant",
+        "level": "class=\"desktop-only\"",
+        "hp": "Lv 1",
+        "base_exp": "class=\"desktop-only\"",
+        "job_exp": "1 Base Exp",
+        "metadata": {
+            "description": "A Fantasy plant which is not big. It's shy and good at hide and seek. It is said that they can only be found after taking a special potion in the Labyrinth Forest to enhance the sixth sense. It grows slowly and has no difference with the seed. However, It's more sensitive, and will be screaming when it's frightened by strangers.",
+            "common_data": {
+                "level": "1",
+                "type": "Monster",
+                "zone": "Field",
+                "race": "Plant",
+                "element": "Earth",
+                "size": "Small",
+                "passive_level": "0",
+                "base_exp": "1",
+                "job_exp": "1"
+            },
+            "attribute_data": {
+                "atk": "1",
+                "matk": "1",
+                "def": "1",
+                "mdef": "1",
+                "hp": "25",
+                "hit": "1",
+                "flee": "1",
+                "move_spd": "150",
+                "atk_spd": "0.6"
+            },
+            "card_data": {
+                "imgsrc": null,
+                "name": "Mandragora Card",
+                "effect": "auto attack has a 5% chance to set the target into fearing state for a certain period",
+                "perma_buff": "Max HP ＋24"
+            },
+            "drop_data": [
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+                    "name": "Mandragora Card",
+                    "drop_rate": "?%"
+                }
+            ],
+            "location_data": []
+        }
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/monsters/picky_monster.png",
         "name": "Picky",
         "element": "Fire",
         "race": "Brute",
-        "level": "Lv 9",
-        "hp": "64 Hp",
-        "base_exp": "1 Base Exp",
-        "job_exp": "1 Job Exp",
+        "level": "class=\"desktop-only\"",
+        "hp": "Lv 9",
+        "base_exp": "class=\"desktop-only\"",
+        "job_exp": "1 Base Exp",
         "metadata": {
             "description": "A nestling of Peco Peco which lives mainly in the desert, always wandering around without any worries. Because its development is still not complete, so it tries hard to flap the wings all day, in order to be able to fly high one day, however...",
             "common_data": {
@@ -1376,27 +1057,24 @@
                 "atk_spd": "1"
             },
             "card_data": {
-                "imgsrc": "www.roguard.net/content/img/cards/card_40011.jpg",
+                "imgsrc": "s01.cdn.roguard.net/content/img/cards/card_40011.jpg",
                 "name": "Picky Card",
                 "effect": "Str ＋1, Atk ＋10",
-                "perma_buff": [
-                    "<div style=\"text-align: center;\">Max HP ＋24</div>",
-                    "Max HP ＋24"
-                ]
+                "perma_buff": "Max HP ＋24"
             },
             "drop_data": [
                 {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/19.png",
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
                     "name": "Picky Card",
                     "drop_rate": "?%"
                 },
                 {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_12101.png",
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12101.png",
                     "name": "Scarlet Dyestuffs",
                     "drop_rate": "?%"
                 },
                 {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_100.png",
                     "name": "Zeny",
                     "drop_rate": "?%"
                 }
@@ -1405,14 +1083,78 @@
         }
     },
     {
-        "imgsrc": "www.roguard.net/content/img/icons/monsters/eclipse_mini.png",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/monsters/pecopeco_egg_monster.png",
+        "name": "Peco Peco Egg",
+        "element": "Neutral",
+        "race": "Formless",
+        "level": "class=\"desktop-only\"",
+        "hp": "Lv 6",
+        "base_exp": "class=\"desktop-only\"",
+        "job_exp": "1 Base Exp",
+        "metadata": {
+            "description": "An egg of Peco Peco, which may hatch into a chicken at any time. Be careful when attacking it! Don't be seen by its mother. Legend has it that many eggs eventually fail to hatch, and many resentments will be turned into Magnolia to tell the world that they have lived.",
+            "common_data": {
+                "level": "6",
+                "type": "Monster",
+                "zone": "Field",
+                "race": "Formless",
+                "element": "Neutral",
+                "size": "Small",
+                "passive_level": "0",
+                "base_exp": "1",
+                "job_exp": "1"
+            },
+            "attribute_data": {
+                "atk": "1",
+                "matk": "1",
+                "def": "1",
+                "mdef": "1",
+                "hp": "2,000",
+                "hit": "48",
+                "flee": "0",
+                "move_spd": "0",
+                "atk_spd": "1"
+            },
+            "card_data": {
+                "imgsrc": "s01.cdn.roguard.net/content/img/cards/card_40010.jpg",
+                "name": "Peco Peco Egg Card",
+                "effect": "Damage to formless race ＋15%",
+                "perma_buff": "Max HP ＋24"
+            },
+            "drop_data": [
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+                    "name": "Peco Peco Egg Card",
+                    "drop_rate": "0.05%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12101.png",
+                    "name": "Scarlet Dyestuffs",
+                    "drop_rate": "1.26%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_100.png",
+                    "name": "Zeny",
+                    "drop_rate": "98.68%"
+                }
+            ],
+            "location_data": [
+                {
+                    "location": "Morroc",
+                    "suggestion_level": "(Lv49~55)"
+                }
+            ]
+        }
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/monsters/eclipse_mini.png",
         "name": "Eclipse",
         "element": "Neutral",
         "race": "Brute",
-        "level": "Lv 10",
-        "hp": "18,300 Hp",
-        "base_exp": "466 Base Exp",
-        "job_exp": "427 Job Exp",
+        "level": "class=\"desktop-only\"",
+        "hp": "Lv 10",
+        "base_exp": "class=\"desktop-only\"",
+        "job_exp": "466 Base Exp",
         "metadata": {
             "description": "The guardian of Lunatics with a bigger size, It's deeply loved by the Lunatics. It's said that it was only a well-behaved ordinary Lunatic. When it was picking the Four-leaf Clover, it accidentally touched the blue hair dye and mutated.",
             "common_data": {
@@ -1438,67 +1180,210 @@
                 "atk_spd": "0.7"
             },
             "card_data": {
-                "imgsrc": "www.roguard.net/content/img/cards/card_20002.jpg",
+                "imgsrc": "s01.cdn.roguard.net/content/img/cards/card_20002.jpg",
                 "name": "Eclipse Card",
                 "effect": "VIT ＋4, Flee ＋5",
-                "perma_buff": [
-                    "<div style=\"text-align: center;\">Max HP ＋84</div>",
-                    "Max HP ＋84"
-                ]
+                "perma_buff": "Max HP ＋84"
             },
             "drop_data": [
                 {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_45003.png",
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45003.png",
                     "name": "Cute Ribbon Blueprint",
                     "drop_rate": "1.01%"
                 },
                 {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/19.png",
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
                     "name": "Eclipse Card",
                     "drop_rate": "?%"
                 },
                 {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_52151.png",
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_52151.png",
                     "name": "Feather",
                     "drop_rate": "10.53%"
                 },
                 {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_12106.png",
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12106.png",
                     "name": "Cobaltblue Dyestuffs",
                     "drop_rate": "7.11%"
                 },
                 {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_52302.png",
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_52302.png",
                     "name": "Four Leaf Clover",
                     "drop_rate": "2.33%"
                 },
                 {
-                    "imgsrc": null,
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12004.png",
                     "name": "Transformation Scroll (Eclipse)",
                     "drop_rate": "0.91%"
                 },
                 {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_5001.png",
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_5001.png",
                     "name": "Rough Oridecon",
                     "drop_rate": "10.66%"
                 },
                 {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_100.png",
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_100.png",
                     "name": "Zeny",
                     "drop_rate": "?%"
                 },
                 {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_43523.png",
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43523.png",
                     "name": "Sandals [1]",
                     "drop_rate": "33.71%"
                 },
                 {
-                    "imgsrc": "www.roguard.net/content/img/icons/items/item_40602.png",
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40602.png",
                     "name": "Rod [2]",
                     "drop_rate": "33.71%"
                 }
             ],
             "location_data": []
+        }
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/monsters/ant_egg_monster.png",
+        "name": "Ant Egg",
+        "element": "Neutral",
+        "race": "Formless",
+        "level": "class=\"desktop-only\"",
+        "hp": "Lv 12",
+        "base_exp": "class=\"desktop-only\"",
+        "job_exp": "1 Base Exp",
+        "metadata": {
+            "description": "The ant larvae, which are all over the ground in the caves. Although they all look the same, Their types are different when hatched. In the ant community, the moment of birth determines their status for life. Come, Bet, Do you want to bet whether the next one is the queen?",
+            "common_data": {
+                "level": "12",
+                "type": "Monster",
+                "zone": "Field",
+                "race": "Formless",
+                "element": "Neutral",
+                "size": "Small",
+                "passive_level": "0",
+                "base_exp": "1",
+                "job_exp": "1"
+            },
+            "attribute_data": {
+                "atk": "1",
+                "matk": "1",
+                "def": "1",
+                "mdef": "1",
+                "hp": "5,000",
+                "hit": "96",
+                "flee": "0",
+                "move_spd": "0",
+                "atk_spd": "1"
+            },
+            "card_data": {
+                "imgsrc": "s01.cdn.roguard.net/content/img/cards/card_40012.jpg",
+                "name": "Meta Ant Egg Card",
+                "effect": "Max HP ＋5%",
+                "perma_buff": "Max HP ＋24"
+            },
+            "drop_data": [
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+                    "name": "Meta Ant Egg Card",
+                    "drop_rate": "0.02%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_100.png",
+                    "name": "Zeny",
+                    "drop_rate": "99.97%"
+                }
+            ],
+            "location_data": [
+                {
+                    "location": "Ant Hell",
+                    "suggestion_level": "(Lv40~48)"
+                },
+                {
+                    "location": "Sograt Desert",
+                    "suggestion_level": "(Lv40~51)"
+                }
+            ]
+        }
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/monsters/thiefbug_monster.png",
+        "name": "Thief Bug",
+        "element": "Neutral",
+        "race": "Insect",
+        "level": "class=\"desktop-only\"",
+        "hp": "Lv 13",
+        "base_exp": "class=\"desktop-only\"",
+        "job_exp": "112 Base Exp",
+        "metadata": {
+            "description": "The insects that appear in the dark corners are basically cockroaches. As a veritable monster, it's very fast and will steal the player's items. Players who have just changed job should be careful. The result of ignoring it is that you will be surrounded by the brothers it brings...",
+            "common_data": {
+                "level": "13",
+                "type": "Monster",
+                "zone": "Field",
+                "race": "Insect",
+                "element": "Neutral",
+                "size": "Small",
+                "passive_level": "40",
+                "base_exp": "112",
+                "job_exp": "33"
+            },
+            "attribute_data": {
+                "atk": "11",
+                "matk": "6",
+                "def": "0",
+                "mdef": "0",
+                "hp": "500",
+                "hit": "13",
+                "flee": "8",
+                "move_spd": "60",
+                "atk_spd": "0.78"
+            },
+            "card_data": {
+                "imgsrc": "s01.cdn.roguard.net/content/img/cards/card_10005.jpg",
+                "name": "Thief Bug Card",
+                "effect": "Hit ＋10",
+                "perma_buff": "Atk ＋3"
+            },
+            "drop_data": [
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+                    "name": "Thief Bug Card",
+                    "drop_rate": "?%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12004.png",
+                    "name": "Transformation Scroll (Thief Bug)",
+                    "drop_rate": "0.57%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_100.png",
+                    "name": "Zeny",
+                    "drop_rate": "85.54%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_100.png",
+                    "name": "Zeny",
+                    "drop_rate": "85.54%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_52401.png",
+                    "name": "Iron",
+                    "drop_rate": "5.56%"
+                },
+                {
+                    "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40702.png",
+                    "name": "Cutter [2]",
+                    "drop_rate": "0.97%"
+                }
+            ],
+            "location_data": [
+                {
+                    "location": "Capital Sewer 1F",
+                    "suggestion_level": "(Lv11~14)"
+                },
+                {
+                    "location": "Capital Sewer 2F",
+                    "suggestion_level": "(Lv13~17)"
+                }
+            ]
         }
     }
 ]

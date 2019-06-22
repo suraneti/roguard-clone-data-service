@@ -1,122 +1,122 @@
 [
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42518.png",
-        "name": "Exorcism Bible [1]",
-        "slot": "Shield",
-        "status": "Damage reduction of undead race ＋15%, Dark Dmg Taken -20%"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42006.png",
-        "name": "Exorcist Robe",
-        "slot": "Armour",
-        "status": "M.Def ＋25, Damage reduction of undead race ＋15%, Dark Dmg Taken -15%"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42006.png",
-        "name": "Exorcist Robe [1]",
-        "slot": "Armour",
-        "status": "M.Def ＋25, Damage reduction of undead race ＋15%, Dark Dmg Taken -15%"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_48518.png",
-        "name": "Eye Bandage",
-        "slot": "Face",
-        "status": "Def ＋10"
-    },
-    {
         "imgsrc": null,
-        "name": "Eye of Dawn",
-        "slot": "Face",
-        "status": "STR ＋2, DEX＋2, Atk ＋40"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_44008.png",
-        "name": "Eye of Dullahan",
-        "slot": "Accessory",
-        "status": "Dex ＋5, INT ＋5, [Wizardry Staff VIII] ＋ [Robe of Cast VIII] ＋ [Eye of Dullahan VIII] ＋ [Crystal Pumps IV]: -5% CT Variable, ＋3% M.Dmg, ＋3% Ignore MDef"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_44008.png",
-        "name": "Eye of Dullahan [1]",
-        "slot": "Accessory",
-        "status": "Dex ＋5, INT ＋5, [Wizardry Staff VIII] ＋ [Robe of Cast VIII] ＋ [Eye of Dullahan VIII] ＋ [Crystal Pumps IV]: -5% CT Variable, ＋3% M.Dmg, ＋3% Ignore MDef"
-    },
-    {
-        "imgsrc": null,
-        "name": "Eye Scar",
-        "slot": "Face",
-        "status": "Ignore Def ＋2%"
-    },
-    {
-        "imgsrc": null,
-        "name": "Fairy in Bottle",
-        "slot": "Accessory",
-        "status": "Hit ＋20, auto attack has a 5% chance to trigger [Fury Burst], [Fury Burst]: Crit.Dmg ＋100%; the effect lasts 3 seconds"
-    },
-    {
-        "imgsrc": null,
-        "name": "Fairy in Bottle[1]",
-        "slot": "Accessory",
-        "status": "Hit ＋20, auto attack has a 5% chance to trigger [Fury Burst], [Fury Burst]: Crit.Dmg ＋100%; the effect lasts 3 seconds"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40303.png",
-        "name": "Falchion",
-        "slot": "Sword",
-        "status": "Atk + 54"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40303.png",
-        "name": "Falchion [2]",
-        "slot": "Sword",
-        "status": "Atk + 54"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_43023.png",
-        "name": "Falcon Muffler [1]",
-        "slot": "Robe",
-        "status": "Def + 22"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41216.png",
-        "name": "Falken Blitz [1]",
-        "slot": "Bow",
-        "status": "Dex ＋3, Costs of [Arrow Repel] and [Heavy Arrow] -40%"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41216.png",
-        "name": "Falken Blitz [2]",
-        "slot": "Bow",
-        "status": "Dex ＋3, Costs of [Arrow Repel] and [Heavy Arrow] -40%"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_47010.png",
-        "name": "Fallen Angel Wing",
+        "name": "Emerald Heart",
         "slot": "Wing",
-        "status": "No effect"
+        "status": "Max Hp ＋8%, When taking damage, your teammates within the range of 5 meters (Including yourself, maximum 6 players) will recover max Hp for the amount of 8% of that damage"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45011.png",
-        "name": "Fancy Flower",
-        "slot": "Head",
-        "status": "Damage reduction of plant race ＋10%"
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42034.png",
+        "name": "Enchanted Armor",
+        "slot": "Armour",
+        "status": "Def + 94"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45011.png",
-        "name": "Fancy Flower [1]",
-        "slot": "Head",
-        "status": "Damage reduction of plant race ＋10%"
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42034.png",
+        "name": "Enchanted Armor [1]",
+        "slot": "Armour",
+        "status": "Def + 94"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42035.png",
+        "name": "Enchanted Robe",
+        "slot": "Armour",
+        "status": "Def + 46"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42035.png",
+        "name": "Enchanted Robe [1]",
+        "slot": "Armour",
+        "status": "Def + 46"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43534.png",
+        "name": "Enchanted Shoes",
+        "slot": "Shoes",
+        "status": "Def + 28"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43534.png",
+        "name": "Enchanted Shoes [1]",
+        "slot": "Shoes",
+        "status": "Def + 28"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40631.png",
+        "name": "Enchanted Staff",
+        "slot": "Staff",
+        "status": "M.Atk + 108"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40631.png",
+        "name": "Enchanted Staff [2]",
+        "slot": "Staff",
+        "status": "M.Atk + 108"
     },
     {
         "imgsrc": null,
-        "name": "Fang of Hatii [1]",
-        "slot": "Knife",
-        "status": "Agi ＋8, ASPD ＋5%, Atk ＋5%, Damage to fire monsters ＋10%, For Refining ＋10, ＋15, Atk ＋5%, Damage to fire monsters ＋10%; for Atk ＋5%, Damage to fire monsters ＋10%, auto attack may release [Freezing Wind]. [Freezing Wind]: Atk ＋5%, Damage to fire monsters ＋15%; the effect lasts 5 seconds."
+        "name": "End Sectora [1]",
+        "slot": "Axe",
+        "status": "Atk + 180"
     },
     {
         "imgsrc": null,
-        "name": "Fang of Hatii [2]",
-        "slot": "Knife",
-        "status": "Agi ＋8, ASPD ＋5%, Atk ＋5%, Damage to fire monsters ＋10%, For Refining ＋10, ＋15, Atk ＋5%, Damage to fire monsters ＋10%; for Atk ＋5%, Damage to fire monsters ＋10%, auto attack may release [Freezing Wind]. [Freezing Wind]: Atk ＋5%, Damage to fire monsters ＋15%; the effect lasts 5 seconds."
+        "name": "End Sectora [2]",
+        "slot": "Axe",
+        "status": "Atk + 180"
+    },
+    {
+        "imgsrc": null,
+        "name": "Endurance Necklace",
+        "slot": "Accessory",
+        "status": "VIT ＋5, Max HP ＋3%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_62001.png",
+        "name": "Energy Equipment [1]",
+        "slot": "Trolley",
+        "status": "Def + 112"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_62001.png",
+        "name": "Energy Equipment [2]",
+        "slot": "Trolley",
+        "status": "Def + 112"
+    },
+    {
+        "imgsrc": null,
+        "name": "Energy Rune Guard [1]",
+        "slot": "Shield",
+        "status": "Def + 112"
+    },
+    {
+        "imgsrc": null,
+        "name": "Energy Rune Guard [2]",
+        "slot": "Shield",
+        "status": "Def + 112"
+    },
+    {
+        "imgsrc": null,
+        "name": "Engineer’s Wrench [1]",
+        "slot": "Mace",
+        "status": "Str ＋5, Max HP ＋1000, ＋2% [Suicidal Destruction] damage for each refining level"
+    },
+    {
+        "imgsrc": null,
+        "name": "Engineer’s Wrench [2]",
+        "slot": "Mace",
+        "status": "Str ＋5, Max HP ＋1000, ＋2% [Suicidal Destruction] damage for each refining level"
+    },
+    {
+        "imgsrc": null,
+        "name": "Engorging Lee",
+        "slot": "Face",
+        "status": "Ignore M.Def ＋3%, Max HP ＋400"
+    },
+    {
+        "imgsrc": null,
+        "name": "Entry Plug Backpack",
+        "slot": "Wing",
+        "status": "All Attributes ＋2, 10% chance to get Berserk buff when auto attacking: Atk +3%, Def and M.Def -3% for 10s. Stacks up to 5 times."
     }
 ]

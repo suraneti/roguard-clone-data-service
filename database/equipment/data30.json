@@ -1,122 +1,122 @@
 [
     {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41510.png",
+        "name": "Croce Staff [1]",
+        "slot": "Staff",
+        "status": "INT ＋5, SP Regen ＋30%, For Refining ＋1, The recovery effect of [Heal], [Sanctuary] ＋4%, [Croce Staff IV] ＋ [Holy Robe IV]: Healing increase ＋ 5%. And when [Holy Robe] Refining is ＋10 or above, the healing increases to 10%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41510.png",
+        "name": "Croce Staff [2]",
+        "slot": "Staff",
+        "status": "INT ＋5, SP Regen ＋30%, For Refining ＋1, The recovery effect of [Heal], [Sanctuary] ＋4%, [Croce Staff IV] ＋ [Holy Robe IV]: Healing increase ＋ 5%. And when [Holy Robe] Refining is ＋10 or above, the healing increases to 10%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/21.png",
+        "name": "Crocuta",
+        "slot": "Mount",
+        "status": "Move Spd ＋75%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/21.png",
+        "name": "Crocuta",
+        "slot": "Mount",
+        "status": "Move Spd ＋75%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41228.png",
+        "name": "Cross Bow [1]",
+        "slot": "Bow",
+        "status": "Dex ＋2, Atk ＋10, When Dexterity reaches 95, Ranged Phy, Atk ＋10%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41228.png",
+        "name": "Cross Bow [2]",
+        "slot": "Bow",
+        "status": "Dex ＋2, Atk ＋10, When Dexterity reaches 95, Ranged Phy, Atk ＋10%"
+    },
+    {
         "imgsrc": null,
-        "name": "Defolty Doll Hat",
+        "name": "Cross Sanction",
+        "slot": "Head",
+        "status": "All Attributes ＋2, Dmg to Demon＋6%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42511.png",
+        "name": "Cross Shield",
+        "slot": "Shield",
+        "status": "Def + 57"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42511.png",
+        "name": "Cross Shield [1]",
+        "slot": "Shield",
+        "status": "Def + 57"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45046.png",
+        "name": "Crown",
+        "slot": "Head",
+        "status": "Int ＋3, Dmg to Holy monsters ＋5%, For Refining ＋1, Dmg to Holy monsters ＋1% (up to ＋15%)"
+    },
+    {
+        "imgsrc": null,
+        "name": "Crown Headwear",
+        "slot": "Head",
+        "status": "All Attributes ＋2, Pen. ＋4%, MPen. ＋4%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45035.png",
+        "name": "Crown of Ancient Queen",
+        "slot": "Head",
+        "status": "Def ＋15"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45035.png",
+        "name": "Crown of Ancient Queen [1]",
+        "slot": "Head",
+        "status": "Def ＋15"
+    },
+    {
+        "imgsrc": null,
+        "name": "Crown of Light[1]",
+        "slot": "Head",
+        "status": "Magic Penetration +3%, When attacking a target, has a 100% chance to reduce the target's Magic Reduc. by 5% and Move Spd by 10% for 5 seconds."
+    },
+    {
+        "imgsrc": null,
+        "name": "Crown of Mistress",
         "slot": "Head",
         "status": "No effect"
     },
     {
         "imgsrc": null,
-        "name": "Defolty Doll Hat [1]",
+        "name": "Crown of Mistress [1]",
         "slot": "Head",
         "status": "No effect"
     },
     {
-        "imgsrc": null,
-        "name": "Demon Eyepatch",
-        "slot": "Face",
-        "status": "CT Variable -5%, M.Atk ＋3%"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45170.png",
-        "name": "Desert Prince",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45046.png",
+        "name": "Crown [1]",
         "slot": "Head",
-        "status": "Def ＋10"
+        "status": "Int ＋3, Dmg to Holy monsters ＋5%, For Refining ＋1, Dmg to Holy monsters ＋1% (up to ＋15%)"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45170.png",
-        "name": "Desert Prince [1]",
-        "slot": "Head",
-        "status": "Def ＋10"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40724.png",
-        "name": "Desert Twilight [1]",
-        "slot": "Knife",
-        "status": "Hit ＋30, Damage to L-size monsters ＋25%"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40724.png",
-        "name": "Desert Twilight [2]",
-        "slot": "Knife",
-        "status": "Hit ＋30, Damage to L-size monsters ＋25%"
-    },
-    {
-        "imgsrc": null,
-        "name": "Destroyer",
-        "slot": "Knuckle",
-        "status": "Str ＋20, Dex ＋10, All Attributes ＋8, Max SP ＋500, Pen. ＋20%, Ignore Def ＋25%, Demi-Human Race Damage ＋30%, Max HP ＋18000"
-    },
-    {
-        "imgsrc": null,
-        "name": "Destroyer 2[2]",
-        "slot": "Knuckle",
-        "status": "Str ＋20, Dex ＋10, All Attributes ＋14, Max SP ＋500, Pen. ＋25%, Ignore Def ＋35%, Demi-Human Race Damage ＋40%, Max HP ＋26500, Dmg Reduc. ＋5%, Magic Reduc. ＋5%"
-    },
-    {
-        "imgsrc": null,
-        "name": "Destroyer 3[2]",
-        "slot": "Knuckle",
-        "status": "Str ＋20, Dex ＋10, All Attributes ＋20, Max SP ＋500, Pen. ＋30%, Ignore Def ＋45%, Demi-Human Race Damage ＋50%, Max HP ＋35000, Dmg Reduc. ＋10%, Magic Reduc. ＋10%"
-    },
-    {
-        "imgsrc": null,
-        "name": "Destroyer Reforged",
-        "slot": "Knuckle",
-        "status": "Str ＋20, Dex ＋10, All Attributes ＋14, Max SP ＋500, Pen. ＋25%, Ignore Def ＋35%, Demi-Human Race Damage ＋40%, Max HP ＋26500, Dmg Reduc. ＋5%, Magic Reduc. ＋5%, Destroyer knows all rules in the world so the caster can be well protected. Destroyer release power to provide [Live to Obliterate] to the caster and Party Member in a 8-meter range. [Live to Obliterate]: immunizes all damage and control effect for 3 seconds; CD: 300 seconds."
-    },
-    {
-        "imgsrc": null,
-        "name": "Destroyer Sky Forged",
-        "slot": "Knuckle",
-        "status": "Str ＋20, Dex ＋10, All Attributes ＋20, Max SP ＋500, Pen. ＋30%, Ignore Def ＋45%, Demi-Human Race Damage ＋50%, Max HP ＋35000, Dmg Reduc. ＋10%, Magic Reduc. ＋10%, Destroyer knows all rules in the world so the caster can be well protected. Destroyer release power to provide [Live to Obliterate] to the caster and Party Member in a 8-meter range. [Live to Obliterate]: immunizes all damage and control effect for 5 seconds; CD: 180 seconds."
-    },
-    {
-        "imgsrc": null,
-        "name": "Destroyer [2]",
-        "slot": "Knuckle",
-        "status": "Str ＋20, Dex ＋10, All Attributes ＋8, Max SP ＋500, Pen. ＋20%, Ignore Def ＋25%, Demi-Human Race Damage ＋30%, Max HP ＋18000"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_60001.png",
-        "name": "Destruction Orb [1]",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_60001.png",
+        "name": "Crystal Orb [1]",
         "slot": "Orb",
-        "status": "Def + 112"
+        "status": "Def + 22"
     },
     {
-        "imgsrc": null,
-        "name": "Destruction Orb [2]",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_60001.png",
+        "name": "Crystal Orb [2]",
         "slot": "Orb",
-        "status": "Def + 112"
+        "status": "Def + 22"
     },
     {
-        "imgsrc": null,
-        "name": "Devil Cat",
-        "slot": "Head",
-        "status": "Dex ＋4, Max HP ＋500"
-    },
-    {
-        "imgsrc": null,
-        "name": "Devil Drooping Kitty",
-        "slot": "Head",
-        "status": "Max HP ＋50, Luk ＋1"
-    },
-    {
-        "imgsrc": null,
-        "name": "Devil Drooping Kitty [1]",
-        "slot": "Head",
-        "status": "Max HP ＋50, Luk ＋1"
-    },
-    {
-        "imgsrc": null,
-        "name": "Devil Wing",
-        "slot": "Wing",
-        "status": "No effect"
-    },
-    {
-        "imgsrc": null,
-        "name": "Devil Wing",
-        "slot": "Wing",
-        "status": "All Attributes ＋1, Dmg ＋5%, M.Dmg ＋5%"
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43524.png",
+        "name": "Crystal Pumps",
+        "slot": "Shoes",
+        "status": "INT ＋5, M.Atk ＋3%, [Cat's Blessing VI] ＋ [Crystal Pumps]: Fire/Water/Earth/Wind/Element atk ＋7%, [Wizardry Staff VIII] ＋ [Robe of Cast VIII] ＋ [Eye of Dullahan VIII] ＋ [Crystal Pumps IV]: －5% CT Variable, ＋3% M.Dmg, ＋3% Ignore MDef"
     }
 ]

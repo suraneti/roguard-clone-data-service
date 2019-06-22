@@ -1,122 +1,122 @@
 [
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40601.png",
-        "name": "Golden Rod Staff [3]",
-        "slot": "Staff",
-        "status": "M.Atk + 180"
+        "imgsrc": null,
+        "name": "Gift Box Helm",
+        "slot": "Head",
+        "status": "Def ＋10, Max HP ＋100"
     },
     {
         "imgsrc": null,
-        "name": "Golden Thought",
-        "slot": "Face",
-        "status": ""
-    },
-    {
-        "imgsrc": null,
-        "name": "Goldfish Hair Accessory",
+        "name": "Gift Box Helm [1]",
         "slot": "Head",
         "status": "Dex ＋3, AGI ＋3"
     },
     {
         "imgsrc": null,
-        "name": "Gomora Pajamas",
-        "slot": "Armour",
-        "status": "Become a Scenery! Wear [Ultraman Tiga] to become a Scenery yourself. Adventurers who take photo of it will unlock the event Scenery \"The Giant of Light\"!"
-    },
-    {
-        "imgsrc": null,
-        "name": "Gomora Pajamas",
-        "slot": "Armour",
-        "status": "Become a Scenery! Wear [Ultraman Tiga] to become a Scenery yourself. Adventurers who take photo of it will unlock the event Scenery \"The Giant of Light\"!"
-    },
-    {
-        "imgsrc": null,
-        "name": "Gomora Pajamas Clothing",
-        "slot": "Armour",
-        "status": ""
-    },
-    {
-        "imgsrc": null,
-        "name": "Gorgeous Headwear Female",
+        "name": "Gigantic Majestic Goat",
         "slot": "Head",
-        "status": "Max HP ＋100"
+        "status": "No effect"
     },
     {
         "imgsrc": null,
-        "name": "Gorgeous Headwear Male",
+        "name": "Gigantic Majestic Goat [1]",
         "slot": "Head",
-        "status": "Max HP ＋100"
+        "status": "No effect"
     },
     {
         "imgsrc": null,
-        "name": "Goshawk Gryphon",
-        "slot": "Mount",
-        "status": "Move Spd ＋25%"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_48508.png",
-        "name": "Grampa Beard",
+        "name": "Gingerbread Man",
         "slot": "Mouth",
+        "status": "All Attributes ＋1, M.Atk ＋2%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Gingerbread Man Clip",
+        "slot": "Head",
+        "status": "Max HP ＋50, Max SP ＋50"
+    },
+    {
+        "imgsrc": null,
+        "name": "Gingerbread Man clip [1]",
+        "slot": "Head",
+        "status": "Dex ＋3, AGI ＋3"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41504.png",
+        "name": "Girl's Diary",
+        "slot": "Mace",
+        "status": "Atk + 180"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40704.png",
+        "name": "Gladius",
+        "slot": "Knife",
+        "status": "Atk + 72"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40704.png",
+        "name": "Gladius [2]",
+        "slot": "Knife",
+        "status": "Atk + 72"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40023.png",
+        "name": "Glaive",
+        "slot": "Spear",
+        "status": "Atk + 135"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43524.png",
+        "name": "Glass Boots",
+        "slot": "Shoes",
+        "status": "Def + 16"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43524.png",
+        "name": "Glass Boots [1]",
+        "slot": "Shoes",
+        "status": "Def + 16"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43503.png",
+        "name": "Glass Shoes [1]",
+        "slot": "Shoes",
+        "status": "Def + 90"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43503.png",
+        "name": "Glass Shoes [2]",
+        "slot": "Shoes",
+        "status": "Def + 90"
+    },
+    {
+        "imgsrc": null,
+        "name": "Glass Snowman Horn",
+        "slot": "Wing",
+        "status": "Agi ＋5, Max HP ＋400"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_48559.png",
+        "name": "Glasses",
+        "slot": "Face",
         "status": "Def ＋10"
     },
     {
         "imgsrc": null,
-        "name": "Grand Chef·Broth",
-        "slot": "Head",
-        "status": "Max HP ＋50, INT ＋2"
+        "name": "Glittering Jacket",
+        "slot": "Armour",
+        "status": "Str ＋5, VIT ＋5, Dex ＋5"
     },
     {
         "imgsrc": null,
-        "name": "Grand Chef·Cookie",
-        "slot": "Head",
-        "status": "Atk ＋10, M.Atk ＋10, Agi ＋1"
+        "name": "Glittering Jacket [1]",
+        "slot": "Armour",
+        "status": "Str ＋5, VIT ＋5, Dex ＋5"
     },
     {
         "imgsrc": null,
-        "name": "Grand Chef·Fish Kebab",
+        "name": "Glories Harvest",
         "slot": "Head",
-        "status": "Max HP ＋50, Luk ＋2"
-    },
-    {
-        "imgsrc": null,
-        "name": "Grand Chef·Fish Soup",
-        "slot": "Head",
-        "status": "Atk ＋10, M.Atk ＋10, Str ＋1"
-    },
-    {
-        "imgsrc": null,
-        "name": "Grand Chef·Fish Steak",
-        "slot": "Head",
-        "status": "Max HP ＋50, Dex ＋2"
-    },
-    {
-        "imgsrc": null,
-        "name": "Grand Chef·Green BBQ",
-        "slot": "Head",
-        "status": "Atk ＋10, M.Atk ＋10, INT ＋1"
-    },
-    {
-        "imgsrc": null,
-        "name": "Grand Chef·Ice Cream",
-        "slot": "Head",
-        "status": "Atk ＋10, M.Atk ＋10, Luk ＋1"
-    },
-    {
-        "imgsrc": null,
-        "name": "Grand Chef·Juice",
-        "slot": "Head",
-        "status": "Max HP ＋50, Agi ＋2"
-    },
-    {
-        "imgsrc": null,
-        "name": "Grand Chef·Meat Kebab",
-        "slot": "Head",
-        "status": "Max HP ＋50, VIT ＋2"
-    },
-    {
-        "imgsrc": null,
-        "name": "Grand Chef·Meat Steak",
-        "slot": "Head",
-        "status": "Max HP ＋50, Str ＋2"
+        "status": "Damage to Plant monsters ＋3%, Damage taken from Insect monsters －3%"
     }
 ]

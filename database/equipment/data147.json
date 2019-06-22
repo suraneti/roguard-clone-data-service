@@ -1,0 +1,122 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Windperch Wyvern - Glimmer",
+        "slot": "Mount",
+        "status": "Can use the skill Heart Phantom, Move Spd ＋50%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Windperch Wyvern - Kaguya",
+        "slot": "Mount",
+        "status": "Can use the skill Dream Echo, Move Spd ＋50%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43002.png",
+        "name": "Windrunner Cape",
+        "slot": "Robe",
+        "status": "When Katar is equipped, Crit.Dmg ＋7%, [Loki's Nail IX] ＋ [Windrunner Cape]: ＋5% [Cross Ripper Slasher] damage"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43002.png",
+        "name": "Windrunner Cape [1]",
+        "slot": "Robe",
+        "status": "When Katar is equipped, Crit.Dmg ＋7%, [Loki's Nail IX] ＋ [Windrunner Cape]: ＋5% [Cross Ripper Slasher] damage"
+    },
+    {
+        "imgsrc": null,
+        "name": "Windtide Echo",
+        "slot": "Wing",
+        "status": "All Attributes +1, Wind Attack +2%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Wing Staff [1]",
+        "slot": "Staff",
+        "status": "INT ＋5, When casting a single target skill, there is a 20% chance to restore 5% HP and 5% SP, When killing a monster with a single target skill, restore 5% HP and 5% SP (CoolDown: 10 seconds)"
+    },
+    {
+        "imgsrc": null,
+        "name": "Wing Staff [2]",
+        "slot": "Staff",
+        "status": "INT ＋5, When casting a single target skill, there is a 20% chance to restore 5% HP and 5% SP, When killing a monster with a single target skill, restore 5% HP and 5% SP (CoolDown: 10 seconds)"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45206.png",
+        "name": "Wings Of Victory",
+        "slot": "Head",
+        "status": "Max HP ＋300, Dmg to Demi-Human race ＋3%, For Refining ＋1, Dmg to Demi-Human race ＋0.1%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45206.png",
+        "name": "Wings Of Victory [1]",
+        "slot": "Head",
+        "status": "Max HP ＋300, Dmg to Demi-Human race ＋3%, For Refining ＋1, Dmg to Demi-Human race ＋0.1%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Winner Winner Barrel",
+        "slot": "Head",
+        "status": "All Attributes ＋2, Dmg to Brute ＋8%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Winner Winner Barrel [1]",
+        "slot": "Head",
+        "status": "All Attributes ＋1, Atk ＋8, M.Atk ＋8"
+    },
+    {
+        "imgsrc": null,
+        "name": "Winter Crystal",
+        "slot": "Bow",
+        "status": "Dex ＋18, Agi ＋12, All Attributes ＋8, Cri ＋50, Crit.Dmg ＋30%, Demi-Human Race Damage ＋30%, Max HP ＋16000"
+    },
+    {
+        "imgsrc": null,
+        "name": "Winter Crystal 2 [2]",
+        "slot": "Bow",
+        "status": "Dex ＋18, Agi ＋12, All Attributes ＋14, Cri ＋50, Crit.Dmg ＋40%, Demi-Human Race Damage ＋40%, Max HP ＋23000, Dmg Reduc. ＋5%, Magic Reduc. ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Winter Crystal 3 [2]",
+        "slot": "Bow",
+        "status": "Dex ＋18, Agi ＋12, All Attributes ＋20, Cri ＋50, Crit.Dmg ＋50%, Demi-Human Race Damage ＋50%, Max HP ＋30000, Dmg Reduc. ＋10%, Magic Reduc. ＋10%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Winter Crystal Reforged",
+        "slot": "Bow",
+        "status": "Dex ＋18, Agi ＋12, All Attributes ＋14, Cri ＋50, Crit.Dmg ＋40%, Demi-Human Race Damage ＋40%, Max HP ＋23000, Dmg Reduc. ＋5%, Magic Reduc. ＋5%, The target hit by Winter Crystal will suffer extra damage from Frost Crystal. For each auto attack, Frost Crystal will deal extra True Dmg: Self-Atk x (1.5 ＋Crit.Dmg) x30%, to the target, and deal to at most 6 enemies in a 4-meter range the True Dmg: Atk x (1.5 ＋Crit.Dmg) x15%. The target affected by Frost Crystal has a 5% chance to be frozen, the frozen time lasts 2 seconds."
+    },
+    {
+        "imgsrc": null,
+        "name": "Winter Crystal Sky Forged",
+        "slot": "Bow",
+        "status": "Dex ＋18, Agi ＋12, All Attributes ＋20, Cri ＋50, Crit.Dmg ＋50%, Demi-Human Race Damage ＋50%, Max HP ＋30000, Dmg Reduc. ＋10%, Magic Reduc. ＋10%, The target hit by Winter Crystal will suffer extra damage from Frost Crystal. For each auto attack, Frost Crystal will deal extra True Dmg: Self-Atk x (1.5 ＋Crit.Dmg) x50%, to the target, and deal to at most 6 enemies in a 4-meter range the True Dmg: Atk x (1.5 ＋Crit.Dmg) x25%. The target affected by Frost Crystal has a 5% chance to be frozen, the frozen time lasts 2 seconds."
+    },
+    {
+        "imgsrc": null,
+        "name": "Winter Crystal [2]",
+        "slot": "Bow",
+        "status": "Dex ＋18, Agi ＋12, All Attributes ＋8, Cri ＋50, Crit.Dmg ＋30%, Demi-Human Race Damage ＋30%, Max HP ＋16000"
+    },
+    {
+        "imgsrc": null,
+        "name": "Wishing Wear Clothing Series",
+        "slot": "Armour",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Witch Headwear",
+        "slot": "Head",
+        "status": "All Attributes ＋2, Atk ＋12, M.Atk ＋12"
+    },
+    {
+        "imgsrc": null,
+        "name": "Wizard Hairband",
+        "slot": "Head",
+        "status": ""
+    }
+]

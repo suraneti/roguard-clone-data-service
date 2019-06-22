@@ -1,122 +1,122 @@
 [
     {
-        "imgsrc": null,
-        "name": "Pisces Crown",
-        "slot": "Head",
-        "status": "INT ＋1"
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42019.png",
+        "name": "Ninja Suit Sakura",
+        "slot": "Armour",
+        "status": "Luk ＋2, Attack Spd ＋3%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42019.png",
+        "name": "Ninja Suit Sakura [1]",
+        "slot": "Armour",
+        "status": "Luk ＋2, Attack Spd ＋3%"
     },
     {
         "imgsrc": null,
-        "name": "Pisces Crown [1]",
-        "slot": "Head",
+        "name": "Noble Bracer",
+        "slot": "Bracer",
+        "status": "Attack Spd ＋10%, When the Swordsmen/Merchants equip it, every 1% of the Attack Spd will provide 1 Atk., [Holy Avenger] ＋[Noble Bracer]: trigger probability of Fallen Star ＋12%, [Loki's Nail V] ＋[Noble Bracer]: Every 2% Attack Spd will provide 1 Atk"
+    },
+    {
+        "imgsrc": null,
+        "name": "Noble Bracer [1]",
+        "slot": "Bracer",
+        "status": "Attack Spd ＋10%, When the Swordsmen/Merchants equip it, every 1% of the Attack Spd will provide 1 Atk., [Holy Avenger] ＋[Noble Bracer]: trigger probability of Fallen Star ＋12%, [Loki's Nail V] ＋[Noble Bracer]: Every 2% Attack Spd will provide 1 Atk"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41507.png",
+        "name": "Noble Cross [1]",
+        "slot": "Mace",
+        "status": "Agi ＋3, Attack Spd ＋10%, Dmg to undead monsters ＋20%, Dmg to dark monsters ＋20%, Auto attack has a 5% chance to cause Atk ＋50; the effect lasts 10 seconds, When Refining ＋10, Atk ＋50"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41507.png",
+        "name": "Noble Cross [2]",
+        "slot": "Mace",
+        "status": "Agi ＋3, Attack Spd ＋10%, Dmg to undead monsters ＋20%, Dmg to dark monsters ＋20%, Auto attack has a 5% chance to cause Atk ＋50; the effect lasts 10 seconds, When Refining ＋10, Atk ＋50"
+    },
+    {
+        "imgsrc": null,
+        "name": "Noisy Tao Gunka",
+        "slot": "Tail",
+        "status": "M.Atk ＋30, M.Atk ＋3%, M.Atk ＋20, M.Atk ＋1% when INT reaches 200"
+    },
+    {
+        "imgsrc": null,
+        "name": "North Kingdom Block legend",
+        "slot": "Mouth",
+        "status": "STR ＋2, Ignore Def ＋2%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Nose Ring",
+        "slot": "Face",
         "status": "No effect"
     },
     {
         "imgsrc": null,
-        "name": "Pisces Diadem",
+        "name": "Nostalgic Love Poem [1]",
         "slot": "Head",
-        "status": "Dex ＋3, AGI ＋3"
+        "status": "Max HP ＋200, Damage to Demi-human ＋5%, When refining ＋6, Damage to Demi-human ＋5%"
     },
     {
-        "imgsrc": null,
-        "name": "Pisces Diadem [1]",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45042.png",
+        "name": "Novice Eggshell",
         "slot": "Head",
-        "status": "INT ＋3"
+        "status": "Def ＋5"
     },
     {
-        "imgsrc": null,
-        "name": "Platinum Shield [1]",
-        "slot": "Shield",
-        "status": "Def + 37"
-    },
-    {
-        "imgsrc": null,
-        "name": "Platinum Shield [2]",
-        "slot": "Shield",
-        "status": "Def + 37"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40301.png",
-        "name": "Platinum Shotel [2]",
-        "slot": "Sword",
-        "status": "Atk + 180"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40301.png",
-        "name": "Platinum Shotel [3]",
-        "slot": "Sword",
-        "status": "Atk + 180"
-    },
-    {
-        "imgsrc": null,
-        "name": "Poet's Hat",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45001.png",
+        "name": "Novice Poring Hat",
         "slot": "Head",
-        "status": "Atk ＋5000, M.Atk ＋5000, Def ＋100000, M.Def ＋100000, Max HP ＋1000000, Max SP ＋100000, Hit ＋200, Flee ＋200, Cri ＋50, Life Steal ＋100%, CT Variable Reduction ＋100%, HP Regen ＋100%, SP Regen ＋100%"
+        "status": "Def ＋5"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45188.png",
-        "name": "Pointer Headwear",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_44025.png",
+        "name": "Novice Ring",
+        "slot": "Accessory",
+        "status": "MaxHp + 100"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_44025.png",
+        "name": "Novice Ring [1]",
+        "slot": "Accessory",
+        "status": "MaxHp + 100"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45010.png",
+        "name": "Novice Romance",
         "slot": "Head",
-        "status": "Def ＋10"
+        "status": "Def ＋5"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45188.png",
-        "name": "Pointer Headwear [1]",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45047.png",
+        "name": "Nurse Cap",
         "slot": "Head",
-        "status": "Def ＋10"
+        "status": "Def ＋5, INT ＋2"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_61005.png",
-        "name": "Poison Gloves",
-        "slot": "Bracer",
-        "status": "Atk ＋25, Crit.Dmg ＋15%"
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45047.png",
+        "name": "Nurse Cap [1]",
+        "slot": "Head",
+        "status": "Def ＋5, INT ＋2"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_61005.png",
-        "name": "Poison Gloves [1]",
-        "slot": "Bracer",
-        "status": "Atk ＋25, Crit.Dmg ＋15%"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40719.png",
-        "name": "Poison Knife [1]",
-        "slot": "Knife",
-        "status": "auto attack has a large probability to set targets into poisoning state, For Refining ＋1, ignore Def ＋2%"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40719.png",
-        "name": "Poison Knife [2]",
-        "slot": "Knife",
-        "status": "auto attack has a large probability to set targets into poisoning state, For Refining ＋1, ignore Def ＋2%"
-    },
-    {
-        "imgsrc": null,
-        "name": "Poisoned Duke's Mask",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_48551.png",
+        "name": "Nut on Head",
         "slot": "Face",
-        "status": "All Attributes ＋1"
+        "status": "Hit ＋5, Ignore Def ＋5%"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_48511.png",
-        "name": "Poker Face",
-        "slot": "Face",
-        "status": "Damage reduction of Demi-Human race ＋10%"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40008.png",
-        "name": "Pole Axe [1]",
-        "slot": "Spear",
-        "status": "Str ＋3, Hit ＋15"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40008.png",
-        "name": "Pole Axe [2]",
-        "slot": "Spear",
-        "status": "Str ＋3, Hit ＋15"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45036.png",
-        "name": "Poo Poo Hat",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45177.png",
+        "name": "Nut Shell",
         "slot": "Head",
-        "status": "Damage reduction of Demi-Human race ＋10%"
+        "status": "Def ＋15"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45177.png",
+        "name": "Nut Shell [1]",
+        "slot": "Head",
+        "status": "Def ＋15"
     }
 ]

@@ -1,122 +1,122 @@
 [
     {
         "imgsrc": null,
-        "name": "Eternal Love",
-        "slot": "Accessory",
-        "status": "MaxHp + 1314"
+        "name": "Elder's Hammer [2]",
+        "slot": "Mace",
+        "status": "STR ＋4, Increase the basic rate of equipment destruction causes by alchemy using [Acid Terror], [Acid Demonstration], [Improved Acid Demonstration], For Refining ＋1, the damage of [Acid Demonstration] ＋5%, Damage of [Acid Terror] ＋2%, skill multiplier of [Improved Acid Demonstration] ＋30%"
     },
     {
         "imgsrc": null,
-        "name": "Eternal Spear",
-        "slot": "Spear",
-        "status": "Str ＋18, Agi ＋12, All Attributes ＋8, Equipment ASPD ＋10%, Dmg ＋12%, Ignore Def ＋15%, Demi-Human Race Damage ＋30%, Max HP ＋17000"
+        "name": "Electric Fist [1]",
+        "slot": "Knuckle",
+        "status": "Atk + 140"
     },
     {
         "imgsrc": null,
-        "name": "Eternal Spear 2 [2]",
-        "slot": "Spear",
-        "status": "Str ＋18, Agi ＋12, All Attributes ＋14, Equipment ASPD ＋10%, Dmg ＋15%, Ignore Def ＋25%, Demi-Human Race Damage ＋40%, Max HP ＋25000, Dmg Reduc. ＋5%, Magic Reduc. ＋5%"
+        "name": "Electric Fist [2]",
+        "slot": "Knuckle",
+        "status": "Atk + 140"
     },
     {
-        "imgsrc": null,
-        "name": "Eternal Spear 3 [2]",
-        "slot": "Spear",
-        "status": "Str ＋18, Agi ＋12, All Attributes ＋20, Equipment ASPD ＋10%, Dmg ＋18%, Ignore Def ＋35%, Demi-Human Race Damage ＋50%, Max HP ＋33000, Dmg Reduc. ＋10%, Magic Reduc. ＋10%"
-    },
-    {
-        "imgsrc": null,
-        "name": "Eternal Spear [2]",
-        "slot": "Spear",
-        "status": "Str ＋18, Agi ＋12, All Attributes ＋8, Equipment ASPD ＋10%, Dmg ＋12%, Ignore Def ＋15%, Demi-Human Race Damage ＋30%, Max HP ＋17000"
-    },
-    {
-        "imgsrc": null,
-        "name": "Evil Black Hat",
-        "slot": "Head",
-        "status": "Max HP ＋100"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40609.png",
-        "name": "Evil Bone Wand [2]",
-        "slot": "Staff",
-        "status": "M.Atk + 180"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40609.png",
-        "name": "Evil Bone Wand [3]",
-        "slot": "Staff",
-        "status": "M.Atk + 180"
-    },
-    {
-        "imgsrc": null,
-        "name": "Evil Bracer",
-        "slot": "Bracer",
-        "status": "Flee ＋5, Max HP ＋600, Max SP ＋150, When casting skills to lock a single target, the next physical skill has a chance to deal 100% extra damage"
-    },
-    {
-        "imgsrc": null,
-        "name": "Evil Bracer [1]",
-        "slot": "Bracer",
-        "status": "Flee ＋5, Max HP ＋600, Max SP ＋150, When casting skills to lock a single target, the next physical skill has a chance to deal 100% extra damage"
-    },
-    {
-        "imgsrc": null,
-        "name": "Evil Eye",
-        "slot": "Face",
-        "status": "Max HP ＋800, Ignore M.Def ＋10%"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_48556.png",
-        "name": "Evil Goblin Mask",
-        "slot": "Face",
-        "status": "Damage reduction of Demi-Human race ＋10%"
-    },
-    {
-        "imgsrc": null,
-        "name": "Evil Hood",
-        "slot": "Head",
-        "status": "M.Def ＋10"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45149.png",
-        "name": "Evil Marcher Hat",
-        "slot": "Head",
-        "status": "M.Def ＋15"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45149.png",
-        "name": "Evil Marcher Hat [1]",
-        "slot": "Head",
-        "status": "M.Def ＋15"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45013.png",
-        "name": "Evil Wing",
-        "slot": "Head",
-        "status": "Str ＋3, M.Def ＋10, When Refining reaches ＋10, Def ＋10%"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45013.png",
-        "name": "Evil Wing [1]",
-        "slot": "Head",
-        "status": "Str ＋3, M.Def ＋10, When Refining reaches ＋10, Def ＋10%"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40301.png",
-        "name": "Excalibur [2]",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40301.png",
+        "name": "Elemental Sword [2]",
         "slot": "Sword",
         "status": "Atk + 180"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40301.png",
-        "name": "Excalibur [3]",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40301.png",
+        "name": "Elemental Sword [3]",
         "slot": "Sword",
         "status": "Atk + 180"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42518.png",
-        "name": "Exorcism Bible",
-        "slot": "Shield",
-        "status": "Damage reduction of undead race ＋15%, Dark Dmg Taken -20%"
+        "imgsrc": null,
+        "name": "Elite Adventurer Clothing Series",
+        "slot": "Armour",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Elite Adventurer Headwear Series",
+        "slot": "Head",
+        "status": "All Attributes ＋1, Damage reduction of Demi-Human race ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Elite Adventurer Headwear·Christmas Red",
+        "slot": "Head",
+        "status": "All Attributes ＋1, Damage reduction of Demi-Human race ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Elite Adventurer Headwear·Demon Purple",
+        "slot": "Head",
+        "status": "All Attributes ＋1, Damage reduction of Demi-Human race ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Elite Adventurer Headwear·Starfish Yellow",
+        "slot": "Head",
+        "status": "All Attributes ＋1, Damage reduction of Demi-Human race ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Elite Adventurer Headwear·Water Blue",
+        "slot": "Head",
+        "status": "All Attributes ＋1, Damage reduction of Demi-Human race ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Elite Adventurer·Christmas Red (Discard)",
+        "slot": "Head",
+        "status": "All Attributes ＋1, Damage reduction of Demi-Human race ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Elite Adventurer·Demon Purple (Discard)",
+        "slot": "Head",
+        "status": "All Attributes ＋1, Damage reduction of Demi-Human race ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Elite Adventurer·Starfish Yellow (Discard)",
+        "slot": "Head",
+        "status": "All Attributes ＋1, Damage reduction of Demi-Human race ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Elite Adventurer·Water Blue (Discard)",
+        "slot": "Head",
+        "status": "All Attributes ＋1, Damage reduction of Demi-Human race ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Elizabeth in Cage",
+        "slot": "Head",
+        "status": "M.Atk ＋20, Max HP ＋150"
+    },
+    {
+        "imgsrc": null,
+        "name": "Elizabeth in Cage [1]",
+        "slot": "Head",
+        "status": "M.Atk ＋20, Max HP ＋150"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41201.png",
+        "name": "Elven Bow [2]",
+        "slot": "Bow",
+        "status": "Atk + 180"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41201.png",
+        "name": "Elven Bow [3]",
+        "slot": "Bow",
+        "status": "Atk + 180"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_48516.png",
+        "name": "Elven Ears",
+        "slot": "Face",
+        "status": "INT ＋2, M.Atk ＋5%"
     }
 ]

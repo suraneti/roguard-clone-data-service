@@ -1,122 +1,122 @@
 [
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_61006.png",
-        "name": "Skull Bracer [1]",
-        "slot": "Bracer",
-        "status": "Flee ＋5, Max HP ＋60"
-    },
-    {
         "imgsrc": null,
-        "name": "Skull Brooch",
+        "name": "Saint Necklace [1]",
         "slot": "Accessory",
         "status": ""
     },
     {
         "imgsrc": null,
-        "name": "Skull Cap [1]",
-        "slot": "Head",
-        "status": "Max HP ＋100"
-    },
-    {
-        "imgsrc": null,
-        "name": "Skull Cape",
-        "slot": "Robe",
-        "status": "Def + 25"
-    },
-    {
-        "imgsrc": null,
-        "name": "Skull Cape [1]",
-        "slot": "Robe",
-        "status": "Def + 25"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45185.png",
-        "name": "Skull Hood",
-        "slot": "Head",
-        "status": "Avoid being auto-target by undead monsters, Undead Dmg Taken -20%"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45185.png",
-        "name": "Skull Hood [1]",
-        "slot": "Head",
-        "status": "Avoid being auto-target by undead monsters, Undead Dmg Taken -20%"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_44017.png",
-        "name": "Skull Rin [1]",
-        "slot": "Accessory",
-        "status": "Atk + 42"
-    },
-    {
-        "imgsrc": null,
-        "name": "Skull Ring [1]",
+        "name": "Saint Ring",
         "slot": "Accessory",
         "status": ""
     },
     {
         "imgsrc": null,
-        "name": "Sky Forged Eternal Spear",
+        "name": "Saint Ring [1]",
+        "slot": "Accessory",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Saint Spear [1]",
         "slot": "Spear",
-        "status": "Str ＋18, Agi ＋12, All Attributes ＋20, Equipment ASPD ＋10%, Dmg ＋18%, Ignore Def ＋35%, Demi-Human Race Damage ＋50%, Max HP ＋33000, Dmg Reduc. ＋10%, Magic Reduc. ＋10%, The Eternal Spear bursts out of Valkyrie’s Will, which shines all enemies in a 6-meter range. [Valkyrie’s Will]: targets affected by Valkyrie’s Will cannot cast any skills. This effect lasts 6 seconds and cannot be removed by Panacea (silence); CD: 90 seconds."
+        "status": "Str ＋3, Hit ＋15"
     },
     {
         "imgsrc": null,
-        "name": "Sky Guard Helmet",
+        "name": "Saint Spear [2]",
+        "slot": "Spear",
+        "status": "Atk + 112"
+    },
+    {
+        "imgsrc": null,
+        "name": "Saint Staff [1]",
+        "slot": "Staff",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Saint Staff [2]",
+        "slot": "Staff",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Saint Sword [1]",
+        "slot": "Sword",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Saint Sword [2]",
+        "slot": "Sword",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Saint's Cape",
+        "slot": "Armour",
+        "status": "VIT ＋5, Def ＋50, Max HP ＋800, Every 200 points of Max HP will bring 1 point of Atk for the wearer, [Studded Knuckles] ＋ [Saint's Cape IV]: Max HP ＋5%, [Slash V] ＋[Saint's Cape IV]: Attack Spd ＋5%, Atk ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Saint's Cape [1]",
+        "slot": "Armour",
+        "status": "VIT ＋5, Def ＋50, Max HP ＋800, Every 200 points of Max HP will bring 1 point of Atk for the wearer, [Studded Knuckles] ＋ [Saint's Cape IV]: Max HP ＋5%, [Slash V] ＋[Saint's Cape IV]: Attack Spd ＋5%, Atk ＋5%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42015.png",
+        "name": "Saint's Robe",
+        "slot": "Armour",
+        "status": "VIT ＋2, Def ＋20, Max HP ＋200"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42015.png",
+        "name": "Saint's Robe [1]",
+        "slot": "Armour",
+        "status": "VIT ＋2, Def ＋20, Max HP ＋200"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45009.png",
+        "name": "Sakkat",
         "slot": "Head",
-        "status": "Dmg Reduc. ＋2%, MDmg Reduc. ＋2%"
+        "status": "Def ＋5, Agi ＋2"
     },
     {
-        "imgsrc": null,
-        "name": "Sky Guard Helmet [1]",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45009.png",
+        "name": "Sakkat [1]",
         "slot": "Head",
-        "status": "Dmg Reduc. ＋2%, MDmg Reduc. ＋2%"
+        "status": "Def ＋5, Agi ＋2"
     },
     {
         "imgsrc": null,
-        "name": "Slash Axe [1]",
-        "slot": "Axe",
-        "status": "HP Regen ＋15, auto attack has a 15% chance to trigger [Last Resort]: spend 10% of Max HP to increase Atk by 15%; the effect lasts 5 seconds., When killing demi-human monsters, Caster has a chance to restore his/her own HP"
+        "name": "Sakura",
+        "slot": "Face",
+        "status": "Max SP ＋100, Atk ＋15"
     },
     {
         "imgsrc": null,
-        "name": "Slash Axe [2]",
-        "slot": "Axe",
-        "status": "HP Regen ＋15, auto attack has a 15% chance to trigger [Last Resort]: spend 10% of Max HP to increase Atk by 15%; the effect lasts 5 seconds., When killing demi-human monsters, Caster has a chance to restore his/her own HP"
+        "name": "Sakura Bride",
+        "slot": "Head",
+        "status": "All Attributes ＋2, Damage to plants ＋3%"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41509.png",
-        "name": "Slash [1]",
-        "slot": "Mace",
-        "status": "Critical ＋20,  Wearer's PHY Def decreases by 1/3,  Refining increases by 1, damage of auto attack increases by 3%, [Slash V] ＋[Saint's Cape IV]: Equipment ASPD ＋5%, Atk ＋5%"
+        "imgsrc": null,
+        "name": "Sakura Bride [1]",
+        "slot": "Head",
+        "status": "All Attributes ＋2, Damage to plants ＋3%"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41509.png",
-        "name": "Slash [2]",
-        "slot": "Mace",
-        "status": "Critical ＋20,  Wearer's PHY Def decreases by 1/3,  Refining increases by 1, damage of auto attack increases by 3%, [Slash V] ＋[Saint's Cape IV]: Equipment ASPD ＋5%, Atk ＋5%"
+        "imgsrc": null,
+        "name": "Sakura Clothing Series",
+        "slot": "Armour",
+        "status": ""
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41836.png",
-        "name": "Slaughter Hand Axe [1]",
-        "slot": "Axe",
-        "status": "Dex ＋5, Luk ＋5, Dmg to Brute race ＋15%, Ignore Brute defense, When you use Auto Attacks against Brute monsters, there is a chance to release [Dying Tactic] (invalid to MVP/MINI monsters)"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41836.png",
-        "name": "Slaughter Hand Axe [2]",
-        "slot": "Axe",
-        "status": "Dex ＋5, Luk ＋5, Dmg to Brute race ＋15%, Ignore Brute defense, When you use Auto Attacks against Brute monsters, there is a chance to release [Dying Tactic] (invalid to MVP/MINI monsters)"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41810.png",
-        "name": "Slaughter [1]",
-        "slot": "Axe",
-        "status": "Dex ＋5, Dmg to brute race ＋15%, When Refining ＋5, Dmg to brute race ＋5%"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41810.png",
-        "name": "Slaughter [2]",
-        "slot": "Axe",
-        "status": "Dex ＋5, Dmg to brute race ＋15%, When Refining ＋5, Dmg to brute race ＋5%"
+        "imgsrc": null,
+        "name": "Sakura Puppet",
+        "slot": "Wing",
+        "status": "Auto Attack applies slight bleeding status to self, Bleeding status grants (BaseLv*3) Normal Atk"
     }
 ]

@@ -1,122 +1,122 @@
 [
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45141.png",
-        "name": "Sheila Hairnet [1]",
-        "slot": "Head",
-        "status": "Agi ＋2, M.Def ＋10"
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43539.png",
+        "name": "Rune Shoes [1]",
+        "slot": "Shoes",
+        "status": "Move Spd ＋5%, Healing Received ＋20%"
     },
     {
-        "imgsrc": null,
-        "name": "Shell Clip",
-        "slot": "Head",
-        "status": "Dex ＋3, AGI ＋3"
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42531.png",
+        "name": "Runner Bracer",
+        "slot": "Shield",
+        "status": "Def + 42"
     },
     {
-        "imgsrc": null,
-        "name": "Shield (For Goblin)",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42531.png",
+        "name": "Runner Bracer[1]",
+        "slot": "Shield",
+        "status": "Def + 42"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41815.png",
+        "name": "Sabbath [1]",
+        "slot": "Axe",
+        "status": "When attacking devil monsters, Crit Dmg ＋25%, When attacking devil monsters, There is a chance to release [Dying Tactic] (invalid to MVP/MINI monsters)"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41815.png",
+        "name": "Sabbath [2]",
+        "slot": "Axe",
+        "status": "When attacking devil monsters, Crit Dmg ＋25%, When attacking devil monsters, There is a chance to release [Dying Tactic] (invalid to MVP/MINI monsters)"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40301.png",
+        "name": "Saber [2]",
         "slot": "Sword",
-        "status": ""
+        "status": "Atk + 180"
     },
     {
-        "imgsrc": null,
-        "name": "Shield of Naga",
-        "slot": "Shield",
-        "status": "M.Atk ＋8%, Every 3 points of Intelligence cause Atk increases by 1 Point, Skill multiplier of [Grand Cross] ＋200%, For Refining ＋1, Skill multiplier of [Grand Cross] ＋30%"
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40301.png",
+        "name": "Saber [3]",
+        "slot": "Sword",
+        "status": "Atk + 180"
     },
     {
-        "imgsrc": null,
-        "name": "Shield of Naga [1]",
-        "slot": "Shield",
-        "status": "M.Atk ＋8%, Every 3 points of Intelligence cause Atk increases by 1 Point, Skill multiplier of [Grand Cross] ＋200%, For Refining ＋1, Skill multiplier of [Grand Cross] ＋30%"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42504.png",
-        "name": "Shield [1]",
-        "slot": "Shield",
-        "status": "Def + 75"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42504.png",
-        "name": "Shield [2]",
-        "slot": "Shield",
-        "status": "Def + 75"
-    },
-    {
-        "imgsrc": null,
-        "name": "Shigehiro Sunglasses",
-        "slot": "Face",
-        "status": ""
-    },
-    {
-        "imgsrc": null,
-        "name": "Shining Electric Bulb Hairband",
-        "slot": "Head",
-        "status": "Dex ＋3, AGI ＋3"
-    },
-    {
-        "imgsrc": null,
-        "name": "Shining Electric Bulb Hairband [1]",
-        "slot": "Head",
-        "status": "Dex ＋3, AGI ＋3"
-    },
-    {
-        "imgsrc": null,
-        "name": "Ship Captain Hat",
-        "slot": "Head",
-        "status": "No effect"
-    },
-    {
-        "imgsrc": null,
-        "name": "Ship Captain Hat [1]",
-        "slot": "Head",
-        "status": "No effect"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_43503.png",
-        "name": "Shoes",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43537.png",
+        "name": "Sack Teddy Shoes",
         "slot": "Shoes",
-        "status": "Move Spd ＋5%, SP Regen ＋3"
+        "status": "Move Spd ＋5%, Agi ＋2"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_43503.png",
-        "name": "Shoes [1]",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43537.png",
+        "name": "Sack Teddy Shoes [1]",
         "slot": "Shoes",
-        "status": "Move Spd ＋5%, SP Regen ＋3"
+        "status": "Move Spd ＋5%, Agi ＋2"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41504.png",
+        "name": "Sacred Cross [1]",
+        "slot": "Mace",
+        "status": "Atk + 112"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41504.png",
+        "name": "Sacred Cross [3]",
+        "slot": "Mace",
+        "status": "Atk + 112"
     },
     {
         "imgsrc": null,
-        "name": "Shoes [2]",
+        "name": "Sacred Mission",
+        "slot": "Shield",
+        "status": "INT ＋5, For Refining ＋1, M.Dmg reflection of [Block Shield] ＋1%, Healing effect of [Heal] ＋1%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Sacred Mission [1]",
+        "slot": "Shield",
+        "status": "INT ＋5, For Refining ＋1, M.Dmg reflection of [Block Shield] ＋1%, Healing effect of [Heal] ＋1%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Sacrifice Book",
+        "slot": "Shield",
+        "status": "Def + 46"
+    },
+    {
+        "imgsrc": null,
+        "name": "Sacrifice Book [1]",
+        "slot": "Shield",
+        "status": "Def + 46"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43507.png",
+        "name": "Safety Boots",
         "slot": "Shoes",
-        "status": "Def + 45"
+        "status": "Move Spd ＋5%, Def ＋5"
     },
     {
-        "imgsrc": null,
-        "name": "Shooting Star [1]",
-        "slot": "Bow",
-        "status": ""
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43507.png",
+        "name": "Safety Boots [1]",
+        "slot": "Shoes",
+        "status": "Move Spd ＋5%, Def ＋5"
     },
     {
-        "imgsrc": null,
-        "name": "Shooting Star [2]",
-        "slot": "Bow",
-        "status": ""
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45069.png",
-        "name": "Silk Ribbon",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45025.png",
+        "name": "Safety Helmet",
         "slot": "Head",
-        "status": ""
+        "status": "Def ＋7, M.Def ＋3"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42009.png",
-        "name": "Silk Robe",
-        "slot": "Armour",
-        "status": "M.Def ＋20, Water Dmg Taken -15%, [Tidal Shoes VI] ＋[Silk Robe VI]: Has a 10% chance to turn the target into Water target for 10 seconds during auto attacks"
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45025.png",
+        "name": "Safety Helmet [1]",
+        "slot": "Head",
+        "status": "Def ＋7, M.Def ＋3"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42009.png",
-        "name": "Silk Robe [1]",
-        "slot": "Armour",
-        "status": "M.Def ＋20, Water Dmg Taken -15%, [Tidal Shoes VI] ＋[Silk Robe VI]: Has a 10% chance to turn the target into Water target for 10 seconds during auto attacks"
+        "imgsrc": null,
+        "name": "Sage's Book",
+        "slot": "Wing",
+        "status": "Wind, Earth, Water, Fire Dmg ＋5%,  CT Variable -10%"
     }
 ]

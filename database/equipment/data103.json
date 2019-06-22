@@ -1,122 +1,122 @@
 [
     {
         "imgsrc": null,
-        "name": "Roguemaster's Bow [2]",
-        "slot": "Bow",
-        "status": "Dex ＋4, ASPD ＋5%, auto attack has a chance to trigger [Archery Proficient]. [Archery Proficient]: ASPD ＋5%, Ranged Dmg ＋10%; the effect lasts 3 seconds."
-    },
-    {
-        "imgsrc": null,
-        "name": "Romance Origami",
-        "slot": "Tail",
-        "status": "Overall Ability ＋1, MAX HP＋100"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_48557.png",
-        "name": "Romantic Flower",
-        "slot": "Mouth",
-        "status": "Damage reduction of plant race ＋5%"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45010.png",
-        "name": "Romantic Gent",
-        "slot": "Head",
-        "status": "Def ＋10"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45010.png",
-        "name": "Romantic Gent [1]",
-        "slot": "Head",
-        "status": "Def ＋10"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_48534.png",
-        "name": "Romantic Leaf",
-        "slot": "Mouth",
-        "status": "Max HP ＋120, SP Regen ＋1"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45200.png",
-        "name": "Rooster Year Bandana",
-        "slot": "Head",
-        "status": "INT ＋2"
-    },
-    {
-        "imgsrc": null,
-        "name": "Rooster Year Bandana",
-        "slot": "Head",
-        "status": "INT ＋2"
-    },
-    {
-        "imgsrc": null,
-        "name": "Rosa Bracelet",
-        "slot": "Bracelet",
-        "status": "Def + 31"
-    },
-    {
-        "imgsrc": null,
-        "name": "Rosa Bracelet [1]",
-        "slot": "Bracelet",
-        "status": "Def + 31"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42512.png",
-        "name": "Rosa Shield",
-        "slot": "Shield",
-        "status": "Melee Dmg ＋15%, Hit ＋25"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42512.png",
-        "name": "Rosa Shield [1]",
-        "slot": "Shield",
-        "status": "Melee Dmg ＋15%, Hit ＋25"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_44019.png",
-        "name": "Rosary",
-        "slot": "Accessory",
-        "status": "Atk + 48"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_44019.png",
-        "name": "Rosary [1]",
-        "slot": "Accessory",
-        "status": "Atk + 48"
-    },
-    {
-        "imgsrc": null,
-        "name": "Rose Handkerchief",
-        "slot": "Face",
-        "status": "Max HP ＋100, Flee ＋10"
-    },
-    {
-        "imgsrc": null,
-        "name": "Rose Snowman Horn",
+        "name": "Poring Schoolbag",
         "slot": "Wing",
-        "status": "INT ＋5, Max HP ＋400"
+        "status": "Def ＋15, When Refining ＋10 and Strength reaches 90, Atk ＋20, When Refining ＋10 and Agility reaches 90, Attack Spd ＋5%, When Refining ＋10 and Vitality reaches 90, Neutral Dmg Taken -10%, When Refining ＋10 and Intelligence reaches 90, M.Atk ＋20, When Refining ＋10 and Dexterity reaches 90, Ranged Damage ＋5%, When Refining ＋10 and Luck reaches 90, Crit.Dmg ＋5%"
     },
     {
         "imgsrc": null,
-        "name": "Rose Witch Hat",
-        "slot": "Head",
-        "status": "Overall Ability ＋2, Atk ＋12, M.Atk ＋12"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42510.png",
-        "name": "Round Buckleer",
-        "slot": "Shield",
-        "status": "Max HP ＋50, Def ＋5"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42510.png",
-        "name": "Round Buckleer [1]",
-        "slot": "Shield",
-        "status": "Max HP ＋50, Def ＋5"
+        "name": "Poring Sunglasses",
+        "slot": "Face",
+        "status": "Max HP ＋500, Fire Dmg Taken -10%"
     },
     {
         "imgsrc": null,
-        "name": "Royal Helm",
+        "name": "Poring Trumpeter [1]",
         "slot": "Head",
+        "status": "Int ＋2, Wind Element Damage ＋3%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Portable Deviruchi",
+        "slot": "Wing",
+        "status": "Critical ＋5, Crit.Dmg ＋7%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45106.png",
+        "name": "Power of Thor",
+        "slot": "Face",
+        "status": "INT ＋1, Dex ＋1, Wind Dmg Taken -10%, When Refining ＋10, Any attack has a 5% chance to cause Atk ＋50 for 6 seconds, When Refining ＋10, Atk ＋50"
+    },
+    {
+        "imgsrc": null,
+        "name": "Powerful Ring",
+        "slot": "Accessory",
+        "status": "Str ＋5, Atk ＋3%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Powerful Ring[1]",
+        "slot": "Accessory",
+        "status": "Str ＋5, Atk ＋3%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Prajna’s Face",
+        "slot": "Face",
+        "status": "Damage of Demi-Human ＋3%, Atk ＋5"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45083.png",
+        "name": "Pretend Murdered",
+        "slot": "Head",
+        "status": "Def ＋10"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45083.png",
+        "name": "Pretend Murdered [1]",
+        "slot": "Head",
+        "status": "Def ＋10"
+    },
+    {
+        "imgsrc": null,
+        "name": "Price List",
+        "slot": "Sword",
         "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Prince's Crown [1]",
+        "slot": "Head",
+        "status": "Atk ＋30, Max HP ＋200"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40703.png",
+        "name": "Princess Knife [2]",
+        "slot": "Knife",
+        "status": "Atk + 360"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40703.png",
+        "name": "Princess Knife [3]",
+        "slot": "Knife",
+        "status": "Atk + 360"
+    },
+    {
+        "imgsrc": null,
+        "name": "Princess' Hat[1]",
+        "slot": "Head",
+        "status": "M.Atk ＋20, Max SP ＋100"
+    },
+    {
+        "imgsrc": null,
+        "name": "Princess' Umbrella",
+        "slot": "Wing",
+        "status": "Max HP ＋400, Dmg to Demi-Human race ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Pringles Beard",
+        "slot": "Mouth",
+        "status": "Atk ＋10, M.Atk ＋10"
+    },
+    {
+        "imgsrc": null,
+        "name": "Pringles Beard",
+        "slot": "Face",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Pringles Mask",
+        "slot": "Head",
+        "status": "Dex ＋3, AGI ＋3"
+    },
+    {
+        "imgsrc": null,
+        "name": "Pringles Mask [1]",
+        "slot": "Head",
+        "status": "Dex ＋3, AGI ＋3"
     }
 ]

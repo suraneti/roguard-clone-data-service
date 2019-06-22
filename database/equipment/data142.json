@@ -1,0 +1,122 @@
+[
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43503.png",
+        "name": "Valkyrie Shoes [2]",
+        "slot": "Shoes",
+        "status": "Def + 90"
+    },
+    {
+        "imgsrc": null,
+        "name": "Valkyrie Weapon 1 [Sword]",
+        "slot": "Sword",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Valkyrie Weapon 2 [Armor]",
+        "slot": "Sword",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Valkyrie Wings",
+        "slot": "Wing",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Valkyrja's Shield [2]",
+        "slot": "Shield",
+        "status": "Def + 112"
+    },
+    {
+        "imgsrc": null,
+        "name": "Valkyrja's Shield[1]",
+        "slot": "Shield",
+        "status": "Def + 112"
+    },
+    {
+        "imgsrc": null,
+        "name": "Vane Hairpin",
+        "slot": "Head",
+        "status": "Wind Dmg ＋2%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Vane Hairpin",
+        "slot": "Head",
+        "status": "MDmg Reduc. ＋3%, MDef ＋5%, MAX HP＋2%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Vane Hairpin [1]",
+        "slot": "Head",
+        "status": "Wind Dmg ＋2%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43503.png",
+        "name": "Variant Shoes [1]",
+        "slot": "Shoes",
+        "status": "Def + 45"
+    },
+    {
+        "imgsrc": null,
+        "name": "Vecer Axe [1]",
+        "slot": "Axe",
+        "status": "Agi ＋10, Damage to middle-size monsters ＋10%, auto attack has chance to release Lv.10 [Cart Attack], Damage of [Cart Attack] ＋15%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Vecer Axe [2]",
+        "slot": "Axe",
+        "status": "Agi ＋10, Damage to middle-size monsters ＋10%, auto attack has chance to release Lv.10 [Cart Attack], Damage of [Cart Attack] ＋15%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Vecer Battle Axe [1]",
+        "slot": "Axe",
+        "status": "Atk + 180"
+    },
+    {
+        "imgsrc": null,
+        "name": "Vecer Battle Axe [2]",
+        "slot": "Axe",
+        "status": "Atk + 180"
+    },
+    {
+        "imgsrc": null,
+        "name": "Veil",
+        "slot": "Mouth",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Venom Dagger [1]",
+        "slot": "Knife",
+        "status": "Str ＋5, With a large probability to set target into poisoning state when launching auto attacks, For Refining increases by 1, ignore 3% more Def, Damage of [Venom Dagger] and [Venom Knife] increases by 100%, Poison state cannot be cured by Panacea"
+    },
+    {
+        "imgsrc": null,
+        "name": "Venom Dagger [2]",
+        "slot": "Knife",
+        "status": "Str ＋5, With a large probability to set target into poisoning state when launching auto attacks, For Refining increases by 1, ignore 3% more Def, Damage of [Venom Dagger] and [Venom Knife] increases by 100%, Poison state cannot be cured by Panacea"
+    },
+    {
+        "imgsrc": null,
+        "name": "Veteran Axe [1]",
+        "slot": "Axe",
+        "status": "Atk + 180"
+    },
+    {
+        "imgsrc": null,
+        "name": "Veteran Axe [2]",
+        "slot": "Axe",
+        "status": "Atk + 180"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43503.png",
+        "name": "Vidar's Boots [1]",
+        "slot": "Shoes",
+        "status": "Def + 90"
+    }
+]

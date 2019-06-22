@@ -1,122 +1,122 @@
 [
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45144.png",
-        "name": "Driver Band",
-        "slot": "Head",
-        "status": "Str ＋1, Dex ＋1, M.Def ＋10, When Strength reaches 120, Atk ＋15, Cri ＋5"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45144.png",
-        "name": "Driver Band [1]",
-        "slot": "Head",
-        "status": "Str ＋1, Dex ＋1, M.Def ＋10, When Strength reaches 120, Atk ＋15, Cri ＋5"
+        "imgsrc": null,
+        "name": "Destruction Orb [2]",
+        "slot": "Orb",
+        "status": "Def + 112"
     },
     {
         "imgsrc": null,
-        "name": "Drooping Baphomet Jr.",
+        "name": "Devil Cat",
         "slot": "Head",
-        "status": "Atk ＋40, When Refining reaches 10, Cri ＋10"
+        "status": "Dex ＋4, Max HP ＋500"
     },
     {
         "imgsrc": null,
-        "name": "Drooping Baphomet Jr. [1]",
+        "name": "Devil Drooping Kitty",
         "slot": "Head",
-        "status": "Atk ＋40, When Refining reaches 10, Cri ＋10"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45100.png",
-        "name": "Drooping Cat",
-        "slot": "Head",
-        "status": "Luk ＋3,  Fear Def ＋50%, Blind Def ＋50%"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45100.png",
-        "name": "Drooping Cat [1]",
-        "slot": "Head",
-        "status": "Luk ＋3,  Fear Def ＋50%, Blind Def ＋50%"
+        "status": "Max HP ＋50, Luk ＋1"
     },
     {
         "imgsrc": null,
-        "name": "Drooping Pope",
+        "name": "Devil Drooping Kitty [1]",
         "slot": "Head",
-        "status": "No effect"
+        "status": "Max HP ＋50, Luk ＋1"
     },
     {
         "imgsrc": null,
-        "name": "Drooping Pope [1]",
-        "slot": "Head",
-        "status": "No effect"
-    },
-    {
-        "imgsrc": null,
-        "name": "Dropping Doll (Female)",
-        "slot": "Head",
-        "status": "Max HP ＋100, Def ＋10, M.Def ＋10"
-    },
-    {
-        "imgsrc": null,
-        "name": "Dropping Doll (Male)",
-        "slot": "Head",
-        "status": "Max HP ＋100, Def ＋10, M.Def ＋10"
-    },
-    {
-        "imgsrc": null,
-        "name": "Dropping Marionette",
-        "slot": "Head",
-        "status": "Def ＋15"
-    },
-    {
-        "imgsrc": null,
-        "name": "Dropping Marionette [1]",
-        "slot": "Head",
-        "status": "Def ＋15"
-    },
-    {
-        "imgsrc": null,
-        "name": "Duff's Cape",
-        "slot": "Robe",
-        "status": "VIT ＋5, Ranged Dmg Taken Reduction ＋15%"
-    },
-    {
-        "imgsrc": null,
-        "name": "Duff's Cape [1]",
-        "slot": "Robe",
-        "status": "VIT ＋5, Ranged Dmg Taken Reduction ＋15%"
-    },
-    {
-        "imgsrc": null,
-        "name": "Dulange Green Petite",
-        "slot": "Mount",
-        "status": "Move Spd ＋25%"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/toy_501.png",
-        "name": "Dumber laser gun (Monster)",
+        "name": "Devil Wing",
         "slot": "Wing",
-        "status": ""
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40335.png",
-        "name": "Durandal Shadow",
-        "slot": "Sword",
-        "status": ""
+        "status": "No effect"
     },
     {
         "imgsrc": null,
-        "name": "Durandal Shadow",
-        "slot": "Sword",
-        "status": ""
+        "name": "Devil Wing",
+        "slot": "Wing",
+        "status": "All Attributes ＋1, Dmg ＋5%, M.Dmg ＋5%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45053.png",
+        "name": "Deviruchi Hat",
+        "slot": "Head",
+        "status": "Def ＋10, Str ＋1, INT ＋1"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45053.png",
+        "name": "Deviruchi Hat [1]",
+        "slot": "Head",
+        "status": "Def ＋10, Str ＋1, INT ＋1"
     },
     {
         "imgsrc": null,
-        "name": "Dusk Veil",
-        "slot": "Mouth",
-        "status": "Atk ＋10, M.Atk ＋10, Job EXP of killing monsters ＋3%"
+        "name": "Deviruchi Headphone",
+        "slot": "Head",
+        "status": "Max HP ＋50, Max SP ＋50"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41833.png",
-        "name": "Dwarf King's Axe",
-        "slot": "Axe",
-        "status": "Atk + 288"
+        "imgsrc": null,
+        "name": "Deviruchi Headphone [1]",
+        "slot": "Head",
+        "status": "Max HP ＋50, Max SP ＋50"
+    },
+    {
+        "imgsrc": null,
+        "name": "Deviruchi Julian",
+        "slot": "Tail",
+        "status": "Atk ＋2%, Atk ＋25"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_48006.png",
+        "name": "Deviruchi Tail",
+        "slot": "Tail",
+        "status": "Flee ＋5%, Darkness Resistance ＋100%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_61504.png",
+        "name": "Dex Bracelet",
+        "slot": "Bracelet",
+        "status": "Def + 28"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_61504.png",
+        "name": "Dex Bracelet [1]",
+        "slot": "Bracelet",
+        "status": "Def + 28"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43503.png",
+        "name": "Diabolus Boots [1]",
+        "slot": "Shoes",
+        "status": "Def + 90"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43503.png",
+        "name": "Diabolus Boots [2]",
+        "slot": "Shoes",
+        "status": "Def + 90"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45145.png",
+        "name": "Diadem",
+        "slot": "Head",
+        "status": "No effect"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45145.png",
+        "name": "Diadem [1]",
+        "slot": "Head",
+        "status": "No effect"
+    },
+    {
+        "imgsrc": null,
+        "name": "Diamond Galaxy",
+        "slot": "Accessory",
+        "status": "MaxHp + 1314"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_44012.png",
+        "name": "Diamond Ring [1]",
+        "slot": "Accessory",
+        "status": "Atk + 42"
     }
 ]

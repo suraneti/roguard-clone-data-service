@@ -1,122 +1,122 @@
 [
     {
         "imgsrc": null,
-        "name": "Silver Bell",
-        "slot": "Tail",
-        "status": "Cast Delay -10%, SP cost of skill use -10%"
+        "name": "Sagittarius Crown",
+        "slot": "Head",
+        "status": "INT ＋1"
     },
     {
         "imgsrc": null,
-        "name": "Silver Goat Helm",
+        "name": "Sagittarius Crown [1]",
         "slot": "Head",
-        "status": "INT ＋2"
+        "status": "No effect"
     },
     {
         "imgsrc": null,
-        "name": "Silver Robe",
-        "slot": "Armour",
-        "status": "INT ＋5, Chant disrupts durability ＋30%, Max HP ＋100, Caster receives [High-energy Cast], the next skill to be cast will turn into sudden skill. (This BUFF will not be removed even it's not used for 20 seconds, Every 30 seconds this skill can be triggered once only.), [Silver Robe] ＋ [Statue of Archangel IV]: M.Atk ＋12%"
+        "name": "Sagittarius Diadem",
+        "slot": "Head",
+        "status": "Dex ＋3, AGI ＋3"
     },
     {
         "imgsrc": null,
-        "name": "Silver Robe [1]",
-        "slot": "Armour",
-        "status": "INT ＋5, Chant disrupts durability ＋30%, Max HP ＋100, Caster receives [High-energy Cast], the next skill to be cast will turn into sudden skill. (This BUFF will not be removed even it's not used for 20 seconds, Every 30 seconds this skill can be triggered once only.), [Silver Robe] ＋ [Statue of Archangel IV]: M.Atk ＋12%"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45126.png",
-        "name": "Silver Tiara",
+        "name": "Sagittarius Diadem [1]",
         "slot": "Head",
-        "status": "Def ＋5, Dex ＋2"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45126.png",
-        "name": "Silver Tiara [1]",
-        "slot": "Head",
-        "status": "Def ＋5, Dex ＋2"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_61502.png",
-        "name": "Silversmith Bracelet",
-        "slot": "Bracelet",
-        "status": "Def + 19"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_61502.png",
-        "name": "Silversmith Bracelet [1]",
-        "slot": "Bracelet",
-        "status": "Def + 19"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45038.png",
-        "name": "Singing Bird",
-        "slot": "Head",
-        "status": "Def ＋15"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45038.png",
-        "name": "Singing Bird [1]",
-        "slot": "Head",
-        "status": "Def ＋15"
+        "status": "Luk ＋2, INT ＋1"
     },
     {
         "imgsrc": null,
-        "name": "Siren Head",
-        "slot": "Head",
+        "name": "Saint Axe [1]",
+        "slot": "Axe",
         "status": ""
     },
     {
         "imgsrc": null,
-        "name": "Skeleton Bone",
-        "slot": "Sword",
+        "name": "Saint Axe [2]",
+        "slot": "Axe",
+        "status": "Atk + 60"
+    },
+    {
+        "imgsrc": null,
+        "name": "Saint Bow [1]",
+        "slot": "Bow",
         "status": ""
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45057.png",
-        "name": "Skeleton Helm",
-        "slot": "Head",
-        "status": "Def ＋10, Str ＋2, M.Def ＋5, Stunning Resistance ＋5%"
+        "imgsrc": null,
+        "name": "Saint Bow [2]",
+        "slot": "Bow",
+        "status": ""
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45057.png",
-        "name": "Skeleton Helm [1]",
-        "slot": "Head",
-        "status": "Def ＋10, Str ＋2, M.Def ＋5, Stunning Resistance ＋5%"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_43010.png",
-        "name": "Skeleton Manteau [1]",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43020.png",
+        "name": "Saint Cape [1]",
         "slot": "Robe",
-        "status": "Def + 45"
+        "status": "Def + 22"
     },
     {
         "imgsrc": null,
-        "name": "Skull Armor",
-        "slot": "Armour",
+        "name": "Saint Dagger [1]",
+        "slot": "Knife",
         "status": ""
     },
     {
         "imgsrc": null,
-        "name": "Skull Armor [1]",
-        "slot": "Armour",
+        "name": "Saint Dagger [2]",
+        "slot": "Knife",
         "status": ""
     },
     {
         "imgsrc": null,
-        "name": "Skull Boots",
-        "slot": "Shoes",
-        "status": "Move Spd ＋9%, Agi ＋6, Max HP ＋500, [Advanced Sack Teddy Shoes] ＋ [Cat's Blessing VI] ＋ [Blueeve Cape IV]: Strength ＋5, Equipment ASPD ​​ ＋5%"
+        "name": "Saint Fist [1]",
+        "slot": "Knuckle",
+        "status": ""
     },
     {
         "imgsrc": null,
-        "name": "Skull Boots [1]",
-        "slot": "Shoes",
-        "status": "Move Spd ＋9%, Agi ＋6, Max HP ＋500, [Advanced Sack Teddy Shoes] ＋ [Cat's Blessing VI] ＋ [Blueeve Cape IV]: Strength ＋5, Equipment ASPD ​​ ＋5%"
+        "name": "Saint Fist [2]",
+        "slot": "Knuckle",
+        "status": ""
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_61006.png",
-        "name": "Skull Bracer",
-        "slot": "Bracer",
-        "status": "Flee ＋5, Max HP ＋60"
+        "imgsrc": null,
+        "name": "Saint Gabriel",
+        "slot": "Tail",
+        "status": "Holy Dmg ＋3%, Int ＋4"
+    },
+    {
+        "imgsrc": null,
+        "name": "Saint Gryphon",
+        "slot": "Mount",
+        "status": "Move Spd ＋25%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Saint Hammer [1]",
+        "slot": "Mace",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Saint Hammer [2]",
+        "slot": "Mace",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Saint Katar [1]",
+        "slot": "Katar",
+        "status": "Doubles Critical"
+    },
+    {
+        "imgsrc": null,
+        "name": "Saint Katar [2]",
+        "slot": "Katar",
+        "status": "Doubles Critical"
+    },
+    {
+        "imgsrc": null,
+        "name": "Saint Necklace",
+        "slot": "Accessory",
+        "status": ""
     }
 ]

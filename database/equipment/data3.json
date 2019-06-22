@@ -1,9 +1,21 @@
 [
     {
         "imgsrc": null,
+        "name": "Agent Katar [2]",
+        "slot": "Katar",
+        "status": "Doubles Critical, Atk ＋30, Cri ＋10, Crit.Dmg ＋25%"
+    },
+    {
+        "imgsrc": null,
+        "name": "AGI Pin",
+        "slot": "Accessory",
+        "status": "Agi ＋5, Attack Spd ＋6%"
+    },
+    {
+        "imgsrc": null,
         "name": "AGI Pin [1]",
         "slot": "Accessory",
-        "status": "Agi ＋5, Equipment ASPD ＋6%"
+        "status": "Agi ＋5, Attack Spd ＋6%"
     },
     {
         "imgsrc": null,
@@ -57,13 +69,13 @@
         "imgsrc": null,
         "name": "All In Peace Reforged",
         "slot": "Katar",
-        "status": "Doubles Critical, Str ＋20, Luk ＋10, All Attributes ＋14, Cri ＋35, Crit.Dmg ＋20%, Demi-Human Race Damage ＋40%, Max HP ＋23000, Dmg Reduc. ＋5%, Magic Reduc. ＋5%, \"All In Peace\" has the power to assassinate enemies, the caster can perform successful assassinations without leaving any trace. \"All In Peace\" enables allies in a 5-meter range to receive [Dreamland Protection]. [Dreamland Protection]: caster enters a hiding state in which he is invisible; the effect lasts 8 seconds; CD: 200 seconds. [Dreamland Protection] cannot be removed by ranged skills, but damage and abnormal states can still hit players in [Dreamland Protection]. This effect vanished after attacking targets."
+        "status": "Doubles Critical, Str ＋20, Luk ＋10, All Attributes ＋14, Cri ＋35, Crit.Dmg ＋20%, Demi-Human Race Damage ＋40%, Max HP ＋23000, Dmg Reduc. ＋5%, Magic Reduc. ＋5%, \"All In Peace\" has the power to assassinate enemies, the caster can perform successful assassinations without leaving any trace. \"All In Peace\" enables allies in a 5-meter range to receive [Dreamland Protection]. [Dreamland Protection]: caster enters a hiding state in which he is invisible; the effect lasts 8 seconds; CD: 200 seconds. [Dreamland Protection] cannot be removed by ranged skills, but damage and crowd control effects can still apply to players in [Dreamland Protection]. This effect vanished after attacking targets."
     },
     {
         "imgsrc": null,
         "name": "All In Peace Sky Forged",
         "slot": "Katar",
-        "status": "Doubles Critical, Str ＋20, Luk ＋10, All Attributes ＋20, Cri ＋35, Crit.Dmg ＋24%, Demi-Human Race Damage ＋50%, Max HP ＋30000, Dmg Reduc. ＋10%, Magic Reduc. ＋10%, \"All In Peace\" has the power to assassinate enemies, the caster can perform successful assassination without any trace. \"All In Peace\" enables allies in a 5-meter range to receive [Dreamland Protection]. [Dreamland Protection]: caster enters a hiding state in which he is invisible; the effect lasts 15 seconds; CD: 135 seconds. [Dreamland Protection] cannot be removed by ranged skills, but damage and abnormal states can still hit players in [Dreamland Protection]. This effect vanished after attacking targets."
+        "status": "Doubles Critical, Str ＋20, Luk ＋10, All Attributes ＋20, Cri ＋35, Crit.Dmg ＋24%, Demi-Human Race Damage ＋50%, Max HP ＋30000, Dmg Reduc. ＋10%, Magic Reduc. ＋10%, \"All In Peace\" has the power to assassinate enemies, the caster can perform successful assassination without any trace. \"All In Peace\" enables allies in a 5-meter range to receive [Dreamland Protection]. [Dreamland Protection]: caster enters a hiding state in which he is invisible; the effect lasts 15 seconds; CD: 135 seconds. [Dreamland Protection] cannot be removed by ranged skills, but damage and crowd control effects can still apply to players in [Dreamland Protection]. This effect vanished after attacking targets."
     },
     {
         "imgsrc": null,
@@ -75,48 +87,36 @@
         "imgsrc": null,
         "name": "Alloy Armor",
         "slot": "Armour",
-        "status": "VIT ＋5, In the presence of Lif, Alchemy HP/Natural Magic Recovery ＋8, [Acid Terror], [Improved Acid Demonstration] fixed Cast Time −0.5 sec, In the presence of Amistr, Alchemy Atk ＋8%, In the presence of Vanilmirth, Alchemy M.Atk ＋8%"
+        "status": "VIT ＋5, In the presence of Lif, Alchemy HP/SP Regen ＋8, [Acid Terror], [Improved Acid Demonstration] fixed Cast Time −0.5 sec, In the presence of Amistr, Alchemy Atk ＋8%, In the presence of Vanilmirth, Alchemy M.Atk ＋8%"
     },
     {
         "imgsrc": null,
         "name": "Alloy Armor [1]",
         "slot": "Armour",
-        "status": "VIT ＋5, In the presence of Lif, Alchemy HP/Natural Magic Recovery ＋8, [Acid Terror], [Improved Acid Demonstration] fixed Cast Time −0.5 sec, In the presence of Amistr, Alchemy Atk ＋8%, In the presence of Vanilmirth, Alchemy M.Atk ＋8%"
+        "status": "VIT ＋5, In the presence of Lif, Alchemy HP/SP Regen ＋8, [Acid Terror], [Improved Acid Demonstration] fixed Cast Time −0.5 sec, In the presence of Amistr, Alchemy Atk ＋8%, In the presence of Vanilmirth, Alchemy M.Atk ＋8%"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42528.png",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42528.png",
         "name": "Alloy Bracelet",
         "slot": "Shield",
         "status": "Def + 33"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42528.png",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42528.png",
         "name": "Alloy Bracelet [1]",
         "slot": "Shield",
         "status": "Def + 33"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41535.png",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41535.png",
         "name": "Alloy Mace",
         "slot": "Mace",
         "status": "Atk + 126"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41535.png",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41535.png",
         "name": "Alloy Mace [2]",
         "slot": "Mace",
         "status": "Atk + 126"
-    },
-    {
-        "imgsrc": null,
-        "name": "Alloy Mail",
-        "slot": "Armour",
-        "status": "VIT ＋2, Max HP ＋100, In the presence of Lif, Alchemy HP/Natural Magic Recovery ＋4, In the presence of Amistr, Alchemy Atk ＋4%, In the presence of Vanilmirth, Alchemy M.Atk ＋4%"
-    },
-    {
-        "imgsrc": null,
-        "name": "Alloy Mail [1]",
-        "slot": "Armour",
-        "status": "VIT ＋2, Max HP ＋100, In the presence of Lif, Alchemy HP/Natural Magic Recovery ＋4, In the presence of Amistr, Alchemy Atk ＋4%, In the presence of Vanilmirth, Alchemy M.Atk ＋4%"
     }
 ]

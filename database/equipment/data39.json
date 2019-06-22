@@ -1,122 +1,122 @@
 [
     {
-        "imgsrc": null,
-        "name": "Epic Spirit·Gerold's Glory(change color)",
-        "slot": "Spear",
-        "status": ""
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43501.png",
+        "name": "Eden Team Boots",
+        "slot": "Shoes",
+        "status": "Def + 3"
     },
     {
-        "imgsrc": null,
-        "name": "Epic Spirit·Ghul's Rage",
-        "slot": "Mace",
-        "status": ""
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43501.png",
+        "name": "Eden Team Boots [1]",
+        "slot": "Shoes",
+        "status": "Def + 3"
     },
     {
-        "imgsrc": null,
-        "name": "Epic Spirit·Ghul's Rage(change color)",
-        "slot": "Mace",
-        "status": ""
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45076.png",
+        "name": "Eden Team Hat",
+        "slot": "Head",
+        "status": "Def ＋5"
     },
     {
-        "imgsrc": null,
-        "name": "Epic Spirit·Gus' Fist",
-        "slot": "Knuckle",
-        "status": ""
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45076.png",
+        "name": "Eden Team Hat [1]",
+        "slot": "Head",
+        "status": "Def ＋5"
     },
     {
-        "imgsrc": null,
-        "name": "Epic Spirit·Gus' Fist(change color)",
-        "slot": "Knuckle",
-        "status": ""
-    },
-    {
-        "imgsrc": null,
-        "name": "Epic Spirit·Hector Sword(change color)",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40301.png",
+        "name": "Eden Team Knife",
         "slot": "Sword",
+        "status": "Atk + 8"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40301.png",
+        "name": "Eden Team Knife [2]",
+        "slot": "Sword",
+        "status": "Atk + 12"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43001.png",
+        "name": "Eden Team Manteau I",
+        "slot": "Robe",
+        "status": "Def + 6"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43001.png",
+        "name": "Eden Team Manteau [1]",
+        "slot": "Robe",
+        "status": "Def + 6"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43503.png",
+        "name": "Eden Team Shoes [1]",
+        "slot": "Shoes",
+        "status": "Def + 90"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43503.png",
+        "name": "Eden Team Shoes [2]",
+        "slot": "Shoes",
+        "status": "Def + 90"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42001.png",
+        "name": "Eden Team Training Clothes",
+        "slot": "Armour",
+        "status": "Def + 4"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42001.png",
+        "name": "Eden Team Training Clothes [1]",
+        "slot": "Armour",
+        "status": "Def + 4"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45195.png",
+        "name": "Eden Team Turban [1]",
+        "slot": "Head",
+        "status": "Def ＋5"
+    },
+    {
+        "imgsrc": null,
+        "name": "Egg and Bacon",
+        "slot": "Head",
+        "status": "Atk ＋20, Str ＋5"
+    },
+    {
+        "imgsrc": null,
+        "name": "Egg and Bacon [1]",
+        "slot": "Head",
+        "status": "Dex ＋3, AGI ＋3"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45042.png",
+        "name": "Eggshell",
+        "slot": "Head",
+        "status": "Def ＋10"
+    },
+    {
+        "imgsrc": null,
+        "name": "Eggshell Biu[1]",
+        "slot": "Head",
+        "status": "Dmg Reduc. ＋5%, Equip it to gain Eggshell's protection: Protect all the equipments from being broken."
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45042.png",
+        "name": "Eggshell [1]",
+        "slot": "Head",
+        "status": "Def ＋10"
+    },
+    {
+        "imgsrc": null,
+        "name": "Elder's Fire on Head",
+        "slot": "Head",
         "status": ""
     },
     {
         "imgsrc": null,
-        "name": "Epic Spirit·Herist's Bow",
-        "slot": "Bow",
-        "status": ""
-    },
-    {
-        "imgsrc": null,
-        "name": "Epic Spirit·Herist's Bow(change color)",
-        "slot": "Bow",
-        "status": ""
-    },
-    {
-        "imgsrc": null,
-        "name": "Epic Spirit·Landy's Shield",
-        "slot": "Shield",
-        "status": ""
-    },
-    {
-        "imgsrc": null,
-        "name": "Epic Spirit·Landy's Shield(change color)",
-        "slot": "Shield",
-        "status": ""
-    },
-    {
-        "imgsrc": null,
-        "name": "Epic Spirit·Regie's Rage",
-        "slot": "Knife",
-        "status": ""
-    },
-    {
-        "imgsrc": null,
-        "name": "Epic Spirit·Regie's Rage(change color)",
-        "slot": "Knife",
-        "status": ""
-    },
-    {
-        "imgsrc": null,
-        "name": "Epic Spirit·Sklar's Will",
-        "slot": "Axe",
-        "status": ""
-    },
-    {
-        "imgsrc": null,
-        "name": "Epic Spirit·Sklar's Will(change color)",
-        "slot": "Axe",
-        "status": ""
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40006.png",
-        "name": "Equestrian's Spear",
-        "slot": "Spear",
-        "status": "Atk + 135"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40006.png",
-        "name": "Equestrian's Spear [2]",
-        "slot": "Spear",
-        "status": "Atk + 135"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41504.png",
-        "name": "Eraser [2]",
+        "name": "Elder's Hammer [1]",
         "slot": "Mace",
-        "status": "Atk + 180"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41504.png",
-        "name": "Eraser [3]",
-        "slot": "Mace",
-        "status": "Atk + 180"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41504.png",
-        "name": "Erde Mace [2]",
-        "slot": "Mace",
-        "status": "Atk + 180"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41504.png",
-        "name": "Erde Mace [3]",
-        "slot": "Mace",
-        "status": "Atk + 180"
+        "status": "STR ＋4, Increase the basic rate of equipment destruction causes by alchemy using [Acid Terror], [Acid Demonstration], [Improved Acid Demonstration], For Refining ＋1, the damage of [Acid Demonstration] ＋5%, Damage of [Acid Terror] ＋2%, skill multiplier of [Improved Acid Demonstration] ＋30%"
     }
 ]

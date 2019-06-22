@@ -1,122 +1,122 @@
 [
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40703.png",
-        "name": "Princess Knife [3]",
-        "slot": "Knife",
-        "status": "Atk + 360"
-    },
-    {
         "imgsrc": null,
-        "name": "Princess' Hat[1]",
-        "slot": "Head",
-        "status": "M.Atk ＋20, Max SP ＋100"
-    },
-    {
-        "imgsrc": null,
-        "name": "Princess' Umbrella",
+        "name": "Original Will·Poring Balloon",
         "slot": "Wing",
-        "status": "Max HP ＋400, Dmg to Demi-Human race ＋5%"
+        "status": "Dex ＋3, Luk ＋3, Neutral Dmg Taken -5%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_44004.png",
+        "name": "Orleans Necklace",
+        "slot": "Accessory",
+        "status": "Dex ＋3, M.Atk ＋30"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_44004.png",
+        "name": "Orleans Necklace [1]",
+        "slot": "Accessory",
+        "status": "Dex ＋3, M.Atk ＋30"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_44005.png",
+        "name": "Orleans's Gloves",
+        "slot": "Accessory",
+        "status": "Dex ＋2, M.Atk ＋10%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_44005.png",
+        "name": "Orleans's Gloves [1]",
+        "slot": "Accessory",
+        "status": "Dex ＋2, M.Atk ＋10%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42042.png",
+        "name": "Orleans's Gown",
+        "slot": "Armour",
+        "status": "CT Variable ＋20%, The skill's effect will not be interrupted"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42042.png",
+        "name": "Orleans's Gown [1]",
+        "slot": "Armour",
+        "status": "CT Variable ＋20%, The skill's effect will not be interrupted"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42525.png",
+        "name": "Orleans's Server",
+        "slot": "Shield",
+        "status": "M.Dmg Reflect ＋10%, M.Def ＋50"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42525.png",
+        "name": "Orleans's Server [1]",
+        "slot": "Shield",
+        "status": "M.Dmg Reflect ＋10%, M.Def ＋50"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/21.png",
+        "name": "Ostrich",
+        "slot": "Mount",
+        "status": "Move Spd ＋75%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/21.png",
+        "name": "Ostrich",
+        "slot": "Mount",
+        "status": "Move Spd ＋75%"
     },
     {
         "imgsrc": null,
-        "name": "Pringles Beard",
-        "slot": "Mouth",
-        "status": "Atk ＋10, M.Atk ＋10"
+        "name": "Ouch! Kobold",
+        "slot": "Head",
+        "status": "M.Def ＋5%, Max HP ＋200"
     },
     {
         "imgsrc": null,
-        "name": "Pringles Beard",
-        "slot": "Face",
+        "name": "Ouch! Kobold [1]",
+        "slot": "Head",
+        "status": "M.Def ＋5%, Max HP ＋200"
+    },
+    {
+        "imgsrc": null,
+        "name": "Ouroboros Axe",
+        "slot": "Axe",
         "status": ""
     },
     {
         "imgsrc": null,
-        "name": "Pringles Mask",
-        "slot": "Head",
-        "status": "Dex ＋3, AGI ＋3"
-    },
-    {
-        "imgsrc": null,
-        "name": "Pringles Mask [1]",
-        "slot": "Head",
-        "status": "Dex ＋3, AGI ＋3"
-    },
-    {
-        "imgsrc": null,
-        "name": "Promise Crown",
-        "slot": "Head",
-        "status": "Max HP ＋100, Max SP ＋100, Def ＋5, M.Def ＋5"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40009.png",
-        "name": "Prontera Lance",
-        "slot": "Spear",
-        "status": "Atk + 225"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40009.png",
-        "name": "Prontera Lance [2]",
-        "slot": "Spear",
-        "status": "Atk + 225"
-    },
-    {
-        "imgsrc": null,
-        "name": "Prontera's Guard",
-        "slot": "Head",
-        "status": "Max HP ＋1000, Dmg Reduc. ＋5%"
-    },
-    {
-        "imgsrc": null,
-        "name": "Prontera's Guard [1]",
-        "slot": "Head",
-        "status": "Max HP ＋1000, Dmg Reduc. ＋5%"
-    },
-    {
-        "imgsrc": null,
-        "name": "Prophet Cape",
-        "slot": "Robe",
-        "status": "VIT ＋2, For Refining ＋10, Max HP ＋5%"
-    },
-    {
-        "imgsrc": null,
-        "name": "Prophet Cape [1]",
-        "slot": "Robe",
-        "status": "VIT ＋2, For Refining ＋10, Max HP ＋5%"
-    },
-    {
-        "imgsrc": null,
-        "name": "Protecting You",
-        "slot": "Accessory",
-        "status": "MaxHp + 1314"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_44001.png",
-        "name": "Psychic Earring [1]",
-        "slot": "Accessory",
-        "status": "Atk + 42"
-    },
-    {
-        "imgsrc": null,
-        "name": "Pumpkin Hairband",
-        "slot": "Head",
+        "name": "Ouroboros Blade",
+        "slot": "Knife",
         "status": ""
     },
     {
         "imgsrc": null,
-        "name": "Pumpkin Hairband [1]",
-        "slot": "Head",
-        "status": "Dex ＋3, AGI ＋3"
+        "name": "Ouroboros Bow",
+        "slot": "Bow",
+        "status": ""
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45117.png",
-        "name": "Puppy Headband",
-        "slot": "Head",
-        "status": "Def ＋15"
+        "imgsrc": null,
+        "name": "Ouroboros Boxing Gloves",
+        "slot": "Knuckle",
+        "status": ""
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45117.png",
-        "name": "Puppy Headband [1]",
-        "slot": "Head",
-        "status": "Def ＋15"
+        "imgsrc": null,
+        "name": "Ouroboros Hammer",
+        "slot": "Mace",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Ouroboros Katar",
+        "slot": "Katar",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Ouroboros Shield",
+        "slot": "Shield",
+        "status": ""
     }
 ]

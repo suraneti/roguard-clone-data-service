@@ -1,122 +1,122 @@
 [
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_44011.png",
-        "name": "Clip [1]",
-        "slot": "Accessory",
-        "status": "Atk + 30"
+        "imgsrc": null,
+        "name": "Chemical Protection Gloves [1]",
+        "slot": "Bracer",
+        "status": "M.Def ＋10, Dex ＋2, Max HP ＋500, For Refining ＋8, Atk ＋3%; For Refining ＋12, Ignore Def ＋5%"
     },
     {
         "imgsrc": null,
-        "name": "Clock's Halo",
-        "slot": "Wing",
-        "status": ""
+        "name": "Chicken Dinner Meal Box",
+        "slot": "Head",
+        "status": "All Attributes ＋1, Atk ＋8, M.Atk ＋8"
     },
     {
         "imgsrc": null,
-        "name": "Clothes Dark Knight Abyss Blue",
+        "name": "Chinese Crown",
+        "slot": "Head",
+        "status": "No effect"
+    },
+    {
+        "imgsrc": null,
+        "name": "Chinese Crown [1]",
+        "slot": "Head",
+        "status": "No effect"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41204.png",
+        "name": "Chloe Bow",
+        "slot": "Bow",
+        "status": "Atk + 72"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41204.png",
+        "name": "Chloe Bow [2]",
+        "slot": "Bow",
+        "status": "Atk + 72"
+    },
+    {
+        "imgsrc": null,
+        "name": "Chocolate Donuts",
+        "slot": "Mouth",
+        "status": "INT ＋1, Str ＋1, Atk ＋5"
+    },
+    {
+        "imgsrc": null,
+        "name": "Christmas Beret",
+        "slot": "Head",
+        "status": "Def ＋20, CritRes ＋10"
+    },
+    {
+        "imgsrc": null,
+        "name": "Christmas Beret [1]",
+        "slot": "Head",
+        "status": "Def ＋20, CritRes ＋10"
+    },
+    {
+        "imgsrc": null,
+        "name": "Christmas Clothing Series",
         "slot": "Armour",
         "status": ""
     },
     {
         "imgsrc": null,
-        "name": "Clothes Dark Knight Fiery Wrath Red",
-        "slot": "Armour",
-        "status": ""
+        "name": "Christmas Crown Headwear series",
+        "slot": "Head",
+        "status": "Atk ＋3%, M.Atk ＋3%"
     },
     {
         "imgsrc": null,
-        "name": "Clothes Dark Knight Nether Green",
-        "slot": "Armour",
-        "status": ""
+        "name": "Christmas Headwear Crown·Brown",
+        "slot": "Head",
+        "status": "Atk ＋3%, M.Atk ＋3%"
     },
     {
         "imgsrc": null,
-        "name": "Clothes Dark Knight Sunlit Yellow",
-        "slot": "Armour",
-        "status": ""
+        "name": "Christmas Headwear Crown·Green",
+        "slot": "Head",
+        "status": "Atk ＋3%, M.Atk ＋3%"
     },
     {
         "imgsrc": null,
-        "name": "Clothes Moonlight Rose Blue",
-        "slot": "Armour",
-        "status": ""
+        "name": "Christmas Headwear Crown·Red",
+        "slot": "Head",
+        "status": "Atk ＋3%, M.Atk ＋3%"
     },
     {
         "imgsrc": null,
-        "name": "Clothes Moonlight Rose Green",
-        "slot": "Armour",
-        "status": ""
+        "name": "Christmas Headwear Crown·White",
+        "slot": "Head",
+        "status": "Atk ＋3%, M.Atk ＋3%"
     },
     {
         "imgsrc": null,
-        "name": "Clothes Moonlight Rose Rosy",
-        "slot": "Armour",
-        "status": ""
+        "name": "Christmas Horn",
+        "slot": "Head",
+        "status": "Luk ＋2, Atk ＋5"
     },
     {
         "imgsrc": null,
-        "name": "Clothes Moonlight Rose Yellow",
-        "slot": "Armour",
-        "status": ""
+        "name": "Christmas Horn [1]",
+        "slot": "Head",
+        "status": "Luk ＋2, Atk ＋5"
     },
     {
         "imgsrc": null,
-        "name": "Clothes · I, Steward male",
-        "slot": "Armour",
-        "status": ""
+        "name": "Christmas Pack",
+        "slot": "Head",
+        "status": "Def ＋10"
     },
     {
         "imgsrc": null,
-        "name": "Clothes·I, Steward female",
-        "slot": "Armour",
-        "status": ""
+        "name": "Christmas Pack [1]",
+        "slot": "Head",
+        "status": "Def ＋10"
     },
     {
         "imgsrc": null,
-        "name": "Clothes·Japanese summer style·coconut green",
-        "slot": "Armour",
-        "status": ""
-    },
-    {
-        "imgsrc": null,
-        "name": "Clothes·Japanese summer style·ocean blue",
-        "slot": "Armour",
-        "status": ""
-    },
-    {
-        "imgsrc": null,
-        "name": "Clothes·Japanese summer style·pineapple yellow",
-        "slot": "Armour",
-        "status": ""
-    },
-    {
-        "imgsrc": null,
-        "name": "Clothes·Japanese summer style·scorching sun red",
-        "slot": "Armour",
-        "status": ""
-    },
-    {
-        "imgsrc": null,
-        "name": "Clothes·summer sunflower·coconut green",
-        "slot": "Armour",
-        "status": ""
-    },
-    {
-        "imgsrc": null,
-        "name": "Clothes·summer sunflower·ocean blue",
-        "slot": "Armour",
-        "status": ""
-    },
-    {
-        "imgsrc": null,
-        "name": "Clothes·summer sunflower·pineapple yellow",
-        "slot": "Armour",
-        "status": ""
-    },
-    {
-        "imgsrc": null,
-        "name": "Clothes·summer sunflower·scorching sun red",
-        "slot": "Armour",
-        "status": ""
+        "name": "Christmas Propeller",
+        "slot": "Head",
+        "status": "Max HP ＋100"
     }
 ]

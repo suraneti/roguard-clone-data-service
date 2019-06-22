@@ -1,122 +1,122 @@
 [
     {
         "imgsrc": null,
-        "name": "Cancer Diadem",
-        "slot": "Head",
-        "status": "Dex ＋3, AGI ＋3"
+        "name": "Bunny Egg Backpack",
+        "slot": "Wing",
+        "status": "INT +2, Holy Attack +3%"
     },
     {
         "imgsrc": null,
-        "name": "Cancer Diadem [1]",
+        "name": "Bunny Headphone [1]",
         "slot": "Head",
-        "status": "Str ＋2, Dex ＋1"
+        "status": "Max Hp ＋200, Wind Damage reduction ＋3%"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45064.png",
-        "name": "Candle",
-        "slot": "Head",
-        "status": "Def ＋10"
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43509.png",
+        "name": "Bunny Slipper",
+        "slot": "Shoes",
+        "status": "Move Spd ＋8%, SP Regen ＋3, SP Regen ＋15%, [Life Magic Book IV] ＋[Bunny Slipper]: Cooldown of all skills shortens by 5%"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45064.png",
-        "name": "Candle [1]",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43509.png",
+        "name": "Bunny Slipper [1]",
+        "slot": "Shoes",
+        "status": "Move Spd ＋8%, SP Regen ＋3, SP Regen ＋15%, [Life Magic Book IV] ＋[Bunny Slipper]: Cooldown of all skills shortens by 5%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45148.png",
+        "name": "Bunny Top Hat",
         "slot": "Head",
-        "status": "Def ＋10"
+        "status": "Agi ＋3, When suffering attacks, Caster has a 5% chance to increase Agility by 7 points, increase moving speed by 25%; the effect lasts 30 seconds"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45148.png",
+        "name": "Bunny Top Hat [1]",
+        "slot": "Head",
+        "status": "Agi ＋3, When suffering attacks, Caster has a 5% chance to increase Agility by 7 points, increase moving speed by 25%; the effect lasts 30 seconds"
     },
     {
         "imgsrc": null,
-        "name": "Candy Bag",
-        "slot": "Head",
-        "status": "Max SP ＋50"
+        "name": "Buring Alvitr",
+        "slot": "Shield",
+        "status": ""
     },
     {
-        "imgsrc": null,
-        "name": "Candy Bag [1]",
-        "slot": "Head",
-        "status": "Max SP ＋50"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45179.png",
-        "name": "Cap",
-        "slot": "Head",
-        "status": "Def ＋10"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45173.png",
-        "name": "Cap Of Blindness",
-        "slot": "Head",
-        "status": "Avoid darkness effect"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45173.png",
-        "name": "Cap Of Blindness [1]",
-        "slot": "Head",
-        "status": "Avoid darkness effect, auto attack has a chance to decrease the target's Hit by 40 points"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45179.png",
-        "name": "Cap [1]",
-        "slot": "Head",
-        "status": "Def ＋10"
-    },
-    {
-        "imgsrc": null,
-        "name": "Capricorn Crown",
-        "slot": "Head",
-        "status": "Equipment ASPD ＋1%"
-    },
-    {
-        "imgsrc": null,
-        "name": "Capricorn Crown [1]",
-        "slot": "Head",
-        "status": "No effect"
-    },
-    {
-        "imgsrc": null,
-        "name": "Capricorn Diadem",
-        "slot": "Head",
-        "status": "Dex ＋3, AGI ＋3"
-    },
-    {
-        "imgsrc": null,
-        "name": "Capricorn Diadem [1]",
-        "slot": "Head",
-        "status": "Dex ＋2, AGi ＋1"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40016.png",
-        "name": "Cardo [1]",
-        "slot": "Spear",
-        "status": "VIT ＋3, For Refining ＋1, Def ＋1%, M.Def ＋0.5%"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40016.png",
-        "name": "Cardo [2]",
-        "slot": "Spear",
-        "status": "VIT ＋3, For Refining ＋1, Def ＋1%, M.Def ＋0.5%"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41504.png",
-        "name": "Carga Mace [2]",
-        "slot": "Mace",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41201.png",
+        "name": "Burning Bow [2]",
+        "slot": "Bow",
         "status": "Atk + 180"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41504.png",
-        "name": "Carga Mace [3]",
-        "slot": "Mace",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41201.png",
+        "name": "Burning Bow[3]",
+        "slot": "Bow",
         "status": "Atk + 180"
     },
     {
         "imgsrc": null,
-        "name": "Cart",
-        "slot": "Barrow",
+        "name": "Burning Eyes",
+        "slot": "Face",
+        "status": "Atk ＋15, Max HP ＋200"
+    },
+    {
+        "imgsrc": null,
+        "name": "Burning Passion Guitar",
+        "slot": "Wing",
+        "status": "Def ＋15, When Refining ＋10 and Strength reaches 90, Atk ＋20, When Refining ＋10 and Agility reaches 90, Attack Spd ＋5%, When Refining ＋10 and Vitality reaches 90, Neutral Dmg Taken -10%, When Refining ＋10 and Intelligence reaches 90, M.Atk ＋20, When Refining ＋10 and Dexterity reaches 90, Ranged Damage ＋5%, When Refining ＋10 and Luck reaches 90, Crit.Dmg ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Bury [1]",
+        "slot": "Katar",
         "status": ""
     },
     {
         "imgsrc": null,
-        "name": "Cat Cart",
-        "slot": "Barrow",
+        "name": "Bury [2]",
+        "slot": "Katar",
         "status": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41806.png",
+        "name": "Buster [1]",
+        "slot": "Axe",
+        "status": "Str ＋2, Atk ＋10, When Strength reaches 50, Atk ＋15"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41806.png",
+        "name": "Buster [2]",
+        "slot": "Axe",
+        "status": "Str ＋2, Atk ＋10, When Strength reaches 50, Atk ＋15"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45190.png",
+        "name": "Butterfly Hairpin",
+        "slot": "Head",
+        "status": "Def ＋10"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45190.png",
+        "name": "Butterfly Hairpin [1]",
+        "slot": "Head",
+        "status": "Def ＋10"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_48515.png",
+        "name": "Butterfly Wing Ears",
+        "slot": "Face",
+        "status": "Def ＋15"
+    },
+    {
+        "imgsrc": null,
+        "name": "Calder Dagger [1]",
+        "slot": "Knife",
+        "status": "Str ＋4, Agi ＋3, auto attack has a chance (8%) to trigger [Disperse] effect. [Disperse]: damage of [Back Stab] and [Disabling Strike] increases by 50%; the effect lasts 2 seconds"
+    },
+    {
+        "imgsrc": null,
+        "name": "Calder Dagger [2]",
+        "slot": "Knife",
+        "status": "Str ＋4, Agi ＋3, auto attack has a chance (8%) to trigger [Disperse] effect. [Disperse]: damage of [Back Stab] and [Disabling Strike] increases by 50%; the effect lasts 2 seconds"
     }
 ]

@@ -1,122 +1,122 @@
 [
     {
-        "imgsrc": null,
-        "name": "Warm Christmas Tree [1]",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45066.png",
+        "name": "Sunday Hat [1]",
         "slot": "Head",
-        "status": "Dex ＋3, AGI ＋3"
+        "status": "M.Def ＋10, CT Variable -5%, When Refining 10, CT Variable -15%"
     },
     {
         "imgsrc": null,
-        "name": "Warm Hat",
+        "name": "Sunflower Lollipop",
+        "slot": "Mouth",
+        "status": "Max HP ＋100, Max SP ＋100"
+    },
+    {
+        "imgsrc": null,
+        "name": "Sunglasses",
         "slot": "Head",
-        "status": "Max HP ＋100"
+        "status": "Fire damage taken－5%, MAX HP ＋400"
     },
     {
-        "imgsrc": null,
-        "name": "Water Axe [1]",
-        "slot": "Axe",
-        "status": "Water, Str ＋5, Agi ＋5, Auto Attack has a 7% chance to deal multiple water damage to the target and up to 3 nearby targets, For Refining ＋1, Water Dmg ＋5%"
-    },
-    {
-        "imgsrc": null,
-        "name": "Water Axe [2]",
-        "slot": "Axe",
-        "status": "Water, Str ＋5, Agi ＋5, Auto Attack has a 7% chance to deal multiple water damage to the target and up to 3 nearby targets, For Refining ＋1, Water Dmg ＋5%"
-    },
-    {
-        "imgsrc": null,
-        "name": "Water Knife [1]",
-        "slot": "Knife",
-        "status": "Water, Str ＋5, For Refining ＋1Dmg ＋1%"
-    },
-    {
-        "imgsrc": null,
-        "name": "Water Knife [2]",
-        "slot": "Knife",
-        "status": "Water, Str ＋5, For Refining ＋1Dmg ＋1%"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40301.png",
-        "name": "Water Sword [2]",
-        "slot": "Sword",
-        "status": "Atk + 180"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40301.png",
-        "name": "Water Sword [3]",
-        "slot": "Sword",
-        "status": "Atk + 180"
-    },
-    {
-        "imgsrc": null,
-        "name": "Wave Witch Hat",
-        "slot": "Head",
-        "status": "Overall Ability ＋2, Atk ＋12, M.Atk ＋12"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45059.png",
-        "name": "Wedding Veil",
-        "slot": "Head",
-        "status": "M.Def ＋10, Max HP ＋150, Only for female equipment"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45059.png",
-        "name": "Wedding Veil [1]",
-        "slot": "Head",
-        "status": "M.Def ＋10, Max HP ＋150, Only for female equipment"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_61002.png",
-        "name": "Weihna Gloves",
-        "slot": "Bracer",
-        "status": "Def + 13"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_61002.png",
-        "name": "Weihna Gloves [1]",
-        "slot": "Bracer",
-        "status": "Def + 13"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40703.png",
-        "name": "Weihna [2]",
-        "slot": "Knife",
-        "status": "Atk + 360"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40703.png",
-        "name": "Weihna [3]",
-        "slot": "Knife",
-        "status": "Atk + 360"
-    },
-    {
-        "imgsrc": null,
-        "name": "Welding Mask",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_48530.png",
+        "name": "Sunglasses",
         "slot": "Face",
+        "status": "Burning Resistance ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Sunlight - Bright Spear",
+        "slot": "Spear",
         "status": ""
     },
     {
         "imgsrc": null,
-        "name": "Wendy",
-        "slot": "Wing",
-        "status": "Max HP ＋300, Agi ＋3, Luk ＋3"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45012.png",
-        "name": "Western Grace",
-        "slot": "Head",
-        "status": "Def ＋15"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45012.png",
-        "name": "Western Grace [1]",
-        "slot": "Head",
-        "status": "Def ＋15"
+        "name": "Sunlight - Crow Bow",
+        "slot": "Bow",
+        "status": ""
     },
     {
         "imgsrc": null,
-        "name": "Whimpering Fire Bird",
-        "slot": "Tail",
-        "status": "Damage to Fire Monsters ＋8%, Fire damage taken -8%"
+        "name": "Sunlight - Dawn Shield",
+        "slot": "Shield",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Sunlight - Feather Gloves",
+        "slot": "Knuckle",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Sunlight - Flame Katar",
+        "slot": "Katar",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Sunlight - Golden Wand",
+        "slot": "Staff",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Sunlight - Martial Sword",
+        "slot": "Sword",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Sunlight - Rainbow Axe",
+        "slot": "Axe",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Sunlight - Star Dagger",
+        "slot": "Knife",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Sunlight - Wings Hammer",
+        "slot": "Mace",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Sura Rampage [1]",
+        "slot": "Knuckle",
+        "status": "STR ＋6, INT ＋6, ＋100% [Hell Gate] multiplier,  ＋1% [Hell Gate] damage for each refining level gained,  At refining ＋5/＋10/＋15, ＋5%/5%/10% [Hell Gate] damage when used after [Fallen Empire], [Sura Rampage] ＋ [Staunch Clothes X] ＋ [Staunch Ring IV]: ＋5% [Hell Gate] damage"
+    },
+    {
+        "imgsrc": null,
+        "name": "Sura Rampage [2]",
+        "slot": "Knuckle",
+        "status": "STR ＋6, INT ＋6, ＋100% [Hell Gate] multiplier,  ＋1% [Hell Gate] damage for each refining level gained,  At refining ＋5/＋10/＋15, ＋5%/5%/10% [Hell Gate] damage when used after [Fallen Empire], [Sura Rampage] ＋ [Staunch Clothes X] ＋ [Staunch Ring IV]: ＋5% [Hell Gate] damage"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_48510.png",
+        "name": "Surprised Mask",
+        "slot": "Face",
+        "status": "Damage reduction of Demi-Human race ＋10%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43016.png",
+        "name": "Survivor's Manteau",
+        "slot": "Robe",
+        "status": "Def + 16"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43016.png",
+        "name": "Survivor's Manteau [1]",
+        "slot": "Robe",
+        "status": "Def + 16"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40606.png",
+        "name": "Survivor's Rod [1]",
+        "slot": "Staff",
+        "status": "Dex ＋3, Max HP ＋200"
     }
 ]

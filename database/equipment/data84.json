@@ -1,122 +1,122 @@
 [
     {
         "imgsrc": null,
-        "name": "Moonlight - Star Spear",
-        "slot": "Spear",
+        "name": "Marchosias' Tail",
+        "slot": "Tail",
+        "status": "Refine Atk ＋10, For Refining ＋1, Refine Atk ＋2"
+    },
+    {
+        "imgsrc": null,
+        "name": "Martin Hat",
+        "slot": "Head",
+        "status": "Def ＋3%, Max HP ＋100"
+    },
+    {
+        "imgsrc": null,
+        "name": "Martin Hat [1]",
+        "slot": "Head",
+        "status": "Def ＋3%, Max HP ＋100"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_48542.png",
+        "name": "Mask of Darkness",
+        "slot": "Face",
+        "status": "VIT ＋2, For Refining ＋1, M.Def ＋1% (upper limit of increases is 15%)"
+    },
+    {
+        "imgsrc": null,
+        "name": "Mask of the Fourth Angel",
+        "slot": "Head",
+        "status": "Atk ＋20, Shoots disruptor beam when auto attacking a target. The beam has a 100% chance to reduce the target's DMG Reduction by 5% for 5s."
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_48528.png",
+        "name": "Masquerade",
+        "slot": "Face",
+        "status": "Dmg to Demi-Human ＋8%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_48002.png",
+        "name": "Matyr Tail",
+        "slot": "Tail",
+        "status": "No effect"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_44021.png",
+        "name": "Matyr's Leash",
+        "slot": "Accessory",
+        "status": "Atk + 66"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_44021.png",
+        "name": "Matyr's Leash [1]",
+        "slot": "Accessory",
+        "status": "Atk + 66"
+    },
+    {
+        "imgsrc": null,
+        "name": "Maya Hat",
+        "slot": "Head",
+        "status": "No effect"
+    },
+    {
+        "imgsrc": null,
+        "name": "Maya Hat [1]",
+        "slot": "Head",
+        "status": "No effect"
+    },
+    {
+        "imgsrc": null,
+        "name": "Maya Sword (Maya only)",
+        "slot": "Sword",
         "status": ""
     },
     {
         "imgsrc": null,
-        "name": "Moonlight Arbiter Blue",
-        "slot": "Head",
-        "status": "M.Atk ＋20, MPen. ＋3%"
+        "name": "Medicine Pack [1]",
+        "slot": "Mace",
+        "status": ""
     },
     {
         "imgsrc": null,
-        "name": "Moonlight Arbiter Green",
-        "slot": "Head",
-        "status": "M.Atk ＋20, MPen. ＋3%"
+        "name": "Medicine Pack [2]",
+        "slot": "Mace",
+        "status": ""
     },
     {
         "imgsrc": null,
-        "name": "Moonlight Arbiter Rosy",
-        "slot": "Head",
-        "status": "M.Atk ＋20, MPen. ＋3%"
+        "name": "Melody Winder",
+        "slot": "Wing",
+        "status": "All Attributes ＋1, Atk ＋60, M.Atk ＋40"
     },
     {
         "imgsrc": null,
-        "name": "Moonlight Arbiter Yellow",
+        "name": "Melon Cat",
         "slot": "Head",
-        "status": "M.Atk ＋20, MPen. ＋3%"
+        "status": "Str ＋1, VIT ＋1, INT ＋1, Dex ＋1, Agi ＋1, Luk ＋1"
     },
     {
-        "imgsrc": null,
-        "name": "Moonlight Clothing Series",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45194.png",
+        "name": "Melting Ice Cream [1]",
+        "slot": "Head",
+        "status": "Def ＋5"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42515.png",
+        "name": "Memory Book",
+        "slot": "Shield",
+        "status": "Def + 33"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42515.png",
+        "name": "Memory Book [1]",
+        "slot": "Shield",
+        "status": "Def + 33"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42032.png",
+        "name": "Mercenary Armor",
         "slot": "Armour",
-        "status": ""
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45085.png",
-        "name": "Moonlight Flower Hat",
-        "slot": "Head",
-        "status": "When using physical skills, Caster has a 5% chance to increase Agility for 4 seconds. (Agi ＋10), When Refining reaches 10, Agi ＋20"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45085.png",
-        "name": "Moonlight Flower Hat [1]",
-        "slot": "Head",
-        "status": "When using physical skills, Caster has a 5% chance to increase Agility for 4 seconds. (Agi ＋10), When Refining reaches 10, Agi ＋20"
-    },
-    {
-        "imgsrc": null,
-        "name": "Moonlight Gentleman Top hat",
-        "slot": "Head",
-        "status": "Str ＋4, Max HP ＋500, Max SP ＋50"
-    },
-    {
-        "imgsrc": null,
-        "name": "Moonlight Gentleman·Abyssal Brown",
-        "slot": "Armour",
-        "status": ""
-    },
-    {
-        "imgsrc": null,
-        "name": "Moonlight Gentleman·Dark Red",
-        "slot": "Armour",
-        "status": ""
-    },
-    {
-        "imgsrc": null,
-        "name": "Moonlight Gentleman·Demon Purple",
-        "slot": "Armour",
-        "status": ""
-    },
-    {
-        "imgsrc": null,
-        "name": "Moonlight Gentleman·Nightmare Blue",
-        "slot": "Armour",
-        "status": ""
-    },
-    {
-        "imgsrc": null,
-        "name": "Moonlight Mage·Abyssal Brown",
-        "slot": "Head",
-        "status": "Str ＋4, Max HP ＋500, Max SP ＋50"
-    },
-    {
-        "imgsrc": null,
-        "name": "Moonlight Mage·Dark Red",
-        "slot": "Head",
-        "status": "Str ＋4, Max HP ＋500, Max SP ＋50"
-    },
-    {
-        "imgsrc": null,
-        "name": "Moonlight Mage·Demon Purple",
-        "slot": "Head",
-        "status": "Str ＋4, Max HP ＋500, Max SP ＋50"
-    },
-    {
-        "imgsrc": null,
-        "name": "Moonlight Mage·Nightmare Blue",
-        "slot": "Head",
-        "status": "Str ＋4, Max HP ＋500, Max SP ＋50"
-    },
-    {
-        "imgsrc": null,
-        "name": "Moonlight Mischief Rabbit Hat",
-        "slot": "Head",
-        "status": "INT ＋4, Max HP ＋500, Max SP ＋50"
-    },
-    {
-        "imgsrc": null,
-        "name": "Moonlight Mischief Rabbit Hat·Ice Blue",
-        "slot": "Head",
-        "status": "INT ＋4, Max HP ＋500, Max SP ＋50"
-    },
-    {
-        "imgsrc": null,
-        "name": "Moonlight Mischief Rabbit Hat·Jelly Purple",
-        "slot": "Head",
-        "status": "INT ＋4, Max HP ＋500, Max SP ＋50"
+        "status": "Def + 84"
     }
 ]

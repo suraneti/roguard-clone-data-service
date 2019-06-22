@@ -1,122 +1,122 @@
 [
     {
-        "imgsrc": null,
-        "name": "Lazy Poring [1]",
-        "slot": "Head",
-        "status": "Holy Dmg ＋3%, ＋1% healing bonus for each refining level"
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_44014.png",
+        "name": "INT Glove [1]",
+        "slot": "Accessory",
+        "status": "Atk + 42"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42024.png",
-        "name": "Leather Armor",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_44001.png",
+        "name": "INT Glove [2]",
+        "slot": "Accessory",
+        "status": "Atk + 30"
+    },
+    {
+        "imgsrc": null,
+        "name": "Ionized Jur",
+        "slot": "Katar",
+        "status": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42007.png",
+        "name": "Iron Armor",
         "slot": "Armour",
-        "status": "Def + 28"
+        "status": "Str ＋3, VIT ＋2, When equipped by Melee attackers, Atk ＋20"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42024.png",
-        "name": "Leather Armor[1]",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42007.png",
+        "name": "Iron Armor [1]",
         "slot": "Armour",
-        "status": "Def + 28"
+        "status": "Str ＋3, VIT ＋2, When equipped by Melee attackers, Atk ＋20"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45032.png",
-        "name": "Leather Goggles",
-        "slot": "Head",
-        "status": "Def ＋15"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42023.png",
-        "name": "Leather Jacket",
-        "slot": "Armour",
-        "status": "Def + 13"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42023.png",
-        "name": "Leather Jacket [1]",
-        "slot": "Armour",
-        "status": "Def + 13"
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_48527.png",
+        "name": "Iron Cain",
+        "slot": "Mouth",
+        "status": "Def ＋10"
     },
     {
         "imgsrc": null,
-        "name": "Leather of Tendrilion [2]",
-        "slot": "Robe",
-        "status": "Def + 90"
+        "name": "Iron Knuckle",
+        "slot": "Knuckle",
+        "status": "Atk + 158"
     },
     {
         "imgsrc": null,
-        "name": "Leather of Tendrilion[1]",
-        "slot": "Robe",
-        "status": "Def + 90"
+        "name": "Iron Knuckle [2]",
+        "slot": "Knuckle",
+        "status": "Atk + 158"
     },
     {
         "imgsrc": null,
-        "name": "Leaves Skirt",
-        "slot": "Wing",
-        "status": "Def ＋15, When Refining reaches ＋10 and Strength reaches 90, Atk ＋20, When Refining reaches ＋10 and Agility reaches 90, Equipment ASPD ＋5%, When Refining reaches ＋10 and Vitality reaches 90, Neutral Dmg Taken -10%, When Refining reaches ＋10 and Intelligence reaches 90, M.Atk ＋20, When Refining reaches ＋10 and Dexterity reaches 90, Ranged Damage ＋5%, When Refining reaches ＋10 and Luck reaches 90, Crit.Dmg ＋5%"
+        "name": "Ivory Knife [1]",
+        "slot": "Knife",
+        "status": "Luk ＋4, Dex ＋4, the basic trigger probability of [Strip Accessory] and [Strip Shield] ＋3%"
     },
     {
         "imgsrc": null,
-        "name": "Legion Plate Armor",
-        "slot": "Armour",
-        "status": "VIT ＋6, Max HP ＋15%, When Refining ＋5, ＋10, ＋15, Crit.Dmg Taken -5%, -10%, -15% respectively"
+        "name": "Ivory Knife [2]",
+        "slot": "Knife",
+        "status": "Luk ＋4, Dex ＋4, the basic trigger probability of [Strip Accessory] and [Strip Shield] ＋3%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40007.png",
+        "name": "Ivory Lance [1]",
+        "slot": "Spear",
+        "status": "Attacks ignore the enemy's physical defense (invalid to BOSS monster), Damage to natural monsters ＋25%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40007.png",
+        "name": "Ivory Lance [2]",
+        "slot": "Spear",
+        "status": "Attacks ignore the enemy's physical defense (invalid to BOSS monster), Damage to natural monsters ＋25%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41201.png",
+        "name": "Ixion Wings [2]",
+        "slot": "Bow",
+        "status": "Atk + 180"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41201.png",
+        "name": "Ixion Wings [3]",
+        "slot": "Bow",
+        "status": "Atk + 180"
     },
     {
         "imgsrc": null,
-        "name": "Legion Plate Armor [1]",
-        "slot": "Armour",
-        "status": "VIT ＋6, Max HP ＋15%, When Refining ＋5, ＋10, ＋15, Crit.Dmg Taken -5%, -10%, -15% respectively"
-    },
-    {
-        "imgsrc": null,
-        "name": "Legionnaire Hat",
-        "slot": "Head",
-        "status": "Dex ＋3, AGI ＋3"
-    },
-    {
-        "imgsrc": null,
-        "name": "Legionnaire Hat [1]",
-        "slot": "Head",
-        "status": "Atk ＋30"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45112.png",
-        "name": "Lemegeton Ears",
-        "slot": "Head",
-        "status": "Def ＋15"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45112.png",
-        "name": "Lemegeton Ears [1]",
-        "slot": "Head",
-        "status": "Def ＋15"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_48008.png",
-        "name": "Lemegeton Tail",
-        "slot": "Tail",
-        "status": "Def ＋15"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_48547.png",
-        "name": "Lemegeton's Eyes",
+        "name": "Jack-O-Lantern",
         "slot": "Face",
-        "status": "Def ＋10"
+        "status": "Max HP ＋200, Def ＋5, M.Def ＋5"
     },
     {
         "imgsrc": null,
-        "name": "Leo Crown",
+        "name": "Japanese style Headwear",
         "slot": "Head",
-        "status": "Dex ＋1"
+        "status": "Max HP ＋100"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45018.png",
+        "name": "Jellyfish head",
+        "slot": "Head",
+        "status": "M.Def ＋10"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45018.png",
+        "name": "Jellyfish head [1]",
+        "slot": "Head",
+        "status": "M.Def ＋10"
     },
     {
         "imgsrc": null,
-        "name": "Leo Crown [1]",
-        "slot": "Head",
-        "status": "Dex ＋1"
+        "name": "Jet Engine [1]",
+        "slot": "Trolley",
+        "status": "Def + 112"
     },
     {
         "imgsrc": null,
-        "name": "Leo Diadem",
-        "slot": "Head",
-        "status": "Def ＋10"
+        "name": "Jet Engine [2]",
+        "slot": "Trolley",
+        "status": "Def + 112"
     }
 ]

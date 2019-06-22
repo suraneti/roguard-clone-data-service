@@ -1,122 +1,122 @@
 [
     {
         "imgsrc": null,
-        "name": "Orb Doll Hat",
-        "slot": "Head",
-        "status": "Base EXP of killing monsters ＋4%, Job EXP of killing monsters ＋4%"
-    },
-    {
-        "imgsrc": null,
-        "name": "Orb Doll Hat [1]",
-        "slot": "Head",
-        "status": "Base EXP of killing monsters ＋4%, Job EXP of killing monsters ＋4%"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45049.png",
-        "name": "Orc Helm",
-        "slot": "Head",
-        "status": "Def ＋15"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45049.png",
-        "name": "Orc Helm [1]",
-        "slot": "Head",
-        "status": "Def ＋15"
-    },
-    {
-        "imgsrc": null,
-        "name": "Orc Hero's Mask",
-        "slot": "Face",
+        "name": "Moonlight - Meteor Gloves",
+        "slot": "Knuckle",
         "status": ""
     },
     {
         "imgsrc": null,
-        "name": "Orc Hero's Shield",
-        "slot": "Sword",
-        "status": ""
-    },
-    {
-        "imgsrc": null,
-        "name": "Orc Hero's Weapon",
+        "name": "Moonlight - Radiance Dagger",
         "slot": "Knife",
         "status": ""
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45095.png",
-        "name": "Orc Lord Helm",
-        "slot": "Head",
-        "status": "Def ＋15"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45095.png",
-        "name": "Orc Lord Helm [1]",
-        "slot": "Head",
-        "status": "Def ＋15"
+        "imgsrc": null,
+        "name": "Moonlight - Shadow Hammer",
+        "slot": "Mace",
+        "status": ""
     },
     {
         "imgsrc": null,
-        "name": "Orc Shield",
+        "name": "Moonlight - Silver Sword",
         "slot": "Sword",
         "status": ""
     },
     {
         "imgsrc": null,
-        "name": "Orchid Hairband",
-        "slot": "Head",
-        "status": "Dex ＋3, AGI ＋3"
-    },
-    {
-        "imgsrc": null,
-        "name": "Orchid Hairband [1]",
-        "slot": "Head",
-        "status": "Dex ＋3, AGI ＋3"
-    },
-    {
-        "imgsrc": null,
-        "name": "Orcish Axe",
-        "slot": "Sword",
+        "name": "Moonlight - Star Spear",
+        "slot": "Spear",
         "status": ""
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41807.png",
-        "name": "Orcish Axe [1]",
-        "slot": "Axe",
-        "status": "Agi ＋5, auto attack has a 5% chance to release [Cart Revolution] of the same level if it has been learned, otherwise [Cart Revolution] lv.1 will be released"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41807.png",
-        "name": "Orcish Axe [2]",
-        "slot": "Axe",
-        "status": "Agi ＋5, auto attack has a 5% chance to release [Cart Revolution] of the same level if it has been learned, otherwise [Cart Revolution] lv.1 will be released"
+        "imgsrc": null,
+        "name": "Moonlight Arbiter Blue",
+        "slot": "Head",
+        "status": "M.Atk ＋20, MPen. ＋3%"
     },
     {
         "imgsrc": null,
-        "name": "Original Will·Poring Balloon",
-        "slot": "Wing",
-        "status": "Dex ＋3, Luk ＋3, Neutral Dmg Taken -5%"
+        "name": "Moonlight Arbiter Green",
+        "slot": "Head",
+        "status": "M.Atk ＋20, MPen. ＋3%"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_44004.png",
-        "name": "Orleans Necklace",
-        "slot": "Accessory",
-        "status": "Dex ＋3, M.Atk ＋30"
+        "imgsrc": null,
+        "name": "Moonlight Arbiter Rosy",
+        "slot": "Head",
+        "status": "M.Atk ＋20, MPen. ＋3%"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_44004.png",
-        "name": "Orleans Necklace [1]",
-        "slot": "Accessory",
-        "status": "Dex ＋3, M.Atk ＋30"
+        "imgsrc": null,
+        "name": "Moonlight Arbiter Yellow",
+        "slot": "Head",
+        "status": "M.Atk ＋20, MPen. ＋3%"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_44005.png",
-        "name": "Orleans's Gloves",
-        "slot": "Accessory",
-        "status": "Dex ＋2, M.Atk ＋10%"
+        "imgsrc": null,
+        "name": "Moonlight Clothing Series",
+        "slot": "Armour",
+        "status": ""
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_44005.png",
-        "name": "Orleans's Gloves [1]",
-        "slot": "Accessory",
-        "status": "Dex ＋2, M.Atk ＋10%"
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45085.png",
+        "name": "Moonlight Flower Hat",
+        "slot": "Head",
+        "status": "When using physical skills, Caster has a 5% chance to increase Agility for 4 seconds. (Agi ＋10), When Refining 10, Agi ＋20"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45085.png",
+        "name": "Moonlight Flower Hat [1]",
+        "slot": "Head",
+        "status": "When using physical skills, Caster has a 5% chance to increase Agility for 4 seconds. (Agi ＋10), When Refining 10, Agi ＋20"
+    },
+    {
+        "imgsrc": null,
+        "name": "Moonlight Gentleman Top hat",
+        "slot": "Head",
+        "status": "Str ＋4, Max HP ＋500, Max SP ＋50"
+    },
+    {
+        "imgsrc": null,
+        "name": "Moonlight Gentleman·Abyssal Brown",
+        "slot": "Armour",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Moonlight Gentleman·Dark Red",
+        "slot": "Armour",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Moonlight Gentleman·Demon Purple",
+        "slot": "Armour",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Moonlight Gentleman·Nightmare Blue",
+        "slot": "Armour",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Moonlight Headwear",
+        "slot": "Head",
+        "status": "M.Atk ＋20, MPen. ＋3%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Moonlight Mage·Abyssal Brown",
+        "slot": "Head",
+        "status": "Str ＋4, Max HP ＋500, Max SP ＋50"
+    },
+    {
+        "imgsrc": null,
+        "name": "Moonlight Mage·Dark Red",
+        "slot": "Head",
+        "status": "Str ＋4, Max HP ＋500, Max SP ＋50"
     }
 ]

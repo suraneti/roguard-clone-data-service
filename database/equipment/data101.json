@@ -1,122 +1,122 @@
 [
     {
         "imgsrc": null,
-        "name": "Red Square Bag [2]",
-        "slot": "Mace",
-        "status": ""
-    },
-    {
-        "imgsrc": null,
-        "name": "Red Square Bag [3]",
-        "slot": "Mace",
-        "status": "Atk + 180"
-    },
-    {
-        "imgsrc": null,
-        "name": "Red-Bristled Gryphon",
-        "slot": "Mount",
-        "status": "Move Spd ＋25%"
-    },
-    {
-        "imgsrc": null,
-        "name": "Reindeer Beanie",
-        "slot": "Head",
-        "status": "MAX HP ＋100, HP Regen ＋3"
-    },
-    {
-        "imgsrc": null,
-        "name": "Reindeer Beanie [1]",
+        "name": "Pinafore",
         "slot": "Head",
         "status": "Dex ＋3, AGI ＋3"
     },
     {
         "imgsrc": null,
-        "name": "Reindeer Umbrella",
+        "name": "Pinafore [1]",
         "slot": "Head",
-        "status": "Def ＋5, Max HP ＋100"
+        "status": "Dex ＋3, AGI ＋3"
     },
     {
         "imgsrc": null,
-        "name": "Reindeer Umbrella [1]",
+        "name": "Pinocchio's Nose",
+        "slot": "Face",
+        "status": "Dmg to Demi-Human ＋5%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_48520.png",
+        "name": "Pipe",
+        "slot": "Mouth",
+        "status": "Str ＋3, Damage reduction of Insect race ＋10%, When Refining ＋10, Max HP ＋10%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45014.png",
+        "name": "Pirate Bandana",
         "slot": "Head",
-        "status": "Def ＋5, Max HP ＋100"
+        "status": "Def ＋5, Str ＋2"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40615.png",
-        "name": "Release of Wish [1]",
-        "slot": "Staff",
-        "status": "INT ＋2, When casting magic skill to lock a single target, There is a 10% chance to restore 5% HP and 5% SP"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40615.png",
-        "name": "Release of Wish [2]",
-        "slot": "Staff",
-        "status": "INT ＋2, When casting magic skill to lock a single target, There is a 10% chance to restore 5% HP and 5% SP"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45116.png",
-        "name": "Renown Detective's Cap",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45014.png",
+        "name": "Pirate Bandana [1]",
         "slot": "Head",
-        "status": "Def ＋15"
+        "status": "Def ＋5, Str ＋2"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45116.png",
-        "name": "Renown Detective's Cap [1]",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45189.png",
+        "name": "Pirate Flag",
         "slot": "Head",
-        "status": "Def ＋15"
+        "status": "No effect"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_62002.png",
-        "name": "Repair Kit [1]",
-        "slot": "Trolley",
-        "status": "Def + 112"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_62002.png",
-        "name": "Repair Kit [2]",
-        "slot": "Trolley",
-        "status": "Def + 112"
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45189.png",
+        "name": "Pirate Flag [1]",
+        "slot": "Head",
+        "status": "No effect"
     },
     {
         "imgsrc": null,
-        "name": "Rescuer Shoes",
-        "slot": "Shoes",
-        "status": "Move Spd ＋5%, VIT ＋4, Effects of [HP Potion Cast] and [MP Potion Cast] ＋20%"
+        "name": "Pirate Skeleton (Pirate Skeleton only)",
+        "slot": "Sword",
+        "status": ""
     },
     {
         "imgsrc": null,
-        "name": "Rescuer Shoes [1]",
-        "slot": "Shoes",
-        "status": "Move Spd ＋5%, VIT ＋4, Effects of [HP Potion Cast] and [MP Potion Cast] ＋20%"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45006.png",
-        "name": "Ribbon",
+        "name": "Pisces Crown",
         "slot": "Head",
-        "status": "Def ＋5, M.Def ＋5"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45006.png",
-        "name": "Ribbon [1]",
-        "slot": "Head",
-        "status": "Def ＋5, M.Def ＋5"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_43006.png",
-        "name": "Rider Insignia",
-        "slot": "Robe",
-        "status": "Def + 28"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_43006.png",
-        "name": "Rider Insignia [1]",
-        "slot": "Robe",
-        "status": "Def + 28"
+        "status": "INT ＋1"
     },
     {
         "imgsrc": null,
-        "name": "Rilada Green Petite",
-        "slot": "Mount",
-        "status": "Move Spd ＋25%"
+        "name": "Pisces Crown [1]",
+        "slot": "Head",
+        "status": "No effect"
+    },
+    {
+        "imgsrc": null,
+        "name": "Pisces Diadem",
+        "slot": "Head",
+        "status": "Dex ＋3, AGI ＋3"
+    },
+    {
+        "imgsrc": null,
+        "name": "Pisces Diadem [1]",
+        "slot": "Head",
+        "status": "INT ＋3"
+    },
+    {
+        "imgsrc": null,
+        "name": "Pixie Ear",
+        "slot": "Face",
+        "status": "MAX HP＋200, Damage to wind monsters＋3%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Platinum Shield [1]",
+        "slot": "Shield",
+        "status": "Def + 37"
+    },
+    {
+        "imgsrc": null,
+        "name": "Platinum Shield [2]",
+        "slot": "Shield",
+        "status": "Def + 37"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40301.png",
+        "name": "Platinum Shotel [2]",
+        "slot": "Sword",
+        "status": "Atk + 180"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40301.png",
+        "name": "Platinum Shotel [3]",
+        "slot": "Sword",
+        "status": "Atk + 180"
+    },
+    {
+        "imgsrc": null,
+        "name": "Poet's Hat",
+        "slot": "Head",
+        "status": "Atk ＋5000, M.Atk ＋5000, Def ＋100000, M.Def ＋100000, Max HP ＋1000000, Max SP ＋100000, Hit ＋200, Flee ＋200, Cri ＋50, Life Steal ＋100%, CT Variable Reduction ＋100%, HP Regen ＋100%, SP Regen ＋100%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45188.png",
+        "name": "Pointer Headwear",
+        "slot": "Head",
+        "status": "Def ＋10"
     }
 ]

@@ -1,122 +1,122 @@
 [
     {
         "imgsrc": null,
-        "name": "Madogear",
-        "slot": "Mount",
-        "status": ""
+        "name": "Leather of Tendrilion[1]",
+        "slot": "Robe",
+        "status": "Def + 90"
     },
     {
         "imgsrc": null,
-        "name": "Magatama hair band",
-        "slot": "Head",
-        "status": "Max HP ＋100"
+        "name": "Leaves Skirt",
+        "slot": "Wing",
+        "status": "Def ＋15, When Refining ＋10 and Strength reaches 90, Atk ＋20, When Refining ＋10 and Agility reaches 90, Attack Spd ＋5%, When Refining ＋10 and Vitality reaches 90, Neutral Dmg Taken -10%, When Refining ＋10 and Intelligence reaches 90, M.Atk ＋20, When Refining ＋10 and Dexterity reaches 90, Ranged Damage ＋5%, When Refining ＋10 and Luck reaches 90, Crit.Dmg ＋5%"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/74.png",
-        "name": "Mage Camera",
-        "slot": "Book",
-        "status": ""
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42017.png",
-        "name": "Mage Coat",
+        "imgsrc": null,
+        "name": "Legion Plate Armor",
         "slot": "Armour",
-        "status": "INT ＋2, M.Atk ＋3%"
+        "status": "VIT ＋6, Max HP ＋15%, When Refining ＋5, ＋10, ＋15, Crit.Dmg Taken -5%, -10%, -15% respectively"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42017.png",
-        "name": "Mage Coat [1]",
+        "imgsrc": null,
+        "name": "Legion Plate Armor [1]",
         "slot": "Armour",
-        "status": "INT ＋2, M.Atk ＋3%"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45063.png",
-        "name": "Mage Hat",
-        "slot": "Head",
-        "status": "Def ＋10, Dex ＋1, Agi ＋1, Max SP ＋50"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45172.png",
-        "name": "Mage Hat",
-        "slot": "Head",
-        "status": "Def ＋5, INT ＋2, Max SP ＋150"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45063.png",
-        "name": "Mage Hat [1]",
-        "slot": "Head",
-        "status": "Def ＋10, Dex ＋1, Agi ＋1, Max SP ＋50"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45172.png",
-        "name": "Mage Hat [1]",
-        "slot": "Head",
-        "status": "Def ＋5, INT ＋2, Max SP ＋150"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42519.png",
-        "name": "Magic Bible Vol1",
-        "slot": "Shield",
-        "status": "Def + 28"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42519.png",
-        "name": "Magic Bible Vol1 [1]",
-        "slot": "Shield",
-        "status": "Def + 28"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45067.png",
-        "name": "Magic Eyes",
-        "slot": "Head",
-        "status": "Def ＋5, M.Def ＋5, CT Variable -10%, SP cost of skill use ＋20%"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45067.png",
-        "name": "Magic Eyes [1]",
-        "slot": "Head",
-        "status": "Def ＋5, M.Def ＋5, CT Variable -10%, SP cost of skill use ＋20%"
+        "status": "VIT ＋6, Max HP ＋15%, When Refining ＋5, ＋10, ＋15, Crit.Dmg Taken -5%, -10%, -15% respectively"
     },
     {
         "imgsrc": null,
-        "name": "Magic Firewood",
-        "slot": "Mouth",
-        "status": "auto attacks or launching skills has a 10% chance to set target into burning state"
+        "name": "Legionnaire Hat",
+        "slot": "Head",
+        "status": "Dex ＋3, AGI ＋3"
     },
     {
         "imgsrc": null,
-        "name": "Magic Moon Hat·Christmas Red",
+        "name": "Legionnaire Hat [1]",
         "slot": "Head",
-        "status": "All Attributes ＋1, Max HP ＋350"
+        "status": "Atk ＋30"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45112.png",
+        "name": "Lemegeton Ears",
+        "slot": "Head",
+        "status": "Def ＋15"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45112.png",
+        "name": "Lemegeton Ears [1]",
+        "slot": "Head",
+        "status": "Def ＋15"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_48008.png",
+        "name": "Lemegeton Tail",
+        "slot": "Tail",
+        "status": "Def ＋15"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_48547.png",
+        "name": "Lemegeton's Eyes",
+        "slot": "Face",
+        "status": "Def ＋10"
     },
     {
         "imgsrc": null,
-        "name": "Magic Moon Hat·Crystal Purple",
+        "name": "Leo Crown",
         "slot": "Head",
-        "status": "All Attributes ＋1, Max HP ＋350"
+        "status": "Dex ＋1"
     },
     {
         "imgsrc": null,
-        "name": "Magic Moon Hat·Demon Purple",
+        "name": "Leo Crown [1]",
         "slot": "Head",
-        "status": "All Attributes ＋1, Max HP ＋350"
+        "status": "Dex ＋1"
     },
     {
         "imgsrc": null,
-        "name": "Magic Moon Hat·Sharp Black",
+        "name": "Leo Diadem",
         "slot": "Head",
-        "status": "All Attributes ＋1, Max HP ＋350"
+        "status": "Def ＋10"
     },
     {
         "imgsrc": null,
-        "name": "Magic Moon Hat·Starfish Yellow",
+        "name": "Leo Diadem [1]",
         "slot": "Head",
-        "status": "All Attributes ＋1, Max HP ＋350"
+        "status": "Dex ＋3"
     },
     {
         "imgsrc": null,
-        "name": "Magic Moon Hat·Sugar Brown",
+        "name": "Libra Crown",
         "slot": "Head",
-        "status": "All Attributes ＋1, Max HP ＋350"
+        "status": "Attack Spd ＋1%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Libra Crown [1]",
+        "slot": "Head",
+        "status": "No effect"
+    },
+    {
+        "imgsrc": null,
+        "name": "Libra Diadem",
+        "slot": "Head",
+        "status": "Dex ＋3, AGI ＋3"
+    },
+    {
+        "imgsrc": null,
+        "name": "Libra Diadem [1]",
+        "slot": "Head",
+        "status": "Agi ＋2, Luk ＋1"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40610.png",
+        "name": "Lich Staff [1]",
+        "slot": "Staff",
+        "status": "Dex ＋5, CT Variable -20%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40610.png",
+        "name": "Lich Staff [2]",
+        "slot": "Staff",
+        "status": "Dex ＋5, CT Variable -20%"
     }
 ]

@@ -1,122 +1,122 @@
 [
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40301.png",
-        "name": "Tirfing [3]",
-        "slot": "Sword",
-        "status": "Atk + 180"
-    },
-    {
         "imgsrc": null,
-        "name": "Tomahawk [1]",
-        "slot": "Axe",
-        "status": "Atk + 180"
-    },
-    {
-        "imgsrc": null,
-        "name": "Tomahawk [2]",
-        "slot": "Axe",
-        "status": "Atk + 180"
-    },
-    {
-        "imgsrc": null,
-        "name": "Tooth Blade [1]",
-        "slot": "Knife",
-        "status": "Str ＋8, Max HP ＋1000, For Refining ＋10, ＋15, the damage of [Back Stab] to human-like monsters ＋5, ＋10% respectively"
-    },
-    {
-        "imgsrc": null,
-        "name": "Tooth Blade [2]",
-        "slot": "Knife",
-        "status": "Str ＋8, Max HP ＋1000, For Refining ＋10, ＋15, the damage of [Back Stab] to human-like monsters ＋5, ＋10% respectively"
-    },
-    {
-        "imgsrc": null,
-        "name": "Toy Nail",
+        "name": "Star Singer·Melody",
         "slot": "Head",
-        "status": "Dex ＋3, AGI ＋3"
+        "status": "Ignore Def ＋2%, Physical penetration ＋2%, Str ＋2"
     },
     {
         "imgsrc": null,
-        "name": "Toy Nail [1]",
+        "name": "Star Singer·String",
         "slot": "Head",
-        "status": "Str ＋5, Max HP ＋400"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_61003.png",
-        "name": "Tracker Gloves [1]",
-        "slot": "Bracer",
-        "status": "Def + 67"
+        "status": "Ignore Def ＋2%, Physical penetration ＋2%, Str ＋2"
     },
     {
         "imgsrc": null,
-        "name": "Tracker Gloves [2]",
-        "slot": "Bracer",
-        "status": "Def + 67"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45017.png",
-        "name": "Transparent Head Protector",
+        "name": "Star White Crown",
         "slot": "Head",
-        "status": "No effect"
+        "status": "All Attributes ＋2, Pen. ＋4%, MPen. ＋4%"
     },
     {
         "imgsrc": null,
-        "name": "Transparent Head Protector",
+        "name": "Stardust Robe",
+        "slot": "Armour",
+        "status": "Dex ＋4, Max SP ＋240"
+    },
+    {
+        "imgsrc": null,
+        "name": "Stardust Robe [1]",
+        "slot": "Armour",
+        "status": "Dex ＋4, Max SP ＋240"
+    },
+    {
+        "imgsrc": null,
+        "name": "Stardust Rose",
+        "slot": "Mouth",
+        "status": "Max HP Attack +100, Atk +10"
+    },
+    {
+        "imgsrc": null,
+        "name": "Starlight",
+        "slot": "Face",
+        "status": "Max HP ＋200"
+    },
+    {
+        "imgsrc": null,
+        "name": "Starlight Ship",
         "slot": "Head",
-        "status": ""
+        "status": "Neutral Dmg ＋8%, Damage to middle-size monster ＋5%, Max HP ＋1000"
     },
     {
         "imgsrc": null,
-        "name": "Transparent Head Protector",
-        "slot": "mouth",
-        "status": ""
-    },
-    {
-        "imgsrc": null,
-        "name": "Transparent Head Protector [1]",
+        "name": "Starlight Ship [1]",
         "slot": "Head",
-        "status": "Dex ＋3, AGI ＋3"
+        "status": "Neutral Dmg ＋8%, Damage to middle-size monster ＋5%, Max HP ＋1000"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42524.png",
+        "name": "Static Shield",
+        "slot": "Shield",
+        "status": "Def + 51"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42524.png",
+        "name": "Static Shield [1]",
+        "slot": "Shield",
+        "status": "Def + 51"
     },
     {
         "imgsrc": null,
-        "name": "Transparent Wing Drawing",
-        "slot": "Wing",
-        "status": "Max HP ＋300, Atk ＋60, M.Atk ＋40"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_25107.png",
-        "name": "Travelling Peco Peco",
-        "slot": "Mount",
-        "status": "Move Spd ＋50%"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_25107.png",
-        "name": "Travelling Peco Peco",
-        "slot": "Mount",
-        "status": "Move Spd ＋50%"
+        "name": "Statue of Archangel",
+        "slot": "Eikon",
+        "status": "M.Def ＋25, Max HP ＋300, When equipped by Acolyte or Wizards, it brings 1 point of M.Atk for every 10 points of M.Def., [Silver Robe] ＋ [Statue of Archangel IV]: M.Atk ＋12%"
     },
     {
         "imgsrc": null,
-        "name": "Tree Crown",
-        "slot": "Head",
-        "status": ""
+        "name": "Statue of Archangel [1]",
+        "slot": "Eikon",
+        "status": "M.Def ＋25, Max HP ＋300, When equipped by Acolyte or Wizards, it brings 1 point of M.Atk for every 10 points of M.Def., [Silver Robe] ＋ [Statue of Archangel IV]: M.Atk ＋12%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_60502.png",
+        "name": "Statue of Baby Angel [1]",
+        "slot": "Eikon",
+        "status": "Def + 45"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_60502.png",
+        "name": "Statue of Baby Angel [2]",
+        "slot": "Eikon",
+        "status": "Def + 45"
     },
     {
         "imgsrc": null,
-        "name": "Trick or treat",
-        "slot": "Wing",
-        "status": "When caster uses skills (not auto attack), there is a 50% chance to increase M.Atk by 20 points; the effect lasts 15 seconds, and can stack up 5 times."
+        "name": "Statue of Enyo [1]",
+        "slot": "Eikon",
+        "status": "Def + 112"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40004.png",
-        "name": "Trident",
-        "slot": "Spear",
-        "status": "Atk + 247"
+        "imgsrc": null,
+        "name": "Statue of Enyo [2]",
+        "slot": "Eikon",
+        "status": "Def + 112"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40004.png",
-        "name": "Trident [3]",
-        "slot": "Spear",
-        "status": "Atk + 247"
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_60503.png",
+        "name": "Statue of Guardian Angel",
+        "slot": "Eikon",
+        "status": "M.Def ＋15, Max HP ＋100"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_60503.png",
+        "name": "Statue of Guardian Angel [1]",
+        "slot": "Eikon",
+        "status": "M.Def ＋15, Max HP ＋100"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_60505.png",
+        "name": "Statue of Judgement",
+        "slot": "Eikon",
+        "status": "Def ＋5, SP Regen ＋5%"
     }
 ]

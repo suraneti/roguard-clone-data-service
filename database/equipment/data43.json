@@ -1,122 +1,122 @@
 [
     {
-        "imgsrc": null,
-        "name": "Fire Knife [2]",
-        "slot": "Knife",
-        "status": "Fire, Str ＋5, For Refining ＋1, Dmg ＋1%"
-    },
-    {
-        "imgsrc": null,
-        "name": "Fire Tail",
-        "slot": "Tail",
-        "status": ""
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40301.png",
-        "name": "Fireblend [2]",
-        "slot": "Sword",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41504.png",
+        "name": "Eraser [3]",
+        "slot": "Mace",
         "status": "Atk + 180"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40301.png",
-        "name": "Fireblend [3]",
-        "slot": "Sword",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41504.png",
+        "name": "Erde Mace [2]",
+        "slot": "Mace",
+        "status": "Atk + 180"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41504.png",
+        "name": "Erde Mace [3]",
+        "slot": "Mace",
         "status": "Atk + 180"
     },
     {
         "imgsrc": null,
-        "name": "Firmament Horn Headwear male",
+        "name": "Eternal Love",
+        "slot": "Accessory",
+        "status": "MaxHp + 1314"
+    },
+    {
+        "imgsrc": null,
+        "name": "Eternal Spear",
+        "slot": "Spear",
+        "status": "Str ＋18, Agi ＋12, All Attributes ＋8, Attack Spd ＋10%, Dmg ＋12%, Ignore Def ＋15%, Demi-Human Race Damage ＋30%, Max HP ＋17000"
+    },
+    {
+        "imgsrc": null,
+        "name": "Eternal Spear 2 [2]",
+        "slot": "Spear",
+        "status": "Str ＋18, Agi ＋12, All Attributes ＋14, Attack Spd ＋10%, Dmg ＋15%, Ignore Def ＋25%, Demi-Human Race Damage ＋40%, Max HP ＋25000, Dmg Reduc. ＋5%, Magic Reduc. ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Eternal Spear 3 [2]",
+        "slot": "Spear",
+        "status": "Str ＋18, Agi ＋12, All Attributes ＋20, Attack Spd ＋10%, Dmg ＋18%, Ignore Def ＋35%, Demi-Human Race Damage ＋50%, Max HP ＋33000, Dmg Reduc. ＋10%, Magic Reduc. ＋10%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Eternal Spear [2]",
+        "slot": "Spear",
+        "status": "Str ＋18, Agi ＋12, All Attributes ＋8, Attack Spd ＋10%, Dmg ＋12%, Ignore Def ＋15%, Demi-Human Race Damage ＋30%, Max HP ＋17000"
+    },
+    {
+        "imgsrc": null,
+        "name": "EVA headwear female",
         "slot": "Head",
+        "status": "M.Atk +20, M.Atk +4%"
+    },
+    {
+        "imgsrc": null,
+        "name": "EVA headwear male",
+        "slot": "Head",
+        "status": "Atk +20, Atk +4%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Eva Plugsuit Series",
+        "slot": "Armour",
         "status": ""
     },
     {
         "imgsrc": null,
-        "name": "Firmament Horn[1]",
+        "name": "Evangelion Unit-01",
+        "slot": "Armour",
+        "status": "Unit bulk up"
+    },
+    {
+        "imgsrc": null,
+        "name": "Evangelion Unit-02",
+        "slot": "Armour",
+        "status": "Unit bulk up"
+    },
+    {
+        "imgsrc": null,
+        "name": "Evil Beret",
         "slot": "Head",
-        "status": "Overall Ability ＋2, Critical ＋5, Crit.DMG ＋8%"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_48507.png",
-        "name": "Fish In Mouth",
-        "slot": "Mouth",
-        "status": "When killing fish monsters, Characters will restore a certain amount of HP, the value is related to character's level."
+        "status": "Max Sp ＋50, Max Hp＋50, Hp Regen ＋5, Sp Regen ＋5"
     },
     {
         "imgsrc": null,
-        "name": "Fist [1]",
-        "slot": "Knuckle",
-        "status": "Int ＋5, Damage of [Triple Attack] ＋10%, damage of [Chain Combo] ＋10%, damage of [Combo Finish] ＋15%, [Fist IV] ＋[Noble Bracer IV]: the probability of each auto attack bringing spirit bomb increases to 60%"
-    },
-    {
-        "imgsrc": null,
-        "name": "Fist [2]",
-        "slot": "Knuckle",
-        "status": "Int ＋5, Damage of [Triple Attack] ＋10%, damage of [Chain Combo] ＋10%, damage of [Combo Finish] ＋15%, [Fist IV] ＋[Noble Bracer IV]: the probability of each auto attack bringing spirit bomb increases to 60%"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40310.png",
-        "name": "Flamberge [1]",
-        "slot": "Sword",
-        "status": "Equipment ASPD ＋5%, Flee ＋30, [Flamberge X] ＋ [Advanced Sack Teddy Shoes IV] ＋ [Undershirt VIII] ＋ [Beast Heart VIII]: ＋3% Atk, ＋3% Crit.Dmg, ＋5% Atk SPD, ＋10% Max HP, The wearer's Def and MDef will decrease by 2/3"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40310.png",
-        "name": "Flamberge [2]",
-        "slot": "Sword",
-        "status": "Equipment ASPD ＋5%, Flee ＋30, [Flamberge X] ＋ [Advanced Sack Teddy Shoes IV] ＋ [Undershirt VIII] ＋ [Beast Heart VIII]: ＋3% Atk, ＋3% Crit.Dmg, ＋5% Atk SPD, ＋10% Max HP, The wearer's Def and MDef will decrease by 2/3"
-    },
-    {
-        "imgsrc": null,
-        "name": "Flame Light",
-        "slot": "Sword",
-        "status": ""
-    },
-    {
-        "imgsrc": null,
-        "name": "Flame Lips",
-        "slot": "Mouth",
-        "status": "auto attack has a chance to proportionally convert the damage into HP"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_44027.png",
-        "name": "Flame Ring",
-        "slot": "Accessory",
-        "status": "INT ＋5, Fire Dmg ＋10%"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_44027.png",
-        "name": "Flame Ring [1]",
-        "slot": "Accessory",
-        "status": "INT ＋5, Fire Dmg ＋10%"
-    },
-    {
-        "imgsrc": null,
-        "name": "Flame Thrower [1]",
-        "slot": "Trolley",
-        "status": "Def + 112"
-    },
-    {
-        "imgsrc": null,
-        "name": "Flame Thrower [2]",
-        "slot": "Trolley",
-        "status": "Def + 112"
-    },
-    {
-        "imgsrc": null,
-        "name": "Flame Wing",
-        "slot": "Wing",
-        "status": "No effect"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_47004.png",
-        "name": "Flapping Angel Wing",
-        "slot": "Wing",
-        "status": "No effect"
-    },
-    {
-        "imgsrc": null,
-        "name": "Flare Hat I",
+        "name": "Evil Black Hat",
         "slot": "Head",
-        "status": "Max HP ＋3000, Def ＋5%, MDef ＋5%, Crit Res＋8, Dmg Reduc. ＋2.5%, Magic Reduc. ＋2.5%, Poison, Holy, Dark, Ghost, Neutral, Fire, Water, Earth and Wind damage taken -5%"
+        "status": "Max HP ＋100"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40609.png",
+        "name": "Evil Bone Wand [2]",
+        "slot": "Staff",
+        "status": "M.Atk + 180"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40609.png",
+        "name": "Evil Bone Wand [3]",
+        "slot": "Staff",
+        "status": "M.Atk + 180"
+    },
+    {
+        "imgsrc": null,
+        "name": "Evil Bracer",
+        "slot": "Bracer",
+        "status": "Flee ＋5, Max HP ＋600, Max SP ＋150, When casting a single target skill, the next physical attack skill has a chance to deal 100% extra damage"
+    },
+    {
+        "imgsrc": null,
+        "name": "Evil Bracer [1]",
+        "slot": "Bracer",
+        "status": "Flee ＋5, Max HP ＋600, Max SP ＋150, When casting a single target skill, the next physical attack skill has a chance to deal 100% extra damage"
+    },
+    {
+        "imgsrc": null,
+        "name": "Evil Eye",
+        "slot": "Face",
+        "status": "Max HP ＋800, Ignore M.Def ＋10%"
     }
 ]

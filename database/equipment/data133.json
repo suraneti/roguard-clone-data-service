@@ -1,122 +1,122 @@
 [
     {
-        "imgsrc": null,
-        "name": "Wagtail Crest [1]",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45061.png",
+        "name": "Succubus Horn [1]",
         "slot": "Head",
-        "status": "Overall Ability ＋1,  Neutral Dmg ＋5%"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40605.png",
-        "name": "Wand",
-        "slot": "Staff",
-        "status": "M.Atk + 54"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41504.png",
-        "name": "Wand of Affection [2]",
-        "slot": "Mace",
-        "status": "Atk + 180"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41504.png",
-        "name": "Wand of Affection [3]",
-        "slot": "Mace",
-        "status": "Atk + 180"
+        "status": "Def ＋5, INT ＋1, M.Def ＋10"
     },
     {
         "imgsrc": null,
-        "name": "Wand of Occult [1]",
-        "slot": "Staff",
-        "status": "M.Atk + 315"
-    },
-    {
-        "imgsrc": null,
-        "name": "Wand of Occult [2]",
-        "slot": "Staff",
-        "status": "M.Atk + 315"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40605.png",
-        "name": "Wand [2]",
-        "slot": "Staff",
-        "status": "M.Atk + 54"
-    },
-    {
-        "imgsrc": null,
-        "name": "Wandering Minstrel Hat",
-        "slot": "Wing",
-        "status": "Str ＋5, Dmg to Demi-Human race ＋5%, When Katar is equipped, Atk ＋4%, For Refining ＋1, Damage of [Sonic Blow] ＋1%"
-    },
-    {
-        "imgsrc": null,
-        "name": "Wandering Minstrel Hat [1]",
-        "slot": "Wing",
-        "status": "Str ＋5, Dmg to Demi-Human race ＋5%, When Katar is equipped, Atk ＋4%, For Refining ＋1, Damage of [Sonic Blow] ＋1%"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41831.png",
-        "name": "War Axe",
-        "slot": "Axe",
-        "status": "Atk + 90"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41831.png",
-        "name": "War Axe [2]",
-        "slot": "Axe",
-        "status": "Atk + 90"
-    },
-    {
-        "imgsrc": null,
-        "name": "War Ender",
-        "slot": "Axe",
-        "status": "Str ＋15, VIT ＋15, All Attributes ＋8, Equipment ASPD ＋10%, Atk ＋15%, Ignore Def ＋15%, Demi-Human Race Damage ＋30%, Max HP ＋15000"
-    },
-    {
-        "imgsrc": null,
-        "name": "War Ender 2 [2]",
-        "slot": "Axe",
-        "status": "Str ＋15, VIT ＋15, All Attributes ＋14, Equipment ASPD ＋10%, Atk ＋20%, Ignore Def ＋25%, Demi-Human Race Damage ＋40%, Max HP ＋23500, Dmg Reduc. ＋5%, Magic Reduc. ＋5%"
-    },
-    {
-        "imgsrc": null,
-        "name": "War Ender 3 [2]",
-        "slot": "Axe",
-        "status": "Str ＋15, VIT ＋15, All Attributes ＋20, Equipment ASPD ＋10%, Atk ＋25%, Ignore Def ＋35%, Demi-Human Race Damage ＋50%, Max HP ＋32000, Dmg Reduc. ＋10%, Magic Reduc. ＋10%"
-    },
-    {
-        "imgsrc": null,
-        "name": "War Ender Reforged",
-        "slot": "Axe",
-        "status": "Str ＋15, VIT ＋15, All Attributes ＋14, Equipment ASPD ＋10%, Atk ＋20%, Ignore Def ＋25%, Demi-Human Race Damage ＋40%, Max HP ＋23500, Dmg Reduc. ＋5%, Magic Reduc. ＋5%, The War Ender's power affects the caster, providing [Splitting Bamboo] to all allies in a 8-meter range. [Splitting Bamboo]: Stiff will be immunized when being attacked, self-damage ＋30%, moving speed ＋30%, this effect lasts 5 seconds; CD: 120 seconds."
-    },
-    {
-        "imgsrc": null,
-        "name": "War Ender Sky Forged",
-        "slot": "Axe",
-        "status": "Str ＋15, VIT ＋15, All Attributes ＋20, Equipment ASPD ＋10%, Atk ＋25%, Ignore Def ＋35%, Demi-Human Race Damage ＋50%, Max HP ＋32000, Dmg Reduc. ＋10%, Magic Reduc. ＋10%, The War Ender's power affects the caster, providing [Splitting Bamboo] to all allies in a 8-meter range. [Splitting Bamboo]: Stiff will be immunized when being attacked, self-damage ＋50%, moving speed ＋50%, this effect lasts 5 seconds; CD: 120 seconds."
-    },
-    {
-        "imgsrc": null,
-        "name": "War Ender [2]",
-        "slot": "Axe",
-        "status": "Str ＋15, VIT ＋15, All Attributes ＋8, Equipment ASPD ＋10%, Atk ＋15%, Ignore Def ＋15%, Demi-Human Race Damage ＋30%, Max HP ＋15000"
-    },
-    {
-        "imgsrc": null,
-        "name": "Warfare Axe [1]",
-        "slot": "Axe",
-        "status": "Atk + 180"
-    },
-    {
-        "imgsrc": null,
-        "name": "Warfare Axe [2]",
-        "slot": "Axe",
-        "status": "Atk + 180"
-    },
-    {
-        "imgsrc": null,
-        "name": "Warm Christmas Tree",
+        "name": "Summer baseball cap·Green",
         "slot": "Head",
-        "status": "M.Atk ＋10, Def ＋10"
+        "status": "MAX HP ＋400, Def ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Summer baseball cap·Ocean Blue",
+        "slot": "Head",
+        "status": "MAX HP ＋400, Def ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Summer baseball cap·Red",
+        "slot": "Head",
+        "status": "MAX HP ＋400, Def ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Summer baseball cap·Yellow",
+        "slot": "Head",
+        "status": "MAX HP ＋400, Def ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Summer Cap·Green",
+        "slot": "Head",
+        "status": "MAX HP ＋400, MDef ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Summer Cap·Ocean blue",
+        "slot": "Head",
+        "status": "MAX HP ＋400, MDef ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Summer Cap·Red",
+        "slot": "Head",
+        "status": "MAX HP ＋400, MDef ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Summer Cap·Yellow",
+        "slot": "Head",
+        "status": "MAX HP ＋400, MDef ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Summer Costume",
+        "slot": "Armour",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Summer Headwear series",
+        "slot": "Head",
+        "status": "MAX HP ＋400, Def ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Summer Headwear series",
+        "slot": "Head",
+        "status": "MAX HP ＋400, MDef ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Summer Night Crown",
+        "slot": "Head",
+        "status": "Dex ＋3, AGI ＋3"
+    },
+    {
+        "imgsrc": null,
+        "name": "Summer Penguin",
+        "slot": "Head",
+        "status": "Max HP ＋100"
+    },
+    {
+        "imgsrc": null,
+        "name": "Summoner Coat",
+        "slot": "Armour",
+        "status": "Dex ＋2, Max SP ＋60"
+    },
+    {
+        "imgsrc": null,
+        "name": "Summoner Coat [1]",
+        "slot": "Armour",
+        "status": "Dex ＋2, Max SP ＋60"
+    },
+    {
+        "imgsrc": null,
+        "name": "Sun Back Headwear",
+        "slot": "Wing",
+        "status": "Max HP ＋3000, Def ＋5%, MDef ＋15%, Crit Res＋8,  Fire, Water, Earth, Wind damage taken -10%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Sun God Back Headwear",
+        "slot": "Wing",
+        "status": "Max HP ＋4000, Def ＋5%, MDef ＋15%, Crit Res＋15,  Poison, Holy, Dark, Ghost, Neutral damage taken -5%, Fire, Water, Earth and Wind damage taken -15%, Gain passive skill [Solar Counter]: When you’re hit, deals (Atk ＋ M.Atk)*30% Real Damage to the attacker."
+    },
+    {
+        "imgsrc": null,
+        "name": "Sun Hat",
+        "slot": "Head",
+        "status": "Max HP ＋3000, Def ＋15%, MDef ＋5%, Crit Res ＋8,  Poison, Holy, Dark, Ghost, Neutral damage taken -10%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45066.png",
+        "name": "Sunday Hat",
+        "slot": "Head",
+        "status": "M.Def ＋10, CT Variable -5%, When Refining 10, CT Variable -15%"
     }
 ]

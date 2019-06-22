@@ -1,122 +1,122 @@
 [
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45050.png",
-        "name": "Helmet of Orc Hero [1]",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43516.png",
+        "name": "Greaves [1]",
+        "slot": "Shoes",
+        "status": "Move Spd ＋8%, Def ＋12, HP Regen ＋5, Green Steel Pike IV ＋ Greaves  VII ＋ Stone Buckler IV: Ignores 5% Def, ＋5% Atk"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45008.png",
+        "name": "Green Feeler",
         "slot": "Head",
-        "status": "Str ＋2, VIT ＋2, When Refining reaches ＋10, Melee Dmg ＋10%"
+        "status": "Def ＋10"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45008.png",
+        "name": "Green Feeler [1]",
+        "slot": "Head",
+        "status": "Def ＋10"
     },
     {
         "imgsrc": null,
-        "name": "Hercules Bow",
-        "slot": "Bow",
+        "name": "Green Lace",
+        "slot": "Head",
         "status": ""
     },
     {
         "imgsrc": null,
-        "name": "Heroes are afraid of me",
+        "name": "Green Lace",
+        "slot": "Head",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Green Lace [1]",
         "slot": "Head",
         "status": "Dex ＋3, AGI ＋3"
     },
     {
         "imgsrc": null,
-        "name": "Heroes are afraid of me [1]",
-        "slot": "Head",
-        "status": "When launching auto attacks, Caster has a 5% to set target into slowing state, Decrease the target's Def by 10%, the effect lasts 5 seconds."
+        "name": "Green Steel Pike [1]",
+        "slot": "Spear",
+        "status": "VIT ＋9, For Refining ＋1, Def ＋1.5%, M.Def ＋1%, Green Steel Pike IV ＋ Greaves  VII ＋ Stone Buckler IV: Ignores 5% Def, ＋5% Atk"
     },
     {
         "imgsrc": null,
-        "name": "Hervor",
-        "slot": "Shield",
-        "status": ""
+        "name": "Green Steel Pike [2]",
+        "slot": "Spear",
+        "status": "VIT ＋9, For Refining ＋1, Def ＋1.5%, M.Def ＋1%, Green Steel Pike IV ＋ Greaves  VII ＋ Stone Buckler IV: Ignores 5% Def, ＋5% Atk"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45051.png",
+        "name": "Grief for Greed",
+        "slot": "Head",
+        "status": "Def ＋5, INT ＋1, Dex ＋1"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45051.png",
+        "name": "Grief for Greed [1]",
+        "slot": "Head",
+        "status": "Def ＋5, INT ＋1, Dex ＋1"
     },
     {
         "imgsrc": null,
-        "name": "Hervor Alvit",
-        "slot": "Shield",
-        "status": ""
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45022.png",
-        "name": "Hibiscus",
-        "slot": "Head",
-        "status": "Dex ＋1, INT ＋1, M.Def ＋5"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_43515.png",
-        "name": "High Fashion Sandals",
-        "slot": "Shoes",
-        "status": "Move Spd ＋10%, M.Def ＋10, Magic Reduc. ＋8%, Max HP ＋200, [Staunch Mana Manteau] ＋ [High Fashion Sandals IV]: Magic Reduc. ＋5%"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_43515.png",
-        "name": "High Fashion Sandals [1]",
-        "slot": "Shoes",
-        "status": "Move Spd ＋10%, M.Def ＋10, Magic Reduc. ＋8%, Max HP ＋200, [Staunch Mana Manteau] ＋ [High Fashion Sandals IV]: Magic Reduc. ＋5%"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_43527.png",
-        "name": "High Heels",
-        "slot": "Shoes",
-        "status": "Move Spd ＋5%, M.Def ＋10"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_43527.png",
-        "name": "High Heels [1]",
-        "slot": "Shoes",
-        "status": "Move Spd ＋5%, M.Def ＋10"
-    },
-    {
-        "imgsrc": null,
-        "name": "Highland Flower Hairpin",
-        "slot": "Head",
-        "status": "MDef ＋3%, Max HP ＋100"
-    },
-    {
-        "imgsrc": null,
-        "name": "Highland Flower Hairpin [1]",
-        "slot": "Head",
-        "status": "MDef ＋3%, Max HP ＋100"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_48552.png",
-        "name": "Hockey Mask",
+        "name": "Grimace Mask",
         "slot": "Face",
-        "status": "Dmg to Demi-Human ＋10%, Dmg reduction of Demi-Human race -10%"
+        "status": "Max SP ＋100, Atk ＋15"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/21.png",
+        "name": "Gryphon",
+        "slot": "Mount",
+        "status": "Move Spd ＋50%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/21.png",
+        "name": "Gryphon",
+        "slot": "Mount",
+        "status": "Move Spd ＋50%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42502.png",
+        "name": "Guard",
+        "slot": "Shield",
+        "status": "Def + 19"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42502.png",
+        "name": "Guard [1]",
+        "slot": "Shield",
+        "status": "Def + 19"
     },
     {
         "imgsrc": null,
-        "name": "Holiday Penguin",
-        "slot": "Head",
-        "status": "Overall Ability ＋1, MAX HP＋100"
+        "name": "Guardian of the light",
+        "slot": "Face",
+        "status": "Max HP ＋1000, When equipped by Priest branches, Healing increase ＋4%. When equipped by other jobs, Bonus Healing Received ＋4%"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40319.png",
-        "name": "Holy Avenger [1]",
-        "slot": "Sword",
-        "status": "Holy, auto attack has a 8% chance to trigger [Fallen Star], which deals Holy Damage to targets in range, For Refining ＋1, Damage of swordsman's auto attacks ＋5%, Damage of [Fallen Star] ＋5%"
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42532.png",
+        "name": "Guardian Shield",
+        "slot": "Shield",
+        "status": "Def + 94"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40319.png",
-        "name": "Holy Avenger [2]",
-        "slot": "Sword",
-        "status": "Holy, auto attack has a 8% chance to trigger [Fallen Star], which deals Holy Damage to targets in range, For Refining ＋1, Damage of swordsman's auto attacks ＋5%, Damage of [Fallen Star] ＋5%"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40716.png",
-        "name": "Holy Dagger [1]",
-        "slot": "Knife",
-        "status": "Str ＋5, auto attack has a great chance to cause Atk increases by 30 points; this effect lasts 15 seconds, and can stacks up 3 times., When Strength reaches 95, Atk ＋10%, When Strength reaches 120, Atk ＋5%, When Strength reaches 150, Atk ＋5%, [Thief Clothes VIII] ＋ [Holy Dagger VIII]: ＋15% damage against S-sized targets, ＋5% to M-sized targets and ＋10% to L-sized targets"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40716.png",
-        "name": "Holy Dagger [2]",
-        "slot": "Knife",
-        "status": "Str ＋5, auto attack has a great chance to cause Atk increases by 30 points; this effect lasts 15 seconds, and can stacks up 3 times., When Strength reaches 95, Atk ＋10%, When Strength reaches 120, Atk ＋5%, When Strength reaches 150, Atk ＋5%, [Thief Clothes VIII] ＋ [Holy Dagger VIII]: ＋15% damage against S-sized targets, ＋5% to M-sized targets and ＋10% to L-sized targets"
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42532.png",
+        "name": "Guardian Shield [1]",
+        "slot": "Shield",
+        "status": "Def + 94"
     },
     {
         "imgsrc": null,
-        "name": "Holy Orb [1]",
-        "slot": "Orb",
-        "status": "Def + 112"
+        "name": "Guardian Spear",
+        "slot": "Spear",
+        "status": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40912.png",
+        "name": "Guillotine Katar [1]",
+        "slot": "Katar",
+        "status": "Doubles Critical, Max HP ＋800, When HP is lower than 25%, caster receives a Bloodthirsty effect: speed up following attacks, damage, damage causes additional HP loss; the effect lasts 10 seconds (CD lasts 120 seconds)"
     }
 ]

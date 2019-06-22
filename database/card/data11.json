@@ -1,52 +1,11 @@
 [
     {
-        "imgsrc": "s01.cdn.roguard.net/content/img/cards/card_10098.jpg",
-        "name": "Poporing Card",
-        "effect": "Can use skill - [Detoxify] Lv.1",
-        "perma_buff": "",
-        "card_slot": "unknown",
-        "card_type": "unknown",
-        "metadata": {
-            "common_data": {
-                "level": "0",
-                "max_stack": "9999",
-                "sellable": "Yes",
-                "sell_price": "100",
-                "auctionable": "No",
-                "storageable": "Yes"
-            }
-        }
-    },
-    {
-        "imgsrc": "s01.cdn.roguard.net/content/img/cards/card_10001.jpg",
-        "name": "Poring Card",
-        "effect": "Luk ＋1, Flee ＋1",
-        "perma_buff": "Def ＋2",
-        "card_slot": "Armor",
-        "card_type": "Normal",
-        "metadata": {
-            "common_data": {
-                "level": "0",
-                "max_stack": "9999",
-                "sellable": "Yes",
-                "sell_price": "2,000",
-                "auctionable": "Yes",
-                "storageable": "Yes"
-            },
-            "drop_data": {
-                "dropped_by": "Poring",
-                "monster_level": "Lv 1 Monster",
-                "drop_rate": "0.01%"
-            }
-        }
-    },
-    {
         "imgsrc": null,
         "name": "Punk Card",
         "effect": "Max HP ＋200, Max SP ＋50",
         "perma_buff": "Max HP ＋6, Max SP ＋1",
-        "card_slot": "unknown",
-        "card_type": "unknown",
+        "card_slot": "Garment",
+        "card_type": "Normal",
         "metadata": {
             "common_data": {
                 "level": "9999",
@@ -64,25 +23,25 @@
         }
     },
     {
-        "imgsrc": "s01.cdn.roguard.net/content/img/cards/card_60002.jpg",
-        "name": "Randgris Card",
-        "effect": "Refine Atk ＋50",
-        "perma_buff": "Refine Atk ＋5",
-        "card_slot": "unknown",
-        "card_type": "unknown",
+        "imgsrc": "s01.cdn.roguard.net/content/img/cards/card_10098.jpg",
+        "name": "Poporing Card",
+        "effect": "Can use skill - [Detoxify] Lv.1",
+        "perma_buff": "",
+        "card_slot": "Weapon",
+        "card_type": "Normal",
         "metadata": {
             "common_data": {
                 "level": "0",
                 "max_stack": "9999",
                 "sellable": "Yes",
-                "sell_price": "500,000",
-                "auctionable": "Yes",
+                "sell_price": "100",
+                "auctionable": "No",
                 "storageable": "Yes"
             },
             "drop_data": {
-                "dropped_by": "Randgris",
-                "monster_level": "Lv 100 MVP",
-                "drop_rate": "?%"
+                "dropped_by": "unknown",
+                "monster_level": "unknown",
+                "drop_rate": "unknown"
             }
         }
     },
@@ -91,8 +50,8 @@
         "name": "Rain of Arrow Card",
         "effect": "Weapon with this card equipped deals ＋2% damage with [Arrow Shower] and [Multi Firing] for each refining level",
         "perma_buff": "M.Atk ＋8",
-        "card_slot": "unknown",
-        "card_type": "unknown",
+        "card_slot": "Weapon",
+        "card_type": "Normal",
         "metadata": {
             "common_data": {
                 "level": "9999",
@@ -101,28 +60,56 @@
                 "sell_price": "Yes",
                 "auctionable": "Yes",
                 "storageable": "unknown"
+            },
+            "drop_data": {
+                "dropped_by": "no drop",
+                "monster_level": "unknown",
+                "drop_rate": "unknown"
             }
         }
     },
     {
-        "imgsrc": "s01.cdn.roguard.net/content/img/cards/card_10057.jpg",
-        "name": "Savage Card",
-        "effect": "VIT ＋3",
-        "perma_buff": "Def ＋4",
-        "card_slot": "unknown",
-        "card_type": "unknown",
+        "imgsrc": null,
+        "name": "Rocker ★Card",
+        "effect": "Dex ＋2, Atk ＋20",
+        "perma_buff": "Max HP ＋60",
+        "card_slot": "Headgear",
+        "card_type": "Normal",
+        "metadata": {
+            "common_data": {
+                "level": "9999",
+                "max_stack": "Yes",
+                "sellable": "50,000",
+                "sell_price": "Yes",
+                "auctionable": "Yes",
+                "storageable": "unknown"
+            },
+            "drop_data": {
+                "dropped_by": "no drop",
+                "monster_level": "unknown",
+                "drop_rate": "unknown"
+            }
+        }
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/cards/card_10018.jpg",
+        "name": "Roda Frog Card",
+        "effect": "Max HP ＋150, Max SP ＋50",
+        "perma_buff": "Max HP ＋24",
+        "card_slot": "Armor",
+        "card_type": "Normal",
         "metadata": {
             "common_data": {
                 "level": "0",
                 "max_stack": "9999",
                 "sellable": "Yes",
-                "sell_price": "5,000",
+                "sell_price": "2,000",
                 "auctionable": "Yes",
                 "storageable": "Yes"
             },
             "drop_data": {
-                "dropped_by": "Savage",
-                "monster_level": "Lv 59 Monster",
+                "dropped_by": "Roda Frog",
+                "monster_level": "Lv 25 Monster",
                 "drop_rate": "?%"
             }
         }
@@ -132,8 +119,8 @@
         "name": "Raydric Archer Card",
         "effect": "When insect monsters are skilled, Caster has a 10% chance to increase Refine Atk for a certain period; the effect can stack up 3 times.",
         "perma_buff": "Refine Atk ＋1",
-        "card_slot": "unknown",
-        "card_type": "unknown",
+        "card_slot": "Weapon",
+        "card_type": "Normal",
         "metadata": {
             "common_data": {
                 "level": "0",
@@ -151,35 +138,58 @@
         }
     },
     {
-        "imgsrc": null,
-        "name": "Rafflesia Card",
-        "effect": "Damage to insect race ＋25%",
-        "perma_buff": "Damage to insect race ＋1%",
-        "card_slot": "unknown",
-        "card_type": "unknown",
+        "imgsrc": "s01.cdn.roguard.net/content/img/cards/card_10090.jpg",
+        "name": "Raydric Card",
+        "effect": "Neutral Dmg Taken -10%",
+        "perma_buff": "Neutral Dmg Taken -1%",
+        "card_slot": "Garment",
+        "card_type": "Normal",
         "metadata": {
             "common_data": {
-                "level": "9999",
-                "max_stack": "Yes",
-                "sellable": "500,000",
-                "sell_price": "Yes",
+                "level": "0",
+                "max_stack": "9999",
+                "sellable": "Yes",
+                "sell_price": "50,000",
                 "auctionable": "Yes",
-                "storageable": "unknown"
+                "storageable": "Yes"
             },
             "drop_data": {
-                "dropped_by": "Rafflesia",
-                "monster_level": "Lv 86 Mini Boss",
+                "dropped_by": "Raydric",
+                "monster_level": "Lv 92 Monster",
                 "drop_rate": "?%"
             }
         }
     },
     {
-        "imgsrc": "s01.cdn.roguard.net/content/img/cards/card_40009.jpg",
-        "name": "Pupa Card",
-        "effect": "Max HP ＋200",
-        "perma_buff": "Max HP ＋24",
-        "card_slot": "unknown",
-        "card_type": "unknown",
+        "imgsrc": "s01.cdn.roguard.net/content/img/cards/card_10020.jpg",
+        "name": "Pirate Skeleton Card",
+        "effect": "Can use Skill - [Bash] Lv.6",
+        "perma_buff": "Atk ＋4",
+        "card_slot": "Headgear",
+        "card_type": "Normal",
+        "metadata": {
+            "common_data": {
+                "level": "0",
+                "max_stack": "9999",
+                "sellable": "Yes",
+                "sell_price": "50,000",
+                "auctionable": "Yes",
+                "storageable": "Yes"
+            },
+            "drop_data": {
+                "dropped_by": "Pirate Skeleton",
+                "monster_level": "Lv 27 Monster",
+                "drop_rate": "?%"
+            }
+        }
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/cards/card_10012.jpg",
+        "name": "Rocker Card",
+        "effect": "Dex ＋1, Atk ＋5",
+        "perma_buff": "Atk ＋3",
+        "card_slot": "Weapon",
+        "card_type": "Normal",
         "metadata": {
             "common_data": {
                 "level": "0",
@@ -190,27 +200,55 @@
                 "storageable": "Yes"
             },
             "drop_data": {
-                "dropped_by": "Pupa",
-                "monster_level": "Lv 4 Monster",
-                "drop_rate": "0.05%"
+                "dropped_by": "Rocker",
+                "monster_level": "Lv 19 Monster",
+                "drop_rate": "?%"
             }
         }
     },
     {
-        "imgsrc": null,
-        "name": "Royal Limited Card",
-        "effect": "Max HP ＋100, Max SP ＋100, Atk ＋5, M.Atk ＋5",
-        "perma_buff": "Max HP ＋48",
-        "card_slot": "unknown",
-        "card_type": "unknown",
+        "imgsrc": "s01.cdn.roguard.net/content/img/cards/card_10021.jpg",
+        "name": "Poison Spore Card",
+        "effect": "Can use Skill - [Venom Knife] Lv.1",
+        "perma_buff": "Atk ＋3",
+        "card_slot": "Accecssory",
+        "card_type": "Normal",
         "metadata": {
             "common_data": {
-                "level": "9999",
-                "max_stack": "Yes",
-                "sellable": "100",
-                "sell_price": "No",
+                "level": "0",
+                "max_stack": "9999",
+                "sellable": "Yes",
+                "sell_price": "2,000",
                 "auctionable": "Yes",
-                "storageable": "unknown"
+                "storageable": "Yes"
+            },
+            "drop_data": {
+                "dropped_by": "Poison Spore",
+                "monster_level": "Lv 28 Monster",
+                "drop_rate": "?%"
+            }
+        }
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/cards/card_30009.jpg",
+        "name": "Phreeoni Card",
+        "effect": "Hit ＋100",
+        "perma_buff": "Hit ＋10",
+        "card_slot": "Weapon",
+        "card_type": "MVP",
+        "metadata": {
+            "common_data": {
+                "level": "0",
+                "max_stack": "9999",
+                "sellable": "Yes",
+                "sell_price": "500,000",
+                "auctionable": "Yes",
+                "storageable": "Yes"
+            },
+            "drop_data": {
+                "dropped_by": "Phreeoni",
+                "monster_level": "Lv 65 MVP",
+                "drop_rate": "?%"
             }
         }
     },
@@ -219,8 +257,8 @@
         "name": "Rotar Zairo Card",
         "effect": "Critical ＋7, Crit.Dmg ＋10%",
         "perma_buff": "Critical ＋2",
-        "card_slot": "unknown",
-        "card_type": "unknown",
+        "card_slot": "Weapon",
+        "card_type": "Mini Boss",
         "metadata": {
             "common_data": {
                 "level": "0",
@@ -239,47 +277,11 @@
     },
     {
         "imgsrc": null,
-        "name": "Sage's Book",
-        "effect": "当佩戴者是贤者系职业时，每20点敏捷增加自身1%忽视魔法防御，1%装备攻速",
-        "perma_buff": "Max HP ＋112",
-        "card_slot": "unknown",
-        "card_type": "unknown",
-        "metadata": {
-            "common_data": {
-                "level": "9999",
-                "max_stack": "Yes",
-                "sellable": "50,000",
-                "sell_price": "Yes",
-                "auctionable": "Yes",
-                "storageable": "unknown"
-            }
-        }
-    },
-    {
-        "imgsrc": null,
-        "name": "Sandman Card",
-        "effect": "Turn the armor's element into Earth",
-        "perma_buff": "Max HP ＋28",
-        "card_slot": "unknown",
-        "card_type": "unknown",
-        "metadata": {
-            "common_data": {
-                "level": "9999",
-                "max_stack": "Yes",
-                "sellable": "50,000",
-                "sell_price": "Yes",
-                "auctionable": "Yes",
-                "storageable": "unknown"
-            }
-        }
-    },
-    {
-        "imgsrc": null,
         "name": "Pupa★Card",
         "effect": "Def ＋15, Def ＋5%",
         "perma_buff": "Max HP ＋60",
-        "card_slot": "unknown",
-        "card_type": "unknown",
+        "card_slot": "Garment",
+        "card_type": "Normal",
         "metadata": {
             "common_data": {
                 "level": "9999",
@@ -288,111 +290,11 @@
                 "sell_price": "Yes",
                 "auctionable": "Yes",
                 "storageable": "unknown"
-            }
-        }
-    },
-    {
-        "imgsrc": null,
-        "name": "Santa Poring Card",
-        "effect": "Damage to dark monsters ＋15%",
-        "perma_buff": "Max HP ＋28",
-        "card_slot": "unknown",
-        "card_type": "unknown",
-        "metadata": {
-            "common_data": {
-                "level": "9999",
-                "max_stack": "Yes",
-                "sellable": "50,000",
-                "sell_price": "Yes",
-                "auctionable": "Yes",
-                "storageable": "unknown"
-            }
-        }
-    },
-    {
-        "imgsrc": "s01.cdn.roguard.net/content/img/cards/card_10012.jpg",
-        "name": "Rocker Card",
-        "effect": "Dex ＋1, Atk ＋5",
-        "perma_buff": "Atk ＋3",
-        "card_slot": "unknown",
-        "card_type": "unknown",
-        "metadata": {
-            "common_data": {
-                "level": "0",
-                "max_stack": "9999",
-                "sellable": "Yes",
-                "sell_price": "2,000",
-                "auctionable": "Yes",
-                "storageable": "Yes"
             },
             "drop_data": {
-                "dropped_by": "Rocker",
-                "monster_level": "Lv 19 Monster",
-                "drop_rate": "?%"
-            }
-        }
-    },
-    {
-        "imgsrc": "s01.cdn.roguard.net/content/img/cards/card_10018.jpg",
-        "name": "Roda Frog Card",
-        "effect": "Max HP ＋150, Max SP ＋50",
-        "perma_buff": "Max HP ＋24",
-        "card_slot": "unknown",
-        "card_type": "unknown",
-        "metadata": {
-            "common_data": {
-                "level": "0",
-                "max_stack": "9999",
-                "sellable": "Yes",
-                "sell_price": "2,000",
-                "auctionable": "Yes",
-                "storageable": "Yes"
-            },
-            "drop_data": {
-                "dropped_by": "Roda Frog",
-                "monster_level": "Lv 25 Monster",
-                "drop_rate": "?%"
-            }
-        }
-    },
-    {
-        "imgsrc": null,
-        "name": "Rocker ★Card",
-        "effect": "Dex ＋2, Atk ＋20",
-        "perma_buff": "Max HP ＋60",
-        "card_slot": "unknown",
-        "card_type": "unknown",
-        "metadata": {
-            "common_data": {
-                "level": "9999",
-                "max_stack": "Yes",
-                "sellable": "50,000",
-                "sell_price": "Yes",
-                "auctionable": "Yes",
-                "storageable": "unknown"
-            }
-        }
-    },
-    {
-        "imgsrc": "s01.cdn.roguard.net/content/img/cards/card_10090.jpg",
-        "name": "Raydric Card",
-        "effect": "Neutral Dmg Taken -10%",
-        "perma_buff": "Neutral Dmg Taken -1%",
-        "card_slot": "unknown",
-        "card_type": "unknown",
-        "metadata": {
-            "common_data": {
-                "level": "0",
-                "max_stack": "9999",
-                "sellable": "Yes",
-                "sell_price": "50,000",
-                "auctionable": "Yes",
-                "storageable": "Yes"
-            },
-            "drop_data": {
-                "dropped_by": "Raydric",
-                "monster_level": "Lv 92 Monster",
-                "drop_rate": "?%"
+                "dropped_by": "no drop",
+                "monster_level": "unknown",
+                "drop_rate": "unknown"
             }
         }
     },
@@ -401,8 +303,8 @@
         "name": "Rideword Card",
         "effect": "INT ＋5, M.Def ＋20",
         "perma_buff": "M.Atk ＋1.5",
-        "card_slot": "unknown",
-        "card_type": "unknown",
+        "card_slot": "Headgear",
+        "card_type": "Normal",
         "metadata": {
             "common_data": {
                 "level": "0",

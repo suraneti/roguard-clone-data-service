@@ -1,0 +1,122 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Unit-01",
+        "slot": "Armour",
+        "status": "Unit bulk up, The skill [Berserk] is available: Increases movement speed by 100% for the next 10s. Cooldown: 60s (Shares cooldown with [Speeding Up]), Become a Spot！ Wear [Unit-01] to become a Spot yourself. Adventurers who take photo of it will unlock the event Spot \"Violet Unit-01\"!"
+    },
+    {
+        "imgsrc": null,
+        "name": "Unit-01 Pilot Plugsuit",
+        "slot": "Armour",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Unit-01 Series",
+        "slot": "Armour",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Unit-02",
+        "slot": "Armour",
+        "status": "Unit bulk up"
+    },
+    {
+        "imgsrc": null,
+        "name": "Unit-02 Pilot Plugsuit",
+        "slot": "Armour",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Unit-02 series",
+        "slot": "Armour",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Unit-05 Helmet",
+        "slot": "Head",
+        "status": "All Attributes +2, Atk +20"
+    },
+    {
+        "imgsrc": null,
+        "name": "Unit-06 Pilot Plugsuit",
+        "slot": "Armour",
+        "status": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43503.png",
+        "name": "Ur's Greaves [1]",
+        "slot": "Shoes",
+        "status": "Def + 90"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43503.png",
+        "name": "Ur's Greaves [2]",
+        "slot": "Shoes",
+        "status": "Def + 90"
+    },
+    {
+        "imgsrc": null,
+        "name": "Valg Green Petite",
+        "slot": "Mount",
+        "status": "Move Spd ＋25%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Vali's Manteau [2]",
+        "slot": "Robe",
+        "status": "Def + 90"
+    },
+    {
+        "imgsrc": null,
+        "name": "Vali's Manteau[1]",
+        "slot": "Robe",
+        "status": "Def + 90"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45090.png",
+        "name": "Valkyrie Helm",
+        "slot": "Head",
+        "status": "M.Def ＋20, Max HP ＋600"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45090.png",
+        "name": "Valkyrie Helm (For Monster)",
+        "slot": "Head",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Valkyrie Helm (MVP)",
+        "slot": "Head",
+        "status": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45090.png",
+        "name": "Valkyrie Helm [1]",
+        "slot": "Head",
+        "status": "M.Def ＋20, Max HP ＋600"
+    },
+    {
+        "imgsrc": null,
+        "name": "Valkyrie Manteau [1]",
+        "slot": "Robe",
+        "status": "Def + 90"
+    },
+    {
+        "imgsrc": null,
+        "name": "Valkyrie Manteau [2]",
+        "slot": "Robe",
+        "status": "Def + 90"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43503.png",
+        "name": "Valkyrie Shoes [1]",
+        "slot": "Shoes",
+        "status": "Def + 90"
+    }
+]

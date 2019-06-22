@@ -1,122 +1,122 @@
 [
     {
-        "imgsrc": null,
-        "name": "Love Summer",
-        "slot": "Head",
-        "status": "Max HP ＋100"
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40005.png",
+        "name": "Knight Spear [3]",
+        "slot": "Spear",
+        "status": "Atk + 247"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40301.png",
+        "name": "Knight's Sword",
+        "slot": "Sword",
+        "status": ""
     },
     {
         "imgsrc": null,
-        "name": "Love Winter",
-        "slot": "Mouth",
-        "status": "Max HP ＋100"
+        "name": "Knowledge Master",
+        "slot": "Wing",
+        "status": "Atk ＋30, Critical ＋3"
     },
     {
         "imgsrc": null,
-        "name": "Love Witch Hat",
-        "slot": "Head",
-        "status": "Overall Ability ＋2, Atk ＋12, M.Atk ＋12"
+        "name": "Knuckle Dusters [1]",
+        "slot": "Knuckle",
+        "status": "VIT ＋3, Max HP ＋800, HP Regen ＋10"
     },
     {
         "imgsrc": null,
-        "name": "Love You",
-        "slot": "Mouth",
-        "status": "Ignore Def ＋5%, Atk ＋20"
+        "name": "Knuckle Dusters [2]",
+        "slot": "Knuckle",
+        "status": "VIT ＋3, Max HP ＋800, HP Regen ＋10"
     },
     {
         "imgsrc": null,
-        "name": "Loving Butterfly",
-        "slot": "Face",
-        "status": "Move Spd ＋3%, Luk ＋5, Atk ＋20"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42002.png",
-        "name": "Lucius's Fierce Armor of Volcano",
-        "slot": "Armour",
-        "status": "Def + 42"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42002.png",
-        "name": "Lucius's Fierce Armor of Volcano [1]",
-        "slot": "Armour",
-        "status": "Def + 42"
+        "name": "Knuckles [2]",
+        "slot": "Knuckle",
+        "status": "Atk + 140"
     },
     {
         "imgsrc": null,
-        "name": "Lucky Bracelet [1]",
-        "slot": "Bracelet",
+        "name": "Kobold Bow",
+        "slot": "Bow",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Kobold Leader Blade",
+        "slot": "Sword",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Kobold Leader Shield",
+        "slot": "Sword",
+        "status": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Krishna Gloves [1]",
+        "slot": "Bracer",
         "status": "Def + 112"
     },
     {
         "imgsrc": null,
-        "name": "Lucky Bracelet [2]",
-        "slot": "Bracelet",
+        "name": "Krishna Gloves [2]",
+        "slot": "Bracer",
         "status": "Def + 112"
     },
     {
-        "imgsrc": null,
-        "name": "LUK Necklace",
-        "slot": "Accessory",
-        "status": "Luk ＋6, Crit.Dmg ＋2%"
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40609.png",
+        "name": "Kronos [1]",
+        "slot": "Staff",
+        "status": "Int ＋5, Max HP ＋500, For Refining ＋1, Int ＋1, Max HP ＋100, When using magic skills, there is 3% chance to enter a \"Vision\" state: M.Atk ＋25%, SP Cost ＋50%; the effect lasts 10 seconds"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40609.png",
+        "name": "Kronos [2]",
+        "slot": "Staff",
+        "status": "Int ＋5, Max HP ＋500, For Refining ＋1, Int ＋1, Max HP ＋100, When using magic skills, there is 3% chance to enter a \"Vision\" state: M.Atk ＋25%, SP Cost ＋50%; the effect lasts 10 seconds"
     },
     {
         "imgsrc": null,
-        "name": "LUK Necklace [1]",
-        "slot": "Accessory",
-        "status": "Luk ＋6, Crit.Dmg ＋2%"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41221.png",
-        "name": "Luna Bow [1]",
-        "slot": "Bow",
-        "status": "Atk ＋24, [Luna Bow VI] ＋[Luna Brooch VI]: Intelligence ＋2, SP Regen ＋10%"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41221.png",
-        "name": "Luna Bow [2]",
-        "slot": "Bow",
-        "status": "Atk ＋24, [Luna Bow VI] ＋[Luna Brooch VI]: Intelligence ＋2, SP Regen ＋10%"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_44006.png",
-        "name": "Luna Brooch",
-        "slot": "Accessory",
-        "status": "Max SP ＋75, SP Regen ＋5%, [Luna Bow VI] ＋[Luna Brooch VI]: Intelligence ＋2, SP Regen ＋10%"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_44006.png",
-        "name": "Luna Brooch [1]",
-        "slot": "Accessory",
-        "status": "Max SP ＋75, SP Regen ＋5%, [Luna Bow VI] ＋[Luna Brooch VI]: Intelligence ＋2, SP Regen ＋10%"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41504.png",
-        "name": "Lunakaligo [2]",
-        "slot": "Mace",
-        "status": "Atk + 180"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41504.png",
-        "name": "Lunakaligo [3]",
-        "slot": "Mace",
-        "status": "Atk + 180"
+        "name": "Lace Ribbon Coco",
+        "slot": "Head",
+        "status": "Magic Reduc. +3%, Demi-Human Dmg Reduc. +3%"
     },
     {
         "imgsrc": null,
-        "name": "M.Def Fairy",
-        "slot": "Tail",
-        "status": "M.Def ＋40, Max HP ＋1000, For Refining ＋1, Magic Reduc. ＋1%, Stunning Resistance ＋2%"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41529.png",
-        "name": "Mace",
-        "slot": "Mace",
-        "status": "Atk + 72"
+        "name": "Lace Ribbon SugarFrost",
+        "slot": "Head",
+        "status": "Magic Reduc. +3%, Demi-Human Dmg Reduc. +3%"
     },
     {
         "imgsrc": null,
-        "name": "Mace of Judgment [1]",
-        "slot": "Mace",
-        "status": "INT ＋6, DEX ＋6, ＋20% [Adoramus] multiplier for each refining level gained after reaching refining ＋5 (up to 200%)"
+        "name": "Lance of Dragon Tamer [1]",
+        "slot": "Spear",
+        "status": "Max SP ＋200,  [Dragon Breath] damge ＋1% for each refining level, Upon reaching refining ＋10, you’ll gain 5% Dmg and Magic Reduc. for 10s after using [Dragon Breath], Upon reaching refining ＋15, [Dragon Breath] multiplier ＋100%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Lance of Dragon Tamer [2]",
+        "slot": "Spear",
+        "status": "Max SP ＋200,  [Dragon Breath] damge ＋1% for each refining level, Upon reaching refining ＋10, you’ll gain 5% Dmg and Magic Reduc. for 10s after using [Dragon Breath], Upon reaching refining ＋15, [Dragon Breath] multiplier ＋100%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Lance [1]",
+        "slot": "Spear",
+        "status": "Str ＋2, Attack Spd ＋10%, Holy Dmg ＋10%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Lance [2]",
+        "slot": "Spear",
+        "status": "Str ＋2, Attack Spd ＋10%, Holy Dmg ＋10%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Last Line of Defense",
+        "slot": "Shield",
+        "status": ""
     }
 ]

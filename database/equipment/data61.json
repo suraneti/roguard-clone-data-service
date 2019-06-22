@@ -1,122 +1,122 @@
 [
     {
-        "imgsrc": null,
-        "name": "Holy Orb [2]",
-        "slot": "Orb",
-        "status": "Def + 112"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42021.png",
-        "name": "Holy Robe",
-        "slot": "Armour",
-        "status": "INT ＋3, Max SP ＋5%, [Croce Staff IV] ＋ [Holy Robe IV]: Healing bonus ＋ 5%. When [Holy Robe] Refining is ＋10 or above, the healing bonus increases to 10%, SP cost of [Kyrie Eleison], [Magnificat] , [Assumptio] -40%"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_42021.png",
-        "name": "Holy Robe [1]",
-        "slot": "Armour",
-        "status": "INT ＋3, Max SP ＋5%, [Croce Staff IV] ＋ [Holy Robe IV]: Healing bonus ＋ 5%. When [Holy Robe] Refining is ＋10 or above, the healing bonus increases to 10%, SP cost of [Kyrie Eleison], [Magnificat] , [Assumptio] -40%"
-    },
-    {
-        "imgsrc": null,
-        "name": "Holy Series Clothing ",
-        "slot": "Armour",
-        "status": ""
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41519.png",
-        "name": "Holy Stick [1]",
-        "slot": "Staff",
-        "status": "M.Atk ＋10%, CT Variable of [Holy Light Strike], [Turn Undead], [Magnus Exorcismus Attack] -25%"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_41519.png",
-        "name": "Holy Stick [2]",
-        "slot": "Staff",
-        "status": "M.Atk ＋10%, CT Variable of [Holy Light Strike], [Turn Undead], [Magnus Exorcismus Attack] -25%"
-    },
-    {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40905.png",
-        "name": "Holy Wing Katar [2]",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40912.png",
+        "name": "Guillotine Katar [2]",
         "slot": "Katar",
-        "status": "Atk + 90"
+        "status": "Doubles Critical, Max HP ＋800, When HP is lower than 25%, caster receives a Bloodthirsty effect: speed up following attacks, damage, damage causes additional HP loss; the effect lasts 10 seconds (CD lasts 120 seconds)"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40905.png",
-        "name": "Holy Wing Katar [3]",
-        "slot": "Katar",
-        "status": "Atk + 90"
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41811.png",
+        "name": "Guillotine [1]",
+        "slot": "Axe",
+        "status": "auto attack has a 10% chance to stun the target, For Refining ＋1, Dmg to Stun targets ＋5%, Attack Spd ＋10%"
     },
     {
-        "imgsrc": null,
-        "name": "Honey cake",
-        "slot": "Head",
-        "status": "Dex ＋3, AGI ＋3"
-    },
-    {
-        "imgsrc": null,
-        "name": "Honey Cake [1]",
-        "slot": "Head",
-        "status": "Dex ＋3, AGI ＋3"
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41811.png",
+        "name": "Guillotine [2]",
+        "slot": "Axe",
+        "status": "auto attack has a 10% chance to stun the target, For Refining ＋1, Dmg to Stun targets ＋5%, Attack Spd ＋10%"
     },
     {
         "imgsrc": null,
-        "name": "Honey Jar",
-        "slot": "Head",
-        "status": "Max SP ＋100, SP Regen ＋1"
+        "name": "Gungnir [2]",
+        "slot": "Spear",
+        "status": "Atk + 247"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40005.png",
+        "name": "Gungnir [3]",
+        "slot": "Spear",
+        "status": "Atk + 247"
     },
     {
         "imgsrc": null,
-        "name": "Honey Jar [1]",
-        "slot": "Head",
-        "status": "Dex ＋3, AGI ＋3"
+        "name": "GUTS WING 1",
+        "slot": "Tail",
+        "status": "Atk ＋45, Atk ＋3%,  ＋30 Atk and 1% Atk when STR or DEX reaches 200"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40301.png",
-        "name": "Honglyun's Sword [2]",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40306.png",
+        "name": "Haedonggum [1]",
         "slot": "Sword",
-        "status": "Atk + 180"
+        "status": "Str ＋2, Def ＋20"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_40301.png",
-        "name": "Honglyun's Sword [3]",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40306.png",
+        "name": "Haedonggum [2]",
         "slot": "Sword",
-        "status": "Atk + 180"
+        "status": "Str ＋2, Def ＋20"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_43005.png",
-        "name": "Hood [2]",
-        "slot": "Robe",
-        "status": "Def + 22"
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45073.png",
+        "name": "Hair Band",
+        "slot": "Head",
+        "status": "Def ＋5"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_47018.png",
-        "name": "Horong",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45073.png",
+        "name": "Hair Band [1]",
+        "slot": "Head",
+        "status": "Def ＋5"
+    },
+    {
+        "imgsrc": null,
+        "name": "Hairband Of Reginleif",
+        "slot": "Face",
+        "status": "No effect"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45074.png",
+        "name": "Hairpin",
+        "slot": "Head",
+        "status": "No effect"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45074.png",
+        "name": "Hairpin [1]",
+        "slot": "Head",
+        "status": "No effect"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40003.png",
+        "name": "Halberd [1]",
+        "slot": "Spear",
+        "status": "Str ＋6, Hit ＋25, SP cost of [Pierce] -50%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40003.png",
+        "name": "Halberd [2]",
+        "slot": "Spear",
+        "status": "Str ＋6, Hit ＋25, SP cost of [Pierce] -50%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Halloween Night",
         "slot": "Wing",
-        "status": "Can use [Soul Strike] Lv.10"
+        "status": "When launching auto attacks, caster has a 30% chance to increase Atk by 20 points, the effect can stack up 10 times."
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45034.png",
-        "name": "Hot-blooded Headband",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45080.png",
+        "name": "Halo",
         "slot": "Head",
-        "status": "Def ＋5, Str ＋2"
+        "status": "Def ＋10"
     },
     {
-        "imgsrc": "//www.roguard.net/content/img/icons/items/item_45034.png",
-        "name": "Hot-blooded Headband [1]",
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45080.png",
+        "name": "Halo [1]",
         "slot": "Head",
-        "status": "Def ＋5, Str ＋2"
+        "status": "Def ＋10"
     },
     {
-        "imgsrc": null,
-        "name": "HP Potion",
-        "slot": "Head",
-        "status": "MAX HP ＋100, HP Regen ＋5"
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41803.png",
+        "name": "Hammer",
+        "slot": "Axe",
+        "status": "Atk + 120"
     },
     {
-        "imgsrc": null,
-        "name": "HP Potion [1]",
-        "slot": "Head",
-        "status": "Dex ＋3, AGI ＋3"
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41803.png",
+        "name": "Hammer [2]",
+        "slot": "Axe",
+        "status": "Atk + 120"
     }
 ]
