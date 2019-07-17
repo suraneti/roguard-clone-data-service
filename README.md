@@ -14,7 +14,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 What things you need to install the software and how to install them
 
-* [Node.js](https://www.google.com)  
+* [Node.js](https://nodejs.org/en/) 7 or later
 
 ### Setup environments and running
 
@@ -27,7 +27,7 @@ node app.js
 
 ## Built With
 
-* [Node.js](https://www.google.com) - JavaScript runtime
+* [Node.js](https://nodejs.org/en/) - JavaScript runtime (7 or later)
 * [NPM](https://www.npmjs.com/) - Package Manager
 
 ## JavaScript API
