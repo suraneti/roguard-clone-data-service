@@ -4,25 +4,15 @@ const { JSDOM } = jsdom
 
 cloneCardData = async (pages) => {
   for (let i = 1; i <= pages; i++) {
-    if (i === 1) {
-      const resp = await serializeCardData('')
-      await fs.writeFile(`./database/card/data${i}.json`, JSON.stringify(resp, null, 4), (err) => {
-        if (err) {
-          return console.log(err)
-        } else {
-          console.log(`WRITE CARD DATA SUCCESSFUL, data${i}.json`)
-        }
-      })
-    } else {
-      const resp = await serializeCardData(`?page=${i}`)
-      await fs.writeFile(`./database/card/data${i}.json`, JSON.stringify(resp, null, 4), (err) => {
-        if (err) {
-          return console.log(err)
-        } else {
-          console.log(`WRITE CARD DATA SUCCESSFUL, data${i}.json`)
-        }
-      })
-    }
+    const page = i === 1 ? '' : `?page=${i}`
+    const resp = await serializeCardData(page)
+    await fs.writeFile(`./database/card/data${i}.json`, JSON.stringify(resp, null, 4), (err) => {
+      if (err) {
+        console.log(err)
+      } else {
+        console.log(`WRITE CARD DATA SUCCESSFUL, data${i}.json`)
+      }
+    })
   }
 }
 
@@ -103,8 +93,21 @@ serializeCardFullData = async (url) => {
   const cardAuctionable = commonMatch[5].match(/<td class="text-right">(.*)<\/td>/)[1]
   const cardStorageable = (commonMatch[6] && commonMatch[6].match(/<td class="text-right">(.*)<\/td>/) ? commonMatch[6].match(/<td class="text-right">(.*)<\/td>/)[1] : 'unknown')
 
-
-  let metadata
+  let metadata = {
+    'common_data': {
+      'level': cardLevel,
+      'max_stack': cardMaxStack,
+      'sellable': cardSellable,
+      'sell_price': cardSellPrice,
+      'auctionable': cardAuctionable,
+      'storageable': cardStorageable
+    },
+    'drop_data': {
+      'dropped_by': 'no drop',
+      'monster_level': 'unknown',
+      'drop_rate': 'unknown'
+    }
+  }
 
   // drop data dom element
   if (splitDiv[3]) {
@@ -116,37 +119,9 @@ serializeCardFullData = async (url) => {
     const cardMonsterLevel = (dropElement[1] && dropElement[1].match(/.*>(.*)/) ? dropElement[1].match(/.*>(.*)/)[1] : 'unknown')
     const cardDropRate = (dropElement[2] && dropElement[2].match(/.*>(.*)/) ? dropElement[2].match(/.*>(.*)/)[1] : 'unknown')
 
-    metadata = {
-      'common_data': {
-        'level': cardLevel,
-        'max_stack': cardMaxStack,
-        'sellable': cardSellable,
-        'sell_price': cardSellPrice,
-        'auctionable': cardAuctionable,
-        'storageable': cardStorageable
-      },
-      'drop_data': {
-        'dropped_by': cardDroppedBy,
-        'monster_level': cardMonsterLevel,
-        'drop_rate': cardDropRate
-      }
-    }
-  } else {
-    metadata = {
-      'common_data': {
-        'level': cardLevel,
-        'max_stack': cardMaxStack,
-        'sellable': cardSellable,
-        'sell_price': cardSellPrice,
-        'auctionable': cardAuctionable,
-        'storageable': cardStorageable
-      },
-      'drop_data': {
-        'dropped_by': 'no drop',
-        'monster_level': 'unknown',
-        'drop_rate': 'unknown'
-      }
-    }
+    metadata.drop_data.dropped_by = cardDroppedBy
+    metadata.drop_data.monster_level = cardMonsterLevel
+    metadata.drop_data.drop_rate = cardDropRate
   }
 
   return metadata
