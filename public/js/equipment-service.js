@@ -4,25 +4,15 @@ const { JSDOM } = jsdom
 
 cloneEquipmentData = async (pages) => {
     for (let i = 1; i <= pages; i++) {
-        if (i === 1) {
-            const resp = await serializeEquipmentData('')
-            await fs.writeFile(`./database/equipment/data${i}.json`, JSON.stringify(resp, null, 4), (err) => {
-                if (err) {
-                    return console.log(err)
-                } else {
-                    console.log(`WRITE EQUIPMENT DATA SUCCESSFUL, data${i}.json`)
-                }
-            })
+      const page = i === 1 ? '' : `?page=${i}`
+      const resp = await serializeEquipmentData(page)
+      await fs.writeFile(`./database/equipment/data${i}.json`, JSON.stringify(resp, null, 4), (err) => {
+        if (err) {
+          console.log(err)
         } else {
-            const resp = await serializeEquipmentData(`?page=${i}`)
-            await fs.writeFile(`./database/equipment/data${i}.json`, JSON.stringify(resp, null, 4), (err) => {
-                if (err) {
-                    return console.log(err)
-                } else {
-                    console.log(`WRITE EQUIPMENT DATA SUCCESSFUL, data${i}.json`)
-                }
-            })
+          console.log(`WRITE EQUIPMENT DATA SUCCESSFUL, data${i}.json`)
         }
+      })
     }
 }
 
