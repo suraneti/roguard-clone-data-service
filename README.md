@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/suraneti/roguard-clone-service.svg?branch=master)](https://travis-ci.com/suraneti/roguard-clone-service)
+[![Build Status](https://travis-ci.com/suraneti/roguard-clone-data-service.svg?branch=develop)](https://travis-ci.com/suraneti/roguard-clone-data-service)
 
 # ROGuard Clone Data Service 
 
