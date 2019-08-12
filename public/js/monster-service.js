@@ -34,7 +34,7 @@ serializeMonsterData = async (pages) => {
 
   const monsterData = [];
 
-  match.forEach(async (element) => {
+  for (const element of match) {
     const monsterImage = (element.match(/src\s*=\s*\\*"(.+?)\\*"\s*/) !== null) ? element.match(/src\s*=\s*\\*"\/\/(.+?)\\*"\s*/)[1] : null
     const monsterName = element.match(/<a (.*)>(.+?)<\/a>/)[2]
     const monsterElement = element.match(/<div style="color: (.*);">(.+?) • (.*)<\/div>/)[2];
@@ -62,9 +62,8 @@ serializeMonsterData = async (pages) => {
         'job_exp': monsterJobExp,
         'metadata': metadata
       })
-
-    return monsterData
-  })
+  }
+  return monsterData
 }
 
 serializeMonsterFullData = async (url) => {
