@@ -66,4 +66,4 @@ This project is licensed under the FUCK License - see the [LICENSE](LICENSE.fuck
 
 ## Contributors
 
-- [way21x](https://github.com/way21x)
+- **way21x** - [way21x](https://github.com/way21x)
