@@ -1,12 +1,18 @@
-const fs = require('fs')
-const jsdom = require("jsdom")
+const fs = require('fs-extra')
+const jsdom = require('jsdom')
+
 const { JSDOM } = jsdom
+const dir = './database/card'
 
 cloneCardData = async (pages) => {
+  // Check and create dir when dir not exist
+  await fs.ensureDir(dir)
+
   for (let i = 1; i <= pages; i++) {
     const page = i === 1 ? '' : `?page=${i}`
     const resp = await serializeCardData(page)
-    await fs.writeFile(`./database/card/data${i}.json`, JSON.stringify(resp, null, 4), (err) => {
+
+    await fs.writeFile(`${dir}/data${i}.json`, JSON.stringify(resp, null, 4), (err) => {
       if (err) {
         console.log(err)
       } else {
@@ -23,7 +29,8 @@ serializeCardData = async (pages) => {
   const match = tbody.match(/<tr[\s\S]*?<\/tr>/g)
 
   const monsterData = []
-  match.forEach(async (element) => {
+
+  for (const element of match) {
     const cardImage = (element.match(/src\s*=\s*\\*"\/\/(.+?)\\*"\s*/) !== null) ? element.match(/src\s*=\s*\\*"\/\/(.+?)\\*"\s*/)[1] : null
     const cardName = element.match(/<a (.*)>(.+?)<\/a>/)[2]
     const cardUrl = element.match(/<a href="(.*)">/)[1]
@@ -52,7 +59,6 @@ serializeCardData = async (pages) => {
           cardEffect = cardEffect + ', ' + element.match(/\r\n|\r|\n(.*)/)[1]
         }
       })
-
       // if effect card has single lines
     } else {
       cardEffect = splitEffectCardDiv[1].match(/<div>(.*)/)[1]
@@ -69,9 +75,9 @@ serializeCardData = async (pages) => {
         'card_type': cardType,
         'metadata': metadata
       })
+  }
 
-    return monsterData
-  })
+  return monsterData
 }
 
 serializeCardFullData = async (url) => {

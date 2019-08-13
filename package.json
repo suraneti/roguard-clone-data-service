@@ -9,6 +9,7 @@
   "author": "Suraneti Rodsuwan",
   "license": "FUCK",
   "dependencies": {
-    "jsdom": "^13.0.0"
+    "fs-extra": "^8.1.0",
+    "jsdom": "^15.1.1"
   }
 }
