@@ -63,3 +63,7 @@ This project is licensed under the FUCK License - see the [LICENSE](LICENSE.fuck
 * Hat tip to anyone whose code was used
 * Inspiration
 * etc
+
+## Contributors
+
+- [way21x](https://github.com/way21x)
