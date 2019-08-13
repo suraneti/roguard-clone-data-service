@@ -1,12 +1,17 @@
 const fs = require('fs')
-const jsdom = require("jsdom")
+const jsdom = require('jsdom')
+
 const { JSDOM } = jsdom
+const dir = './database/monster'
 
 cloneMonsterData = async (pages) => {
+  // Check and create dir when dir not exist
+  await fs.ensureDir(dir)
+
   for (let i = 1; i <= pages; i++) {
     if (i === 1) {
       const resp = await serializeMonsterData('')
-      await fs.writeFile(`./database/monster/data${i}.json`, JSON.stringify(resp, null, 4), (err) => {
+      await fs.writeFile(`${dir}/data${i}.json`, JSON.stringify(resp, null, 4), (err) => {
         if (err) {
           return console.log(err)
         } else {
@@ -63,6 +68,7 @@ serializeMonsterData = async (pages) => {
         'metadata': metadata
       })
   }
+
   return monsterData
 }
 
