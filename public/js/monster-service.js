@@ -47,11 +47,11 @@ serializeMonsterData = async (pages) => {
     const monsterInfo = element.match(/<td (.*)><div>(.+?)<\/div><div>(.+?)<\/div><\/td>/)
 
     // Extract monsterInfo
-    const monsterLevel = monsterInfo[1]
-    const monsterHp = monsterInfo[2]
+    const monsterLevel = monsterInfo[2]
+    const monsterHp = monsterInfo[3]
     const monsterExp = element.match(/<td (.*)><div>(.* Base Exp)<\/div><div>(.* Job Exp)<\/div><\/td>/)
-    const monsterBaseExp = monsterExp[1]
-    const monsterJobExp = monsterExp[2]
+    const monsterBaseExp = monsterExp[2]
+    const monsterJobExp = monsterExp[3]
     const monsterUrl = element.match(/<a href="(.*)">/)[1]
 
     const metadata = await serializeMonsterFullData(monsterUrl)
