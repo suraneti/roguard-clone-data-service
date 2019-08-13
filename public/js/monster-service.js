@@ -1,12 +1,17 @@
 const fs = require('fs')
-const jsdom = require("jsdom")
+const jsdom = require('jsdom')
+
 const { JSDOM } = jsdom
+const dir = './database/monster'
 
 cloneMonsterData = async (pages) => {
+  // Check and create dir when dir not exist
+  await fs.ensureDir(dir)
+
   for (let i = 1; i <= pages; i++) {
     if (i === 1) {
       const resp = await serializeMonsterData('')
-      await fs.writeFile(`./database/monster/data${i}.json`, JSON.stringify(resp, null, 4), (err) => {
+      await fs.writeFile(`${dir}/data${i}.json`, JSON.stringify(resp, null, 4), (err) => {
         if (err) {
           return console.log(err)
         } else {
@@ -34,7 +39,7 @@ serializeMonsterData = async (pages) => {
 
   const monsterData = [];
 
-  match.forEach(async (element) => {
+  for (const element of match) {
     const monsterImage = (element.match(/src\s*=\s*\\*"(.+?)\\*"\s*/) !== null) ? element.match(/src\s*=\s*\\*"\/\/(.+?)\\*"\s*/)[1] : null
     const monsterName = element.match(/<a (.*)>(.+?)<\/a>/)[2]
     const monsterElement = element.match(/<div style="color: (.*);">(.+?) • (.*)<\/div>/)[2];
@@ -62,9 +67,9 @@ serializeMonsterData = async (pages) => {
         'job_exp': monsterJobExp,
         'metadata': metadata
       })
+  }
 
-    return monsterData
-  })
+  return monsterData
 }
 
 serializeMonsterFullData = async (url) => {
