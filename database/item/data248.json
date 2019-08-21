@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Wheel of Time·Red Gift Box",
+        "chineseName": "时之轮·红礼盒",
+        "description": "Use it and get the Wheel of Time·Red beauty contact lens from the Beauty of Eyes in Prontera.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Wheel of Time·White Gift Box",
+        "chineseName": "时之轮·白礼盒",
+        "description": "Use it and get the Wheel of Time·White beauty contact lens from the Beauty of Eyes in Prontera.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Wheel of Time·Yellow Gift Box",
+        "chineseName": "时之轮·黄礼盒",
+        "description": "Use it and get the Wheel of Time·Yellow beauty contact lens from the Beauty of Eyes in Prontera.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Whimpering Fire Bird Blueprint",
+        "chineseName": "嘤嘤火焰鸟图纸",
+        "description": "An Adult Fire Bird howls and the world vibrates. The Fire Fledgling, however, only chirps and no one knows what they went through during the process of growing up.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Whip Shard",
+        "chineseName": "鞭碎片",
+        "description": "Falling from the waving wings of elemental elves, the light dust fell on the ordinary cards and then brought them strong affinity power. The power can be injected into the adventurer's soul through the power of Valkyrie, which will make adventurers preferred by elements.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Whisper Card",
+        "chineseName": "白幽灵卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_48503.png",
+        "name": "Whisper Mask",
+        "chineseName": "白幽灵面具",
+        "description": "A mask that imitates the Whisper. Just like using a mask made of Whisper. Whether it is good for the skin is unknown.",
+        "effect": "Agi ＋3,Ghost Dmg Taken -10%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_48503.png",
+        "name": "Whisper Mask Blueprint",
+        "chineseName": "白幽灵面具图纸",
+        "description": "A mask that imitates the Whisper. Just like using a mask made of Whisper. Whether it is good for the skin is unknown.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_48503.png",
+        "name": "Whisper Mask [1]",
+        "chineseName": "白幽灵面具[1]",
+        "description": "A mask that imitates the Whisper. Just like using a mask made of Whisper. Whether it is good for the skin is unknown.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Whisper Stone",
+        "chineseName": "低语魔石",
+        "description": "Use to become immune to Silence for 1 min. Cannot work with [Warm Stone] [Sleepless Stone] and [Activity Stone].",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45147.png",
+        "name": "Whispers of Wind",
+        "chineseName": "风之低语",
+        "description": "Sacrifice hat made of feathers that have the power of elemental elf.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45147.png",
+        "name": "Whispers of Wind [1]",
+        "chineseName": "风之低语[1]",
+        "description": "Sacrifice hat made of feathers that have the power of elemental elf.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45147.png",
+        "name": "Whispers of Wind [1] Blueprint",
+        "chineseName": "风之低语[1]图纸",
+        "description": "Sacrifice hat made of feathers that have the power of elemental elf.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "White Cat Julius",
+        "chineseName": "白猫·尤里乌斯",
+        "description": "After crossing the Milky Way of 12, 000 years, In the name of dream's destination, I finally saw the object shining with the pure white light. \"I am the god, the supreme god.\" (The Holy White cat Julius. It only appears during special time every year in front of people who are meant to be together. )",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_3620.png",
+        "name": "White Chatter Gift Set",
+        "chineseName": "白色絮语礼盒",
+        "description": "A gift set exclusively for this early spring season of love. My sweet little thoughts are to share with you! (Open to obtain a random amount of Mora Coins between three and six)",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12319.png",
+        "name": "White Chocolate",
+        "chineseName": "白色情人巧克力",
+        "description": "White chocolate, sweeter than normal chocolate, the inherent color of cocoa was removed so it appears to be white. The chocolate can recover 50% HP, recovery is less effective in PVP mode with longer CD duration.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_4001.png",
+        "name": "White Christmas",
+        "chineseName": "白色圣诞",
+        "description": "A wizard music record. With it, You can order songs in the music box spot newly designed by Kafra. [The silvery season of romance, Like last year, Leaning on your chest and counting your heartbeat, That's one kind of happiness.]",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "White Christmas",
+        "chineseName": "白色圣诞",
+        "description": "",
+        "effect": "Dex ＋3,AGI ＋3"
+    },
+    {
+        "imgsrc": null,
+        "name": "White Christmas [1]",
+        "chineseName": "白色圣诞[1]",
+        "description": "\"Lying in the old and squeaking wood chair, grandmother was weaving colorful socks. The holly garland hanging above the fireplace looked brighter against the crackling fire. Mother was busy in the kitchen, and it came out irresistible smell for the children. When you exhaled, it turned into crystal outside the glass. Silver quietly surrounded the city, which reflected the cute red faces and clear Avalon-lake-like eyes.\" \"Ah~ Let's make a wish here.\"",
+        "effect": "Agi ＋5,Crit.Dmg ＋10%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12103.png",
+        "name": "White Clothing Dye",
+        "chineseName": "白色衣服染料",
+        "description": "It can dye clothing materials white.",
+        "effect": ""
+    }
+]

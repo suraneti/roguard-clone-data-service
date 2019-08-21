@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40604.png",
+        "name": "P. Staff [2]",
+        "chineseName": "P.法杖[2]",
+        "description": "A weapon that is more powerful than a normal Rod.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41503.png",
+        "name": "P. Stick",
+        "chineseName": "P.权杖",
+        "description": "The iron mace is a Maces weapon that can give the opponent a bad attack.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41503.png",
+        "name": "P. Stick [2]",
+        "chineseName": "P.权杖[2]",
+        "description": "The iron mace is a Maces weapon that can give the opponent a bad attack.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Pablo's Secret",
+        "chineseName": "潘罗的秘藏",
+        "description": "Legend has it that in the depths of the ocean there exists a treasure chest that pirates yearn for. It’s guarded by the octopus Pablo. Whenever something approaches it, Pablo waves his trident and shouts “Go away, go away! I’m ferocious!",
+        "effect": "Auto Attacks trigger Tentacle Attacks. Auto Attacks damage increase by BaseLv×10. For refining ＋1 to +6, each level of refining will increase Auto Attack damage by BaseLv×5 (maximum at BaseLv×30),5% chance to gain 5 extra Zeny when slaying a target"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_48524.png",
+        "name": "Pacifier",
+        "chineseName": "宠物奶嘴",
+        "description": "A pacifier which can serve as a toy for little kids.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_48524.png",
+        "name": "Pacifier Blueprint",
+        "chineseName": "宠物奶嘴图纸",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45136.png",
+        "name": "Pagdayaw",
+        "chineseName": "宝塔头盔",
+        "description": "Helmet made of several combined rings with different attributes. Gorgeous and dignified.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45136.png",
+        "name": "Pagdayaw [1]",
+        "chineseName": "宝塔头盔[1]",
+        "description": "Helmet made of several combined rings with different attributes. Gorgeous and dignified.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45136.png",
+        "name": "Pagdayaw [1] Blueprint",
+        "chineseName": "宝塔头盔[1]图纸",
+        "description": "Helmet made of several combined rings with different attributes. Gorgeous and dignified.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Pale Lord Card",
+        "chineseName": "苍白领主卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Pale Wolf Card",
+        "chineseName": "白狼卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12329.png",
+        "name": "Panacea",
+        "chineseName": "万能药",
+        "description": "A potion that can cure almost all abnormalities and remove all negative effects.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Panda and Poring’s Bamboo",
+        "chineseName": "熊猫和波利的竹子",
+        "description": "Though Poring gives the bamboo to the small panda, a new friend, as a present, the panda doubts whether the bamboo is fresh or not.",
+        "effect": "Atk ＋3%, Damage of Demi-Human ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Panda and Poring’s Bamboo [1]",
+        "chineseName": "熊猫和波利的竹子[1]",
+        "description": "Though Poring gives the bamboo to the small panda, a new friend, as a present, the panda doubts whether the bamboo is fresh or not.",
+        "effect": "Atk ＋3%, Damage of Demi-Human ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Panda Hat",
+        "chineseName": "熊猫帽",
+        "description": "Panda-like hat. You will find yourself eating bamboo leaves when you wear it. It's very cute and popular among women.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Panda Hat [1]",
+        "chineseName": "熊猫帽[1]",
+        "description": "Panda-like hat. You will find yourself eating bamboo leaves when you wear it. It's very cute and popular among women.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Panda Hat [1] Blueprint",
+        "chineseName": "熊猫帽[1]图纸",
+        "description": "Panda-like hat. You will find yourself eating bamboo leaves when you wear it. It's very cute and popular among women.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_3026.png",
+        "name": "Pandora Chest",
+        "chineseName": "不能开的神秘箱子",
+        "description": "Open it to earn a chance receiving all kinds of items",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42014.png",
+        "name": "Panties",
+        "chineseName": "三角裤",
+        "description": "Triangular cloths.",
+        "effect": "Dex ＋7,[Panties VI] ＋ [Shirt IV]: Agility ＋5. Every Fleewill provide 5 max HP"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42014.png",
+        "name": "Panties [1]",
+        "chineseName": "三角裤[1]",
+        "description": "Triangular cloths.",
+        "effect": "Dex ＋7,[Panties VI] ＋ [Shirt IV]: Agility ＋5. Every Fleewill provide 5 max HP"
+    }
+]

@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41205.png",
+        "name": "Malang Snow Crab [1]",
+        "chineseName": "喵喵大蟹弓[1]",
+        "description": "Arthropod Crustacea with long feet living in the sand of deep sea.",
+        "effect": "Luk ＋5,[Sniping Suit IV] ＋[Malang Snow Crab IV]: Agi ＋5, Crit.Dmg ＋10%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41205.png",
+        "name": "Malang Snow Crab [2]",
+        "chineseName": "喵喵大蟹弓[2]",
+        "description": "Arthropod Crustacea with long feet living in the sand of deep sea.",
+        "effect": "Luk ＋5,[Sniping Suit IV] ＋[Malang Snow Crab IV]: Agi ＋5, Crit.Dmg ＋10%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Male Thief Bug Card",
+        "chineseName": "玛勒盗虫卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_52501.png",
+        "name": "Mandragora",
+        "chineseName": "曼陀罗",
+        "description": "If you hold it in your hand for a long time, Your hand will feel numb. Being a very rare item, it can be used as equipment or to make high-end headwear.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Mandragora Card",
+        "chineseName": "曼陀罗卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Mandragora Flower Card",
+        "chineseName": "曼陀罗魔花卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_52601.png",
+        "name": "Mandragora Flower Seed",
+        "chineseName": "曼陀罗魔花种子",
+        "description": "Special materials acquired from Mandera seeds, highly valuable.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Mango Waffle",
+        "chineseName": "芒果龙鳞饼",
+        "description": "By pouring mango sauce on the dragon-scale waffle, This food gives you the defense of giant dragon. Within 3 minutes, All damage reduces by 10%. This effect cannot stack up with other dragon-scale waffles, and is not influenced by death. This item can only be used on PVP maps.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43003.png",
+        "name": "Manteau",
+        "chineseName": "斗篷",
+        "description": "Made of hard cloth, Covering the neck, Shoulders and back, a defensible cloak.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43003.png",
+        "name": "Manteau [1]",
+        "chineseName": "斗篷[1]",
+        "description": "Made of hard cloth, Covering the neck, Shoulders and back, a defensible cloak.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Mantis Card",
+        "chineseName": "螳螂卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42027.png",
+        "name": "Mantle",
+        "chineseName": "大衣",
+        "description": "A long coat without a waistband.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42027.png",
+        "name": "Mantle [1]",
+        "chineseName": "大衣[1]",
+        "description": "A long coat with a good effect on keeping warm. But it's not a suitable equipment in summer.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Mao Guai Card",
+        "chineseName": "狐仙卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45198.png",
+        "name": "Maple Which Falls",
+        "chineseName": "枫叶",
+        "description": "Maple Which Falls on the ground have witnessed we walked through the autumn. I picked up one of them, put it on head, thought of everyone's warm face.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45198.png",
+        "name": "Maple Which Falls [1]",
+        "chineseName": "枫叶[1]",
+        "description": "Maple Which Falls on the ground have witnessed we walked through the autumn. I picked up one of them, put it on head, thought of everyone's warm face.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_800103.png",
+        "name": "Mar. 2017 Premium",
+        "chineseName": "2017.3月限定特典",
+        "description": "\"This day is to be remembered! After all the hardship, this paradise is finally open to all adventurers! Welcome to Midgard! This world of fantasy is filled with life and hope because of you. \" To appreciate the adventurers who have been supporting us for a long time, the famous Kafra Company specially launched a special small card in the form of a monthly magazine. Hold it and you will feel its magical power. It's practical and highly collectible.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Mar. 2018 Premium",
+        "chineseName": "2018.3月限定特典",
+        "description": "The church bells are ringing, the soft petals flutter up and countless people celebrate... Such happy people! In order to finally usher in this day, Put on a white wedding dress, Walk hand in hand while entering the sacred temple, Let the whole of Prontera bless you!",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Marc Card",
+        "chineseName": "马克卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "March 2018 gashapon box",
+        "chineseName": "18年3月扭蛋盒",
+        "description": "Kafra's special headwear Gashapon toy chest, to express your sincere affection! Open it to receive friend's blessing cards and 10 headwear Gashapon toys relative to 10 months.",
+        "effect": ""
+    }
+]

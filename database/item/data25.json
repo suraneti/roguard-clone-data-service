@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45112.png",
+        "name": "Black Cat Ears",
+        "chineseName": "黑猫耳朵",
+        "description": "Hairband that looks like black kitten's ear. It's made according to Morroc headwear. It cannot move.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45112.png",
+        "name": "Black Cat Ears Blueprint",
+        "chineseName": "黑猫耳朵图纸",
+        "description": "Hairband that looks like black kitten's ear. It's made according to Morroc headwear. It cannot move.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45112.png",
+        "name": "Black Cat Ears [1]",
+        "chineseName": "黑猫耳朵[1]",
+        "description": "Hairband that looks like black kitten's ear. It's made according to Morroc headwear. It cannot move.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_47021.png",
+        "name": "Black Cat Lemegeton",
+        "chineseName": "黑猫雷蒙盖顿",
+        "description": "Oh god! Carrying this noble doll, one can feel totally elevated! This elegant and gorgeous texture. Touch it and one will sleep soundly everyday.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_47021.png",
+        "name": "Black Cat Lemegeton Blueprint",
+        "chineseName": "黑猫雷蒙盖顿图纸",
+        "description": "Oh god! Carrying this noble doll, one can feel totally elevated! This elegant and gorgeous texture. Touch it and one will sleep soundly everyday.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Black Cat Tail Blueprint",
+        "chineseName": "黑猫尾巴图纸",
+        "description": "Black Cat Tail",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Black Cat·K Equip",
+        "chineseName": "黑猫·K装备",
+        "description": "A helmet crafted with animal bones.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12102.png",
+        "name": "Black Clothing Dye",
+        "chineseName": "黑色衣服染料",
+        "description": "It can dye clothing materials black.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12102.png",
+        "name": "Black Dyestuffs",
+        "chineseName": "黑色染料",
+        "description": "A magic potion to dye the hair black.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41505.png",
+        "name": "Black Iron Hammer",
+        "chineseName": "黑铁重锤",
+        "description": "This heavy hammer made of black fine iron is slightly magnetic, allowing it to be capable of smashing the enemy's weapons.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41505.png",
+        "name": "Black Iron Hammer [2]",
+        "chineseName": "黑铁重锤[2]",
+        "description": "This heavy hammer made of black fine iron is slightly magnetic, allowing it to be capable of smashing the enemy's weapons.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43526.png",
+        "name": "Black Leather Boots[1]",
+        "chineseName": "黑皮靴[1]",
+        "description": "Sturdy boots made of thin leather. Putting it on enable you to run fast.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Black Magic Ore",
+        "chineseName": "黑色魔力矿石",
+        "description": "Essential materials for blacksmith to make various items.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Black Pearl",
+        "chineseName": "黑珍珠",
+        "description": "Only on the vast seabed of Izlude, pearl oysters which are over 300 years old can grow into pearls, gathering the essence and luck of the entire sea. Use it and you will be wealthier, getting 600000 zeny.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Black Wing",
+        "chineseName": "黑翼",
+        "description": "A wing left behind by an unknown creature. It's as black as ink.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Black Wing [1]",
+        "chineseName": "黑翼[1]",
+        "description": "Atk + 144",
+        "effect": "Agi ＋4,[Black Wing V] ＋ [Bohemian Coat IV]: Str ＋5, ignore Def ＋10%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40703.png",
+        "name": "Black Wing [2]",
+        "chineseName": "黑_翼[2]",
+        "description": "Black sawtooth-shaped Knives made by Rogue Guild.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Black Wing [2]",
+        "chineseName": "黑翼[2]",
+        "description": "Atk + 144",
+        "effect": "Agi ＋4,[Black Wing V] ＋ [Bohemian Coat IV]: Str ＋5, ignore Def ＋10%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40703.png",
+        "name": "Black Wing [3]",
+        "chineseName": "黑_翼[3]",
+        "description": "Black sawtooth-shaped Knives made by Rogue Guild.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Black Witch Card",
+        "chineseName": "黑魔女卡片",
+        "description": "",
+        "effect": ""
+    }
+]

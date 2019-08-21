@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Pisces Crown [1]",
+        "chineseName": "双鱼宫王冠[1]",
+        "description": "Crown that symbolizes Pisces, one of the twelve zodiacal signs. It's inlaid with turquoise.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Pisces Diadem",
+        "chineseName": "双鱼宫宝冠",
+        "description": "Diadem that symbolizes Pisces, one of the twelve zodiacal signs. It's inlaid with turquoise.",
+        "effect": "Dex ＋3,AGI ＋3"
+    },
+    {
+        "imgsrc": null,
+        "name": "Pisces Diadem [1]",
+        "chineseName": "双鱼宫宝冠[1]",
+        "description": "Diadem that symbolizes Pisces, one of the twelve zodiacal signs. It's inlaid with turquoise.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Pisces Diadem [1] Blueprint",
+        "chineseName": "双鱼宫宝冠[1]图纸",
+        "description": "Diadem that symbolizes Pisces, one of the twelve zodiacal signs. It's inlaid with turquoise.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Pisces Star Aroma",
+        "chineseName": "星之香熏·双鱼座",
+        "description": "The product of the year by Vettel Moura, the 14th president of House Moura, the most famous perfume family of the land, the constellation series is only available during respective month. Muse Moura is a star in his school because he uses different perfume every month. (Use to protect yourself with a constellation symbol that is graceful and stylish. )",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Pisces Star Shards",
+        "chineseName": "星之碎片·双鱼座",
+        "description": "An ancient painting passed down for generation in House Laplace, Trillion Stars in a Descending Night Sky depicts the star phantom that is materialized by a goddess to bless people with. (Collect and give it to a goddess and you'll probably receive something nice. )",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Pixie Ear",
+        "chineseName": "浮空精灵耳",
+        "description": "Apex ear is the unique feature of elf, and Pixie's nature Transparent feather earrings just add a feel of mystical grace.",
+        "effect": "MAX HP＋200,Damage to wind monsters＋3%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Plant Bottle",
+        "chineseName": "噬人植物瓶",
+        "description": "A glass bottle filled with a carnivorous plant. Throw it on the ground and you can grow a carnivorous plant that will attack and eat any creature near it.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Platinum Shield [1]",
+        "chineseName": "铂金盾[1]",
+        "description": "A shield made from platinum, which is hard to smelt. Legend has it its platinum surface can reflect magic.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Platinum Shield [2]",
+        "chineseName": "铂金盾[2]",
+        "description": "A shield made from platinum, which is hard to smelt. Legend has it its platinum surface can reflect magic.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40301.png",
+        "name": "Platinum Shotel [2]",
+        "chineseName": "铂金_弯刀[2]",
+        "description": "It is designed to avoid armors and has a unique shape.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40301.png",
+        "name": "Platinum Shotel [3]",
+        "chineseName": "铂金_弯刀[3]",
+        "description": "It is designed to avoid armors and has a unique shape.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Poet's Hat",
+        "chineseName": "诗人帽子",
+        "description": "People judge the masks worn by of the goblin people.",
+        "effect": "Atk ＋5000,SP Regen ＋100%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45188.png",
+        "name": "Pointer Headwear",
+        "chineseName": "指向标头饰",
+        "description": "Arrow tip made of magnets. It shows the direction.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45188.png",
+        "name": "Pointer Headwear Blueprint",
+        "chineseName": "指向标头饰图纸",
+        "description": "Arrow tip made of magnets. It shows the direction.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45188.png",
+        "name": "Pointer Headwear [1]",
+        "chineseName": "指向标头饰[1]",
+        "description": "Arrow tip made of magnets. It shows the direction.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12522.png",
+        "name": "Poison",
+        "chineseName": "毒药",
+        "description": "Toxic potion. Do not drink. It's for applying poison.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_61005.png",
+        "name": "Poison Gloves",
+        "chineseName": "涂毒的腕甲",
+        "description": "Armor on the knuckles has been poisoned.",
+        "effect": "Atk ＋25,Crit.Dmg ＋15%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_61005.png",
+        "name": "Poison Gloves [1]",
+        "chineseName": "涂毒的腕甲[1]",
+        "description": "Armor on the knuckles has been poisoned.",
+        "effect": "Atk ＋25,Crit.Dmg ＋15%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40719.png",
+        "name": "Poison Knife [1]",
+        "chineseName": "巨毒短剑[1]",
+        "description": "The blade with a purple shine makes people feel scared. The knife is covered with strong poison.",
+        "effect": "auto attack has a large probability to set targets into poisoning state,For Refining ＋1, ignore Def ＋2%"
+    }
+]

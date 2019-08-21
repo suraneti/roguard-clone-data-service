@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Wing Staff [2]",
+        "chineseName": "羽翼之杖[2]",
+        "description": "A staff with windy elves inside, it help the user to better cast spells.",
+        "effect": "INT ＋5,When killing a monster with a single target skill, restore 5% HP and 5% SP (CoolDown: 10 seconds)"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45206.png",
+        "name": "Wings Of Victory",
+        "chineseName": "胜利之翼",
+        "description": "",
+        "effect": "Max HP ＋300,For Refining ＋1, Dmg to Demi-Human race ＋0.1%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45206.png",
+        "name": "Wings Of Victory [1]",
+        "chineseName": "胜利之翼[1]",
+        "description": "",
+        "effect": "Max HP ＋300,For Refining ＋1, Dmg to Demi-Human race ＋0.1%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45206.png",
+        "name": "Wings Of Victory [1] Blueprint",
+        "chineseName": "胜利之翼[1]图纸",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Winner Winner Barrel",
+        "chineseName": "大吉大利桶",
+        "description": "It is a proof of courage to eat a whole Winner Winner Barrel. Dear adventurer, put it on!",
+        "effect": "All Attributes ＋2,Dmg to Brute ＋8%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Winner Winner Barrel Blueprint",
+        "chineseName": "大吉大利桶图纸",
+        "description": "It is a proof of courage to eat a whole Winner Winner Barrel. Dear adventurer, put it on!",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Winner Winner Barrel [1]",
+        "chineseName": "大吉大利桶[1]",
+        "description": "",
+        "effect": "All Attributes ＋1,M.Atk ＋8"
+    },
+    {
+        "imgsrc": null,
+        "name": "Winter Crystal 2 [2]",
+        "chineseName": "凛冬结晶2[2]",
+        "description": "Made of steel that has been forged from high temperatures, this can be used for defending against continuous arrows and is best suited for close combat on the battlefield.",
+        "effect": "Dex ＋18,Dmg Reduc. ＋5%, Magic Reduc. ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Winter Crystal 3 [2]",
+        "chineseName": "凛冬结晶3[2]",
+        "description": "Made of steel that has been forged from high temperatures, this can be used for defending against continuous arrows and is best suited for close combat on the battlefield.",
+        "effect": "Dex ＋18,Dmg Reduc. ＋10%, Magic Reduc. ＋10%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Winter Crystal Shard",
+        "chineseName": "凛冬结晶残片",
+        "description": "Shard of the legendary artifact: Winter Crystal. By collecting rare materials and more debris, with ancient knowledge and legendary Mr. Dragon's skills, you may restore it to the original form.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Winter Crystal [2]",
+        "chineseName": "凛冬结晶[2]",
+        "description": "Made of steel that has been forged from high temperatures, this can be used for defending against continuous arrows and is best suited for close combat on the battlefield.",
+        "effect": "Dex ＋18,Max HP ＋16000"
+    },
+    {
+        "imgsrc": null,
+        "name": "Winter Warm Chest",
+        "chineseName": "冬日暖心礼盒",
+        "description": "This package can bring you some warmth in cold winter",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Witch Headwear",
+        "chineseName": "小魔女系列头饰",
+        "description": "Popular among young devils for their lovely smell, there are different legends on the mainland.",
+        "effect": "All Attributes ＋2,M.Atk ＋12"
+    },
+    {
+        "imgsrc": null,
+        "name": "Witch Star Dust",
+        "chineseName": "魔女星沙",
+        "description": "Sand from a star that a witch collected on a cloudless night, flashing with starry light and containing astral power.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Wizard Badge",
+        "chineseName": "巫师徽章",
+        "description": "Wizard Badge.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Wizard Hairband",
+        "chineseName": "屌法师头箍",
+        "description": "Wizard Hairband",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45107.png",
+        "name": "Wizard Hat",
+        "chineseName": "魔法帽",
+        "description": "Mysterious hat that increase the number of magic Casting when you wear it.",
+        "effect": "Def ＋5,Max SP ＋100"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45107.png",
+        "name": "Wizard Hat [1]",
+        "chineseName": "魔法帽[1]",
+        "description": "A magic hat that allows you to sing magic more times when you wear it.",
+        "effect": "Def ＋5,Max SP ＋100"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45107.png",
+        "name": "Wizard Hat [1] Blueprint",
+        "chineseName": "魔法帽[1]图纸",
+        "description": "Mysterious hat that increase the number of magic Casting when you wear it.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40620.png",
+        "name": "Wizardry Staff [1]",
+        "chineseName": "大巫师之杖[1]",
+        "description": "It is said that the cane was made by a Archmage. Its power is similar to the power of God.",
+        "effect": "Int ＋3,[Wizardry Staff VIII] ＋ [Robe of Cast VIII] ＋ [Eye of Dullahan VIII] ＋ [Crystal Pumps IV]: －5% CT Variable, ＋3% M.Dmg, ＋3% Ignore MDef"
+    }
+]

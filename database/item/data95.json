@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45007.png",
+        "name": "Golden Gear [1]",
+        "chineseName": "黄金帽[1]",
+        "description": "Head protector made of gold. It's very hard with a high Def because it's mainly made of gold. Indestructible.",
+        "effect": "Def ＋20,When Refining ＋10, Def ＋10%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Golden Hat",
+        "chineseName": "黄金大巴帽",
+        "description": "",
+        "effect": "All Attributes ＋1,Max SP ＋100"
+    },
+    {
+        "imgsrc": null,
+        "name": "Golden Hat [1]",
+        "chineseName": "黄金大巴帽[1]",
+        "description": "",
+        "effect": "All Attributes ＋1,Max SP ＋100"
+    },
+    {
+        "imgsrc": null,
+        "name": "Golden Luckybag",
+        "chineseName": "金铃福袋",
+        "description": "Dingling~ This is a luckybag that can drop golden nuggets! It once was the secret of Rune Midgard top wealthy merchant, whoever got it may be the next billionaire.",
+        "effect": "All Attributes ＋1,Job Exp for killing monsters ＋5%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41504.png",
+        "name": "Golden Mace [2]",
+        "chineseName": "黄金之锤[2]",
+        "description": "A mace made of gold.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41504.png",
+        "name": "Golden Mace [3]",
+        "chineseName": "黄金之锤[3]",
+        "description": "A mace made of gold.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Golden March Blueprint",
+        "chineseName": "金色的进行曲图纸",
+        "description": "It's the early autumn Belvedere Palace's servants were busy in and out for the incoming big tea party. Ladies will wear luxury clothes and dazzling diamonds from the world will attend the feast. It's an aesthetical impact. The \"show\" will start in the drumbeats of Royal Honor Guard.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_61505.png",
+        "name": "Golden Ornament",
+        "chineseName": "金色手镯",
+        "description": "A simple gold bracelet. It shines lights in the dark.",
+        "effect": "Flee ＋5,Cri ＋5"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_61505.png",
+        "name": "Golden Ornament [1]",
+        "chineseName": "金色手镯[1]",
+        "description": "A simple gold bracelet. It shines lights in the dark.",
+        "effect": "Flee ＋5,Cri ＋5"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40601.png",
+        "name": "Golden Rod Staff [2]",
+        "chineseName": "黄金领主之杖[2]",
+        "description": "A staff with the force of whirling wind.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40601.png",
+        "name": "Golden Rod Staff [3]",
+        "chineseName": "黄金领主之杖[3]",
+        "description": "A staff with the force of whirling wind.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Golden Thief Bug Card",
+        "chineseName": "黄金虫卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Goldfish Hair Accessory",
+        "chineseName": "金鱼铃发饰",
+        "description": "",
+        "effect": "Dex ＋3,AGI ＋3"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Golem Card",
+        "chineseName": "巨石怪卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Golem★Card",
+        "chineseName": "巨石怪★卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Goodwill Cake",
+        "chineseName": "心愿蛋糕",
+        "description": "A cake enchanted with mysterious magic spell, has a wonderful smell. It was made by a witch in an accident. \"Eat it, all your wishes will come true!\"",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Gorgeous Card Album",
+        "chineseName": "华丽卡册",
+        "description": "Kafra's secretive partners have struck a business deal with the Emile family, This Gorgeous Card Album was compiled by the Emil family and issued by Kafra. Based on the cooperation terms, This card collection is only sold with Gratitude Bag, a player can open it to find mysterious cards. (Cards opened in the Gorgeous Card Album can unlock Adventure Handbook)",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Gorgeous Chest",
+        "chineseName": "华丽宝箱",
+        "description": "Gorgeous Chest.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Gorgeous Chest 1",
+        "chineseName": "华丽礼物箱1",
+        "description": "Gorgeous Pack 1.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Gorgeous Chest 2",
+        "chineseName": "华丽礼物箱2",
+        "description": "Gorgeous Pack 2.",
+        "effect": ""
+    }
+]

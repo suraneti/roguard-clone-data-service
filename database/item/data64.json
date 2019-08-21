@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_4001.png",
+        "name": "ED",
+        "chineseName": "ED",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Eddga Card",
+        "chineseName": "虎王卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_47019.png",
+        "name": "Eden Team Bag",
+        "chineseName": "乐园团背包",
+        "description": "The backpack for new adventurers prepared by Eden Team. Adventure essentials such as maps, compass, sewing kit and butterfly wings are thoughtfully prepared.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_47019.png",
+        "name": "Eden Team Bag Blueprint",
+        "chineseName": "乐园团背包图纸",
+        "description": "The backpack for new adventurers prepared by Eden Team. Adventure essentials such as maps, compass, sewing kit and butterfly wings are thoughtfully prepared.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43501.png",
+        "name": "Eden Team Boots",
+        "chineseName": "乐园团靴子",
+        "description": "Boots issued to members of Eden team. Designed for adventurers, the boots are useful for easing fatigue.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43501.png",
+        "name": "Eden Team Boots [1]",
+        "chineseName": "乐园团靴子[1]",
+        "description": "Boots issued to members of Eden team. Designed for adventurers, the boots are useful for easing fatigue.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_3033.png",
+        "name": "Eden Team Chest",
+        "chineseName": "乐园团礼物箱",
+        "description": "Eden Team Pack",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45076.png",
+        "name": "Eden Team Hat",
+        "chineseName": "乐园团帽子",
+        "description": "Hat handed out to Eden team members. Uniform-matching hat.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45076.png",
+        "name": "Eden Team Hat Blueprint",
+        "chineseName": "乐园团帽子图纸",
+        "description": "Hat handed out to Eden team members. Uniform-matching hat.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45076.png",
+        "name": "Eden Team Hat [1]",
+        "chineseName": "乐园团帽子[1]",
+        "description": "Hat handed out to Eden team members. Uniform-matching hat.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40301.png",
+        "name": "Eden Team Knife",
+        "chineseName": "乐园团短剑",
+        "description": "A common sword that everyone can use it.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40301.png",
+        "name": "Eden Team Knife [2]",
+        "chineseName": "乐园团短剑[2]",
+        "description": "A common sword that everyone can use it.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43001.png",
+        "name": "Eden Team Manteau I",
+        "chineseName": "乐园团披风",
+        "description": "A cloak distributed to people who join Eden team. The cloak floating in wind looks great.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43001.png",
+        "name": "Eden Team Manteau [1]",
+        "chineseName": "乐园团披风[1]",
+        "description": "A cloak distributed to people who join Eden team. The cloak floating in wind looks great.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43503.png",
+        "name": "Eden Team Shoes [1]",
+        "chineseName": "乐园团短靴[1]",
+        "description": "Necessary boots for Eden teams, They can well protect user's ankle.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43503.png",
+        "name": "Eden Team Shoes [2]",
+        "chineseName": "乐园团短靴[2]",
+        "description": "Necessary boots for Eden teams, They can well protect user's ankle.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42001.png",
+        "name": "Eden Team Training Clothes",
+        "chineseName": "乐园团训练服",
+        "description": "A dress prepared by the Eden Team for new adventurers, convenient and practical.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42001.png",
+        "name": "Eden Team Training Clothes [1]",
+        "chineseName": "乐园团训练服[1]",
+        "description": "A dress prepared by the Eden Team for new adventurers, convenient and practical.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45195.png",
+        "name": "Eden Team Turban",
+        "chineseName": "乐园团圆帽",
+        "description": "Hat exclusively for the Eden Team members. The design matches well with the uniform.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45195.png",
+        "name": "Eden Team Turban [1]",
+        "chineseName": "乐园团圆帽[1]",
+        "description": "Hat exclusively for the Eden Team members. The design matches well with the uniform.",
+        "effect": ""
+    }
+]

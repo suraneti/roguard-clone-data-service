@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Quiver (For Goblin)",
+        "chineseName": "箭筒(哥布灵用)",
+        "description": "Goblin's quiver",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_47020.png",
+        "name": "Quiver Blueprint",
+        "chineseName": "箭袋图纸",
+        "description": "Quiver carried on the back. It is recommended to be used with the bow and arrow.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_3038.png",
+        "name": "R1 Job Pack",
+        "chineseName": "初阶职业礼物箱",
+        "description": "A gift pack for R1 Job rewards. It contains Zeny x1000, Potion x5, Transformation Pack x1.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_3038.png",
+        "name": "R3 Job Pack",
+        "chineseName": "三阶职业礼物箱",
+        "description": "A gift pack for R2 Job rewards. It contains Zeny x1000, Potion x5, Transformation Pack x1.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_3038.png",
+        "name": "R4 Job Pack",
+        "chineseName": "四阶职业礼物箱",
+        "description": "A gift pack for R2 Job rewards. It contains Zeny x1000, Potion x5, Transformation Pack x1.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Rabbit Bag",
+        "chineseName": "兔兔背包",
+        "description": "In the far east, when the new year comes, Parents make gifts for their children, Not only to pray for the blessing of the gods, but also to preserve their memories in the future.",
+        "effect": "Max SP ＋50,Max HP ＋100"
+    },
+    {
+        "imgsrc": null,
+        "name": "Rabbit Bag Blueprint",
+        "chineseName": "兔兔背包图纸",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Rabbit Earmuff",
+        "chineseName": "兔兔耳罩",
+        "description": "[This is only meant for you ~ May those you love feel intimate warmth even in the winter. Cold, white breath surrounds your smiling face]",
+        "effect": "Max HP ＋50,Max SP ＋50"
+    },
+    {
+        "imgsrc": null,
+        "name": "Rabbit Hat",
+        "chineseName": "兔子头套",
+        "description": "Look! That guy has a rabbit on his head~",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Rabbit Lamp",
+        "chineseName": "兔子灯的灯",
+        "description": "Rabbit Lamp",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Rabbit Lamp 1",
+        "chineseName": "兔子灯的灯1",
+        "description": "Rabbit Lamp 1",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45113.png",
+        "name": "Raccoon Hat",
+        "chineseName": "狸猫帽",
+        "description": "Hat made for people who want to become Smokie. The creator is unknown, but it's surprisingly popular, Especially among male.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45113.png",
+        "name": "Raccoon Hat Blueprint",
+        "chineseName": "狸猫帽图纸",
+        "description": "Hat made for people who want to become Smokie. The creator is unknown, but it's surprisingly popular, Especially among male.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45113.png",
+        "name": "Raccoon Hat [1]",
+        "chineseName": "狸猫帽[1]",
+        "description": "Hat made for people who want to become Smokie. The creator is unknown, but it's surprisingly popular, Especially among male.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_52301.png",
+        "name": "Raccoon Leaf",
+        "chineseName": "变身叶子",
+        "description": "Smokie's Transformation Leaf. Being a very rare item, it can be used to make high-end headwear.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Radio Antenna",
+        "chineseName": "电波天线",
+        "description": "",
+        "effect": "Dex ＋3,AGI ＋3"
+    },
+    {
+        "imgsrc": null,
+        "name": "Radio Antenna Blueprint",
+        "chineseName": "电波天线图纸",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Radio Antenna [1]",
+        "chineseName": "电波天线[1]",
+        "description": "",
+        "effect": "Dex ＋3,AGI ＋3"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Rafflesia Card",
+        "chineseName": "草精卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40601.png",
+        "name": "Rafini Staff [2]",
+        "chineseName": "拉斐尔之杖[2]",
+        "description": "A stick made of the stones frequently used by the Lamini clan when gathering magic.",
+        "effect": ""
+    }
+]

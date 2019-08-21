@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Cute Family Chest",
+        "chineseName": "敲萌礼盒",
+        "description": "An exclusive gift for the cute family, which contains many interesting stuffs.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Cute Pet Appreciation",
+        "chineseName": "萌宠感恩礼",
+        "description": "Pet Association publish this gift to specially thanks to all the adventurers. Open up will receive a Random pet. (Event pets are not include)",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Cute Reindeer Horn",
+        "chineseName": "萌萌驯鹿角",
+        "description": "Longhorn, big eyes, red nose, fluffy face, the cute little reindeer is the best reindeer of Santa Claus",
+        "effect": "Demi-Human Dmg Reduc. ＋3%,M.Atk ＋11"
+    },
+    {
+        "imgsrc": null,
+        "name": "Cute Reindeer Horn Blueprint",
+        "chineseName": "萌萌驯鹿角图纸",
+        "description": "Longhorn, big eyes, red nose, fluffy face, the cute little reindeer is the best reindeer of Santa Claus",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45003.png",
+        "name": "Cute Ribbon",
+        "chineseName": "粉纱发圈",
+        "description": "Band used to fix hair with an eye-catching small butterfly knot.",
+        "effect": "Def ＋5,Max SP ＋20"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45003.png",
+        "name": "Cute Ribbon Blueprint",
+        "chineseName": "粉纱发圈图纸",
+        "description": "Band used to fix hair with an eye-catching small butterfly knot.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45003.png",
+        "name": "Cute Ribbon [1]",
+        "chineseName": "粉纱发圈[1]",
+        "description": "Band used to fix hair with an eye-catching small butterfly knot.",
+        "effect": "Def ＋5,Max SP ＋20"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40311.png",
+        "name": "Cutlus [1]",
+        "chineseName": "狂击之剑[1]",
+        "description": "A sword often used by the crew.",
+        "effect": "Str ＋1,When caster learned [Bowling Bash] Lv.10, Damage of [Bowling Bash] increases by 30%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40311.png",
+        "name": "Cutlus [2]",
+        "chineseName": "狂击之剑[2]",
+        "description": "A sword often used by the crew",
+        "effect": "Str ＋1,When caster learned [Bowling Bash] Lv.10, Damage of [Bowling Bash] increases by 30%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40702.png",
+        "name": "Cutter",
+        "chineseName": "卡特短剑",
+        "description": "Knives specially made for cutting things.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40702.png",
+        "name": "Cutter [2]",
+        "chineseName": "卡特短剑[2]",
+        "description": "Knives specially made for cutting things.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Cyanogen Windmill",
+        "chineseName": "青风车",
+        "description": "It's a windmill, but when the wind blows it will not rotate.",
+        "effect": "Atk ＋2%,M.Atk ＋10"
+    },
+    {
+        "imgsrc": null,
+        "name": "Cyanogen Windmill Blueprint",
+        "chineseName": "青风车图纸",
+        "description": "It's a windmill, but when the wind blows it will not rotate.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Cyber Shooter",
+        "chineseName": "赛博射手",
+        "description": "The product of Rekenber Corporation's latest technology and highly sought after by every shooter, this futuristic bow is outfitted with night vision aiming tech as well as wind and gravity correction system.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_52106.png",
+        "name": "Cyfar",
+        "chineseName": "赛依伐",
+        "description": "Rare mineral that emits a blue light. I wonder what you can make with it?",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40705.png",
+        "name": "Dagger",
+        "chineseName": "大驹短剑",
+        "description": "Knives whose blade is properly bended.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40705.png",
+        "name": "Dagger [2]",
+        "chineseName": "大驹短剑[2]",
+        "description": "Knives whose blade is properly bended.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Dark Cuisine Pack",
+        "chineseName": "黑暗料理包裹",
+        "description": "Dark Cuisine Pack is the equipment that every dark cuisine cook dreams of. The Dark Pan made from Nibelungen by a blacksmith combines the arcana of alchemists with the poison of assassins in which the knife named \"Tail\" and a flag representing Dark Cuisine are inserted. [Author: CrazyRyo]",
+        "effect": "M.Atk ＋20,INT ＋5"
+    },
+    {
+        "imgsrc": null,
+        "name": "Dark Cuisine Pack Blueprint",
+        "chineseName": "黑暗料理包裹图纸",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Dark Dancing Mask",
+        "chineseName": "暗黑舞会假面",
+        "description": "Mask worn by the nobility in the dark ages.",
+        "effect": "Max HP ＋200,Hit ＋15"
+    }
+]

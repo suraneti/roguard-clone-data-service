@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Tomahawk [2]",
+        "chineseName": "风灵之斧[2]",
+        "description": "The horrible axe. When being thrown, it will follow the wind to chase the enemy.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Tooth Blade [1]",
+        "chineseName": "牙科手术刀[1]",
+        "description": "Atk + 428",
+        "effect": "Str ＋8,For Refining ＋10, the damage of [Back Stab] to Demi-Human ＋5%; For Refining ＋15, the damage of [Back Stab] to Demi-Human ＋10%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Tooth Blade [2]",
+        "chineseName": "牙科手术刀[2]",
+        "description": "Atk + 428",
+        "effect": "Str ＋8,For Refining ＋10, the damage of [Back Stab] to Demi-Human ＋5%; For Refining ＋15, the damage of [Back Stab] to Demi-Human ＋10%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_52504.png",
+        "name": "Topaz",
+        "chineseName": "黄宝石",
+        "description": "A gem with a yellowish glow. Being a very rare item, it can be used as equipment or to make high-end headwear.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Tough Egg",
+        "chineseName": "坚硬的蛋",
+        "description": "A tough monster egg that cannot hatch out into monsters or serve as food. If you want to, You can try to hatch it. (Open it to find one egg among: Savage Babe Egg, Yoyo Egg, Baby Desert Wolf Egg, Mandragora Egg, Isis Egg, Deviruchi Egg, Green Petite Egg)",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Tower Lab Ejector",
+        "chineseName": "古塔研究院·弹射器",
+        "description": "You can directly open Endless Tower after use. You can enter floors including the first floor to the highest floor you've fought before (up to floor 70). Certainly~ The effect will last until the next reset of Endless Tower.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Toy Nail",
+        "chineseName": "玩具钉子",
+        "description": "",
+        "effect": "Dex ＋3,AGI ＋3"
+    },
+    {
+        "imgsrc": null,
+        "name": "Toy Nail [1]",
+        "chineseName": "玩具钉子[1]",
+        "description": "",
+        "effect": "Str ＋5,Max HP ＋400"
+    },
+    {
+        "imgsrc": null,
+        "name": "Toy Nail [1] Blueprint",
+        "chineseName": "玩具钉子[1]图纸",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Toy·Candy Ring",
+        "chineseName": "玩具·糖果戒指",
+        "description": "The innocent and beautiful moments in memory, I just want to give you all the good, nothing else. Seeing your smile is sweeter than any candy. (spend items to trigger a proposal without special effects)",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_61003.png",
+        "name": "Tracker Gloves [1]",
+        "chineseName": "追踪者腕甲[1]",
+        "description": "An arm protector painted with a Pale Wolf pattern.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Tracker Gloves [2]",
+        "chineseName": "追踪者腕甲[2]",
+        "description": "Tracker Gloves, with incredible power.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Training Ground Monster Report",
+        "chineseName": "训练场·魔物报告",
+        "description": "Use to clear the training ground immediately. Can be used once a day. [Training ground monster report left by brave adventurers that came before]",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12004.png",
+        "name": "Transformation Scroll",
+        "chineseName": "变身卷轴",
+        "description": "Transformation scroll.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12004.png",
+        "name": "Transformation Scroll (Abysmal Knight)",
+        "chineseName": "深渊骑士变身卷轴",
+        "description": "Use it to transform into Abysmal Knight for a while. Attention! The effect will vanish when mounted or dead. This item can’t be canceled once unsealed.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12004.png",
+        "name": "Transformation Scroll (Alarm)",
+        "chineseName": "钟怪变身卷轴",
+        "description": "Use it to transform into Alarm for a while. Attention! The effect will vanish when mounted or dead. This item can’t be canceled once unsealed.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12004.png",
+        "name": "Transformation Scroll (Alice)",
+        "chineseName": "爱丽丝女仆变身卷轴",
+        "description": "Use it to transform into Alice for a while. Attention! The effect will vanish when mounted or dead. This item can’t be canceled once unsealed.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12004.png",
+        "name": "Transformation Scroll (Ancient Clock)",
+        "chineseName": "古钟魔变身卷轴",
+        "description": "Use it to transform into Ancient Clock for a while. Attention! The effect will vanish when mounted or dead. This item can’t be canceled once unsealed.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12004.png",
+        "name": "Transformation Scroll (Andre)",
+        "chineseName": "白蚁变身卷轴",
+        "description": "Use it to transform into Andre for a while. Attention! The effect will vanish when mounted or dead. This item can’t be canceled once unsealed.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12004.png",
+        "name": "Transformation Scroll (Angeling)",
+        "chineseName": "天使波利变身卷轴",
+        "description": "Use it to transform into Angeling for a while. Attention! The effect will vanish when mounted or dead. This item can’t be canceled once unsealed.",
+        "effect": ""
+    }
+]

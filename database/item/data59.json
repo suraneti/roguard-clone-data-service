@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Doom Slayer [2]",
+        "chineseName": "超重双手斧[2]",
+        "description": "A super vast and heavy axe that is too big to describe. Without certain strength, it won't give full play to its real power even being lifted up.",
+        "effect": "When Strength reaches 95, Atk ＋340,With a probability to destroy armors (no content yet)"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Doppelganger Card",
+        "chineseName": "死灵卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41208.png",
+        "name": "Double Bound [1]",
+        "chineseName": "连发弓[1]",
+        "description": "A bow that is specially used for continuous shooting and has a light yet flexible appearance.",
+        "effect": "Agi ＋2,When [Beastmastery] Lv.10 is learned, the damage of [Beastmastery] ＋20%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41208.png",
+        "name": "Double Bound [2]",
+        "chineseName": "连发弓[2]",
+        "description": "A bow that is specially used for continuous shooting and has a light yet flexible appearance.",
+        "effect": "Agi ＋2,When [Beastmastery] Lv.10 is learned, the damage of [Beastmastery] ＋20%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Draco Card",
+        "chineseName": "飞龙卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Dracula Card",
+        "chineseName": "德古拉男爵卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Dragon Egg Card",
+        "chineseName": "龙蛋卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Dragon Fly Card",
+        "chineseName": "龙蝇卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40905.png",
+        "name": "Dragon Howling [2]",
+        "chineseName": "龙之咆哮[2]",
+        "description": "A Katars made of dragon wing scales which are stronger than steel. Give the opponent a sense of great oppression.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40905.png",
+        "name": "Dragon Howling [3]",
+        "chineseName": "龙之咆哮[3]",
+        "description": "A Katars made of dragon wing scales which are stronger than steel. Give the opponent a sense of great oppression.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40703.png",
+        "name": "Dragon Killer [2]",
+        "chineseName": "天龙短剑[2]",
+        "description": "Knives made of dragon teeth can easily pierce the thick skin of the dragon clan and filter the defensive power of the monster of the dragon clan.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40703.png",
+        "name": "Dragon Killer [3]",
+        "chineseName": "天龙短剑[3]",
+        "description": "Knives made of dragon teeth can easily pierce the thick skin of the dragon clan and filter the defensive power of the monster of the dragon clan.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Dragon Manteau [1]",
+        "chineseName": "龙之披风[1]",
+        "description": "A cloak made from the mane of flying dragons.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Dragon Manteau [2]",
+        "chineseName": "龙之披风[2]",
+        "description": "A cloak made from the mane of flying dragons.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Dragon Pike [1]",
+        "chineseName": "击龙枪[1]",
+        "description": "Atk + 202",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Dragon Pike [2]",
+        "chineseName": "击龙枪[2]",
+        "description": "A spear that can easily break away Green Petite's hard scales.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_52315.png",
+        "name": "Dragon Scale",
+        "chineseName": "龙鳞",
+        "description": "These dragon scales are as hard as steel. Legend says they can help with heat or cold resistance. Being a very rare item, it can be used to make high-end headwear.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_48560.png",
+        "name": "Dragon Scale Stripe",
+        "chineseName": "龙鳞纹",
+        "description": "The Alchemy Guild has put the treated dragon scales on the wearer's face, which has successfully improved the wearer's ability.",
+        "effect": "Dex ＋10,INT ＋5"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_48560.png",
+        "name": "Dragon Scale Stripe Blueprint",
+        "chineseName": "龙鳞纹图纸",
+        "description": "The Alchemy Guild has put the treated dragon scales on the wearer's face, which has successfully improved the wearer's ability.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_61502.png",
+        "name": "Dragon Teeth Bracelet [1]",
+        "chineseName": "龙牙手环[1]",
+        "description": "Dragon teeth bracelet, with a magical skill that enables user to share beast's power.",
+        "effect": ""
+    }
+]

@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Defolty Doll Hat[1] Blueprint",
+        "chineseName": "趴趴狄波萝太[1]图纸",
+        "description": "Huge popularity! Headwear made according to Kafra's Defolty. Fascinated by Defolty's smile, many people like to use Kafra's Storage all day long.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Demon Eyepatch",
+        "chineseName": "魔王眼罩",
+        "description": "The information leaked out of the eyes will often become a deadly weapon for the enemy to defeat you. Even a smile will become very evil after wearing a Demon Eyepatch, so the eyepatch are very popular in the evil country.",
+        "effect": "CT Variable -5%,M.Atk ＋3%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Desert Picnic Pad",
+        "chineseName": "沙漠野餐垫",
+        "description": "A picnic pad with the style and design of the desert. You can almost feel the enthusiasm of the desert when using it.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45170.png",
+        "name": "Desert Prince",
+        "chineseName": "沙漠王子头巾",
+        "description": "Headscarf imported from the hottest desert country in the world. It's said a brave prince might have worn this headscarf before.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45170.png",
+        "name": "Desert Prince [1]",
+        "chineseName": "沙漠王子头巾[1]",
+        "description": "Headscarf imported from the hottest desert country in the world. It's said a brave prince might have worn this headscarf before.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45170.png",
+        "name": "Desert Prince [1] Blueprint",
+        "chineseName": "沙漠王子头巾[1]图纸",
+        "description": "Headscarf imported from the hottest desert country in the world. It's said a brave prince might have worn this headscarf before.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40724.png",
+        "name": "Desert Twilight [1]",
+        "chineseName": "沙漠之暮[1]",
+        "description": "Knives made by the Assassin Union.",
+        "effect": "Hit ＋30,Damage to L-size monsters ＋25%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40724.png",
+        "name": "Desert Twilight [2]",
+        "chineseName": "沙漠之暮[2]",
+        "description": "Knives made by the Assassin Union.",
+        "effect": "Hit ＋30,Damage to L-size monsters ＋25%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Desert Wolf Card",
+        "chineseName": "沙漠之狼卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Destroyer Shard",
+        "chineseName": "湮灭者残片",
+        "description": "Shard of the legendary artifact: Destroyer. By collecting rare materials and more debris, with ancient knowledge and legendary Mr. Dragon's skills, you may restore it to the original form.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Detarderous Card",
+        "chineseName": "迪塔勒泰晤勒卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Devil Cat",
+        "chineseName": "好战的恶魔猫",
+        "description": "The devil cat has an unyielding will to not give in, wearing it will make you brave and tenacious.",
+        "effect": "Dex ＋4,Max HP ＋500"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_700007.png",
+        "name": "Devil Cookie",
+        "chineseName": "恶魔甜心",
+        "description": "The sweet deviruchi dessert can restore 180 to 240 Sp.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Devil Drooping Kitty",
+        "chineseName": "恶魔趴趴猫",
+        "description": "\"Meow!\" The cat meows softly, in fact, it may be cursing you... (How long have you not shampooed? Stinky!)",
+        "effect": "Max HP ＋50,Luk ＋1"
+    },
+    {
+        "imgsrc": null,
+        "name": "Devil Drooping Kitty Blueprint",
+        "chineseName": "恶魔趴趴猫图纸",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Devil Drooping Kitty [1]",
+        "chineseName": "恶魔趴趴猫[1]",
+        "description": "",
+        "effect": "Max HP ＋50,Luk ＋1"
+    },
+    {
+        "imgsrc": null,
+        "name": "Devil Wing",
+        "chineseName": "恶魔翅膀",
+        "description": "The wings made by the Devil Soul. With it, the wearer can get terribly powerful, but the mind will be gradually eroded.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Devil Wing",
+        "chineseName": "恶魔的翅膀",
+        "description": "The small wings of demon are similar to the bat's wings. Can be purchased from the collectors.",
+        "effect": "All Attributes ＋1,M.Dmg ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Devil Wing Blueprint",
+        "chineseName": "恶魔的翅膀图纸",
+        "description": "The wings made by the Devil Soul. With it, the wearer can get terribly powerful, but the mind will be gradually eroded.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Devil Wing Blueprint",
+        "chineseName": "恶魔翅膀图纸",
+        "description": "The small wings of demon are similar to the bat's wings. Can be purchased from the collectors.",
+        "effect": ""
+    }
+]

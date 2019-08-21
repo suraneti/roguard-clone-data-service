@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Clock Tower Manager Card",
+        "chineseName": "钟塔守护者卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Clock's Halo",
+        "chineseName": "大本钟的光环",
+        "description": "Clock's Halo",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Cloudwhisk Headwear",
+        "chineseName": "云拂系列头饰",
+        "description": "",
+        "effect": "All Attributes ＋2,Ignore M.Def ＋6%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Cloudwhisk·Flame",
+        "chineseName": "云拂·炎",
+        "description": "A hat that made with cloud, soft and light. After putting it on, it seems like you are closer to the sky. This one has the passionate red.",
+        "effect": "All Attributes ＋2,Ignore M.Def ＋6%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Cloudwhisk·Glacier",
+        "chineseName": "云拂·川",
+        "description": "A hat that made with cloud, soft and light. After putting it on, it seems like you are closer to the sky. This one has the peaceful blue.",
+        "effect": "All Attributes ＋2,Ignore M.Def ＋6%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Cloudwhisk·Purple",
+        "chineseName": "云拂·夕",
+        "description": "A hat that made with cloud, soft and light. After putting it on, it seems like you are closer to the sky. This one has the mysterious purple.",
+        "effect": "All Attributes ＋2,Ignore M.Def ＋6%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Cloudwhisk·Tea",
+        "chineseName": "云拂·茶",
+        "description": "A hat that made with cloud, soft and light. After putting it on, it seems like you are closer to the sky. This one has the gentle green.",
+        "effect": "All Attributes ＋2,Ignore M.Def ＋6%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_48501.png",
+        "name": "Clown Nose",
+        "chineseName": "小丑鼻子",
+        "description": "An accessory worn by a clown on his nose.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_48501.png",
+        "name": "Clown Nose Blueprint",
+        "chineseName": "小丑鼻子图纸",
+        "description": "An accessory worn by a clown on his nose.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41501.png",
+        "name": "Club",
+        "chineseName": "木锤",
+        "description": "A wooden mace convenient for all users.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41501.png",
+        "name": "Club [2]",
+        "chineseName": "木锤[2]",
+        "description": "A wooden mace convenient for all users.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_52403.png",
+        "name": "Coal",
+        "chineseName": "煤炭",
+        "description": "This ore contains many carbon components and can be used to make equipment.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43017.png",
+        "name": "Coat of Dragon Scale",
+        "chineseName": "龙纹外套",
+        "description": "A coat made of 300 Dragon Skins. Legend has it that it can resist the poison gas of dragon.",
+        "effect": "Str ＋2,Max HP ＋100"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43017.png",
+        "name": "Coat of Dragon Scale [1]",
+        "chineseName": "龙纹外套[1]",
+        "description": "A coat made of 300 Dragon Skins. Legend has it that it can resist the poison gas of dragon.",
+        "effect": "Str ＋2,Max HP ＋100"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12106.png",
+        "name": "Cobaltblue Dyestuffs",
+        "chineseName": "蓝色染料",
+        "description": "A magic potion to dye the hair blue.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45203.png",
+        "name": "Coif [1]",
+        "chineseName": "修女的帽子[1]",
+        "description": "The hats worn by nuns in the cathedral, it covers the hair with a sense of self-discipline.",
+        "effect": "Max SP ＋100,M.Dmg ＋5%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45203.png",
+        "name": "Coif [1] Blueprint",
+        "chineseName": "修女的帽子[1]图纸",
+        "description": "The hats worn by nuns in the cathedral, it covers the hair with a sense of self-discipline.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45205.png",
+        "name": "Colorful Eggshell",
+        "chineseName": "彩色蛋壳帽",
+        "description": "Eggshell that represents the start and continuity of the Virgin Mary.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45205.png",
+        "name": "Colorful Eggshell Blueprint",
+        "chineseName": "彩色蛋壳帽图纸",
+        "description": "Eggshell that represents the start and continuity of the Virgin Mary.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40703.png",
+        "name": "Combat Knife [2]",
+        "chineseName": "战斗短剑[2]",
+        "description": "Knives specially used to kill enemies for the fighting purpose.",
+        "effect": ""
+    }
+]

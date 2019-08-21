@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Summer baseball cap·Yellow",
+        "chineseName": "夏日扶桑棒球帽·凤梨黄",
+        "description": "Rebel Bandana with handsome backward Yellow baseball cap, looks surprisingly matching. Wear this to the beach and get a nice looking tan.",
+        "effect": "MAX HP ＋400,Def ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Summer Cap·Green",
+        "chineseName": "夏日向日葵遮阳帽·椰子绿",
+        "description": "Green hat with a big brim which shield your tender skin against the scorching sunlight, the sunflower looks like a gift of some secret admirer.",
+        "effect": "MAX HP ＋400,MDef ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Summer Cap·Ocean blue",
+        "chineseName": "夏日向日葵遮阳帽·海洋蓝",
+        "description": "Blue hat with a big brim which shield your tender skin against the scorching sunlight, the sunflower looks like a gift of some secret admirer.",
+        "effect": "MAX HP ＋400,MDef ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Summer Cap·Red",
+        "chineseName": "夏日向日葵遮阳帽·骄阳红",
+        "description": "Red hat with a big brim which shield your tender skin against the scorching sunlight, the sunflower looks like a gift of some secret admirer.",
+        "effect": "MAX HP ＋400,MDef ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Summer Cap·Yellow",
+        "chineseName": "夏日向日葵遮阳帽·凤梨黄",
+        "description": "Yellow hat with a big brim which shield your tender skin against the scorching sunlight, the sunflower looks like a gift of some secret admirer.",
+        "effect": "MAX HP ＋400,MDef ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Summer festival gift box",
+        "chineseName": "清凉祭特典礼盒",
+        "description": "Summer festival gift box given away by Kafra ladies, open to guaranteed receive a Kafra Summer cone, and chance to have ONE of the follow: Mora coin*1, Lightning Chain*1, Gold Medal*1, Guild's Gift*10, Seed of Mastela*1, Eden Coin*100",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Summer Headwear series",
+        "chineseName": "夏日扶桑系列头饰",
+        "description": "Rebel Bandana with handsome backward baseball cap, looks surprisingly matching. Wear this to the beach and get a nice looking tan.",
+        "effect": "MAX HP ＋400,Def ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Summer Headwear series",
+        "chineseName": "夏日向日葵系列头饰",
+        "description": "Hat with a big brim which shield your tender skin against the scorching sunlight, the sunflower looks like a gift of some secret admirer.",
+        "effect": "MAX HP ＋400,MDef ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Summer Night Crown",
+        "chineseName": "仲夏夜之冠",
+        "description": "",
+        "effect": "Dex ＋3,AGI ＋3"
+    },
+    {
+        "imgsrc": null,
+        "name": "Summer Penguin",
+        "chineseName": "夏日企鹅",
+        "description": "This penguin under the summer sun is the definition of relaxation. When you lie on the floor, he won't just stand there. (Thank you for your purchase. This pretty adornment cannot be traded in the Exchange until the event is over~ From Ina, August, 2017)",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_3034.png",
+        "name": "Summer_Test Card Pack",
+        "chineseName": "Summer_Test卡片礼包",
+        "description": "A Card Pack for adventurers. Open it to receive 3 Cards of random quality.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_3035.png",
+        "name": "Summer_Test Gratitude Pack",
+        "chineseName": "Summer_Test感恩礼包",
+        "description": "A Gratitude Pack for adventurers. Open it to receive Dead Branch x20, Eden Coin x6666, Gold Coin x8888, Card Pack x1.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Summon Syrup",
+        "chineseName": "集结糖浆",
+        "description": "The syrup that provides you with leadership skills. Drink it and you will be able to blow the battle horn, and Teleport your Party members from the Guild Battle and Arena to your side.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Summoner Coat",
+        "chineseName": "唤魔者大衣",
+        "description": "The wearer can feel the power of magic in his clothes, and his mind will become clear.",
+        "effect": "Dex ＋2,Max SP ＋60"
+    },
+    {
+        "imgsrc": null,
+        "name": "Summoner Coat [1]",
+        "chineseName": "唤魔者大衣[1]",
+        "description": "The wearer can feel the power of magic in his clothes, and his mind will become clear.",
+        "effect": "Dex ＋2,Max SP ＋60"
+    },
+    {
+        "imgsrc": null,
+        "name": "Sun Back Headwear Shard",
+        "chineseName": "太阳背饰残片",
+        "description": "Shard of the legendary artifact: Sun God Back Headwear. A shard left on the battleground of gods. Collect materials and shards and go to Miss Futraca to restore it to its former glory!",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Sun Hat Shard",
+        "chineseName": "太阳头盔残片",
+        "description": "Shard of the legendary artifact: Hat of the Sun God.  A shard left on the battleground of gods. Collect materials and shards and go to Miss Futraca to restore it to its former glory!",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45066.png",
+        "name": "Sunday Hat",
+        "chineseName": "出游帽子",
+        "description": "Hat that brings happiness when you put it on.",
+        "effect": "M.Def ＋10,When Refining 10, CT Variable -15%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45066.png",
+        "name": "Sunday Hat Blueprint",
+        "chineseName": "出游帽子图纸",
+        "description": "Hat that brings happiness when you put it on.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45066.png",
+        "name": "Sunday Hat [1]",
+        "chineseName": "出游帽子[1]",
+        "description": "Hat that brings happiness when you put it on.",
+        "effect": "M.Def ＋10,When Refining 10, CT Variable -15%"
+    }
+]

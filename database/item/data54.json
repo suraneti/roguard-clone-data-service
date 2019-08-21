@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42036.png",
+        "name": "Deathcat Armor [1]",
+        "chineseName": "迪斯凯特的软甲[1]",
+        "description": "Imitation of mercenary's clothes in Deathcat's time. Though as an imitation, the armor is exquisitely Crafted.",
+        "effect": "Luk ＋5,When equipped by swordsmen, Merchants, Thieves, Stun Resistance ＋50%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Deathcat Boots",
+        "chineseName": "迪斯凯特的雨靴",
+        "description": "Ordinary rainboots also can turn into magic equipment after being forged by Great Sage, Deathcat.",
+        "effect": "Def ＋20,When equipped by swordsmen, Merchants, Thieves, Max SP ＋ (Job Lv x5)"
+    },
+    {
+        "imgsrc": null,
+        "name": "Deathcat Boots [1]",
+        "chineseName": "迪斯凯特的雨靴[1]",
+        "description": "Ordinary rainshoes, with amazing power after being forged by Deathcat.",
+        "effect": "Def ＋20,When equipped by swordsmen, Merchants, Thieves, Max SP ＋ (Job Lv x5)"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43005.png",
+        "name": "Deathcat Cape",
+        "chineseName": "迪斯凯特的披风",
+        "description": "Imitation of mercenary's clothes in Deathcat's time. Though as an imitation, the cloak is exquisitely Crafted.",
+        "effect": "When equipped by wizards, Archers, Acolytes, Flee ＋35,When Refining ＋10, Damage reflection ＋15%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45193.png",
+        "name": "Deathcat Helm",
+        "chineseName": "迪斯凯特的头盔",
+        "description": "It's made according to the clothes of sage Deathcat during the mercenary time. Although it's a reproduction, the helmet is surprisingly well made.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45193.png",
+        "name": "Deathcat Helm [1]",
+        "chineseName": "迪斯凯特的头盔[1]",
+        "description": "It's made according to the clothes of sage Deathcat during the mercenary time. Although it's a reproduction, the helmet is surprisingly well made.",
+        "effect": "M.Def ＋10,EXP penalty for death -20%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45193.png",
+        "name": "Deathcat Helm [1] Blueprint",
+        "chineseName": "迪斯凯特的头盔[1]图纸",
+        "description": "It's made according to the clothes of sage Deathcat during the mercenary time. Although it's a reproduction, the helmet is surprisingly well made.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43536.png",
+        "name": "Deathcat Shoes",
+        "chineseName": "迪斯凯特的便靴",
+        "description": "Imitation of mercenary's clothes in Deathcat's time. Though as an imitation, the boots are exquisitely Crafted.",
+        "effect": "When equipped by wizards, Archers, Priests, Max HP ＋(Base Lv×5),When equipped by swordsmen, Merchants, Thieves, Max SP ＋ (Job Lv x2)"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43536.png",
+        "name": "Deathcat Shoes [1]",
+        "chineseName": "迪斯凯特的便靴[1]",
+        "description": "Imitation of mercenary's clothes in Deathcat's time. Though as an imitation, the boots are exquisitely Crafted.",
+        "effect": "When equipped by wizards, Archers, Priests, Max HP ＋(Base Lv×5),When equipped by swordsmen, Merchants, Thieves, Max SP ＋ (Job Lv x2)"
+    },
+    {
+        "imgsrc": null,
+        "name": "Dec. 11 Lucky Bag",
+        "chineseName": "双十一福袋",
+        "description": "The Dec.11 lucky bag released by Kafra. Use it and you will gain several zeny. (The bag is sold by Jack instead )",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Dec. 2017 Gashapon Chest",
+        "chineseName": "17年12月扭蛋盒",
+        "description": "Kafra's special headwear Gashapon toy chest, to express your sincere affection! Open it to receive friend's blessing cards and 10 headwear Gashapon toys relative to 10 months.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Dec. 2017 Premium",
+        "chineseName": "2017.12月限定特典",
+        "description": "\"Finally, on this day, the children are excitedly looking forward to their gifts. They are looking out of the window from their quilts, looking at the fireplace, watching the stockings used for gift giving, and are so excited that even if they accidentally fall asleep, they will not realize.\" To thank you for your long-time support of our company, Kafra has issued a special monthly card. Holding it in hands, you can feel the magic power within it. It is practical and of great value.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Dec. 2018 Premium",
+        "chineseName": "2018.12月限定特典",
+        "description": "“Finally! It is Christmas again! What kind of gift will I receive? Everyone is so happy during the Christmas dinner. Listening the Christmas song, are you still waiting for Santa Claus?” The famous Kafra, co is appreciated for all the adventurers' support and published this special monthly premium card. When you holding it on your hand, it will grant you a special power. Plus, it is very efficient and high value",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45094.png",
+        "name": "Decorative Golden Bell",
+        "chineseName": "巨大金铃铛",
+        "description": "It's made according to the accessories of the famous monster, Sohee. The big bell highlights its cuteness.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45094.png",
+        "name": "Decorative Golden Bell Blueprint",
+        "chineseName": "巨大金铃铛图纸",
+        "description": "It's made according to the accessories of the famous monster, Sohee. The big bell highlights its cuteness.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45094.png",
+        "name": "Decorative Golden Bell [1]",
+        "chineseName": "巨大金铃铛[1]",
+        "description": "It's made according to the accessories of the famous monster, Sohee. The big bell highlights its cuteness.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Deep Sea Love",
+        "chineseName": "深海眷恋",
+        "description": "Clara is a light blue fish who lives alone on the ocean floor. The lost girl stumbled into her realm, but she gained a soft kiss: “Can you stay and be my friend?",
+        "effect": "Atk +20, M.Atk +20"
+    },
+    {
+        "imgsrc": null,
+        "name": "Def Card",
+        "chineseName": "防御晶片",
+        "description": "The healing ointment, made by the goddess, accidentally fell into the man's world from god's land. It was made into a card with the protection of goddess by alchemists. Valkyrie can infuse the card power into the body of adventurers in order to boost their VIT and Def.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Defolty Doll Hat",
+        "chineseName": "趴趴狄波萝太",
+        "description": "Huge popularity! Headwear made according to Kafra's Defolty. Fascinated by Defolty's smile, many people like to use Kafra's Storage all day long.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Defolty Doll Hat [1]",
+        "chineseName": "趴趴狄波萝太[1]",
+        "description": "Huge popularity! Headwear made according to Kafra's Defolty. Fascinated by Defolty's smile, many people like to use Kafra's Storage all day long.",
+        "effect": ""
+    }
+]

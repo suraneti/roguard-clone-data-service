@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_500510.png",
+        "name": "Big Cat Royal Pack 2.0",
+        "chineseName": "B格猫皇家红包2.0",
+        "description": "A red pack from Big Cat, a precious new year present!",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Big Cat Squad Card",
+        "chineseName": "B格猫战队卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Big Cat Voucher I",
+        "chineseName": "B格猫福利券·I",
+        "description": "The voucher issued by Kafra. It can be used to experience Fantasy Generator I. (Warm tips from Kafra: the voucher should not be used at the same time with Big Cat Coin.)",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Big Cat Voucher II",
+        "chineseName": "B格猫福利券·Ⅱ",
+        "description": "The voucher issued by Kafra. It can be used to experience Fantasy Generator II. (Warm tips from Kafra: the voucher should not be used at the same time with Big Cat Coin.)",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Big Cat Voucher III",
+        "chineseName": "B格猫福利券·Ⅲ",
+        "description": "The voucher issued by Kafra. It can be used to experience Fantasy Generator III. (Warm tips from Kafra: the voucher should not be used at the same time with Big Cat Coin.)",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Big Cat Voucher·Feast",
+        "chineseName": "B格猫福利券·宴",
+        "description": "The voucher issued by Kafra. It can be used to experience Fantasy Generator Feast. (Warm tips from Kafra: the voucher should not be used at the same time with Big Cat Coin.)",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Big Cat Wedding Voucher",
+        "chineseName": "B格猫的婚庆礼券",
+        "description": "Issued by Big Cat wedding company~ Redeem a wedding schedule within the next 21 days from Miss Happiness~",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Big Cat's Lucky Bag",
+        "chineseName": "B格猫福袋",
+        "description": "To thank the adventurers for their support, Kafra Company has launched this Party Gratitude Pack, which contains Gorgeous Card Album x1, Valkyrie's Gift x2, Silver Medal x10. (each account is allowed to purchase this gratitude pack 3 times per month)",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Big Cat's New Year Red Packet",
+        "chineseName": "B格猫守岁红包",
+        "description": "As the wealthiest cat on this land, I'm giving each of you a new year red packet~ Meow~",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45019.png",
+        "name": "Big Ribbon",
+        "chineseName": "红蝶发带",
+        "description": "Big butterfly knot. It makes woman more cute and beautiful.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45019.png",
+        "name": "Big Ribbon [1]",
+        "chineseName": "红蝶发带[1]",
+        "description": "A large bow that can make women more lovely and beautiful. (As a graduation gift, it's been quite popular among high school students.)",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45019.png",
+        "name": "Big Ribbon [1] Blueprint",
+        "chineseName": "红蝶发带[1]图纸",
+        "description": "Big butterfly knot. It makes woman more cute and beautiful.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Bigfoot Card",
+        "chineseName": "大脚熊卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40011.png",
+        "name": "Bill Guisarme [1]",
+        "chineseName": "修尔特长矛[1]",
+        "description": "A spear with a curved blade at the top cannot only be used for stabbing, but also for chopping.",
+        "effect": "Hit ＋25,Damage Dealt to Boss ＋10%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40011.png",
+        "name": "Bill Guisarme [2]",
+        "chineseName": "修尔特长矛[2]",
+        "description": "A spear with a curved blade at the top cannot only be used for stabbing, but also for chopping.",
+        "effect": "Hit ＋25,Damage Dealt to Boss ＋10%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Billow",
+        "chineseName": "海浪雕像",
+        "description": "On windy days, the surging waves make sculptures.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_52317.png",
+        "name": "Biotite",
+        "chineseName": "黑云母",
+        "description": "Mica that resembles black scales. Being a very rare item, it can be used to make high-end headwear.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45081.png",
+        "name": "Biretta",
+        "chineseName": "圣职之帽",
+        "description": "Hat that at gives an air of authority when you put it on and symbolizes clergyman.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45081.png",
+        "name": "Biretta [1]",
+        "chineseName": "圣职之帽[1]",
+        "description": "Hat that at gives an air of authority when you put it on and symbolizes clergyman.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45081.png",
+        "name": "Biretta [1] Blueprint",
+        "chineseName": "圣职之帽[1]图纸",
+        "description": "Hat that at gives an air of authority when you put it on and symbolizes clergyman.",
+        "effect": ""
+    }
+]

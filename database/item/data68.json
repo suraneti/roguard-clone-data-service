@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40631.png",
+        "name": "Enchanted Staff [2]",
+        "chineseName": "附魔长杖[2]",
+        "description": "The magic Rune on the staff has the secondary magic which can enhance the wearer's attributes. Because it is the work of magic apprentice, so it is much cheaper than general magic props.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_4001.png",
+        "name": "End of Adventure",
+        "chineseName": "冒险的终点",
+        "description": "A wizard music record. With it, You can order songs in the music box spot newly designed by Kafra. [This song records the story of ancient brave defeating a Demon King. The music will continuously be spread by the minstrels.]",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "End Sectora [1]",
+        "chineseName": "急冻战斧[1]",
+        "description": "The axe made of the ore from the extremely cold area can make people feel chilled.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "End Sectora [2]",
+        "chineseName": "急冻战斧[2]",
+        "description": "The axe made of the ore from the extremely cold area can make people feel chilled.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Endurance Necklace",
+        "chineseName": "强体项链",
+        "description": "The masterpiece of master Leman, inlaid with his magic force, can strengthen user's vitality.",
+        "effect": "VIT ＋5,Max HP ＋3%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Energy Cocoa",
+        "chineseName": "能量可可",
+        "description": "After 12 hours of fermentation, the energy drink is mixed in the hot cocoa, creating an unique taste that will wow everyone. Drinking it restores 50% of Max HP and Max SP, the recovery value is according to the actual HP in GVG. This item can only be used in the PVP maps.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Energy Rune Guard [1]",
+        "chineseName": "符文盾[1]",
+        "description": "The steel shield has a Mithril magic rune at the center.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Energy Rune Guard [2]",
+        "chineseName": "符文盾[2]",
+        "description": "Defensive props made of hard metal.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Engineer’s Wrench [1]",
+        "chineseName": "工程扳手[1]",
+        "description": "\"when you pick it up, you choose a life. It is going to be your most reliable partner. \" The Legendary Midgard Mechanic.",
+        "effect": "Str ＋5,＋2% [Suicidal Destruction] damage for each refining level"
+    },
+    {
+        "imgsrc": null,
+        "name": "Engineer’s Wrench [2]",
+        "chineseName": "工程扳手[2]",
+        "description": "\"when you pick it up, you choose a life. It is going to be your most reliable partner. \" The Legendary Midgard Mechanic.",
+        "effect": "Str ＋5,＋2% [Suicidal Destruction] damage for each refining level"
+    },
+    {
+        "imgsrc": null,
+        "name": "Engorging Lee",
+        "chineseName": "贪吃的多多狸",
+        "description": "Lee always likes to imitate human behavior, but he is actually a greedy smokie.",
+        "effect": "Ignore M.Def ＋3%,Max HP ＋400"
+    },
+    {
+        "imgsrc": null,
+        "name": "Enhancing Essence Box I",
+        "chineseName": "强化精华礼盒I",
+        "description": "Alchemist [Spike]'s special collection, it was full of his Alchemy products. Open to receive 8 to 20 Enhancing Essence I.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Enhancing Essence Box II",
+        "chineseName": "强化精华礼盒II",
+        "description": "Alchemist [Spike]'s special collection, it was full of his Alchemy products. Open to receive 8 to 20 Enhancing Essence II.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Enhancing Essence Box III",
+        "chineseName": "强化精华礼盒III",
+        "description": "Alchemist [Spike]'s special collection, it was full of his Alchemy products. Open to receive 8 to 20 Enhancing Essence III.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Enhancing Essence I",
+        "chineseName": "强化精华I",
+        "description": "Mysterious materials made by alchemist. The great masterpiece of alchemist [Spike]! Enhancing essence will help adventurers understand the secrets of refinement. It helps to improve the refining effect.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Enhancing Essence II",
+        "chineseName": "强化精华II",
+        "description": "Mysterious materials made by alchemist. The great masterpiece of alchemist [Spike]! Enhancing essence will help adventurers understand the secrets of refinement. It helps to improve the refining effect.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Enhancing Essence III",
+        "chineseName": "强化精华III",
+        "description": "Mysterious materials made by alchemist. The great masterpiece of alchemist [Spike]! Enhancing essence will help adventurers understand the secrets of refinement. It helps to improve the refining effect.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Enhancing Essence IV",
+        "chineseName": "强化精华IV",
+        "description": "Mysterious materials made by alchemist. The great masterpiece of alchemist [Spike]! Enhancing essence will help adventurers understand the secrets of refinement. It helps to improve the refining effect.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Enhancing Essence V",
+        "chineseName": "强化精华V",
+        "description": "Mysterious materials made by alchemist. The great masterpiece of alchemist [Spike]! Enhancing essence will help adventurers understand the secrets of refinement. It helps to improve the refining effect.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_5027.png",
+        "name": "Enriched Elunium",
+        "chineseName": "浓缩铝",
+        "description": "The material needed for equipment refining, it can be used to refine the armor.",
+        "effect": ""
+    }
+]

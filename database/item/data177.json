@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40601.png",
+        "name": "Rafini Staff [3]",
+        "chineseName": "拉斐尔之杖[3]",
+        "description": "A stick made of the stones frequently used by the Lamini clan when gathering magic.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43004.png",
+        "name": "Ragamuffin Manteau",
+        "chineseName": "抗魔斗篷",
+        "description": "A good defensive cloak for magic.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43004.png",
+        "name": "Ragamuffin Manteau [1]",
+        "chineseName": "抗魔斗篷[1]",
+        "description": "A good defensive cloak for magic.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Ragamuffin Manteau [2]",
+        "chineseName": "抗魔斗篷[2][待定]",
+        "description": "A good defensive cloak for magic.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Rage Cake",
+        "chineseName": "怒意蛋糕",
+        "description": "The cute cake filled with strange candy, eating it Taunts people's anger. Within 60 seconds, each auto attack deals 200 points of True Dmg. This item can only be used on PVP maps.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Rage of Asgard",
+        "chineseName": "阿斯加德之怒",
+        "description": "This big hammer is made from the Shards of Asa God realm. In the war of \"The Dusk of The Gods\", it not only won the great snake Jormungandr, but also destroyed the area of tens of thousands of kilometers in ruins just within a second. (Better used as the weapon skin)",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_4001.png",
+        "name": "Ragnarok Title (Eternal Love Mix)",
+        "chineseName": "Ragnarok Title (Eternal Love Mix)",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45137.png",
+        "name": "Rain Cloud",
+        "chineseName": "雷阵雨云",
+        "description": "Cloud that rains thunder shower.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45137.png",
+        "name": "Rain Cloud [1]",
+        "chineseName": "雷阵雨云[1]",
+        "description": "Cloud that rains thunder shower.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45137.png",
+        "name": "Rain Cloud [1] Blueprint",
+        "chineseName": "雷阵雨云[1]图纸",
+        "description": "Cloud that rains thunder shower.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Rain Flute",
+        "chineseName": "雨檀笛",
+        "description": "Wenbala Rain Clan's traditional instrument, sounds sharp and pretty. How many stories are hiding in the OG music?",
+        "effect": "Max Hp ＋100,Magic damage reduction ＋2%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Rain of Arrow Card",
+        "chineseName": "万箭增发卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Rainbow Bridge",
+        "chineseName": "彩虹之桥",
+        "description": "The rainbow bridge leading to divinity becomes a finger wheel that ties you and me so we will never be separated.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Rainbow Peco Peco Hairband",
+        "chineseName": "七彩大嘴鸟之翼",
+        "description": "Helmet that makes you feel the wings of Peco Peco are attached to your body. It can move as fast as Peco Peco.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Rainbow Peco Peco Hairband Blueprint",
+        "chineseName": "七彩大嘴鸟之翼图纸",
+        "description": "Helmet that makes you feel the wings of Peco Peco are attached to your body. It can move as fast as Peco Peco.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Rainbow Unicorn",
+        "chineseName": "彩虹独角兽",
+        "description": "",
+        "effect": "Luk ＋5,Cri ＋3"
+    },
+    {
+        "imgsrc": null,
+        "name": "Rainbow Unicorn Blueprint",
+        "chineseName": "彩虹独角兽图纸",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Rainbow Unicorn [1]",
+        "chineseName": "彩虹独角兽[1]",
+        "description": "",
+        "effect": "Luk ＋5,Cri ＋3"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45178.png",
+        "name": "Ramen Hat",
+        "chineseName": "拉面头饰",
+        "description": "Ramen on the head. Eat it when you're hungry!",
+        "effect": "Dex ＋1,When Refining ＋10, Dex ＋4, Hit ＋10"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45178.png",
+        "name": "Ramen Hat [1]",
+        "chineseName": "拉面头饰[1]",
+        "description": "Ramen on the head. Eat it when you're hungry!",
+        "effect": "Dex ＋1,When Refining ＋10, Dex ＋4, Hit ＋10"
+    }
+]

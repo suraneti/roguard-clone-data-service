@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Refine ＋12 Helm Voucher",
+        "chineseName": "精炼+12盔甲券",
+        "description": "The admiring armor voucher. After use, the refining level of equipped armor will increase to ＋12.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Refine ＋12 Off-hand Voucher",
+        "chineseName": "精炼+12副手券",
+        "description": "The admiring off-hand voucher. After use, the refining level of equipped off-hand weapon will increase to ＋12.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Refine ＋12 Shoes Voucher",
+        "chineseName": "精炼+12鞋子券",
+        "description": "The admiring shoe voucher. After use, the refining level of equipped shoes will increase to ＋12.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Refine ＋12 Weapon Voucher",
+        "chineseName": "精炼+12武器券",
+        "description": "The admiring weapon voucher. After use, the refining level of equipped weapon will increase to ＋12.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Refine ＋5 Accessory Voucher",
+        "chineseName": "精炼+5饰品券",
+        "description": "The admiring accessory voucher. After use, the refining level of equipped accessory (upper body) will increase to ＋5.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Refine ＋5 Cape Voucher",
+        "chineseName": "精炼+5披风券",
+        "description": "The admiring cape voucher. After use, the refining level of equipped cape will increase to ＋5.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Refine ＋5 Helm Voucher",
+        "chineseName": "精炼+5盔甲券",
+        "description": "The admiring armor voucher. After use, the refining level of equipped armor will increase to ＋5.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Refine ＋5 Off-hand Voucher",
+        "chineseName": "精炼+5副手券",
+        "description": "The admiring off-hand voucher. After use, the refining level of equipped off-hand weapon will increase to ＋5.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Refine ＋5 Shoes Voucher",
+        "chineseName": "精炼+5鞋子券",
+        "description": "The admiring shoe voucher. After use, the refining level of equipped shoes will increase to ＋5.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Refine ＋5 Weapon Voucher",
+        "chineseName": "精炼+5武器券",
+        "description": "The admiring weapon voucher. After use, the refining level of equipped weapon will increase to ＋5.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Refine ＋8 Accessory Voucher",
+        "chineseName": "精炼+8饰品券",
+        "description": "The admiring accessory voucher. After use, the refining level of equipped accessory (upper body) will increase to ＋8.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Refine ＋8 Cape Voucher",
+        "chineseName": "精炼+8披风券",
+        "description": "The admiring cape voucher. After use, the refining level of equipped cape will increase to ＋8.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Refine ＋8 Helm Voucher",
+        "chineseName": "精炼+8盔甲券",
+        "description": "The admiring armor voucher. After use, the refining level of equipped armor will increase to ＋8.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Refine ＋8 Off-hand Voucher",
+        "chineseName": "精炼+8副手券",
+        "description": "The admiring off-hand voucher. After use, the refining level of equipped off-hand weapon will increase to ＋8.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Refine ＋8 Shoes Voucher",
+        "chineseName": "精炼+8鞋子券",
+        "description": "The admiring shoe voucher. After use, the refining level of equipped shoes will increase to ＋8.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Refine ＋8 Weapon Voucher",
+        "chineseName": "精炼+8武器券",
+        "description": "The admiring weapon voucher. After use, the refining level of equipped weapon will increase to ＋8.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_3615.png",
+        "name": "Refining Material Chest I",
+        "chineseName": "精炼补给箱I",
+        "description": "Open it to receive refining materials.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_3615.png",
+        "name": "Refining Material Chest II",
+        "chineseName": "精炼补给箱II",
+        "description": "Open it to receive refining materials.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Regal Black",
+        "chineseName": "玄英子·黛黑",
+        "description": "Use to redeem job Costume Regal Black at \"Prontera\" Costume shop",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Rei Ayanami Headwear",
+        "chineseName": "绫波零头饰",
+        "description": "\"I'm very sorry, I don't know what I should do or feel at a time like this.\" \"Why don't you just try smiling.\"",
+        "effect": "M.Atk +20,M.Atk +4%"
+    }
+]

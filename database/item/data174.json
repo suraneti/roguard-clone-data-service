@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_44001.png",
+        "name": "Psychic Earring [1]",
+        "chineseName": "通灵耳环[1]",
+        "description": "A ring that inspires the user's potential, also a magic ring that detects enemy's weakness.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12122.png",
+        "name": "Pumpkin",
+        "chineseName": "南瓜",
+        "description": "The edible pumpkin that can restore 55-85 points of HP.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Pumpkin Hairband",
+        "chineseName": "南瓜发带",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Pumpkin Hairband Blueprint",
+        "chineseName": "南瓜发带图纸",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Pumpkin Hairband [1]",
+        "chineseName": "南瓜发带[1]",
+        "description": "",
+        "effect": "Dex ＋3,AGI ＋3"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Punk Card",
+        "chineseName": "朽魔卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Pupa Card",
+        "chineseName": "虫蛹卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Pupa★Card",
+        "chineseName": "虫蛹★卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45117.png",
+        "name": "Puppy Headband",
+        "chineseName": "小狗发圈",
+        "description": "Hat made according to the look of cute dog ears. It gives a cute and pure visual effect.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45117.png",
+        "name": "Puppy Headband Blueprint",
+        "chineseName": "小狗发圈图纸",
+        "description": "Hat made according to the look of cute dog ears. It gives a cute and pure visual effect.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45117.png",
+        "name": "Puppy Headband [1]",
+        "chineseName": "小狗发圈[1]",
+        "description": "Hat made according to the look of cute dog ears. It gives a cute and pure visual effect.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45048.png",
+        "name": "Puppy Love",
+        "chineseName": "花冠",
+        "description": "A flower hat. It shows the feeling of puppy love between young girls and boys.",
+        "effect": "Luk ＋3,For Refining ＋1, Flee ＋1 (up to 15)"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45048.png",
+        "name": "Puppy Love [1]",
+        "chineseName": "花冠[1]",
+        "description": "A flower hat. It shows the feeling of puppy love between young girls and boys.",
+        "effect": "Luk ＋3,For Refining ＋1, Flee ＋1 (up to 15)"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12328.png",
+        "name": "Pure Holy Water",
+        "chineseName": "纯净圣水",
+        "description": "The holy water used in the sacrament, it has the blessing effect to restore 25% of Max SP and random remove some negative effects.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Purification Holy Grail Glast Heim Outskirt",
+        "chineseName": "净化圣杯·古城郊外",
+        "description": "Smash the Holy Grail to purify all monsters in [Glast Heim Outskirt] Time Rift with Holy Water. [This unstable invention is moderately effective in controlling the number of monsters swarming out of the Time Rift. However, complicated production techniques are controlled by the church. We can only get them through special ways... We're considering one thing that what can we do if monsters are immune to it? ...]",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Purification Holy Grail Mjolnir",
+        "chineseName": "净化圣杯·妙勒尼",
+        "description": "Smash the Holy Grail to purify all monsters in [Mjolnir] Time Rift with Holy Water. [This unstable invention is moderately effective in controlling the number of monsters swarming out of the Time Rift. However, complicated production techniques are controlled by the church. We can only get them through special ways... We're considering one thing that what can we do if monsters are immune to it? ...]",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Purification Holy Grail Orc Village",
+        "chineseName": "净化圣杯·兽人村",
+        "description": "Smash the Holy Grail to purify all monsters in [Orc Village] Time Rift with Holy Water. [This unstable invention is moderately effective in controlling the number of monsters swarming out of the Time Rift. However, complicated production techniques are controlled by the church. We can only get them through special ways... We're considering one thing that what can we do if monsters are immune to it? ...]",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Purification Holy Grail Payon",
+        "chineseName": "净化圣杯·斐扬",
+        "description": "Smash the Holy Grail to purify all monsters in [Payon] Time Rift with Holy Water. [This unstable invention is moderately effective in controlling the number of monsters swarming out of the Time Rift. However, complicated production techniques are controlled by the church. We can only get them through special ways... We're considering one thing that what can we do if monsters are immune to it? ...]",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Purification Holy Grail Sograt",
+        "chineseName": "净化圣杯·苏克拉",
+        "description": "Smash the Holy Grail to purify all monsters in [Sograt] Time Rift with Holy Water. [This unstable invention is moderately effective in controlling the number of monsters swarming out of the Time Rift. However, complicated production techniques are controlled by the church. We can only get them through special ways... We're considering one thing that what can we do if monsters are immune to it? ...]",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Purification Holy Grail Underwater",
+        "chineseName": "净化圣杯·海底",
+        "description": "Smash the Holy Grail to purify all monsters in [Underwater] Time Rift with Holy Water. [This unstable invention is moderately effective in controlling the number of monsters swarming out of the Time Rift. However, complicated production techniques are controlled by the church. We can only get them through special ways... We're considering one thing that what can we do if monsters are immune to it? ...]",
+        "effect": ""
+    }
+]

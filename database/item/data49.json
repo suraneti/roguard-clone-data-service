@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Dark Dancing Mask Blueprint",
+        "chineseName": "暗黑舞会假面图纸",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Dark Illusion Card",
+        "chineseName": "迷幻之王卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_48535.png",
+        "name": "Dark Knight Mask",
+        "chineseName": "黑暗骑士面具",
+        "description": "Even if attacked by the Dark Str, the owner of the mask will still implement the knight doctrine until he dies.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_48535.png",
+        "name": "Dark Knight Mask Blueprint",
+        "chineseName": "黑暗骑士面具图纸",
+        "description": "Even if attacked by the Dark Str, the owner of the mask will still implement the knight doctrine until he dies.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Dark Lord Card",
+        "chineseName": "黑暗之王卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Dark Lord Wings",
+        "chineseName": "暗黑领主之翼",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Dark Lord Wings Blueprint",
+        "chineseName": "暗黑领主之翼图纸",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Dark Priest Card",
+        "chineseName": "暗黑祭司卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Dark Randgris Helm",
+        "chineseName": "暗黑头盔",
+        "description": "Helmet made of dark power. It improves the concentration of the wearer.",
+        "effect": "All Attributes ＋2,Max HP ＋800"
+    },
+    {
+        "imgsrc": null,
+        "name": "Dark Randgris Helm [1]",
+        "chineseName": "暗黑头盔[1]",
+        "description": "Helmet made of dark power. It improves the concentration of the wearer.",
+        "effect": "All Attributes ＋2,Max HP ＋800"
+    },
+    {
+        "imgsrc": null,
+        "name": "Dark Randgris Helm [1] Blueprint",
+        "chineseName": "暗黑头盔[1]图纸",
+        "description": "Helmet made of dark power. It improves the concentration of the wearer.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Dark Shadow",
+        "chineseName": "暗影之殇",
+        "description": "\"Fierce Frost\" is the name of this Katar which is said to be the powerful weapon forged by the same person who made \"the sword of fierce light\" \"Fierce Light\" serves the king. When the king loses his virtue, the \"Fierce Frost\" will appear and punish the king. In the year of A.W800 which is the end of \"Glast Heim\", the lurker of the Krehollen Clan family stabbed Himmelmez by it, causing him the wound that could never heal. (Better used as the weapon skin)",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Dark Shadow Card",
+        "chineseName": "黑影幽灵卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Dark Wizard Hat",
+        "chineseName": "黑暗巫师帽",
+        "description": "Under the broad brim of the hat, the magic crept, as if there were a voice whispering in his ear, \"come on, be the ruler of magic and power.\"",
+        "effect": "All Attributes ＋2,M.Atk ＋12"
+    },
+    {
+        "imgsrc": null,
+        "name": "Day Lily Gift Box",
+        "chineseName": "萱之礼盒",
+        "description": "A gift box full of gratitude!  Open to get guaranteed: 15 x Adventure Meatball, 10 x Pet EXP Potion (L), 20 x Fireworks. Grants one of the following items randomly: 1 x Seed of Mastela, 1x Mora Coin, 1 x Card album remains, 1 x Hardcover Card album remains",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41504.png",
+        "name": "Dea Staff [2]",
+        "chineseName": "黛雅权杖[2]",
+        "description": "A long stick carved with the image of the holy goddess of light.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41504.png",
+        "name": "Dea Staff [3]",
+        "chineseName": "黛雅权杖[3]",
+        "description": "A long stick carved with the image of the holy goddess of light.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12020.png",
+        "name": "Dead Branch",
+        "chineseName": "枯树枝",
+        "description": "After an extremely long time it developed magical branches with a mysterious power that can summon anything living. The summoned monster can survive for up to 10 minutes. (Can only be used in guild territory.)",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12020.png",
+        "name": "Dead Branch (Alice)",
+        "chineseName": "枯树枝(爱丽丝女仆)",
+        "description": "You can use it to summon Alice in Guild Fortress. Attention! The wild Boss and Boss summoned by Dead Branch have the same attributes, and they cannot be damaged and looted for 2 hours because of the operation of \"Channel Teleporter\". The monster summoned will survive for up to 10 minutes.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12020.png",
+        "name": "Dead Branch (Angeling)",
+        "chineseName": "枯树枝(天使波利)",
+        "description": "You can use it to summon Angeling in Guild Fortress. Attention! The wild Boss and Boss summoned by Dead Branch have the same attributes, and they cannot be damaged and looted for 2 hours because of the operation of \"Channel Teleporter\". The monster summoned will survive for up to 10 minutes.",
+        "effect": ""
+    }
+]

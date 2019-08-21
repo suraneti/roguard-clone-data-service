@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Saint Ring [1]",
+        "chineseName": "圣徒之戒[1]",
+        "description": "To match the Light Saint suit, Archbishop Signu supervised the craftsmen to Craft rings with a typical religious design. Signu blessed the rings and gave them a new name: Saint Ring. Blessed by Light Saint, the cost of refining is reduced by half.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Saint Spear [1]",
+        "chineseName": "圣徒之矛[1]",
+        "description": "The once glory of Ecclesia. The spear of the sacred Knight Cadero. After Cadero betrayed the Ecclesia, the spear was sealed in the arsenal in the church's underground. Until recently the spear became a sample model for mass production which will be used by the increasingly powerful church knights. Blessed by the saint of light, the number of consumptive equipment is reduced by half during safe refining period.",
+        "effect": "Str ＋3,Hit ＋15"
+    },
+    {
+        "imgsrc": null,
+        "name": "Saint Spear [2]",
+        "chineseName": "圣徒之矛[2]",
+        "description": "The once glory of Ecclesia. The spear of the sacred Knight Cadero. After Cadero betrayed the Ecclesia, the spear was sealed in the arsenal in the church's underground. Until recently the spear became a sample model for mass production which will be used by the increasingly powerful church knights. Blessed by the saint of light, the number of consumptive equipment is reduced by half during safe refining period.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Saint Staff [1]",
+        "chineseName": "圣徒之杖[1]",
+        "description": "The new generation of the staff, Jointly studied by the Geffen Magic Institute and the Ecclesia, has good magical performance and is suitable for Mages at all levels. It is now widely used in churches and Geffen magic forces. Blessed by the saint of light, the number of consumptive equipment is reduced by half during safe refining period.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Saint Staff [2]",
+        "chineseName": "圣徒之杖[2]",
+        "description": "The new generation of the staff, Jointly studied by the Geffen Magic Institute and the Ecclesia, has good magical performance and is suitable for Mages at all levels. It is now widely used in churches and Geffen magic forces. Blessed by the saint of light, the number of consumptive equipment is reduced by half during safe refining period.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Saint Sword [1]",
+        "chineseName": "圣徒长剑[1]",
+        "description": "The Mercenary Sword used by The Knight of the Glorious Gods -The famous knights of the Ecclesia - is perfect for attacking. The sword also has an extremely important feature: the more pious the faith is, the sharper the sword will be. Blessed by the saint of light, the number of consumptive equipment is reduced by half during the safe refining period.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Saint Sword [2]",
+        "chineseName": "圣徒长剑[2]",
+        "description": "The Mercenary Sword used by The Knight of the Glorious Gods -The famous knights of the Ecclesia - is perfect for attacking. The sword also has an extremely important feature: the more pious the faith is, the sharper the sword will be. Blessed by the saint of light, the number of consumptive equipment is reduced by half during the safe refining period.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Saint's Cape",
+        "chineseName": "圣者法袍",
+        "description": "The robe covered in sacred radiance, and one can be full of strength by putting it on.",
+        "effect": "VIT ＋5,[Slash V] ＋[Saint's Cape IV]: Attack Spd ＋5%, Atk ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Saint's Cape [1]",
+        "chineseName": "圣者法袍[1]",
+        "description": "The robe covered in sacred radiance, and one can be full of strength by putting it on.",
+        "effect": "VIT ＋5,[Slash V] ＋[Saint's Cape IV]: Attack Spd ＋5%, Atk ＋5%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42015.png",
+        "name": "Saint's Robe",
+        "chineseName": "圣职之衣",
+        "description": "A sacred dress with the blessing of the goddess.",
+        "effect": "VIT ＋2,Max HP ＋200"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42015.png",
+        "name": "Saint's Robe [1]",
+        "chineseName": "圣职之衣[1]",
+        "description": "A sacred dress with the blessing of the goddess.",
+        "effect": "VIT ＋2,Max HP ＋200"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45009.png",
+        "name": "Sakkat",
+        "chineseName": "草帽",
+        "description": "Straw hat made of reed, which mainly has sun-proof and rain-proof effects.",
+        "effect": "Def ＋5,Agi ＋2"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45009.png",
+        "name": "Sakkat Blueprint",
+        "chineseName": "草帽图纸",
+        "description": "Straw hat made of reed, which mainly has sun-proof and rain-proof effects.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45009.png",
+        "name": "Sakkat [1]",
+        "chineseName": "草帽[1]",
+        "description": "The straw hat made from reeds, mainly used in proofing sunlight and rain.",
+        "effect": "Def ＋5,Agi ＋2"
+    },
+    {
+        "imgsrc": null,
+        "name": "Sakura",
+        "chineseName": "樱花纹",
+        "description": "ka go me ka go me、ka go no na ka no to ri wa、i tsu i tsu de ya ru、yo a ke no ba n ni、tsu ru to ka me ga su be tta、u shi ro no syou me n da a re？",
+        "effect": "Max SP ＋100,Atk ＋15"
+    },
+    {
+        "imgsrc": null,
+        "name": "Sakura Blueprint",
+        "chineseName": "樱偶图纸",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Sakura Bride",
+        "chineseName": "樱之花嫁",
+        "description": "The headwear with sakura as the model ,inherited the traditional arts and crafts of the sakura city, is blessed by 7 million gods",
+        "effect": "All Attributes ＋2,Damage to plants ＋3%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Sakura Bride [1]",
+        "chineseName": "樱之花嫁[1]",
+        "description": "The headwear with sakura as the model ,inherited the traditional arts and crafts of the sakura city, is blessed by 7 million gods",
+        "effect": "All Attributes ＋2,Damage to plants ＋3%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Sakura Chest·Female",
+        "chineseName": "绯樱之约礼盒·女",
+        "description": "A mysterious gift box sealed with crimson sakura, which can be opened at the end of this event to obtain a Sakura Wedding Dress.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Sakura Chest·Male",
+        "chineseName": "绯樱之约礼盒·男",
+        "description": "A mysterious gift box sealed with crimson sakura, which can be opened at the end of this event to obtain a Sakura Suit.",
+        "effect": ""
+    }
+]

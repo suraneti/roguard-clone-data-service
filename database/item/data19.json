@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Baby Dragon Hat [1]",
+        "chineseName": "趴趴飞龙[1]",
+        "description": "Doll made according to the look of monster Sky Petite.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_48524.png",
+        "name": "Baby Pacifier",
+        "chineseName": "奶嘴",
+        "description": "The Baby Pacifier put in the baby's mouth for cheering it up. It will be very cute to be the child's equipment.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_48524.png",
+        "name": "Baby Pacifier Blueprint",
+        "chineseName": "奶嘴图纸",
+        "description": "The Baby Pacifier put in the baby's mouth for cheering it up. It will be very cute to be the child's equipment.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Baby Snake Card",
+        "chineseName": "幼蛇卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Back in Time",
+        "chineseName": "时光倒流",
+        "description": "",
+        "effect": "Max SP ＋50,SP Regen ＋1"
+    },
+    {
+        "imgsrc": null,
+        "name": "Back in Time Blueprint",
+        "chineseName": "时光倒流图纸",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Backpack",
+        "chineseName": "宠物书包",
+        "description": "A backpack that can be loaded with anything. You can still move freely when carrying a loaded backpack.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Backpack Blueprint",
+        "chineseName": "宠物书包图纸",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40301.png",
+        "name": "Balmung[2]",
+        "chineseName": "神器三十二朔月[2]",
+        "description": "The Two-Handed Sword used by the hero Kieker Bugli.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40301.png",
+        "name": "Balmung[3]",
+        "chineseName": "神器三十二朔月[3]",
+        "description": "The Two-Handed Sword used by the hero Kieker Bugli.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Baltan Doll Hat",
+        "chineseName": "趴趴巴尔坦",
+        "description": "Ever since their homeland was destroyed by nuclear weapons, the highly intelligent Baltan have embarked on endless journeys. Try to be friendly to them.",
+        "effect": "Def ＋2%,Def ＋15"
+    },
+    {
+        "imgsrc": null,
+        "name": "Baltan Doll Hat [1]",
+        "chineseName": "趴趴巴尔坦[1]",
+        "description": "Ever since their homeland was destroyed by nuclear weapons, the highly intelligent Baltan have embarked on endless journeys. Try to be friendly to them.",
+        "effect": "Def ＋2%,Def ＋15"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12302.png",
+        "name": "Banana",
+        "chineseName": "香蕉",
+        "description": "A sweet fruit that can restore 17-21 points of HP.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12311.png",
+        "name": "Banana Juice",
+        "chineseName": "香蕉汁",
+        "description": "Fruit juice squeezed from bananas. It can restore 26-34 points of HP, and the effect is faster than that of direct eating.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_48504.png",
+        "name": "Bandana",
+        "chineseName": "方头巾",
+        "description": "The Red Bandana for fixing women's hair when they wash their faces.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_48504.png",
+        "name": "Bandana Blueprint",
+        "chineseName": "方头巾图纸",
+        "description": "The Red Bandana for fixing women's hair when they wash their faces.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_48504.png",
+        "name": "Bandana [1]",
+        "chineseName": "方头巾[1]",
+        "description": "The Red Bandana for fixing women's hair when they wash their faces.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45084.png",
+        "name": "Bao Bao",
+        "chineseName": "丸子头饰",
+        "description": "It's very famous because an ancient female fighter. Her strong kicking power makes everyone fall in for her.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45084.png",
+        "name": "Bao Bao [1]",
+        "chineseName": "丸子头饰[1]",
+        "description": "It's very famous because an ancient female fighter. Her strong kicking power makes everyone fall in for her.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45084.png",
+        "name": "Bao Bao [1] Blueprint",
+        "chineseName": "丸子头饰[1]图纸",
+        "description": "It's very famous because an ancient female fighter. Her strong kicking power makes everyone fall in for her.",
+        "effect": ""
+    }
+]

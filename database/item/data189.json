@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40301.png",
+        "name": "Saber [2]",
+        "chineseName": "骑兵之剑[2]",
+        "description": "A single-hand sword dedicated to the cavalry. But mostly used in the cavalry rituals.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40301.png",
+        "name": "Saber [3]",
+        "chineseName": "骑兵之剑[3]",
+        "description": "A single-hand sword dedicated to the cavalry. But mostly used in the cavalry rituals.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Sachet·Sakura Season",
+        "chineseName": "香薰·樱之季节",
+        "description": "Elegant and slight aroma of cherry blossoms surrounds you around, really obsessing!",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43537.png",
+        "name": "Sack Teddy Shoes",
+        "chineseName": "布袋熊长靴",
+        "description": "Boots made of Sack Teddy's fur special means. Attention! It's Sack Teddy, not zipper bear!",
+        "effect": "Move Spd ＋5%,Agi ＋2"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43537.png",
+        "name": "Sack Teddy Shoes [1]",
+        "chineseName": "布袋熊长靴[1]",
+        "description": "Boots made of Sack Teddy's fur special means. Attention! It's Sack Teddy, not zipper bear!",
+        "effect": "Move Spd ＋5%,Agi ＋2"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41504.png",
+        "name": "Sacred Cross [1]",
+        "chineseName": "圣锤十字星[1]",
+        "description": "A zigzag mace with Holy Str.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41504.png",
+        "name": "Sacred Cross [3]",
+        "chineseName": "圣锤十字星[3]",
+        "description": "A zigzag mace with Holy Str.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Sacred Mission",
+        "chineseName": "大天使之盾",
+        "description": "With God's will, a symbolic shield granted by the God.",
+        "effect": "INT ＋5,For Refining ＋1, M.Dmg reflection of [Block Shield] ＋1%, Healing effect of [Heal] ＋1%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Sacred Mission [1]",
+        "chineseName": "大天使之盾[1]",
+        "description": "With God's will, a symbolic shield granted by the God.",
+        "effect": "INT ＋5,For Refining ＋1, M.Dmg reflection of [Block Shield] ＋1%, Healing effect of [Heal] ＋1%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Sacrifice Book",
+        "chineseName": "献祭之书",
+        "description": "A code used by a priest who sacrificed himself to seal monsters.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Sacrifice Book [1]",
+        "chineseName": "献祭之书[1]",
+        "description": "A code used by a priest who sacrificed himself to seal monsters.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43507.png",
+        "name": "Safety Boots",
+        "chineseName": "安全鞋",
+        "description": "Lightweight and durable boots, equipped with a iron sheet to protect feet against any impact.",
+        "effect": "Move Spd ＋5%,Def ＋5"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43507.png",
+        "name": "Safety Boots [1]",
+        "chineseName": "安全鞋[1]",
+        "description": "Made of steel, the boots focus on defense but not usability or comfort.",
+        "effect": "Move Spd ＋5%,Def ＋5"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45025.png",
+        "name": "Safety Helmet",
+        "chineseName": "安全帽",
+        "description": "Hat worn to protect incidents during construction. The round shape makes the head to receive the minimum damage when having an impact. It won't break for sure.",
+        "effect": "Def ＋7,M.Def ＋3"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45025.png",
+        "name": "Safety Helmet Blueprint",
+        "chineseName": "安全帽图纸",
+        "description": "Hat worn to protect incidents during construction. The round shape makes the head to receive the minimum damage when having an impact. It won't break for sure.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45025.png",
+        "name": "Safety Helmet [1]",
+        "chineseName": "安全帽[1]",
+        "description": "Safety Helmet",
+        "effect": "Def ＋7,M.Def ＋3"
+    },
+    {
+        "imgsrc": null,
+        "name": "Sage's Book",
+        "chineseName": "贤者之书",
+        "description": "Finally, the boy did not return back. After reading the book, his eyes burst out the craze like the lights of God's sanction. In the next few years, the countries to which he was headed were lost in wars and revolution. The great libraries recording ancient knowledge and wisdom were destroyed one by one. A few centuries later, a blond-hair girl opened the dusty old book again in the wasted duke house, the last page which the boy did not notice read, \"Brother, when you come back, I'll be your bride!. (Bell rings) \"All right, That's all for today's history class. Remember to give the adventure experiment assignment to Allvet tomorrow.\"",
+        "effect": "Wind, Earth, Water, Fire Dmg ＋5%, CT Variable -10%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Sagittarius Crown",
+        "chineseName": "人马宫王冠",
+        "description": "Crown that symbolizes Sagittarius, the ninth of the twelve zodiacal signs, That is inlaid with the so-called birthstone, Zircon.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Sagittarius Crown Blueprint",
+        "chineseName": "人马宫王冠图纸",
+        "description": "Crown that symbolizes Sagittarius, the ninth of the twelve zodiacal signs, That is inlaid with the so-called birthstone, Zircon.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Sagittarius Crown [1]",
+        "chineseName": "人马宫王冠[1]",
+        "description": "Crown that symbolizes Sagittarius, the ninth of the twelve zodiacal signs, That is inlaid with the so-called birthstone, Zircon.",
+        "effect": ""
+    }
+]

@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Angeling Hairpin Blueprint",
+        "chineseName": "天使波利发夹图纸",
+        "description": "Cute hair clips made according to the popular monster Angeling. It makes your body lighter by wearing it.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Angeling Hairpin [1]",
+        "chineseName": "天使波利发夹[1]",
+        "description": "Cute hair clips made according to the popular monster Angeling. It makes your body lighter by wearing it.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Angeling Hat",
+        "chineseName": "天使波利帽",
+        "description": "Hat that has the look of Angeling and refers to Poring's mother during the making process. It makes people want to protect the species.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Angeling Hat [1]",
+        "chineseName": "天使波利帽[1]",
+        "description": "Hat that has the look of Angeling and refers to Poring's mother during the making process. It makes people want to protect the species.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Angeling Hat [1] Blueprint",
+        "chineseName": "天使波利帽[1]图纸",
+        "description": "Hat that has the look of Angeling and refers to Poring's mother during the making process. It makes people want to protect the species.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Angeling Picnic Pad",
+        "chineseName": "天使波利野餐垫",
+        "description": "A picnic pad with the style and design of Angeling. You feel like flying with joy when sitting on it.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_47012.png",
+        "name": "Angeling Wing",
+        "chineseName": "天使波利的翅膀",
+        "description": "Wings with soft feather made according to the wings of Angeling.",
+        "effect": "Max HP ＋400,Dmg to devil race ＋8%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_47012.png",
+        "name": "Angeling Wing Blueprint",
+        "chineseName": "天使波利的翅膀图纸",
+        "description": "Wings with soft feather made according to the wings of Angeling.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Angeling's glass",
+        "chineseName": "天使波利眼镜",
+        "description": "It was designed from the Poring, why people are saying there are two peaches?!",
+        "effect": "All Attributes ＋1,M.Def ＋3%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Anger of Valkurye",
+        "chineseName": "巴吉利的愤怒",
+        "description": "When the soldiers are summoned, the Anger of the Valkyrie is unleashed. There is one craftsman who can process it and make it into a masterpiece sculpture.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_48514.png",
+        "name": "Angled Glasses",
+        "chineseName": "大眼睛眼镜",
+        "description": "The glasses with the image of wide-open eyes.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_48514.png",
+        "name": "Angled Glasses Blueprint",
+        "chineseName": "大眼睛眼镜图纸",
+        "description": "The glasses with the image of wide-open eyes.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Angry Satan",
+        "chineseName": "愤怒的撒旦",
+        "description": "This is the crown of the daughter of the King of Demons, Julianne, because Julianne is so innocent, the King of Demons worried that she would not be in charge of the Demon Kingdom, and sent someone to build her a crown that looked very unpleasant. And gave the crown an unpleasant name, angry Satan.",
+        "effect": "LUK ＋4,Max SP ＋50"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_48513.png",
+        "name": "Angry Snarl",
+        "chineseName": "愤怒的嘴",
+        "description": "Items imitating Angry Snarl can be used to perform angry cats, angry rabbits, and other various shows.",
+        "effect": "CT Variable -10%,For Refining ＋1, damage reduction of Demi-Human race ＋1%, (upper limit of increases is 15%)"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_48513.png",
+        "name": "Angry Snarl Blueprint",
+        "chineseName": "愤怒的嘴图纸",
+        "description": "Items imitating Angry Snarl can be used to perform angry cats, angry rabbits, and other various shows.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45102.png",
+        "name": "Angry Solo Hat",
+        "chineseName": "自娱自乐箱子II",
+        "description": "Yellow box with two holes on it. Put it on and you will sense the essence of self entertainment.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45102.png",
+        "name": "Angry Solo Hat [1]",
+        "chineseName": "自娱自乐箱子II[1]",
+        "description": "Yellow box with two holes on it. Put it on and you will sense the essence of self entertainment.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45102.png",
+        "name": "Angry Solo Hat [1] Blueprint",
+        "chineseName": "自娱自乐箱子II[1]图纸",
+        "description": "Yellow box with two holes on it. Put it on and you will sense the essence of self entertainment.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_5201.png",
+        "name": "Angus's Coin",
+        "chineseName": "安格斯的特制硬币",
+        "description": "A coin engraved with the challenger's name. It symbolizes honor and strength for dueling clubs.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Anniversary Headwear",
+        "chineseName": "周年庆典头饰",
+        "description": "",
+        "effect": "Dex ＋3,AGI ＋3"
+    }
+]

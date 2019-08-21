@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Ultraman Orb Summon Scroll",
+        "chineseName": "欧布奥特曼召唤卷轴",
+        "description": "Use it to summon Ultraman Orb for a while, which is highly effective against monsters! Attention! The effect will vanish when you’re mounted or dead. This item can’t be canceled once unsealed.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Ultraman Tiga Backpack",
+        "chineseName": "迪迦奥特曼背包",
+        "description": "Why do I have an Ultraman Transformation but can not transform Because the Transformation Scroll is still missing.",
+        "effect": "Ignore Def ＋5%,When Refining ＋6, ignore Def ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Ultraman Tiga Summon Scroll",
+        "chineseName": "迪迦奥特曼召唤卷轴",
+        "description": "Use it to summon Ultraman Tiga for a while, which is highly effective against monsters! Attention! The effect will vanish when you’re mounted or dead. This item can’t be canceled once unsealed.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Ultraman Zero Summon Scroll",
+        "chineseName": "赛罗奥特曼召唤卷轴",
+        "description": "Use it to summon Ultraman Zero for a while, which is highly effective against monsters! Attention! The effect will vanish when you’re mounted or dead. This item can’t be canceled once unsealed.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Umbrella Hat",
+        "chineseName": "雨伞帽",
+        "description": "Umbrella-shape headdress that prevents wind and rain for you. It can detect raining automatically. Don't forget to take it out when you take a shower.",
+        "effect": "Water Dmg ＋2%,Dex ＋1"
+    },
+    {
+        "imgsrc": null,
+        "name": "Umbrella Hat Blueprint",
+        "chineseName": "雨伞帽图纸",
+        "description": "Umbrella-shape headdress that prevents wind and rain for you. It can detect raining automatically. Don't forget to take it out when you take a shower.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Umbrella Hat [1]",
+        "chineseName": "雨伞帽[1]",
+        "description": "",
+        "effect": "Water Dmg ＋2%,Dex ＋1"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_4001.png",
+        "name": "Under the Tower",
+        "chineseName": "塔之下",
+        "description": "A wizard music record. With it, You can order songs in the music box spot newly designed by Kafra. [Legend has it that there are ruins under Geffen that leads to an unknowable age, Where there is always something sneaking in the dark that is in the making. Now the forbidden place has been a target for adventurers to challenge.]",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42022.png",
+        "name": "Undershirt",
+        "chineseName": "衬衫",
+        "description": "Light armor that allows you to run fast. Although it looks like a running shirt, it has an excellent defensive force.",
+        "effect": "Flee ＋10,[Flamberge X] ＋ [Advanced Sack Teddy Shoes IV] ＋ [Undershirt VIII] ＋ [Beast Heart VIII]: ＋3% Atk, ＋3% Crit.Dmg, ＋5% Atk SPD, ＋10% Max HP"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42022.png",
+        "name": "Undershirt [1]",
+        "chineseName": "衬衫[1]",
+        "description": "Light armor that allows you to run fast. Although it looks like a running shirt, it has an excellent defensive force.",
+        "effect": "Flee ＋10,[Flamberge X] ＋ [Advanced Sack Teddy Shoes IV] ＋ [Undershirt VIII] ＋ [Beast Heart VIII]: ＋3% Atk, ＋3% Crit.Dmg, ＋5% Atk SPD, ＋10% Max HP"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40905.png",
+        "name": "Unholy Touch [2]",
+        "chineseName": "邪恶拳刃[2]",
+        "description": "A spear of magic. It is said that it can absorb the enemy's soul while attacking.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40905.png",
+        "name": "Unholy Touch [3]",
+        "chineseName": "邪恶拳刃[3]",
+        "description": "A spear of magic. It is said that it can absorb the enemy's soul while attacking.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45088.png",
+        "name": "Unicorn Horn",
+        "chineseName": "兽角头饰",
+        "description": "Pure white horn. The back tip is rather round than sharp.",
+        "effect": "Def ＋10,Max HP ＋200"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45088.png",
+        "name": "Unicorn Horn Blueprint",
+        "chineseName": "兽角头饰图纸",
+        "description": "Pure white horn. The back tip is rather round than sharp.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45088.png",
+        "name": "Unicorn Horn [1]",
+        "chineseName": "兽角头饰[1]",
+        "description": "Pure white horn. The back tip is rather round than sharp.",
+        "effect": "Def ＋10,Max HP ＋200"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Unit-01 Card",
+        "chineseName": "初号机卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Unit-01 Pilot's License",
+        "chineseName": "初号机驾驶资格证",
+        "description": "Use it to pilot Unit-01 in combat for a while. Attention! The transform effect will vanish when mounted or dead. This item can't be canceled once unsealed.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Unit-02 Pilot's License",
+        "chineseName": "二号机驾驶资格证",
+        "description": "Use it to pilot Unit-02 in combat for a while. Attention! The transform effect will vanish when mounted or dead. This item can't be canceled once unsealed.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Unit-05 Helmet",
+        "chineseName": "五号机头盔",
+        "description": "\"Happiness doesn't walk to me, because I'm walking to itOne day, one step. Three steps in three days...\" -Mari Makinami Illustrious",
+        "effect": "All Attributes +2,Atk +20"
+    },
+    {
+        "imgsrc": null,
+        "name": "Unit-05 Helmet Blueprint",
+        "chineseName": "五号机头盔图纸",
+        "description": "\"Happiness doesn't walk to me, because I'm walking to itOne day, one step. Three steps in three days...\" -Mari Makinami Illustrious",
+        "effect": ""
+    }
+]

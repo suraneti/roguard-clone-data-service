@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Willow ★Card",
+        "chineseName": "树精★卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Wind Chaser Axe [1]",
+        "chineseName": "追风之斧[1]",
+        "description": "According to the user's description, waving the axe will make you feel the flow of wind.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Wind Chaser Axe [2]",
+        "chineseName": "追风之斧[2]",
+        "description": "According to the user's description, waving the axe will make you feel the flow of wind.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Wind Crystal",
+        "chineseName": "风灵晶石",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_5127.png",
+        "name": "Wind Egg",
+        "chineseName": "风灵彩蛋",
+        "description": "The egg with wind attribute. After use, Your attack turns into wind attribute and the effect lasts 30 minutes. Unable to coexist with Rough Wind.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Wind Ghost Card",
+        "chineseName": "风魔巫师卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Wind Hammer [1]",
+        "chineseName": "风灵钢斧[1]",
+        "description": "The axe with the power of wind. Using the latest craftsmanship, Wind Ore is combined with the Rune array to make the axe.",
+        "effect": "Wind,For Refining ＋1, Wind Dmg ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Wind Hammer [2]",
+        "chineseName": "风灵钢斧[2]",
+        "description": "The axe with the power of wind. Using the latest craftsmanship, Wind Ore is combined with the Rune array to make the axe.",
+        "effect": "Wind,For Refining ＋1, Wind Dmg ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Wind Knife [1]",
+        "chineseName": "风灵短剑[1]",
+        "description": "Daggers with the power of wind. Using the latest craftsmanship, Wind Ore is combined with the Rune array to make the sword.",
+        "effect": "Wind,For Refining ＋1, Dmg ＋1%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Wind Knife [2]",
+        "chineseName": "风灵短剑[2]",
+        "description": "Daggers with the power of wind. Using the latest craftsmanship, Wind Ore is combined with the Rune array to make the sword.",
+        "effect": "Wind,For Refining ＋1, Dmg ＋1%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_5103.png",
+        "name": "Wind Ore",
+        "chineseName": "风灵矿石",
+        "description": "A small yellow ore. It has wind attribute and can be made into Rough Wind after extraction.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41813.png",
+        "name": "Windhawk [1]",
+        "chineseName": "希尔之斧[1]",
+        "description": "Combine the shortcoming of the axes which is its slow Attack Spd with powerful axes, and strengthen the slow Attack Spd by adding Wind Attributes.",
+        "effect": "VIT ＋10,Dmg to Stun targets ＋15%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41813.png",
+        "name": "Windhawk [2]",
+        "chineseName": "希尔之斧[2]",
+        "description": "Combine the shortcoming of the axes which is its slow Attack Spd with powerful axes, and strengthen the slow Attack Spd by adding Wind Attributes.",
+        "effect": "VIT ＋10,Dmg to Stun targets ＋15%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Window of Wealth",
+        "chineseName": "富裕之窗",
+        "description": "His eyes are filled with desire for wealth, it is said that the God of Wealth would \"prefer\" a person like this.",
+        "effect": "Max HP ＋200,Pen. ＋3%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Windperch Crest Headwear female",
+        "chineseName": "风栖之冠女头饰",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Windperch Crest [1]",
+        "chineseName": "风栖之冠[1]",
+        "description": "crown wore by every Pixie princess, made from the quartz that grows at the peak of Yggdrasil. \"No matter where you are, Yggdrasil is at thy home. \"——Pixie folk song",
+        "effect": "All Attributes ＋1,MAX HP＋2%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43002.png",
+        "name": "Windrunner Cape",
+        "chineseName": "风行者斗篷",
+        "description": "The cloak used by Elf Lellis, it makes people move secretly. It is said that the user can get the favor of the wind.",
+        "effect": "When Katar is equipped, Crit.Dmg ＋7%,[Loki's Nail IX] ＋ [Windrunner Cape]: ＋5% [Cross Ripper Slasher] damage"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43002.png",
+        "name": "Windrunner Cape [1]",
+        "chineseName": "风行者斗篷[1]",
+        "description": "The cloak used by Elf Lellis, it makes people move secretly. It is said that the user can get the favor of the wind.",
+        "effect": "When Katar is equipped, Crit.Dmg ＋7%,[Loki's Nail IX] ＋ [Windrunner Cape]: ＋5% [Cross Ripper Slasher] damage"
+    },
+    {
+        "imgsrc": null,
+        "name": "Windtide Echo",
+        "chineseName": "风汐回响",
+        "description": "No one knows where this piano came from, but its tone is like the whisper of the breeze, pulling the heartstrings of all who hear it.",
+        "effect": "All Attributes +1,Wind Attack +2%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Wing Staff [1]",
+        "chineseName": "羽翼之杖[1]",
+        "description": "The Rod with an elf of wind in it. Carrying it, the user will be faster when casting a spell.",
+        "effect": "INT ＋5,When killing a monster with a single target skill, restore 5% HP and 5% SP (CoolDown: 10 seconds)"
+    }
+]

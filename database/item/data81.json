@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40622.png",
+        "name": "Forest Staff [1]",
+        "chineseName": "森林之杖[1]",
+        "description": "A staff with a great force of earth.",
+        "effect": "Agi ＋5,Refining increases by 1, Flee ＋3, Attack Spd ＋1%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40622.png",
+        "name": "Forest Staff [2]",
+        "chineseName": "森林之杖[2]",
+        "description": "A staff with a great force of earth.",
+        "effect": "Agi ＋5,Refining increases by 1, Flee ＋3, Attack Spd ＋1%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Forever Flame [1]",
+        "chineseName": "永劫的火焰[1]",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Forever Flame [2]",
+        "chineseName": "永劫的火焰[2]",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42029.png",
+        "name": "Formal Suit",
+        "chineseName": "西装",
+        "description": "The men's clothes convenient for movement.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42029.png",
+        "name": "Formal Suit [1]",
+        "chineseName": "西装[1]",
+        "description": "Dress suit for all kinds of formal occasions.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Fortune Cat Fan",
+        "chineseName": "招财猫扇子",
+        "description": "Fortune Cat Fan",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Fortune Cat Wings",
+        "chineseName": "招财猫背饰",
+        "description": "Fortune Cat Wings",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_44001.png",
+        "name": "Fortune Necklace [2]",
+        "chineseName": "幸运连珠[2]",
+        "description": "Blessed by God, it is a cross-shaped necklace.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40715.png",
+        "name": "Fortune Sword [1]",
+        "chineseName": "幸运短剑[1]",
+        "description": "Knives that brings the user luck.",
+        "effect": "Int ＋10,For Refining ＋15, Soul Breaker will bring bonus of Ranged damage"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40715.png",
+        "name": "Fortune Sword [2]",
+        "chineseName": "幸运短剑[2]",
+        "description": "Knives that brings the user luck.",
+        "effect": "Int ＋10,For Refining ＋15, Soul Breaker will bring bonus of Ranged damage"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_52302.png",
+        "name": "Four Leaf Clover",
+        "chineseName": "四叶幸运草",
+        "description": "Four-leafed clovers said to bring good luck. Being a very rare item, it can be used to make high-end headwear.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45142.png",
+        "name": "Fox Ears Bell Ribbon",
+        "chineseName": "狐耳铃铛发带",
+        "description": "Headwear made according to the shape of fox ear.",
+        "effect": "Int ＋3,For Refining ＋1, healing value of a single target ＋1% (up to 15%)"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45142.png",
+        "name": "Fox Ears Bell Ribbon [1]",
+        "chineseName": "狐耳铃铛发带[1]",
+        "description": "Headwear made according to the shape of fox ear.",
+        "effect": "INT ＋3,Max HP ＋5%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45142.png",
+        "name": "Fox Ears Bell Ribbon [1] Blueprint",
+        "chineseName": "狐耳铃铛发带[1]图纸",
+        "description": "Headwear made according to the shape of fox ear.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Fox Grass",
+        "chineseName": "狐尾草",
+        "description": "The wanderer is lying in the grass with something in his mouth.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Fox Grass Blueprint",
+        "chineseName": "狐尾草图纸",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Fox King’s Smiling Face",
+        "chineseName": "狐王的笑脸",
+        "description": "A woodcutter had seen a dark fox on the night of the moon. He saw the fox kneeling to the moon and praying. He looked at the scene with fascination and did not notice that the fox turned and found him! The fox face was full of golden patterns, grinning at him with a chill in his eyes. The smiling face of the king of fox, those who see it will be driven by the king of fox, become the slaves of the fox!",
+        "effect": "M.Atk ＋10,Max SP ＋100"
+    },
+    {
+        "imgsrc": null,
+        "name": "Fox King’s Smiling Face [1]",
+        "chineseName": "狐王的笑脸[1]",
+        "description": "A woodcutter had seen a dark fox on the night of the moon. He saw the fox kneeling to the moon and praying. He looked at the scene with fascination and did not notice that the fox turned and found him! The fox face was full of golden patterns, grinning at him with a chill in his eyes. The smiling face of the king of fox, those who see it will be driven by the king of fox, become the slaves of the fox!",
+        "effect": "M.Atk ＋10,Max SP ＋100"
+    },
+    {
+        "imgsrc": null,
+        "name": "Fox King’s Smiling Face [1] Blueprint",
+        "chineseName": "狐王的笑脸[1]图纸",
+        "description": "",
+        "effect": ""
+    }
+]

@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Jun. 2018 Premium",
+        "chineseName": "2018.6月限定特典",
+        "description": "Accompanied by nerdy Peco Peco and cute Poring, we are not away from the world of children. That’s right. The childlike innocence is still with us!! To appreciate the adventurers who have been supporting us for a long time, the famous Kafra Company specially launched a special small card in the form of a monthly magazine. Hold it and you will feel its magical power. It's practical and highly collectible.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_111.png",
+        "name": "Juno Adventure Chest",
+        "chineseName": "朱诺冒险箱",
+        "description": "Open the box to receive guaranteed Colorful Shell, with a chance to receive Fiery Ember, Shining Holy Water, Fang of Garm, Ice Powder, Harpy’s Feather, Lava Gem Pet EXP Potion (S), Pet EXP Potion (M), Pet EXP Potion (L), etc.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Juno Soldier's Hat",
+        "chineseName": "朱诺士兵的帽子",
+        "description": "Juno Soldier's Hat",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40905.png",
+        "name": "Jur",
+        "chineseName": "拳刃",
+        "description": "A light Katars. It does not affect the user's action.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40905.png",
+        "name": "Jur [2]",
+        "chineseName": "拳刃[2]",
+        "description": "A light Katars. It does not affect the user's action.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Kafra Band",
+        "chineseName": "卡普拉女仆头带",
+        "description": "",
+        "effect": "Dex ＋3,AGI ＋3"
+    },
+    {
+        "imgsrc": null,
+        "name": "Kafra Band Blueprint",
+        "chineseName": "卡普拉女仆头带图纸",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Kafra Band [1]",
+        "chineseName": "卡普拉女仆头带[1]",
+        "description": "",
+        "effect": "Dex ＋3,AGI ＋3"
+    },
+    {
+        "imgsrc": null,
+        "name": "Kafra Blessing Giftbox",
+        "chineseName": "卡普拉祝福礼盒",
+        "description": "To appreciate all the adventurers, Kafra, Co. employees has prepared a delicate gift~ It is very useful.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_111.png",
+        "name": "Kafra Co. random item pack",
+        "chineseName": "卡普拉公司随机道具包",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Kafra Gift",
+        "chineseName": "卡普拉赠礼",
+        "description": "The pack can be opened after EP 2.0 Pet Lover is launched, to receive Lunatic Egg x1, Eclipsex1.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Kafra Headwear Color 1",
+        "chineseName": "卡普拉专属头饰配色1",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Kafra Headwear Color 2",
+        "chineseName": "卡普拉专属头饰配色2",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Kafra Headwear Color 3",
+        "chineseName": "卡普拉专属头饰配色3",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Kafra MVP Voucher I",
+        "chineseName": "卡普拉MVP券Ⅰ",
+        "description": "After completing the Dísir Val quest, You can receive 1 Strengthening Food and 300000 Zeny.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Kafra MVP Voucher II",
+        "chineseName": "卡普拉MVP券Ⅱ",
+        "description": "After completing the Dísir Val quest, You can receive 5 Strengthening Food and 12800001 Zeny.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Kafra MVP Voucher III",
+        "chineseName": "卡普拉MVP券Ⅲ",
+        "description": "After completing the Dísir Val quest, You can receive 11 Strengthening Food and 32800002 Zeny.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Kafra MVP Voucher IV",
+        "chineseName": "卡普拉MVP券Ⅳ",
+        "description": "After completing the Dísir Val quest, You can receive 22 Strengthening Food and 64800003 Zeny.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_5041.png",
+        "name": "Kafra Storage Ticket",
+        "chineseName": "卡普拉仓库服务券",
+        "description": "Kafra's special ticket can help adventurers open the Storage for free. When adventurers own this ticket, it will be used as priority. If you look carefully, Some vague words are written on the left bottom-\"miss you.\"",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Kafra Summer cone",
+        "chineseName": "卡普拉夏日甜筒",
+        "description": "Those friends who love to prank dumped the Cone on my head!! But I'm not mad at all, it was Soooo chill.",
+        "effect": "Fire damage taken - 3%,Damage to Fire Monsters ＋3%"
+    }
+]

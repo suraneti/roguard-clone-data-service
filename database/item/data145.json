@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12304.png",
+        "name": "Milk",
+        "chineseName": "牛奶",
+        "description": "The liquid made from milk which is regarded as the most nutritious food for children's growth. It can restore 27-37 points of HP.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45197.png",
+        "name": "Million Victory",
+        "chineseName": "百万击破",
+        "description": "The dynamic figures not only contain people's expectation and hope, but also combine countless love and faith. Unique styles are designed only for you to take part in this new adventure. Novices! The adventure starts here!",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45197.png",
+        "name": "Million Victory [1]",
+        "chineseName": "百万击破[1]",
+        "description": "The dynamic figures not only contain people's expectation and hope, but also combine countless love and faith. Unique styles are designed only for you to take part in this new adventure. Novices! The adventure starts here!",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Mimic Card",
+        "chineseName": "邪恶箱卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Mini Eleking Growth Pack",
+        "chineseName": "小怪兽成长礼包",
+        "description": "A pack prepared for Mini Eleking to help with its quick growth.  Open to gain guaranteed 2x Cosmic Soup, 1x Lv.7 Talent Fruit, 10x Pet EXP Potion (L), 10x Ultraman’s Cosmic Breath",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Mini Parasol",
+        "chineseName": "随身遮阳伞",
+        "description": "It may look stupid but it will protect you from sunburn. You could also use it during the rain, i guess?",
+        "effect": "Max Hp ＋200,M.Def ＋10"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45021.png",
+        "name": "Mini Propeller",
+        "chineseName": "竹蜻蜓发圈",
+        "description": "Hairband that makes you feel you're flying in the sky when wearing it.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45021.png",
+        "name": "Mini Propeller Blueprint",
+        "chineseName": "竹蜻蜓发圈图纸",
+        "description": "Hairband that makes you feel you're flying in the sky when wearing it.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45021.png",
+        "name": "Mini Propeller [1]",
+        "chineseName": "竹蜻蜓发圈[1]",
+        "description": "Hairband that makes you feel you're flying in the sky when wearing it.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42003.png",
+        "name": "Mink Coat",
+        "chineseName": "毛皮大衣",
+        "description": "A coat made of soft animal fur. It is seriously criticized by animal protection organization.",
+        "effect": "Agi ＋2,Max HP ＋50"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42003.png",
+        "name": "Mink Coat [1]",
+        "chineseName": "毛皮大衣[1]",
+        "description": "A coat made of soft animal fur. It is seriously criticized by animal protection organization.",
+        "effect": "Agi ＋2,Max HP ＋50"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Minorous Card",
+        "chineseName": "米诺斯卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45183.png",
+        "name": "Minorous Horn",
+        "chineseName": "米诺斯的角",
+        "description": "Headdress made according to the Minorous Horn. It's easier to get excited when seeing red stuff after wearing it.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45183.png",
+        "name": "Minorous Horn Blueprint",
+        "chineseName": "米诺斯的角图纸",
+        "description": "Headdress made according to the Minorous Horn. It's easier to get excited when seeing red stuff after wearing it.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45183.png",
+        "name": "Minorous Horn [1]",
+        "chineseName": "米诺斯的角[1]",
+        "description": "Headdress made according to the Minorous Horn. It's easier to get excited when seeing red stuff after wearing it.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_3038.png",
+        "name": "Miracle Christmas Chest",
+        "chineseName": "奇迹圣诞礼盒",
+        "description": "The package received by completing chest quest in Gingerbread City. Open it to find Snowman and special materials of Gingerbread City, with a large probability to find Boss materials, a small probability to receive advanced Blueprint.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Miracle Reappear",
+        "chineseName": "奇迹再现",
+        "description": "Officially Authorized!  Ultraman Tiga’s OP. You can order songs in the music box spot newly designed by Kafra.  This item is limited. Don’t waste it~ [Do you feel like a kid once more upon hearing this familiar piece of music?]",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42508.png",
+        "name": "Mirror Shield",
+        "chineseName": "镜盾",
+        "description": "An armor made of mirror, with high degree of defense against Atk.",
+        "effect": "Str ＋5,Damage of [Shield Chain], [Shield Boomerang] ＋15%, SP cost ＋30%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42508.png",
+        "name": "Mirror Shield [1]",
+        "chineseName": "镜盾[1]",
+        "description": "An armor made of mirror, with high degree of defense against Atk.",
+        "effect": "Str ＋5,Damage of [Shield Chain], [Shield Boomerang] ＋15%, SP cost ＋30%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Miss Conch",
+        "chineseName": "海螺小姐",
+        "description": "The giant tropical conch of Kemo Island is home to the warm and lovely obeaune! ~",
+        "effect": "Max HP ＋500,Reduces Def and MDef of nearby enemies within a 3m radius by 4%."
+    }
+]

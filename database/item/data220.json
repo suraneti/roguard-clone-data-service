@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43016.png",
+        "name": "Survivor's Manteau [1]",
+        "chineseName": "生存斗篷[1]",
+        "description": "No matter what circumstances, the cloak will greatly increase the possibility of survival.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40606.png",
+        "name": "Survivor's Rod [1]",
+        "chineseName": "生存的魔杖[1]",
+        "description": "Taking the ascetic practitioners into consideration, the Mage Guild and the Congregation together created two types of Rods.",
+        "effect": "Dex ＋3,Max HP ＋200"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40606.png",
+        "name": "Survivor's Rod [2]",
+        "chineseName": "生存的魔杖[2]",
+        "description": "Taking the ascetic practitioners into consideration, the Mage Guild and the Congregation together created two types of Rods.",
+        "effect": "Dex ＋3,Max HP ＋200"
+    },
+    {
+        "imgsrc": null,
+        "name": "Sweet Death",
+        "chineseName": "甜蜜的死亡",
+        "description": "LOLIPOP, the favorite of the girl before her death, Was cute and sweet, Until the 47 ＋18 tragedy occurred, and the time was fixed at the last second of 3200000. \"Just to end it, Then goodbye.\" \"Everything can't be recovered. I feel very bad. The once happy things now only make me feel sad. I won't love again, My last days have come.\" \"I hope to make everything...\" (The last few lines were erased by the designer.)",
+        "effect": "Healing Received ＋3%,Max HP ＋100"
+    },
+    {
+        "imgsrc": null,
+        "name": "Sweet Death Blueprint",
+        "chineseName": "甜蜜的死亡图纸",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45023.png",
+        "name": "Sweet Gent",
+        "chineseName": "绅士帽",
+        "description": "Modern hat worn by gentlemen. The look is decent and elegant.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45023.png",
+        "name": "Sweet Gent Blueprint",
+        "chineseName": "绅士帽图纸",
+        "description": "Modern hat worn by gentlemen. The look is decent and elegant.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45023.png",
+        "name": "Sweet Gent [1]",
+        "chineseName": "绅士帽[1]",
+        "description": "Modern hat worn by gentlemen. The look is decent and elegant.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Sweet Memory of Marriage",
+        "chineseName": "梦中的婚礼",
+        "description": "[No matter how hard the future may become], [I will continue to guard you], [Like pure and beautiful roses], [this is the poem of my love for you].",
+        "effect": "Max HP +200,LUK +2"
+    },
+    {
+        "imgsrc": null,
+        "name": "Sweet Memory of Marriage Blueprint",
+        "chineseName": "梦中的婚礼图纸",
+        "description": "[No matter how hard the future may become], [I will continue to guard you], [Like pure and beautiful roses], [this is the poem of my love for you].",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Sweet Memory of Marriage [1]",
+        "chineseName": "梦中的婚礼[1]",
+        "description": "[No matter how hard the future may become], [I will continue to guard you], [Like pure and beautiful roses], [this is the poem of my love for you].",
+        "effect": "All Attributes ＋2,Job EXP of killing monsters ＋3%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12300.png",
+        "name": "Sweet Potato",
+        "chineseName": "蕃薯",
+        "description": "Rich in starch, this item is edible and sweet. It can restore 15-23 points of HP.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Sweetheart whisper",
+        "chineseName": "蜜语甜心",
+        "description": "Prelude is silk milk, theme is strawberry with chocolate coat, refrain is cream putting, and this is the song for you! Is that sweet enough?",
+        "effect": "M.Dmg Reduc. ＋5%,Max Hp ＋300"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_48558.png",
+        "name": "Swim Goggles",
+        "chineseName": "潜水镜",
+        "description": "Glass lenses for swimming in order to protect your eyes.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_48558.png",
+        "name": "Swim Goggles Blueprint",
+        "chineseName": "潜水镜图纸",
+        "description": "Glass lenses for swimming in order to protect your eyes.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Swim in Summer",
+        "chineseName": "在夏日戏水",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40302.png",
+        "name": "Sword",
+        "chineseName": "剑",
+        "description": "A sword with a thick blade is widely used.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Sword for NPC on Back",
+        "chineseName": "给npc背后装饰用的剑",
+        "description": "Sword for NPC on Back",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41504.png",
+        "name": "Sword Mace [1]",
+        "chineseName": "尖刃铁锤[1]",
+        "description": "A much mightier mace with a chain on its top.",
+        "effect": "Attack Spd ＋5%,Dmg to dark monsters ＋10%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41504.png",
+        "name": "Sword Mace [2]",
+        "chineseName": "尖刃铁锤[2]",
+        "description": "A much mightier mace with a chain on its top.",
+        "effect": "Attack Spd ＋5%,Dmg to dark monsters ＋10%"
+    }
+]

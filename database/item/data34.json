@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Cancer Crown",
+        "chineseName": "巨蟹宫王冠",
+        "description": "Crown that symbolizes Cancer, one of the twelve zodiacal signs. It's inlaid with ruby.",
+        "effect": "Atk ＋1,Hit ＋1"
+    },
+    {
+        "imgsrc": null,
+        "name": "Cancer Crown Blueprint",
+        "chineseName": "巨蟹宫王冠图纸",
+        "description": "Crown that symbolizes Cancer, one of the twelve zodiacal signs. It's inlaid with ruby.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Cancer Crown [1]",
+        "chineseName": "巨蟹宫王冠[1]",
+        "description": "Crown that symbolizes Cancer, one of the twelve zodiacal signs. It's inlaid with ruby.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Cancer Diadem",
+        "chineseName": "巨蟹宫宝冠",
+        "description": "Diadem that symbolizes Cancer, one of the twelve zodiacal signs. It's inlaid with ruby.",
+        "effect": "Dex ＋3,AGI ＋3"
+    },
+    {
+        "imgsrc": null,
+        "name": "Cancer Diadem [1]",
+        "chineseName": "巨蟹宫宝冠[1]",
+        "description": "Diadem that symbolizes Cancer, one of the twelve zodiacal signs. It's inlaid with ruby.",
+        "effect": "Str ＋2,Dex ＋1"
+    },
+    {
+        "imgsrc": null,
+        "name": "Cancer Diadem [1] Blueprint",
+        "chineseName": "巨蟹宫宝冠[1]图纸",
+        "description": "Diadem that symbolizes Cancer, one of the twelve zodiacal signs. It's inlaid with ruby.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Cancer Star Aroma",
+        "chineseName": "星之香熏·巨蟹座",
+        "description": "The product of the year by Vettel Moura, the 14th president of House Moura, the most famous perfume family of the land, the constellation series is only available during respective month. Muse Moura is a star in his school because he uses different perfume every month. (Use to protect yourself with a constellation symbol that is graceful and stylish. )",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Cancer Star Shards",
+        "chineseName": "星之碎片·巨蟹座",
+        "description": "An ancient painting passed down for generation in House Laplace, Trillion Stars in a Descending Night Sky depicts the star phantom that is materialized by a goddess to bless people with. (Collect and give it to a goddess and you'll probably receive something nice. )",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45064.png",
+        "name": "Candle",
+        "chineseName": "蜡烛",
+        "description": "Specially made candles that can burn for a long time.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45064.png",
+        "name": "Candle Blueprint",
+        "chineseName": "蜡烛图纸",
+        "description": "Specially made candles that can burn for a long time.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45064.png",
+        "name": "Candle [1]",
+        "chineseName": "蜡烛[1]",
+        "description": "Candle.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12121.png",
+        "name": "Candy",
+        "chineseName": "糖果",
+        "description": "A sweet candy that can restore 120-180 points of SP.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Candy Bag",
+        "chineseName": "糖果袋",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Candy Bag Blueprint",
+        "chineseName": "糖果袋图纸",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Candy Bag [1]",
+        "chineseName": "糖果袋[1]",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12315.png",
+        "name": "Candy Cane",
+        "chineseName": "拐杖糖",
+        "description": "A candy shaped like crutches, it can restore 105-145 points of HP.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_700002.png",
+        "name": "Candy Cane",
+        "chineseName": "圣夜拐杖糖",
+        "description": "A candy shaped like crutches, it can restore 50%HP and SP.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Canon Champagne",
+        "chineseName": "礼炮香槟",
+        "description": "To celebrate Christmas, there has to be champagne! Look at me~ Shake shake and please don't point at anyone when opening the bottle",
+        "effect": "Luk ＋5,Auto Attack brings 1 stack of Lucky Blessing: Luk ＋2, Crit.Dmg ＋2%, for 10 sec, Maximum 5 stacks"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45179.png",
+        "name": "Cap",
+        "chineseName": "无边帽",
+        "description": "Hat with a simple design for events and daily uses.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45173.png",
+        "name": "Cap Of Blindness",
+        "chineseName": "盲目的斗篷",
+        "description": "Purple cape made of cloth. It's suitable to cover the dark face. Covered by the dark veil, the red eyes gave out a sense of darkness.",
+        "effect": ""
+    }
+]

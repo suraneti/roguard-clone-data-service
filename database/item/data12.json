@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_48512.png",
+        "name": "Annoyed Mask",
+        "chineseName": "讨厌的假面",
+        "description": "When you encounter a very annoying, funny and annoying thing, you can wear the mask which is only used in this way.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_48512.png",
+        "name": "Annoyed Mask Blueprint",
+        "chineseName": "讨厌的假面图纸",
+        "description": "When you encounter a very annoying, funny and annoying thing, you can wear the mask which is only used in this way.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Anolian Card",
+        "chineseName": "虎蜥人卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_3033.png",
+        "name": "Ant Hell Material Pack",
+        "chineseName": "蚂蚁秘穴材料包",
+        "description": "Ant Hell Material Pack, in which all kinds of Ant Hell materials can be found.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_52303.png",
+        "name": "Antenna",
+        "chineseName": "触角",
+        "description": "Antennas that come from some monsters or insects are rare items that can be used to make high-end headwear.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12313.png",
+        "name": "Antidote",
+        "chineseName": "解毒剂",
+        "description": "The drugs developed by Prontera scholars, it can relieve the toxic effect and restore certain HP.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Antlers",
+        "chineseName": "鹿角头饰",
+        "description": "Hairband made according to the antler. Its strength is to have higher Def.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Antlers [1]",
+        "chineseName": "鹿角头饰[1]",
+        "description": "Hairband made according to the antler. Its strength is to have higher Def.",
+        "effect": "Brute Dmg Reduc. ＋15%,Dmg to Plants ＋10%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Antlers [1] Blueprint",
+        "chineseName": "鹿角头饰[1]图纸",
+        "description": "Hairband made according to the antler. Its strength is to have higher Def.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Anubis Card",
+        "chineseName": "安毕斯卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Aori Ramen (old)[1]",
+        "chineseName": "神隐拉面（旧）[1]",
+        "description": "[AORI travels all over the world just to find her father.]",
+        "effect": "Dex ＋3,AGI ＋3"
+    },
+    {
+        "imgsrc": null,
+        "name": "Aori Ramen Recipe",
+        "chineseName": "神隐拉面配方",
+        "description": "\"I hope that everyone in the world will have the opportunity to enjoy this yummy Aori ramen.\" (It's said that it's likely to grasp how to produce the ramen hat when cooking the ramen.)",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Aori Ramen [1]",
+        "chineseName": "神隐拉面[1]",
+        "description": "[AORI travels all over the world just to find her father.]",
+        "effect": "Water Dmg Taken -20%,Freeze Resistance ＋10%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Aori Ramen [1] Blueprint",
+        "chineseName": "神隐拉面[1]图纸",
+        "description": "[AORI travels all over the world just to find her father.]",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Aori·Wishing Card",
+        "chineseName": "神隐·许愿牌",
+        "description": "[Hope people all around the world could taste wonderful noddle, someone's wish could be heard]",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_810001.png",
+        "name": "Apology &amp; Gratitude Premium",
+        "chineseName": "歉意&amp;感恩特典",
+        "description": "In order to thank all adventurers who helped, Encouraged and bore with us during the \"free test\", we've prepare a \"Premium\"for you only that is independent from monthly Premium. Millions of thanks!",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_3654.png",
+        "name": "Apology Box",
+        "chineseName": "歉意盒子",
+        "description": "A box that expresses sincere apologies to Big Cats! There is a large probability of finding advanced materials in it, as well as Apology Hood which is only kept in Apology Box.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_3654.png",
+        "name": "Apology Box 2.0",
+        "chineseName": "歉意盒子2.0",
+        "description": "A box that expresses sincere apologies to Big Cats! There is a large probability of finding advanced materials in it, as well as Apology Hood which is only kept in Apology Box.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_3654.png",
+        "name": "Apology Box 3.0",
+        "chineseName": "歉意盒子3.0",
+        "description": "A box that expresses sincere apologies to Big Cats! There is a large probability of finding advanced materials in it, as well as Apology Hood which is only kept in Apology Box.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45202.png",
+        "name": "Apology Hood",
+        "chineseName": "歉意头饰",
+        "description": "Big cat who invented the beautiful adventure world wanted to express moments of respect, tolerance, and understanding via the headdress. When you see it everyday, it reminds you to keep creating more lovely contents for the world, in order to support all of our adventurers!",
+        "effect": ""
+    }
+]

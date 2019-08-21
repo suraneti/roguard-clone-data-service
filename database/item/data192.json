@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Sakura Fall Poring Box",
+        "chineseName": "落樱纷纷波利礼盒",
+        "description": "An fancy box with the scent of early spring and markings of sakuras on it. Rumor has it that it was dug out of the root of an ancient tree! ",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Sakura Guardian Gashapon",
+        "chineseName": "樱花守护扭蛋",
+        "description": "A Gashapon toy to express personal feelings, open it to randomly receive one headwear of March 2018 [Sakura Guardian] series.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Sakura Pie",
+        "chineseName": "樱花饼",
+        "description": "Special food in Sakura City, the local custom is that only newlyweds can eat this. AGI ＋10, Attack Spd ＋20%, the effect lasts 29 minutes.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Sakura Poring Card",
+        "chineseName": "樱之华波利卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Sakura Puppet",
+        "chineseName": "樱偶",
+        "description": "Kingdom of Heavenly Water has a beautiful legend, a kind spirit of sakura fell in love with an ordinary human boy. In order to cure the disease of the boy, the spirit of Sakura conveys his spiritual power to the boy and saves his life, but he loses all the psychic power and becomes a falling sakura and goes with the wind. The poor boy could only make a doll of the spirit of cherry according to his own memory. Since then, kingdom of Heavenly Water has a lovely doll, but also has a sad love story.",
+        "effect": "Auto Attack applies slight bleeding status to self,Bleeding status grants (BaseLv*3) Normal Atk"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_4001.png",
+        "name": "Sakura Season",
+        "chineseName": "樱之季节",
+        "description": "A wizard music record. With it, You can order songs in the music box spot newly designed by Kafra. [Listening to the melody, the image of the far East seems to appear in sight.]",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Sakura Wedding Blueprints",
+        "chineseName": "樱之花嫁图纸",
+        "description": "Headdress specially produced in Sakura City that only married couples can wear. This is an accessory that has been blessed by 8 million gods.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "SAKURA·SAKURA",
+        "chineseName": "SAKURA·SAKURA",
+        "description": "The scattered petals, Like the lingering thoughts, Swings in the spring breeze in April. Valuable things always vanish quickly, please seize the time.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Samambaia",
+        "chineseName": "莎蔓芭亚帽",
+        "description": "",
+        "effect": "Dex ＋3,AGI ＋3"
+    },
+    {
+        "imgsrc": null,
+        "name": "Samambaia [1]",
+        "chineseName": "莎蔓芭亚帽[1]",
+        "description": "",
+        "effect": "Atk ＋10,Bonus Healing Received ＋2%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Samambaia [1] Blueprint",
+        "chineseName": "莎蔓芭亚帽[1]图纸",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43523.png",
+        "name": "Sandals",
+        "chineseName": "轻便鞋",
+        "description": "Shoes that are easy to wear, with little defense.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43523.png",
+        "name": "Sandals [1]",
+        "chineseName": "轻便鞋[1]",
+        "description": "Shoes that are easy to wear, with little defense.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Sandman Card",
+        "chineseName": "泥人卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Sandstorm [1]",
+        "chineseName": "沙漠之风[1]",
+        "description": "Knives made by the Assassin Union.",
+        "effect": "Hit ＋40,auto attack has a chance to cause the target loses Attack Spd for a while"
+    },
+    {
+        "imgsrc": null,
+        "name": "Sandstorm [2]",
+        "chineseName": "沙漠之风[2]",
+        "description": "The assassin union's Knife for its outstanding members.",
+        "effect": "Hit ＋40,auto attack has a chance to cause the target loses Attack Spd for a while"
+    },
+    {
+        "imgsrc": null,
+        "name": "Santa Hat",
+        "chineseName": "圣诞帽",
+        "description": "Santa Hat",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Santa Hat",
+        "chineseName": "圣诞帽",
+        "description": "Santa Hat",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45199.png",
+        "name": "Santa Hat",
+        "chineseName": "圣诞帽",
+        "description": "Love happens in the snow season of RO, and the beautiful Christmas season. It's a memorial.",
+        "effect": "M.Def ＋5,Luk ＋1"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45199.png",
+        "name": "Santa Hat Blueprint",
+        "chineseName": "圣诞帽图纸",
+        "description": "Love happens in the snow season of RO, and the beautiful Christmas season. It's a memorial.",
+        "effect": ""
+    }
+]

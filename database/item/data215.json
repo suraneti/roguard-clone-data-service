@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Steward Cat's Gift II",
+        "chineseName": "猫管家的挑战赠礼II",
+        "description": "The reward for adventurers who have completed Level II Guild Challenge. It should be full of the encouragement of Steward Cat.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Steward Cat's Gift III",
+        "chineseName": "猫管家的挑战赠礼III",
+        "description": "The reward for adventurers who have completed Level III Guild Challenge. It should be full of the encouragement of Steward Cat.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Steward Cat's Gift IV",
+        "chineseName": "猫管家的挑战赠礼IV",
+        "description": "The reward for adventurers who have completed Level IV Guild Challenge. It should be full of the encouragement of Steward Cat.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Steward Cat's give away",
+        "chineseName": "猫管家的特别赠礼",
+        "description": "(Probably will receive more when guild challenge is completed) Steward Cat's reward for your efforts on guild challenge. Please open it up.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Steward Top Hat",
+        "chineseName": "执事礼帽",
+        "description": "Super dashing custom hat kept by Steward Detura, its so dashing that he will only put on this hat during important meetings!",
+        "effect": "All Attributes ＋1,Def ＋2%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41502.png",
+        "name": "Stick [2]",
+        "chineseName": "权杖[2]",
+        "description": "A mace for a novice.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41502.png",
+        "name": "Stick [3]",
+        "chineseName": "权杖[3]",
+        "description": "A mace for a novice.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_52152.png",
+        "name": "Sticky Mucus",
+        "chineseName": "粘稠液体",
+        "description": "An unknown viscous liquid. I wonder what you can make with it?",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Sticky Rice Dumpling",
+        "chineseName": "糯米粽子",
+        "description": "The fragrance of bamboo leaf and the softness of sticky rice!!  Is it supposed to be sweet or salty?  Gain double Base and Job Exp from killing monsters for 1 hour after use! (Buff’s remaining time elapses when you’re dead and when you’re out of combat but not when you’re offline)",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40707.png",
+        "name": "Stiletto",
+        "chineseName": "双刃短剑",
+        "description": "A Stiletto made in the need of the practicality of the knife edge.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40707.png",
+        "name": "Stiletto [2]",
+        "chineseName": "双刃短剑[2]",
+        "description": "A Stiletto made in the need of the practicality of the knife edge.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Sting Card",
+        "chineseName": "史汀卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Sting Composer [1]",
+        "chineseName": "史汀指挥家[1]",
+        "description": "Everyone is following Mr. Sting's conducting. Just join this music feast!",
+        "effect": "Int＋5, Dex ＋5,When refining ＋6, Int ＋5, Dex ＋5"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45065.png",
+        "name": "Sting hat",
+        "chineseName": "史汀帽子",
+        "description": "A wet mud hat made according to the look of Sting. It didn't take the wearer's feelings into consideration.",
+        "effect": "Def ＋10,Damage to fire monsters ＋5%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45065.png",
+        "name": "Sting hat Blueprint",
+        "chineseName": "史汀帽子图纸",
+        "description": "A wet mud hat made according to the look of Sting. It didn't take the wearer's feelings into consideration.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45065.png",
+        "name": "Sting hat [1]",
+        "chineseName": "史汀帽子[1]",
+        "description": "A wet mud hat made according to the look of Sting. It didn't take the wearer's feelings into consideration.",
+        "effect": "Def ＋10,Damage to fire monsters ＋5%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Sting ★Card",
+        "chineseName": "史汀★卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12504.png",
+        "name": "Stone Arrow",
+        "chineseName": "地灵箭矢",
+        "description": "Arrow made of hard rocks. Own the Str of land.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42507.png",
+        "name": "Stone Buckler",
+        "chineseName": "石制圆盾",
+        "description": "The shield made from meteorite stone, Extremely hard.",
+        "effect": "Damage from L-size monsters -25%,Green Steel Pike IV ＋ Greaves  VII ＋ Stone Buckler IV: Ignores 5% Def, ＋5% Atk"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42507.png",
+        "name": "Stone Buckler [1]",
+        "chineseName": "石制圆盾[1]",
+        "description": "The shield made from meteorite stone, Extremely hard.",
+        "effect": "Damage from L-size monsters -25%,Green Steel Pike IV ＋ Greaves  VII ＋ Stone Buckler IV: Ignores 5% Def, ＋5% Atk"
+    }
+]

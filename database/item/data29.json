@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Blue Hairband Blueprint",
+        "chineseName": "海蓝发带图纸",
+        "description": "Close your eyes to hear sounds from the sea and mountain as you put the hairband on. But who is calling？",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Blue Hairband [1]",
+        "chineseName": "海蓝发带[1]",
+        "description": "",
+        "effect": "Max SP ＋50,Atk ＋5"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_5014.png",
+        "name": "Blue Herb",
+        "chineseName": "蓝色药草",
+        "description": "A raw material for producing blue hair dyes.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12024.png",
+        "name": "Blue Potion",
+        "chineseName": "蓝色药水",
+        "description": "Potion made from blue herbs. Use it to restore 30-50 points of SP.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Blue Wolf Card",
+        "chineseName": "苍狼卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43024.png",
+        "name": "Blueeve Cape",
+        "chineseName": "时之蓝披肩",
+        "description": "The blue shawl worn by the Rogue Blueeve in \"work\".",
+        "effect": "Flee ＋15,[Advanced Sack Teddy Shoes] ＋ [Cat's Blessing VI] ＋ [Blueeve Cape IV]: Strength ＋ 5, Attack Spd ＋ 5%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43024.png",
+        "name": "Blueeve Cape [1]",
+        "chineseName": "时之蓝披肩[1]",
+        "description": "The blue shawl worn by the Rogue Blueeve in \"work\".",
+        "effect": "Flee ＋15,[Advanced Sack Teddy Shoes] ＋ [Cat's Blessing VI] ＋ [Blueeve Cape IV]: Strength ＋ 5, Attack Spd ＋ 5%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_48533.png",
+        "name": "Blush",
+        "chineseName": "红晕",
+        "description": "It looks small and exquisite, and it can be equipped if you want to look cute in front of your lover. It's the essential for hot young lads and girls.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_48533.png",
+        "name": "Blush Blueprint",
+        "chineseName": "红晕图纸",
+        "description": "It looks small and exquisite, and it can be equipped if you want to look cute in front of your lover. It's the essential for hot young lads and girls.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_5018.png",
+        "name": "Body Dye Recipe",
+        "chineseName": "身体染色处方",
+        "description": "A required material for producing body dyes.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Bohemian Coat",
+        "chineseName": "放浪者外套",
+        "description": "Def + 36",
+        "effect": "Dex ＋4,[Black Wing V] ＋ [Bohemian Coat IV]: Str ＋5, ignore Def ＋10%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Bohemian Coat [1]",
+        "chineseName": "放浪者外套[1]",
+        "description": "Def + 36",
+        "effect": "Dex ＋4,[Black Wing V] ＋ [Bohemian Coat IV]: Str ＋5, ignore Def ＋10%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45040.png",
+        "name": "Bomb Wick",
+        "chineseName": "火线头饰",
+        "description": "Headdress designed as the shape of bomb wick.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45040.png",
+        "name": "Bomb Wick Blueprint",
+        "chineseName": "火线头饰图纸",
+        "description": "Headdress designed as the shape of bomb wick.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45040.png",
+        "name": "Bomb Wick [1]",
+        "chineseName": "火线头饰[1]",
+        "description": "Headdress designed as the shape of bomb wick.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Bond Chest",
+        "chineseName": "结缘礼盒",
+        "description": "It's fantastic to meet you! This is my gift for you.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Bond Chest",
+        "chineseName": "结缘礼盒",
+        "description": "It's fantastic to meet you! This is my gift for you.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_700005.png",
+        "name": "Bond Chocolate",
+        "chineseName": "结缘巧克力",
+        "description": "The special chocolate sold by the God of Love from Big Cat Planet on specified day in human's world, the best gift to family and friends. (Effects: you can give this item to NPCs you like or other adventures, Making their All Attributes increase by 12; the effect lasts 30 minutes and is not affected by death and network failure; the valid time cannot stack up.)",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45068.png",
+        "name": "Bone Helm",
+        "chineseName": "骨制头盔",
+        "description": "Hard headwear made of bones. Although it's heavy and difficult to wear, it has great Def.",
+        "effect": "Def ＋5,Dark Dmg Taken -15%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45068.png",
+        "name": "Bone Helm Blueprint",
+        "chineseName": "骨制头盔图纸",
+        "description": "Hard headwear made of bones. Although it's heavy and difficult to wear, it has great Def.",
+        "effect": ""
+    }
+]

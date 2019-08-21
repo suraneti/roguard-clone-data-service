@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Evil Hood",
+        "chineseName": "邪骨兜帽",
+        "description": "The hat worn by a dubious human organization at secret assemblies.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Evil Hood Blueprint",
+        "chineseName": "邪骨兜帽图纸",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_52204.png",
+        "name": "Evil Horn",
+        "chineseName": "恶魔角",
+        "description": "A goat horn that symbolizes the devil. I wonder what you can make with it?",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45149.png",
+        "name": "Evil Marcher Hat",
+        "chineseName": "邪恶神圣游行者帽",
+        "description": "Black top hat with evil power.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45149.png",
+        "name": "Evil Marcher Hat [1]",
+        "chineseName": "邪恶神圣游行者帽[1]",
+        "description": "Black top hat with evil power.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45149.png",
+        "name": "Evil Marcher Hat [1] Blueprint",
+        "chineseName": "邪恶神圣游行者帽[1]图纸",
+        "description": "Black top hat with evil power.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45013.png",
+        "name": "Evil Wing",
+        "chineseName": "恶魔发圈",
+        "description": "Hairband made according to the shape of DDevil Wings.",
+        "effect": "Str ＋3,When Refining ＋10, Def ＋10%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45013.png",
+        "name": "Evil Wing Ears Blueprint",
+        "chineseName": "恶魔发圈图纸",
+        "description": "Hairband made according to the shape of DDevil Wings.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45013.png",
+        "name": "Evil Wing [1]",
+        "chineseName": "恶魔发圈[1]",
+        "description": "Hairband made according to the shape of DDevil Wings.",
+        "effect": "Str ＋3,When Refining ＋10, Def ＋10%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40301.png",
+        "name": "Excalibur [2]",
+        "chineseName": "石中剑[2]",
+        "description": "A sword stuck in a stone. They will choose their own holders and possess divine power.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40301.png",
+        "name": "Excalibur [3]",
+        "chineseName": "石中剑[3]",
+        "description": "A sword stuck in a stone. They will choose their own holders and possess divine power.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Exclusive Premium card",
+        "chineseName": "庆典限定卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42518.png",
+        "name": "Exorcism Bible",
+        "chineseName": "驱魔圣经",
+        "description": "A scripture that must be read by the clergy.",
+        "effect": "Damage reduction of undead race ＋15%,Dark Dmg Taken -20%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42518.png",
+        "name": "Exorcism Bible [1]",
+        "chineseName": "驱魔圣经[1]",
+        "description": "A scripture that must be read by the clergy.",
+        "effect": "Damage reduction of undead race ＋15%,Dark Dmg Taken -20%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Exorcism Drum",
+        "chineseName": "辟邪腰鼓",
+        "description": "A drum has an ancient history, it was named after an ancient beast. They have the same effect to Exorcism the bad and evil. If you hit it three times before you go to  sleep, you will have a good dream.",
+        "effect": "Dmg to Demon monsters＋8%,Dmg received from Demon monster－8%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42006.png",
+        "name": "Exorcist Robe",
+        "chineseName": "驱魔师长袍",
+        "description": "A robe once worn by a wise exorcist.",
+        "effect": "M.Def ＋25,Dark Dmg Taken -15%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42006.png",
+        "name": "Exorcist Robe [1]",
+        "chineseName": "驱魔师长袍[1]",
+        "description": "A robe once worn by a wise exorcist.",
+        "effect": "M.Def ＋25,Dark Dmg Taken -15%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_3604.png",
+        "name": "Expert Cook Chest III",
+        "chineseName": "专家烹饪礼盒·Ⅲ",
+        "description": "With an insight into the taste of food, you can imagine the cooking process by tasting it. Now please try some more advanced dishes. (Open the pack to find 3-star food)",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_58.png",
+        "name": "Expert Food Pack III",
+        "chineseName": "专家食材包包·Ⅲ",
+        "description": "With an understanding of heat and taste, it is easier to handle ingredients and challenge more difficult ingredients. (Open the pack to find some intermediate food ingredients)",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Expert Precision Stone",
+        "chineseName": "极效精准魔石",
+        "description": "No weapon damage panelty based on monster size. Lasts for 15 min.",
+        "effect": ""
+    }
+]

@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Valkyrie Helm (MVP)",
+        "chineseName": "巴基力头（MVP）",
+        "description": "Valkyrie Helm (MVP)",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45090.png",
+        "name": "Valkyrie Helm [1]",
+        "chineseName": "巴基力头盔[1]",
+        "description": "The helmet of Odin's servant, \"War Girl\", it has an ornate accessory with unfolded wings.",
+        "effect": "M.Def ＋20,Max HP ＋600"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45090.png",
+        "name": "Valkyrie Helm [1] Blueprint",
+        "chineseName": "巴基力头盔[1]图纸",
+        "description": "\"Battle Girl's\" Helmet that served Odin. It represents the gorgeous decoration of flying wings. Show the hidden Str when you gather all the groups of Valkyrie Randgris.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Valkyrie Manteau [1]",
+        "chineseName": "巴基力的披风[1]",
+        "description": "The cloak of Odin's servant, \"War Girl\", gorgeous and light.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Valkyrie Manteau [2]",
+        "chineseName": "巴基力的披风[2]",
+        "description": "The cloak of Odin's servant, \"War Girl\", gorgeous and light.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43503.png",
+        "name": "Valkyrie Shoes [1]",
+        "chineseName": "巴基力的长靴[1]",
+        "description": "The boots of Odin's servant, \"War Girl\", its ability grows with the wearer.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43503.png",
+        "name": "Valkyrie Shoes [2]",
+        "chineseName": "巴基力的长靴[2]",
+        "description": "The boots of Odin's servant, \"War Girl\", its ability grows with the wearer.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Valkyrie Weapon 1 [Sword]",
+        "chineseName": "巴基力武器1（剑）",
+        "description": "Valkyrie Weapon 1 [Sword]",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Valkyrie Weapon 2 [Armor]",
+        "chineseName": "巴基力武器2（甲）",
+        "description": "Valkyrie Weapon 2 [Armor]",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Valkyrie Wings",
+        "chineseName": "巴基力翅膀",
+        "description": "Valkyrie Wings",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Valkyrie's Gift",
+        "chineseName": "来自女武神的馈赠",
+        "description": "Valkyrie provides warriors with kisses, love and fighting power. (Use it to guild contribution: 500 points)",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Valkyrie's Guidance Chest",
+        "chineseName": "女武神的指引礼盒",
+        "description": "The blessing guide of Valkyrie, You can use it to receive Guild's Gift x5, Gold Medal x1",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Valkyrja's Shield [2]",
+        "chineseName": "巴基力亚钢盾[2]",
+        "description": "The shield used by Gothenar, Blig's subordinate god, during the battle in Bakilia. Through it you can sense the fighting spirit of Bakilia warrior.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Valkyrja's Shield[1]",
+        "chineseName": "巴基力亚钢盾[1]",
+        "description": "The shield used by Gothenar, Blig's subordinate god, during the battle in Bakilia. Through it you can sense the fighting spirit of Bakilia warrior.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Vane Hairpin",
+        "chineseName": "风车头饰",
+        "description": "",
+        "effect": "MDmg Reduc. ＋3%,MAX HP＋2%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Vane Hairpin",
+        "chineseName": "风车头饰",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Vane Hairpin Blueprint",
+        "chineseName": "风车头饰图纸",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Vane Hairpin [1]",
+        "chineseName": "风车头饰[1]",
+        "description": "The childhood feelings of chasing after kites are still vivid. Although we cannot go back, we can continue to be playful children at least.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Vane Hairpin [1] Blueprint",
+        "chineseName": "风车头饰[1]图纸",
+        "description": "The childhood feelings of chasing after kites are still vivid. Although we cannot go back, we can continue to be playful children at least.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43503.png",
+        "name": "Variant Shoes [1]",
+        "chineseName": "古怪的靴子[1]",
+        "description": "Weird-designed boots that indicates the maker's intention to challenge the God, but the function was changed because the purpose was not achieved.",
+        "effect": ""
+    }
+]

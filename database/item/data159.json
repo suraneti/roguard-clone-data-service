@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45177.png",
+        "name": "Nut Shell",
+        "chineseName": "水果皮帽",
+        "description": "Hat made by half of the hard fruit. Surprisingly, it will provide strong Def.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45177.png",
+        "name": "Nut Shell Blueprint",
+        "chineseName": "水果皮帽图纸",
+        "description": "Hat made by half of the hard fruit. Surprisingly, it will provide strong Def.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45177.png",
+        "name": "Nut Shell [1]",
+        "chineseName": "水果皮帽[1]",
+        "description": "Hat made by half of the hard fruit. Surprisingly, it will provide strong Def.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Obeaune Card",
+        "chineseName": "人鱼卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45134.png",
+        "name": "Observer",
+        "chineseName": "能量探测器",
+        "description": "Equipment made by a mysterious group to detect other's power. The figure is 5 when you test common people.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45134.png",
+        "name": "Observer Blueprint",
+        "chineseName": "能量探测器图纸",
+        "description": "Equipment made by a mysterious group to detect other's power. The figure is 5 when you test common people.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45134.png",
+        "name": "Observer [1]",
+        "chineseName": "能量探测器[1]",
+        "description": "A device made by a mysterious group that detects other's energy. The average person was measured with a value of 5. Monster Intelligence Lv.1 can be used.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Obsidian Cape",
+        "chineseName": "黑曜石斗篷",
+        "description": "The cloak is inlaid with obsidian, which raises the wearer's M.Def.",
+        "effect": "M.Def ＋40,When being attacked by auto attacks or skills, has a 50% chance to gain a 50% Magic Reduc., but Def will be reduced by 50%, lasting for 10 seconds"
+    },
+    {
+        "imgsrc": null,
+        "name": "Obsidian Cape [1]",
+        "chineseName": "黑曜石斗篷[1]",
+        "description": "The cloak is inlaid with obsidian, which raises the wearer's M.Def.",
+        "effect": "M.Def ＋40,When being attacked by auto attacks or skills, has a 50% chance to gain a 50% Magic Reduc., but Def will be reduced by 50%, lasting for 10 seconds"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_111.png",
+        "name": "Occupation Chest",
+        "chineseName": "占领者礼盒",
+        "description": "Guilds that occupy territories will gain special kingdom prizes. And it has a place of its own in the city.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Oct. 2017 Gashapon Chest",
+        "chineseName": "17年10月扭蛋盒",
+        "description": "Kafra's special headwear Gashapon toy chest, to express your sincere affection! Open it to receive friend's blessing cards and 10 headwear Gashapon toys relative to 10 months.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Oct. 2017 Premium",
+        "chineseName": "2017.10月限定特典",
+        "description": "\"The whole country is celebrating this festival. This golden month is much anticipated. \" To appreciate the adventurers who have been supporting us for a long time, the famous Kafra Company specially launched a special small card in the form of a monthly magazine. Hold it and you will feel its magical power. It's practical and highly collectible.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Oct. 2018 Premium",
+        "chineseName": "2018.10月限定特典",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "ohsiesie",
+        "chineseName": "ohsiesie",
+        "description": "What kind of conversation will I have with whoever I meet? I think I met the right person. Ah~ I’m tired. I wanna sit down for a bit. Hehe, your head is quite comfy~",
+        "effect": "Max Hp ＋300,Atk ＋30, M.Atk ＋30"
+    },
+    {
+        "imgsrc": null,
+        "name": "OK Bound",
+        "chineseName": "OK绑",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "OK Bound Blueprint",
+        "chineseName": "OK绑图纸",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_3601.png",
+        "name": "Old Blueprint Chest",
+        "chineseName": "陈旧的图纸箱子",
+        "description": "Craftsmen are usually careful to seal the design Blueprints with white wax.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_3608.png",
+        "name": "Old Collection",
+        "chineseName": "老旧收集册",
+        "description": "A book for collecting cards. Since it has a long history, the cards are hardly recognizable.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_3607.png",
+        "name": "Old Universal Chest",
+        "chineseName": "陈旧的百变宝箱",
+        "description": "Open it to receive one random transformation scroll.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_3600.png",
+        "name": "One Million Gathering Pack",
+        "chineseName": "百万集结礼包",
+        "description": "A beautiful box in the light blessed by the goddess, gathering millions of love and faith, thoughts and expectations. You can feel the weight and warmth by holding it in your hand. Because of this love and courage, this adventure trip is guarded by us!",
+        "effect": ""
+    }
+]

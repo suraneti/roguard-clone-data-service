@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45098.png",
+        "name": "Gemmed Sallet [1] Blueprint",
+        "chineseName": "宝石头盔[1]图纸",
+        "description": "Helmet with germs.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Gentle Moonlight",
+        "chineseName": "温婉月光",
+        "description": "Perfume with the smell of sea, Mixed with citrus and wood fragrance. After use, the body will be covered with moonlight, Just like the blue velvet water under moonlight, Graceful but a little sad.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40607.png",
+        "name": "Gentleman's Staff [1]",
+        "chineseName": "绅士的手杖[1]",
+        "description": "A magic wand favored by a Mage in some country. It is said that the thin swords are hidden in some wands.",
+        "effect": "Dex ＋3,VIT ＋3"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40607.png",
+        "name": "Gentleman's Staff [2]",
+        "chineseName": "绅士的手杖[2]",
+        "description": "The magic staff of an unknown Mage. Legend has it that slender swords are hidden in some staffs.",
+        "effect": "Dex ＋3,VIT ＋3"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Geographer Card",
+        "chineseName": "邪恶向日葵卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Ghost Archer Bow",
+        "chineseName": "幽灵弓手弓",
+        "description": "Ghost Archer Bow",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Ghost Archer Horong",
+        "chineseName": "幽灵弓手鬼火",
+        "description": "Ghost Archer Horong",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45015.png",
+        "name": "Ghost Bandana",
+        "chineseName": "亡者发箍",
+        "description": "Triangle hat prepared for the dead in certain small East country.",
+        "effect": "Agi ＋2,Dark Dmg Taken -15%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45015.png",
+        "name": "Ghost Bandana Blueprint",
+        "chineseName": "亡者发箍图纸",
+        "description": "Triangle hat prepared for the dead in certain small East country.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45015.png",
+        "name": "Ghost Bandana [1]",
+        "chineseName": "亡者发箍[1]",
+        "description": "Triangle hat prepared for the dead in certain small East country.",
+        "effect": "Agi ＋2,Dark Dmg Taken -15%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Ghost Honey",
+        "chineseName": "英灵蜂蜜酿",
+        "description": "Spirit's favorite honey wine. After drinking, You can summon an Archer Spirit to help attack. The spirit will exist 5 minutes, For every 3 attacks you launch, the spirit will deal 200 points of True Dmg to the target. Spirit will not disappeared after your death. This item can only be used on PVP maps.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Ghost Mask",
+        "chineseName": "古城幽灵面具",
+        "description": "Wearing a mystery mask, you can to anywhere, even dangerous places.",
+        "effect": "VIT ＋4,Max HP ＋500"
+    },
+    {
+        "imgsrc": null,
+        "name": "Ghost Picnic Pad",
+        "chineseName": "幽灵野餐垫",
+        "description": "A picnic pad with the style and design of ghost. It's as light as a whisper. Does it really exist?",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_3033.png",
+        "name": "Ghost Ship Material Pack",
+        "chineseName": "幽灵船材料包",
+        "description": "Ghost Ship Material Pack, in which all kinds of Ghost Ship materials can be found.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Ghostring Card",
+        "chineseName": "幽灵波利卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Giant Axe [1]",
+        "chineseName": "巨人战斧[1]",
+        "description": "The giant Two-Handed Axe that seems to be impossible to move.",
+        "effect": "Damage to S-size monsters ＋10%,Dmg to Dark monsters ＋30%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Giant Axe [2]",
+        "chineseName": "巨人战斧[2]",
+        "description": "The giant Two-Handed Axe that seems to be impossible to move.",
+        "effect": "Damage to S-size monsters ＋10%,Dmg to Dark monsters ＋30%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41833.png",
+        "name": "Giant Battle Axe",
+        "chineseName": "巨型战斧",
+        "description": "A weapon favored by people who are confident in their strength.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41833.png",
+        "name": "Giant Battle Axe [2]",
+        "chineseName": "巨型战斧[2]",
+        "description": "A weapon favored by people who are confident in their strength.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41201.png",
+        "name": "Giant Bow [2]",
+        "chineseName": "巨之弓[2]",
+        "description": "Its name is Giant Bow. Since it is big and heavy, it will be difficult to handle. But its powerful attack is impressive.",
+        "effect": ""
+    }
+]

@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41221.png",
+        "name": "Luna Bow [2]",
+        "chineseName": "露娜弓[2]",
+        "description": "A bow made of moonstone with a blade to defend against enemy's attack and shot. The heavy weight is the only defect.",
+        "effect": "Atk ＋24,[Luna Bow VI] ＋[Luna Brooch VI]: Intelligence ＋2, SP Regen ＋10%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_44006.png",
+        "name": "Luna Brooch",
+        "chineseName": "月亮胸针",
+        "description": "A golden crescent-shaped brooch.",
+        "effect": "Max SP ＋75,[Luna Bow VI] ＋[Luna Brooch VI]: Intelligence ＋2, SP Regen ＋10%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_44006.png",
+        "name": "Luna Brooch [1]",
+        "chineseName": "月亮胸针[1]",
+        "description": "A golden crescent-shaped brooch.",
+        "effect": "Max SP ＋75,[Luna Bow VI] ＋[Luna Brooch VI]: Intelligence ＋2, SP Regen ＋10%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41504.png",
+        "name": "Lunakaligo [2]",
+        "chineseName": "月神平底锅[2]",
+        "description": "A huge black pan that can sense the traces of time.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41504.png",
+        "name": "Lunakaligo [3]",
+        "chineseName": "月神平底锅[3]",
+        "description": "A huge black pan that can sense the traces of time.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Lunar Flow[1]",
+        "chineseName": "月萤流羽[1]",
+        "description": "A favorite hair decoration of the elves said to contain the power of love. Made from the feathers of snow birds, it shines like the moon in the breeze.",
+        "effect": "VIT +2,Max HP +500"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Lunatic Card",
+        "chineseName": "疯兔卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12343.png",
+        "name": "Lunatic Doll",
+        "chineseName": "疯兔娃娃",
+        "description": "A rabbit-like doll made of cloth and cotton, a suitable gift for little ladies. It permanently increases the character's M.Atk by 25 points and cannot be traded.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Lunatic★Card",
+        "chineseName": "疯兔★卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_3620.png",
+        "name": "Luxury Food Pack",
+        "chineseName": "豪华全食材包包",
+        "description": "A bag that provides all kinds of ingredients. Please take a challenge if you are confident!",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_3610.png",
+        "name": "Lv.10 Growth Pack",
+        "chineseName": "10级成长背包",
+        "description": "Novice Limited Growth Pack (available for use at Lv.10). Open it to receive Zeny x500, Red Potion x20, Blue Potion x10, Leaf of Yggdrasil x1, Eden Team Manteau x1.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_3610.png",
+        "name": "Lv.20 Growth Pack",
+        "chineseName": "20级成长背包",
+        "description": "Novice Limited Growth Pack (available for use at Lv.20). Open it to receive Zeny x2000, Amazing Toy Box x1, Dry Material Chest x1, Butterfly Wing x5, Fly Wing x10, Kafra Teleport Ticket x10, Lv.20 Class Weapon x1, Rookie Dish Pack A x1.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_3610.png",
+        "name": "Lv.30 Growth Pack",
+        "chineseName": "30级成长背包",
+        "description": "Novice Limited Growth Pack (available for use at Lv.30). Open it to receive Zeny x5000, Eternal Rock x1, Lightning Chain x1, Kafra Storage Ticket x5, Belief Token x5, Blue Potion x20, Lv.30 Class Weapon x1.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_3002.png",
+        "name": "Lv.40 Autumn Chest",
+        "chineseName": "40级秋日成长礼盒",
+        "description": "Autumn Test Limited Growth Chest (available for use at Lv.40), which contains Zeny x10000, Old Blueprint Chest x1, Mora Coin x1, Refining Material Chest I x2, Dish Pack A x2, Dead Branch x10.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_3610.png",
+        "name": "Lv.40 Growth Pack",
+        "chineseName": "40级成长背包",
+        "description": "Novice Limited Growth Pack (available for use at Lv.40). Open it to receive Zeny x10000, Old Blueprint Chest x1, Mora Coin x1, refining Material Chest I x2, Dish Pack A x2, Dead Branch x5, Skill Reset Rod x1.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Lv.5 Talent Fruit",
+        "chineseName": "5级天赋果实",
+        "description": "The fruit of talent tree in Monster Eden. With magical power, the fruit is said to be popular among all monsters. Pets randomly acquire skills above Lv.5 after using the fruit.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_3002.png",
+        "name": "Lv.50 Autumn Chest",
+        "chineseName": "50级秋日成长礼盒",
+        "description": "Autumn Test Limited Growth Chest (available for use at Lv.50), which contains Zeny x30000, Old Collection x1, Neutralizer x1, Fantasy·Silver Bracer x1, Belief Token x10.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_3610.png",
+        "name": "Lv.50 Growth Pack",
+        "chineseName": "50级成长背包",
+        "description": "Novice Limited Growth Pack (available for use at Lv.50). Open it to receive Zeny x20000, Old Collection x1, Neutralizer x1, Fantasy·Silver Bracer x1, Belief Token x10.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Lv.6 Talent Fruit",
+        "chineseName": "6级天赋果实",
+        "description": "The fruit of talent tree in Monster Eden. With magical power, the fruit is said to be popular among all monsters. Pets randomly acquire skills above Lv.6 after using the fruit.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_3002.png",
+        "name": "Lv.60 Autumn Chest",
+        "chineseName": "60级秋日成长礼盒",
+        "description": "Autumn Test Limited Growth Chest (available for use at Lv.60), which contains Zeny x50000, Dish Pack B x1, Old Universal Chest x1, Lightning Chain x2, Refining Material Chest II x5, Dead Branch x10.",
+        "effect": ""
+    }
+]

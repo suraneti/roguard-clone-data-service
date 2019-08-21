@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Last Line of Defense",
+        "chineseName": "最终防线",
+        "description": "What hope will the mankind have if this line of defense is breached?",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45132.png",
+        "name": "Laurel Wreath",
+        "chineseName": "月桂树之冠",
+        "description": "Crown made of green leaves and fragrant flowers. It's very refreshing to wear.",
+        "effect": "M.Def ＋5,Curse Resistance ＋5%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45132.png",
+        "name": "Laurel Wreath [1]",
+        "chineseName": "月桂树之冠[1]",
+        "description": "Crown made of green leaves and fragrant flowers. It's very refreshing to wear.",
+        "effect": "M.Def ＋5,Curse Resistance ＋5%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45132.png",
+        "name": "Laurel Wreath [1] Blueprint",
+        "chineseName": "月桂树之冠[1]图纸",
+        "description": "Crown made of green leaves and fragrant flowers. It's very refreshing to wear.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Lava Gem",
+        "chineseName": "熔岩宝石",
+        "description": "Wow, the jewel looks as beautiful as flowing lava! Wow, it is hot! Hot! Hot!",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Lava Poring Candy",
+        "chineseName": "熔岩波利糖",
+        "description": "A candy in the shape of Lava Poring, with a burning taste. Within 1 minute, the fire damage you suffer will reduce by 100%. This effect cannot stack up with other Poring candies, and is not influenced by death. This item can only be used on PVP maps.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Lavender Pale Purple",
+        "chineseName": "薰衣草·淡紫",
+        "description": "Use to redeem job Costume Lavender Pale Purple at \"Prontera\" Costume shop",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Laziness Accessory",
+        "chineseName": "怠饰品",
+        "description": "Really makes you want a lazy and quiet snooze.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Lazy Corgi - Color 1",
+        "chineseName": "懒洋洋的柯基·颜色1",
+        "description": "The little poppy can stand tall!",
+        "effect": "All Attributes ＋1,Dmg to Demi-Human ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Lazy Corgi - Color 2",
+        "chineseName": "懒洋洋的柯基·颜色2",
+        "description": "The little poppy can stand tall!",
+        "effect": "All Attributes ＋1,Dmg to Demi-Human ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Lazy Corgi - Color 3",
+        "chineseName": "懒洋洋的柯基·颜色3",
+        "description": "The little poppy can stand tall!",
+        "effect": "All Attributes ＋1,Dmg to Demi-Human ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Lazy Corgi - Color 4",
+        "chineseName": "懒洋洋的柯基·颜色4",
+        "description": "The little poppy can stand tall!",
+        "effect": "All Attributes ＋1,Dmg to Demi-Human ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Lazy Corgi Headwear",
+        "chineseName": "懒洋洋的柯基系列头饰",
+        "description": "The little poppy can stand tall!",
+        "effect": "All Attributes ＋1,Dmg to Demi-Human ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Lazy Corgi Headwear",
+        "chineseName": "懒洋洋的柯基系列头饰",
+        "description": "The little poppy can stand tall!",
+        "effect": "All Attributes ＋1,Dmg to Demi-Human ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Lazy Corgi·Sharp Black",
+        "chineseName": "懒洋洋的柯基·晶耀黑",
+        "description": "The little poppy can stand tall!",
+        "effect": "All Attributes ＋1,Dmg to Demi-Human ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Lazy Corgi·Starfish Yellow",
+        "chineseName": "懒洋洋的柯基·海星黄",
+        "description": "The little poppy can stand tall!",
+        "effect": "All Attributes ＋1,Dmg to Demi-Human ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Lazy Corgi·Stone Green",
+        "chineseName": "懒洋洋的柯基·苍石青",
+        "description": "The little poppy can stand tall!",
+        "effect": "All Attributes ＋1,Dmg to Demi-Human ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Lazy Corgi·Sugar Brown",
+        "chineseName": "懒洋洋的柯基·甜粉棕",
+        "description": "The little poppy can stand tall!",
+        "effect": "All Attributes ＋1,Dmg to Demi-Human ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Lazy Poring",
+        "chineseName": "懒懒波利",
+        "description": "Praised as the continent's most popular monster three times in row, the touching feeling is even more comfortable than touching the cat! All Poring have a puzzle: after eating and sleeping, why do you always hit me?",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Lazy Poring [1]",
+        "chineseName": "懒懒波利[1]",
+        "description": "Praised as the continent's most popular monster three times in row, the touching feeling is even more comfortable than touching the cat! All Poring have a puzzle: after eating and sleeping, why do you always hit me?",
+        "effect": ""
+    }
+]

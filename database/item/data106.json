@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_52313.png",
+        "name": "Heroic Emblem",
+        "chineseName": "兽人英雄之证",
+        "description": "The blood of braves can only be passed down within the orc tribe. Although it has no special abilities, it is a sacred symbol for the orcs. Being a very rare item, it can be used to make high-end headwear.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Hi! This is Aquarius!",
+        "chineseName": "嗨！这就是宝瓶座！",
+        "description": "\"You're contacting now. . . \" Human body language often cannot describe the connection between heavenly mysteries. (Use to unlock a new character pose. Your camera can't wait. )",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Hi! This is Aries!",
+        "chineseName": "嗨！这就是白羊座！",
+        "description": "\"You're contacting now. . . \" Human body language often cannot describe the connection between heavenly mysteries. (Use to unlock a new character pose. Your camera can't wait. )",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Hi! This is Cancer!",
+        "chineseName": "嗨！这就是巨蟹座！",
+        "description": "\"You're contacting now. . . \" Human body language often cannot describe the connection between heavenly mysteries. (Use to unlock a new character pose. Your camera can't wait. )",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Hi! This is Capricon!",
+        "chineseName": "嗨！这就是天蝎座！",
+        "description": "\"You're contacting now. . . \" Human body language often cannot describe the connection between heavenly mysteries. (Use to unlock a new character pose. Your camera can't wait. )",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Hi! This is Gemini!",
+        "chineseName": "嗨！这就是双子座！",
+        "description": "\"You're contacting now. . . \" Human body language often cannot describe the connection between heavenly mysteries. (Use to unlock a new character pose. Your camera can't wait. )",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Hi! This is Leo!",
+        "chineseName": "嗨！这就是狮子座！",
+        "description": "\"You're contacting now. . . \" Human body language often cannot describe the connection between heavenly mysteries. (Use to unlock a new character pose. Your camera can't wait. )",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Hi! This is Libra!",
+        "chineseName": "嗨！这就是天秤座！",
+        "description": "\"You're contacting now. . . \" Human body language often cannot describe the connection between heavenly mysteries. (Use to unlock a new character pose. Your camera can't wait. )",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Hi! This is Pisces!",
+        "chineseName": "嗨！这就是双鱼座！",
+        "description": "\"You're contacting now. . . \" Human body language often cannot describe the connection between heavenly mysteries. (Use to unlock a new character pose. Your camera can't wait. )",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Hi! This is Sagittarius!",
+        "chineseName": "嗨！这就是人马座！",
+        "description": "\"You're contacting now. . . \" Human body language often cannot describe the connection between heavenly mysteries. (Use to unlock a new character pose. Your camera can't wait. )",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Hi! This is Scorpio!",
+        "chineseName": "嗨！这就是摩羯座！",
+        "description": "\"You're contacting now. . . \" Human body language often cannot describe the connection between heavenly mysteries. (Use to unlock a new character pose. Your camera can't wait. )",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Hi! This is Taurus!",
+        "chineseName": "嗨！这就是金牛座！",
+        "description": "\"You're contacting now. . . \" Human body language often cannot describe the connection between heavenly mysteries. (Use to unlock a new character pose. Your camera can't wait. )",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Hi! This is Virgo!",
+        "chineseName": "嗨！这就是处女座！",
+        "description": "\"You're contacting now. . . \" Human body language often cannot describe the connection between heavenly mysteries. (Use to unlock a new character pose. Your camera can't wait. )",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45022.png",
+        "name": "Hibiscus",
+        "chineseName": "海棠花发夹",
+        "description": "Flower as beautiful as a goddess, which appears in the legendary faraway east country. It's used for view or Chinese medicinal materials.",
+        "effect": "Dex ＋1,M.Def ＋5"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45022.png",
+        "name": "Hibiscus Blueprint",
+        "chineseName": "海棠花发夹图纸",
+        "description": "Flower as beautiful as a goddess, which appears in the legendary faraway east country. It's used for view or Chinese medicinal materials.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43515.png",
+        "name": "High Fashion Sandals",
+        "chineseName": "高级凉鞋",
+        "description": "High Fashion Sandals with gold thread and precious stones for special treatment, simple and beautiful.",
+        "effect": "Move Spd ＋10%,[Staunch Mana Manteau] ＋ [High Fashion Sandals IV]: Magic Reduc. ＋5%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43515.png",
+        "name": "High Fashion Sandals [1]",
+        "chineseName": "高级凉鞋[1]",
+        "description": "High Fashion Sandals with gold thread and precious stones for special treatment, simple and beautiful.",
+        "effect": "Move Spd ＋10%,[Staunch Mana Manteau] ＋ [High Fashion Sandals IV]: Magic Reduc. ＋5%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43527.png",
+        "name": "High Heels",
+        "chineseName": "抗魔靴",
+        "description": "Leather shoes, the front part protrudes as sharp as a knife in front.",
+        "effect": "Move Spd ＋5%,M.Def ＋10"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43527.png",
+        "name": "High Heels [1]",
+        "chineseName": "抗魔靴[1]",
+        "description": "Leather shoes, the front part protrudes as sharp as a knife in front.",
+        "effect": "Move Spd ＋5%,M.Def ＋10"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "High Orc Card",
+        "chineseName": "兽人战士长卡片",
+        "description": "",
+        "effect": ""
+    }
+]

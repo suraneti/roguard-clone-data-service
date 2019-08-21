@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Savage Babe's Silver Chest",
+        "chineseName": "小野猪的银箱",
+        "description": "To thank the adventurers for their care, Ivy took out her wooden box containing many interesting items.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Savage Babe's Wood Chest",
+        "chineseName": "小野猪的木箱",
+        "description": "To thank the adventurers for their care, Ivy took out her wooden box containing many interesting items.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Savage Card",
+        "chineseName": "野猪卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Scalpel [1]",
+        "chineseName": "手术刀[1]",
+        "description": "Atk + 180",
+        "effect": "Str ＋4,For Refining ＋10, the damage of [Back Stab] to Demi-Human ＋5%; For Refining ＋15, the damage of [Back Stab] to Demi-Human ＋10%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Scalpel [2]",
+        "chineseName": "手术刀[2]",
+        "description": "Atk + 180",
+        "effect": "Str ＋4,For Refining ＋10, the damage of [Back Stab] to Demi-Human ＋5%; For Refining ＋15, the damage of [Back Stab] to Demi-Human ＋10%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42010.png",
+        "name": "Scapulare",
+        "chineseName": "圣职之袍",
+        "description": "Baptized clothes.",
+        "effect": "INT ＋2,Max SP ＋3%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42010.png",
+        "name": "Scapulare [1]",
+        "chineseName": "圣职之袍[1]",
+        "description": "Baptized clothes.",
+        "effect": "INT ＋2,Max SP ＋3%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Scarlet Blade",
+        "chineseName": "深红圣剑",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Scarlet Bolt [1]",
+        "chineseName": "深红闪电[1]",
+        "description": "The dark red color of the bow is said by the gossip people to be dyed with the blood of the enemy.",
+        "effect": "Dex ＋5,Refining increases by 1, auto attack increases by 20 points"
+    },
+    {
+        "imgsrc": null,
+        "name": "Scarlet Bolt [2]",
+        "chineseName": "深红闪电[2]",
+        "description": "The dark red color of the bow is said by the gossip people to be dyed with the blood of the enemy.",
+        "effect": "Dex ＋5,Refining increases by 1, auto attack increases by 20 points"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12101.png",
+        "name": "Scarlet Dyestuffs",
+        "chineseName": "红色染料",
+        "description": "A magic potion to dye the hair red.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Scarlet Pike",
+        "chineseName": "深红长枪",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Scarlet Wizard Hat",
+        "chineseName": "猩红巫师帽",
+        "description": "Under the large brim of the hat, the magic was so strong that it was worn with a voice whispering in the ear, \"come, use your magic to make this scarlet bloom.\"",
+        "effect": "All Attributes ＋2,M.Atk ＋12"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_52104.png",
+        "name": "Scell",
+        "chineseName": "雪勒结晶",
+        "description": "Crystal made from monster parts. I wonder what you can make with it?",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40301.png",
+        "name": "Scimitar",
+        "chineseName": "弯刀",
+        "description": "Proper bending of blade is good for cutting and killing anything.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Scorpio Crown",
+        "chineseName": "天蝎宫王冠",
+        "description": "Crown that symbolizes Scorpio, one of the twelve zodiacal signs. It's inlaid with topaz.",
+        "effect": "M.Atk ＋1,Max HP ＋30"
+    },
+    {
+        "imgsrc": null,
+        "name": "Scorpio Crown Blueprint",
+        "chineseName": "天蝎宫王冠图纸",
+        "description": "Crown that symbolizes Scorpio, one of the twelve zodiacal signs. It's inlaid with topaz.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Scorpio Crown [1]",
+        "chineseName": "天蝎宫王冠[1]",
+        "description": "Crown that symbolizes Scorpio, one of the twelve zodiacal signs. It's inlaid with topaz.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Scorpio Diadem",
+        "chineseName": "天蝎宫宝冠",
+        "description": "Diadem that symbolizes Scorpio, the eighth of the twelve zodiacal signs. It's inlaid with topaz.",
+        "effect": "Dex ＋3,AGI ＋3"
+    },
+    {
+        "imgsrc": null,
+        "name": "Scorpio Diadem [1]",
+        "chineseName": "天蝎宫宝冠[1]",
+        "description": "Diadem that symbolizes Scorpio, the eighth of the twelve zodiacal signs. It's inlaid with topaz.",
+        "effect": "INT ＋2,VIT ＋1"
+    }
+]

@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_61004.png",
+        "name": "Fox Wrist Guard",
+        "chineseName": "狐纹腕甲",
+        "description": "An arm protector painted a cunning fox pattern.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_61004.png",
+        "name": "Fox Wrist Guard [1]",
+        "chineseName": "狐纹腕甲[1]",
+        "description": "An arm protector painted a cunning fox pattern.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Free Poring",
+        "chineseName": "自由的波利",
+        "description": "At dusk, a young girl with a torch in her hand leapt over barriers, shouting “go” and rushing toward her enemies. People of Bonaparte began to shoot and the girl died in a pool of blood. Bartholdi heard the truth and could not keep calm for a long period. Since then, the brave girl who held a torch has represented freedom in his mind.",
+        "effect": "Atk ＋30,When STR reaches 120, Atk ＋15"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_5200.png",
+        "name": "Freeman's Coin",
+        "chineseName": "弗里曼的特制硬币",
+        "description": "A coin engraved with the challenger's name. It symbolizes honor and strength for dueling clubs.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45119.png",
+        "name": "Fricca's Circlet",
+        "chineseName": "菲力卡的头箍",
+        "description": "Hairband blessed by Batul's mother, Goddess Fricca. It seems that you can have a look at the goddess's wisdom.",
+        "effect": "INT ＋3,Max SP ＋150"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45119.png",
+        "name": "Fricca's Circlet Blueprint",
+        "chineseName": "菲力卡的头箍图纸",
+        "description": "Hairband blessed by Batul's mother, Goddess Fricca. It seems that you can have a look at the goddess's wisdom.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45119.png",
+        "name": "Fricca's Circlet [1]",
+        "chineseName": "菲力卡的头箍[1]",
+        "description": "Hairband blessed by Batul's mother, Goddess Fricca. It seems that you can have a look at the goddess's wisdom.",
+        "effect": "INT ＋3,Max SP ＋150"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43503.png",
+        "name": "Fricco's Shoes [1]",
+        "chineseName": "傅里哥长靴[1]",
+        "description": "Phee, son of Mulder, attached earth blessing to these boots. Phee's blessing seems to relieve the pain.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43503.png",
+        "name": "Fricco's Shoes [2]",
+        "chineseName": "傅里哥长靴[2]",
+        "description": "Phee, son of Mulder, attached earth blessing to these boots. Phee's blessing seems to relieve the pain.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Fried Chicken Hero",
+        "chineseName": "炸鸡勇者",
+        "description": "The super-high-class gorgeous crown made by Midgard craftsman and the mystic white beard grandfather of the alien world. The rare out-of-print headwear belongs to the real Fried Chicken Hero!",
+        "effect": "All Attributes ＋2,M.Dmg ＋8%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Fried Chicken Hero [1]",
+        "chineseName": "炸鸡勇者[1]",
+        "description": "The super-high-class gorgeous crown made by Midgard craftsman and the mystic white beard grandfather of the alien world. The rare out-of-print headwear belongs to the real Fried Chicken Hero!",
+        "effect": "All Attributes ＋2,Become a Scenery! Wear [Fried Chicken Hero] to become a Scenery yourself. Adventurers who take photo of it will unlock the event Scenery \"KFC Chicken King\"!"
+    },
+    {
+        "imgsrc": null,
+        "name": "Friendship Chest",
+        "chineseName": "友情的时光宝盒",
+        "description": "So happy to see you again, My dear friend!",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_700005.png",
+        "name": "Friendship Chocolate",
+        "chineseName": "情谊巧克力",
+        "description": "The special chocolate sold by the God of Love from Big Cat Planet on specified day in human's world, the best gift to family and friends. (Effects: you can give this item to NPCs you like or other adventures, Increasing their All Attributes by 5. This effect lasts 5 minutes and is not affected by death or going offline. )",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Frog's Memory",
+        "chineseName": "青蛙的回忆",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Frost Clip",
+        "chineseName": "雪之华发夹",
+        "description": "“The purest snowflake flying down in this city, purest memory we shall remember. After today, I will be with you forever.”",
+        "effect": "Max Hp＋150,M.Def ＋9"
+    },
+    {
+        "imgsrc": null,
+        "name": "Frost Masquerade Mask",
+        "chineseName": "霜羽假面",
+        "description": "Frost Witch's most favorite decoration, Harpy's feather and Frost Mistletoe's dewdrop combined into the purest mask. After wearing it, you will become an elf in the snow.",
+        "effect": "Atk ＋30, Atk ＋3%,Any Attributes (Str, Agi, Vit, Int, Dex, Luk) that reaches 99, will be able to activate 1 stack of “Frost Focus” effect: Atk＋10, Atk ＋1%; for maximum 6 stacks."
+    },
+    {
+        "imgsrc": null,
+        "name": "Frost Mistletoe",
+        "chineseName": "霜榭寄生",
+        "description": "In the myth, these Frost Mistletoes growing in the freezing ice cave are transformed from a witch who loves Helios, God of the sun. When under sunlight, it will withered instantly; but it still keep growing out of cave to be under sunlight and die.",
+        "effect": "All Attributes ＋5,Max Hp ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Frost Rosa",
+        "chineseName": "冰晶·蔷薇",
+        "description": "When Frost Witch's tear sliding down her face, a Frost Rosa will bloom from it. Even though there will not be a result, still remember the snow scene we saw together holding hands.",
+        "effect": "All Attributes ＋1,M.Atk ＋16"
+    },
+    {
+        "imgsrc": null,
+        "name": "Frost Winter Whisper Rosette [1]",
+        "chineseName": "冰晶·冬语结[1]",
+        "description": "You told me that Morroc will never snow; across the desert to be with you in the northern country is the most romantic thing ever. Every January, I will always wear your favorite Winter Whisper Rosette.  When you helping me tight up the rosette, I want to hug you more closely.",
+        "effect": "Atk ＋4%,SP cost －5%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41201.png",
+        "name": "Frozen Bow [2]",
+        "chineseName": "冰霜之弓[2]",
+        "description": "The bow whose body is frosted. I wonder if you can use it.",
+        "effect": ""
+    }
+]

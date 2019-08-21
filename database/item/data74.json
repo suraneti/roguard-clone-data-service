@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40303.png",
+        "name": "Falchion",
+        "chineseName": "圆月刀",
+        "description": "A knife with a round blade.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40303.png",
+        "name": "Falchion [2]",
+        "chineseName": "圆月刀[2]",
+        "description": "A knife with a round blade.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43023.png",
+        "name": "Falcon Muffler [1]",
+        "chineseName": "猎鹰披肩[1]",
+        "description": "Fiya, daughter of Mulder, often lends this cape to Loki. It has the agility like a falcon, to avoid any danger.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41216.png",
+        "name": "Falken Blitz [1]",
+        "chineseName": "红色闪电[1]",
+        "description": "A red bow in a peculiar shape is elegant and beautiful. Specially designed for specific skills.",
+        "effect": "Dex ＋3,Costs of [Arrow Repel] and [Heavy Arrow] -40%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41216.png",
+        "name": "Falken Blitz [2]",
+        "chineseName": "红色闪电[2]",
+        "description": "A red bow in a peculiar shape is elegant and beautiful. Specially designed for specific skills.",
+        "effect": "Dex ＋3,Costs of [Arrow Repel] and [Heavy Arrow] -40%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_47010.png",
+        "name": "Fallen Angel Wing",
+        "chineseName": "堕天使羽翼",
+        "description": "The Fallen Angel's Giant Black Wings",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_47010.png",
+        "name": "Fallen Angel Wing Blueprint",
+        "chineseName": "堕天使羽翼图纸",
+        "description": "The Fallen Angel's Giant Black Wings",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Falling Sakura",
+        "chineseName": "芬落香·樱花",
+        "description": "Use to redeem job Costume Falling Sakura at \"Prontera\" Costume shop",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Familiar Card",
+        "chineseName": "吸血蝙蝠卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Familiar★Card",
+        "chineseName": "吸血蝙蝠★卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45011.png",
+        "name": "Fancy Flower",
+        "chineseName": "花朵头饰",
+        "description": "Flowers used to put in the head as decoration.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45011.png",
+        "name": "Fancy Flower Blueprint",
+        "chineseName": "花朵头饰图纸",
+        "description": "Flowers used to put in the head as decoration.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45011.png",
+        "name": "Fancy Flower [1]",
+        "chineseName": "花朵头饰[1]",
+        "description": "Flowers used to put in the head as decoration.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Fang of Garm",
+        "chineseName": "卡仑之牙",
+        "description": "Monster Garm's sharp tooth. It's surprisingly sharp, so please take great care when you collect it.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Fang of Garm [1]",
+        "chineseName": "卡仑之牙[1]",
+        "description": "King Nassi used this sword in his holy war. He used it to sever the heads of innumerable monsters.",
+        "effect": "Agi ＋8,auto attack may release [Freezing Wind]. [Freezing Wind]: Atk ＋5%, Damage to fire monsters ＋15%; the effect lasts 5 seconds."
+    },
+    {
+        "imgsrc": null,
+        "name": "Fang of Garm [2]",
+        "chineseName": "卡仑之牙[2]",
+        "description": "King Nassi used this sword in his holy war. He used it to sever the heads of innumerable monsters.",
+        "effect": "Agi ＋8,auto attack may release [Freezing Wind]. [Freezing Wind]: Atk ＋5%, Damage to fire monsters ＋15%; the effect lasts 5 seconds."
+    },
+    {
+        "imgsrc": null,
+        "name": "Fantasy Generator Ⅰ Appreciation",
+        "chineseName": "幻想创造机Ⅰ号的感恩礼",
+        "description": "Fantasy Generator Ⅰ publish this gift to specially thanks to all the adventurers. Open up will receive a Random Gachapon Headwear. (Some Headwears are not included)",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Fantasy Generator Ⅲ Appreciation",
+        "chineseName": "幻想创造机Ⅲ号的感恩礼",
+        "description": "Fantasy Generator Ⅲ publish this gift to specially thanks to all the adventurers. Open up will receive a Random Card in the Fantasy Generator.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_5036.png",
+        "name": "Fantasy Proof·Gold",
+        "chineseName": "幻想之证·金",
+        "description": "General proof of fantasy circus.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_5035.png",
+        "name": "Fantasy·Silver Bracer",
+        "chineseName": "幻想之证·银",
+        "description": "A general license for Dreamtours issued by [Fantasy Circus]. With this shining symbol, you can open the door to the fantasy world. ",
+        "effect": ""
+    }
+]

@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45173.png",
+        "name": "Cap Of Blindness [1]",
+        "chineseName": "盲目的斗篷[1]",
+        "description": "Purple cape made of cloth. It's suitable to cover the dark face. Covered by the dark veil, the red eyes gave out a sense of darkness.",
+        "effect": "Avoid darkness effect,auto attack has a chance to decrease the target's Hit by 40 points"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45173.png",
+        "name": "Cap Of Blindness [1] Blueprint",
+        "chineseName": "盲目的斗篷[1]图纸",
+        "description": "Purple cape made of cloth. It's suitable to cover the dark face. Covered by the dark veil, the red eyes gave out a sense of darkness.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45179.png",
+        "name": "Cap [1]",
+        "chineseName": "无边帽[1]",
+        "description": "Hat with a simple design for events and daily uses.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45179.png",
+        "name": "Cap [1] Blueprint",
+        "chineseName": "无边帽[1]图纸",
+        "description": "Hat with a simple design for events and daily uses.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Caprice Bracelet",
+        "chineseName": "善变的手环",
+        "description": "More than four artisans have worked on the bracelet with their own ideas.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Caprice Bracelet [1]",
+        "chineseName": "善变的手环[1]",
+        "description": "More than four artisans have worked on the bracelet with their own ideas.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Capricorn Crown",
+        "chineseName": "摩羯宫王冠",
+        "description": "Crown that symbolizes Capricorn, one of the twelve zodiacal signs. It's inlaid with garnet.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Capricorn Crown Blueprint",
+        "chineseName": "摩羯宫王冠图纸",
+        "description": "Crown that symbolizes Capricorn, one of the twelve zodiacal signs. It's inlaid with garnet.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Capricorn Crown [1]",
+        "chineseName": "摩羯宫王冠[1]",
+        "description": "Crown that symbolizes Capricorn, one of the twelve zodiacal signs. It's inlaid with garnet.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Capricorn Diadem",
+        "chineseName": "摩羯宫宝冠",
+        "description": "Diadem that symbolizes Capricorn, the second of the twelve zodiacal signs. It's inlaid with garnet.",
+        "effect": "Dex ＋3,AGI ＋3"
+    },
+    {
+        "imgsrc": null,
+        "name": "Capricorn Diadem [1]",
+        "chineseName": "摩羯宫宝冠[1]",
+        "description": "Diadem that symbolizes Capricorn, the second of the twelve zodiacal signs. It's inlaid with garnet.",
+        "effect": "Dex ＋2,AGi ＋1"
+    },
+    {
+        "imgsrc": null,
+        "name": "Capricorn Diadem [1] Blueprint",
+        "chineseName": "摩羯宫宝冠[1]图纸",
+        "description": "Diadem that symbolizes Capricorn, the second of the twelve zodiacal signs. It's inlaid with garnet.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Capricorn Star Aroma",
+        "chineseName": "星之香熏·天蝎座",
+        "description": "The product of the year by Vettel Moura, the 14th president of House Moura, the most famous perfume family of the land, the constellation series is only available during respective month. Muse Moura is a star in his school because he uses different perfume every month. (Use to protect yourself with a constellation symbol that is graceful and stylish. )",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Capricorn Star Shards",
+        "chineseName": "星之碎片·天蝎座",
+        "description": "An ancient painting passed down for generation in House Laplace, Trillion Stars in a Descending Night Sky depicts the star phantom that is materialized by a goddess to bless people with. (Collect and give it to a goddess and you'll probably receive something nice. )",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Caramel Card",
+        "chineseName": "刺猬虫卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Caramel Cocoa",
+        "chineseName": "焦糖可可",
+        "description": "By mixing the caramel from the most famous candy house into cocoa, a single sip will greatly excite the adventurers and even the clouds will turn into caramel. Drinking it restores 20% of Max HP and Max SP, the recovery value is according to the actual HP in GVG. This item can only be used in the PVP maps.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Carat Card",
+        "chineseName": "卡拉特小丑卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Card album remains",
+        "chineseName": "卡册残页",
+        "description": "The shard of \"Midgard Card Collection\" complied by card Mr. Emile. Because of its long history, the inner pages have been lost, so recollecting and sorting cost a lot effort.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_57.png",
+        "name": "Card Chest",
+        "chineseName": "卡片礼物箱",
+        "description": "Card Test Pack",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Card Dismantle Stone",
+        "chineseName": "卡片拆卸魔石",
+        "description": "",
+        "effect": ""
+    }
+]

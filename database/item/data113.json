@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_52203.png",
+        "name": "Immortal Heart",
+        "chineseName": "不死心脏",
+        "description": "With the mysterious power of immortality, it's a heart that never stops beating. I wonder what you can make with it?",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Impact Hammer",
+        "chineseName": "冲击战锤",
+        "description": "This hammer has a built-in jet engine. Imagine what happens when it gets up close and personal with the skull of your enemy...",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Imperial Armor",
+        "chineseName": "皇家战甲",
+        "description": "The traditional armor engraved with Lun Midgard Royal Arms, in the changing times, the heraldry representing the royal glory and the high practicability of protecting the users in battle are unchanged.",
+        "effect": "MDef ＋63,＋2% Max HP for each refining level gained after reaching refining ＋10 (Up to 10%)"
+    },
+    {
+        "imgsrc": null,
+        "name": "Imperial Armor [1]",
+        "chineseName": "皇家战甲[1]",
+        "description": "The traditional armor engraved with Lun Midgard Royal Arms, in the changing times, the heraldry representing the royal glory and the high practicability of protecting the users in battle are unchanged.",
+        "effect": "MDef ＋63,＋2% Max HP for each refining level gained after reaching refining ＋10 (Up to 10%)"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42513.png",
+        "name": "Imperial Guard",
+        "chineseName": "皇家之盾",
+        "description": "An ornate shield engraved with the royal arms of Rune Midgard.",
+        "effect": "Dmg Reduc. ＋10%,CritRes ＋15"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42513.png",
+        "name": "Imperial Guard [1]",
+        "chineseName": "皇家之盾[1]",
+        "description": "An ornate shield engraved with the royal arms of Rune Midgard.",
+        "effect": "Dmg Reduc. ＋10%,CritRes ＋15"
+    },
+    {
+        "imgsrc": null,
+        "name": "Imperial Spear [1]",
+        "chineseName": "皇家之矛[1]",
+        "description": "A splendid spear engraved with the Royal emblem of Rune Midgard.",
+        "effect": "Str ＋5, INT ＋5,M.Atk + 420"
+    },
+    {
+        "imgsrc": null,
+        "name": "Imperial Spear [2]",
+        "chineseName": "皇家之矛[2]",
+        "description": "A spear with Rune-Midgarts imperial emblem engraved on it. It’s worthy of it’s imperial title in terms of its functionality, exquisite craftsmanship and ornate decorations.",
+        "effect": "Str ＋5, INT ＋5,M.Atk + 420"
+    },
+    {
+        "imgsrc": null,
+        "name": "Incomplete Left Dragon Wing",
+        "chineseName": "残缺的左龙翼",
+        "description": "Incomplete Left Dragon Wing",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Incomplete Left Dragon Wing Blueprint",
+        "chineseName": "残缺的左龙翼图纸",
+        "description": "Incomplete Left Dragon Wing",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Incomplete Right Dragon Wing",
+        "chineseName": "残缺的右龙翼",
+        "description": "Incomplete Right Dragon Wing",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Incomplete Right Dragon Wing Blueprint",
+        "chineseName": "残缺的右龙翼图纸",
+        "description": "Incomplete Right Dragon Wing",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Incubus Card",
+        "chineseName": "恶魔侍者卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45062.png",
+        "name": "Incubus Horn",
+        "chineseName": "恶魔侍者角",
+        "description": "Incubus horn that looks boys. Looking at the upward horn, You will an unknown power.",
+        "effect": "Def ＋10,M.Def ＋5"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45062.png",
+        "name": "Incubus Horn Blueprint",
+        "chineseName": "恶魔侍者角图纸",
+        "description": "Incubus horn that looks boys. Looking at the upward horn, You will an unknown power.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45062.png",
+        "name": "Incubus Horn [1]",
+        "chineseName": "恶魔侍者角[1]",
+        "description": "Incubus horn that looks boys. Looking at the upward horn, You will an unknown power.",
+        "effect": "Def ＋10,M.Def ＋5"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45026.png",
+        "name": "Indian Fillet",
+        "chineseName": "印地安发箍",
+        "description": "Hairband worn by red Indians.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45026.png",
+        "name": "Indian Fillet Blueprint",
+        "chineseName": "印地安发箍图纸",
+        "description": "Hairband worn by red Indians.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45026.png",
+        "name": "Indian Fillet [1]",
+        "chineseName": "印地安发箍[1]",
+        "description": "Hairband worn by red Indians.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45060.png",
+        "name": "Indifferent Solo Hat",
+        "chineseName": "自娱自乐箱子I",
+        "description": "Yellow box with two holes. Put the box on the head to sense the essence of self entertainment.",
+        "effect": ""
+    }
+]

@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_5033.png",
+        "name": "A Bag of Zeny",
+        "chineseName": "一袋Zeny",
+        "description": "A bag full of Zeny, You can receive a lot of Zeny by opening or selling it.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_5020.png",
+        "name": "A Bottle of Water",
+        "chineseName": "一瓶水",
+        "description": "A bottle with water, it can be used to compose hair dye or color dye.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_3635.png",
+        "name": "A Gift",
+        "chineseName": "一袋谢礼",
+        "description": "A gift from Big Cat to friends who have contributed to constructing this world. Big Cat thanks you for your outstanding contribution to RO's market and business publicity! In the days to come, we hope your love for RO can influence more people. Open the gift to receive 7, 128, 000 Zeny. The gift can only be collected once in a lifetime by each account.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "A.T. Field Toy Back Headwear",
+        "chineseName": "AT立场玩具背饰",
+        "description": "Awaken to fulfill your own wish.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/toy_503.png",
+        "name": "Absolute Field",
+        "chineseName": "绝对领域",
+        "description": "Creates a space of high latitudes which belongs to you only. Enjoy! (Uses per day: 3)",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/toy_510.png",
+        "name": "Absolute Field-Star",
+        "chineseName": "绝对领域·星",
+        "description": "\"Not only kids yearn for the stars\". Creates a space of high latitudes which belongs to you only. Enjoy! (Uses per day: 3)",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Abysmal Knight Card",
+        "chineseName": "深渊骑士卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_47016.png",
+        "name": "Abysmal Knight Shield",
+        "chineseName": "深渊骑士之盾",
+        "description": "Few people can see Abysmal Knight using the shield. However, the giant black shield can often be found after it is eliminated. The badge of the Knight Club on the shield is already blurred.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_47016.png",
+        "name": "Abysmal Knight Shield Blueprint",
+        "chineseName": "深渊骑士之盾图纸",
+        "description": "Few people can see Abysmal Knight using the shield. However, the giant black shield can often be found after it is eliminated. The badge of the Knight Club on the shield is already blurred.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_52156.png",
+        "name": "Abyss Flower",
+        "chineseName": "深渊花",
+        "description": "Plant that glows in the middle of the night, alone in a rare forest. I wonder what you can make with it?",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Academy headwears",
+        "chineseName": "学院系列头饰",
+        "description": "",
+        "effect": "All Attributes ＋1,Max HP ＋350"
+    },
+    {
+        "imgsrc": null,
+        "name": "Acid Bottle",
+        "chineseName": "盐酸瓶",
+        "description": "The one injured by the potion will suffer from serious harm all over the body, so don't throw it on persons.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Acolyte Badge",
+        "chineseName": "服事徽章",
+        "description": "Acolyte Badge.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Action-Adventurer's Bow!",
+        "chineseName": "动作-冒险家之一礼！",
+        "description": "Use this item to unlock a new action.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Action-Heart!",
+        "chineseName": "动作-比心！",
+        "description": "Use this item to unlock a new action.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Action-Kneel Down!",
+        "chineseName": "动作-单膝跪地！",
+        "description": "Use this item to unlock a new action.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Action-Lean!",
+        "chineseName": "动作-靠肩！",
+        "description": "Use this item to unlock a new action.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Action-Lie Down!",
+        "chineseName": "动作-优雅躺下！",
+        "description": "Use this item to unlock a new action.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Active Garrison Supply Pack",
+        "chineseName": "现役警备队补给包",
+        "description": "A supply pack provided to active members by the Cosmic Garrison Open to gain guaranteed 100x Ultraman’s Cosmic Breath",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Activity Stone",
+        "chineseName": "活力魔石",
+        "description": "Use to become immune to Petrify for 1 min. Cannot work with [Whisper Stone] [Sleepless Stone] and [Warm Stone].",
+        "effect": ""
+    }
+]

@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Lazy Poring[1] Blueprint",
+        "chineseName": "懒懒波利[1]图纸",
+        "description": "Praised as the continent's most popular monster three times in row, the touching feeling is even more comfortable than touching the cat! All Poring have a puzzle: after eating and sleeping, why do you always hit me?",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Leader’s Demeanor Card",
+        "chineseName": "领袖之风卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12307.png",
+        "name": "Leaf of Aloe",
+        "chineseName": "芦荟叶子",
+        "description": "Cut off the Aloe leaves and gather the leaves to restore 325-405 points of HP.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12306.png",
+        "name": "Leaf of Hinal",
+        "chineseName": "西纳雷叶子",
+        "description": "With a fresh and cool taste, it can help users forget the pain and restore 175-235 points of HP.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_5023.png",
+        "name": "Leaf of Yggdrasil",
+        "chineseName": "天地树叶子",
+        "description": "The leaf of Yggdrasil that created the world. It has magic power to revive the roles that have lost energy for fighting.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_57.png",
+        "name": "Leaf of Yggdrasil Chest",
+        "chineseName": "天地树叶子礼物箱",
+        "description": "Leaf of Yggdrasil Pit",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42024.png",
+        "name": "Leather Armor",
+        "chineseName": "硬皮铠甲",
+        "description": "The men's clothes convenient for movement.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42024.png",
+        "name": "Leather Armor[1]",
+        "chineseName": "硬皮铠甲[1]",
+        "description": "Leather armor made from monster fur. It has been cut and hardened by curing agent.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45032.png",
+        "name": "Leather Goggles",
+        "chineseName": "防风皮革眼镜",
+        "description": "Wind-proof goggles made of leather.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45032.png",
+        "name": "Leather Goggles Blueprint",
+        "chineseName": "防风皮革眼镜图纸",
+        "description": "Wind-proof goggles made of leather.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45032.png",
+        "name": "Leather Goggles [1]",
+        "chineseName": "防风皮革眼镜[1]",
+        "description": "Wind-proof goggles made of leather.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42023.png",
+        "name": "Leather Jacket",
+        "chineseName": "皮质外套",
+        "description": "A low-priced leather coat, which shows a special style after being used for a long time.&nbsp;",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42023.png",
+        "name": "Leather Jacket [1]",
+        "chineseName": "皮质外套[1]",
+        "description": "A low-priced leather coat, which shows a special style after being used for a long time.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Leather of Tendrilion [2]",
+        "chineseName": "三角兽之皮[2]",
+        "description": "The skin of a deltoid with plant stems growing on its fur.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Leather of Tendrilion[1]",
+        "chineseName": "三角兽之皮[1]",
+        "description": "The skin of a deltoid with plant stems growing on its fur.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_4001.png",
+        "name": "Leave me Alone",
+        "chineseName": "别来惹我",
+        "description": "A wizard music record. With it, You can order songs in the music box spot newly designed by Kafra. [Hot! Dry! There's only sand! Sand! Oh, My God. Don't you feel burning?]",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Leaves Skirt",
+        "chineseName": "树叶裙",
+        "description": "",
+        "effect": "Def ＋15,When Refining ＋10 and Luck reaches 90, Crit.Dmg ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Leaves Skirt Blueprint",
+        "chineseName": "树叶裙图纸",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Legion Plate Armor",
+        "chineseName": "秘银重型铠甲",
+        "description": "The silver-glowing armor, made by famous craftsman, provides overall protection.",
+        "effect": "VIT ＋6,When Refining ＋5, ＋10, ＋15, Crit.Dmg Taken -5%, -10%, -15% respectively"
+    },
+    {
+        "imgsrc": null,
+        "name": "Legion Plate Armor [1]",
+        "chineseName": "秘银重型铠甲[1]",
+        "description": "The silver-glowing armor, made by famous craftsman, provides overall protection.",
+        "effect": "VIT ＋6,When Refining ＋5, ＋10, ＋15, Crit.Dmg Taken -5%, -10%, -15% respectively"
+    }
+]

@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Silver Robe [1]",
+        "chineseName": "秘银法袍[1]",
+        "description": "A fine robe made of Mithril silver, a dazzling item shining magic rhymes.",
+        "effect": "INT ＋5,[Silver Robe] ＋ [Statue of Archangel IV]: M.Atk ＋12%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45126.png",
+        "name": "Silver Tiara",
+        "chineseName": "银色冕状头饰",
+        "description": "Head accessory that shines grey radiance with stars in the middle.",
+        "effect": "Def ＋5,Dex ＋2"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45126.png",
+        "name": "Silver Tiara Blueprint",
+        "chineseName": "银色冕状头饰图纸",
+        "description": "Head accessory that shines grey radiance with stars in the middle.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45126.png",
+        "name": "Silver Tiara [1]",
+        "chineseName": "银色冕状头饰[1]",
+        "description": "Head accessory that shines grey radiance with stars in the middle.",
+        "effect": "Def ＋5,Dex ＋2"
+    },
+    {
+        "imgsrc": null,
+        "name": "Silver Vine",
+        "chineseName": "神木天蓼",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Silver Vine's Fruit",
+        "chineseName": "木天蓼的果实",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_61502.png",
+        "name": "Silversmith Bracelet",
+        "chineseName": "银饰手镯",
+        "description": "An unidentified bracelet with a pattern similar to that of a time watcher.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_61502.png",
+        "name": "Silversmith Bracelet [1]",
+        "chineseName": "银饰手镯[1]",
+        "description": "An unidentified bracelet with a pattern similar to that of a time watcher.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Sinew of Bear",
+        "chineseName": "熊的筋",
+        "description": "Strong sinews of bear bundled together for extra elasticity.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45038.png",
+        "name": "Singing Bird",
+        "chineseName": "歌唱小鸟",
+        "description": "A small bird that sings happily in the tree.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45038.png",
+        "name": "Singing Bird Blueprint",
+        "chineseName": "歌唱小鸟图纸",
+        "description": "A small bird that sings happily in the tree.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45038.png",
+        "name": "Singing Bird [1]",
+        "chineseName": "歌唱小鸟[1]",
+        "description": "A singing bird.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Siren Head",
+        "chineseName": "塞壬头",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_52602.png",
+        "name": "Sixth Sense Potion",
+        "chineseName": "第六感药水",
+        "description": "It can detect the location of Mandragora Seed on the map.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_52505.png",
+        "name": "Skel-Bone",
+        "chineseName": "死人遗骨",
+        "description": "Bone of the Undead. Being a very rare item, it can be used as equipment or to make high-end headwear.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Skeleton Bone",
+        "chineseName": "邪骸战士骨头武器",
+        "description": "Skeleton's weapon.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Skeleton Card",
+        "chineseName": "邪骸战士卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45057.png",
+        "name": "Skeleton Helm",
+        "chineseName": "骸骨头盔",
+        "description": "Head protector made of dragon's bones. It's very hard that cannot get broken easily.",
+        "effect": "Def ＋10,Stun Resistance ＋5%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45057.png",
+        "name": "Skeleton Helm [1]",
+        "chineseName": "骸骨头盔[1]",
+        "description": "Head protector made of dragon's bones. It's very hard that cannot get broken easily.",
+        "effect": "Def ＋10,Stun Resistance ＋5%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45057.png",
+        "name": "Skeleton Helm [1] Blueprint",
+        "chineseName": "骸骨头盔[1]图纸",
+        "description": "Head protector made of dragon's bones. It's very hard that cannot get broken easily.",
+        "effect": ""
+    }
+]

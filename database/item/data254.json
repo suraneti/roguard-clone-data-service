@@ -1,0 +1,135 @@
+[
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_52102.png",
+        "name": "Zargon",
+        "chineseName": "刹勒空结晶",
+        "description": "Crystal made from monster parts. I wonder what you can make with it?",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Zealous Rhino",
+        "chineseName": "狂热之犀",
+        "description": "All adventurers who use this hairpin have the same problem. When they wear this for a long time, the forehead gets hot.",
+        "effect": "M.Atk ＋10,Max HP ＋200"
+    },
+    {
+        "imgsrc": null,
+        "name": "Zealous Rhino Blueprint",
+        "chineseName": "狂热之犀图纸",
+        "description": "All adventurers who use this hairpin have the same problem. When they wear this for a long time, the forehead gets hot.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41201.png",
+        "name": "Zebra Eel [2]",
+        "chineseName": "斑纹鳗鱼弓[2]",
+        "description": "The spotted eel, living on the shore of Meow Meow Island, is flexible and in the shape of a line, which is suitable to be used a bow.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41201.png",
+        "name": "Zebra Eel [3]",
+        "chineseName": "斑纹鳗鱼弓[3]",
+        "description": "The spotted eel, living on the shore of Meow Meow Island, is flexible and in the shape of a line, which is suitable to be used a bow.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_57.png",
+        "name": "Zeny Chest",
+        "chineseName": "银币礼物箱",
+        "description": "Zeny occupies position.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Zephyrus [2]",
+        "chineseName": "风灵之矛[2]",
+        "description": "The curved blade of the spear resembles a thunderbolt. It can not only be used for stabbing, but also for chopping.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40005.png",
+        "name": "Zephyrus [3]",
+        "chineseName": "风灵之矛[3]",
+        "description": "The curved blade of the spear resembles a thunderbolt. It can not only be used for stabbing, but also for chopping.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Zero Doll Hat",
+        "chineseName": "趴趴赛罗",
+        "description": "Ultraman Zero, lying on his head, will grow stronger after wearing it!",
+        "effect": "Atk ＋20,Damage to middle-size monster ＋6%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Zero Doll Hat [1]",
+        "chineseName": "趴趴赛罗[1]",
+        "description": "Ultraman Zero, lying on his head, will grow stronger after wearing it!",
+        "effect": "Atk ＋20,Damage to middle-size monster ＋6%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Zerom Card",
+        "chineseName": "杰洛米卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Zherlthsh Card",
+        "chineseName": "艾斯恩魔女卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Zipper Bear Card",
+        "chineseName": "拉链熊卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Zipper Bear★Card",
+        "chineseName": "拉链熊★卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_52503.png",
+        "name": "Zircon",
+        "chineseName": "青绿宝石",
+        "description": "A gem with a blueish green glow. Being a very rare item, it can be used as equipment or to make high-end headwear.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_48505.png",
+        "name": "Zorro Masque",
+        "chineseName": "时髦眼罩",
+        "description": "During the period when opera was popular, this kind of glasses were once very welcomed. Even now it is considered to be very fashionable to wear it on the street.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_48505.png",
+        "name": "Zorro Masque Blueprint",
+        "chineseName": "时髦眼罩图纸",
+        "description": "During the period when opera was popular, this kind of glasses were once very welcomed. Even now it is considered to be very fashionable to wear it on the street.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "[Year]",
+        "chineseName": "【年】",
+        "description": "The backpack designed in the shape of Year the monster, beautiful handcraft.",
+        "effect": "All Attributes ＋1,MPen. ＋3%"
+    },
+    {
+        "imgsrc": null,
+        "name": "[Year] Blueprint",
+        "chineseName": "【年】图纸",
+        "description": "The backpack designed in the shape of Year the monster, beautiful handcraft.",
+        "effect": ""
+    }
+]

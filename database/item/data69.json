@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_5031.png",
+        "name": "Enriched Mithril",
+        "chineseName": "浓缩秘银",
+        "description": "Condensed mithril, which extracts all the essence, can provide more effective refining value.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_5026.png",
+        "name": "Enriched Oridecon",
+        "chineseName": "浓缩神之金属",
+        "description": "The mysterious metal known as Enriched Oridecon, harder than anything so it can be used to refine weapons.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Entry Plug Backpack",
+        "chineseName": "插入栓背包",
+        "description": "It houses the pilot of Evangelion, the Ultimate All-Purpose Humanoid Decisive Battle Weapon.",
+        "effect": "All Attributes ＋2,10% chance to get Berserk buff when auto attacking: Atk +3%, Def and M.Def -3% for 10s. Stacks up to 5 times."
+    },
+    {
+        "imgsrc": null,
+        "name": "EP 1.0 Card",
+        "chineseName": "EP1.0卡",
+        "description": "Use it to receive items and activate your own collections",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "EP 2.0 Card",
+        "chineseName": "EP2.0卡",
+        "description": "Use it to receive items and activate your own collections",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "EP 3.0 Card",
+        "chineseName": "EP3.0卡",
+        "description": "Use it to receive items and activate your own collections",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "EP4.0 Card",
+        "chineseName": "EP4.0卡",
+        "description": "Use it to receive items and activate your own collections",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "EP5.0 Card",
+        "chineseName": "EP5.0卡",
+        "description": "Use it to receive items and activate your own collections",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Epic Spirit-Lightning",
+        "chineseName": "英灵·雷霆纹",
+        "description": "The All-Knowing God - For those who have made great contributions. This is one of the hallmarks of Valhalla. Only those who have been granted entrance to Valhalla after death can become a powerful soul.",
+        "effect": "Int ＋1,For Refining ＋1, Wind Dmg ＋1%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Epic Spirit-Lightning Blueprint",
+        "chineseName": "英灵·雷霆纹图纸",
+        "description": "The All-Knowing God - For those who have made great contributions. This is one of the hallmarks of Valhalla. Only those who have been granted entrance to Valhalla after death can become a powerful soul.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Epic Spirit·Assassin Mist",
+        "chineseName": "英灵·终结之密丝特",
+        "description": "The God of mist, Mist, as the best assassin god, will certainly look after those lurkers in the shadow. The Termination of Mist is the deadly weapon specially made for the assassin in the shadow.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Epic Spirit·Death Choice",
+        "chineseName": "英灵·亡者抉择",
+        "description": "Reward that granted by Orloum in the name of Valhalla to adventurers. The choice of the dead represents the dignity of Valhalla and shows its mission -- to select brave souls for Valhalla.",
+        "effect": "Max HP ＋200,Damage to undead race ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Epic Spirit·Death Choice Blueprint",
+        "chineseName": "英灵·亡者抉择图纸",
+        "description": "Reward that granted by Orloum in the name of Valhalla to adventurers. The choice of the dead represents the dignity of Valhalla and shows its mission -- to select brave souls for Valhalla.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Epic Spirit·Death Choice(change color)",
+        "chineseName": "英灵·亡者抉择（换色）",
+        "description": "Reward that granted by Orloum in the name of Valhalla to adventurers. The choice of the dead represents the dignity of Valhalla and shows its mission -- to select brave souls for Valhalla.",
+        "effect": "Dex ＋3,AGI ＋3"
+    },
+    {
+        "imgsrc": null,
+        "name": "Epic Spirit·Death Convoy Blueprint",
+        "chineseName": "英灵·亡者引渡图纸",
+        "description": "The award for adventurers given by Orloum instead of Valhalla. The path shown by light blue soul flame to guide the dead is where the ghosts will go. Valhalla also welcomes the ones who can see the flame.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Epic Spirit·Destructive Lightning",
+        "chineseName": "英灵·破灭雷纹",
+        "description": "The All-Knowing God - For those who have made great contributions. This is one of the hallmarks of Valhalla. Only those who have been granted entrance to Valhalla after death can become a powerful soul.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Epic Spirit·Destructive Lightning(change color)",
+        "chineseName": "英灵·破灭雷纹（换色）",
+        "description": "The All-Knowing God - For those who have made great contributions. This is one of the hallmarks of Valhalla. Only those who have been granted entrance to Valhalla after death can become a powerful soul.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Epic Spirit·Eye of Lightning",
+        "chineseName": "英灵·雷霆之瞳",
+        "description": "The All-Knowing God - For those who have made great contributions. This is one of the hallmarks of Valhalla. Only those who have been granted entrance to Valhalla after death can become a powerful soul.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Epic Spirit·Eye of Lightning(change color)",
+        "chineseName": "英灵·雷霆之瞳（换色）",
+        "description": "The All-Knowing God - For those who have made great contributions. This is one of the hallmarks of Valhalla. Only those who have been granted entrance to Valhalla after death can become a powerful soul.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Epic Spirit·Gern's Singing",
+        "chineseName": "英灵·格恩之咏唱",
+        "description": "The staff owned by the god of magic power, Gern Dahl. It is inlaid with the dense Rune Spell. Use it and the magic power of the user will be upgraded to another level. Only the magic practitioners who have greatly contributed to Valhalla and were appreciated by Gern Dahl can get this reward.",
+        "effect": ""
+    }
+]

@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Chemical Protection Gloves [1]",
+        "chineseName": "化学防护手套[1]",
+        "description": "Gloves made of skins shed by seven kinds of venomous snakes that provide protection against almost any corrosive substance. The only drawback is their stuffiness.",
+        "effect": "M.Def ＋10,For Refining ＋8, Atk ＋3%; For Refining ＋12, Ignore Def ＋5%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Chepet Card",
+        "chineseName": "魔灵娃娃卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Chicken Dinner Gift Box",
+        "chineseName": "吃鸡礼盒",
+        "description": "Winner winner chicken dinner! Box contains 300,000 Zeny, 2x [KFC Deluxe Chicken Dinner Meal Box] and a chance to get limited headwear [Winner Winner Barrel]!",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Chicken Dinner Meal Box",
+        "chineseName": "今晚吃鸡餐盒",
+        "description": "Winner Winner, Chicken Dinner!",
+        "effect": "All Attributes ＋1,M.Atk ＋8"
+    },
+    {
+        "imgsrc": null,
+        "name": "Chicken Dinner Meal Box Blueprint",
+        "chineseName": "今晚吃鸡餐盒图纸",
+        "description": "Winner Winner, Chicken Dinner!",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Chicken Dinner Small Gift Box",
+        "chineseName": "吃鸡小礼盒",
+        "description": "I can smell fried chicken! Use to gain [Popcorn Chicken Voucher] or [KFC Chicken Dinner Meal Box]",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Chimera Card",
+        "chineseName": "凯美拉卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Chinese Crown",
+        "chineseName": "凤冠",
+        "description": "In ancient time, girls would cry over their mothers' shoulder on their wedding day. The Chinese crown can exorcise evil spirits and protect the bride from fainting.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Chinese Crown [1]",
+        "chineseName": "凤冠[1]",
+        "description": "In ancient time, girls would cry over their mothers' shoulder on their wedding day. The Chinese crown can exorcise evil spirits and protect the bride from fainting.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Chinese Crown [1] Blueprint",
+        "chineseName": "凤冠[1]图纸",
+        "description": "In ancient time, girls would cry over their mothers' shoulder on their wedding day. The Chinese crown can exorcise evil spirits and protect the bride from fainting.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41204.png",
+        "name": "Chloe Bow",
+        "chineseName": "克洛伊特弓",
+        "description": "A huge bow which looks very difficult to operate.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41204.png",
+        "name": "Chloe Bow [2]",
+        "chineseName": "克洛伊特弓[2]",
+        "description": "A huge bow which looks very difficult to operate.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Chocolate Donuts",
+        "chineseName": "巧克力甜甜圈",
+        "description": "Surprise present from the [Alice &amp; IRIS]: classic Chocolate Donuts, superior materials make great taste! Thanks to the chef's excellent work, its lovely design has always been adored by child!",
+        "effect": "INT ＋1,Atk ＋5"
+    },
+    {
+        "imgsrc": null,
+        "name": "Chocolate Donuts Blueprint",
+        "chineseName": "巧克力甜甜圈图纸",
+        "description": "The annual best product of the famous dessert brand [ALICE &amp; IRIS]. The classic Chocolate Donuts is very delicious because of the first-class ingredients. The almost perfect style is popular among children because of the chef's techniques.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Chon Chon Card",
+        "chineseName": "苍蝇卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12344.png",
+        "name": "Chon Chon Doll",
+        "chineseName": "苍蝇娃娃",
+        "description": "A doll made by some special people based on the shape of Chon Chon. It permanently increases the character's PHY Def by 25 points and cannot be traded.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Christmas Beret",
+        "chineseName": "圣诞贝雷帽",
+        "description": "",
+        "effect": "Def ＋20,CritRes ＋10"
+    },
+    {
+        "imgsrc": null,
+        "name": "Christmas Beret Blueprint",
+        "chineseName": "圣诞贝雷帽图纸",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Christmas Beret [1]",
+        "chineseName": "圣诞贝雷帽[1]",
+        "description": "",
+        "effect": "Def ＋20,CritRes ＋10"
+    },
+    {
+        "imgsrc": null,
+        "name": "Christmas Blessing Box",
+        "chineseName": "圣诞祈愿礼盒",
+        "description": "This is Santa Claus's gift for everyone! Including: Large Pet EXP potion*10, Colorful Shell*300, and 10% chance to get Christmas exclusive pet Red Nose Rudolph",
+        "effect": ""
+    }
+]

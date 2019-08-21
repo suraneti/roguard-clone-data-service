@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Orc Hero's Weapon",
+        "chineseName": "兽人英雄武器",
+        "description": "People judge the masks worn by of the goblin people.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Orc Lady Card",
+        "chineseName": "兽人女战士卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45095.png",
+        "name": "Orc Lord Helm",
+        "chineseName": "兽人酋长头盔",
+        "description": "Orc lord will put the helmet on for battles to show the determination as a tribe leader of the orc.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Orc Lord Helm Card",
+        "chineseName": "兽人酋长卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45095.png",
+        "name": "Orc Lord Helm [1]",
+        "chineseName": "兽人酋长头盔[1]",
+        "description": "Orc Lord Helm.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45095.png",
+        "name": "Orc Lord Helm [1] Blueprint",
+        "chineseName": "兽人酋长头盔[1]图纸",
+        "description": "Orc lord will put the helmet on for battles to show the determination as a tribe leader of the orc.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Orc Shield",
+        "chineseName": "兽人盾牌",
+        "description": "Orc Shield.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Orc Skeleton Card",
+        "chineseName": "邪骸兽人卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Orc Warrior Card",
+        "chineseName": "兽人战士卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Orc Zombie Card",
+        "chineseName": "兽人腐尸卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Orchid Hairband",
+        "chineseName": "兰草头饰",
+        "description": "",
+        "effect": "Dex ＋3,AGI ＋3"
+    },
+    {
+        "imgsrc": null,
+        "name": "Orchid Hairband Blueprint",
+        "chineseName": "兰草头饰图纸",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Orchid Hairband [1]",
+        "chineseName": "兰草头饰[1]",
+        "description": "",
+        "effect": "Dex ＋3,AGI ＋3"
+    },
+    {
+        "imgsrc": null,
+        "name": "Orcish Axe",
+        "chineseName": "兽人斧头",
+        "description": "Orc's weapon.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41807.png",
+        "name": "Orcish Axe [1]",
+        "chineseName": "兽人斧[1]",
+        "description": "An axe used by an Orc.",
+        "effect": "Agi ＋5,auto attack has a 5% chance to release [Cart Attack] of the same level if it has been learned, otherwise [Cart Attack] lv.1 will be released"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41807.png",
+        "name": "Orcish Axe [2]",
+        "chineseName": "兽人斧[2]",
+        "description": "An axe used by an Orc.",
+        "effect": "Agi ＋5,auto attack has a 5% chance to release [Cart Attack] of the same level if it has been learned, otherwise [Cart Attack] lv.1 will be released"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_52507.png",
+        "name": "Orcish Voucher",
+        "chineseName": "兽人战士之证",
+        "description": "Sculpture representing the status of orc warriors. Being a very rare item, it can be used as equipment or to make high-end headwear.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_5002.png",
+        "name": "Oridecon",
+        "chineseName": "神之金属",
+        "description": "The mysterious metal known as Oridecon, harder than anything so it can be refined by blacksmith Hollgrehenn in Prontera.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Original Flavor Fairy Chips",
+        "chineseName": "原味仙境薯片",
+        "description": "Delicious snacks from the other world. STR ＋ 10, Melee Dam ＋20%, For 30 min. (The effect cannot be stacked with food STR)",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_3602.png",
+        "name": "Original Will Cook Chest V",
+        "chineseName": "勿忘初心烹饪盒·Ⅴ",
+        "description": "While enjoying the taste, You can also sense the feelings of the chef. In recognition of the top gourmet, the Royal Cuisine Association has gathered the work by the country's top chefs in this box. (Open the pack to find 5-star food)",
+        "effect": ""
+    }
+]

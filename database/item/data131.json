@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Love Spring",
+        "chineseName": "恋·春",
+        "description": "View sakura at [spring] nights, viewing starry sky at summer nights, viewing full moon at autumn nights, and viewing snow in winter.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Love Spring Blueprint",
+        "chineseName": "恋·春图纸",
+        "description": "View sakura at [spring] nights, viewing starry sky at summer nights, viewing full moon at autumn nights, and viewing snow in winter.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Love Summer",
+        "chineseName": "恋·夏",
+        "description": "View sakura at spring nights, viewing starry sky at [summer] nights, viewing full moon at autumn nights, and viewing snow in winter.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Love Summer Blueprint",
+        "chineseName": "恋·夏图纸",
+        "description": "View sakura at spring nights, viewing starry sky at [summer] nights, viewing full moon at autumn nights, and viewing snow in winter.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Love Winter",
+        "chineseName": "恋·冬",
+        "description": "View sakura at spring nights, viewing starry sky at summer nights, viewing full moon at autumn nights, and viewing snow in [winter].",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Love Winter Blueprint",
+        "chineseName": "恋·冬图纸",
+        "description": "View sakura at spring nights, viewing starry sky at summer nights, viewing full moon at autumn nights, and viewing snow in [winter].",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Love Witch Hat",
+        "chineseName": "爱情魔女帽",
+        "description": "Popular among young devils because of their lovely smell, the saying goes, \"if you wear it, the love spell will capture the heart of the person you are in love with.\"",
+        "effect": "All Attributes ＋2,M.Atk ＋12"
+    },
+    {
+        "imgsrc": null,
+        "name": "Love You",
+        "chineseName": "真的喜欢你哟",
+        "description": "This is the Rosa Zone for girls' leisure after class. Beside the evening desk, Girls are exchanging love experience with each other, None of the calculations and equations will work in this case. Write the words the mandarin teacher will not teach in the white paper, Carefully seal the envelope with rose-colored print, Even if the fire burns your fingers, and then anxiously wait for the response from the beloved. \"Hey ~ will you wait for me after school in the garden behind the playground?\"",
+        "effect": "Ignore Def ＋5%,Atk ＋20"
+    },
+    {
+        "imgsrc": null,
+        "name": "Loving Butterfly",
+        "chineseName": "恋之蝶",
+        "description": "\"The day is called a festival, and the passion the passion has spread like burning flame. The dreamy butterfly, shining with the light of temptation led me to the flame, burning my body and misting my eyes. Oh, Aurora, my dear Aurora, where are you now?\"",
+        "effect": "Move Spd ＋3%,Atk ＋20"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Luciola Vespa Card",
+        "chineseName": "毒黄蜂卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42002.png",
+        "name": "Lucius's Fierce Armor of Volcano",
+        "chineseName": "火鳞铠甲",
+        "description": "When you put it on, you will feel a hot stream as if it will burn your body.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42002.png",
+        "name": "Lucius's Fierce Armor of Volcano [1]",
+        "chineseName": "火鳞铠甲[1]",
+        "description": "When you put it on, you will feel a hot stream as if it will burn your body.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Lucky Bracelet [1]",
+        "chineseName": "幸运手镯[1]",
+        "description": "Lucky bracelets, with a magical skill that enables user to share beast's power.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Lucky Bracelet [2]",
+        "chineseName": "幸运手镯[2]",
+        "description": "Lucky bracelets, with a magical skill that enables user to share beast's power.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Lucky Piggy Bank",
+        "chineseName": "好运扑满",
+        "description": "A piggy bank filled with Zeny. People say it had been blessed by mysterious forces, so the number of Zeny varies with the owner's luck on the particular day. (This item is allowed to be purchased once a day)",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12331.png",
+        "name": "Luk Meal A",
+        "chineseName": "幸运料理A",
+        "description": "Made of the tail of Payon's Nine tailed Fox, known for a lucky cuisine in Luen-Midgard. LUK ＋5, Crit ＋10, this effect lasts 30 minutes.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12357.png",
+        "name": "Luk Meal B",
+        "chineseName": "幸运料理B",
+        "description": "Made of the tail of Payon's Nine tailed Fox, known for a lucky cuisine in Luen-Midgard. LUK ＋10, Crit ＋20, this effect lasts 30 minutes.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "LUK Necklace",
+        "chineseName": "强运项链",
+        "description": "A necklace blessed by the goddess, it brings good luck to the wearer.",
+        "effect": "Luk ＋6,Crit.Dmg ＋2%"
+    },
+    {
+        "imgsrc": null,
+        "name": "LUK Necklace [1]",
+        "chineseName": "强运项链[1]",
+        "description": "A necklace blessed by the goddess, it brings good luck to the wearer.",
+        "effect": "Luk ＋6,Crit.Dmg ＋2%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41221.png",
+        "name": "Luna Bow [1]",
+        "chineseName": "露娜弓[1]",
+        "description": "A bow made of Moonstone has a blade that can defend and fire against the enemy's attack. The heavy weight is its shortcoming.",
+        "effect": "Atk ＋24,[Luna Bow VI] ＋[Luna Brooch VI]: Intelligence ＋2, SP Regen ＋10%"
+    }
+]

@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Mystletainn 3 [2]",
+        "chineseName": "银槲之剑3[2]",
+        "description": "The dagger designed by the dwarf master is equipped with a hook that protects the user's hand and is therefore called a Gold Hook Dagger",
+        "effect": "Str ＋18,Dmg Reduc. ＋10%, Magic Reduc. ＋10%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Mystletainn Shard",
+        "chineseName": "银槲之剑残片",
+        "description": "Shard of the legendary artifact: Mystletainn. By collecting rare materials and more debris, with ancient knowledge and legendary Mr. Dragon's skills, you may restore it to the original form.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Mystletainn [2]",
+        "chineseName": "银槲之剑[2]",
+        "description": "The dagger designed by the dwarf master is equipped with a hook that protects the user's hand and is therefore called a Gold Hook Dagger",
+        "effect": "Str ＋18,Max HP ＋15000"
+    },
+    {
+        "imgsrc": null,
+        "name": "Nagan [1]",
+        "chineseName": "多刃尖刺刀[1]",
+        "description": "There are several blades on the top, which can bring many wounds to the enemy when being attacked.",
+        "effect": "Str ＋5,When [Bash] at Lv.10, [Bash] deals Extra Dmg to middle-size monsters ＋50%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Nagan [2]",
+        "chineseName": "多刃尖刺刀[2]",
+        "description": "There are several blades on the top, which can bring many wounds to the enemy when being attacked.",
+        "effect": "Str ＋5,When [Bash] at Lv.10, [Bash] deals Extra Dmg to middle-size monsters ＋50%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Name Change Card",
+        "chineseName": "冒险者更名卡",
+        "description": "The blank name change card issued by Adventurer's Guild. Write your favorite name on it will bring the pigeon. Pigeons will fly to Prontera automatically. The administration staff will help change your name when receive the new one~ღ",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Nannan's Gift",
+        "chineseName": "南南的谢礼",
+        "description": "A gift from Nannan, what's exactly inside it?",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40307.png",
+        "name": "Nassi's Sword",
+        "chineseName": "纳西之剑",
+        "description": "King Nassi used this sword in his holy war. He used it to sever the heads of innumerable monsters.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40307.png",
+        "name": "Nassi's Sword [2]",
+        "chineseName": "纳西之剑[2]",
+        "description": "King Nassi used this sword in his holy war. He used it to sever the heads of innumerable monsters.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_61001.png",
+        "name": "Nature Gloves [1]",
+        "chineseName": "大地腕甲[1]",
+        "description": "Nature Gloves, with incredible protective power.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_61001.png",
+        "name": "Nature Gloves [2]",
+        "chineseName": "大地腕甲[2]",
+        "description": "Nature Gloves, with incredible power.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_48538.png",
+        "name": "Naughty Mask",
+        "chineseName": "调皮的假面",
+        "description": "The mask of a naughty face used when children are playing around.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_48538.png",
+        "name": "Naughty Mask Blueprint",
+        "chineseName": "调皮的假面图纸",
+        "description": "The mask of a naughty face used when children are playing around.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Naughty Poring Candy",
+        "chineseName": "顽皮波利糖",
+        "description": "A candy in the shape of Naughty Poring, Eating it gives you an amazing speed like wind. Within 1 minute, the wind damage you suffer will reduce by 100%. This effect cannot stack up with other Poring candies, and is not influenced by death. This item can only be used on PVP maps.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Navy Beret",
+        "chineseName": "海军风贝雷帽",
+        "description": "\"Have you ever heard a song from a siren that is invisible in the mist?\" The old captain stroked his navy hat. \"If you have heard of it, you will be willing to pursue the sea all your life.\" (thank you very much for your purchase. This beautiful ornament is unavailable on the exchange during the activity, the transaction will be normal after the period. By Ina, July 2017)",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_52206.png",
+        "name": "Necklace of Oblivion",
+        "chineseName": "泯灭之心",
+        "description": "Used by assassins to eradicate human emotions. I wonder what you can make with it?",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_52155.png",
+        "name": "Necklace of Wisdom",
+        "chineseName": "慧眼",
+        "description": "Can predict and see into the distant future. I wonder what you can make with it?",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45054.png",
+        "name": "Necktie",
+        "chineseName": "领带",
+        "description": "It turns into a reception suit if the necktie matches blush.",
+        "effect": "Def ＋5,VIT ＋1"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45054.png",
+        "name": "Necktie [1]",
+        "chineseName": "领带[1]",
+        "description": "It turns into a reception suit if the necktie matches blush.",
+        "effect": "Def ＋5,VIT ＋1"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45054.png",
+        "name": "Necktie [1] Blueprint",
+        "chineseName": "领带[1]图纸",
+        "description": "It turns into a reception suit if the necktie matches blush.",
+        "effect": ""
+    }
+]

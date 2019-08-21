@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Goblin - Laugh",
+        "chineseName": "哥布灵-耻笑",
+        "description": "People judge the masks worn by of the goblin people.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Goblin - Sad",
+        "chineseName": "哥布灵-伤感",
+        "description": "People judge the masks worn by of the goblin people.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Goblin - Smile",
+        "chineseName": "哥布灵-笑脸",
+        "description": "People judge the masks worn by of the goblin people.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Goblin - Smirk",
+        "chineseName": "哥布灵-奸笑",
+        "description": "People judge the masks worn by of the goblin people.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40703.png",
+        "name": "Goblin 2 Weapon",
+        "chineseName": "哥布灵2武器",
+        "description": "Goblin's Weapon",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40703.png",
+        "name": "Goblin 3 Weapon",
+        "chineseName": "哥布灵3武器",
+        "description": "Goblin's Weapon",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40703.png",
+        "name": "Goblin 4 Weapon",
+        "chineseName": "哥布灵4武器",
+        "description": "Goblin's Weapon",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40703.png",
+        "name": "Goblin 5 Weapon",
+        "chineseName": "哥布灵5武器",
+        "description": "Goblin's Weapon",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40703.png",
+        "name": "Goblin 7 Weapon",
+        "chineseName": "哥布灵7武器",
+        "description": "Goblin's Weapon",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Goblin Archer Card",
+        "chineseName": "弓箭哥布灵卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40703.png",
+        "name": "Goblin Archer Weapon",
+        "chineseName": "弓箭哥布灵武器",
+        "description": "Goblin's Weapon",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Goblin Card",
+        "chineseName": "哥布灵卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_3658.png",
+        "name": "Goblin Celebration Chest",
+        "chineseName": "哥布灵庆典礼盒",
+        "description": "A mysterious gift box from goblin kingdom, Prepared for adventurers who participate in the celebration of goblin kingdom, please open it up. (Open the chest to receive Fooling Laser Gun x5, and one item among: Seed of Mastela, Praying Card Pack, Gold Medal, Valkyrie's Gift)",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_3657.png",
+        "name": "Goblin Family Chest",
+        "chineseName": "哥布灵全家福礼盒",
+        "description": "Goblin is such an emotional creature, They can smile or cry at any time. Don't doubt your eyes, In fact, We are smiling every day waiting for you to come.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Goblin Leader Card",
+        "chineseName": "哥布灵首领卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_48517.png",
+        "name": "Goblin Leader Mask",
+        "chineseName": "哥布灵首领假面",
+        "description": "Just like the Goblin Leader, the mask of strong determination will make you exactly like Goblin no matter how fake you are.",
+        "effect": "Def -30,Damage reduction of Human race ＋30%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_48517.png",
+        "name": "Goblin Leader Mask Blueprint",
+        "chineseName": "哥布灵首领假面图纸",
+        "description": "Just like the Goblin Leader, the mask of strong determination will make you exactly like Goblin no matter how fake you are.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Goblin Lucky Bag",
+        "chineseName": "哥布灵福袋",
+        "description": "Mystery Bag Filled with private possessions of the Goblins. It's an incredible gift. Only destined adventurers can open it.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_48509.png",
+        "name": "Goblin Mask",
+        "chineseName": "哥布灵面具",
+        "description": "People judge the masks worn by of the goblin people.",
+        "effect": "Def ＋5,Damage reduction of Human race ＋5%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_48509.png",
+        "name": "Goblin Mask Blueprint",
+        "chineseName": "哥布灵面具图纸",
+        "description": "People judge the masks worn by of the goblin people.",
+        "effect": ""
+    }
+]

@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/toy_506.png",
+        "name": "Cat Toy [2]",
+        "chineseName": "真·逗猫棒[2]",
+        "description": "A prop that makes the cat happy. Misusing it may irritate cats.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Cat Tread",
+        "chineseName": "猫脚步声音",
+        "description": "Concentrate on the sounds of the cat's footsteps to uncover an unbelievable item.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42041.png",
+        "name": "Cat's Blessing",
+        "chineseName": "大猫的祝福",
+        "description": "Light armor with family blessings. After wearing it, you can feel the thoughts of your family even after a long journey.",
+        "effect": "Max HP ＋1000,[Cat's Blessing VI] ＋ [Crystal Pumps]: Fire/Water/Earth/Wind/Element atk ＋7%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42041.png",
+        "name": "Cat's Blessing [1]",
+        "chineseName": "大猫的祝福[1]",
+        "description": "Light armor with family blessings. After wearing it, you can feel the thoughts of your family even after a long journey.",
+        "effect": "Max HP ＋1000,[Cat's Blessing VI] ＋ [Crystal Pumps]: Fire/Water/Earth/Wind/Element atk ＋7%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Cat's Gratitude",
+        "chineseName": "猫的报恩",
+        "description": "Popular dried and salted fish among cats. If they’re willing to share one with you, You must be very special. (Use it after making a sincere wish. The dried and salted fish may bring you surprise! )",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41212.png",
+        "name": "Catapult",
+        "chineseName": "精钢连弩",
+        "description": "Made of steel that has been forged from high temperatures, this can be used for defending against continuous arrows and is best suited for close combat on the battlefield.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41212.png",
+        "name": "Catapult [2]",
+        "chineseName": "精钢连弩[2]",
+        "description": "Made of steel that has been forged from high temperatures, this can be used for defending against continuous arrows and is best suited for close combat on the battlefield.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Catnip Tea",
+        "chineseName": "猫薄荷甜浆",
+        "description": "The sweet paste made of cat mint grass. After drinking, the player will give off a smell of cat mint, which attracts a KittyCat to follow. The kind of KittyCat will change randomly for continuous use. This item won't occupy Party positions, and can only be used on PVP maps.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Celebration Magic Wand",
+        "chineseName": "庆典魔法棒",
+        "description": "An ancient witches really liked to make some kind of jokes with the adventurers during the celebration. What can this magic wand turn those poor guys into?",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Celebration Premium",
+        "chineseName": "庆典限定特典",
+        "description": "Thank you guys sooooo much for supporting us, hope we can keep seeing you. The famous Kafra, co is appreciated for all the adventurers' support and published this special monthly premium card. When you holding it on your hand, it will grant you a special power. Plus, it is very efficient and high value",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Celestial Axe [1]",
+        "chineseName": "神圣天国斧[1]",
+        "description": "The magic axe from the heaven.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Celestial Axe [2]",
+        "chineseName": "神圣天国斧[2]",
+        "description": "The magic axe from the heaven.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Celestial Dark Flame",
+        "chineseName": "天空黑焰",
+        "description": "Elves take me away from this dull world, please. I want to dance with you in the blazing-like mountains. - Butler Yeats",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Celestial Dark Flame Blueprint",
+        "chineseName": "天空黑焰图纸",
+        "description": "Elves take me away from this dull world, please. I want to dance with you in the blazing-like mountains. - Butler Yeats",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Centipede Card",
+        "chineseName": "变异蜈蚣卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Cersei's Memory",
+        "chineseName": "茜色回忆",
+        "description": "A cute bandana with Poring shape. It will witness all the honest hard work. All the good memories will be collected in here.",
+        "effect": "Luk ＋5,Attack Spd ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Cersei's Memory Blueprint",
+        "chineseName": "茜色回忆图纸",
+        "description": "A cute bandana with Poring shape. It will witness all the honest hard work. All the good memories will be collected in here.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41533.png",
+        "name": "Chain",
+        "chineseName": "链锤",
+        "description": "A mace with a chain atop.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_5042.png",
+        "name": "Chain Gelgja",
+        "chineseName": "锁链德洛米",
+        "description": "The second chain used by the gods to bind Fenrir. After use, you can earn 5 times EXP and loot within 1 hour, and enter combat fatigue at 2 times speed. This item is specially designed by beta server \"Place of Prophecy\", To thank the participants of the beta test! You can use this item when you don't have much time today. The item effect pauses after players out of combat time every day.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_5043.png",
+        "name": "Chain Gleipnir",
+        "chineseName": "锁链格雷菲尔",
+        "description": "Magic chains made from the sound of cat walk, Tree's roots on the stone, Woman's beard, Fish's breath, Bear's vigilance, Bird's saliva. After use, You can earn 4 times EXP and loot within 1 hour, Ordinary players will quickly out combat time. You can use this item when you don't have much time today.",
+        "effect": ""
+    }
+]

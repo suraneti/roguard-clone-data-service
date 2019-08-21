@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Need Friends",
+        "chineseName": "渴望朋友",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Need Friends Blueprint",
+        "chineseName": "渴望朋友图纸",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Nemesis [1]",
+        "chineseName": "复仇女神[1]",
+        "description": "A gigantic silver scepter made for exorcism.",
+        "effect": "M.Atk ＋15%,Luck value brings extra damage to [Holy Light Strike], [Judex]"
+    },
+    {
+        "imgsrc": null,
+        "name": "Nemesis [2]",
+        "chineseName": "复仇女神[2]",
+        "description": "A gigantic silver scepter made for exorcism.",
+        "effect": "M.Atk ＋15%,Luck value brings extra damage to [Holy Light Strike], [Judex]"
+    },
+    {
+        "imgsrc": null,
+        "name": "Neon Genesis Weapon Series Voucher",
+        "chineseName": "新纪元系列武器兑换券",
+        "description": "Use to open Neon Geneis Weapon Store to redeem Neon Genesis Weapon skins.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "NERV Commendation Chest",
+        "chineseName": "NERV表彰礼盒",
+        "description": "A chest awarded in recognition of your outstanding performance in this battle. Open to gain NERV Emblem x6-16",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "NERV Deluxe Battle Chest",
+        "chineseName": "NERV豪华作战包",
+        "description": "Open to receive NERV Emblem x100 in recognition of your outstanding performance in this battle.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "NERV Emblem",
+        "chineseName": "NERV徽章",
+        "description": "Use to open NERV Emblem and redeem rare items.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "NERV Operation Supply Pack",
+        "chineseName": "NERV作战补给包",
+        "description": "Open it to receive one of the following: Oracle Dust x4, Oracle Crystal x2, Mora Coin x4, Honor Proof x500, Valkyrie x2, Mithril x3",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "NERV Superior Battle Chest",
+        "chineseName": "NERV精良作战包",
+        "description": "Open to receive NERV Emblem x50 in recognition of your outstanding performance in this battle.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Neutral Arrow",
+        "chineseName": "无属性箭矢",
+        "description": "Neutral Arrow",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_5022.png",
+        "name": "Neutralizer",
+        "chineseName": "中和剂",
+        "description": "Required material for presenting mix-colored hair.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "New Poison",
+        "chineseName": "新毒",
+        "description": "Dangerous poison that has powerful effect when applied on a weapon.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40704.png",
+        "name": "New Steel Dagger",
+        "chineseName": "崭新的精钢匕首",
+        "description": "An exquisite Steel Dagger with engravings on it. It has no trace of usage. (Can be added to your collection. Not yet implemented. )",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "New Year Blessing Card",
+        "chineseName": "新年如意卡片",
+        "description": "Howl! Howl! It's tough to be a monster, for I have to cause trouble every year! This year I'm gonna try something different. Hey! Roar! Hah! Hey! Greeting, Year here. I wish everyone happy new year with this character \"Year\"!",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "New Year Chest",
+        "chineseName": "元旦礼盒",
+        "description": "Open it to receive Zeny x100000, Adventure Meatball x60, Mercenary's Mission x5, Ecclesia Purification Cup x5, and one of following items: Seed of Mastela x1, Dead Branch (MINI) x1, Dead Branch (MVP) x1, Mora Coin x5.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "New Year Chest",
+        "chineseName": "元旦礼盒",
+        "description": "Open it and you will get Zeny x 220000, Adventure Meatball x 60, Guild Gift x 5 and an item randomly selected among Seed of Mastela x 1, Gold Medal x 1, Dead Branch (MINI) x 1, Dead Branch (MVP) x 1, Dropping Doll (Female) Blueprint x 1, Dropping Doll (Male) Blueprint x 1 and Mora Coin x 8.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_3636.png",
+        "name": "New Year Goods Chest",
+        "chineseName": "年货礼盒",
+        "description": "Legend has it that in the Eastern Country, one of the customs for celebrating the New year is, every family buy lots of ingredients during the festival and naughty children sneak into the kitchen in search of foods (Use it to receive ingredients and consumptive items.)",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12362.png",
+        "name": "New Year Special Dish",
+        "chineseName": "新年特别料理",
+        "description": "A special five-star cuisine for welcoming the New year. Lots of people enjoy the feast together, That's how a happy year begins. (AGI ＋10, DEX ＋10, LUK ＋10, Crit ＋20, Ranged Damage ＋20%, Attack Spd ＋20%, This effect lasts 30 minutes.)",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Night Aira",
+        "chineseName": "夜后的咏叹调",
+        "description": "\"Hencse~Hencse~ Oh, where's the little guy? I asked him to reorganize the music score books, but he didn't make a move! I'm so damn furious!\" \"Hencse, how many times did I tell you not to mess around with the stupid musician? Damn~ Are you listening to me! There's no market for the music score called Magic Flute. Don't practice anymore! Comeback and move the books. I have many things for you to do! For example...\"",
+        "effect": "Atk ＋10,Base EXP of killing monsters ＋5%"
+    }
+]

@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40002.png",
+        "name": "Pike",
+        "chineseName": "步兵长矛",
+        "description": "The single-hand spears used by infantry.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40002.png",
+        "name": "Pike [3]",
+        "chineseName": "步兵长矛[3]",
+        "description": "The single-hand spears used by infantry.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Pinafore",
+        "chineseName": "主人围兜兜",
+        "description": "",
+        "effect": "Dex ＋3,AGI ＋3"
+    },
+    {
+        "imgsrc": null,
+        "name": "Pinafore [1]",
+        "chineseName": "主人围兜兜[1]",
+        "description": "",
+        "effect": "Dex ＋3,AGI ＋3"
+    },
+    {
+        "imgsrc": null,
+        "name": "Pinafore [1] Blueprint",
+        "chineseName": "主人围兜兜[1]图纸",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Pinocchio's Nose",
+        "chineseName": "说谎者的鼻子",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Pinocchio's Nose Blueprint",
+        "chineseName": "说谎者的鼻子图纸",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_48520.png",
+        "name": "Pipe",
+        "chineseName": "烟斗",
+        "description": "Cigarettes can be put into the pipe, because there is a filter on it, which can reduce the harm to the body. Smoking is harmful to the health of the human body, and the juveniles are prohibited from smoking.",
+        "effect": "Str ＋3,When Refining ＋10, Max HP ＋10%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_48520.png",
+        "name": "Pipe Blueprint",
+        "chineseName": "烟斗图纸",
+        "description": "Cigarettes can be put into the pipe, because there is a filter on it, which can reduce the harm to the body. Smoking is harmful to the health of the human body, and the juveniles are prohibited from smoking.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Pipe Warm Home",
+        "chineseName": "烟花·回家的温暖",
+        "description": "\"Kids still look forward to seeing the flowing shining in the night sky when they're held in their mothers' arms\". (Use it to create a dazzling firework. )",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45014.png",
+        "name": "Pirate Bandana",
+        "chineseName": "海盗头巾",
+        "description": "Patterns symbolizes pirate skulls. It bestows the Valor Str for people wearing this headscarf.",
+        "effect": "Def ＋5,Str ＋2"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45014.png",
+        "name": "Pirate Bandana [1]",
+        "chineseName": "海盗头巾[1]",
+        "description": "Patterns symbolizes pirate skulls. It bestows the Valor Str for people wearing this headscarf.",
+        "effect": "Def ＋5,Str ＋2"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45014.png",
+        "name": "Pirate Bandana [1] Blueprint",
+        "chineseName": "海盗头巾[1]图纸",
+        "description": "Patterns symbolizes pirate skulls. It bestows the Valor Str for people wearing this headscarf.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45189.png",
+        "name": "Pirate Flag",
+        "chineseName": "海盗旗",
+        "description": "Black skull flag used by pirates.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45189.png",
+        "name": "Pirate Flag [1]",
+        "chineseName": "海盗旗[1]",
+        "description": "Black skull flag used by pirates.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45189.png",
+        "name": "Pirate Flag [1] Blueprint",
+        "chineseName": "海盗旗[1]图纸",
+        "description": "Black skull flag used by pirates.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Pirate Skeleton (Pirate Skeleton only)",
+        "chineseName": "邪骸海盗(邪骸海盗专属)",
+        "description": "Pirate Skeleton's favorite weapon that strikes fear into enemy's heart.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Pirate Skeleton Card",
+        "chineseName": "邪骸海盗卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Pisces Crown",
+        "chineseName": "双鱼宫王冠",
+        "description": "Crown that symbolizes Pisces, one of the twelve zodiacal signs. It's inlaid with turquoise.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Pisces Crown Blueprint",
+        "chineseName": "双鱼宫王冠图纸",
+        "description": "Crown that symbolizes Pisces, one of the twelve zodiacal signs. It's inlaid with turquoise.",
+        "effect": ""
+    }
+]

@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Lord's Clothes [1]",
+        "chineseName": "秘衣美德[1]",
+        "description": "The legendary clothes worn by merchants with business ethics. It can prove the wearer's excellent taste.",
+        "effect": "Str ＋3,Dex ＋3"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12325.png",
+        "name": "Lotus",
+        "chineseName": "地莲",
+        "description": "This plant can be eaten to fill the stomach, but it cannot be found underground. (Can be added to your collection. Not yet implemented. )",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Love and Bravery 2018",
+        "chineseName": "爱与勇气的冒险·2018",
+        "description": "1st! Remember the first time of being to Prontera, the first time changing jobs, the first friend, the first MVP ... How time flies, the first anniversary is coming! In the Adventure of love and courage, there is a cheerful melody, the blessing of Angels, there are friends to join hands. Brave adventurers, move on to the New Year!",
+        "effect": "All Attributes ＋1,Max SP ＋100"
+    },
+    {
+        "imgsrc": null,
+        "name": "Love and Bravery 2018 Blueprint",
+        "chineseName": "爱与勇气的冒险·2018图纸",
+        "description": "1st! Remember the first time of being to Prontera, the first time changing jobs, the first friend, the first MVP ... How time flies, the first anniversary is coming! In the Adventure of love and courage, there is a cheerful melody, the blessing of Angels, there are friends to join hands. Brave adventurers, move on to the New Year!",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_3620.png",
+        "name": "Love at First Sight Chest",
+        "chineseName": "一见钟情礼盒",
+        "description": "What? My heart is racing! I can hardly contain this feeling! ",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Love at Tokyo Tower [1]",
+        "chineseName": "东京铁塔之恋[1]",
+        "description": "I love a streetlight. I love the lingering warmth. And I love someone. I love the attractive fragrance. On the observation deck in a foreign country, I look forward to your kiss.",
+        "effect": "All Attributes ＋1,Max SP ＋50"
+    },
+    {
+        "imgsrc": null,
+        "name": "Love Autumn",
+        "chineseName": "恋·秋",
+        "description": "View sakura at spring nights, viewing starry sky at summer nights, viewing full moon at [autumn] nights, and viewing snow in winter.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Love Autumn Blueprint",
+        "chineseName": "恋·秋图纸",
+        "description": "View sakura at spring nights, viewing starry sky at summer nights, viewing full moon at [autumn] nights, and viewing snow in winter.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Love Beach Mirror",
+        "chineseName": "爱心沙滩镜",
+        "description": "It's time to take your favorite Poring on a trip during this golden holiday~ [Designed by: LittlewhiteBAO]",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Love Blush",
+        "chineseName": "爱心红晕",
+        "description": "Summer is a beautiful season. Watching your smiling face full of love, the world has become the shape of love.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Love Blush Blueprint",
+        "chineseName": "爱心红晕图纸",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Love Cake",
+        "chineseName": "爱的蛋糕",
+        "description": "Happy birthday, Let's close our eyes then secretly make a wish. Maybe on the day you confess to me, I will tell you this secret, Then concentrate with me for 3 seconds. \"Ohhhhhh\" Together!",
+        "effect": "MAX HP ＋200,SP Regen ＋3"
+    },
+    {
+        "imgsrc": null,
+        "name": "Love Cake Blueprint",
+        "chineseName": "爱的蛋糕图纸",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Love Cake [1]",
+        "chineseName": "爱的蛋糕[1]",
+        "description": "Happy birthday, Let's close our eyes then secretly make a wish. Maybe on the day you confess to me, I will tell you this secret, Then concentrate with me for 3 seconds. \"Ohhhhhh\" Together!",
+        "effect": "MAX HP ＋200,SP Regen ＋3"
+    },
+    {
+        "imgsrc": null,
+        "name": "Love Call",
+        "chineseName": "恋心的呼唤",
+        "description": "This is a miraculous item that enables you to do one more love divination! But is it a good thing to rely on this all the time? What does love mean to people?",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Love Candy",
+        "chineseName": "蜜恋糖果",
+        "description": "Theresa's homemade candies. So full of the sweet fragrance of love. (Effect: Consume to recover 3% HP and 14% SP. Grants candy FX~)",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Love Chest",
+        "chineseName": "恋季元气礼盒",
+        "description": "The special love-heart chest, Full of valuable gifts! Thank you for your care over the year, please continue your adventure trip in the new year!",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Love Chest",
+        "chineseName": "恋季元气礼盒",
+        "description": "The special love-heart chest, Full of valuable gifts! Thank you for your care over the year, please continue your adventure trip in the new year!",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Love Crystal",
+        "chineseName": "恋之水晶",
+        "description": "A fragile crystal that represents the pure heart of teenagers. Take good care of it.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Love Goddess",
+        "chineseName": "守护爱的女神",
+        "description": "The arrow of love goes through the sky, and the pure affection connects one heart and another. Time Wheel flies, natural scenery changes with season. The goddess does not mean to link the fate of different people, but keeps protecting people's kindness.",
+        "effect": ""
+    }
+]

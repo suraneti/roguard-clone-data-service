@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Jan. 2018 Gashapon Chest",
+        "chineseName": "18年1月扭蛋盒",
+        "description": "Kafra's special headwear Gashapon toy chest, to express your sincere affection! Open it to receive friend's blessing cards and 10 headwear Gashapon toys relative to 10 months.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Jan. 2018 Premium",
+        "chineseName": "2018.1月限定特典",
+        "description": "\"1st Anniversary Memorial! We will use a vigorous GVG to make this banquet come to a climax!\" The famous Kafra company thanks all the adventurers who have long supported the company’s adventures, especially for the special release of the monthly magazine. The card in your hand, seems to be full of powerful magic, practical and valuable.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Jan. 2019 Premium",
+        "chineseName": "2019.1月限定特典",
+        "description": "“January, a new start, a new adventure, a new friend.... In this early spring time, did you find the one that you can lean on? ” The famous Kafra, Co. publish this special monthly Premium card to thanks all the lovely supporter. When you holding it in the hands, you will feel the magic power within. It has the most effective value.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Japanese style Headwear",
+        "chineseName": "和风系列头饰",
+        "description": "Headwear with the shape of foreign thunder god, wear it and feel the wildness! Go easy on the opposite gender! But advised to not wear it during Thunderstorm",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_52101.png",
+        "name": "Jellopy",
+        "chineseName": "杰勒比结晶",
+        "description": "Crystal made from monster parts. I wonder what you can make with it?",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45018.png",
+        "name": "Jellyfish head",
+        "chineseName": "水母头",
+        "description": "Common Marina near the sea area. It's said that it felt too comfortable on the head that it didn't want to come down.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45018.png",
+        "name": "Jellyfish head [1]",
+        "chineseName": "水母头[1]",
+        "description": "Marina Head.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45018.png",
+        "name": "Jellyfish head [1] Blueprint",
+        "chineseName": "水母头[1]图纸",
+        "description": "Common Marina near the sea area. It's said that it felt too comfortable on the head that it didn't want to come down.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Jemmy's Gif Box",
+        "chineseName": "吉米的答谢礼盒",
+        "description": "\"Thank you for helping with my dream, please accept this Gif Box! \"You will gain Big Cat VoucherⅠ*1 and chance to get one of the following items:Mora Coin*2, Pray Chip Pack*1, Gold Medal*1, Seed of Mastela*1",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Jemmy's Gift Box",
+        "chineseName": "吉米感恩礼盒",
+        "description": "\"You are such a kind adventurer, I wish I can stay with you and sing to you forever~~\", you will gain: Adventure Meatball*20, Pet EXP Potion (L)*10, Colorful Shell*100 and chance to drop extra Jemmy pet Egg*1.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45058.png",
+        "name": "Jewel Crown",
+        "chineseName": "首领冠冕",
+        "description": "It's made of round-folded cloth and inlaid germs, which looks very imposing.",
+        "effect": "Int ＋2,When Refining ＋10, Reflection rate ＋10%, with extra M.Def ＋5%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45058.png",
+        "name": "Jewel Crown Blueprint",
+        "chineseName": "首领冠冕图纸",
+        "description": "It's made of round-folded cloth and inlaid germs, which looks very imposing.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45058.png",
+        "name": "Jewel Crown [1]",
+        "chineseName": "首领冠冕[1]",
+        "description": "It's made of round-folded cloth and inlaid germs, which looks very imposing.",
+        "effect": "Int ＋2,When Refining ＋10, Reflection rate ＋10%, with extra M.Def ＋5%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40301.png",
+        "name": "Jeweled Sword [2]",
+        "chineseName": "寻宝之剑[2]",
+        "description": "The transparent and beautiful blade of a unique sword will create beautiful objects after killing the monster.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40301.png",
+        "name": "Jeweled Sword [3]",
+        "chineseName": "寻宝之剑[3]",
+        "description": "The transparent and beautiful blade of a unique sword will create beautiful objects after killing the monster.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "JingleBell",
+        "chineseName": "JingleBell",
+        "description": "[Jingle! Jingle! Jingle bells, we are happy to be using the sleds. Breaking through the blizzard, we sit on the sleigh, speeding through the fields accompanied by laughter. The ringing sound resonates through the air. We are in high spirits and laugh so much that our song carries through the night. Jingle, jingle, jingle bells...]",
+        "effect": "Dex ＋3,AGI ＋3"
+    },
+    {
+        "imgsrc": null,
+        "name": "JingleBell[1]",
+        "chineseName": "JingleBell[1]",
+        "description": "[Jingle! Jingle! Jingle bells, we are happy to be using the sleds. Breaking through the blizzard, we sit on the sleigh, speeding through the fields accompanied by laughter. The ringing sound resonates through the air. We are in high spirits and laugh so much that our song carries through the night. Jingle, jingle, jingle bells...]",
+        "effect": "Max HP ＋300,Luk ＋3"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/23.png",
+        "name": "Job EXP Book",
+        "chineseName": "Job经验书",
+        "description": "Designed for lovable RO fans! It offers you massive Job EXP! Remember to change jobs and add skill points!",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12338.png",
+        "name": "JOB Potion (L)",
+        "chineseName": "大型JOB药水",
+        "description": "An ordinary-looking potion. After drinking it, Players can stimulate the potentials inside. Although it tastes strange, it can increase adventurer's JOB EXP by 50,000 points. Sometimes a \"L\" pattern can be found at the bottom of the bottle.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12336.png",
+        "name": "JOB Potion (S)",
+        "chineseName": "小型JOB药水",
+        "description": "An ordinary-looking potion. After drinking it, Players can stimulate the potentials inside. Although it tastes strange, it can increase adventurer's JOB EXP by 1000 points. Sometimes a \"L\" pattern can be found at the bottom of the bottle.",
+        "effect": ""
+    }
+]

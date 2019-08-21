@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42016.png",
+        "name": "Tights [1]",
+        "chineseName": "紧身便衣[1]",
+        "description": "The suitable clothes to make you easier to move.",
+        "effect": "Dex ＋2,Atk ＋4%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Time Holder Card",
+        "chineseName": "时间管理人卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43503.png",
+        "name": "Time Keeper's Boots [1]",
+        "chineseName": "时间守护者靴子[1]",
+        "description": "Boots that protect man's ankles.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43504.png",
+        "name": "Time Keeper's Boots [2]",
+        "chineseName": "时间守护者靴子[2]",
+        "description": "A cloak that guards the time, Player can use it to avoid the travel through the space.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Time Keeper's Loop",
+        "chineseName": "时间守护者的脚底光圈",
+        "description": "Time Keeper's Loop",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Time Keeper's Manteau [1]",
+        "chineseName": "时间守护者披风[1]",
+        "description": "A cloak that guards the time, Player can use it to avoid the pain of being distorted by space.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Time Keeper's Manteau [2]",
+        "chineseName": "时间守护者披风[2]",
+        "description": "A cloak that guards the time, Player can use it to avoid the pain of being distorted by space.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Time Observation",
+        "chineseName": "时光洞察",
+        "description": "The glasses used by the time master Talwar are able to see the passage of time and see the shape of life at different times. Don't indulge in it, otherwise you will lose the concept of time!",
+        "effect": "Max SP ＋50,Refining M.Atk ＋5"
+    },
+    {
+        "imgsrc": null,
+        "name": "Time Observation Blueprint",
+        "chineseName": "时光洞察图纸",
+        "description": "The glasses used by the time master Talwar are able to see the passage of time and see the shape of life at different times. Don't indulge in it, otherwise you will lose the concept of time!",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Time Shadow",
+        "chineseName": "时间倒影",
+        "description": "",
+        "effect": "Def ＋15,When Refining ＋10 and Luck reaches 90, Crit.Dmg ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Time Shadow Blueprint",
+        "chineseName": "时间倒影图纸",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Time Twister",
+        "chineseName": "时间扭曲键",
+        "description": "The Clock of Destiny's components are scattered in places where time is stagnant. They contain dangerous energy.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Time Wheel",
+        "chineseName": "时光之轮",
+        "description": "",
+        "effect": "Dex ＋3,AGI ＋3"
+    },
+    {
+        "imgsrc": null,
+        "name": "Time Wheel [1]",
+        "chineseName": "时光之轮[1]",
+        "description": "",
+        "effect": "Dex ＋3,AGI ＋3"
+    },
+    {
+        "imgsrc": null,
+        "name": "Time Wheel [1] Blueprint",
+        "chineseName": "时光之轮[1]图纸",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40301.png",
+        "name": "Tirfing [2]",
+        "chineseName": "魔刀吞神[2]",
+        "description": "The sword will bring disasters to the user.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40301.png",
+        "name": "Tirfing [3]",
+        "chineseName": "魔刀吞神[3]",
+        "description": "The sword will bring disasters to the user.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Toad Card",
+        "chineseName": "蛙王卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_5028.png",
+        "name": "Token of Siegfried",
+        "chineseName": "不死之证",
+        "description": "The token of Siegfried, the immortal god. It's said that anyone carrying this item can overcome death, This item will be consumed so that people can immediately resurrect after death.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Tomahawk [1]",
+        "chineseName": "风灵之斧[1]",
+        "description": "The horrible axe. When being thrown, it will follow the wind to chase the enemy.",
+        "effect": ""
+    }
+]

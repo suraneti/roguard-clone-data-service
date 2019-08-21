@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_52401.png",
+        "name": "Iron",
+        "chineseName": "铁",
+        "description": "Apart from its hardness, it is also relatively light and thin. Compared with other metals, it is easier to process and can be used to make equipment.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42007.png",
+        "name": "Iron Armor",
+        "chineseName": "铁制铠甲",
+        "description": "A hard armor made from metal.",
+        "effect": "Str ＋3,When equipped by Melee attackers, Atk ＋20"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42007.png",
+        "name": "Iron Armor [1]",
+        "chineseName": "铁制铠甲[1]",
+        "description": "A hard armor made from metal.",
+        "effect": "Str ＋3,When equipped by Melee attackers, Atk ＋20"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_48527.png",
+        "name": "Iron Cain",
+        "chineseName": "金属口罩",
+        "description": "The mask made of hard metal.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_48527.png",
+        "name": "Iron Cain Blueprint",
+        "chineseName": "金属口罩图纸",
+        "description": "The mask made of hard metal.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Iron Maiden",
+        "chineseName": "拷问器具",
+        "description": "A cruel tool in ancient times that hasn’t been used for ages.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Isis Card",
+        "chineseName": "蛇女伊丝卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_111.png",
+        "name": "Item shop random item pack",
+        "chineseName": "道具店随机道具包",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Ivory Knife [1]",
+        "chineseName": "象牙匕首[1]",
+        "description": "Atk + 180",
+        "effect": "Luk ＋4,the basic trigger probability of [Strip Accessory] and [Strip Shield] ＋3%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Ivory Knife [2]",
+        "chineseName": "象牙匕首[2]",
+        "description": "Atk + 180",
+        "effect": "Luk ＋4,the basic trigger probability of [Strip Accessory] and [Strip Shield] ＋3%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40007.png",
+        "name": "Ivory Lance [1]",
+        "chineseName": "象牙长矛[1]",
+        "description": "A double-handed gun made from the mammoth's ivory. The texture is very hard and it's very difficult to process. Since it is very sharp on the head, it's more effective to use it for stabbing than cutting.",
+        "effect": "Attacks ignore the enemy's physical defense (invalid to BOSS monster),Damage to natural monsters ＋25%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40007.png",
+        "name": "Ivory Lance [2]",
+        "chineseName": "象牙长矛[2]",
+        "description": "A double-handed gun made from the mammoth's ivory. The texture is very hard and it's very difficult to process. Since it is very sharp on the head, it's more effective to use it for stabbing than cutting.",
+        "effect": "Attacks ignore the enemy's physical defense (invalid to BOSS monster),Damage to natural monsters ＋25%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41201.png",
+        "name": "Ixion Wings [2]",
+        "chineseName": "伊克西翁之翼[2]",
+        "description": "A bow with white flat wings.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41201.png",
+        "name": "Ixion Wings [3]",
+        "chineseName": "伊克西翁之翼[3]",
+        "description": "A bow with white flat wings.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_111.png",
+        "name": "Izlude Adventure Chest",
+        "chineseName": "伊斯鲁得冒险箱",
+        "description": "Open the box, you will certainly receive some Colorful Shell, with a probability to receive Raccoon Leaf, Four-leaf Clover, Pearl, Fabric, Light Granule, Steel, Aquamarine, Pet EXP Potion (S), Pet EXP Potion (M), Pet EXP Potion (L), etc.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Jack-O-Lantern",
+        "chineseName": "杰克南瓜·不是灯",
+        "description": "Wandering in the dark night, Used to use the \"Trick of Sixpence\". Found a more suitable destination than the White Radish's. At the moment of dawn, the child fell, Then, Guess who is the person behind?",
+        "effect": "Max HP ＋200,M.Def ＋5"
+    },
+    {
+        "imgsrc": null,
+        "name": "Jack-O-Lantern Blueprint",
+        "chineseName": "杰克南瓜·不是灯图纸",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Jakk Card",
+        "chineseName": "南瓜先生卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_3617.png",
+        "name": "Jakk Surprise Chest",
+        "chineseName": "南瓜先生惊喜礼盒",
+        "description": "This pumpkin head is really cute! Wait, There's such a terrible transformation scroll on it. So it's time for prank tonight. (Adventurers of Lv.15 can try to open it. After use, Player will be favored by the Baron and receive one transformation scroll of undead monster.)",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Jam Waffle",
+        "chineseName": "缤纷龙鳞饼",
+        "description": "By pouring various fruit sauces on the dragon-scale waffle, This food gives you the defense of giant dragon. Within 3 minutes, All damage reduces by 30%. The effect cannot stack up with other dragon-scale waffles, and is not influenced by death. This item can only be used on PVP maps.",
+        "effect": ""
+    }
+]

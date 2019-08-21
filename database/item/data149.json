@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Moon Sakura's gift",
+        "chineseName": "月樱之礼",
+        "description": "“The Sakura Rain in the early spring is my favorite view of all season.” Use it to exchange a Moon Sakura Costume.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_500200.png",
+        "name": "Moon Whisper",
+        "chineseName": "月之低语",
+        "description": "[Moon Whisper]: the latest work of Vettel Moura, the 14th president of House Moura, the most famous perfume family of the land. It's said that the president was inspired by the moon one night and created this mesmerizing fragrance.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Mooncake",
+        "chineseName": "中秋月饼",
+        "description": "The moon in lunar August 15th is the biggest and the most round in a year. It is said that the wishes made in front of the mid-autumn moon can be realized.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Mooncake Blueprint",
+        "chineseName": "中秋月饼图纸",
+        "description": "The moon in lunar August 15th is the biggest and the most round in a year. It is said that the wishes made in front of the mid-autumn moon can be realized.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Mooncake Recipe",
+        "chineseName": "月饼配方",
+        "description": "This should be a recipe for some special food.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Moonlight - Blaze Axe",
+        "chineseName": "月辉·破风之斧",
+        "description": "The iconic weapon of Dark Moon Circus, because of its gorgeous and rare style, has become a popular weapon pursued by young adventurers.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Moonlight - Fallen Katar",
+        "chineseName": "月辉·星陨拳刃",
+        "description": "The iconic weapon of Dark Moon Circus, because of its gorgeous and rare style, has become a popular weapon pursued by young adventurers.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Moonlight - Fantasy Bow",
+        "chineseName": "月辉·幻空之弓",
+        "description": "The iconic weapon of Dark Moon Circus, because of its gorgeous and rare style, has become a popular weapon pursued by young adventurers.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Moonlight - Galaxy Shield",
+        "chineseName": "月辉·星罗之盾",
+        "description": "The iconic weapon of Dark Moon Circus, because of its gorgeous and rare style, has become a popular weapon pursued by young adventurers.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Moonlight - Hunting Wand",
+        "chineseName": "月辉·封魔法杖",
+        "description": "The iconic weapon of Dark Moon Circus, because of its gorgeous and rare style, has become a popular weapon pursued by young adventurers.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Moonlight - Radiance Dagger",
+        "chineseName": "月辉·星光短刀",
+        "description": "The iconic weapon of Dark Moon Circus, because of its gorgeous and rare style, has become a popular weapon pursued by young adventurers.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Moonlight - Shadow Hammer",
+        "chineseName": "月辉·瞳影之锤",
+        "description": "The iconic weapon of Dark Moon Circus, because of its gorgeous and rare style, has become a popular weapon pursued by young adventurers.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Moonlight - Silver Sword",
+        "chineseName": "月辉·银光之剑",
+        "description": "The iconic weapon of Dark Moon Circus, because of its gorgeous and rare style, has become a popular weapon pursued by young adventurers.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Moonlight - Star Spear",
+        "chineseName": "月辉·奇星之矛",
+        "description": "The iconic weapon of Dark Moon Circus, because of its gorgeous and rare style, has become a popular weapon pursued by young adventurers.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Moonlight Arbiter Blue",
+        "chineseName": "月夜裁决者·青兰",
+        "description": "The symbol of moon rose, inherits the courage and glory of every generation moon night rose.",
+        "effect": "M.Atk ＋20,MPen. ＋3%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Moonlight Arbiter Green",
+        "chineseName": "月夜裁决者·绿萝",
+        "description": "The symbol of moon rose, inherits the courage and glory of every generation moon night rose.",
+        "effect": "M.Atk ＋20,MPen. ＋3%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Moonlight Arbiter Rosy",
+        "chineseName": "月夜裁决者·玫红",
+        "description": "The symbol of moon rose, inherits the courage and glory of every generation moon night rose.",
+        "effect": "M.Atk ＋20,MPen. ＋3%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Moonlight Arbiter Yellow",
+        "chineseName": "月夜裁决者·葵黄",
+        "description": "The symbol of moon rose, inherits the courage and glory of every generation moon night rose.",
+        "effect": "M.Atk ＋20,MPen. ＋3%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Moonlight Flower Card",
+        "chineseName": "月夜猫卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45085.png",
+        "name": "Moonlight Flower Hat",
+        "chineseName": "月夜猫帽子",
+        "description": "Hat made according to Moonlight Flower.",
+        "effect": "When using physical skills, Caster has a 5% chance to increase Agility for 4 seconds. (Agi ＋10),When Refining 10, Agi ＋20"
+    }
+]

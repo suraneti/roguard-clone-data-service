@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12317.png",
+        "name": "Gingerbread",
+        "chineseName": "姜饼",
+        "description": "Scented gingerbread. Cut the big cake into small pieces, the cream is soft and smooth, Eating it helps restore 160-200 points of HP.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Gingerbread Man",
+        "chineseName": "姜饼仔",
+        "description": "Gingerbread is so cute why are we eating gingerbread man.",
+        "effect": "All Attributes ＋1,M.Atk ＋2%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Gingerbread Man Card",
+        "chineseName": "姜饼人卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Gingerbread Man Clip",
+        "chineseName": "姜饼人发夹",
+        "description": "",
+        "effect": "Max HP ＋50,Max SP ＋50"
+    },
+    {
+        "imgsrc": null,
+        "name": "Gingerbread Man clip Blueprint",
+        "chineseName": "姜饼人发夹图纸",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Gingerbread Man clip [1]",
+        "chineseName": "姜饼人发夹[1]",
+        "description": "",
+        "effect": "Dex ＋3,AGI ＋3"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41504.png",
+        "name": "Girl's Diary",
+        "chineseName": "日记本",
+        "description": "Girl's Diary of a maiden. The diary is about the weather, Date and the life in that day. Because it is written by unknown characters, it is unreadable and unidentified.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40704.png",
+        "name": "Gladius",
+        "chineseName": "长柄短剑",
+        "description": "Knives with a long shank used by an ancient kingdom. A short sword with a long blade.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40704.png",
+        "name": "Gladius [2]",
+        "chineseName": "长柄短剑[2]",
+        "description": "Knives with a long shank used by an ancient kingdom. A short sword with a long blade.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40023.png",
+        "name": "Glaive",
+        "chineseName": "长枪",
+        "description": "A weapon used by the medieval soldiers. Some users get bad luck when they use it superstitiously.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_52154.png",
+        "name": "Glass Bead",
+        "chineseName": "玻璃珠",
+        "description": "Small beads made of glass that children often use as toys. I wonder what you can make with it?",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43524.png",
+        "name": "Glass Boots",
+        "chineseName": "玻璃靴",
+        "description": "Shoes made of glass, for aesthetic use only.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43524.png",
+        "name": "Glass Boots [1]",
+        "chineseName": "玻璃靴[1]",
+        "description": "Shoes made of glass, for aesthetic use only.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43503.png",
+        "name": "Glass Shoes [1]",
+        "chineseName": "玻璃鞋[1]",
+        "description": "Shoes made of glass, for aesthetic use only.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43503.png",
+        "name": "Glass Shoes [2]",
+        "chineseName": "玻璃鞋[2]",
+        "description": "Shoes made of glass, for aesthetic use only.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Glass Snowman Horn",
+        "chineseName": "琉璃雪人号角",
+        "description": "",
+        "effect": "Agi ＋5,Max HP ＋400"
+    },
+    {
+        "imgsrc": null,
+        "name": "Glass Snowman Horn Blueprint",
+        "chineseName": "琉璃雪人号角图纸",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_48559.png",
+        "name": "Glasses",
+        "chineseName": "眼镜",
+        "description": "Glasses made of compressed glass are used by the people who have poor eyesight.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_48559.png",
+        "name": "Glasses Blueprint",
+        "chineseName": "眼镜图纸",
+        "description": "Glasses made of compressed glass are used by the people who have poor eyesight.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_111.png",
+        "name": "Glast Heim Adventure Chest",
+        "chineseName": "古城冒险箱",
+        "description": "Open the box, you will certainly receive some Colorful Shell, with a probability to Dragon Scale, Crystal Mirror, Biotite, Rose Quartz, Wrapping Lace, Armor Shard, Broken Blade, Pet EXP Potion (S), Pet EXP Potion (M), Pet EXP Potion (L), etc.",
+        "effect": ""
+    }
+]

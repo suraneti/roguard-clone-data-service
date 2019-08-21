@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40016.png",
+        "name": "Cardo [1]",
+        "chineseName": "柱枪[1]",
+        "description": "The double-handed pistol made in the reduced proportion of the pillars in ancient shrines.",
+        "effect": "VIT ＋3,For Refining ＋1, Def ＋1%, M.Def ＋0.5%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40016.png",
+        "name": "Cardo [2]",
+        "chineseName": "柱枪[2]",
+        "description": "The double-handed pistol made in the reduced proportion of the pillars in ancient shrines.",
+        "effect": "VIT ＋3,For Refining ＋1, Def ＋1%, M.Def ＋0.5%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41504.png",
+        "name": "Carga Mace [2]",
+        "chineseName": "卡尔加权杖[2]",
+        "description": "A heavy scepter with a sharp blade. In the language of Wood Gaint, Calgar means \"shouting\".",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41504.png",
+        "name": "Carga Mace [3]",
+        "chineseName": "卡尔加权杖[3]",
+        "description": "In the language of the Wood Giant, Carga means \"shout\". This is a heavy staff with a sharp blade.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12303.png",
+        "name": "Carrot",
+        "chineseName": "红萝卜",
+        "description": "A red vegetable that tastes sweet and is often served as a dish. It can restore 18-20 points of HP.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12312.png",
+        "name": "Carrot Juice",
+        "chineseName": "红萝卜汁",
+        "description": "Juice squeezed from carrots. It can restore 27-33 points of HP, and the effect is faster than that of direct eating.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_3620.png",
+        "name": "Cat Bar Pack",
+        "chineseName": "猫吧台大礼包",
+        "description": "Open it to receive lots of consumables for GVG",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41504.png",
+        "name": "Cat Club [2]",
+        "chineseName": "猫爪权杖[2]",
+        "description": "A cute stick in the shape of a cat claw.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41504.png",
+        "name": "Cat Club [3]",
+        "chineseName": "猫爪权杖[3]",
+        "description": "A cute stick in the shape of a cat claw.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45146.png",
+        "name": "Cat Ear Beret",
+        "chineseName": "猫耳贝雷帽",
+        "description": "Cute beret hat with cat ears.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45146.png",
+        "name": "Cat Ear Beret [1]",
+        "chineseName": "猫耳贝雷帽[1]",
+        "description": "Cute beret hat with cat ears.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45146.png",
+        "name": "Cat Ear Beret [1] Blueprint",
+        "chineseName": "猫耳贝雷帽[1]图纸",
+        "description": "Cute beret hat with cat ears.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Cat Ear Pudding Coco",
+        "chineseName": "猫耳布丁帽·可可",
+        "description": "Made for the kitty who love sports, light and chill! Mr. Coffee designed with the softest materials. The hat is like a Pudding, this one is cool black.",
+        "effect": "DMG Reduction +3%,Demi-Human Dmg Reduc. +3%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Cat Ear Pudding SugarFrost",
+        "chineseName": "猫耳布丁帽·纯雪",
+        "description": "Made for the kitty who love sports, light and chill! Mr. Coffee designed with the softest materials. The hat is like a Pudding, this one is soft white.",
+        "effect": "DMG Reduction +3%,Demi-Human Dmg Reduc. +3%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_52407.png",
+        "name": "Cat Grass",
+        "chineseName": "猫尾草",
+        "description": "Economic crops that have recently been popular in Comet. Cats believe that carrying them will be good luck. (It is rumored that Miu on Vacation is collecting this somewhere. It may be a good idea to give it to her, but where is she taking a vacation?)",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Cat Marshmallow",
+        "chineseName": "猫猫棉花糖",
+        "description": "Autumn has come. Is winter far away? Soft cotton candy earmuffs bring the warmth like first love... [Author: Yuan Xiao Mao]",
+        "effect": "Def ＋20,M.Def ＋10"
+    },
+    {
+        "imgsrc": null,
+        "name": "Cat Marshmallow Blueprint",
+        "chineseName": "猫猫棉花糖图纸",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Cat Marshmallow [1]",
+        "chineseName": "猫猫棉花糖[1]",
+        "description": "",
+        "effect": "Dex ＋3,AGI ＋3"
+    },
+    {
+        "imgsrc": null,
+        "name": "Cat Picnic Pad",
+        "chineseName": "猫猫野餐垫",
+        "description": "A picnic pad with the style and design of Flower Sea. Even cats cannot resist the comfort of lying on it.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/toy_506.png",
+        "name": "Cat Toy [1]",
+        "chineseName": "真·逗猫棒[1]",
+        "description": "A prop that makes the cat happy. Misusing it may irritate cats.",
+        "effect": ""
+    }
+]

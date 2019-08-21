@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Songkran Goggles Blueprint",
+        "chineseName": "泼水节潜水镜图纸",
+        "description": "Put on this pair of swim goggles and become a shining star on the beach! Enjoy the Songkran festival, adventurer!",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Soufflé Ribbon - Lemon",
+        "chineseName": "舒芙蕾缎带·柠檬",
+        "description": "Candy Master's masterpiece - a romantic and girlish soufflé ribbon! Infused with the sweet fragrance of dessert. Wear this to transform into the loveliest kitty girl in the school yard and garner the love of the entire playground. This one exhibits a sunny yellow.",
+        "effect": "Magic Reduc. +3%,Demi-Human Dmg Reduc. +3%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Soufflé Ribbon - Matcha",
+        "chineseName": "舒芙蕾缎带·抹茶",
+        "description": "Candy Master's masterpiece - a romantic and girlish soufflé ribbon! Infused with the sweet fragrance of dessert. Wear this to transform into the loveliest kitty girl in the school yard and garner the love of the entire playground. This one exhibits a refreshing brown.",
+        "effect": "Magic Reduc. +3%,Demi-Human Dmg Reduc. +3%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Soufflé Ribbon Series Headwear",
+        "chineseName": "舒芙蕾缎带系列头饰",
+        "description": "",
+        "effect": "Magic Reduc. +3%,Demi-Human Dmg Reduc. +3%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Soul Breath",
+        "chineseName": "灵魂的呼吸气息",
+        "description": "The sound of a soul's chilling breath. When it touches a living being, it petrifies and freezes to the bone.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_44002.png",
+        "name": "Soul Peace",
+        "chineseName": "灵魂静谧",
+        "description": "Soul Peace necklace exclusively designed by Warlock Association. ",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_3033.png",
+        "name": "South Gate Material Pack",
+        "chineseName": "南门材料包",
+        "description": "South Gate Material Pack, in which all kinds of South Gate materials can be found.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "South Gate Picnic Pad",
+        "chineseName": "南门野餐垫",
+        "description": "A picnic pad with the style and design of the south gate. It's comfortable to use.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Sparkle Firework",
+        "chineseName": "霹雳小鞭炮",
+        "description": "This is a real firecracker, don't be so close because it is cute. I'm not trying to bluff you, count to 3, then Biu~ it will be gone.",
+        "effect": "Critical ＋2, Crit. Dmg ＋4%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Sparrow Feather Beret",
+        "chineseName": "黄雀羽贝雷",
+        "description": "Yellow Sparrow's feather can hold the temperature under extreme weather condition. Wear this during winter to stay warm.",
+        "effect": "Str ＋2,Atk ＋15"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Spashire Card",
+        "chineseName": "斯佩夏尔卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Spashire's Whisper",
+        "chineseName": "斯佩夏尔的呢喃",
+        "description": "As a mystery of one of the three great alchemists in the ancient times, his life stories have long been a taboo among people, and is propagated strictly as a heresy by the church. But who really knows the truth behind it.",
+        "effect": "Dmg to undead monsters ＋10%,For Refining ＋1, Dmg to undead monsters ＋1%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Spashire's Whisper Blueprint",
+        "chineseName": "斯佩夏尔的呢喃图纸",
+        "description": "As a mystery of one of the three great alchemists in the ancient times, his life stories have long been a taboo among people, and is propagated strictly as a heresy by the church. But who really knows the truth behind it.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40001.png",
+        "name": "Spear",
+        "chineseName": "长矛",
+        "description": "A single-hand spear widely used.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Spear of Longinus",
+        "chineseName": "朗基努斯之枪",
+        "description": "Contains huge amount of energy, able to penetrate A.T. Field",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40001.png",
+        "name": "Spear [2]",
+        "chineseName": "长矛[2]",
+        "description": "A single-hand spear widely used.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Spearfish Pike [1]",
+        "chineseName": "旗鱼枪[1]",
+        "description": "Marine swordfish, with fresh meat and delicate texture, can be served as sashimi. It has a high economic value and the frozen ones are very hard.",
+        "effect": "Str ＋4,M.Atk + 247"
+    },
+    {
+        "imgsrc": null,
+        "name": "Spearfish Pike [2]",
+        "chineseName": "旗鱼枪[2]",
+        "description": "A kind of swordfish living in the sea, Delicious and tender, can be used as raw fish, with high economic value, very tough because of being frozen.",
+        "effect": "Str ＋4,M.Atk + 247"
+    },
+    {
+        "imgsrc": null,
+        "name": "Spearfish Pike(abandon)",
+        "chineseName": "旗鱼枪（弃用）",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Special Black Tea",
+        "chineseName": "特调红茶",
+        "description": "Add Prontera's milk to the hot black tea, the milk and tea are closely combined to create an attractive taste. Drinking it restores 20% of Max HP, the recovery value is according to the actual HP in GVG. This item can only be used in the PVP maps.",
+        "effect": ""
+    }
+]

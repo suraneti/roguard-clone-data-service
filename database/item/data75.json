@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_3034.png",
+        "name": "Fashion Clothes Trial Pack",
+        "chineseName": "时装试玩礼盒",
+        "description": "Designed for lovable RO fans! It contains a number of individual fashion and part of superior fashion Blueprints! Have a good time!",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Fashionable Glasses",
+        "chineseName": "时尚太阳眼镜",
+        "description": "The pair of sunglasses has a very lightweight design, which can not only bring visual effects, but also evoke your imagination. It is very trendy when you use it.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Fashionable Glasses Blueprint",
+        "chineseName": "时尚太阳眼镜图纸",
+        "description": "The pair of sunglasses has a very lightweight design, which can not only bring visual effects, but also evoke your imagination. It is very trendy when you use it.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Fast Cake",
+        "chineseName": "健步蛋糕",
+        "description": "The cake sprinkled with icing that inspires acting ability. Eating this cake increases player's moving speed by 20% within 2 minutes, CD lasts 3 minutes, This item can only be used on PVP maps.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Fatal Magic Eye [1]",
+        "chineseName": "至死的魔眼[1]",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Fatal Magic Eye [2]",
+        "chineseName": "至死的魔眼[2]",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40905.png",
+        "name": "Fear Katar [2]",
+        "chineseName": "恐惧拳刃[2]",
+        "description": "A Katars that makes the enemy feel scared.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40905.png",
+        "name": "Fear Katar [3]",
+        "chineseName": "恐惧拳刃[3]",
+        "description": "A Katars that makes the enemy feel scared.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_111.png",
+        "name": "Feat Chest",
+        "chineseName": "杰出功勋礼盒",
+        "description": "The reward is only for warriors who made great contributions at the guild battle.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_52151.png",
+        "name": "Feather",
+        "chineseName": "柔毛",
+        "description": "Very soft hair can be used to Craft Headwear.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45041.png",
+        "name": "Feather Beret",
+        "chineseName": "羽毛贝雷帽",
+        "description": "High-end hat with the safe color sky blue. It looks better with the feathers.",
+        "effect": "Def ＋10,Damage reduction of Demi-Human race ＋10%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45041.png",
+        "name": "Feather Beret [1]",
+        "chineseName": "羽毛贝雷帽[1]",
+        "description": "High-end hat with the safe color sky blue. It looks better with the feathers.",
+        "effect": "Def ＋10,Damage reduction of Demi-Human race ＋10%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45041.png",
+        "name": "Feather Beret [1] Blueprint",
+        "chineseName": "羽毛贝雷帽[1]图纸",
+        "description": "High-end hat with the safe color sky blue. It looks better with the feathers.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45029.png",
+        "name": "Feather Bonnet",
+        "chineseName": "羽毛帽",
+        "description": "A very modern-looking hat with a valuable feather on it.",
+        "effect": "Def ＋8,Agi ＋1"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45029.png",
+        "name": "Feather Bonnet [1]",
+        "chineseName": "羽毛帽[1]",
+        "description": "A very modern-looking hat with a valuable feather on it.",
+        "effect": "Def ＋8,Agi ＋1"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45029.png",
+        "name": "Feather Bonnet [1] Blueprint",
+        "chineseName": "羽毛帽[1]图纸",
+        "description": "A very modern-looking hat with a valuable feather on it.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Feather Hairpin",
+        "chineseName": "羽毛发卡",
+        "description": "",
+        "effect": "Dmg Reduc. ＋3%,MAX HP＋2%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Feather Hairpin [1]",
+        "chineseName": "羽毛发卡[1]",
+        "description": "",
+        "effect": "Dmg Reduc. ＋3%,MAX HP＋2%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Feather Hairpin [1] Blueprint",
+        "chineseName": "羽毛发卡[1]图纸",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Feather Mace [1]",
+        "chineseName": "羽毛权杖[1]",
+        "description": "Although the Staff of Wing experiment made from a small amount of material is lacking in ability, it is more suitable for beginners",
+        "effect": "INT ＋2,For refining increases by ＋1, the skill multiplier of Vanilmirth's [Caprice] ＋35%"
+    }
+]

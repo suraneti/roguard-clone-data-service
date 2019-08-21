@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Eternal Spear [2]",
+        "chineseName": "永恒之枪[2]",
+        "description": "Atk + 450",
+        "effect": "Str ＋18,Max HP ＋17000"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/toy_502.png",
+        "name": "Eva",
+        "chineseName": "艾娃",
+        "description": "Evanglic Dream, or EV dolls in short, is the latest realistic spherical doll developed by Volgin, a toy company in Lighthalzen. Hope you like it!",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/toy_502.png",
+        "name": "Eva ATF Voucher",
+        "chineseName": "艾娃·ATF握手券",
+        "description": "Evanglic Dream, or EV dolls in short, is the latest realistic spherical doll developed by Volgin, a toy company in Lighthalzen. Hope you like it!",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "EVA headwear female",
+        "chineseName": "EVA女性头饰",
+        "description": "",
+        "effect": "M.Atk +20,M.Atk +4%"
+    },
+    {
+        "imgsrc": null,
+        "name": "EVA headwear male",
+        "chineseName": "EVA男性头饰",
+        "description": "",
+        "effect": "Atk +20,Atk +4%"
+    },
+    {
+        "imgsrc": null,
+        "name": "EVA Joint Event Premium",
+        "chineseName": "EVA联动特典",
+        "description": "Adventurers from land of Rune Midgard, let's pilot EVA and fight with Shito!",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Event Food Chest",
+        "chineseName": "活动限定食材礼盒",
+        "description": "An advancing T2 Practicing Pack given by Adventure Association (can used by advanced T2 players and above). Open the pack to receive JOB EXP Potion (L) x5, BASE EXP Potion (L) x5, Valkyrie's Gift x2, Belief Token x30, Gold Medal x3, Eden Coin x500.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Evil Beret",
+        "chineseName": "不良贝雷帽",
+        "description": "In the land or Rune Midgard, this hat is really popular among the high school students, but teachers are not very happy about that.",
+        "effect": "Max Sp ＋50,Sp Regen ＋5"
+    },
+    {
+        "imgsrc": null,
+        "name": "Evil Black Hat",
+        "chineseName": "邪骨黑帽",
+        "description": "The hat worn by a dubious human organization at secret assemblies.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Evil Black Hat Blueprint",
+        "chineseName": "邪骨黑帽图纸",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40609.png",
+        "name": "Evil Bone Wand [2]",
+        "chineseName": "骷髅魔杖[2]",
+        "description": "A Rod with Evil Wind.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40609.png",
+        "name": "Evil Bone Wand [3]",
+        "chineseName": "骷髅魔杖[3]",
+        "description": "A Rod with Evil Wind.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Evil Bracer",
+        "chineseName": "邪骨腕甲",
+        "description": "Evil bracers.",
+        "effect": "Flee ＋5,When casting a single target skill, the next physical attack skill has a chance to deal 100% extra damage"
+    },
+    {
+        "imgsrc": null,
+        "name": "Evil Bracer [1]",
+        "chineseName": "邪骨腕甲[1]",
+        "description": "Evil bracers.",
+        "effect": "Flee ＋5,When casting a single target skill, the next physical attack skill has a chance to deal 100% extra damage"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_3038.png",
+        "name": "Evil Chest",
+        "chineseName": "邪恶宝箱",
+        "description": "The Mimic contains stuff collected from dead adventurers. Her favorite is said to be the [Broken Blade].",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Evil Druid Card",
+        "chineseName": "暗神官卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Evil Eye",
+        "chineseName": "邪眼",
+        "description": "\"You peep at the abyss-like darkness, and the darkness is peeping you from the abyss.\"",
+        "effect": "Max HP ＋800,Ignore M.Def ＋10%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Evil Eye Blueprint",
+        "chineseName": "邪眼图纸",
+        "description": "\"You peep at the abyss-like darkness, and the darkness is peeping you from the abyss.\"",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_48556.png",
+        "name": "Evil Goblin Mask",
+        "chineseName": "邪恶的假面",
+        "description": "The mask worn by the goblin gives people a sense of malevolence.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_48556.png",
+        "name": "Evil Goblin Mask Blueprint",
+        "chineseName": "邪恶的假面图纸",
+        "description": "The mask worn by the goblin gives people a sense of malevolence.",
+        "effect": ""
+    }
+]

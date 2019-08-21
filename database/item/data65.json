@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45195.png",
+        "name": "Eden Team Turban [1] Blueprint",
+        "chineseName": "乐园团圆帽[1]图纸",
+        "description": "Hat exclusively for the Eden Team members. The design matches well with the uniform.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Egg and Bacon",
+        "chineseName": "流金四溢",
+        "description": "The golden poached eggs and bacon are really delicious! [Author: Zhou Ba]",
+        "effect": "Atk ＋20,Str ＋5"
+    },
+    {
+        "imgsrc": null,
+        "name": "Egg and Bacon Blueprint",
+        "chineseName": "流金四溢图纸",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Egg and Bacon [1]",
+        "chineseName": "流金四溢[1]",
+        "description": "",
+        "effect": "Dex ＋3,AGI ＋3"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45042.png",
+        "name": "Eggshell",
+        "chineseName": "蛋壳帽",
+        "description": "Very hard eggshell used to wear on the head as a decoration.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Eggshell Biu[1]",
+        "chineseName": "蛋壳啾啾[1]",
+        "description": "\"Biu! Biu!\" It seems to think you are its mother.",
+        "effect": "Dmg Reduc. ＋5%,Equip it to gain Eggshell's protection: Protect all the equipments from being broken."
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45042.png",
+        "name": "Eggshell Blueprint",
+        "chineseName": "蛋壳帽图纸",
+        "description": "Very hard eggshell used to wear on the head as a decoration.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45042.png",
+        "name": "Eggshell [1]",
+        "chineseName": "蛋壳帽[1]",
+        "description": "Very hard eggshell used to wear on the head as a decoration.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Eggyra Card",
+        "chineseName": "转转蛋卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Elder Card",
+        "chineseName": "邪灵魔导士卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Elder Willow Card",
+        "chineseName": "长老树精卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Elder Willow ★Card",
+        "chineseName": "长老树精★卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Elder's Fire on Head",
+        "chineseName": "邪灵魔导士头上的火",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Elder's Hammer [1]",
+        "chineseName": "艾尔德之锤[1]",
+        "description": "The top of the hammer is decorated with orb made from the teeth of seven venomous snakes, and ordinary armor is corroded whenever it is touched.",
+        "effect": "STR ＋4,For Refining ＋1, the damage of [Acid Demonstration] ＋5%, Damage of [Acid Terror] ＋2%, skill multiplier of [Improved Acid Demonstration] ＋30%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Elder's Hammer [2]",
+        "chineseName": "艾尔德之锤[2]",
+        "description": "The top of the hammer is decorated with orb made from the teeth of seven venomous snakes, and ordinary armor is corroded whenever it is touched.",
+        "effect": "STR ＋4,For Refining ＋1, the damage of [Acid Demonstration] ＋5%, Damage of [Acid Terror] ＋2%, skill multiplier of [Improved Acid Demonstration] ＋30%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_3038.png",
+        "name": "Elegant Christmas Chest",
+        "chineseName": "精致圣诞礼盒",
+        "description": "The package received by completing chest quest in Gingerbread City. Open it to find Snowman, Edelweiss and other materials, with a large probability to find normal Blueprint.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Element Alloy",
+        "chineseName": "元素合金",
+        "description": "Raw materials used for making various immunity alloy.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Element Card",
+        "chineseName": "元素晶片",
+        "description": "Falling from the waving wings of elemental elves, the light dust fell on the ordinary cards and then brought them strong affinity power. The power can be injected into the adventurer's soul through the power of Valkyrie, which will make adventurers preferred by elements.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40301.png",
+        "name": "Elemental Sword [2]",
+        "chineseName": "元素之剑[2]",
+        "description": "A magic sword with four Attributes Str. It can cause very strong damage to the enemies with Neutral Attributes.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40301.png",
+        "name": "Elemental Sword [3]",
+        "chineseName": "元素之剑[3]",
+        "description": "A magic sword with four Attributes Str. It can cause very strong damage to the enemies with Neutral Attributes.",
+        "effect": ""
+    }
+]

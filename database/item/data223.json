@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/14.png",
+        "name": "The Curved Bangs Hairstyle Photo",
+        "chineseName": "斜刘海内卷发型图",
+        "description": "Use it to change your hairstyle in the barber shop",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "The Eagle Photo",
+        "chineseName": "苍鹰之眼发型图",
+        "description": "Use it to change your hairstyle in the barber shop",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "The Evasions Photo",
+        "chineseName": "后退回避发型图",
+        "description": "Use it to change your hairstyle in the barber shop",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "The Fake Dead Photo",
+        "chineseName": "装死发型图",
+        "description": "Use it to change your hairstyle in the barber shop",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "The Fall",
+        "chineseName": "秋之恋歌发型",
+        "description": "Use this item to unlock a new adventurer's hair.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "The Fire Pilar Photo",
+        "chineseName": "火柱术发型图",
+        "description": "Use it to change your hairstyle in the barber shop",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "The Flash Photo",
+        "chineseName": "闪电冲击发型图",
+        "description": "Use it to change your hairstyle in the barber shop",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "The Frozen Photo",
+        "chineseName": "冰冻术发型图",
+        "description": "Use it to change your hairstyle in the barber shop",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "The Healer Photo",
+        "chineseName": "治愈术发型图",
+        "description": "Use it to change your hairstyle in the barber shop",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "The Memory",
+        "chineseName": "君之记忆",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "The Memory Blueprint",
+        "chineseName": "君之记忆图纸",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "The Memory [1]",
+        "chineseName": "君之记忆[1]",
+        "description": "",
+        "effect": "Dex ＋3,AGI ＋3"
+    },
+    {
+        "imgsrc": null,
+        "name": "The Monk Photo",
+        "chineseName": "冥想发型图",
+        "description": "Use it to change your hairstyle in the barber shop",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "The Monster Photo",
+        "chineseName": "怪物互击发型图",
+        "description": "Use it to change your hairstyle in the barber shop",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "The Natural Photo",
+        "chineseName": "大地之击发型图",
+        "description": "Use it to change your hairstyle in the barber shop",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "The Pioneer",
+        "chineseName": "开辟者",
+        "description": "Create a new age of your own with it.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "The Poison Photo",
+        "chineseName": "施毒发型图",
+        "description": "Use it to change your hairstyle in the barber shop",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "The Spring",
+        "chineseName": "春之恋歌发型",
+        "description": "Use this item to unlock a new adventurer's hair.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "The Strike Photo",
+        "chineseName": "雷鸣术发型图",
+        "description": "Use it to change your hairstyle in the barber shop",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "The Summer",
+        "chineseName": "夏之恋歌发型",
+        "description": "Use this item to unlock a new adventurer's hair.",
+        "effect": ""
+    }
+]

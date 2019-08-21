@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Ancient Clock Card",
+        "chineseName": "古钟魔卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Ancient coins with relics",
+        "chineseName": "遗迹古币",
+        "description": "The money with air of simplicity found in the ancient relics is so prized that many collectors collect several of them and show them off.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40703.png",
+        "name": "Ancient Dagger [2]",
+        "chineseName": "远古短剑[2]",
+        "description": "The cover is marked by the impressive words \"Study Non-Stop\". If you keep holding on and accurately perform magic in a quick move, Then your strength will be improved.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40703.png",
+        "name": "Ancient Dagger [3]",
+        "chineseName": "远古短剑[3]",
+        "description": "The cover is marked by the impressive words \"Study Non-Stop\". If you keep holding on and accurately perform magic in a quick move, Then your strength will be improved.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45152.png",
+        "name": "Ancient Gold Ornament",
+        "chineseName": "古代的金饰",
+        "description": "Gold accessories with ancient magic power. It will change according to the job and level of the user.",
+        "effect": "When equipped by Swordsman/Merchant/Rogue/Archer, Atk ＋10%,When Refining ＋10, All Attributes ＋2"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45152.png",
+        "name": "Ancient Gold Ornament [1]",
+        "chineseName": "古代的金饰[1]",
+        "description": "Gold accessories with ancient magic power. It will change according to the job and level of the user.",
+        "effect": "When equipped by Swordsman/Merchant/Rogue/Archer, Atk ＋10%,When Refining ＋10, All Attributes ＋2"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45152.png",
+        "name": "Ancient Gold Ornament [1] Blueprint",
+        "chineseName": "古代的金饰[1]图纸",
+        "description": "Gold accessories with ancient magic power. It will change according to the job and level of the user.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Ancient Magic Card Album",
+        "chineseName": "远古魔力卡册",
+        "description": "Old Magic Card Collection. Use it and you will get a card that has not been lit up in the Adventure Handbook Card Collection (The adventurers who light up all the cards will get a card of Blue Quality randomly)",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_50001.png",
+        "name": "Ancient Scroll",
+        "chineseName": "古代卷轴",
+        "description": "？？？",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/14.png",
+        "name": "Ancient Scroll",
+        "chineseName": "古老的卷轴",
+        "description": "An shabby sheepskin scroll full of vicissitudes of life, from its appearance you cannot see its effect, but it is the inheritance of the ancient House Lemia. With this scroll, you can go to find Lemia Holt to get a precious weapon appearance.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Ancient Tower Golden Ejector",
+        "chineseName": "古塔·金质弹射器I",
+        "description": "Uses it to immediately clear floor 1 to 10 of Endless Tower that are not yet cleared and receive the reward of [upgraded Tower Lab Ejector only available to adventurers who have explored the Endless Tower before]",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Ancient Tower Golden Ejector II",
+        "chineseName": "古塔·金质弹射器Ⅱ",
+        "description": "Uses it to immediately clear floor 11 to 20 of Endless Tower that are not yet cleared and receive the reward of [upgraded Tower Lab Ejector only available to adventurers who have explored the Endless Tower before]",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Ancient Tower Golden Ejector III",
+        "chineseName": "古塔·金质弹射器Ⅲ",
+        "description": "Uses it to immediately clear floor 21 to 30 of Endless Tower that are not yet cleared and receive the reward of [upgraded Tower Lab Ejector only available to adventurers who have explored the Endless Tower before]",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Ancient Tower Golden Ejector IV",
+        "chineseName": "古塔·金质弹射器Ⅳ",
+        "description": "Uses it to immediately clear floor 31 to 40 of Endless Tower that are not yet cleared and receive the reward of [upgraded Tower Lab Ejector only available to adventurers who have explored the Endless Tower before]",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Ancient Tower Golden Ejector IX",
+        "chineseName": "古塔·金质弹射器Ⅸ",
+        "description": "Uses it to immediately clear floor 81 to 90 of Endless Tower that are not yet cleared and receive the reward of [upgraded Tower Lab Ejector only available to adventurers who have explored the Endless Tower before]",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Ancient Tower Golden Ejector V",
+        "chineseName": "古塔·金质弹射器Ⅴ",
+        "description": "Uses it to immediately clear floor 41 to 50 of Endless Tower that are not yet cleared and receive the reward of [upgraded Tower Lab Ejector only available to adventurers who have explored the Endless Tower before]",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Ancient Tower Golden Ejector VI",
+        "chineseName": "古塔·金质弹射器Ⅵ",
+        "description": "Uses it to immediately clear floor 51 to 60 of Endless Tower that are not yet cleared and receive the reward of [upgraded Tower Lab Ejector only available to adventurers who have explored the Endless Tower before]",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Ancient Tower Golden Ejector VII",
+        "chineseName": "古塔·金质弹射器Ⅶ",
+        "description": "Uses it to immediately clear floor 61 to 70 of Endless Tower that are not yet cleared and receive the reward of [upgraded Tower Lab Ejector only available to adventurers who have explored the Endless Tower before]",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Ancient Tower Golden Ejector VIII",
+        "chineseName": "古塔·金质弹射器Ⅷ",
+        "description": "Uses it to immediately clear floor 71 to 80 of Endless Tower that are not yet cleared and receive the reward of [upgraded Tower Lab Ejector only available to adventurers who have explored the Endless Tower before]",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Ancient Tower Golden Ejector X",
+        "chineseName": "古塔·金质弹射器Ⅹ",
+        "description": "Uses it to immediately clear floor 91 to 100 of Endless Tower that are not yet cleared and receive the reward of [upgraded Tower Lab Ejector only available to adventurers who have explored the Endless Tower before]",
+        "effect": ""
+    }
+]

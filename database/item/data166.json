@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Payon Artifact token",
+        "chineseName": "斐扬神器币",
+        "description": "Reward for the Guardians of Payon 1, use to redeem Artifact shards of Bow and Knuckles",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_111.png",
+        "name": "Payon's Chest",
+        "chineseName": "斐扬冒险箱",
+        "description": "Open the box, you will certainly receive some Colorful Shell, with a probability to receive Pearl, Soft Feather, Orc Claw, Bloody Rune, Bell, Mercury, Amethyst, Pet EXP Potion (S), Pet EXP Potion (M), Pet EXP Potion (L), etc.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_4001.png",
+        "name": "Payon's Memory",
+        "chineseName": "斐扬的回忆",
+        "description": "A wizard music record. With it, You can order songs in the music box spot newly designed by Kafra. [Listening to the flying time and the growth of a tree, I gradually fell asleep. I often dream of grandma, Her face... I miss her so much...]",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Peace Maker",
+        "chineseName": "和平使者",
+        "description": "Elf Elder Decurry's shield. Legend has it that Decurry was a peace-loving elder, and anyone who fought with him would be influenced by his love for peace. But there is another legend that Decurry's shield had the blessing of the God of Nature. As long as he held up the shield, No attack could harm him, so he was fearless. This shield is also called Peace Maker by the elves. (Recommended to use it as a weapon appearance.)",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Peachy Poring Card",
+        "chineseName": "桃之夭波利卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Peak Shard",
+        "chineseName": "巅峰碎片",
+        "description": "It's said that Alice Fona in the Guild territory is collecting this item. Handing this to Alice will do good to your job.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_52309.png",
+        "name": "Pearl",
+        "chineseName": "珍珠",
+        "description": "Pink Glowing Gem. Being a very rare item, it can be used to make high-end headwear.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45030.png",
+        "name": "Peco Ears [1]",
+        "chineseName": "大嘴鸟的翅膀[1]",
+        "description": "Peco Peco Hairband.",
+        "effect": "Def ＋5,M.Def ＋10"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Peco Peco Card",
+        "chineseName": "大嘴鸟卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Peco Peco Egg Card",
+        "chineseName": "大嘴鸟蛋卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45030.png",
+        "name": "Peco Peco Hairband",
+        "chineseName": "大嘴鸟的翅膀",
+        "description": "Peco Peco Hairband.",
+        "effect": "Def ＋5,M.Def ＋10"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45030.png",
+        "name": "Peco Peco Hairband Blueprint",
+        "chineseName": "大嘴鸟的翅膀图纸",
+        "description": "Peco Peco Hairband.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Pegasus Wing Ears",
+        "chineseName": "天马羽翼耳饰",
+        "description": "Accessory made of Pegasus Wing feathers of Valkyrie Randgris. The wearer will become lighter according to the ability.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Pegasus Wing Ears [1]",
+        "chineseName": "天马羽翼耳饰[1]",
+        "description": "Accessory made of Pegasus Wing feathers of Valkyrie Randgris. The wearer will become lighter according to the ability.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Pegasus Wing Ears [1] Blueprint",
+        "chineseName": "天马羽翼耳饰[1]图纸",
+        "description": "Accessory made of Pegasus Wing feathers of Valkyrie Randgris. The wearer will become lighter according to the ability.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Penomena Card",
+        "chineseName": "梅纳海葵卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_47008.png",
+        "name": "Perm Demon",
+        "chineseName": "小恶魔气球",
+        "description": "The balloon made by the Devil Soul. With it, the wearer can get terribly powerful, but the mind will be gradually eroded.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Pet Apron",
+        "chineseName": "宠物围裙",
+        "description": "A skirt maded of sea grass. It's dancing in an incredible rhythm.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Pet Apron Blueprint",
+        "chineseName": "宠物围裙图纸",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_111.png",
+        "name": "Pet Association random item pack",
+        "chineseName": "宠物协会随机道具包",
+        "description": "",
+        "effect": ""
+    }
+]

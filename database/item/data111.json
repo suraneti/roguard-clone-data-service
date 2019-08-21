@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45171.png",
+        "name": "Hyegun Hat [1] Blueprint",
+        "chineseName": "妖君帽[1]图纸",
+        "description": "Monster Hyegun's hat. Broken but with strong Def.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40601.png",
+        "name": "Hypnotist's Staff [2]",
+        "chineseName": "催眠师的魔杖[2]",
+        "description": "Hypnotist's Staff can make the beginner feel like being a senior Mage.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40601.png",
+        "name": "Hypnotist's Staff [3]",
+        "chineseName": "催眠师的魔杖[3]",
+        "description": "Hypnotist's Staff can make the beginner feel like being a senior Mage.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_4001.png",
+        "name": "I Miss You",
+        "chineseName": "我想念你",
+        "description": "A wizard music record. With it, You can order songs in the music box spot newly designed by Kafra. [My mother told me before the trip that humming this song would remind me of my hometown and my family. Now this yearning still echoes in the melody.]",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "I'm Late!",
+        "chineseName": "要迟到啦！",
+        "description": "It can be a spell, a war song, a final judgment of the holy supreme heaven, and a prelude to the beautiful world. After 24.07 seconds of thinking, you decided to get up and wear the uniform just washed by your mother, with the smell of sunshine still lingering on it.",
+        "effect": "Flee ＋5,Move Spd ＋3%"
+    },
+    {
+        "imgsrc": null,
+        "name": "I'm Late! [1]",
+        "chineseName": "要迟到啦！[1]",
+        "description": "It can be a spell, a war song, a final judgment of the holy supreme heaven, and a prelude to the beautiful world. After 24.07 seconds of thinking, you decided to get up and wear the uniform just washed by your mother, with the smell of sunshine still lingering on it.",
+        "effect": "Flee ＋5,Move Spd ＋3%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_500000.png",
+        "name": "I-like-you",
+        "chineseName": "我中意你",
+        "description": "Use it on a player to creat a hot link of love between you and them. (If your target responds, Then. . . )",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Ice Apple",
+        "chineseName": "冰苹果",
+        "description": "",
+        "effect": "Dex ＋3,AGI ＋3"
+    },
+    {
+        "imgsrc": null,
+        "name": "Ice Apple [1]",
+        "chineseName": "冰苹果[1]",
+        "description": "",
+        "effect": "Dex ＋3,Ranged Dmg ＋3%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Ice Apple [1] Blueprint",
+        "chineseName": "冰苹果[1]图纸",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Ice Black Tea",
+        "chineseName": "冰爽红茶",
+        "description": "Add heart-shaped ice cubes in the hot black tea to cool the drink, making it the best refreshing drink for summer. Drinking it restores 10% of Max HP, the recovery value is according to the actual HP in GVG.This item can only be used in the PVP maps.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Ice Controlling Alloy",
+        "chineseName": "寒冰掌控合金",
+        "description": "Increases water M.Dmg/Dmg by 15% for 6 min. Becomes immune to 1 of the 4 immune alloys for 10 min: Fire/Ice/Hurricane/Earth. Cannot work with 4 mastery alloys.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12.png",
+        "name": "Ice Cream",
+        "chineseName": "冰淇淋",
+        "description": "Ice cream with great taste. It helps restore 105-145 points of HP, and bring a chance to freeze yourself.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Ice Cube",
+        "chineseName": "冰块之角",
+        "description": "The corner of the ice cubic. It's strange that it won't melt, but you can sell it. What a mysterious corner of the ice.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Ice Green Tea",
+        "chineseName": "冰爽绿茶",
+        "description": "Add star-shaped ice cubes to the warm green tea. The bitter taste is diluted by the ice, Leaving only a refreshing sense of coolness. This drink helps restore 10% of Max SP, and can only be used on PVP maps.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Ice Immunity Alloy",
+        "chineseName": "寒冰免疫合金",
+        "description": "Immune to all Water Damage for 1 min. Becomes immune to 1 of the 4 immune alloys for 5 min: Fire/Ice/Hurricane/Earth.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Ice Mastery Alloy",
+        "chineseName": "寒冰精通合金",
+        "description": "Increases water M.Dmg/Dmg by 5% for 30 min. Cannot work with Fire/Hurricane/Earth Mastery Alloy. Cannot work with 4 mastery alloys.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Ice Penguin",
+        "chineseName": "冰镇企鹅",
+        "description": "This weather is just terrible! The penguin jumps on the next person's head and tries to get some coolness from them. [Designed by Sun Lee](Thank you for your purchase. This pretty adornment cannot be traded in the Exchange until the event is over~ From Ina, August, 2017)",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Ice Pick [1]",
+        "chineseName": "破甲短锥[1]",
+        "description": "The mobster has been in trouble lately because other professional adventurers always misunderstand that they are fighting with screwdrivers",
+        "effect": "Max HP ＋300,For Refining ＋5, ＋10, ＋15, the basic trigger probability of [Strip Accessory] and [Strip Shield] ＋5%, ＋5%, 10% respectively"
+    },
+    {
+        "imgsrc": null,
+        "name": "Ice Pick [2]",
+        "chineseName": "破甲短锥[2]",
+        "description": "The mobster has been in trouble lately because other professional adventurers always misunderstand that they are fighting with screwdrivers",
+        "effect": "Max HP ＋300,For Refining ＋5, ＋10, ＋15, the basic trigger probability of [Strip Accessory] and [Strip Shield] ＋5%, ＋5%, 10% respectively"
+    }
+]

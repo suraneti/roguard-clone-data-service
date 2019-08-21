@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Onion Chips",
+        "chineseName": "洋葱味仙境薯片",
+        "description": "Delicious snacks from the other world. DEX ＋ 10, LongRange Dam ＋20%, For 30 min. (The effect cannot be stacked with Dex food)",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Oracle Crystal",
+        "chineseName": "神谕之晶",
+        "description": "Used in Headwear enchantment",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Oracle Crystal Pack",
+        "chineseName": "神谕之晶礼包",
+        "description": "Open to gain 8x Oracle Crystal",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Oracle Dust",
+        "chineseName": "神谕之尘",
+        "description": "Used in Headwear enchantment",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_3635.png",
+        "name": "Oracle Lucky Bag",
+        "chineseName": "神谕福袋",
+        "description": "Cute Bear’s Oracle lucky bag. Open to gain 8-16 Oracle Dusts, 3-7 Oracle Crystals with a chance to gain purple Headwear [Cute Bear].",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12324.png",
+        "name": "Orange",
+        "chineseName": "橙子",
+        "description": "The scarlet round fruit has a sweet taste and can be eaten directly or made into a drink. It can restore 40-98 points of HP and 35-70 points of SP.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_700004.png",
+        "name": "Orange Dream Juice",
+        "chineseName": "橙色梦幻果汁",
+        "description": "Fascinating red candy that brings new year's blessing! The new year should be happy now. (Restores 20% of your SP)",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12002.png",
+        "name": "Orange Potion",
+        "chineseName": "赤色药水",
+        "description": "Potion made from crushed red herbs and yellow herbs. Use it to restore 150-180 points of HP.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Orb Doll Hat",
+        "chineseName": "趴趴欧布",
+        "description": "The Orb Ultraman lying on head. Facing the evil, you should dare to say, \"No!\"",
+        "effect": "Base EXP of killing monsters ＋4%,Job EXP of killing monsters ＋4%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Orb Doll Hat Blueprint",
+        "chineseName": "趴趴欧布图纸",
+        "description": "The Orb Ultraman lying on head. Facing the evil, you should dare to say, \"No!\"",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Orb Doll Hat [1]",
+        "chineseName": "趴趴欧布[1]",
+        "description": "The Orb Ultraman lying on head. Facing the evil, you should dare to say, \"No!\"",
+        "effect": "Base EXP of killing monsters ＋4%,Job EXP of killing monsters ＋4%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Orc Archer Card",
+        "chineseName": "兽人弓箭手卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Orc Baby Card",
+        "chineseName": "兽人婴儿卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_52308.png",
+        "name": "Orc Claw",
+        "chineseName": "兽人指甲",
+        "description": "Sharp Orc Claws. Being a very rare item, it can be used to make high-end headwear.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45049.png",
+        "name": "Orc Helm",
+        "chineseName": "兽人头盔",
+        "description": "Orc's helmet. The style of the Orc's headwear is quite primitive.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45049.png",
+        "name": "Orc Helm Blueprint",
+        "chineseName": "兽人头盔图纸",
+        "description": "Orc's helmet. The style of the Orc's headwear is quite primitive.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45049.png",
+        "name": "Orc Helm [1]",
+        "chineseName": "兽人头盔[1]",
+        "description": "Orc's helmet. The style of the Orc's headwear is quite primitive.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Orc Hero Card",
+        "chineseName": "兽人英雄卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Orc Hero's Mask",
+        "chineseName": "兽人英雄的脸具",
+        "description": "Orc Hero's Mask",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Orc Hero's Shield",
+        "chineseName": "兽人英雄之盾",
+        "description": "People judge the masks worn by of the goblin people.",
+        "effect": ""
+    }
+]

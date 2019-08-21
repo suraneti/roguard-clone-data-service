@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Splendida helm",
+        "chineseName": "辉光号头盔",
+        "description": "Matching helm for the Splendida, wearing it to complete the Splendida set!",
+        "effect": "Max HP ＋200,M.Def ＋5"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Spore Card",
+        "chineseName": "魔菇卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12345.png",
+        "name": "Spore Doll",
+        "chineseName": "魔菇娃娃",
+        "description": "A doll designed liked the spore in moist areas. It permanently increases the character's M.Def by 25 points and cannot be traded.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Spore Hat",
+        "chineseName": "魔菇帽",
+        "description": "Highly recommenced hat if someone wants to become a spore monster. It will turn you into a spore once you wear it!",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Spore Hat [1]",
+        "chineseName": "魔菇帽[1]",
+        "description": "Highly recommenced hat if someone wants to become a spore monster. It will turn you into a spore once you wear it!",
+        "effect": "Def ＋20,Poison Dmg Taken -25%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Spore Hat [1] Blueprint",
+        "chineseName": "魔菇帽[1]图纸",
+        "description": "Highly recommenced hat if someone wants to become a spore monster. It will turn you into a spore once you wear it!",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Spring",
+        "chineseName": "永动发条",
+        "description": "The cold moon looks like a silver emblem hanging in the silentium sky. The stopped clothes function again. With a metal plate in her hand, the girl found a haven and protector from the world that pushed her out. -----------[Kafra Fairy Tale·Volume 4, Chapter 37: The Big Clock and The Girl]",
+        "effect": "Max HP ＋500,INT ＋5"
+    },
+    {
+        "imgsrc": null,
+        "name": "Spring Blueprint",
+        "chineseName": "永动发条图纸",
+        "description": "The cold moon looks like a silver emblem hanging in the silentium sky. The stopped clothes function again. With a metal plate in her hand, the girl found a haven and protector from the world that pushed her out. -----------[Kafra Fairy Tale·Volume 4, Chapter 37: The Big Clock and The Girl]",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Spring Campus Gashapon",
+        "chineseName": "春之校园扭蛋",
+        "description": "A Gashapon toy to express personal feelings, open it to randomly receive one headwear April 2018 [Spring Campus Song] series.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Spring Celebration Card",
+        "chineseName": "春日庆典卡片",
+        "description": "Puff! Puff! Enjoy the Goblin Kingdom celebrations!",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Spring Celebration Giftbox",
+        "chineseName": "春日庆典礼盒",
+        "description": "A small Spring Celebration gift, given with the sincere blessings of the Goblins.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Spring Fantasy Headwear",
+        "chineseName": "昭愿系列头饰",
+        "description": "",
+        "effect": "All Attributes ＋2,Ignore Def ＋6%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Spring Fantasy·Flame",
+        "chineseName": "昭愿·炎",
+        "description": "A warm and lovely beanie with a piglet on it. “ Ooink, let me brings you happiness!” This one has the passionate red.",
+        "effect": "All Attributes ＋2,Ignore Def ＋6%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Spring Fantasy·Glacier",
+        "chineseName": "昭愿·川",
+        "description": "A warm and lovely beanie with a piglet on it. “ Ooink, let me brings you happiness!” This one has the peaceful blue.",
+        "effect": "All Attributes ＋2,Ignore Def ＋6%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Spring Fantasy·Purple",
+        "chineseName": "昭愿·夕",
+        "description": "A warm and lovely beanie with a piglet on it. “ Ooink, let me brings you happiness!” This one has the mysterious purple.",
+        "effect": "All Attributes ＋2,Ignore Def ＋6%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Spring Fantasy·Tea",
+        "chineseName": "昭愿·茶",
+        "description": "A warm and lovely beanie with a piglet on it. “ Ooink, let me brings you happiness!” This one has the gentle green.",
+        "effect": "All Attributes ＋2,Ignore Def ＋6%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Spring Festival Fashion Chest",
+        "chineseName": "福蕴绵绵礼盒",
+        "description": "A string and a pillar, a dream and a past. Fortune surrounds you, telling of the divine elegance of the wearer.  ",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Spring Festival Headwear - Female 1",
+        "chineseName": "春节活动头饰-女1",
+        "description": "",
+        "effect": "All Attributes ＋1,Dmg to Demi-Human ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Spring Festival Headwear - Female 2",
+        "chineseName": "春节活动头饰-女2",
+        "description": "",
+        "effect": "All Attributes ＋1,Dmg to Demi-Human ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Spring Festival Headwear - Female 3",
+        "chineseName": "春节活动头饰-女3",
+        "description": "",
+        "effect": "All Attributes ＋1,Dmg to Demi-Human ＋5%"
+    }
+]

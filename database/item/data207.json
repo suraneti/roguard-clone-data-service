@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Spring Festival Headwear - Female 4",
+        "chineseName": "春节活动头饰-女4",
+        "description": "",
+        "effect": "All Attributes ＋1,Dmg to Demi-Human ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Spring Mora Chest",
+        "chineseName": "春意莫拉礼盒",
+        "description": "Meow~ This is a new year present from Master Cat Friend! Open this chest of his goodwill to see what's inside! ",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Spring [1]",
+        "chineseName": "永动发条[1]",
+        "description": "",
+        "effect": "Max HP ＋500,INT ＋5"
+    },
+    {
+        "imgsrc": null,
+        "name": "Sprint Goblin Blueprints",
+        "chineseName": "冲刺哥布灵图纸",
+        "description": "Speed, passion, and intensity! If you're not sprinting, you're not going fast enough! The light of spring covers the earth... The adventures of the Goblins never end!",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43529.png",
+        "name": "Sprint Shoes",
+        "chineseName": "奔跑长靴",
+        "description": "Light boots that allow you to run fast, tied with rope and firmly fastened to your legs.",
+        "effect": "Move Spd ＋10%,Can use [Charge] Lv.1"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43529.png",
+        "name": "Sprint Shoes [1]",
+        "chineseName": "奔跑长靴[1]",
+        "description": "Light boots that allow you to run fast, tied with rope and firmly fastened to your legs.",
+        "effect": "Move Spd ＋10%,Can use [Charge] Lv.1"
+    },
+    {
+        "imgsrc": null,
+        "name": "Sputum of Bird",
+        "chineseName": "鸟的口水",
+        "description": "Bird saliva collected in a long bottle.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40603.png",
+        "name": "Staff",
+        "chineseName": "智慧魔杖",
+        "description": "A magic Rod.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40601.png",
+        "name": "Staff Of Bordeaux [2]",
+        "chineseName": "波尔多之杖[2]",
+        "description": "A stick as short as a Staff. It is inlaid with the jewels containing Order Str.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40601.png",
+        "name": "Staff Of Bordeaux [3]",
+        "chineseName": "波尔多之杖[3]",
+        "description": "A stick as short as a Staff. It is inlaid with the jewels containing Order Str.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40601.png",
+        "name": "Staff of Destruction [2]",
+        "chineseName": "毁灭之杖[2]",
+        "description": "The two-handed rod seems to be able to destroy all things. The better the stick, the stronger its explosive power. The user must sacrifice part of his mental strength.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40601.png",
+        "name": "Staff of Destruction [3]",
+        "chineseName": "毁灭之杖[3]",
+        "description": "The two-handed rod seems to be able to destroy all things. The better the stick, the stronger its explosive power. The user must sacrifice part of his mental strength.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40616.png",
+        "name": "Staff of Element Fusion [1]",
+        "chineseName": "元素融合之杖[1]",
+        "description": "The gem at the top of the staff miraculously stores the Str of various elemental magic.",
+        "effect": "Dex ＋5,For Refining ＋8, ＋10, Damage ＋30%, ＋40% respectively (ranged skills include: [Storm Gust], [Lord of Vermilion], [Sightrasher], [Heaven's Drive], Etc.)"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40616.png",
+        "name": "Staff of Element Fusion [2]",
+        "chineseName": "元素融合之杖[2]",
+        "description": "The gem at the top of the staff miraculously stores the Str of various elemental magic.",
+        "effect": "Dex ＋5,For Refining ＋8, ＋10, Damage ＋30%, ＋40% respectively (ranged skills include: [Storm Gust], [Lord of Vermilion], [Sightrasher], [Heaven's Drive], Etc.)"
+    },
+    {
+        "imgsrc": null,
+        "name": "Staff of Mana Storm  [1]",
+        "chineseName": "法力风暴之杖[1]",
+        "description": "A special wand that can only be driven by person who has a great magic can turn the users' magic into power .Mastering it is a required course to become a warlock. \"in the face of my magic storm, the enemy will wither like a fallen leaf. Reyen",
+        "effect": "INT ＋5,Every magic skill attack has a 15% chance to gain ＋10% M.Dmg Bonus for 10s"
+    },
+    {
+        "imgsrc": null,
+        "name": "Staff of Mana Storm  [2]",
+        "chineseName": "法力风暴之杖[2]",
+        "description": "A special wand that can only be driven by person who has a great magic can turn the users' magic into power .Mastering it is a required course to become a warlock. \"in the face of my magic storm, the enemy will wither like a fallen leaf. Reyen",
+        "effect": "INT ＋5,Every magic skill attack has a 15% chance to gain ＋10% M.Dmg Bonus for 10s"
+    },
+    {
+        "imgsrc": null,
+        "name": "Staff of Wing [1]",
+        "chineseName": "羽翼权杖[1]",
+        "description": "The orb at the top of the Mace is made from Vanilmirth's favorite food, so using it can excite them.",
+        "effect": "INT ＋6,For refining increases by ＋1, the skill multiplier of Vanilmirth's [Caprice] ＋35%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Staff of Wing [2]",
+        "chineseName": "羽翼权杖[2]",
+        "description": "The orb at the top of the Mace is made from Vanilmirth's favorite food, so using it can excite them.",
+        "effect": "INT ＋6,For refining increases by ＋1, the skill multiplier of Vanilmirth's [Caprice] ＋35%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40603.png",
+        "name": "Staff [2]",
+        "chineseName": "智慧魔杖[2]",
+        "description": "A magic Rod.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Star Back Headwear Shard",
+        "chineseName": "星辰背饰残片",
+        "description": "Shard of the legendary artifact: Star God Back Headwear.  A shard left on the battleground of gods. Collect materials and shards and go to Miss Futraca to restore it to its former glory!",
+        "effect": ""
+    }
+]

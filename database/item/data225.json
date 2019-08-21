@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Thorny Buckler [2]",
+        "chineseName": "刺盾[2]",
+        "description": "A stinging shield that looks a bit heavy. It stabs enemies who initiate attack.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Through-War Shoes",
+        "chineseName": "历战长靴",
+        "description": "Durable boots even for a brutal war.",
+        "effect": "Move Spd ＋8%,When Refining ＋5, ＋10, ＋15, Max HP ＋300, VIT ＋3, Max HP ＋5% respectively"
+    },
+    {
+        "imgsrc": null,
+        "name": "Through-War Shoes [1]",
+        "chineseName": "历战长靴[1]",
+        "description": "Durable boots even for a brutal war.",
+        "effect": "Move Spd ＋8%,When Refining ＋5, ＋10, ＋15, Max HP ＋300, VIT ＋3, Max HP ＋5% respectively"
+    },
+    {
+        "imgsrc": null,
+        "name": "Thunder Oni's evil horn",
+        "chineseName": "邪角·雷鬼",
+        "description": "Headwear with the shape of foreign thunder god, wear it and feel the wildness! Go easy on the opposite gender! But advised to not wear it during Thunderstorm.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45020.png",
+        "name": "Thunderstorm Cloud",
+        "chineseName": "霹雳雷云",
+        "description": "Be careful not to be hit by the thunder dropped from the black cloud.",
+        "effect": "Int ＋2,For Refining ＋1, Damage to wind monsters ＋1% (up to ＋15%)"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45020.png",
+        "name": "Thunderstorm Cloud Blueprint",
+        "chineseName": "霹雳雷云图纸",
+        "description": "Be careful not to be hit by the thunder dropped from the black cloud.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45020.png",
+        "name": "Thunderstorm Cloud [1]",
+        "chineseName": "霹雳雷云[1]",
+        "description": "Be careful not to be hit by the thunder dropped from the black cloud.",
+        "effect": "Int ＋2,For Refining ＋1, Damage to wind monsters ＋1% (up to ＋15%)"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45028.png",
+        "name": "Tiara",
+        "chineseName": "后冠",
+        "description": "Female accessories with diamonds. Casting spells will make the head much more sober.",
+        "effect": "Int ＋3,For Refining ＋1, damage to earth monsters ＋1% (up to ＋15%)"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45028.png",
+        "name": "Tiara [1]",
+        "chineseName": "后冠[1]",
+        "description": "Female accessories with diamonds. Casting spells will make the head much more sober.",
+        "effect": "Int ＋3,For Refining ＋1, damage to earth monsters ＋1% (up to ＋15%)"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45028.png",
+        "name": "Tiara [1] Blueprint",
+        "chineseName": "后冠[1]图纸",
+        "description": "Female accessories with diamonds. Casting spells will make the head much more sober.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/22.png",
+        "name": "Ticket of Ferris Wheel",
+        "chineseName": "摩天轮门票",
+        "description": "With this ticket you can visit the dream Ferris wheel in Geffen. An item preferred by couples in love. (can only invite the opposite sex.)",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/toy_506.png",
+        "name": "Tickle Bar",
+        "chineseName": "痒痒棒",
+        "description": "Freeze! Stop running! (Use it on another player to halt their current action and make them laugh with you. )",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43525.png",
+        "name": "Tidal Shoes",
+        "chineseName": "防水靴",
+        "description": "The best boots to walk on smooth ice or wet roads. Special waterproof treatment for sole",
+        "effect": "Move Spd ＋5%,[Tidal Shoes VI] ＋[Silk Robe VI]: Has a 10% chance to turn the target into Water target for 10 seconds during auto attacks"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43525.png",
+        "name": "Tidal Shoes [1]",
+        "chineseName": "防水靴[1]",
+        "description": "The best boots to walk on smooth ice or wet roads. Special waterproof treatment for sole",
+        "effect": "Move Spd ＋5%,[Tidal Shoes VI] ＋[Silk Robe VI]: Has a 10% chance to turn the target into Water target for 10 seconds during auto attacks"
+    },
+    {
+        "imgsrc": null,
+        "name": "Tiga Doll Hat",
+        "chineseName": "趴趴迪迦",
+        "description": "Ultraman Tiga, lying on his head, will frighten the monster",
+        "effect": "M.Atk ＋20,CT Variable -5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Tiga Doll Hat [1]",
+        "chineseName": "趴趴迪迦[1]",
+        "description": "Ultraman Tiga, lying on his head, will frighten the monster",
+        "effect": "M.Atk ＋20,CT Variable -5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Tiger head hat",
+        "chineseName": "虎头帽",
+        "description": "Granny's handmade hat. Everybody wore these when they were kids, it means hope and bless.",
+        "effect": "Atk ＋15,Ignore Def ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Tiger Mask",
+        "chineseName": "老虎面具",
+        "description": "Rumor has it that if innocent people wear this mask, they can also become soldiers.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Tiger Mask Blueprint",
+        "chineseName": "老虎面具图纸",
+        "description": "Rumor has it that if innocent people wear this mask, they can also become soldiers.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42016.png",
+        "name": "Tights",
+        "chineseName": "紧身便衣",
+        "description": "The suitable clothes to make you easier to move.",
+        "effect": "Dex ＋2,Atk ＋4%"
+    }
+]

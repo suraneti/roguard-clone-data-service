@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Attack Team Helmet",
+        "chineseName": "队员服头盔",
+        "description": "Each member of special teams was selected from among thousands of people to fight with the strange phenomena and monsters.",
+        "effect": "Atk ＋20,Neutral Dmg ＋6%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Auction Hammer",
+        "chineseName": "拍卖锤子",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Aug. 2017 Premium",
+        "chineseName": "2017.8月限定特典",
+        "description": "\"Hot summer! Beach! Bikini! Kafra! Service! Oh! HEREIS THE PARADISE?!! \" To appreciate the adventurers who have been supporting us for a long time, the famous Kafra Company specially launched a special small card in the form of a monthly magazine. Hold it and you will feel its magical power. It's practical and highly collectible.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Aug. 2018 Premium",
+        "chineseName": "2018.8月限定特典",
+        "description": "\"I still remember the night when he pointed out Altair and Vega for me ~~Well, where is Altair at now? ? \"To appreciate the adventurers who have been supporting us for a long time, the famous Kafra Company specially launched a special small card in the form of a monthly magazine. Hold it and you will feel its magical power. It's practical and highly collectible.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_3610.png",
+        "name": "Autumn Backpack Class C",
+        "chineseName": "C级秋日背包",
+        "description": "The exquisite backpack prepared for adventurers who returned back. Anyone who sees this backpack can't help but want to go on an adventure trip!",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_3610.png",
+        "name": "Autumn Backpack Class D",
+        "chineseName": "D级秋日背包",
+        "description": "The exquisite backpack prepared for adventurers who returned back. Anyone who sees this backpack can't help but want to go on an adventure trip!",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_3610.png",
+        "name": "Autumn Backpack Class E",
+        "chineseName": "E级秋日背包",
+        "description": "The exquisite backpack prepared for adventurers who returned back. Anyone who sees this backpack can't help but want to go on an adventure trip!",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_3610.png",
+        "name": "Autumn Backpack Class F",
+        "chineseName": "F级秋日背包",
+        "description": "The exquisite backpack prepared for adventurers who returned back. Anyone who sees this backpack can't help but want to go on an adventure trip!",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_3605.png",
+        "name": "Autumn Imprint",
+        "chineseName": "秋日印记",
+        "description": "A blessing from autumn: [Welcomes Adventurers Home]",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12026.png",
+        "name": "Awakening Potion",
+        "chineseName": "觉醒药水",
+        "description": "With an effect on awakening, the potion is a mysterious medicine to increase Attack Spd.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41801.png",
+        "name": "Axe",
+        "chineseName": "斧",
+        "description": "An axe easy to use.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41801.png",
+        "name": "Axe [2]",
+        "chineseName": "斧[2]",
+        "description": "An axe easy to use.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45129.png",
+        "name": "Ayam",
+        "chineseName": "额掩",
+        "description": "Woman's hat made of red silk. The ribbons and chains look very beautiful as accessories.",
+        "effect": "INT ＋2,SP Regen ＋5%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45129.png",
+        "name": "Ayam [1]",
+        "chineseName": "额掩[1]",
+        "description": "Woman's hat made of red silk. The ribbons and chains look very beautiful as accessories.",
+        "effect": "INT ＋2,SP Regen ＋5%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45129.png",
+        "name": "Ayam [1] Blueprint",
+        "chineseName": "额掩[1]图纸",
+        "description": "Woman's hat made of red silk. The ribbons and chains look very beautiful as accessories.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40703.png",
+        "name": "Azoth [2]",
+        "chineseName": "变形短剑[2]",
+        "description": "The legendary Knives made by the ancient alchemy.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40703.png",
+        "name": "Azoth [3]",
+        "chineseName": "变形短剑[3]",
+        "description": "The legendary Knives made by the ancient alchemy.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Baby Desert Wolf Card",
+        "chineseName": "沙漠幼狼卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Baby Dragon Hat",
+        "chineseName": "趴趴飞龙",
+        "description": "Doll made according to the look of monster Sky Petite.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Baby Dragon Hat Blueprint",
+        "chineseName": "趴趴飞龙图纸",
+        "description": "Doll made according to the look of monster Sky Petite.",
+        "effect": ""
+    }
+]

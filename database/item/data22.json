@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Beach Melon",
+        "chineseName": "沙滩西瓜",
+        "description": "A little to the left, a little more to the right, okay, there it is! If you want to run around with watermelon on the beach, be careful not to be knocked on your ass by the blindfolded man who wants to eat watermelon!",
+        "effect": "MAX HP＋500,MDmg Reduc.＋2%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45201.png",
+        "name": "Beast Headwear [1]",
+        "chineseName": "恶兽头冠[1]",
+        "description": "Lifelike headdress made of Year that appears only in Spring Festival.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45201.png",
+        "name": "Beast Headwear [1] Blueprint",
+        "chineseName": "恶兽头冠[1]图纸",
+        "description": "Lifelike headdress made of Year that appears only in Spring Festival.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Beast Heart",
+        "chineseName": "野兽之心",
+        "description": "Wearing it seems to make you as sharp and strong as a beast.",
+        "effect": "Agi ＋4,[Flamberge X] ＋ [Advanced Sack Teddy Shoes IV] ＋ [Undershirt VIII] ＋ [Beast Heart VIII]: ＋3% Atk, ＋3% Crit.Dmg, ＋5% Atk SPD, ＋10% Max HP"
+    },
+    {
+        "imgsrc": null,
+        "name": "Beast Heart [1]",
+        "chineseName": "野兽之心[1]",
+        "description": "Wearing it seems to make you as sharp and strong as a beast.",
+        "effect": "Agi ＋4,[Flamberge X] ＋ [Advanced Sack Teddy Shoes IV] ＋ [Undershirt VIII] ＋ [Beast Heart VIII]: ＋3% Atk, ＋3% Crit.Dmg, ＋5% Atk SPD, ＋10% Max HP"
+    },
+    {
+        "imgsrc": null,
+        "name": "Beast Scale",
+        "chineseName": "恶兽鳞片",
+        "description": "The strange scales falling from Year Beast. It's said that five pieces can be used to to summon junior beast.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Beast Stomach",
+        "chineseName": "恶兽腔膛",
+        "description": "",
+        "effect": "Def ＋15,When Refining ＋10 and Luck reaches 90, Crit.Dmg ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Beast Stomach Blueprint",
+        "chineseName": "恶兽腔膛图纸",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Beast's Tail Blueprint",
+        "chineseName": "恶兽之尾图纸",
+        "description": "Parents will have their kids put on cute beast's tails to protect them at new year so that the beast will not feel the presence of kids when it comes.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Become Pumpkin",
+        "chineseName": "变成南瓜头",
+        "description": "Jack o' Lantern",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Belcarf",
+        "chineseName": "围巾",
+        "description": "",
+        "effect": "Max HP ＋50,Max SP ＋50"
+    },
+    {
+        "imgsrc": null,
+        "name": "Belcarf Blueprint",
+        "chineseName": "围巾图纸",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_5034.png",
+        "name": "Belief Token",
+        "chineseName": "信仰之证",
+        "description": "Issued by the guild management center, it can be used to raise the blessing level of guild faith, and will be automatically consumed when the cost of faith exceeds 2000 Zeny.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_52312.png",
+        "name": "Bell",
+        "chineseName": "铃铛",
+        "description": "A swaying and resounding bell. It is especially for children. Being a very rare item, it can be used to make high-end headwear.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Bell plant",
+        "chineseName": "聆兰",
+        "description": "Do you want to hear the tree of Yggdrasil's heart beat? Equip it to immerse yourself into the sound of nature.",
+        "effect": "All Attributes ＋1,Neutral Dmg ＋2%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45139.png",
+        "name": "Bell Ribbon",
+        "chineseName": "铃铛发带",
+        "description": "The cute hair band has the small bell on the end. It seems that the bell will ring immediately.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45139.png",
+        "name": "Bell Ribbon [1]",
+        "chineseName": "铃铛发带[1]",
+        "description": "The cute hair band has the small bell on the end. It seems that the bell will ring immediately.",
+        "effect": "Agi ＋3,Luk ＋3"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45139.png",
+        "name": "Bell Ribbon [1] Blueprint",
+        "chineseName": "铃铛发带[1]图纸",
+        "description": "The cute hair band has the small bell on the end. It seems that the bell will ring immediately.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Bemstar Doll Hat",
+        "chineseName": "趴趴贝姆斯塔",
+        "description": "Bemstar is a small monster feeding on cometary dust, wearing it on head might absorb the essence of heaven and earth.",
+        "effect": "MDef ＋2%,MDef ＋10"
+    },
+    {
+        "imgsrc": null,
+        "name": "Bemstar Doll Hat [1]",
+        "chineseName": "趴趴贝姆斯塔[1]",
+        "description": "Bemstar is a small monster feeding on cometary dust, wearing it on head might absorb the essence of heaven and earth.",
+        "effect": "MDef ＋2%,MDef ＋10"
+    }
+]

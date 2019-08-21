@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45010.png",
+        "name": "Romantic Gent",
+        "chineseName": "回忆帽",
+        "description": "Hat mainly worn by elders. It reminds people of the happy time in their adolescence.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45010.png",
+        "name": "Romantic Gent Blueprint",
+        "chineseName": "回忆帽图纸",
+        "description": "Hat mainly worn by elders. It reminds people of the happy time in their adolescence.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45010.png",
+        "name": "Romantic Gent [1]",
+        "chineseName": "回忆帽[1]",
+        "description": "Hat mainly worn by elders. It reminds people of the happy time in their adolescence.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_48534.png",
+        "name": "Romantic Leaf",
+        "chineseName": "草叶",
+        "description": "Romantic Leaf. When keep them in the mouths, you can feel the sense of wind and roaming.",
+        "effect": "Max HP ＋120,SP Regen ＋1"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_48534.png",
+        "name": "Romantic Leaf Blueprint",
+        "chineseName": "草叶图纸",
+        "description": "Romantic Leaf. When keep them in the mouths, you can feel the sense of wind and roaming.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_5201.png",
+        "name": "Ronald's Coin",
+        "chineseName": "罗纳德的特制硬币",
+        "description": "A coin engraved with the challenger's name. It symbolizes honor and strength for dueling clubs.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_3603.png",
+        "name": "Rookie Cook Chest I",
+        "chineseName": "初心烹饪礼盒·Ⅰ",
+        "description": "In addition to satisfying the appetite, the primary gourmet has a certain pursuit for flavor. Try these common foods. (Open the pack to find 1-star food)",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_3603.png",
+        "name": "Rookie Dish Pack A",
+        "chineseName": "新手A号料理包",
+        "description": "A sealed dish pack. You cannot tell what is inside it from its appearance. Please be careful not to shake it!",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_60.png",
+        "name": "Rookie Food Pack I",
+        "chineseName": "初心食材包包·Ⅰ",
+        "description": "Apprentices often waste food because they lack skills, so some primary ingredients are provided by Royal Cuisine Association for practice. (Open the pack to find some primary ingredients)",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Rookie Picnic Pad",
+        "chineseName": "初心野餐垫",
+        "description": "The favorite picnic pad of adventurers who just start to learn cooking. Unfold it anywhere to picnic.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45200.png",
+        "name": "Rooster Bandana Blueprint",
+        "chineseName": "酉头巾图纸",
+        "description": "Headdress made of special materials and techniques only available in the year of Rooster. It's really priceless.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Rooster Year Bandana",
+        "chineseName": "酉头巾",
+        "description": "Rooster Year Bandana",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45200.png",
+        "name": "Rooster Year Bandana",
+        "chineseName": "酉头巾",
+        "description": "Headdress made of special materials and techniques only available in the year of Rooster. It's really priceless.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_3634.png",
+        "name": "Rooster Year Red Pack",
+        "chineseName": "酉之红包",
+        "description": "Legend has it that in the Eastern country, one of the customs for celebrating the new year is, children find small red envelopes specially given by the gods under their pillows. The custom is now also prevalent in Midgard. (Use it to receive a small amount of Zeny granted by Unitary God) (1-500Zeny, adventures cannot see this tip.)",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Root of Stone",
+        "chineseName": "石头的根",
+        "description": "At the beginning of ancient times, the root of stone lay along the roadside. Try to dig it up.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Rosa Bracelet",
+        "chineseName": "蔷薇姬的腕轮",
+        "description": "Simple bracelet, engraved with \"P.L.K\" on the inside.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Rosa Bracelet [1]",
+        "chineseName": "蔷薇姬的腕轮[1]",
+        "description": "Simple bracelet, engraved with \"P.L.K\" on the inside.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42512.png",
+        "name": "Rosa Shield",
+        "chineseName": "玫瑰盾牌",
+        "description": "A shield made of exotic metal, surrounded by many pieces of metal, looking like a rose in full bloom.",
+        "effect": "Melee Dmg ＋15%,Hit ＋25"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42512.png",
+        "name": "Rosa Shield [1]",
+        "chineseName": "玫瑰盾牌[1]",
+        "description": "A shield made of exotic metal, surrounded by many pieces of metal, looking like a rose in full bloom.",
+        "effect": "Melee Dmg ＋15%,Hit ＋25"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_44019.png",
+        "name": "Rosary",
+        "chineseName": "幸运项链",
+        "description": "Blessed by God, it is a cross-shaped necklace.",
+        "effect": ""
+    }
+]

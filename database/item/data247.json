@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45059.png",
+        "name": "Wedding Veil [1]",
+        "chineseName": "婚礼头纱[1]",
+        "description": "Bridal veil only for girls at wedding.",
+        "effect": "M.Def ＋10,Only for female equipment"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_61002.png",
+        "name": "Weihna Gloves",
+        "chineseName": "威娜腕甲",
+        "description": "Bracers once used by the famous assassin.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_61002.png",
+        "name": "Weihna Gloves [1]",
+        "chineseName": "威娜腕甲[1]",
+        "description": "Bracers once used by the famous assassin.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40703.png",
+        "name": "Weihna [2]",
+        "chineseName": "威娜短剑[2]",
+        "description": "Knives symbolizes war. Its sawtooth-shaped blade is coated with poison.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40703.png",
+        "name": "Weihna [3]",
+        "chineseName": "威娜短剑[3]",
+        "description": "Knives symbolizes war. Its sawtooth-shaped blade is coated with poison.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Welding Mask",
+        "chineseName": "钢铁面具",
+        "description": "This is a mask made of steel. It has heavy practicality. There is no flair to it. It can withstand sparks and cold air so that the face will not be hurt.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Welding Mask Blueprint",
+        "chineseName": "钢铁面具图纸",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Wendy",
+        "chineseName": "温蒂",
+        "description": "Wendy understands that it should keep looking at Ashe. Ashe understands that Wendy will keep looking at her. Even if behind Wendy there is not just a pair of eyes, As long as he is there, she will feel warm.",
+        "effect": "Max HP ＋300,Luk ＋3"
+    },
+    {
+        "imgsrc": null,
+        "name": "Wendy Blueprint",
+        "chineseName": "温蒂图纸",
+        "description": "Wendy understands that it should keep looking at Ashe. Ashe understands that Wendy will keep looking at her. Even if behind Wendy there is not just a pair of eyes, As long as he is there, she will feel warm.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_3033.png",
+        "name": "West Gate Material Pack",
+        "chineseName": "西门材料包",
+        "description": "West Gate Material Pack, in which all kinds of West Gate materials can be found.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "West Gate Picnic Pad",
+        "chineseName": "西门野餐垫",
+        "description": "A picnic pad with the style and design of the west gate. It's comfortable to use.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45012.png",
+        "name": "Western Grace",
+        "chineseName": "牛仔帽",
+        "description": "Western style hat worn by the west cowboys.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45012.png",
+        "name": "Western Grace Blueprint",
+        "chineseName": "牛仔帽图纸",
+        "description": "Western style hat worn by the west cowboys.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45012.png",
+        "name": "Western Grace [1]",
+        "chineseName": "牛仔帽[1]",
+        "description": "Western style hat worn by the west cowboys.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Wheat Cocoa",
+        "chineseName": "麦香可可",
+        "description": "Grind the wheat harvested in the golden season of Southern Payon into flour, match it with wild cocoa beans growing on the coast of Izlude to make this delicious wheat-flavored cocoa. Drinking it restores 10% of Max HP and Max SP, the recovery value is according to the actual HP in GVG. This item can only be used in the PVP maps.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Wheel of Time·Black Gift Box",
+        "chineseName": "时之轮·黑礼盒",
+        "description": "Use it and get the Wheel of Time·Black beauty contact lens from the Beauty of Eyes in Prontera.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Wheel of Time·Blue Gift Box",
+        "chineseName": "时之轮·蓝礼盒",
+        "description": "Use it and get the Wheel of Time·Blue beauty contact lens from the Beauty of Eyes in Prontera.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Wheel of Time·Brown Gift Box",
+        "chineseName": "时之轮·棕礼盒",
+        "description": "Use it and get the Wheel of Time·Brown beauty contact lens from the Beauty of Eyes in Prontera.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Wheel of Time·Green Gift Box",
+        "chineseName": "时之轮·绿礼盒",
+        "description": "Use it and get the Wheel of Time·Green beauty contact lens from the Beauty of Eyes in Prontera.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Wheel of Time·Purple Gift Box",
+        "chineseName": "时之轮·紫礼盒",
+        "description": "Use it and get the Wheel of Time·Purple beauty contact lens from the Beauty of Eyes in Prontera.",
+        "effect": ""
+    }
+]

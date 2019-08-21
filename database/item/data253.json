@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Year·Violent Violet",
+        "chineseName": "异兽·年·灭紫",
+        "description": "A pet dye popular during the Spring Festival, seemingly it can be used on Year..",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Yellow Cat in Hands",
+        "chineseName": "抱在手里的黄猫",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_5018.png",
+        "name": "Yellow Clothing Dye",
+        "chineseName": "黄色衣服染料",
+        "description": "It can dye clothing materials yellow.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Yellow Drooping Cat",
+        "chineseName": "黄色懒洋洋的猫",
+        "description": "Doll that can put on the head to carry around. You will hear cat's sound and feel there's a cat moving on your head. But it's just imagination.",
+        "effect": "Luk ＋3,Slow Resistance ＋50%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Yellow Drooping Cat [1]",
+        "chineseName": "黄色懒洋洋的猫[1]",
+        "description": "Doll that can put on the head to carry around. You will hear cat's sound and feel there's a cat moving on your head. But it's just imagination.",
+        "effect": "Luk ＋3,Slow Resistance ＋50%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Yellow Drooping Cat [1] Blueprint",
+        "chineseName": "黄色懒洋洋的猫[1]图纸",
+        "description": "Doll that can put on the head to carry around. You will hear cat's sound and feel there's a cat moving on your head. But it's just imagination.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_5013.png",
+        "name": "Yellow Herb",
+        "chineseName": "黄色药草",
+        "description": "A raw material for producing yellow hair dyes.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_5101.png",
+        "name": "Yellow Live",
+        "chineseName": "地灵矿石",
+        "description": "A small green ore. It has earth attribute and can be made into Great Nature after extraction.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12003.png",
+        "name": "Yellow Potion",
+        "chineseName": "黄色药水",
+        "description": "Potion made from crushed yellow herbs. Use it to restore 245-300 points of HP.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Yellow Ribbon",
+        "chineseName": "黄色发带",
+        "description": "",
+        "effect": "Dex ＋3,AGI ＋3"
+    },
+    {
+        "imgsrc": null,
+        "name": "Yellow Ribbon [1]",
+        "chineseName": "黄色发带[1]",
+        "description": "",
+        "effect": "Dex ＋3,AGI ＋3"
+    },
+    {
+        "imgsrc": null,
+        "name": "Yellow Ribbon [1] Blueprint",
+        "chineseName": "黄色发带[1]图纸",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12119.png",
+        "name": "Yggdrasil Berry",
+        "chineseName": "天地树果实",
+        "description": "A leaf of Yggdrasil which created the world, it has a bewilderingly fresh taste and unexpected effects on the body. It can instantly restore all HP. If used during PVP, the HP Regen will reduce and CD time will be longer.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Yggdrasil Dew Drop",
+        "chineseName": "天地树露珠",
+        "description": "Falling from the waving wings of elemental elves, the light dust fell on the ordinary cards and then brought them strong affinity power. The power can be injected into the adventurer's soul through the power of Valkyrie, which will make adventurers preferred by elements.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_4001.png",
+        "name": "You are Falling",
+        "chineseName": "你在坠落",
+        "description": "A wizard music record. With it, You can order songs in the music box spot newly designed by Kafra. [Actually, Phreeoni is pretty cute, Isn't he?]",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Yoyo Card",
+        "chineseName": "溜溜猴卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12349.png",
+        "name": "Yoyo Doll",
+        "chineseName": "溜溜猴娃娃",
+        "description": "A doll designed like Monster Yoyo, a group animal living in deep forest. Cute and smart, the monster is extremely adored by women and children. It permanently increases the character's Flee by 10 points and cannot be traded.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_48001.png",
+        "name": "Yoyo Tail Blueprint",
+        "chineseName": "猴子尾巴图纸",
+        "description": "Monster Yoyo's tail Can be purchased from the collectors.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Yoyo★Card",
+        "chineseName": "溜溜猴★卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_3658.png",
+        "name": "Yula's Treasure Chest",
+        "chineseName": "乌拉的珍藏宝盒",
+        "description": "\"Thank you for helping the Goblins! I'd like you to take a look at this... This wizard has gathered a hoard of treasure over the years.” The great wizard Yula quietly calls you aside and brings her treasure chest out from the depths of the storeroom. ",
+        "effect": ""
+    }
+]

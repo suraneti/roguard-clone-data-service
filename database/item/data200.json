@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43010.png",
+        "name": "Skeleton Manteau [1]",
+        "chineseName": "邪骸战士的斗篷[1]",
+        "description": "It is said to be the favorite cloak of Skeleton.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Skeleton Worker Card",
+        "chineseName": "邪骸矿工卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12352.png",
+        "name": "Skill Reset Rod",
+        "chineseName": "技能重置棒",
+        "description": "Press the button, the stick will shine blue lights. Anyone who sees the light will lose a part of memory, which helps reset the skill tree.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Skill Reset Water",
+        "chineseName": "生命体洗礼水",
+        "description": "A potion blessed by the Great Alchemist. It can help you rediscover yourself and reset your Skill Pts.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Skull Armor",
+        "chineseName": "白骨铠甲",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Skull Armor [1]",
+        "chineseName": "白骨铠甲[1]",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Skull Boots",
+        "chineseName": "骷髅战靴",
+        "description": "Def + 35",
+        "effect": "Move Spd ＋9%,[Advanced Sack Teddy Shoes] ＋ [Cat's Blessing VI] ＋ [Blueeve Cape IV]: Strength ＋ 5, Attack Spd ＋ 5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Skull Boots [1]",
+        "chineseName": "骷髅战靴[1]",
+        "description": "Def + 35",
+        "effect": "Move Spd ＋9%,[Advanced Sack Teddy Shoes] ＋ [Cat's Blessing VI] ＋ [Blueeve Cape IV]: Strength ＋ 5, Attack Spd ＋ 5%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_61006.png",
+        "name": "Skull Bracer",
+        "chineseName": "碎骨腕甲",
+        "description": "While providing hand defense, the designer has also added a number of attack-enhancing designs.",
+        "effect": "Flee ＋5,Max HP ＋60"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_61006.png",
+        "name": "Skull Bracer [1]",
+        "chineseName": "碎骨腕甲[1]",
+        "description": "While providing hand defense, the designer has also added a number of attack-enhancing designs.",
+        "effect": "Flee ＋5,Max HP ＋60"
+    },
+    {
+        "imgsrc": null,
+        "name": "Skull Brooch",
+        "chineseName": "骷髅别针",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Skull Cap [1]",
+        "chineseName": "骷髅黑帽[1]",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Skull Cap [1] Blueprint",
+        "chineseName": "骷髅黑帽[1]图纸",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Skull Cape",
+        "chineseName": "骷髅披风",
+        "description": "Def + 25",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Skull Cape [1]",
+        "chineseName": "骷髅披风[1]",
+        "description": "Def + 25",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45185.png",
+        "name": "Skull Hood",
+        "chineseName": "死神头巾",
+        "description": "Black hat with skulls as decoration. The skull's eyes will shine with red light during emergencies.",
+        "effect": "Avoid being auto-target by undead monsters,Undead Dmg Taken -20%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45185.png",
+        "name": "Skull Hood [1]",
+        "chineseName": "死神头巾[1]",
+        "description": "Black hat with skulls as decoration. The skull's eyes will shine with red light during emergencies.",
+        "effect": "Avoid being auto-target by undead monsters,Undead Dmg Taken -20%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45185.png",
+        "name": "Skull Hood [1] Blueprint",
+        "chineseName": "死神头巾[1]图纸",
+        "description": "Black hat with skulls as decoration. The skull's eyes will shine with red light during emergencies.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_44017.png",
+        "name": "Skull Rin [1]",
+        "chineseName": "骷髅戒指[1]",
+        "description": "A skeleton-shaped ring engraved with words \"Even after death, will forever...\" on the inside.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Skull Ring [1]",
+        "chineseName": "骷髅别针[1]",
+        "description": "",
+        "effect": ""
+    }
+]
