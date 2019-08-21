@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41207.png",
+        "name": "Metal Bow [2]",
+        "chineseName": "合金弓[2]",
+        "description": "An arrow used by orc archers. It takes a lot of efforts to pull the string.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40708.png",
+        "name": "Metal Dagger",
+        "chineseName": "合金短剑",
+        "description": "Knives with the symbol of money on the edge might bring you a lot of fortunes.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40708.png",
+        "name": "Metal Dagger [2]",
+        "chineseName": "合金短剑[2]",
+        "description": "Knives with the symbol of money on the edge might bring you a lot of fortunes.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40902.png",
+        "name": "Metal Katar",
+        "chineseName": "合金拳刃",
+        "description": "The Katars made by ancient secret techniques. The blade will constantly shake, causing chaos to the enemy.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40902.png",
+        "name": "Metal Katar [2]",
+        "chineseName": "合金拳刃[2]",
+        "description": "The Katars made by ancient secret techniques. The blade will constantly shake, causing chaos to the enemy.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40628.png",
+        "name": "Metal Staff",
+        "chineseName": "合金长杖",
+        "description": "A new type of long stick made by several regular metals with a special alchemy formula.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40628.png",
+        "name": "Metal Staff [2]",
+        "chineseName": "合金长杖[2]",
+        "description": "A new type of long stick made by several regular metals with a special alchemy formula.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Metal Two Handed Axe [1]",
+        "chineseName": "聚合金巨斧[1]",
+        "description": "Atk + 288",
+        "effect": "When Luck reaches 90, Atk ＋100,[Mammonite] has a 10% chance to trigger Crit, which cause skills deal 1.5 times of damage"
+    },
+    {
+        "imgsrc": null,
+        "name": "Metal Two Handed Axe [2]",
+        "chineseName": "聚合金巨斧[2]",
+        "description": "Atk + 288",
+        "effect": "When Luck reaches 90, Atk ＋100,[Mammonite] has a 10% chance to trigger Crit, which cause skills deal 1.5 times of damage"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Metaller Card",
+        "chineseName": "重金属蝗虫卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Meteor Armor",
+        "chineseName": "陨石宝甲",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Meteor Armor [1]",
+        "chineseName": "陨石宝甲[1]",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42040.png",
+        "name": "Meteorite Armor",
+        "chineseName": "陨石铠甲",
+        "description": "It appears to be fortified armor made from unrecognizable meteorites.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42040.png",
+        "name": "Meteorite Armor [1]",
+        "chineseName": "陨石铠甲[1]",
+        "description": "It appears to be fortified armor made from unrecognizable meteorites.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Midgard Bag",
+        "chineseName": "米德加尔特行军背包",
+        "description": "",
+        "effect": "Def ＋35,For Refining ＋1, Dmg Reduc. ＋1%, Freeze Resistance ＋2%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Midgard Goggles",
+        "chineseName": "米德加尔特护目镜",
+        "description": "",
+        "effect": "Def ＋20,For Refining ＋1, Damage reduction of Human race ＋1%, Stone Curse Resistance ＋2%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Midgard Helm",
+        "chineseName": "米德加尔特护卫头盔",
+        "description": "",
+        "effect": "Def ＋35,For Refining ＋1, Damage reduction of Human race ＋1%, Snare Resistance ＋2%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Midgard Helm [1]",
+        "chineseName": "米德加尔特护卫头盔[1]",
+        "description": "",
+        "effect": "Def ＋35,For Refining ＋1, Damage reduction of Human race ＋1%, Snare Resistance ＋2%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Midgard Military Mask",
+        "chineseName": "米德加尔特军用口罩",
+        "description": "",
+        "effect": "Def ＋35,When Refining ＋5, HP ＋750; When Refining ＋10, HP ＋1500; Refining ＋15, HP ＋3000"
+    },
+    {
+        "imgsrc": null,
+        "name": "Mild Sake",
+        "chineseName": "低浓度竹露",
+        "description": "The clear wine brewed with green bamboo by the boss of Payon Tavern mixed with fresh juice of bamboo leaves. Drink it and your Atk will be upped by 5% for 15 minutes. The effect cannot be stacked up with that of other sake. Death will not affect the effect. Can only be used on PVP maps.",
+        "effect": ""
+    }
+]

@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Modern Gift Box",
+        "chineseName": "摩登礼盒",
+        "description": "A small gift box with gorgeous velvet ribbons, very nice and graceful. It contains Big Cat Coin×50, Zeny ×500000, Eden Coin ×500, Mastela Fruit ×2, and greetings from fashionable people -Hope mainland adventurers all look pretty!",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43538.png",
+        "name": "Momo Shoes",
+        "chineseName": "魔磨长靴",
+        "description": "Magic rock powder and special gels are mixed to form such boots. Strong but lightweight.",
+        "effect": "Move Spd ＋5%,Max SP ＋75"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43538.png",
+        "name": "Momo Shoes [1]",
+        "chineseName": "魔磨长靴[1]",
+        "description": "Magic rock powder and special gels are mixed to form such boots. Strong but lightweight.",
+        "effect": "Move Spd ＋5%,Max SP ＋75"
+    },
+    {
+        "imgsrc": null,
+        "name": "Monkey Circlet",
+        "chineseName": "猴子发箍",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Monkey Circlet",
+        "chineseName": "猴子发箍",
+        "description": "A Hair Band that fits a Yoyo perfectly.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Monkey Circlet Blueprint",
+        "chineseName": "猴子发箍图纸",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Monkey Circlet Blueprint",
+        "chineseName": "猴子发箍图纸",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Monkey Circlet [1]",
+        "chineseName": "猴子发箍[1]",
+        "description": "",
+        "effect": "Dex ＋3,AGI ＋3"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_48525.png",
+        "name": "Monocle",
+        "chineseName": "单眼眼镜",
+        "description": "The glass, which can only cover one eye, is mostly regarded as a fashionable accessory in terms of its practicality.",
+        "effect": "M.Atk ＋5%,For Refining ＋1, M.Atk ＋1% (upper limit of increases is 15%)"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_48525.png",
+        "name": "Monocle Blueprint",
+        "chineseName": "单眼眼镜图纸",
+        "description": "The glass, which can only cover one eye, is mostly regarded as a fashionable accessory in terms of its practicality.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Monster Bemstar Back Headwear",
+        "chineseName": "怪兽贝姆斯塔背饰",
+        "description": "The plankton from the Crab Nebula uses hydrogen, nitrogen and helium as its energy source, and the pentagonal belly is also its mouth.",
+        "effect": "M.Atk ＋30,M.Atk ＋2%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Monster Card",
+        "chineseName": "怪兽卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12309.png",
+        "name": "Monster Feed",
+        "chineseName": "魔物饲料",
+        "description": "Monster's favorite processed food that can restore 720-900 points of HP.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Monster Golza Backpack",
+        "chineseName": "怪兽哥尔赞背包",
+        "description": "Golza is a monster that survives volcanic magma, and this backpack must be very strong.",
+        "effect": "Ignore MDef ＋5%,Ignore MDef ＋5% when reaching refining ＋6"
+    },
+    {
+        "imgsrc": null,
+        "name": "Monster Gomora Back Headwear",
+        "chineseName": "怪兽哥莫拉背饰",
+        "description": "Gomora is a survivor of ancient dinosaurs and a powerful underground monster Its emergence has prompted human thought-why do these monsters become fierce and brutal only after they come into contact with humans? Can monsters coexist peacefully with mankind? The answer, I am afraid, lies in the heart of man.",
+        "effect": "Damage to Fire Monsters ＋10%,Fire damage taken -10%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Monster King Joe Back Headwear",
+        "chineseName": "怪兽金古桥背饰",
+        "description": "The strength of robots is obvious to all. How far can we get through endless iterative evolution?",
+        "effect": "Atk ＋45,Atk ＋2%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_105.png",
+        "name": "Monster Resistance Chest 1",
+        "chineseName": "抗击魔潮礼物箱1",
+        "description": "A gift pack for Monster Resistance. It may contain valuable items",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_105.png",
+        "name": "Monster Resistance Chest 10",
+        "chineseName": "抗击魔潮礼物箱10",
+        "description": "A gift pack for Monster Resistance. It may contain valuable items",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_105.png",
+        "name": "Monster Resistance Chest 2",
+        "chineseName": "抗击魔潮礼物箱2",
+        "description": "A gift pack for Monster Resistance. It may contain valuable items",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_105.png",
+        "name": "Monster Resistance Chest 3",
+        "chineseName": "抗击魔潮礼物箱3",
+        "description": "A gift pack for Monster Resistance. It may contain valuable items",
+        "effect": ""
+    }
+]

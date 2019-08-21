@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Glimmer Metal",
+        "chineseName": "微光金属",
+        "description": "Precious metal materials used to upgrade weapons are obtained by disintegrating various accessories.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Glistening Coat",
+        "chineseName": "护贝药",
+        "description": "A glittering bottle of potion that enchants people.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Glitter Shell",
+        "chineseName": "彩色外皮",
+        "description": "A colorful and distinctive skin that can be purchased from a merchant.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Glittering Jacket",
+        "chineseName": "秘衣恶德",
+        "description": "The legendary clothes worn by merchants with business ethics. It can prove the wearer's excellent taste.",
+        "effect": "Str ＋5,Dex ＋5"
+    },
+    {
+        "imgsrc": null,
+        "name": "Glittering Jacket [1]",
+        "chineseName": "秘衣恶德[1]",
+        "description": "The legendary clothes worn by cunning merchants, with flickering sequins.",
+        "effect": "Str ＋5,Dex ＋5"
+    },
+    {
+        "imgsrc": null,
+        "name": "Glories Harvest",
+        "chineseName": "闪耀的收获",
+        "description": "It is full of Sunshine and hard work in this gloden mouth of May. Don't worry, all the hard work will be paid, all the exhausting will turn into smiling. \"You get what you give!\"",
+        "effect": "Damage to Plant monsters ＋3%,Damage taken from Insect monsters －3%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Glories Harvest Blueprint",
+        "chineseName": "闪耀的收获图纸",
+        "description": "It is full of Sunshine and hard work in this gloden mouth of May. Don't worry, all the hard work will be paid, all the exhausting will turn into smiling. \"You get what you give!\"",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_44023.png",
+        "name": "Glove",
+        "chineseName": "防御手套",
+        "description": "Protect your hands for better attacks!",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_44023.png",
+        "name": "Glove [1]",
+        "chineseName": "防御手套[1]",
+        "description": "Protect your hands for better attacks!",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Glow Metal",
+        "chineseName": "辉光金属",
+        "description": "Precious metal materials used to upgrade weapons are obtained by disintegrating various rare equipment.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Glutton's Resentment",
+        "chineseName": "吃货的怨念",
+        "description": "It is the sparks of love and worship in eyes that go through the gate of the nation of cate. [Author: Jacqueline the Sheila]",
+        "effect": "Max HP ＋300,Max SP ＋300"
+    },
+    {
+        "imgsrc": null,
+        "name": "Glutton's Resentment Blueprint",
+        "chineseName": "吃货的怨念图纸",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_52025.png",
+        "name": "GM Equipment",
+        "chineseName": "GM神装",
+        "description": "GM Equipment",
+        "effect": "Atk ＋5000,SP Regen ＋100%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_52025.png",
+        "name": "GM Equipment 1",
+        "chineseName": "GM神装1",
+        "description": "GM Equipment",
+        "effect": "VIT ＋1000,CT Variable Reduction ＋100%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_3035.png",
+        "name": "GM Pack",
+        "chineseName": "GM礼包",
+        "description": "GM Pack",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Goat Helm",
+        "chineseName": "精制山羊头盔",
+        "description": "\"The Sweat of Sun\" and \"The symbol of devil\" are integrated, the burning soul shines brightly. In Midgard, only the most outstanding adventurers or the most wealthy family members can own this symbol of nobility.",
+        "effect": "Str ＋5,When Refining 10, ignore Def ＋10%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Goblin - Daze",
+        "chineseName": "哥布灵-发呆",
+        "description": "People judge the masks worn by of the goblin people.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Goblin - Evil",
+        "chineseName": "哥布灵-邪恶",
+        "description": "People judge the masks worn by of the goblin people.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Goblin - Helpless",
+        "chineseName": "哥布灵-无奈",
+        "description": "People judge the masks worn by of the goblin people.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Goblin - Horror",
+        "chineseName": "哥布灵-恐怖",
+        "description": "People judge the masks worn by of the goblin people.",
+        "effect": ""
+    }
+]

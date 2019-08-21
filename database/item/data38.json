@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42005.png",
+        "name": "Chain Mail",
+        "chineseName": "钢铁锁子甲",
+        "description": "An armor made of metal nonexistent in the world, containing mysterious forces inside.",
+        "effect": "VIT ＋2,HP Regen ＋3%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42005.png",
+        "name": "Chain Mail [1]",
+        "chineseName": "钢铁锁子甲[1]",
+        "description": "An armor made of metal nonexistent in the world, containing mysterious forces inside.",
+        "effect": "VIT ＋2,HP Regen ＋3%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41533.png",
+        "name": "Chain [2]",
+        "chineseName": "链锤[2]",
+        "description": "A mace with a chain atop.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Chameleon Armor",
+        "chineseName": "变色龙铠甲",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Chameleon Armor [1]",
+        "chineseName": "变色龙铠甲[1]",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Chameleon Boots",
+        "chineseName": "变色龙长靴",
+        "description": "Def + 35",
+        "effect": "Move Spd ＋9%,[Advanced Sack Teddy Shoes] ＋ [Cat's Blessing VI] ＋ [Blueeve Cape IV]: Strength ＋ 5, Attack Spd ＋ 5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Chameleon Boots [1]",
+        "chineseName": "变色龙长靴[1]",
+        "description": "Def + 35",
+        "effect": "Move Spd ＋9%,[Advanced Sack Teddy Shoes] ＋ [Cat's Blessing VI] ＋ [Blueeve Cape IV]: Strength ＋ 5, Attack Spd ＋ 5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Chameleon Manteau",
+        "chineseName": "变色龙披风",
+        "description": "Def + 25",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Chameleon Manteau [1]",
+        "chineseName": "变色龙披风[1]",
+        "description": "Def + 25",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Chameleon Ring",
+        "chineseName": "变色龙戒指",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Chameleon Ring [1]",
+        "chineseName": "变色龙戒指[1]",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45125.png",
+        "name": "Charming Ribbon",
+        "chineseName": "红蝶丝带",
+        "description": "Beautiful hairband made of red ribbons. The point is the pink heart in the middle.",
+        "effect": "Damage reduction of undead race ＋5%,Damage reduction of demon race ＋5%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45125.png",
+        "name": "Charming Ribbon [1]",
+        "chineseName": "红蝶丝带[1]",
+        "description": "Beautiful hairband made of red ribbons. The point is the pink heart in the middle.",
+        "effect": "Damage reduction of undead race ＋5%,Damage reduction of demon race ＋5%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45125.png",
+        "name": "Charming Ribbon [1] Blueprint",
+        "chineseName": "红蝶丝带[1]图纸",
+        "description": "Beautiful hairband made of red ribbons. The point is the pink heart in the middle.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Chef Hat",
+        "chineseName": "厨师帽",
+        "description": "Chef Hat",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Chef Hat",
+        "chineseName": "厨师帽",
+        "description": "White and tall Cook's Hat which proves the identity of a cook. Every dedicated cook sees it as part of their body not for its function but for its implication.",
+        "effect": "Dex ＋3,AGI ＋3"
+    },
+    {
+        "imgsrc": null,
+        "name": "Chef Hat II",
+        "chineseName": "厨师帽Ⅱ",
+        "description": "White and tall Cook's Hat which proves the identity of a cook. Every dedicated cook sees it as part of their body not for its function but for its implication.",
+        "effect": "Dex ＋3,AGI ＋3"
+    },
+    {
+        "imgsrc": null,
+        "name": "Chef Hat III",
+        "chineseName": "厨师帽Ⅲ",
+        "description": "White and tall Cook's Hat which proves the identity of a cook. Every dedicated cook sees it as part of their body not for its function but for its implication.",
+        "effect": "Dex ＋3,AGI ＋3"
+    },
+    {
+        "imgsrc": null,
+        "name": "Chef's Eagle Eye",
+        "chineseName": "厨神的鹰眼",
+        "description": "The God of Hunting Ullr is worshipped by numerous mortals. In the past, People always had to worry about their next meal. A family would have to spend the whole year in famine if rainstorm or draught struck. In the long snow season, They had to risk their lives going out hunting. But Ullr taught people how to hunt, and tasty meat became more frequently seen on dining tables. (Use it to gain 40 stacks of Eagle Eye. There is a chance to gain food ingredient for each stack consumed. Note that not all monsters drop food ingredients. )",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Chemical Protection Gloves",
+        "chineseName": "化学防护手套",
+        "description": "Gloves made of skins shed by seven kinds of venomous snakes that provide protection against almost any corrosive substance. The only drawback is their stuffiness.",
+        "effect": "M.Def ＋10,For Refining ＋8, Atk ＋3%; For Refining ＋12, Ignore Def ＋5%"
+    }
+]

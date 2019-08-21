@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41201.png",
+        "name": "Frozen Bow[3]",
+        "chineseName": "冰霜之弓[3]",
+        "description": "The bow whose body is frosted. I wonder if you can use it.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Frozen Crown",
+        "chineseName": "冰皇冠",
+        "description": "",
+        "effect": "Dex ＋3,AGI ＋3"
+    },
+    {
+        "imgsrc": null,
+        "name": "Frozen Crown [1]",
+        "chineseName": "冰皇冠[1]",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Frozen Crown [1] Blueprint",
+        "chineseName": "冰皇冠[1]图纸",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Frozen Heart",
+        "chineseName": "冰之心",
+        "description": "Hard and frozen heart. Very cold so please mind your hands.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_52509.png",
+        "name": "Frozen Rose",
+        "chineseName": "冰雕玫瑰",
+        "description": "This was carved out of ice by a well-known sculptor who lived in a cold place. It makes for an exotic gift, especially since it is a rare material used for making accessories.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_44007.png",
+        "name": "Frozen Rose Ring",
+        "chineseName": "冰玫瑰戒指",
+        "description": "The crystal ring has a rose pattern. Maybe it's an emblem of a big family?",
+        "effect": "Atk ＋30,The wearer will not be actively attacked by plant monsters"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_44007.png",
+        "name": "Frozen Rose Ring [1]",
+        "chineseName": "冰玫瑰戒指[1]",
+        "description": "The crystal ring has a rose pattern. Maybe it's an emblem of a big family?",
+        "effect": "Atk ＋30,The wearer will not be actively attacked by plant monsters"
+    },
+    {
+        "imgsrc": null,
+        "name": "Frozen Seal",
+        "chineseName": "极冻海豹",
+        "description": "I'm looking for a penguin that's running about. Have you seen it? [Designed by Sun Lee]The little sea says with its tongue hanging out, gasping for air.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Full Atk of Praying",
+        "chineseName": "祈祷物理攻击全满",
+        "description": "After use, the Atk of guild praying will reach the threshold",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Full Def of Praying",
+        "chineseName": "祈祷物理防御全满",
+        "description": "After use, the Def of guild praying will reach the threshold",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Full M.Atk of Praying",
+        "chineseName": "祈祷魔法攻击全满",
+        "description": "After use, the M.Atk of guild praying will reach the threshold",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Full M.Def of Praying",
+        "chineseName": "祈祷魔法防御全满",
+        "description": "After use, the M.Def of guild praying will reach the threshold",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Full Max HP of Praying",
+        "chineseName": "祈祷生命上限全满",
+        "description": "After use, the Max HP of guild praying will reach the threshold",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40920.png",
+        "name": "Fullblack Dagger [1]",
+        "chineseName": "漆黑之牙[1]",
+        "description": "A Katars that has no shadow in any light.",
+        "effect": "Str ＋2,When Strength reaches 75, Melee Atk ＋10%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40920.png",
+        "name": "Fullblack Dagger [2]",
+        "chineseName": "漆黑之牙[2]",
+        "description": "A Katars that has no shadow in any light.",
+        "effect": "Str ＋2,When Strength reaches 75, Melee Atk ＋10%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Fusion Staff",
+        "chineseName": "融合法杖",
+        "description": "It'll be so cool to fuse technology with magic!",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Future Mirror",
+        "chineseName": "望向未来镜",
+        "description": "\"When you look at the future, the future looks back at you.\"",
+        "effect": "Atk ＋10,Hit ＋10"
+    },
+    {
+        "imgsrc": null,
+        "name": "Future Mirror Blueprint",
+        "chineseName": "望向未来镜图纸",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/toy_505.png",
+        "name": "Ga Ga Ga!",
+        "chineseName": "嘎嘎嘎！",
+        "description": "This super cool Rocker Band will drive boredom out of your quiet life. Bring them with you all the time! (Use it to summon a Rocker Band)",
+        "effect": ""
+    }
+]

@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Marchosias' Arrow",
+        "chineseName": "马加锡亚之矢",
+        "description": "It is said that the alien metal given by a certain god from another world can grant the wearer invincibility.",
+        "effect": "Refining M.Atk ＋10,For Refining ＋1, refining M.Atk ＋2"
+    },
+    {
+        "imgsrc": null,
+        "name": "Marchosias' Bag",
+        "chineseName": "马加锡亚背包",
+        "description": "As one of the 72 pillar devils, other rumors that he and Lemegeton's relationship is quite good in private.",
+        "effect": "Max HP ＋500,Bag Slot ＋10"
+    },
+    {
+        "imgsrc": null,
+        "name": "Marchosias' Gaze",
+        "chineseName": "马加锡亚的凝视",
+        "description": "Whoever is gazed at will feel paralyzed, and only able to go to bed.",
+        "effect": "Max HP ＋300,For Refining ＋1, Dmg to Demi-Human race ＋0.1%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Marduk Card",
+        "chineseName": "马尔杜克卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Marin Candy",
+        "chineseName": "冰波利糖",
+        "description": "A candy in the shape of Marin Poring, with a cool taste. Within 1 minute, the water damage you suffer will reduce by 100%. This effect cannot stack up with other Poring candies, and is not influenced by death. This item can only be used on PVP maps.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Marin Card",
+        "chineseName": "冰波利卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Marina Card",
+        "chineseName": "水母卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Marine Sphere Bottle",
+        "chineseName": "刺锤瓶",
+        "description": "Throw it and a hammer will be set in the bottle. The one who stamps on it carelessly will be killed.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Marine Sphere Card",
+        "chineseName": "气泡虫卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Marionette Card",
+        "chineseName": "傀儡娃娃卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12348.png",
+        "name": "Marionette Doll",
+        "chineseName": "傀儡娃娃",
+        "description": "A doll designed like the popular puppet, the head is cool. It permanently increases the character's Hit by 10 points and cannot be traded.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Marionette★Card",
+        "chineseName": "傀儡娃娃★卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Marse Card",
+        "chineseName": "乌贼卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Martin Card",
+        "chineseName": "土拨鼠卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Martin Hat",
+        "chineseName": "土拨土拨帽",
+        "description": "It is said that the Martin is very good at praising the peers, and they make a noisy call, so after wearing this hat, perhaps the adventurer will become more fierce!",
+        "effect": "Def ＋3%,Max HP ＋100"
+    },
+    {
+        "imgsrc": null,
+        "name": "Martin Hat [1]",
+        "chineseName": "土拨土拨帽[1]",
+        "description": "It is said that the Martin is very good at praising the peers, and they make a noisy call, so after wearing this hat, perhaps the adventurer will become more fierce!",
+        "effect": "Def ＋3%,Max HP ＋100"
+    },
+    {
+        "imgsrc": null,
+        "name": "Martin Hat[1] Blueprint",
+        "chineseName": "土拨土拨帽[1]图纸",
+        "description": "It is said that the Martin is very good at praising the peers, and they make a noisy call, so after wearing this hat, perhaps the adventurer will become more fierce!",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_48542.png",
+        "name": "Mask of Darkness",
+        "chineseName": "暗黑假面",
+        "description": "A helmet that hides a half face to hide the identity. The equipment suitable for the Demon King.",
+        "effect": "VIT ＋2,For Refining ＋1, M.Def ＋1% (upper limit of increases is 15%)"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_48542.png",
+        "name": "Mask of Darkness Blueprint",
+        "chineseName": "暗黑假面图纸",
+        "description": "A helmet that hides a half face to hide the identity. The equipment suitable for the Demon King.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Mask of the Fourth Angel",
+        "chineseName": "第四使徒面具",
+        "description": "The Fourth Angel - A sentient being capable of learning and regenerating. It attacks its foe by shooting a lance of light from its palm and energy blast from it's eyes. This mask radiates silent tension.",
+        "effect": "Atk ＋20,Shoots disruptor beam when auto attacking a target. The beam has a 100% chance to reduce the target's DMG Reduction by 5% for 5s."
+    }
+]

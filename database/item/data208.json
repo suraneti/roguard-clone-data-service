@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Star Butterfly Back Headwear",
+        "chineseName": "星尾蝶系列背饰",
+        "description": "",
+        "effect": "Atk ＋20,Damage to mid-size monsters ＋8%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Star Butterfly·Dawn",
+        "chineseName": "星尾蝶·霞",
+        "description": "You are the first sunlight, you are the awakening dream, you are the flying Star Butterfly on stage.",
+        "effect": "Atk ＋20,Damage to mid-size monsters ＋8%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Star Butterfly·Lyrics",
+        "chineseName": "星尾蝶·谣",
+        "description": "You are the cloud, you are the lullaby, you are the flying Star Butterfly on stage.",
+        "effect": "Atk ＋20,Damage to mid-size monsters ＋8%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Star Butterfly·Melody",
+        "chineseName": "星尾蝶·煌",
+        "description": "You are the wind, you are the wildfire, you are the flying Star Butterfly on stage.",
+        "effect": "Atk ＋20,Damage to mid-size monsters ＋8%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Star Butterfly·String",
+        "chineseName": "星尾蝶·弦",
+        "description": "You are the moonlight, you are the ocean, you are the flying Star Butterfly on stage.",
+        "effect": "Atk ＋20,Damage to mid-size monsters ＋8%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_52307.png",
+        "name": "Star Crumb",
+        "chineseName": "星星的角",
+        "description": "Cluster of Stars Hanging in the Sky. Being a very rare item, it can be used to make high-end headwear.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Star Hat Shard",
+        "chineseName": "星辰头盔残片",
+        "description": "Shard of the legendary artifact: Hat of the Star God. A shard left on the battleground of gods. Collect materials and shards and go to Miss Futraca to restore it to its former glory!",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Star Marina [1]",
+        "chineseName": "星光水母[1]",
+        "description": "Miss Marina is very mysterious. She never talks with others, she just gazes at the surface as if waiting for something. “I wonder if a star will fall today...”",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Star Musician Headwear",
+        "chineseName": "琴键慕斯系列头饰",
+        "description": "",
+        "effect": "Ignore M.Def ＋2%,Int ＋2"
+    },
+    {
+        "imgsrc": null,
+        "name": "Star Musician·Dawn",
+        "chineseName": "琴键慕斯·霞",
+        "description": "Every key on the keyboard is the sound belongs to you. Everyone on the world has a song belongs to oneself.",
+        "effect": "Ignore M.Def ＋2%,Int ＋2"
+    },
+    {
+        "imgsrc": null,
+        "name": "Star Musician·Lyrics",
+        "chineseName": "琴键慕斯·谣",
+        "description": "Every key on the keyboard is the sound belongs to you. Everyone on the world has a song belongs to oneself.",
+        "effect": "Ignore M.Def ＋2%,Int ＋2"
+    },
+    {
+        "imgsrc": null,
+        "name": "Star Musician·Melody",
+        "chineseName": "琴键慕斯·煌",
+        "description": "Every key on the keyboard is the sound belongs to you. Everyone on the world has a song belongs to oneself.",
+        "effect": "Ignore M.Def ＋2%,Int ＋2"
+    },
+    {
+        "imgsrc": null,
+        "name": "Star Musician·String",
+        "chineseName": "琴键慕斯·弦",
+        "description": "Every key on the keyboard is the sound belongs to you. Everyone on the world has a song belongs to oneself.",
+        "effect": "Ignore M.Def ＋2%,Int ＋2"
+    },
+    {
+        "imgsrc": null,
+        "name": "Star Orchestra Headwear",
+        "chineseName": "追梦者系列头饰",
+        "description": "",
+        "effect": "Ignore Def ＋2%,Str ＋2"
+    },
+    {
+        "imgsrc": null,
+        "name": "Star Ring",
+        "chineseName": "星光指轮",
+        "description": "The pure and impeccable jewel mirrored the starlight, as if telling a wordless promise.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Star Singer·Dawn",
+        "chineseName": "追梦者·霞",
+        "description": "It does not need a reason to love music. To be a musician because of love, to be a guardian because of love, to be a singer because of love!",
+        "effect": "Ignore Def ＋2%,Str ＋2"
+    },
+    {
+        "imgsrc": null,
+        "name": "Star Singer·Lyrics",
+        "chineseName": "追梦者·谣",
+        "description": "It does not need a reason to love music. To be a musician because of love, to be a guardian because of love, to be a singer because of love!",
+        "effect": "Ignore Def ＋2%,Str ＋2"
+    },
+    {
+        "imgsrc": null,
+        "name": "Star Singer·Melody",
+        "chineseName": "追梦者·煌",
+        "description": "It does not need a reason to love music. To be a musician because of love, to be a guardian because of love, to be a singer because of love!",
+        "effect": "Ignore Def ＋2%,Str ＋2"
+    },
+    {
+        "imgsrc": null,
+        "name": "Star Singer·String",
+        "chineseName": "追梦者·弦",
+        "description": "It does not need a reason to love music. To be a musician because of love, to be a guardian because of love, to be a singer because of love!",
+        "effect": "Ignore Def ＋2%,Str ＋2"
+    },
+    {
+        "imgsrc": null,
+        "name": "Star White Crown",
+        "chineseName": "星光白冠",
+        "description": "Picking up cold stars in the night sky, Mallimei, the god of cloud, Mixed platinum and starlight to create a flawless star white crown for her daughter. Wearing this crown, the cloud fairy married the Elf King and bought a new life at the doomsday. Her feats are remembered by the elves, and she is also known as the fairy of star.",
+        "effect": "All Attributes ＋2,MPen. ＋4%"
+    }
+]

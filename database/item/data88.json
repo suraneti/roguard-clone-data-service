@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41201.png",
+        "name": "Giant Bow [3]",
+        "chineseName": "巨之弓[3]",
+        "description": "Its name is Giant Bow. Since it is big and heavy, it will be difficult to handle. But its powerful attack is impressive.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Giant Butterfly Wings",
+        "chineseName": "巨大蝴蝶翅膀",
+        "description": "Item of magical power created by huge butterfly wings that can allow your teammates to move with you to a set location on the map. It is a little hard to master.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Giant Fly Wing",
+        "chineseName": "巨大苍蝇翅膀",
+        "description": "Item of magical power created by Giant Fly Wings that can allow your teammates to move with you anywhere on the map. It is a little hard to master.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Giant Shield",
+        "chineseName": "巨人护盾",
+        "description": "A shield similar to the shield used by a guardian giant of the ancient temple. It is made by the legendary, containing the strength of guardians.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Giant Shield [1]",
+        "chineseName": "巨人护盾[1]",
+        "description": "A shield similar to the shield used by a guardian giant of the ancient temple. It is made by the legendary, containing the strength of guardians.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Giearth Card",
+        "chineseName": "基尔瑟卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Gift Box Helm",
+        "chineseName": "礼物盒头",
+        "description": "",
+        "effect": "Def ＋10,Max HP ＋100"
+    },
+    {
+        "imgsrc": null,
+        "name": "Gift Box Helm Blueprint",
+        "chineseName": "礼物盒头图纸",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Gift Box Helm [1]",
+        "chineseName": "礼物盒头[1]",
+        "description": "",
+        "effect": "Dex ＋3,AGI ＋3"
+    },
+    {
+        "imgsrc": null,
+        "name": "Gift from Nebula M78",
+        "chineseName": "来自M78星云的谢礼",
+        "description": "A gift of gratitude from a distant kingdom to honor the contribution made by hardworking adventurers for peace and justice!  It contains several [Ultraman’s Cosmic Breath] used to redeem great rewards prepared for adventurers by the Kingdom of Light.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Gift of Love and Courage",
+        "chineseName": "爱与勇气的礼赠",
+        "description": "To celebrate this special day, open up will guarantee to get a Seed of Mastela and receive one of the following: 2 Lightning Chain, 600 Honor Proof, 4 Mora Coins, 3 Mithril, 2 Valkyrie's Gift, 2 Gold Medal",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Gift Voucher I",
+        "chineseName": "提货券Ⅰ",
+        "description": "The voucher with mystery runes on it. Player can use it to receive 31% headwear on monthly Gashapon toys machine.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Gift Voucher II",
+        "chineseName": "提货券Ⅱ",
+        "description": "The voucher with mystery runes on it. Player can use it to receive 28% headwear on monthly Gashapon toys machine.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Gift Voucher III",
+        "chineseName": "提货券Ⅲ",
+        "description": "The voucher with mystery runes on it. Player can use it to receive 23% headwear on monthly Gashapon toys machine.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Gift Voucher IV",
+        "chineseName": "提货券Ⅳ",
+        "description": "The voucher with mystery runes on it. Player can use it to receive 7% headwear on monthly Gashapon toys machine.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Gift Voucher V",
+        "chineseName": "提货券Ⅴ",
+        "description": "Advanced orange coupon. Player can use it to receive 6% headwear on monthly Gashapon toys machine.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Gift Voucher VI",
+        "chineseName": "提货券Ⅵ",
+        "description": "Advanced gold coupon. Player can use it to receive 5% headwear on monthly Gashapon toys machine.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Gigantic Majestic Goat",
+        "chineseName": "巨大的山羊角",
+        "description": "Helmet made of giant goat's horns. The meaning of the spell is very strong.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Gigantic Majestic Goat [1]",
+        "chineseName": "巨大的山羊角[1]",
+        "description": "Helmet made of giant goat's horns. The meaning of the spell is very strong.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Gigantic Majestic Goat [1] Blueprint",
+        "chineseName": "巨大的山羊角[1]图纸",
+        "description": "Helmet made of giant goat's horns. The meaning of the spell is very strong.",
+        "effect": ""
+    }
+]

@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45060.png",
+        "name": "Indifferent Solo Hat [1]",
+        "chineseName": "自娱自乐箱子I[1]",
+        "description": "Yellow box with two holes. Put the box on the head to sense the essence of self entertainment.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45060.png",
+        "name": "Indifferent Solo Hat [1] Blueprint",
+        "chineseName": "自娱自乐箱子I[1]图纸",
+        "description": "Yellow box with two holes. Put the box on the head to sense the essence of self entertainment.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40923.png",
+        "name": "Infiltrator [1]",
+        "chineseName": "刺杀拳刃[1]",
+        "description": "The Katars specially used on humans. Senior Assassins use it to carry out assassination. Very terrible.",
+        "effect": "Doubles Critical,Flee ＋20"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40923.png",
+        "name": "Infiltrator [2]",
+        "chineseName": "刺杀拳刃[2]",
+        "description": "The Katars specially used on humans. Senior Assassins use it to carry out assassination. Very terrible.",
+        "effect": "Doubles Critical,Flee ＋20"
+    },
+    {
+        "imgsrc": null,
+        "name": "Infinity Axe [1]",
+        "chineseName": "无尽之斧[1]",
+        "description": "This weapon has a strange Str, as if some of it had been sealed.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Infinity Axe [2]",
+        "chineseName": "无尽之斧[2]",
+        "description": "This weapon has a strange Str, as if some of it had been sealed.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41201.png",
+        "name": "Infinity Bow [2]",
+        "chineseName": "无尽之弓[2]",
+        "description": "This weapon has a strange Str, as if some of it had been sealed.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41201.png",
+        "name": "Infinity Bow [3]",
+        "chineseName": "无尽之弓[3]",
+        "description": "This weapon has a strange Str, as if some of it had been sealed.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Injustice Card",
+        "chineseName": "邪恶使者卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_44020.png",
+        "name": "INT Earring",
+        "chineseName": "智力耳环",
+        "description": "The magic earrings that contain mysterious power, wearing it makes people full of energy.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_44020.png",
+        "name": "INT Earring [1]",
+        "chineseName": "智力耳环[1]",
+        "description": "The magic earrings that contain mysterious power, wearing it makes people full of energy.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_44014.png",
+        "name": "INT Glove [1]",
+        "chineseName": "智慧手套[1]",
+        "description": "Gloves with mysterious power.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_44001.png",
+        "name": "INT Glove [2]",
+        "chineseName": "智慧手套[2]",
+        "description": "Gloves with mysterious power.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12333.png",
+        "name": "Int Meal A",
+        "chineseName": "智力料理A",
+        "description": "With just one bite, You can feel a strong impact like dragon's breath. It's said that anyone who has tasted this wine would never forget the flavor. INT ＋5, Magic Damage ＋10%, This effect lasts 30 minutes.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12359.png",
+        "name": "Int Meal B",
+        "chineseName": "智力料理B",
+        "description": "With just one bite, You can feel a strong impact like dragon's breath. It's said that anyone who has tasted this wine would never forget the flavor. INT ＋10, Magic Damage ＋20%, This effect lasts 30 minutes.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_3600.png",
+        "name": "Intimacy Growth Pack",
+        "chineseName": "亲密度养成礼包",
+        "description": "A well-planned gift bag. Open it to receive items for intimacy cultivation.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Invincible Ice",
+        "chineseName": "无敌绵绵冰",
+        "description": "Ice drink sprinkled with invincible grains, the soft taste is much impressive. Eating it decreases all magic damage you suffer to 1 point, the effect lasts 8 seconds. All ice drinks share 1-min CD, and can only be used on PVP maps.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Invisible Syrup",
+        "chineseName": "隐匿糖浆",
+        "description": "Syrup that allows player to be invisible. Once drinking it, you will immediately enter a hiding state, In which your moving speed will be reduced. Such effects last 30 seconds, and this item can only be used on PVP maps.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Invitation from Stars",
+        "chineseName": "来自星星的邀请",
+        "description": "You get another chance since you are blessed by the starry sky! (Special benefit: Every adventurer has a chance to change the result everyday, Though you need to buy [Invitation from Stars] , a special item in the Zodiac Shop first. As long as the adventurer who starts the divination has the special item, the adventurer who is invited but without the item can also obtain an item of the guidance of constellation. But in this way, Every adventurer only has one chance to change the result.)",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Ionized Jur",
+        "chineseName": "电离拳刃",
+        "description": "Special jur with ionized blade which compensates an assassin's lack of strength. Rapid strikes from this weapon are devastating.",
+        "effect": ""
+    }
+]

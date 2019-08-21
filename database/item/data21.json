@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40307.png",
+        "name": "Bastard Sword [2]",
+        "chineseName": "亚尔特剑[2]",
+        "description": "A double-handed sword is both handy for chopping and stabbing.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Bathory Card",
+        "chineseName": "巫婆卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41804.png",
+        "name": "Battle Axe",
+        "chineseName": "巨斧",
+        "description": "A Two-Handed Axe used in the battle with multiple players.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41804.png",
+        "name": "Battle Axe [2]",
+        "chineseName": "巨斧[2]",
+        "description": "A Two-Handed Axe used in the battle with multiple players.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Battle Berdysz [1]",
+        "chineseName": "强袭双刃斧[1]",
+        "description": "Atk + 268",
+        "effect": "VIT ＋6,[Alloy Mail] ＋[Battle Berdysz]: each auto attack causes Amistr's Atk increases by 3%; the effect lasts 5 seconds, and can stack 3 times at most."
+    },
+    {
+        "imgsrc": null,
+        "name": "Battle Berdysz [2]",
+        "chineseName": "强袭双刃斧[2]",
+        "description": "Atk + 268",
+        "effect": "VIT ＋6,[Alloy Mail] ＋[Battle Berdysz]: each auto attack causes Amistr's Atk increases by 3%; the effect lasts 5 seconds, and can stack 3 times at most."
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43528.png",
+        "name": "Battle Boots[1]",
+        "chineseName": "狙击手的长靴[1]",
+        "description": "Although they looks no different from other boots, They are only fie the marksman.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Battle Bow",
+        "chineseName": "战斗弓",
+        "description": "In order to adapt to the intensity of the battlefield, the bow structure is specially reinforced.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Battle Bow [2]",
+        "chineseName": "战斗弓[2]",
+        "description": "In order to adapt to the intensity of the battlefield, the bow structure is specially reinforced.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Battle Hook [2]",
+        "chineseName": "强袭战矛[2]",
+        "description": "Like a hook, the spear tip can drag anybody and make him difficult to walk.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40005.png",
+        "name": "Battle Hook [3]",
+        "chineseName": "强袭战矛[3]",
+        "description": "Like a hook, the spear tip can drag anybody and make him difficult to walk.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Battle Wish",
+        "chineseName": "祈愿·戌",
+        "description": "In the new year, Make wishes to Shycent, You'll receive blessings: for 1 hour your Base, Job EXP received by killing wild monsters will have 100% bonus.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40711.png",
+        "name": "Bazerald [1]",
+        "chineseName": "华丽短剑[1]",
+        "description": "Knives with a gorgeous appearance. People of high status often use it as an ornament or use it in the ceremony.",
+        "effect": "When launching auto attacks, Caster has a 10% chance to trigger assault: damage of Thief's next skill ＋50%,auto attacks in assaulting state: ＋10%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40711.png",
+        "name": "Bazerald [2]",
+        "chineseName": "华丽短剑[2]",
+        "description": "Knives with a gorgeous appearance. People of high status often use it as an ornament or use it in the ceremony.",
+        "effect": "When launching auto attacks, Caster has a 10% chance to trigger assault: damage of Thief's next skill ＋50%,auto attacks in assaulting state: ＋10%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Beach goggle series Face Headwear",
+        "chineseName": "沙滩护目镜系列脸饰",
+        "description": "Fashionable Beach goggle, make yourself the center of spotlight! Enjoy summer sunlight, beach and the sea!",
+        "effect": "Def ＋3%,Fire damage taken －5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Beach goggle·Green",
+        "chineseName": "沙滩护目镜·椰子绿",
+        "description": "Fashionable Green Beach goggle, make yourself the center of spotlight! Enjoy summer sunlight, beach and the sea!",
+        "effect": "Def ＋3%,Fire damage taken －5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Beach goggle·ocean blue",
+        "chineseName": "沙滩护目镜·海洋蓝",
+        "description": "Fashionable ocean blue Beach goggle, make yourself the center of spotlight! Enjoy summer sunlight, beach and the sea!",
+        "effect": "Def ＋3%,Fire damage taken －5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Beach goggle·Red",
+        "chineseName": "沙滩护目镜·骄阳红",
+        "description": "Fashionable Red Beach goggle, make yourself the center of spotlight! Enjoy summer sunlight, beach and the sea!",
+        "effect": "Def ＋3%,Fire damage taken －5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Beach goggle·Yellow",
+        "chineseName": "沙滩护目镜·凤梨黄",
+        "description": "Fashionable Yellow Beach goggle, make yourself the center of spotlight! Enjoy summer sunlight, beach and the sea!",
+        "effect": "Def ＋3%,Fire damage taken －5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Beach Hat",
+        "chineseName": "美人蕉沙滩帽",
+        "description": "On the noisy beach, the girl is selling her beach-hat. This seems to be a distinctive hat, With white satin and red plantains making it much attractive. (thank you very much for your purchase. This beautiful ornament is unavailable on the exchange during the activity, the transaction will be normal after the period. By Ina, July 2017.)",
+        "effect": ""
+    }
+]

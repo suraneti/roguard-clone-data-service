@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Serenade",
+        "chineseName": "小夜曲",
+        "description": "With the sweet and love night time, write a fantasy serenade for you.",
+        "effect": "Dmg reduc. ＋5%,Max Hp ＋300"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_5200.png",
+        "name": "Sert's Coin",
+        "chineseName": "塞尔特的特制硬币",
+        "description": "A coin engraved with the challenger's name. It symbolizes honor and strength for dueling clubs.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Server Launch Lucky Bag",
+        "chineseName": "开服庆典福袋",
+        "description": "New Server Lucky Bag. Open to get a mysterious gift.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Seven-colored Sunlight",
+        "chineseName": "七种阳光",
+        "description": "Sunlight has 7 colors whose Trial can only be occasionally captured after rain.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_3033.png",
+        "name": "Sewer Material Pack",
+        "chineseName": "下水道材料包",
+        "description": "Sewer Material Pack, in which all kinds of Sewer materials can be found.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43520.png",
+        "name": "Shackles [1]",
+        "chineseName": "脚链[1]",
+        "description": "This item is to handcuff criminals and slaves' feet so that prevent them from escaping. The heavy stuff on ankles makes them difficult to move.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43503.png",
+        "name": "Shackles [2]",
+        "chineseName": "脚链[2]",
+        "description": "This item is to handcuff criminals and slaves' feet so that prevent them from escaping. The heavy stuff on ankles makes them difficult to move.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Shadow Bracer [1]",
+        "chineseName": "阴影腕甲[1]",
+        "description": "Shadow bracer, with incredible power.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Shadow Bracer [2]",
+        "chineseName": "阴影腕甲[2]",
+        "description": "Shadow bracer, with incredible power.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Shadow Guar [1]",
+        "chineseName": "阴影守护[1]",
+        "description": "Black shields that can be equipped on arms.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Shadow Guar [2]",
+        "chineseName": "阴影守护[2]",
+        "description": "Black shields that can be equipped on arms.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Shadow Hunt Card",
+        "chineseName": "影之猎袭卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Shadow Sand",
+        "chineseName": "幻影流沙",
+        "description": "When you face yourself from the future, can you recognize \"yourself\"? The flowing sand will not tell you the answer. No matter how hard you try, it will be scattered from your palm. Maybe that is the fate...",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43503.png",
+        "name": "Shadow Walk [1]",
+        "chineseName": "阴影之靴[1]",
+        "description": "Boots made with dark spells to blend the user into darkness. Mage who made the boots enables the boots to protect the users in face of crisis.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43503.png",
+        "name": "Shadow Walk [2]",
+        "chineseName": "阴影之靴[2]",
+        "description": "Boots made with dark spells to blend the user into darkness. Mage who made the boots enables the boots to protect the users in face of crisis.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Shaking Deviruchi",
+        "chineseName": "瑟瑟发抖·小恶魔",
+        "description": "Bad news! To go against Year Beast, they will sacrifice Deviruchi to a worship ceremony! For love and to go against the evil, please save him!",
+        "effect": "Max HP ＋100,Ignore M.Def ＋3%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Shattering snow·Blue Guardian",
+        "chineseName": "碎雪·冰蓝守卫",
+        "description": "Heavy shield covered in Cold Iron, it keeps emitting Chill blue light and a freezing aura.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Shattering snow·Crimson Freeze",
+        "chineseName": "碎雪·赤练寒华",
+        "description": "Magical dagger that emit freezing power, when wielded it will become the roaring snowstorm and freeze victim's soul and body .",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Shattering snow·Everending Snow",
+        "chineseName": "碎雪·断雪燃魂",
+        "description": "Jur made by rare Ice crystal, the ice Core's blue fire burns ever bright.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Shattering snow·Freezing Breath",
+        "chineseName": "碎雪·冰龙霜焰",
+        "description": "Spear made from icy Dragon breath and ice crystal, every thrust is powerful like the burning yet freezing breath of the ice dragons.",
+        "effect": ""
+    }
+]

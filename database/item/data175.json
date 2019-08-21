@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Purification Holy Grail West Gate",
+        "chineseName": "净化圣杯·西门",
+        "description": "Smash the Holy Grail to purify all monsters in [West Gate] Time Rift with Holy Water. [This unstable invention is moderately effective in controlling the number of monsters swarming out of the Time Rift. However, complicated production techniques are controlled by the church. We can only get them through special ways... We're considering one thing that what can we do if monsters are immune to it? ...]",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12336.png",
+        "name": "Purification Potion",
+        "chineseName": "净化药水",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Purification Syrup",
+        "chineseName": "净化糖浆",
+        "description": "Pure golden syrup. Once drinking it, you can be immune to all crowd control effects, including slowing, stone curse, freezing, stunning, etc. Such effects last 10 seconds, CD lasts 60 seconds, and this item can only be used on PVP maps.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Purified Baseball Hat[1]",
+        "chineseName": "纯洁的棒球帽[1]",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Puriku Drink",
+        "chineseName": "Puriku饮料",
+        "description": "Drink this Puriku Drink to gain double Base and Job Exp from killing monsters for 30 minutes after use~ (Buff’s remaining time elapses when you’re dead and when you’re out of combat but not when you’re offline)",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Puriku Gift Box",
+        "chineseName": "Puriku相伴礼盒",
+        "description": "Puriku will keep you active and happy throughout the day. Open up will receive: 1 \"Puriku Drink\", and has a chance to receive: 1 \"Puriku P Cha\"",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12104.png",
+        "name": "Purple Clothing Dye",
+        "chineseName": "紫色衣服染料",
+        "description": "It can dye clothing materials purple.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_3033.png",
+        "name": "Pyramid 1F Material Pack",
+        "chineseName": "金字塔1F材料包",
+        "description": "Pyramid 1F Material Pack, in which all kinds of Pyramid 1F materials can be found.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_3033.png",
+        "name": "Pyramid 2F Material Pack",
+        "chineseName": "金字塔2F材料包",
+        "description": "Pyramid 2F Material Pack, in which all kinds of Pyramid 2F materials can be found.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Pyramid Puzzle",
+        "chineseName": "金字塔的谜题",
+        "description": "The [Fantasy Game] combines [Live] and [Die], showing the two sides of human beings that exist for thousands of years. Witness the book of doppelganger, tease Oedipus the King and greet the veils of immigrants. How many secrets are still hidden in the biggest cube on the blue planet?",
+        "effect": "INT ＋3,When INT reaches 200, ignore MDef ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Pyramid Puzzle [1]",
+        "chineseName": "金字塔的谜题[1]",
+        "description": "The [Fantasy Game] combines [Live] and [Die], showing the two sides of human beings that exist for thousands of years. Witness the book of doppelganger, tease Oedipus the King and greet the veils of immigrants. How many secrets are still hidden in the biggest cube on the blue planet?",
+        "effect": "INT ＋3,When INT reaches 200, ignore MDef ＋5%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41504.png",
+        "name": "Quadrille [2]",
+        "chineseName": "秘锤冷月[2]",
+        "description": "A super large mace with a huge dome.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41504.png",
+        "name": "Quadrille [3]",
+        "chineseName": "秘锤冷月[3]",
+        "description": "A super large mace with a huge dome.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45033.png",
+        "name": "Queen's Hair Ornament",
+        "chineseName": "蛇饰发箍",
+        "description": "Ancient queen's hair decoration. Designed with unspeakable authority, it's very gorgeous.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45033.png",
+        "name": "Queen's Hair Ornament Blueprint",
+        "chineseName": "蛇饰发箍图纸",
+        "description": "Ancient queen's hair decoration. Designed with unspeakable authority, it's very gorgeous.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45033.png",
+        "name": "Queen's Hair Ornament [1]",
+        "chineseName": "蛇饰发箍[1]",
+        "description": "Ancient queen's hair decoration. Designed with unspeakable authority, it's very gorgeous.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Quiet Echo Box",
+        "chineseName": "静谧回响礼盒",
+        "description": "Use it and get the Magic Dominator Dusk(male) or Lilith Rose (female) beauty contact lens from the Beauty of Eyes in Prontera.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Quiet Light",
+        "chineseName": "静谧之光",
+        "description": "Look into the distance at the highest spot in Prontera in a quiet night and see a beam of light rising suddenly.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Quietness Wizard Hat",
+        "chineseName": "幽邃巫师帽",
+        "description": "Under the broad brim of the hat, the magic crept, as if there were a voice whispering in his ear, \"come on, the abyss of magic awaits you.\"",
+        "effect": "All Attributes ＋2,M.Atk ＋12"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_47020.png",
+        "name": "Quiver",
+        "chineseName": "箭袋",
+        "description": "Quiver carried on the back. It is recommended to be used with the bow and arrow.",
+        "effect": ""
+    }
+]

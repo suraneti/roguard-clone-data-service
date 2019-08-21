@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Shattering snow·Frost prison",
+        "chineseName": "碎雪·流霜镇狱",
+        "description": "Hammer fueled with power of ice, every Strike will bring shattering flake, even the frozen north can not withstand its power.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Shattering snow·Icy phantom",
+        "chineseName": "碎雪·霜寒封影",
+        "description": "Rod that possess the soul of ice Element, ice soul Core gives the rod endless magic power, weapon belong to the legendary icy wizard of Midgard.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Shattering snow·Piercing Ice",
+        "chineseName": "碎雪·十方冰裂",
+        "description": "legendary Bow with power of the ice, the freezing power will condense when holding it, release the Bowstring and send the ice shards into victim's heart.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Shattering snow·White king's ice blade",
+        "chineseName": "碎雪·白王冰刃",
+        "description": "Weapon of legendary Tundra swordsman White king, blade made of everfrost can maintain absolute zero even in the magical fire, it will freeze anything comes toward its way.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Shattering snow·Winter lord",
+        "chineseName": "碎雪·凛冬霸王",
+        "description": "Axe born from the ice crystal, possess the devastating power that can split arctic glacier, even demons are afraid of its blood freezing terror.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45141.png",
+        "name": "Sheila Hairnet",
+        "chineseName": "兔女郎发圈",
+        "description": "It's a hairband specially made for you to capture your sexual appeal. Men will change their attitude when you wear it.",
+        "effect": "Agi ＋2,M.Def ＋10"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45141.png",
+        "name": "Sheila Hairnet Blueprint",
+        "chineseName": "兔女郎发圈图纸",
+        "description": "It's a hairband specially made for you to capture your sexual appeal. Men will change their attitude when you wear it.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45141.png",
+        "name": "Sheila Hairnet [1]",
+        "chineseName": "兔女郎发圈[1]",
+        "description": "It's a hairband specially made for you to capture your sexual appeal. Men will change their attitude when you wear it.",
+        "effect": "Agi ＋2,M.Def ＋10"
+    },
+    {
+        "imgsrc": null,
+        "name": "Shell",
+        "chineseName": "炮弹",
+        "description": "It’s not funny to be hit by it. But it’s immense power can only be unleased when it’s fired by some special weapon.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Shell Clip",
+        "chineseName": "珍珠贝壳发夹",
+        "description": "",
+        "effect": "Dex ＋3,AGI ＋3"
+    },
+    {
+        "imgsrc": null,
+        "name": "Shield (For Goblin)",
+        "chineseName": "盾牌(哥布灵用)",
+        "description": "Goblin's shield",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Shield of Naga",
+        "chineseName": "娜迦鳞盾",
+        "description": "A shield made of Naga's scales, seemingly very hard and meticulous. It may scratch you if you accidentally touch it.",
+        "effect": "M.Atk ＋8%,For Refining ＋1, Skill multiplier of [Grand Cross] ＋30%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Shield of Naga [1]",
+        "chineseName": "娜迦鳞盾[1]",
+        "description": "A shield made of Naga's scales, seemingly very hard and meticulous. It may scratch you if you accidentally touch it.",
+        "effect": "M.Atk ＋8%,For Refining ＋1, Skill multiplier of [Grand Cross] ＋30%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42504.png",
+        "name": "Shield [1]",
+        "chineseName": "钢盾[1]",
+        "description": "Defensive props made of hard metal.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42504.png",
+        "name": "Shield [2]",
+        "chineseName": "钢盾[2]",
+        "description": "A circular shield that is easy and widely used.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Shigehiro Sunglasses",
+        "chineseName": "重熙眼镜",
+        "description": "Shigehiro Sunglasses",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Shining Baseball Cap [1]",
+        "chineseName": "闪烁的棒球帽[1]",
+        "description": "A baseball cap with a striking color sure to make you the center of attention. \"Well, don't you look like a big shot, now?\"",
+        "effect": "When equipped by Swordsman/Assassin/Priest/Merchant, Atk ＋10,When equipped by wizards, M.Atk ＋10"
+    },
+    {
+        "imgsrc": null,
+        "name": "Shining Electric Bulb Hairband",
+        "chineseName": "闪光的灯泡",
+        "description": "",
+        "effect": "Dex ＋3,AGI ＋3"
+    },
+    {
+        "imgsrc": null,
+        "name": "Shining Electric Bulb Hairband [1]",
+        "chineseName": "闪光的灯泡[1]",
+        "description": "",
+        "effect": "Dex ＋3,AGI ＋3"
+    },
+    {
+        "imgsrc": null,
+        "name": "Shining Electric Bulb Hairband [1] Blueprint",
+        "chineseName": "闪光的灯泡[1]图纸",
+        "description": "",
+        "effect": ""
+    }
+]

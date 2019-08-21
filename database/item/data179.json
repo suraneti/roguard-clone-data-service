@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Raydric Sword",
+        "chineseName": "幽灵剑士剑",
+        "description": "Raydric Sword",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Raynojose's Med Bottle",
+        "chineseName": "雷诺里塞的小药瓶",
+        "description": "Respec point held by NPC",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41504.png",
+        "name": "Recovery Light [2]",
+        "chineseName": "痊愈光辉[2]",
+        "description": "A stick developed to improve the healing power to the extreme. To use the powerful healing power, one's mental power will be drastically consumed.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41504.png",
+        "name": "Recovery Light [3]",
+        "chineseName": "痊愈光辉[3]",
+        "description": "A stick developed to improve the healing power to the extreme. To use the powerful healing power, one's mental power will be drastically consumed.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Red Agate",
+        "chineseName": "红色玛瑙",
+        "description": "In the remote Orient, the gems that adults like to wear look bright and clear and can bring in wealth and luck. Use it and you will be wealthier, getting 300000 zeny.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45027.png",
+        "name": "Red Bandana",
+        "chineseName": "头巾",
+        "description": "A sun-proof and heat-proof headscarf made of airy materials.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45027.png",
+        "name": "Red Bandana Blueprint",
+        "chineseName": "头巾图纸",
+        "description": "A sun-proof and heat-proof headscarf made of airy materials.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45027.png",
+        "name": "Red Bandana [1]",
+        "chineseName": "头巾[1]",
+        "description": "A sun-proof and heat-proof headscarf made of airy materials.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Red bull extra Energy cap[1]",
+        "chineseName": "能量棒球帽[1]",
+        "description": "A baseball cap with maximum energy. You will feel the power after putting it on!",
+        "effect": "All Attributes ＋1,M.Atk ＋8"
+    },
+    {
+        "imgsrc": null,
+        "name": "Red Bull Extra Energy Drink",
+        "chineseName": "红牛能量特饮",
+        "description": "After drinking it, you will have maximum energy! Grants a buff with All Attributes +5 and SP regen +5 for 30 minutes.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Red Bull Extra GiftBox",
+        "chineseName": "红牛能量礼盒",
+        "description": "A giftbox with maximum energy, open to receive 「Red Bull Extra Energy Drink」x5, 「Lightning Chain」x1; and has a chance to receive limited headwear 「Red bull extra Energy cap[1]」x1",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Red Bull Eye",
+        "chineseName": "猩红牛眼",
+        "description": "Red Bull Eye",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Red Bull Eye Blueprint",
+        "chineseName": "猩红牛眼图纸",
+        "description": "Red Bull Eye",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12121.png",
+        "name": "Red Candy",
+        "chineseName": "红色开心糖果",
+        "description": "The most common hard fruit candy in Halloween. Wrapped tightly in red covers, it's popular among children. Restore 50% HP",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12101.png",
+        "name": "Red Clothing Dye",
+        "chineseName": "红色衣服染料",
+        "description": "It can dye clothing materials red.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Red Ether Bag [1]",
+        "chineseName": "红色以太手提包[1] ",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Red Ether Bag [2]",
+        "chineseName": "红色以太手提包[2] ",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_5010.png",
+        "name": "Red Herb",
+        "chineseName": "红色药草",
+        "description": "A raw material for producing red hair dyes.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43002.png",
+        "name": "Red Muffler",
+        "chineseName": "红色围巾",
+        "description": "A red cloth around your neck that keeps you warm.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43002.png",
+        "name": "Red Muffler [1]",
+        "chineseName": "红色围巾[1]",
+        "description": "A red cloth around your neck that keeps you warm.",
+        "effect": ""
+    }
+]

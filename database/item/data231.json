@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12004.png",
+        "name": "Transformation Scroll (Gargoyle)",
+        "chineseName": "蝙蝠弓箭手变身卷轴",
+        "description": "Use it to transform into Gargoyle for a while. Attention! The effect will vanish when mounted or dead. This item can’t be canceled once unsealed.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12004.png",
+        "name": "Transformation Scroll (Garm)",
+        "chineseName": "卡仑变身卷轴",
+        "description": "Use it to transform into Garm for a while. Attention! The effect will vanish when mounted or dead. This item can’t be canceled once unsealed.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12004.png",
+        "name": "Transformation Scroll (Geographer)",
+        "chineseName": "邪恶向日葵变身卷轴",
+        "description": "Use to transform into an Geographer for a while. Attention! Transformation expired upon death or mounting This item cannot be canceled after opened.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12004.png",
+        "name": "Transformation Scroll (Ghostring)",
+        "chineseName": "幽灵波利变身卷轴",
+        "description": "Use it to transform into Ghostring for a while. Attention! The effect will vanish when mounted or dead. This item can’t be canceled once unsealed.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12004.png",
+        "name": "Transformation Scroll (Giearth)",
+        "chineseName": "基尔瑟变身卷轴",
+        "description": "Use it to transform into Giearth for a while. Attention! The effect will vanish when mounted or dead. This item can’t be canceled once unsealed.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12004.png",
+        "name": "Transformation Scroll (Gingerbread Man)",
+        "chineseName": "姜饼人变身卷轴",
+        "description": "Use it to transform into Cookie for a while. Attention! The transform effect will vanish when mounted or dead. This item can't be canceled once unsealed.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12004.png",
+        "name": "Transformation Scroll (Goblin Archer)",
+        "chineseName": "弓箭哥布灵变身卷轴",
+        "description": "Use it to transform into Goblin Archer for a while. Attention! The effect will vanish when mounted or dead. This item can’t be canceled once unsealed.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12004.png",
+        "name": "Transformation Scroll (Goblin Leader)",
+        "chineseName": "哥布灵首领变身卷轴",
+        "description": "Use it to transform into Goblin Leader for a while. Attention! The effect will vanish when mounted or dead. This item can’t be canceled once unsealed.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12004.png",
+        "name": "Transformation Scroll (Goblin(Axe))",
+        "chineseName": "大斧哥布灵变身卷轴",
+        "description": "Use it to transform into Goblin(Axe) for a while. Attention! The effect will vanish when mounted or dead. This item can’t be canceled once unsealed.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12004.png",
+        "name": "Transformation Scroll (Goblin(Buckler))",
+        "chineseName": "榔头哥布灵变身卷轴",
+        "description": "Use it to transform into Goblin(Buckler) for a while. Attention! The effect will vanish when mounted or dead. This item can’t be canceled once unsealed.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12004.png",
+        "name": "Transformation Scroll (Goblin(Hammer))",
+        "chineseName": "刺锤哥布灵变身卷轴",
+        "description": "Use it to transform into Goblin(Hammer) for a while. Attention! The effect will vanish when mounted or dead. This item can’t be canceled once unsealed.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12004.png",
+        "name": "Transformation Scroll (Goblin(Knife))",
+        "chineseName": "刺刀哥布灵变身卷轴",
+        "description": "Use it to transform into Goblin(Knife) for a while. Attention! The effect will vanish when mounted or dead. This item can’t be canceled once unsealed.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12004.png",
+        "name": "Transformation Scroll (Goblin(Spear))",
+        "chineseName": "长矛哥布灵变身卷轴",
+        "description": "Use it to transform into Goblin(Spear) for a while. Attention! The effect will vanish when mounted or dead. This item can’t be canceled once unsealed.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12004.png",
+        "name": "Transformation Scroll (Golden Thief Bug)",
+        "chineseName": "黄金虫变身卷轴",
+        "description": "Use it to transform into Golden Thief Bug for a while. Attention! The effect will vanish when mounted or dead. This item can’t be canceled once unsealed.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12004.png",
+        "name": "Transformation Scroll (Golem)",
+        "chineseName": "巨石怪变身卷轴",
+        "description": "Use it to transform into Golem for a while. Attention! The effect will vanish when mounted or dead. This item can’t be canceled once unsealed.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12004.png",
+        "name": "Transformation Scroll (Goro)",
+        "chineseName": "五郎变身卷轴",
+        "description": "Use it to transform into Goro for a while. Attention! The effect will vanish when mounted or dead. This item can’t be canceled once unsealed.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12004.png",
+        "name": "Transformation Scroll (Greatest General)",
+        "chineseName": "将军魔碑变身卷轴",
+        "description": "Use it to transform into Greatest General for a while. Attention! The effect will vanish when mounted or dead. This item can’t be canceled once unsealed.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12004.png",
+        "name": "Transformation Scroll (Green Petite)",
+        "chineseName": "毕帝特地龙变身卷轴",
+        "description": "Use it to transform into Green Petite for a while. Attention! The effect will vanish when mounted or dead. This item can’t be canceled once unsealed.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12004.png",
+        "name": "Transformation Scroll (Gryphon)",
+        "chineseName": "狮鹫兽变身卷轴",
+        "description": "Use it to transform into Gryphon for a while. Attention! The effect will vanish when mounted or dead. This item can’t be canceled once unsealed.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12004.png",
+        "name": "Transformation Scroll (Harpy)",
+        "chineseName": "鸟人哈比变身卷轴",
+        "description": "Use to transform into a Harpy for a while. Attention! Transformation expired upon death or mounting This item cannot be canceled after opened.",
+        "effect": ""
+    }
+]

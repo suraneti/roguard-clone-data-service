@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42021.png",
+        "name": "Holy Robe",
+        "chineseName": "天衣月舞",
+        "description": "The armor of Odin's servant, \"War Girl\", it gives off white light after player wears it.",
+        "effect": "INT ＋3,SP cost of [Kyrie Eleison], [Magnificat] , [Assumptio] -40%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42021.png",
+        "name": "Holy Robe [1]",
+        "chineseName": "天衣月舞[1]",
+        "description": "The armor of Odin's servant, \"War Girl\", it gives off white light after player wears it.",
+        "effect": "INT ＋3,SP cost of [Kyrie Eleison], [Magnificat] , [Assumptio] -40%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Holy Spirit Weapon Voucher",
+        "chineseName": "圣灵武器兑换券",
+        "description": "Wow! Congrats, go choose your desired weapon transmog!",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41519.png",
+        "name": "Holy Stick [1]",
+        "chineseName": "神圣权杖[1]",
+        "description": "A scepter specially used in the ritual of exorcism.",
+        "effect": "M.Atk ＋10%,CT Variable of [Holy Light Strike], [Turn Undead], [Magnus Exorcismus Attack] -25%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41519.png",
+        "name": "Holy Stick [2]",
+        "chineseName": "神圣权杖[2]",
+        "description": "A scepter specially used in the ritual of exorcism.",
+        "effect": "M.Atk ＋10%,CT Variable of [Holy Light Strike], [Turn Undead], [Magnus Exorcismus Attack] -25%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Holy Water",
+        "chineseName": "圣水",
+        "description": "Tears of Holy Light Goddess converge into a river of Holy Water that grants people holy power.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40905.png",
+        "name": "Holy Wing Katar [2]",
+        "chineseName": "圣辉之翼[2]",
+        "description": "It is said to be a god object falling down from heaven. Users will gain the Str of belief.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40905.png",
+        "name": "Holy Wing Katar [3]",
+        "chineseName": "圣辉之翼[3]",
+        "description": "It is said to be a god object falling down from heaven. Users will gain the Str of belief.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Holy·Gern Dahl's anthem",
+        "chineseName": "圣灵·格恩之颂魂歌",
+        "description": "The staff owned by the god of magic power, Gern Dahl. It is inlaid with the dense Rune Spell. Use it and the magic power of the user will be upgraded to another level.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Holy·Gore's Roar hammer",
+        "chineseName": "圣灵·古尔之咆哮锤",
+        "description": "God of War - Scar Gore's hammer, as it slamming on the ground, it creates a scaring sound like beasts roaring",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Holy·Hayfjord's star slayer bow",
+        "chineseName": "圣灵·海芙约特之歼星弓",
+        "description": "God of Army——Hayfjord's longbow, the power of its full pull can easily penetrate a star.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Holy·Hillock's broken sword",
+        "chineseName": "圣灵·赫萝克之断陨剑",
+        "description": "The most powerful sword in the numerous collections of Hillock \"the Weapon Collection God\". This weapon is the one he warship the most.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Holy·Jolo's Glory Spear",
+        "chineseName": "圣灵·洁萝之辉芒枪",
+        "description": "The God of Spear——Jolo Lore's weapon, this is the only way to honor the great war-field weapon owned by Jolo Lore for many years.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Holy·Mist's illusion Blade",
+        "chineseName": "圣灵·密丝特之雾嗅刃",
+        "description": "The God of fog, Mist, as the best assassin god, will certainly look after those lurkers in the shadow. The Termination of Mist is the deadly weapon specially made for the assassin in the shadow.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Holy·Reginleif's Rage",
+        "chineseName": "圣灵·瑞吉之暴怒剑",
+        "description": "Knives was made by the rage of the God of the Holiness, Reginleif. It is the glory of the holiness. Only a very strong man can control this sharp sword full of God's anger.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Holy·Skullgrid's War Axe",
+        "chineseName": "圣灵·斯克之坚定斧",
+        "description": "Skullgrid axe, the will incarnation of Skullgrid. Only those who have made great contributions to Valhalla can acquire this axe, and those who defy the will be sentenced to death!",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Holy·The shield of Landy Grace",
+        "chineseName": "圣灵·兰蒂之山岳盾",
+        "description": "The shield of Landy Grace. Although known as a shield destroyer, Landy's shield is the one she can never destroy, and only the merciful one deserves this shield.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12117.png",
+        "name": "Honey",
+        "chineseName": "蜂蜜",
+        "description": "A sweet and nutritious liquid often used for treatment. It can recover 25% of Max HP and Max SP. If used during PVP, the HP Regen will reduce and CD time will be longer.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Honey cake",
+        "chineseName": "蜂蜜蛋糕",
+        "description": "",
+        "effect": "Dex ＋3,AGI ＋3"
+    },
+    {
+        "imgsrc": null,
+        "name": "Honey Cake Blueprint",
+        "chineseName": "蜂蜜蛋糕图纸",
+        "description": "",
+        "effect": ""
+    }
+]

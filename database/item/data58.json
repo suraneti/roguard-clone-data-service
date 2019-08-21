@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Dog Year Gift Pack",
+        "chineseName": "戌神礼赞",
+        "description": "A well-packed God Year limited gift box year, open it to get fortune and wealth!",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Dog Year Red Pack",
+        "chineseName": "戌之红包",
+        "description": "Happy New year! Open it to receive a random number of Zeny.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Dog Year's Blessing",
+        "chineseName": "戌神赐福",
+        "description": "A gratitude gift from Shycent. After use, you can receive handsome Big Cat Royal Pack 1.0, Big Cat's Chest, New Year firecrackerss, and possibly Beast Scale as an extra reward.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Dog's Loyalty",
+        "chineseName": "汪酱的忠贞",
+        "description": "emmmm… Although the meat has been eaten out, there's still a big bone left which dogs love. Please take good care of it. (Use it after making a sincere wish. The big bone may bring you surprise! )",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Doge Colonel",
+        "chineseName": "汪汪上校",
+        "description": "A very good-looking Colonel's uniform cap! The erected ears looks extremely rigorous.",
+        "effect": "Def ＋5%,Max HP ＋200"
+    },
+    {
+        "imgsrc": null,
+        "name": "Doge Colonel Blueprint",
+        "chineseName": "汪汪上校图纸",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Doge Colonel [1]",
+        "chineseName": "汪汪上校[1]",
+        "description": "A very good-looking Colonel's uniform cap! The erected ears look extremely rigorous.",
+        "effect": "Def ＋5%,Max HP ＋200"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_44010.png",
+        "name": "Dogtooth Gloves",
+        "chineseName": "犬牙手套",
+        "description": "The equipment is said to belong to the eastern hunting army.",
+        "effect": "Dex ＋5,Dmg to demon race ＋5%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_44010.png",
+        "name": "Dogtooth Gloves [1]",
+        "chineseName": "犬牙手套[1]",
+        "description": "The equipment is said to belong to the eastern hunting army.",
+        "effect": "Dex ＋5,Dmg to demon race ＋5%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Dokebi Card",
+        "chineseName": "土人卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45184.png",
+        "name": "Dokebi Horn",
+        "chineseName": "土人魔角",
+        "description": "Headdress made according to the horns on the head of monster Dokebi. It seems as one of the ghost family after putting it on.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45184.png",
+        "name": "Dokebi Horn [1]",
+        "chineseName": "土人魔角[1]",
+        "description": "Headdress made according to the horns on the head of monster Dokebi. It seems as one of the ghost family after putting it on.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45184.png",
+        "name": "Dokebi Horn [1] Blueprint",
+        "chineseName": "土人魔角[1]图纸",
+        "description": "Headdress made according to the horns on the head of monster Dokebi. It seems as one of the ghost family after putting it on.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_4001.png",
+        "name": "Don't Cry, babe",
+        "chineseName": "宝贝别哭",
+        "description": "A wizard music record. With it, You can order songs in the music box spot newly designed by Kafra. [The whole world is silvery in the most special season. Do you still cry alone somewhere in the dark?]",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Don't Cry, babe",
+        "chineseName": "宝贝·别哭",
+        "description": "Betty knew that the girl she had been waiting for might never come back. After the snowy night with ringing bell, the girl's eyes were no longer confined to Betty, and the girl's time was no longer in that moment. The girl grew up and was led by hands as strong as her father to the bustling Christmas Eve Fair. Betty will still be here to spread the gift called Blessing.",
+        "effect": "Healing Inc. ＋3%,Holy Dmg ＋3%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Donut Bag",
+        "chineseName": "甜甜圈猫包",
+        "description": "Cat slaves must bring their cats and food in adventures! [Author: Tumbled Watermelon Juice]",
+        "effect": "Max HP ＋500,Dmg to Demi-Human race ＋4%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Donut Bag Blueprint",
+        "chineseName": "甜甜圈猫包图纸",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Doom Axe [1]",
+        "chineseName": "毁灭手斧[1]",
+        "description": "The buster, which devours enough souls, becomes the Doom Axe, gives the bearer more seductive power, and requires more cost. Once it is grasped, it seems to hear a voice whispering in my mind, \"to split the shackle of reason, embrace the abyss of power.\"",
+        "effect": "Str ＋5,When Strength reaches 50, Atk ＋10%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Doom Axe [2]",
+        "chineseName": "毁灭手斧[2]",
+        "description": "The buster, which devours enough souls, becomes the Doom Axe, gives the bearer more seductive power, and requires more cost. Once it is grasped, it seems to hear a voice whispering in my mind, \"to split the shackle of reason, embrace the abyss of power.\"",
+        "effect": "Str ＋5,When Strength reaches 50, Atk ＋10%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Doom Slayer [1]",
+        "chineseName": "超重双手斧[1]",
+        "description": "A super vast and heavy axe that is too big to describe. Without certain strength, it won't give full play to its real power even being lifted up.",
+        "effect": "When Strength reaches 95, Atk ＋340,With a probability to destroy armors (no content yet)"
+    }
+]

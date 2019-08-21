@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Shining Glass Bead",
+        "chineseName": "闪亮玻璃珠",
+        "description": "The glittering bead cherished by Steward Cat. You can put it into the Cat litter box.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Shining Holy Water",
+        "chineseName": "闪耀圣水",
+        "description": "You ask me if Shining Holy Water can drink? Come on, this is holy water! I would not tell you that it tastes like carbonated drink without air.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Shinji Ikari Headwear",
+        "chineseName": "碇真嗣头饰",
+        "description": "\"I mustn't run away. I mustn't run away. I mustn't run away!\" We all believe in you. So please don't run away any more.",
+        "effect": "Atk +20,Atk +4%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Ship Captain Hat",
+        "chineseName": "飞空艇船长之帽",
+        "description": "Airship captain's hat. There's a small line wrote on the hat's brim, \"please let me become a doctor\".",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Ship Captain Hat [1]",
+        "chineseName": "飞空艇船长之帽[1]",
+        "description": "Airship captain's hat. There's a small line wrote on the hat's brim, \"please let me become a doctor\".",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43503.png",
+        "name": "Shoes",
+        "chineseName": "长靴",
+        "description": "Boots that protect man's ankles.",
+        "effect": "Move Spd ＋5%,SP Regen ＋3"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43503.png",
+        "name": "Shoes [1]",
+        "chineseName": "长靴[1]",
+        "description": "Boots that protect man's ankles.",
+        "effect": "Move Spd ＋5%,SP Regen ＋3"
+    },
+    {
+        "imgsrc": null,
+        "name": "Shoes [2]",
+        "chineseName": "长靴[2][待定]",
+        "description": "Boots that protect man's ankles.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Shooting Star [1]",
+        "chineseName": "彗星之弓[1]",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Shooting Star [2]",
+        "chineseName": "彗星之弓[2]",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Shutter shades",
+        "chineseName": "百叶镜",
+        "description": "Designed by Juno Nightingale Theater, it will make you feel like traveling by in time! Let's rewind the memory of freedom!",
+        "effect": "Max HP ＋100,M.Def ＋10"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45069.png",
+        "name": "Silk Ribbon",
+        "chineseName": "宠物发带",
+        "description": "An exquisite bow tie made of smooth silk. It's comfortable to wear.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45069.png",
+        "name": "Silk Ribbon Blueprint",
+        "chineseName": "宠物发带图纸",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42009.png",
+        "name": "Silk Robe",
+        "chineseName": "丝质外袍",
+        "description": "Clothes made of advanced cloth, with excellent M.Def.",
+        "effect": "M.Def ＋20,[Tidal Shoes VI] ＋[Silk Robe VI]: Has a 10% chance to turn the target into Water target for 10 seconds during auto attacks"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42009.png",
+        "name": "Silk Robe [1]",
+        "chineseName": "丝质外袍[1]",
+        "description": "Clothes made of advanced cloth, with excellent M.Def.",
+        "effect": "M.Def ＋20,[Tidal Shoes VI] ＋[Silk Robe VI]: Has a 10% chance to turn the target into Water target for 10 seconds during auto attacks"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12502.png",
+        "name": "Silver Arrow",
+        "chineseName": "银箭矢",
+        "description": "Silver arrow with sacred power.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_4001.png",
+        "name": "Silver Bell",
+        "chineseName": "银铃",
+        "description": "A wizard music record. With it, You can order songs in the music box spot newly designed by Kafra. [The past time, the snowy sky rang with the bell of happiness, This is part of the first memories of the world. Do you still remember?]",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Silver Goat Helm",
+        "chineseName": "银制山羊头盔",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Silver Medal",
+        "chineseName": "银质勋章",
+        "description": "Silver medal, collecting 40 medals allows you to enter guild Valhalla Ruins. You can obtain through completing Guild Quest, Mission Board, Rift, Monster Resistance, Training Grounds and Endless Tower.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Silver Robe",
+        "chineseName": "秘银法袍",
+        "description": "A fine robe made of Mithril silver, a dazzling item shining magic rhymes.",
+        "effect": "INT ＋5,[Silver Robe] ＋ [Statue of Archangel IV]: M.Atk ＋12%"
+    }
+]

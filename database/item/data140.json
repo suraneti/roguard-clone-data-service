@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_48528.png",
+        "name": "Masquerade",
+        "chineseName": "蝴蝶假面",
+        "description": "The glasses in the shape of butterflies will bring a magical feeling when they are put on.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_48528.png",
+        "name": "Masquerade Blueprint",
+        "chineseName": "蝴蝶假面图纸",
+        "description": "The glasses in the shape of butterflies will bring a magical feeling when they are put on.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12308.png",
+        "name": "Mastela Fruit",
+        "chineseName": "玛丝黛拉果实",
+        "description": "The purple fruit picked from Mastela Tree. It can restore 400-600 points of HP.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Mastering Card",
+        "chineseName": "波利之王卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Matyr Card",
+        "chineseName": "黑狐卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_48002.png",
+        "name": "Matyr Tail Blueprint",
+        "chineseName": "黑狐尾巴图纸",
+        "description": "Matyr Tail",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_44021.png",
+        "name": "Matyr's Leash",
+        "chineseName": "黑狐颈链",
+        "description": "A chain on the neck of Matyr. It is said to be related to the Matyr's ability.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_44021.png",
+        "name": "Matyr's Leash [1]",
+        "chineseName": "黑狐颈链[1]",
+        "description": "A chain on the neck of Matyr. It is said to be related to the Matyr's ability.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_800105.png",
+        "name": "May. 2017 Premium",
+        "chineseName": "2017.5月限定特典",
+        "description": "\"We traveled through the dense forest crawling with dragon monsters and arrived at Glast Heim on the sixth day of our journey. Ill omen hangs in the night sky. But we will not falter. The bond of friendship is the source of our strength. Our hands are tight around the axe and hammer to crush the monsters. \" To appreciate the adventurers who have been supporting us for a long time, the famous Kafra Company specially launched a special small card in the form of a monthly magazine. Hold it and you will feel its magical power. It's practical and highly collectible.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "May. 2018 Premium",
+        "chineseName": "2018.5月限定特典",
+        "description": "\"Let's revisit the world of Ragnarok with the lovely Poring and hold a party in the sea of flowers and grass.\" To thank adventurers for their long support, the famous company Kafra publishes this special card every month. While held in the hand, it fills you with magic. Practical yet worth collecting!",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Maya Card",
+        "chineseName": "蚁后卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Maya Hat",
+        "chineseName": "蚁后帽子",
+        "description": "Great cooling function! It fits to wear in summer!",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Maya Hat [1]",
+        "chineseName": "蚁后帽子[1]",
+        "description": "Great cooling function! It fits to wear in summer!",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Maya Hat [1] Blueprint",
+        "chineseName": "蚁后帽子[1]图纸",
+        "description": "Great cooling function! It fits to wear in summer!",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Maya Sword (Maya only)",
+        "chineseName": "蚁后刀(蚁后专属)",
+        "description": "Maya's favorite weapon that strikes fear into enemy's heart.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12305.png",
+        "name": "Meat",
+        "chineseName": "肉",
+        "description": "With a nice flavor, it can restore 70-100 points of HP.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Mechanic Badge",
+        "chineseName": "机匠徽章",
+        "description": "Mechanic Badge.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Medicine Pack [1]",
+        "chineseName": "药具包[1]",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Medicine Pack [2]",
+        "chineseName": "药具包[2]",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Medium Bottle of Grass Juice",
+        "chineseName": "中瓶艾草汁",
+        "description": "The green juice squeezed out of mottlegrass by Geffen Mages, Packed in medium-sized bottles. Drinking it increases M.Atk by 10%. The effect lasts 15 minutes, Cannot stack up with other sake, and is not influenced by death. This item can only be used on PVP maps.",
+        "effect": ""
+    }
+]

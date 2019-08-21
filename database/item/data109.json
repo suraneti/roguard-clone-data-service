@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Honey Cake [1]",
+        "chineseName": "蜂蜜蛋糕[1]",
+        "description": "",
+        "effect": "Dex ＋3,AGI ＋3"
+    },
+    {
+        "imgsrc": null,
+        "name": "Honey Chocolate",
+        "chineseName": "蜜语巧克力",
+        "description": "\"Milk, coffee, and hazelnuts! Which is your favorite?” They say that on the day of the school sacrifice, Candy Kitty will randomly stuff chocolate into a desk, and the student who receives it will have good luck for a whole year!",
+        "effect": "Dmg to Shellfish +10%,Dmg Taken from Shellfish -10%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Honey Jar",
+        "chineseName": "香喷喷的蜂蜜罐",
+        "description": "",
+        "effect": "Max SP ＋100,SP Regen ＋1"
+    },
+    {
+        "imgsrc": null,
+        "name": "Honey Jar Blueprint",
+        "chineseName": "香喷喷的蜂蜜罐图纸",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Honey Jar [1]",
+        "chineseName": "香喷喷的蜂蜜罐[1]",
+        "description": "",
+        "effect": "Dex ＋3,AGI ＋3"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40301.png",
+        "name": "Honglyun's Sword [2]",
+        "chineseName": "红莲[2]",
+        "description": "A sword made from meteorite and crystals by an eastern country, for the worship of gods.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40301.png",
+        "name": "Honglyun's Sword [3]",
+        "chineseName": "红莲[3]",
+        "description": "A sword made from meteorite and crystals by an eastern country, for the worship of gods.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43005.png",
+        "name": "Hood [2]",
+        "chineseName": "连帽披肩[2]",
+        "description": "A scarf cloak.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Hornet Card",
+        "chineseName": "蜂兵卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_47018.png",
+        "name": "Horong",
+        "chineseName": "鬼火",
+        "description": "With it, one doesn't have to be afraid of the darkness anymore!",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_47018.png",
+        "name": "Horong Blueprint",
+        "chineseName": "鬼火图纸",
+        "description": "With it, one doesn't have to be afraid of the darkness anymore!",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Horong Card",
+        "chineseName": "鬼火卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Hot Black Tea",
+        "chineseName": "暖心红茶",
+        "description": "Drink the warm drink stewed over a gentle heat with the special black tea and honey from Mjolnir Mountains and you will recover 1500-2000 HP. The value of recovery is related to VIT. Can only be used on PVP maps.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Hot Green Tea",
+        "chineseName": "暖心绿茶",
+        "description": "The slightly bitter green tea is made of the special green tea leaves on Mjolnir Mountains and the sweetest spring water. Drink it and you will recover 100-150 Sp. Can only be used on PVP maps.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12355.png",
+        "name": "Hot Meal",
+        "chineseName": "暖心料理",
+        "description": "A hot pot full of fresh ingredients. The tiny number of spores promotes a moderately spicy taste that keeps your body warm. Stores 600,000 HP and 40,000 SP. Restores 500 HP every 6s when HP is below 70% and 50 SP every 6s when SP is below 40%",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45034.png",
+        "name": "Hot-blooded Headband",
+        "chineseName": "热血发圈",
+        "description": "The hair band is full of burning heart, determination and will. By wearing it, you will clench your fist unconsciously.",
+        "effect": "Def ＋5,Str ＋2"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45034.png",
+        "name": "Hot-blooded Headband Blueprint",
+        "chineseName": "热血发圈图纸",
+        "description": "The hair band is full of burning heart, determination and will. By wearing it, you will clench your fist unconsciously.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45034.png",
+        "name": "Hot-blooded Headband [1]",
+        "chineseName": "热血发圈[1]",
+        "description": "The hair band is full of burning heart, determination and will. By wearing it, you will clench your fist unconsciously.",
+        "effect": "Def ＋5,Str ＋2"
+    },
+    {
+        "imgsrc": null,
+        "name": "HP Potion",
+        "chineseName": "生命药瓶",
+        "description": "",
+        "effect": "MAX HP ＋100,HP Regen ＋5"
+    },
+    {
+        "imgsrc": null,
+        "name": "HP Potion",
+        "chineseName": "强身药剂",
+        "description": "Exchange only after completing the Gold Coin Merchant quest. After using, You will recover 150 HP.",
+        "effect": ""
+    }
+]

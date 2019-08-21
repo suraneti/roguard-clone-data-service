@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_58.png",
+        "name": "Pet Box",
+        "chineseName": "宠物礼盒",
+        "description": "A gift box containing unknown things. Pets are very excited to see it, so you can send this box to them as a reward.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Pet EXP Potion (L)",
+        "chineseName": "大型宠物经验药水",
+        "description": "A potion with magic power, the pet can receive 22500 points of EXP after drinking it.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Pet EXP Potion (M)",
+        "chineseName": "中型宠物经验药水",
+        "description": "A potion with magic power, the pet can receive 7500 points of EXP after drinking it.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Pet EXP Potion (S)",
+        "chineseName": "小型宠物经验药水",
+        "description": "A potion with magic power, the pet can receive 2500 points of EXP after drinking it.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/15.png",
+        "name": "Pet Food",
+        "chineseName": "宠物饲料",
+        "description": "A food preferred by lively pets, also edible for human. It can restore 50-90 points of HP.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_48004.png",
+        "name": "Petite's Tail Blueprint",
+        "chineseName": "毕帝特龙的尾巴图纸",
+        "description": "The accessory imitating Petite's Tail. Being dyed purple without reasons.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Ph.D Hat",
+        "chineseName": "学士帽",
+        "description": "\"How time flies. The face reveals a farewell expression. But the new encounters are important, right? So just look ahead and set off lightly! March along the broad road! \"",
+        "effect": "Max HP ＋50,INT ＋1"
+    },
+    {
+        "imgsrc": null,
+        "name": "Ph.D Hat Blueprint",
+        "chineseName": "学士帽图纸",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Ph.D Hat [1]",
+        "chineseName": "学士帽[1]",
+        "description": "",
+        "effect": "Dex ＋3,AGI ＋3"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Phen Card",
+        "chineseName": "剑鱼卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Phen Guitar",
+        "chineseName": "剑鱼吉他",
+        "description": "The moment you hold on to it, you will feel the power of Rock' n' Roll music. Just follow the flow and stand on the stage, you are going to be the spotlight!",
+        "effect": "Max HP ＋5%,Wind, Earth, Water, Fire Dmg Taken －3%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Phreeoni Card",
+        "chineseName": "皮里恩卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Piano Shard",
+        "chineseName": "琴碎片",
+        "description": "Falling from the waving wings of elemental elves, the light dust fell on the ordinary cards and then brought them strong affinity power. The power can be injected into the adventurer's soul through the power of Valkyrie, which will make adventurers preferred by elements.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Picky Card",
+        "chineseName": "小鸡卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Picky Eggshell",
+        "chineseName": "小鸡蛋壳",
+        "description": "Picky Eggshell",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12318.png",
+        "name": "Piece of Cake",
+        "chineseName": "小蛋糕",
+        "description": "An extremely delicious cake, the favorite of lively pet Little Green. It can restore 270-330 points of HP.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40611.png",
+        "name": "Piercing Staff [1]",
+        "chineseName": "洞察之杖[1]",
+        "description": "A staff inlaid with a mysterious gem. The fluctuation of gemstones can partially invalidate the opponent's M.Def.",
+        "effect": "INT ＋2,M.Atk ＋5%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40611.png",
+        "name": "Piercing Staff [2]",
+        "chineseName": "洞察之杖[2]",
+        "description": "A staff inlaid with a mysterious gem. The fluctuation of gemstones can partially invalidate the opponent's M.Def.",
+        "effect": "INT ＋2,M.Atk ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Pierrot Mask",
+        "chineseName": "小丑面具",
+        "description": "",
+        "effect": "Def ＋10,Damage reduction of Human race ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Pierrot Mask Blueprint",
+        "chineseName": "小丑面具图纸",
+        "description": "",
+        "effect": ""
+    }
+]

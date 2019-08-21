@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_4500.png",
+        "name": "White Disc Chest",
+        "chineseName": "白色唱片盒",
+        "description": "Kafra' s latest service technology, which allows for random access of valuable records.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "White Dog Equip",
+        "chineseName": "白犬·天照装备",
+        "description": "An exquisite bow tie made of smooth silk. It's comfortable to wear.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12103.png",
+        "name": "White Dyestuffs",
+        "chineseName": "白色染料",
+        "description": "A magic potion to dye the hair white.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40908.png",
+        "name": "White Flower Katar",
+        "chineseName": "白花拳刃",
+        "description": "Inlaid with a platinum blade, This sword looks like white flowers in bloom. Therefore, it is known as the White Flower Katar.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40908.png",
+        "name": "White Flower Katar [2]",
+        "chineseName": "白花拳刃[2]",
+        "description": "Inlaid with a platinum blade, This sword looks like white flowers in bloom. Therefore, it is known as the White Flower Katar.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_5012.png",
+        "name": "White Herb",
+        "chineseName": "白色药草",
+        "description": "A raw material for producing white hair dyes.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "White Love Gift Box",
+        "chineseName": "白色情缘礼盒",
+        "description": "Encounters between people are decided by fate. Chances just come and go. Open the present with the one you value most! (Open it and you will get a (Lover Whisper) as well as an item randomly selected among Seed of Mastela, Chef's Eagle Eye, Adventure Meatball, Dish Pack B, Royal Jelly, Candy and Praying Card Pack.)",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "White Love Gift Set",
+        "chineseName": "白色恋季礼盒",
+        "description": "A gift set exclusively for this early spring season of love. Share the joy with your dear friends in the warm breeze. (Open to obtain 10 Mora Coins and a random amount of Zeny between one million and two million)",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "White Love Song Gift Set",
+        "chineseName": "白色恋歌礼盒",
+        "description": "The White Valentine's Gift Set Special Edition can be used to exchanged for the Love of Heart (male) or the Sakura of Love (female) beauty contact lens!  Use it and get the lens from the Beauty of Eyes in Prontera.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_700011.png",
+        "name": "White Paper",
+        "chineseName": "纯洁的白纸",
+        "description": "A piece of white paper giving of dim and gentle light. May be you can write something special on it.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12023.png",
+        "name": "White Potion",
+        "chineseName": "白色药水",
+        "description": "Potion made from crushed white herbs. Use it to restore 385-450 points of HP.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_700010.png",
+        "name": "White True Love Chocolate",
+        "chineseName": "白色本命巧克力",
+        "description": "The white chocolate symbolizing love and purity, it must be made of special materials and the blessing of God of Love from Big Cat planet. Due to the specialty, it can only be sent to the most special person! (Choose the one you love, bravely give it to her/him! Effects: Use it on other adventures, granting them the perfume's effect and restoring 520 HP every 30 seconds. The effect lasts for 12 hours, and will not be affected by death or going offline. Does not stack. )",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "White Winged Boots",
+        "chineseName": "白翼之靴",
+        "description": "Boots designed after the legendary Hermes sandals. With small wings, they can make the wearer pace particularly brisk. \"Don't think about it. If you can fly casually in winged boots, what is the airship for?- by Ship Captain",
+        "effect": "Move Spd ＋10%, Critical ＋2 and Crit.Dmg ＋2% at Refinement ＋10, Critical ＋6 and Crit.Dmg ＋6% at Refinement ＋15"
+    },
+    {
+        "imgsrc": null,
+        "name": "White Winged Boots [1]",
+        "chineseName": "白翼之靴[1]",
+        "description": "Boots designed after the legendary Hermes sandals. With small wings, they can make the wearer pace particularly brisk. \"Don't think about it. If you can fly casually in winged boots, what is the airship for?- by Ship Captain",
+        "effect": "Move Spd ＋10%, Critical ＋2 and Crit.Dmg ＋2% at Refinement ＋10, Critical ＋6 and Crit.Dmg ＋6% at Refinement ＋15"
+    },
+    {
+        "imgsrc": null,
+        "name": "Whitesmith Badge",
+        "chineseName": "神工匠徽章",
+        "description": "Whitesmith Badge.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40703.png",
+        "name": "Wide Dagger",
+        "chineseName": "宽柄短剑",
+        "description": "A multi-function Knife made for practical purpose.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40703.png",
+        "name": "Wide Dagger [2]",
+        "chineseName": "宽柄短剑[2]",
+        "description": "A multi-function Knife made for practical purpose.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Wild Rose Card",
+        "chineseName": "狂暴野猫卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Wild Rose ★Card",
+        "chineseName": "狂暴野猫★卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Willow Card",
+        "chineseName": "树精卡片",
+        "description": "",
+        "effect": ""
+    }
+]

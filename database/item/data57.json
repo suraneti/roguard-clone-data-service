@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45145.png",
+        "name": "Diadem [1] Blueprint",
+        "chineseName": "圣冠[1]图纸",
+        "description": "God's spokesman - exclusive hat for Archbishop",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Diamond Galaxy",
+        "chineseName": "钻石银河",
+        "description": "The brilliant radiance condensed into a diamond ring, guarding the most important agreement.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_44012.png",
+        "name": "Diamond Ring [1]",
+        "chineseName": "钻石戒指[1]",
+        "description": "A fine diamond ring. Wearing it makes you feel much proud.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_44001.png",
+        "name": "Diamond Ring[2]",
+        "chineseName": "钻石戒指[2]",
+        "description": "A fine diamond ring.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_44001.png",
+        "name": "Diamond Ring[2]",
+        "chineseName": "钻石戒指[2]",
+        "description": "A fine diamond ring.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Diamond Ring·Jupiter's Arrow",
+        "chineseName": "钻戒·爱神之箭",
+        "description": "The love arrow has hit me. I offer my heart to you on one knee. &gt;////&lt;. (spend items to make one proposal)",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Director of the voice club",
+        "chineseName": "轻音社社长",
+        "description": "It's finally over! Pick up the tall violin bag, avoid those annoying girls with quick pace, bypass couples who are going to leave, and quietly and skillfully pass through the director's office. Then the girl's destination will be insight! That's paradise! Girls are looking forward to the new track I will lead today! Yes, I'm the director of the voice club.",
+        "effect": "M.Atk ＋20,Max HP ＋200"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40703.png",
+        "name": "Dirk [2]",
+        "chineseName": "德克短剑[2]",
+        "description": "Knives used by a western country in ancient times.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/toy_504.png",
+        "name": "Disguising Scroll",
+        "chineseName": "伪装卷轴",
+        "description": "Hi, everyone, I am your new friend: Billboard. (After use, you can perfectly disguise as a…billboard?…)",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_3603.png",
+        "name": "Dish Pack A",
+        "chineseName": "A号料理包",
+        "description": "A sealed dish pack. You cannot tell what is inside it from its appearance. Please be careful not to shake it!",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_3604.png",
+        "name": "Dish Pack B",
+        "chineseName": "B号料理包",
+        "description": "A sealed dish pack. You cannot tell what is inside it from its appearance. Please be careful not to shake it!",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Dish Voucher B",
+        "chineseName": "料理券·B",
+        "description": "Used to redeem special food.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Divine hand",
+        "chineseName": "神·手",
+        "description": "Once upon a time, God made men out of the earth, and created women from the ribs of men. Later, lured by snakes, human beings lost paradise and were exiled to the wilderness. The elder man farmed the land and the younger one grazed livestock. Generations of poets and philosophers have argued about the existence of what is called destiny.",
+        "effect": "Max HP ＋400,Dmg to Demi-Human race ＋5%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43025.png",
+        "name": "Doflamingo Cape",
+        "chineseName": "背德皇帝的斗篷",
+        "description": "It is said that the cloak is the favorite style of Wang III.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43025.png",
+        "name": "Doflamingo Cape [1]",
+        "chineseName": "背德皇帝的斗篷[1]",
+        "description": "It is said that the cloak is the favorite style of Wang III.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Dog Bandana",
+        "chineseName": "戌头巾",
+        "description": "A super lovely new year headwear (limited version), it is said that wearing this item would bring good luck!",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Dog Bandana Blueprint",
+        "chineseName": "戌头巾图纸",
+        "description": "A super lovely new year headwear (limited version), it is said that wearing this item would bring good luck!",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Dog Bandana[1]",
+        "chineseName": "戌头巾[1]",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Dog Kiss",
+        "chineseName": "狗狗的吻",
+        "description": "(Bark)",
+        "effect": "Def ＋10,M.Def ＋10"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_52511.png",
+        "name": "Dog Teeth",
+        "chineseName": "犬牙",
+        "description": "These sharp canine teeth can be used as a material for making accessories.",
+        "effect": ""
+    }
+]

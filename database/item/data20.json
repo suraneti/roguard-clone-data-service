@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Baphomet Card",
+        "chineseName": "巴风特卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12351.png",
+        "name": "Baphomet Doll",
+        "chineseName": "巴风特娃娃",
+        "description": "A doll designed like Baphomet. It permanently increases the character's Crit Resistance by 20 points and cannot be traded.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Baphomet Hairband",
+        "chineseName": "伪巴风美发圈",
+        "description": "Look, we discovered a cute Baphomet!",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Baphomet Jr. Card",
+        "chineseName": "小巴风特卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Baphomet Jr.’s Summer",
+        "chineseName": "小巴风特的夏天",
+        "description": "A little to the left, a little more to the right, okay, there it is! If you want to run around with watermelon on the beach, be careful not to be knocked on your ass by the blindfolded man who wants to eat watermelon!",
+        "effect": "AGI ＋5, 5% chance to Flee magic damage. ＋1% Flee chance for every 50 Flee you have (up to 15%)"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42034.png",
+        "name": "Baptized Armor",
+        "chineseName": "洗礼铠甲",
+        "description": "This armor, Blessed by the senior priest, Not only protects equipment, but also brings the blessing of the gods.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42034.png",
+        "name": "Baptized Armor [1]",
+        "chineseName": "洗礼铠甲[1]",
+        "description": "This armor, Blessed by the senior priest, Not only protects equipment, but also brings the blessing of the gods.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42035.png",
+        "name": "Baptized Robe",
+        "chineseName": "洗礼长袍",
+        "description": "Robes that have been baptized by senior priest can stimulate the magical power of the equipper and continue to bring elemental strength.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42035.png",
+        "name": "Baptized Robe [1]",
+        "chineseName": "洗礼长袍[1]",
+        "description": "Robes that have been baptized by senior priest can stimulate the magical power of the equipper and continue to bring elemental strength.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43534.png",
+        "name": "Baptized Shoes",
+        "chineseName": "洗礼战靴",
+        "description": "These boots have been baptized by senior priests. Although they appear to be bulky, They are actually very light and hold blessings from the gods.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43534.png",
+        "name": "Baptized Shoes [1]",
+        "chineseName": "洗礼战靴[1]",
+        "description": "These boots have been baptized by senior priests. Although they appear to be bulky, They are actually very light and hold blessings from the gods.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12341.png",
+        "name": "BASE Potion (L)",
+        "chineseName": "大型BASE药水",
+        "description": "An ordinary-looking potion. After drinking it, Players can stimulate the potentials inside. Although it tastes strange, it can increase adventurer's BASE EXP by 500,000 points. Sometimes a \"L\" pattern can be found at the bottom of the bottle.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12340.png",
+        "name": "BASE Potion (M)",
+        "chineseName": "中型BASE药水",
+        "description": "An ordinary-looking potion. After drinking it, Players can stimulate the potentials inside. Although it tastes strange, it can increase adventurer's BASE EXP by 100,000 points. Sometimes a \"L\" pattern can be found at the bottom of the bottle.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12339.png",
+        "name": "BASE Potion (S)",
+        "chineseName": "小型BASE药水",
+        "description": "An ordinary-looking potion. After drinking it, Players can stimulate the potentials inside. Although it tastes strange, it can increase adventurer's BASE EXP by 5000 points. Sometimes a \"L\" pattern can be found at the bottom of the bottle.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12341.png",
+        "name": "BASE Potion (XL)",
+        "chineseName": "超大型BASE药水",
+        "description": "An ordinary-looking potion. After drinking it, Players can stimulate the potentials inside. Although it tastes strange, it can increase adventurer's BASE EXP by 1, 000, 000 points. Sometimes a \"XL\" pattern can be found at the bottom of the bottle.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45196.png",
+        "name": "Baseball Cap",
+        "chineseName": "冷酷的棒球帽子",
+        "description": "[Listen·Voice of Love and Courage] Concert Souvenir: a cold hat across time and space, across dimensions, connecting races. At least that's what Goblin thinks!",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45196.png",
+        "name": "Baseball Cap [1]",
+        "chineseName": "冷酷的棒球帽子[1]",
+        "description": "[Listen·Voice of Love and Courage] Concert Souvenir: a cold hat across time and space, across dimensions, connecting races. At least that's what Goblin thinks!",
+        "effect": "When equipped by Swordsman/Assassin/Priest/Merchant, Atk ＋10,When equipped by wizards, M.Atk ＋10"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_3603.png",
+        "name": "Basic Cook Chest II",
+        "chineseName": "入门烹饪礼盒·Ⅱ",
+        "description": "Once you are able to tell the difference between foods in taste and flavor, You can try some advanced dishes. (Open the pack to find 2-star food)",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_59.png",
+        "name": "Basic Food Pack II",
+        "chineseName": "入门食材包包·Ⅱ",
+        "description": "A chef who has learned some cooking skills can be considered as a newcomer to the catering industry. Now he is allowed to try handling some ingredients that are a bit difficult to cook. (Open the pack to find some primary food ingredients)",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40307.png",
+        "name": "Bastard Sword",
+        "chineseName": "亚尔特剑",
+        "description": "A double-handed sword is both handy for chopping and stabbing.",
+        "effect": ""
+    }
+]

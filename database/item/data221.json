@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Sword on Back",
+        "chineseName": "背在背上的剑",
+        "description": "Sword on Back",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40302.png",
+        "name": "Sword [2]",
+        "chineseName": "剑[2]",
+        "description": "A sword with a thick blade is widely used.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40703.png",
+        "name": "Swordbreaker [2]",
+        "chineseName": "削刃短剑[2]",
+        "description": "Knives made for destroying enemy's weapons, but the success rate is not high.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40703.png",
+        "name": "Swordbreaker [3]",
+        "chineseName": "削刃短剑[3]",
+        "description": "Knives made for destroying enemy's weapons, but the success rate is not high.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Swordfish Card",
+        "chineseName": "异变鱼卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Swordsman Badge",
+        "chineseName": "剑士徽章",
+        "description": "Swordsman Badge.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Syrono's Pocket Watch",
+        "chineseName": "西罗诺的怀表",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_58.png",
+        "name": "T2 Growth Chest",
+        "chineseName": "二转速成礼物箱",
+        "description": "Designed for lovable RO fans! It help you upgrade to meet T2 requirements! With everything you like or dislike! Thank you for your love and expectation for RO!",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_3034.png",
+        "name": "T2 Growth Gift Chest",
+        "chineseName": "职业二转速成礼物箱",
+        "description": "Designed for lovable RO fans! With several fine gifts! Have a good time!",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_3034.png",
+        "name": "T2 Growth Pack",
+        "chineseName": "职业二转速成包",
+        "description": "Designed for lovable RO fans! With several fine gifts! Have a good time!",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_3038.png",
+        "name": "T2 Job Pack",
+        "chineseName": "二阶职业礼物箱",
+        "description": "A gift pack for R2 Job rewards. It contains Zeny x1000, Potion x5, Transformation Pack x1.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_3610.png",
+        "name": "T2 Practicing Pack",
+        "chineseName": "二转修行礼包",
+        "description": "A T2 practice pack given by Adventure Association (can used by T2 players and above). Open the pack to receive JOB EXP Potion (M) x5, BASE EXP Potion (M) x5, Valkyrie's Gift x2, Belief Token x20, Gold Medal x2, Eden Coin x200, Advancing T2 Practicing Pack 1.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Talent Fruit",
+        "chineseName": "天赋果实",
+        "description": "The fruit of talent tree in Monster Eden. With magical power, the fruit is said to be popular among all monsters. Pets randomly acquire all skills after using the fruit.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Tarot Card Album",
+        "chineseName": "塔罗卡册",
+        "description": "Use to gain a random card with a chance to gain card dungeon exclusive card!",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Tarou Card",
+        "chineseName": "白鼠卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Tarou ★Card",
+        "chineseName": "白鼠★卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Taurus Crown",
+        "chineseName": "金牛宫王冠",
+        "description": "Crown that symbolizes Taurus, one of the twelve zodiacal signs. It's inlaid with emerald.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Taurus Crown Blueprint",
+        "chineseName": "金牛宫王冠图纸",
+        "description": "Crown that symbolizes Taurus, one of the twelve zodiacal signs. It's inlaid with emerald.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Taurus Crown [1]",
+        "chineseName": "金牛宫王冠[1]",
+        "description": "Crown that symbolizes Taurus, one of the twelve zodiacal signs. It's inlaid with emerald.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Taurus Diadem",
+        "chineseName": "金牛宫宝冠",
+        "description": "Diadem that symbolizes Taurus, one of the twelve zodiacal signs. It's inlaid with emerald.",
+        "effect": "Dex ＋3,AGI ＋3"
+    }
+]

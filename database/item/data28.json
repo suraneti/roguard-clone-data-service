@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Bloody Cross [2]",
+        "chineseName": "血色十字[2]",
+        "description": "Just like the scary bloody red, the cross-shaped mace with the force of Shadow frightens people to hell.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12021.png",
+        "name": "Bloody Dead Branch",
+        "chineseName": "血迹树枝",
+        "description": "Has seen countless tragic years, and through its magical branches and a blood contract can summon more powerful monsters. They may be summoned for up to 10 minutes. (Can only be used in guild territory.)",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12021.png",
+        "name": "Bloody Dead Branch 1.0",
+        "chineseName": "血迹树枝1.0",
+        "description": "Being through countless wretched years, the magical branch can contract with blood to summon stronger monsters. Those monsters can survive for at most 30 minutes. (used only in guild territory)",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12021.png",
+        "name": "Bloody Dead Branch 2.0",
+        "chineseName": "血迹树枝2.0",
+        "description": "Being through countless wretched years, the magical branch can contract with blood to summon stronger monsters. Those monsters can survive for at most 30 minutes. (used only in guild territory)",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12021.png",
+        "name": "Bloody Dead Branch 3.0",
+        "chineseName": "血迹树枝3.0",
+        "description": "Being through countless wretched years, the magical branch can contract with blood to summon stronger monsters. Those monsters can survive for at most 30 minutes. (used only in guild territory)",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Bloody Knight Card",
+        "chineseName": "血腥骑士卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40905.png",
+        "name": "Bloody Roar [2]",
+        "chineseName": "血拳刃[2]",
+        "description": "If touched with blood, the weapon will cry itself. So it is called the Bloody Roar, and is powerful for human-type enemies.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40905.png",
+        "name": "Bloody Roar [3]",
+        "chineseName": "血拳刃[3]",
+        "description": "If touched with blood, the weapon will cry itself. So it is called the Bloody Roar, and is powerful for human-type enemies.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_52311.png",
+        "name": "Bloody Rune",
+        "chineseName": "血色的轮",
+        "description": "This can be associated with the red color of blood. There is a wheel engraved inside. Being a very rare item, it can be used to make high-end headwear.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Blossom",
+        "chineseName": "名物·千紫万红",
+        "description": "The legendary headdress of Kabuki in the far-east Divine Country, long before the age of Sakura City and Tianjin Hall. The headwear has a history of a thousand years, from which you can still can feel the beauty's charm.",
+        "effect": "M.Atk ＋15,Dex ＋4"
+    },
+    {
+        "imgsrc": null,
+        "name": "Blossom[1]",
+        "chineseName": "名物·千紫万红[1]",
+        "description": "The legendary headdress of Kabuki in the far-east Divine Country, long before the age of Sakura City and Tianjin Hall. The headwear has a history of a thousand years, from which you can still can feel the beauty's charm.",
+        "effect": "M.Atk ＋15,Dex ＋4"
+    },
+    {
+        "imgsrc": null,
+        "name": "Blow Gun",
+        "chineseName": "吹箭",
+        "description": "A secret weapon. If you want to use it without others noticing, You need a lot of exercise and skills.",
+        "effect": "Dex ＋4,When Refining ＋5, ＋10, ＋15, Dex ＋1, ＋2, ＋3 respectively"
+    },
+    {
+        "imgsrc": null,
+        "name": "Blow Gun Blueprint",
+        "chineseName": "吹箭图纸",
+        "description": "A secret weapon. If you want to use it without others noticing, You need a lot of exercise and skills.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Blue Charm·Chic",
+        "chineseName": "蓝色魅影·时装",
+        "description": "A popular Coloring Agent in Lunatic fashion world. It's loved by every Lunatic. Use to unlock the Eclipse appearance for Lunatic.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12106.png",
+        "name": "Blue Clothing Dye",
+        "chineseName": "蓝色衣服染料",
+        "description": "It can dye clothing materials blue.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Blue Crystal",
+        "chineseName": "蓝色结晶",
+        "description": "Blue chips left in an unknown mine by a group of dwarves.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Blue Enchantress",
+        "chineseName": "湛蓝妖姬",
+        "description": "",
+        "effect": "All Attributes ＋1,M.Atk ＋10"
+    },
+    {
+        "imgsrc": null,
+        "name": "Blue Enchantress Blueprint",
+        "chineseName": "湛蓝妖姬图纸",
+        "description": "This flower has a short live, but the it's will to live is to make the miracle come true.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12521.png",
+        "name": "Blue Gemstone",
+        "chineseName": "蓝色魔力矿石",
+        "description": "Ore with magical Str. It can offset the reaction of magic in place of the caster when casting a spell.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Blue Hairband",
+        "chineseName": "海蓝发带",
+        "description": "Close your eyes to hear sounds from the sea and mountain as you put the hairband on. But who is calling？",
+        "effect": "Max SP ＋50,Atk ＋5"
+    }
+]

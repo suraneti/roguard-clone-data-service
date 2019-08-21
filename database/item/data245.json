@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Wand of Occult [1]",
+        "chineseName": "圣杖英灵[1]",
+        "description": "A Rod used by a holy temple priest.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Wand of Occult [2]",
+        "chineseName": "圣杖英灵[2]",
+        "description": "A Rod used by a holy temple priest.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40605.png",
+        "name": "Wand [2]",
+        "chineseName": "橡木魔杖[2]",
+        "description": "A Rod with magic Str.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Wanderer Card",
+        "chineseName": "邪骸浪人卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Wandering Minstrel Hat",
+        "chineseName": "时之吟游诗人",
+        "description": "",
+        "effect": "Str ＋5,For Refining ＋1, Damage of [Sonic Blow] ＋1%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Wandering Minstrel Hat Blueprint",
+        "chineseName": "时之吟游诗人图纸",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Wandering Minstrel Hat [1]",
+        "chineseName": "时之吟游诗人[1]",
+        "description": "",
+        "effect": "Str ＋5,For Refining ＋1, Damage of [Sonic Blow] ＋1%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41831.png",
+        "name": "War Axe",
+        "chineseName": "战斧",
+        "description": "A light axe suitable for waving. It's very popular with the new recruits.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41831.png",
+        "name": "War Axe [2]",
+        "chineseName": "战斧[2]",
+        "description": "A light axe suitable for waving. It's very popular with the new recruits.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "War Ender 2 [2]",
+        "chineseName": "硝烟终结者2[2]",
+        "description": "Dwarven Warlord Dann's portable battle axe, along with his numerous thrilling wars, symbolizes dwarven tenacity.",
+        "effect": "Str ＋15,Dmg Reduc. ＋5%, Magic Reduc. ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "War Ender 3 [2]",
+        "chineseName": "硝烟终结者3[2]",
+        "description": "Dwarven Warlord Dann's portable battle axe, along with his numerous thrilling wars, symbolizes dwarven tenacity.",
+        "effect": "Str ＋15,Dmg Reduc. ＋10%, Magic Reduc. ＋10%"
+    },
+    {
+        "imgsrc": null,
+        "name": "War Ender Shard",
+        "chineseName": "硝烟终结者残片",
+        "description": "Shard of the legendary artifact: War Ender. By collecting rare materials and more debris, with ancient knowledge and legendary Mr. Dragon's skills, you may restore it to the original form.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "War Ender [2]",
+        "chineseName": "硝烟终结者[2]",
+        "description": "Dwarven Warlord Dann's portable battle axe, along with his numerous thrilling wars, symbolizes dwarven tenacity.",
+        "effect": "Str ＋15,Max HP ＋15000"
+    },
+    {
+        "imgsrc": null,
+        "name": "Warfare Axe [1]",
+        "chineseName": "血腥战斧[1]",
+        "description": "A horrible axe. Using the axe full of blood in the battlefield will bring a strong sense of killing. Fighting with this brutal axe, You can make the enemies scared to death.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Warfare Axe [2]",
+        "chineseName": "血腥战斧[2]",
+        "description": "A horrible axe. Using the axe full of blood in the battlefield will bring a strong sense of killing. Fighting with this brutal axe, You can make the enemies scared to death.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Warlock Badge",
+        "chineseName": "大法师徽章",
+        "description": "Warlock Badge.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Warm Christmas Tree",
+        "chineseName": "暖洋洋圣诞树",
+        "description": "",
+        "effect": "M.Atk ＋10,Def ＋10"
+    },
+    {
+        "imgsrc": null,
+        "name": "Warm Christmas Tree Blueprint",
+        "chineseName": "暖洋洋圣诞树图纸",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Warm Christmas Tree [1]",
+        "chineseName": "暖洋洋圣诞树[1]",
+        "description": "",
+        "effect": "Dex ＋3,AGI ＋3"
+    },
+    {
+        "imgsrc": null,
+        "name": "Warm Hat",
+        "chineseName": "暖心帽子",
+        "description": "A hand-made beanie which reminds people of motherly love in winter.",
+        "effect": ""
+    }
+]

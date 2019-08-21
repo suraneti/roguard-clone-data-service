@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": null,
+        "name": "The Swordsman Photo",
+        "chineseName": "二刀连击发型图",
+        "description": "Use it to change your hairstyle in the barber shop",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "The Tech Photo",
+        "chineseName": "地雷陷阱发型图",
+        "description": "Use it to change your hairstyle in the barber shop",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "The Thunderbolt Photo",
+        "chineseName": "雷爆术发型图",
+        "description": "Use it to change your hairstyle in the barber shop",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "The turkey goes gobble, gobble, gobble!",
+        "chineseName": "火鸡咕噜噜",
+        "description": "A decoration made of turkey feathers will have a gradual color when heated, giving off dazzling brilliance.",
+        "effect": "All Atributes +1,Dmg dealt to plant monsters +3%"
+    },
+    {
+        "imgsrc": null,
+        "name": "The Winter",
+        "chineseName": "冬之恋歌发型",
+        "description": "Use this item to unlock a new adventurer's hair.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "The Year of Pig Blessing Card",
+        "chineseName": "亥之福神卡片",
+        "description": "Big ears, eyes like black soya beans, short tail and a chubby face. Oink, oink~ What a bliss it is to be surrounded by a flock of cute little piggy is the year of the Pig!",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "The Year of Pig blessing Giftbox",
+        "chineseName": "亥神送福礼盒",
+        "description": "Oink oink~ Happy year of the pig! The Year of Pig brings good fortune~",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "The Year of Pig Redpack",
+        "chineseName": "亥之红包",
+        "description": "Wish you prosperity! Red packet for me! ",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40706.png",
+        "name": "Thick Dagger",
+        "chineseName": "厚刃短剑",
+        "description": "Knives made by a special alchemy method passed down by a tribe in the desert.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40706.png",
+        "name": "Thick Dagger [2]",
+        "chineseName": "厚刃短剑[2]",
+        "description": "Knives made by a special alchemy method passed down by a tribe in the desert.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Thick Lips",
+        "chineseName": "厚嘴唇",
+        "description": "The mouth make-up prop used by folklorists in order to be part of the Dokebi.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Thick Lips Blueprint",
+        "chineseName": "厚嘴唇图纸",
+        "description": "The mouth make-up prop used by folklorists in order to be part of the Dokebi.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Thief Badge",
+        "chineseName": "盗贼徽章",
+        "description": "Thief Badge.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Thief Bug Card",
+        "chineseName": "盗虫卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Thief Bug Egg Card",
+        "chineseName": "盗虫卵卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Thief Clothes",
+        "chineseName": "侠盗之衣",
+        "description": "Unlike ordinary thieves, the thieves in this outfit focused on the treasure and helped the poor.",
+        "effect": "M.Def ＋20,[Thief Clothes VIII] ＋ [Holy Dagger VIII]: ＋15% damage against S-sized targets, ＋5% to M-sized targets and ＋10% to L-sized targets"
+    },
+    {
+        "imgsrc": null,
+        "name": "Thief Clothes [1]",
+        "chineseName": "侠盗之衣[1]",
+        "description": "Unlike ordinary thieves, the thieves in this outfit focused on the treasure and helped the poor.",
+        "effect": "M.Def ＋20,[Thief Clothes VIII] ＋ [Holy Dagger VIII]: ＋15% damage against S-sized targets, ＋5% to M-sized targets and ＋10% to L-sized targets"
+    },
+    {
+        "imgsrc": null,
+        "name": "Thor's Steel Gloves",
+        "chineseName": "托尔的铁手套",
+        "description": "The steel gloves worn by Thor when the hammer was thrown. Although solid and practical, they can't be equipped.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Thorn Seed",
+        "chineseName": "荆棘种子",
+        "description": "It will grow rapidly when coming into contact with soil. It boasts superior survivability but seems to fear fire.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Thorny Buckler [1]",
+        "chineseName": "刺盾[1]",
+        "description": "A stinging shield that looks a bit heavy. It stabs enemies who initiate attack.",
+        "effect": ""
+    }
+]

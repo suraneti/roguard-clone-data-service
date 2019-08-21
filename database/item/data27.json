@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Blazing soul·Soaring flame",
+        "chineseName": "炎魂·残焰惊天",
+        "description": "legendary Bow with power of the magical fire, the fiery power will condense when holding it, release the Bowstring and send the flaming arrow into victim's heart.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_3034.png",
+        "name": "Blessing Chest",
+        "chineseName": "祝福礼物箱",
+        "description": "Blessing Pack",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Blessing Headwear",
+        "chineseName": "天祈系列头饰",
+        "description": "",
+        "effect": "Atk ＋3%,Dmg to Demi-Human ＋3%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Blessing Scroll",
+        "chineseName": "赐福卷轴",
+        "description": "After the mentor uses this scroll, the student can receive magic items with [divine] effects. Because of the scarcity, the item can only be used by the mentor against his students.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Blessing·Blue",
+        "chineseName": "天祈·寂",
+        "description": "The sun lights up the ground after dawn, Carol is singing to the cloud. Big angels are wearing this headwear, this is blue as ocean",
+        "effect": "Atk ＋3%,Dmg to Demi-Human ＋3%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Blessing·Dark",
+        "chineseName": "天祈·玄",
+        "description": "The sun lights up the ground after dawn, Carol is singing to the cloud. Big angels are wearing this headwear, this is dark as night.",
+        "effect": "Atk ＋3%,Dmg to Demi-Human ＋3%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Blessing·Flame",
+        "chineseName": "天祈·烈",
+        "description": "The sun lights up the ground after dawn, Carol is singing to the cloud. Big angels are wearing this headwear, this is red hot as flame.",
+        "effect": "Atk ＋3%,Dmg to Demi-Human ＋3%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Blessing·Green",
+        "chineseName": "天祈·苍",
+        "description": "The sun lights up the ground after dawn, Carol is singing to the cloud. Big angels are wearing this headwear, this is green as tree",
+        "effect": "Atk ＋3%,Dmg to Demi-Human ＋3%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_48529.png",
+        "name": "Blinker",
+        "chineseName": "眼罩",
+        "description": "The paper for covering eyes is sometimes used for other purposes.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_48529.png",
+        "name": "Blinker Blueprint",
+        "chineseName": "眼罩图纸",
+        "description": "The paper for covering eyes is sometimes used for other purposes.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Blizzard Sign",
+        "chineseName": "暴风雪的征兆",
+        "description": "A blizzard is coming…",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41814.png",
+        "name": "Blood Axe [1]",
+        "chineseName": "血斧[1]",
+        "description": "The magic axe will be in a state of bloodthirsty excitement and look for the enemy's axe.",
+        "effect": "When Luck reaches 90, Atk ＋100,When Refining ＋5, ＋10, ＋15, Damage of [Mammonite] ＋10%, ＋20%, ＋30% respectively; Zeny cost of [Mammonite] ＋20%, 30%, 50%."
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41814.png",
+        "name": "Blood Axe [2]",
+        "chineseName": "血斧[2]",
+        "description": "The magic axe will be in a state of bloodthirsty excitement and look for the enemy's axe.",
+        "effect": "When Luck reaches 90, Atk ＋100,When Refining ＋5, ＋10, ＋15, Damage of [Mammonite] ＋10%, ＋20%, ＋30% respectively; Zeny cost of [Mammonite] ＋20%, 30%, 50%."
+    },
+    {
+        "imgsrc": null,
+        "name": "Blood Sucker",
+        "chineseName": "吸血鬼之牙",
+        "description": "A cursed mask made from a vampire tooth. Maybe you can absorb the vitality of your opponent with it?",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Blood Sucker Blueprint",
+        "chineseName": "吸血鬼之牙图纸",
+        "description": "The cursed man is on the opposite side of God, and is used by many parents for scaring children to go to bed earlier. Such an earl, even sucking blood occasionally, is still elegant for over thousands of years.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40909.png",
+        "name": "Blood Tears [1]",
+        "chineseName": "血之泪[1]",
+        "description": "A Katars with a bloodletting slot. The wounds are wide and difficult to heal, which creates huge injuries.",
+        "effect": "Doubles Critical,Damage of [Grimtooth] ＋50%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40909.png",
+        "name": "Blood Tears [2]",
+        "chineseName": "血之泪[2]",
+        "description": "A Katars with a bloodletting slot. The wounds are wide and difficult to heal, which creates huge injuries.",
+        "effect": "Doubles Critical,Damage of [Grimtooth] ＋50%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Bloody Axe [1]",
+        "chineseName": "鲜血斧[1]",
+        "description": "An axe designed by Kingley, the grumpy forging master, it will cause the target keep bleeding.",
+        "effect": "When Luck reaches 90, Atk ＋100,[Mammonite] has a 10% chance to trigger Crit, which cause skills deal 1.5 times of damage"
+    },
+    {
+        "imgsrc": null,
+        "name": "Bloody Axe [2]",
+        "chineseName": "鲜血斧[2]",
+        "description": "An axe designed by Kingley, the grumpy forging master, it will cause the target keep bleeding.",
+        "effect": "When Luck reaches 90, Atk ＋100,[Mammonite] has a 10% chance to trigger Crit, which cause skills deal 1.5 times of damage"
+    },
+    {
+        "imgsrc": null,
+        "name": "Bloody Cross [1]",
+        "chineseName": "血色十字[1]",
+        "description": "Just like the scary bloody red, the cross-shaped mace with the force of Shadow frightens people to hell.",
+        "effect": ""
+    }
+]

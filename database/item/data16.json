@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42502.png",
+        "name": "Army Shield [1]",
+        "chineseName": "军用盾[1]",
+        "description": "After many wars, the design was revised and finalized. A shield that attaches importance to actual combat.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40025.png",
+        "name": "Army Spear",
+        "chineseName": "军用长矛",
+        "description": "The design has been continuously revised and finalized after many wars. A spear with great battling usage.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40025.png",
+        "name": "Army Spear [2]",
+        "chineseName": "军用长矛[2]",
+        "description": "The design has been continuously revised and finalized after many wars. A spear with great battling usage.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40629.png",
+        "name": "Army Staff",
+        "chineseName": "军用魔杖",
+        "description": "The design has been continuously revised and finalized after many wars. A wand with great battling usage.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40629.png",
+        "name": "Army Staff [2]",
+        "chineseName": "军用魔杖[2]",
+        "description": "The design has been continuously revised and finalized after many wars. A wand with great battling usage.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40333.png",
+        "name": "Army Sword",
+        "chineseName": "军用长剑",
+        "description": "The design has been continuously revised and finalized after many wars. A sword with great battling usage.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40333.png",
+        "name": "Army Sword [2]",
+        "chineseName": "军用长剑[2]",
+        "description": "The design has been continuously revised and finalized after many wars. A sword with great battling usage.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12505.png",
+        "name": "Arrow of Wind",
+        "chineseName": "风灵箭矢",
+        "description": "Magical arrow with the Str of wind.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Ashe Headwear",
+        "chineseName": "艾希头饰",
+        "description": "In the endless reincarnation, Ashe obtained the true self. Time and space flow, she became a traveler.",
+        "effect": "INT ＋2,Dex ＋2"
+    },
+    {
+        "imgsrc": null,
+        "name": "Ashe Headwear Blueprint",
+        "chineseName": "艾希头饰图纸",
+        "description": "In the endless reincarnation, Ashe obtained the true self. Time and space flow, she became a traveler.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Ashe Headwear [1]",
+        "chineseName": "艾希头饰[1]",
+        "description": "In the endless reincarnation, Ashe obtained the true self. Time and space flow, she became a traveler.",
+        "effect": "INT ＋2,Dex ＋2"
+    },
+    {
+        "imgsrc": null,
+        "name": "Ashe Tassel",
+        "chineseName": "艾希流苏",
+        "description": "The black curtain has descended and Ashe continues her journey. She has someone who she must meet again with. She will keep travelling until she finds a way to meet him again.",
+        "effect": "Flee ＋5,Luk ＋3"
+    },
+    {
+        "imgsrc": null,
+        "name": "Ashe Tassel Blueprint",
+        "chineseName": "艾希流苏图纸",
+        "description": "The black curtain has descended and Ashe continues her journey. She has someone who she must meet again with. She will keep travelling until she finds a way to meet him again.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Asprika [1]",
+        "chineseName": "阿斯普利卡[1]",
+        "description": "A wing that made from all the lights in world, symbol of lights of the gods.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Asprika [2]",
+        "chineseName": "阿斯普利卡[2]",
+        "description": "A wing that made from all the lights in world, symbol of lights of the gods.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Assassin Badge",
+        "chineseName": "刺客徽章",
+        "description": "Assassin Badge.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Assassin Cross Badge",
+        "chineseName": "十字刺客徽章",
+        "description": "Assassin Cross Badge.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40703.png",
+        "name": "Assassin Dagger [2]",
+        "chineseName": "妖短剑 泣神怨[2]",
+        "description": "Knives of the Assassin.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40703.png",
+        "name": "Assassin Dagger [3]",
+        "chineseName": "妖短剑 泣神怨[3]",
+        "description": "Knives of the Assassin.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Assassin Handcuffs [1]",
+        "chineseName": "刺客腕甲[1]",
+        "description": "Assassin Handcuffs, with incredible power.",
+        "effect": ""
+    }
+]

@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40904.png",
+        "name": "Katar of Quaking [2]",
+        "chineseName": "刺藤拳刃[2]",
+        "description": "A Katars made of sharp thorn bush has a certain probability to keep the enemy in a state of trance.",
+        "effect": "Doubles Critical,Crit.Dmg ＋15%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40905.png",
+        "name": "Katar of Raging Blaze [2]",
+        "chineseName": "火灵拳刃[2]",
+        "description": "The Katars with Fire Attributes is made of fire crystal and has a certain probability to keep the enemy in a state of silence.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40905.png",
+        "name": "Katar of Raging Blaze [3]",
+        "chineseName": "火灵拳刃[3]",
+        "description": "The Katars with Fire Attributes is made of fire crystal and has a certain probability to keep the enemy in a state of silence.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40901.png",
+        "name": "Katar [2]",
+        "chineseName": "卡塔勒拳刃[2]",
+        "description": "The Katars made in the need of convenient action.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Katyusha Wrapping Lace",
+        "chineseName": "喀秋莎缎带",
+        "description": "Headwear Midgard Teenage Idol Katyusha worn during performance~! Only wearable by girls!",
+        "effect": "All Attributes ＋1,MDef ＋2%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Kaworu Nagisa Headwear",
+        "chineseName": "渚薰头饰",
+        "description": "\"Perhaps I was born to meet you.\" -Kaworu Nagisa",
+        "effect": "Atk +20,Atk +4%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Key of Clock Tower",
+        "chineseName": "钟塔之钥",
+        "description": "The key for opening a certain door of the Clock Tower.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "KFC Chicken Dinner Meal Box Recipe",
+        "chineseName": "KFC吃鸡餐盒配方",
+        "description": "Golden and tasty fried chicken is everyone’s favorite. Use it to unlock KFC Chicken Dinner Meal Box Recipe",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Khalitzburg Card",
+        "chineseName": "卡利斯格卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "King Joe Doll Hat",
+        "chineseName": "趴趴金古桥",
+        "description": "Put a robot on top of your head. Well, maybe you can get satellite TV in your head.",
+        "effect": "Def ＋2%, MDef ＋2%"
+    },
+    {
+        "imgsrc": null,
+        "name": "King Joe Doll Hat [1]",
+        "chineseName": "趴趴金古桥[1]",
+        "description": "Put a robot on top of your head. Well, maybe you can get satellite TV in your head.",
+        "effect": "Def ＋2%, MDef ＋2%"
+    },
+    {
+        "imgsrc": null,
+        "name": "King Poring Headwear",
+        "chineseName": "国王波利系列头饰",
+        "description": "Welcome to Poring Kingdom to spend your holiday!",
+        "effect": "All Attributes ＋1,Max HP ＋120"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "King Poring's Gift",
+        "chineseName": "国王波利的恩惠",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "King Poring's Majesty",
+        "chineseName": "国王波利的威严",
+        "description": "Welcome to Poring Kingdom to spend your holiday!",
+        "effect": "All Attributes ＋1,Max HP ＋120"
+    },
+    {
+        "imgsrc": null,
+        "name": "King Poring's Majesty Blueprint",
+        "chineseName": "国王波利的威严图纸",
+        "description": "Welcome to Poring Kingdom to spend your holiday!",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "King Poring's Melancholy",
+        "chineseName": "国王波利的忧郁",
+        "description": "Welcome to Poring Kingdom to spend your holiday!",
+        "effect": "All Attributes ＋1,Max HP ＋120"
+    },
+    {
+        "imgsrc": null,
+        "name": "King Poring's Melancholy Blueprint",
+        "chineseName": "国王波利的忧郁图纸",
+        "description": "Welcome to Poring Kingdom to spend your holiday!",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Kirin Wing",
+        "chineseName": "麒麟翅膀",
+        "description": "The wings of the mythical beast in Chinese legends.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Kirin Wing Blueprint",
+        "chineseName": "麒麟翅膀图纸",
+        "description": "The wings of the mythical beast in Chinese legends.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40703.png",
+        "name": "Kitchen Knife [2]",
+        "chineseName": "厨刀[2]",
+        "description": "A very useful knife for cutting meat. It is very easy to use, so a lot of people can handle it.",
+        "effect": ""
+    }
+]

@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Night Aira Blueprint",
+        "chineseName": "夜后的咏叹调图纸",
+        "description": "\"Hencse~Hencse~ Oh, where's the little guy? I asked him to reorganize the music score books, but he didn't make a move! I'm so damn furious!\" \"Hencse, how many times did I tell you not to mess around with the stupid musician? Damn~ Are you listening to me! There's no market for the music score called Magic Flute. Don't practice anymore! Comeback and move the books. I have many things for you to do! For example...\"",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Night Aira[1]",
+        "chineseName": "夜后的咏叹调[1]",
+        "description": "\"Hencse~Hencse~ Oh, where's the little guy? I asked him to reorganize the music score books, but he didn't make a move! I'm so damn furious!\" \"Hencse, how many times did I tell you not to mess around with the stupid musician? Damn~ Are you listening to me! There's no market for the music score called Magic Flute. Don't practice anymore! Comeback and move the books. I have many things for you to do! For example...\"",
+        "effect": "Atk ＋10,Base EXP of killing monsters ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Night Feather",
+        "chineseName": "夜羽",
+        "description": "It is the pride of demons to have wings that radiate mysterious plumes light even in the dark night, and the demons have given the wings a good name \"night feather\"",
+        "effect": "All Attributes ＋2,MPen. ＋4%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Night Headwear",
+        "chineseName": "暗夜系列头饰",
+        "description": "The symbol of Dark Knight represents the mission and belief of each generation of Dark Knight.",
+        "effect": "Atk ＋30,Pen. ＋3%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Night Sakura·Infatuation",
+        "chineseName": "月夜樱·真恋",
+        "description": "Sakura blooms in the night of early spring. \"'Flowers are romantic, and you're the most beautiful' you used to say that to me, Remember?\" Mel remembered the words on the picture book and slowly put on the cherry scarves that she planned to give the boy. The breeze blows the petals in the palm, They fly far towards the moon.",
+        "effect": "INT ＋2,Ignore M.Def ＋2%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Night Watch Abyssal Blue",
+        "chineseName": "暗夜守望者·深渊蓝",
+        "description": "The symbol of Dark Knight represents the mission and belief of each generation of Dark Knight.",
+        "effect": "Atk ＋30,Pen. ＋3%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Night Watch Fiery Red",
+        "chineseName": "暗夜守望者·业火红",
+        "description": "The symbol of Dark Knight represents the mission and belief of each generation of Dark Knight.",
+        "effect": "Atk ＋30,Pen. ＋3%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Night Watch Nether Green",
+        "chineseName": "暗夜守望者·幽冥绿",
+        "description": "The symbol of Dark Knight represents the mission and belief of each generation of Dark Knight.",
+        "effect": "Atk ＋30,Pen. ＋3%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Night Watch Sunlit Yellow",
+        "chineseName": "暗夜守望者·日耀黄",
+        "description": "The symbol of Dark Knight represents the mission and belief of each generation of Dark Knight.",
+        "effect": "Atk ＋30,Pen. ＋3%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Night's Fantasy·Black Gift Box",
+        "chineseName": "夜之狂想·黑礼盒",
+        "description": "Use it and get the Night's Fantasy·Black beauty contact lens from the Beauty of Eyes in Prontera.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Night's Fantasy·Blue Gift Box",
+        "chineseName": "夜之狂想·蓝礼盒",
+        "description": "Use it and get the Night's Fantasy·Blue beauty contact lens from the Beauty of Eyes in Prontera.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Night's Fantasy·Brown Gift Box",
+        "chineseName": "夜之狂想·棕礼盒",
+        "description": "Use it and get the Night's Fantasy·Brown beauty contact lens from the Beauty of Eyes in Prontera.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Night's Fantasy·Green Gift Box",
+        "chineseName": "夜之狂想·绿礼盒",
+        "description": "Use it and get the Night's Fantasy·Green beauty contact lens from the Beauty of Eyes in Prontera.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Night's Fantasy·Purple Gift Box",
+        "chineseName": "夜之狂想·紫礼盒",
+        "description": "Use it and get the Night's Fantasy·Purple beauty contact lens from the Beauty of Eyes in Prontera.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Night's Fantasy·Red Gift Box",
+        "chineseName": "夜之狂想·红礼盒",
+        "description": "Use it and get the Night's Fantasy·Red beauty contact lens from the Beauty of Eyes in Prontera.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Night's Fantasy·White Gift Box",
+        "chineseName": "夜之狂想·白礼盒",
+        "description": "Use it and get the Night's Fantasy·White beauty contact lens from the Beauty of Eyes in Prontera.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Night's Fantasy·Yellow Gift Box",
+        "chineseName": "夜之狂想·黄礼盒",
+        "description": "Use it and get the Night's Fantasy·Yellow beauty contact lens from the Beauty of Eyes in Prontera.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Nightmare Card",
+        "chineseName": "梦魇卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_61506.png",
+        "name": "Nile's Bracelet",
+        "chineseName": "尼罗的手环",
+        "description": "The bracelet sealed by Heilion stone, which can erase the power of evil.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_61506.png",
+        "name": "Nile's Bracelet [1]",
+        "chineseName": "尼罗的手环[1]",
+        "description": "The bracelet sealed by Heilion stone, which can erase the power of evil.",
+        "effect": ""
+    }
+]

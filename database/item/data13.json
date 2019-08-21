@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45202.png",
+        "name": "Apology Hood [1]",
+        "chineseName": "歉意头饰[1]",
+        "description": "Big cat who invented the beautiful adventure world wanted to express moments of respect, tolerance, and understanding via the headdress. When you see it everyday, it reminds you to keep creating more lovely contents for the world, in order to support all of our adventurers!",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45202.png",
+        "name": "Apology Hood [1] Blueprint",
+        "chineseName": "歉意头饰[1]图纸",
+        "description": "Big cat who invented the beautiful adventure world wanted to express moments of respect, tolerance, and understanding via the headdress. When you see it everyday, it reminds you to keep creating more lovely contents for the world, in order to support all of our adventurers!",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12301.png",
+        "name": "Apple",
+        "chineseName": "苹果",
+        "description": "A delicious fruit that can restore 16-22 points of HP.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12310.png",
+        "name": "Apple Juice",
+        "chineseName": "苹果汁",
+        "description": "Fruit juice squeezed from apples. It can restore 60-115 points of SP, and the effect is faster than that of direct eating.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45045.png",
+        "name": "Apple of Archer",
+        "chineseName": "苹果头饰",
+        "description": "It's said the apple was shot by a sniper in the ancient time at a very long distance.",
+        "effect": "Def ＋2,Dex ＋3"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45045.png",
+        "name": "Apple of Archer Blueprint",
+        "chineseName": "苹果头饰图纸",
+        "description": "It's said the apple was shot by a sniper in the ancient time at a very long distance.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45045.png",
+        "name": "Apple of Archer [1]",
+        "chineseName": "苹果头饰[1]",
+        "description": "It's said the apple was shot by a sniper in the ancient time at a very long distance.",
+        "effect": "Def ＋2,Dex ＋3"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_800104.png",
+        "name": "Apr. 2017 Premium",
+        "chineseName": "2017.4月限定特典",
+        "description": "\"It's said that only smart people can understand what the noisy goblins are saying. What? You said you can understand too?\" To thank the adventurers who have been supporting them for a long time, the famous Kafra Company specially launched a special small card in the form of a monthly magazine. Hold it and you will feel its magical power. It's practical and highly collectible.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Apr. 2018 Premium",
+        "chineseName": "2018.4月限定特典",
+        "description": "In the season of sakura, people gathered in the kingdom blessed by 8 million gods to have a picnic.  What kind of memories will Furong Yu and Fei Xu have today?  By: Sakurano Lu (P Station ID: 207057) To appreciate the adventurers who have been supporting us for a long time, the famous Kafra Company specially launched a special small card in the form of a monthly magazine. Hold it and you will feel its magical power. It's practical and highly collectible.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "April 2018 gashapon box",
+        "chineseName": "18年4月扭蛋盒",
+        "description": "Kafra's special headwear Gashapon toy chest, to express your sincere affection! Open it to receive friend's blessing cards and 10 headwear Gashapon toys relative to 10 months.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "April 2019 Premium",
+        "chineseName": "2019.4月限定特典",
+        "description": "\"The breeze blows with the breath of spring, carrying cherry blossoms through the air. Could there be a more romantic sight? Every day we spend together is filled with sunshine!” In a show of appreciation for the long-time support and loyalty of the world's many great adventurers, the famous Kafra company has launched special monthly cards. Just by holding these valuable and highly-useful items, you can feel the magic within them.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Aqua Elemental Card",
+        "chineseName": "水元素卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40601.png",
+        "name": "Aqua Staff [2]",
+        "chineseName": "流水之杖[2]",
+        "description": "A staff with the force of frozen water.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40601.png",
+        "name": "Aqua Staff [3]",
+        "chineseName": "流水之杖[3]",
+        "description": "A staff with the force of frozen water.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_52502.png",
+        "name": "Aquamarine",
+        "chineseName": "天蓝宝石",
+        "description": "A gem glowing with the blue light of the sky. Being a very rare item, it can be used as equipment or to make high-end headwear.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Aquarius Crown",
+        "chineseName": "宝瓶宫王冠",
+        "description": "Crown that symbolizes Aquarius, one of the twelve zodiacal signs. It's inlaid with amethyst.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Aquarius Crown Blueprint",
+        "chineseName": "宝瓶宫王冠图纸",
+        "description": "Crown that symbolizes Aquarius, one of the twelve zodiacal signs. It's inlaid with amethyst.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Aquarius Crown [1]",
+        "chineseName": "宝瓶宫王冠[1]",
+        "description": "Crown that symbolizes Aquarius, one of the twelve zodiacal signs. It's inlaid with amethyst.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Aquarius Diadem",
+        "chineseName": "宝瓶宫宝冠",
+        "description": "Diadem that symbolizes Aquarius, one of the twelve zodiacal signs. It's inlaid with amethyst.",
+        "effect": "Dex ＋3,AGI ＋3"
+    },
+    {
+        "imgsrc": null,
+        "name": "Aquarius Diadem [1]",
+        "chineseName": "宝瓶宫宝冠[1]",
+        "description": "Diadem that symbolizes Aquarius, one of the twelve zodiacal signs. It's inlaid with amethyst.",
+        "effect": ""
+    }
+]

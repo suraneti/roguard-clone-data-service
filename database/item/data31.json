@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Box Wrapper",
+        "chineseName": "礼盒纸",
+        "description": "Beautiful and sturdy wrappers that helps to wrap the box nicely.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45108.png",
+        "name": "Boy's Cap",
+        "chineseName": "学生帽",
+        "description": "Black hat for students.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45108.png",
+        "name": "Boy's Cap [1]",
+        "chineseName": "学生帽[1]",
+        "description": "Black hat for students.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45108.png",
+        "name": "Boy's Cap [1] Blueprint",
+        "chineseName": "学生帽[1]图纸",
+        "description": "Black hat for students.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_61501.png",
+        "name": "Bracelet of Gray",
+        "chineseName": "土色手环",
+        "description": "Although it is a bracelet made of clay Shards, it has nothing to do with sakela.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_61501.png",
+        "name": "Bracelet of Gray [1]",
+        "chineseName": "土色手环[1]",
+        "description": "Although it is a bracelet made of clay Shards, it has nothing to do with sakela.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Bradium Shield [2]",
+        "chineseName": "魔力之石盾牌[2]",
+        "description": "A heavy hard shield made of magic stone.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Bradium Shield[1]",
+        "chineseName": "魔力之石盾牌[1]",
+        "description": "A heavy hard shield made of magic stone.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Bread in Mouth",
+        "chineseName": "含在嘴里的吐司",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Bread in Mouth Blueprint",
+        "chineseName": "含在嘴里的吐司图纸",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Breaking Dawn",
+        "chineseName": "破晓",
+        "description": "Break the shell of the past and embrace the dawn of a new age...",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45086.png",
+        "name": "Bride's Corolla",
+        "chineseName": "新娘的花冠",
+        "description": "Wedding corolla full of youth vibe. Long silk ribbons decorated at the back.",
+        "effect": "Avoid being auto-targeted by demi-human monsters in the wild,After it sits down, flower that symbolizes happiness will bloom around."
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45086.png",
+        "name": "Bride's Corolla [1]",
+        "chineseName": "新娘的花冠[1]",
+        "description": "Wedding corolla full of youth vibe. Long silk ribbons decorated at the back.",
+        "effect": "Avoid being auto-targeted by demi-human monsters in the wild,After it sits down, flower that symbolizes happiness will bloom around."
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45086.png",
+        "name": "Bride's Corolla [1] Blueprint",
+        "chineseName": "新娘的花冠[1]图纸",
+        "description": "Wedding corolla full of youth vibe. Long silk ribbons decorated at the back.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_52105.png",
+        "name": "Brigan",
+        "chineseName": "布里刊",
+        "description": "Rare mineral that emits a red light. I wonder what you can make with it?",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45138.png",
+        "name": "Bright Fury",
+        "chineseName": "武将头盔",
+        "description": "Helmet used by a famous general in legend. You still can feel a very strong war feeling up to now.",
+        "effect": "Def ＋5, Str ＋1,Atk ＋2%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45138.png",
+        "name": "Bright Fury [1]",
+        "chineseName": "武将头盔[1]",
+        "description": "Helmet used by a famous general in legend. You still can feel a very strong war feeling up to now.",
+        "effect": "Def ＋5, Str ＋1,Atk ＋2%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45138.png",
+        "name": "Bright Fury [1] Blueprint",
+        "chineseName": "武将头盔[1]图纸",
+        "description": "Helmet used by a famous general in legend. You still can feel a very strong war feeling up to now.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Bright Star",
+        "chineseName": "光辉晨星",
+        "description": "The staff of Lucifer Warlock. Thousands of years ago, Lucifer and the great emperor Tristan passed through the ruins of a city which was later rebuilt as Glast Heim. They took pity on the millions of spirits wandering in the ruins, so they used all the strength of the staff to comfort the dead people. After that, he used the Shards of his staff to build the first brick wall of the Bright Star Monastery. The remaining power of the staff has long suppressed the ghosts in the monastery cemetery. (Better used as the weapon skin)",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Brilight Card",
+        "chineseName": "伊特瓢虫卡片",
+        "description": "",
+        "effect": ""
+    }
+]

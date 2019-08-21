@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Grand Chef·Vegetable Soup",
+        "chineseName": "食神王冠·菜汤",
+        "description": "Thank you for your outstanding contribution in the field of making vegetable soup. The Cuisine Association hereby awards you this headwear to prove your long-lasting effort in studying food.",
+        "effect": "Atk ＋10,Dex ＋1"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45056.png",
+        "name": "Grand Circlet",
+        "chineseName": "领导者头箍",
+        "description": "Headscarf worn by the highest instructor of the tribe.",
+        "effect": "Str ＋1,When Refining ＋10, Max HP ＋1000"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45056.png",
+        "name": "Grand Circlet Blueprint",
+        "chineseName": "领导者头箍图纸",
+        "description": "Headscarf worn by the highest instructor of the tribe.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45056.png",
+        "name": "Grand Circlet [1]",
+        "chineseName": "领导者头箍[1]",
+        "description": "Headscarf worn by the highest instructor of the tribe.",
+        "effect": "Str ＋1,When Refining ＋10, Max HP ＋1000"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12320.png",
+        "name": "Grape",
+        "chineseName": "葡萄",
+        "description": "A fresh and sour fruit that can restores 60 -90 points of SP.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12321.png",
+        "name": "Grape Juice",
+        "chineseName": "葡萄汁",
+        "description": "Fruit juice squeezed by grapes, More convenient for eating. It can restore 150-250 points of SP, and the effect is faster than that of direct eating.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_59.png",
+        "name": "Gratitude Card Chest",
+        "chineseName": "感恩卡片礼物箱",
+        "description": "A special loot box for players who are always with RO. It probably contains nice cards.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41808.png",
+        "name": "Great Axe [1]",
+        "chineseName": "克莱伊特斧[1]",
+        "description": "A big Two-Handed Axe with a large edge that will make the enemy frightened.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41808.png",
+        "name": "Great Axe [2]",
+        "chineseName": "克莱伊特斧[2]",
+        "description": "A big Two-Handed Axe with a large edge that will make the enemy frightened.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_5111.png",
+        "name": "Great Nature",
+        "chineseName": "地灵原石",
+        "description": "The ore with earth attribute. After use, Your attack turns into earth attribute and the effect lasts 15 minutes.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Greatest General Card",
+        "chineseName": "将军魔碑卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43516.png",
+        "name": "Greaves",
+        "chineseName": "重靴",
+        "description": "Made of steel, the boots focus on defense but not usability or comfort.",
+        "effect": "Move Spd ＋8%,Green Steel Pike IV ＋ Greaves  VII ＋ Stone Buckler IV: Ignores 5% Def, ＋5% Atk"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43516.png",
+        "name": "Greaves [1]",
+        "chineseName": "重靴[1]",
+        "description": "Made of steel, the boots focus on defense but not usability or comfort.",
+        "effect": "Move Spd ＋8%,Green Steel Pike IV ＋ Greaves  VII ＋ Stone Buckler IV: Ignores 5% Def, ＋5% Atk"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12100.png",
+        "name": "Green Clothing Dye",
+        "chineseName": "绿色衣服染料",
+        "description": "It can dye clothing materials green.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12100.png",
+        "name": "Green Dyestuffs",
+        "chineseName": "绿色染料",
+        "description": "A magic potion to dye the hair green.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45008.png",
+        "name": "Green Feeler",
+        "chineseName": "触角头饰",
+        "description": "Green tentacles of insect. You can feel rocker's jump when you wear it.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45008.png",
+        "name": "Green Feeler Blueprint",
+        "chineseName": "触角头饰图纸",
+        "description": "Green tentacles of insect. You can feel rocker's jump when you wear it.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45008.png",
+        "name": "Green Feeler [1]",
+        "chineseName": "触角头饰[1]",
+        "description": "Green tentacles of insect. You can feel rocker's jump when you wear it.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_5009.png",
+        "name": "Green Herb",
+        "chineseName": "绿色药草",
+        "description": "A raw material for producing green hair dyes.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Green Lace",
+        "chineseName": "宠物围兜",
+        "description": "",
+        "effect": ""
+    }
+]

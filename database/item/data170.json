@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40719.png",
+        "name": "Poison Knife [2]",
+        "chineseName": "巨毒短剑[2]",
+        "description": "The blade with a purple shine makes people feel scared. The knife is covered with strong poison.",
+        "effect": "auto attack has a large probability to set targets into poisoning state,For Refining ＋1, ignore Def ＋2%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Poison Spore Card",
+        "chineseName": "毒魔菇卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Poisoned Duke's Mask",
+        "chineseName": "毒药伯爵面具",
+        "description": "The Duke is an illegitimate son of the Pope and an unknown woman. Due to an encounter during childhood, He became a famous careerist. Not only did he have a forbidden relationship with his own sister, but he also used his sister as a tool to marry off her husband and poisoned the man after grabbing his territory. The method was extremely cruel and filled with a perverted aesthetic.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Poisoned Duke's Mask Blueprint",
+        "chineseName": "毒药伯爵面具图纸",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Poker Album",
+        "chineseName": "扑克卡册",
+        "description": "Use to gain a random card",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_48511.png",
+        "name": "Poker Face",
+        "chineseName": "无表情的假面",
+        "description": "The eyes and the mouth are the same, As if the facial expression is out of the world. When you hear cold jokes without anticipation, you can try to wear it.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_48511.png",
+        "name": "Poker Face Blueprint",
+        "chineseName": "无表情的假面图纸",
+        "description": "The eyes and the mouth are the same, As if the facial expression is out of the world. When you hear cold jokes without anticipation, you can try to wear it.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40008.png",
+        "name": "Pole Axe [1]",
+        "chineseName": "镰戟[1]",
+        "description": "Large single-handed guns, long guns plus sickles can be used as the holistic weapons for various attacks.",
+        "effect": "Str ＋3,Hit ＋15"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40008.png",
+        "name": "Pole Axe [2]",
+        "chineseName": "镰戟[2]",
+        "description": "Large single-handed guns, long guns plus sickles can be used as the holistic weapons for various attacks.",
+        "effect": "Str ＋3,Hit ＋15"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45036.png",
+        "name": "Poo Poo Hat",
+        "chineseName": "粪便帽",
+        "description": "It's not polite to call it as animal's crap. So it's referred as excrement.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45036.png",
+        "name": "Poo Poo Hat Blueprint",
+        "chineseName": "粪便帽图纸",
+        "description": "It's not polite to call it as animal's crap. So it's referred as excrement.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45036.png",
+        "name": "Poo Poo Hat [1]",
+        "chineseName": "粪便帽[1]",
+        "description": "Animal's excrete or something, they care all called feces. It will be released when players are attacked by an enemy.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Pope Music",
+        "chineseName": "萌音教主",
+        "description": "Cute is justice! Become the Pope music and let everyone warship your lovely voice.",
+        "effect": "moving spd ＋3%,Attack Spd ＋5%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Poporing Card",
+        "chineseName": "波波利卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Poring Blessing Box",
+        "chineseName": "波利祝福礼盒",
+        "description": "Poring prepared this gift box for the adventurer as a token of gratitude. It's not big but full of their goodwill. ",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Poring Card",
+        "chineseName": "波利卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Poring Celebration GiftBox",
+        "chineseName": "桃花朵朵波利礼盒",
+        "description": "An exquisite box with the scent of early spring and markings of peach blossoms on it. It's said to hold Poring's treasures! ",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12342.png",
+        "name": "Poring Doll",
+        "chineseName": "波利娃娃",
+        "description": "A doll designed like the popular Poring Monster. It permanently increases the character's PHY Atk by 25 points and cannot be traded.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Poring Garland",
+        "chineseName": "波利花环",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Poring Garland Blueprint",
+        "chineseName": "波利花环图纸",
+        "description": "",
+        "effect": ""
+    }
+]

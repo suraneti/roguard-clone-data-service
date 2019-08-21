@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41537.png",
+        "name": "Mercenary Hammer [2]",
+        "chineseName": "制式锤[2]",
+        "description": "A fighting hammer specially made for mercenaries. Adapt to a variety of complex environments.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40906.png",
+        "name": "Mercenary Katar",
+        "chineseName": "制式拳刃",
+        "description": "An Infiltrator specially made for mercenaries. Adapt to a variety of complex environments.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40906.png",
+        "name": "Mercenary Katar [2]",
+        "chineseName": "制式拳刃[2]",
+        "description": "An Infiltrator specially made for mercenaries. Adapt to a variety of complex environments.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40710.png",
+        "name": "Mercenary Knife",
+        "chineseName": "制式短剑",
+        "description": "A Stiletto specially made for mercenaries. Adapt to a variety of complex environments.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40710.png",
+        "name": "Mercenary Knife [2]",
+        "chineseName": "制式短剑[2]",
+        "description": "A Stiletto specially made for mercenaries. Adapt to a variety of complex environments.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42502.png",
+        "name": "Mercenary Shield",
+        "chineseName": "制式盾",
+        "description": "The circular shield for mercenaries, adapting to a variety of complex conditions.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42502.png",
+        "name": "Mercenary Shield [1]",
+        "chineseName": "制式盾[1]",
+        "description": "The circular shield for mercenaries, adapting to a variety of complex conditions.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43533.png",
+        "name": "Mercenary Shoes",
+        "chineseName": "制式便靴",
+        "description": "Multi-purpose boots for mercenaries, adapting to a variety of complex conditions.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43533.png",
+        "name": "Mercenary Shoes [1]",
+        "chineseName": "制式便靴[1]",
+        "description": "Multi-purpose boots for mercenaries, adapting to a variety of complex conditions.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40026.png",
+        "name": "Mercenary Spear",
+        "chineseName": "制式长矛",
+        "description": "A knight spear specially made for mercenaries. Adapt to a variety of complex environments.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40026.png",
+        "name": "Mercenary Spear [2]",
+        "chineseName": "制式长矛[2]",
+        "description": "A knight spear specially made for mercenaries. Adapt to a variety of complex environments.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40630.png",
+        "name": "Mercenary Staff",
+        "chineseName": "制式法杖",
+        "description": "An oak wand specially made for mercenaries. Adapt to a variety of complex environments.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40630.png",
+        "name": "Mercenary Staff [2]",
+        "chineseName": "制式法杖[2]",
+        "description": "An oak wand specially made for mercenaries. Adapt to a variety of complex environments.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40334.png",
+        "name": "Mercenary Sword",
+        "chineseName": "制式长剑",
+        "description": "Thick-blade swords specially made for mercenaries. Adapt to a variety of complex environments.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40334.png",
+        "name": "Mercenary Sword [2]",
+        "chineseName": "制式长剑[2]",
+        "description": "A Stiletto specially made for mercenaries. Adapt to a variety of complex environments.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Mercenary Ticket",
+        "chineseName": "神秘佣兵券",
+        "description": "Meow meow meow~! Everyone from Malangdo to Turtle Island knows your name. The every mercenary cat is at your service! (You can use this voucher instead of Zeny when you hire Mercenary Cats. )",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Mercenary's Mission",
+        "chineseName": "佣兵宅急便·委托",
+        "description": "With it, adventurer of any level can immediately complete a mission they accept from the Mission Board! [The old cowhide envelope is like a vow. \"It symbolizes the ultimate death mercenary group lurking in the darkness for thousands of years. It seems that any task will be completed at once if you pay them well...\" Of course~ It's used to scare children who don't want to sleep at night.  Mysterious mercenary troop is now serving the justice of the adventurers. ]",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Mercenary's Mission I",
+        "chineseName": "佣兵宅急便·委托I",
+        "description": "With it, adventurer of Base 1-55 can immediately complete a mission they accept from the Mission Board! [The old cowhide envelope is like a vow. \"It symbolizes the ultimate death mercenary group lurking in the darkness for thousands of years. It seems that any task will be completed at once if you pay them well...\" Of course~ It's used to scare children who don't want to sleep at night. Mysterious mercenary troop is now serving the justice of the adventurers. ]",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Mercenary's Mission II",
+        "chineseName": "佣兵宅急便·委托Ⅱ",
+        "description": "With it, adventurer of Base 1-85 can immediately complete a mission they accept from the Mission Board! [The old cowhide envelope is like a vow. \"It symbolizes the ultimate death mercenary group lurking in the darkness for thousands of years. It seems that any task will be completed at once if you pay them well...\" Of course~ It's used to scare children who don't want to sleep at night. Mysterious mercenary troop is now serving the justice of the adventurers. ]",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Mercenary's Mission III",
+        "chineseName": "佣兵宅急便·委托Ⅲ",
+        "description": "With it, adventurer of Base 1-100 can immediately complete a mission they accept from the Mission Board! [The old cowhide envelope is like a vow. \"It symbolizes the ultimate death mercenary group lurking in the darkness for thousands of years. It seems that any task will be completed at once if you pay them well...\" Of course~ It's used to scare children who don't want to sleep at night. Mysterious mercenary troop is now serving the justice of the adventurers. ]",
+        "effect": ""
+    }
+]

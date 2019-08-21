@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Goblin Pilot",
+        "chineseName": "哥布灵飞行员",
+        "description": "Take it off! Of course, only goblin can drive the goblin helicopter. Adventurers can only watch it.",
+        "effect": "Dex ＋1,Max SP ＋100"
+    },
+    {
+        "imgsrc": null,
+        "name": "Goblin Pilot Blueprint",
+        "chineseName": "哥布灵飞行员图纸",
+        "description": "Take it off! Of course, only goblin can drive the goblin helicopter. Adventurers can only watch it.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_3658.png",
+        "name": "Goblin Treasure",
+        "chineseName": "哥布灵的宝藏",
+        "description": "Actually, Goblin does not treat these stuffs as valuable, but they must call them \"treasure\" in order to deeply communicate with mankind.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "God Hand Blueprint",
+        "chineseName": "神·手图纸",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "God Hand [1]",
+        "chineseName": "神·手[1]",
+        "description": "",
+        "effect": "Max HP ＋400,Dmg to Demi-Human race ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Gods' Gaze 2 [2]",
+        "chineseName": "万神的注视2[2]",
+        "description": "This staff, made from the powers of the oldest Divine Trees of the dark jungle, looks like an ordinary wooden stick but it actually contains abundant amounts of magical energy.",
+        "effect": "INT ＋20,Dmg Reduc. ＋5%, Magic Reduc. ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Gods' Gaze 3 [2]",
+        "chineseName": "万神的注视3[2]",
+        "description": "This staff, made from the powers of the oldest Divine Trees of the dark jungle, looks like an ordinary wooden stick but it actually contains abundant amounts of magical energy.",
+        "effect": "INT ＋20,Dmg Reduc. ＋10%, Magic Reduc. ＋10%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Gods' Gaze Shard",
+        "chineseName": "万神的注视残片",
+        "description": "Shard of the legendary artifact: Gods' Gaze. By collecting rare materials and more debris, with ancient knowledge and legendary Mr. Dragon's skills, you may restore it to the original form.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Gods' Gaze [2]",
+        "chineseName": "万神的注视[2]",
+        "description": "This staff, made from the powers of the oldest Divine Trees of the dark jungle, looks like an ordinary wooden stick but it actually contains abundant amounts of magical energy.",
+        "effect": "INT ＋20,Max HP ＋13500"
+    },
+    {
+        "imgsrc": null,
+        "name": "God’s Coin",
+        "chineseName": "诸神币",
+        "description": "Gained from GVG final battles. Guild leader and vice leader can redeem crafting material of Headwear Artifacts in GVG Headwear Artifact store!",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42020.png",
+        "name": "Goibne's Armor",
+        "chineseName": "哥夫内的铠甲",
+        "description": "Craftsman Goibne drinks immortal wine when he works, the wine once accidentally dropped on the armor and endowed the armor with special force.",
+        "effect": "VIT ＋5,Max HP ＋10%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42020.png",
+        "name": "Goibne's Armor [1]",
+        "chineseName": "哥夫内的铠甲[1]",
+        "description": "Craftsman Goibne drinks immortal wine when he works, the wine once accidentally dropped on the armor and endowed the armor with special force.",
+        "effect": "VIT ＋5,Max HP ＋10%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43511.png",
+        "name": "Goibne's Greaves",
+        "chineseName": "哥夫内军靴",
+        "description": "The boots made by Goibne to bet against his rival, Duff.",
+        "effect": "M.Def ＋35,SP Regen ＋5"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43511.png",
+        "name": "Goibne's Greaves [1]",
+        "chineseName": "哥夫内军靴[1]",
+        "description": "The boots made by Goibne to bet against his rival, Duff.",
+        "effect": "M.Def ＋35,SP Regen ＋5"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45122.png",
+        "name": "Goibne's Helm",
+        "chineseName": "哥夫内的头具",
+        "description": "It one of the few armors made by Goibne who mainly built weapons. Gods gave more praise to Goibne's armors than his weapons.",
+        "effect": "Def ＋10,M.Def ＋5"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45122.png",
+        "name": "Goibne's Helm [1]",
+        "chineseName": "哥夫内的头具[1]",
+        "description": "It one of the few armors made by Goibne who mainly built weapons. Gods gave more praise to Goibne's armors than his weapons.",
+        "effect": "Def ＋10,M.Def ＋5"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45122.png",
+        "name": "Goibne's Helm [1] Blueprint",
+        "chineseName": "哥夫内的头具[1]图纸",
+        "description": "It one of the few armors made by Goibne who mainly built weapons. Gods gave more praise to Goibne's armors than his weapons.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43014.png",
+        "name": "Goibne's Spaulders",
+        "chineseName": "哥夫内肩饰",
+        "description": "Goibne's first armor, it's said that Goibne cherished it very much.",
+        "effect": "VIT ＋2,Reduction of Ranged Dmg ＋10%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43014.png",
+        "name": "Goibne's Spaulders [1]",
+        "chineseName": "哥夫内肩饰[1]",
+        "description": "Goibne's first armor, it's said that Goibne cherished it very much.",
+        "effect": "VIT ＋2,Reduction of Ranged Dmg ＋10%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Gold Angel",
+        "chineseName": "金色信仰",
+        "description": "The angel made of gold, which symbolizes the guarding will of the wearer. The back side is engraved with words \"guard the temple glory with our lives\".",
+        "effect": "VIT ＋1,Max HP ＋50"
+    }
+]

@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45006.png",
+        "name": "Ribbon",
+        "chineseName": "紫蝶发带",
+        "description": "Butterfly hairband made of strips of cloth, mainly made for women.",
+        "effect": "Def ＋5,M.Def ＋5"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45006.png",
+        "name": "Ribbon [1]",
+        "chineseName": "紫蝶发带[1]",
+        "description": "Butterfly hairband made of strips of cloth, mainly made for women.",
+        "effect": "Def ＋5,M.Def ＋5"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45006.png",
+        "name": "Ribbon [1] Blueprint",
+        "chineseName": "紫蝶发带[1]图纸",
+        "description": "Butterfly hairband made of strips of cloth, mainly made for women.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12314.png",
+        "name": "Rice Cake",
+        "chineseName": "年糕",
+        "description": "Rice flour kneaded to the appropriate size, filled with stuffing, made into a semi-circular shape, and covered with pine needles. Can restore up to 10% of HP. During PVP periods, there will be reduced HP Regen. During CD periods, the effect will be greater.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Rice Dumpling Box",
+        "chineseName": "粽香礼盒",
+        "description": "A festival box from the distant east. It’s heavily loaded with all kinds of good stuff! ~(Open to gain guaranteed 200x Herb of Incantation, 1x Sticky Rice Dumpling and one of the following items: 1x Seed of Mastela, 1x Mora Coin, 1x Lightning Chain, 1x Gold Medal, 1x Guild's Gift, 50x Eden Coin)",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43006.png",
+        "name": "Rider Insignia",
+        "chineseName": "奔跑者徽章",
+        "description": "A badge that a fast runner likes to use. As long as you wear it, You would like to run.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43006.png",
+        "name": "Rider Insignia [1]",
+        "chineseName": "奔跑者徽章[1]",
+        "description": "A badge that a fast runner likes to use. As long as you wear it, You would like to run.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Rideword Card",
+        "chineseName": "飞行魔书卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_44026.png",
+        "name": "Ring",
+        "chineseName": "戒指",
+        "description": "An ordinary ring we can find in stall vendor. It can be a choice of gift.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40305.png",
+        "name": "Ring Pommel Saber [2]",
+        "chineseName": "圆柄马刀[2]",
+        "description": "A knife whose end is circular.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40305.png",
+        "name": "Ring Pommel Saber [3]",
+        "chineseName": "圆柄马刀[3]",
+        "description": "A knife whose end is circular.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Ripple",
+        "chineseName": "安静的水波",
+        "description": "When the weather is nice near the sea, the waves lap at your feet, Distorting their image as if they were in a bottle.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "RJC Katusa Flower",
+        "chineseName": "山茶花发带",
+        "description": "",
+        "effect": "Max SP ＋50,M.Atk ＋5"
+    },
+    {
+        "imgsrc": null,
+        "name": "RJC Katusa Flower [1]",
+        "chineseName": "山茶花发带[1]",
+        "description": "Hairband made of camellia.",
+        "effect": "Max SP ＋50,M.Atk ＋5"
+    },
+    {
+        "imgsrc": null,
+        "name": "RJC Katusa Flower [1] Blueprint",
+        "chineseName": "山茶花发带[1]图纸",
+        "description": "Hairband made of camellia.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_61501.png",
+        "name": "RO Bracelet",
+        "chineseName": "RO手环",
+        "description": "For test only.",
+        "effect": "Atk ＋5000,SP Regen ＋100%"
+    },
+    {
+        "imgsrc": null,
+        "name": "RO x Ultraman Premium",
+        "chineseName": "奥特曼联动特典",
+        "description": "Brave adventurers of Midgard, you’ll fight alongside Ultraman from outer space this time. Justice will prevail!",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Roast Chips",
+        "chineseName": "烧烤味仙境薯片",
+        "description": "Delicious snacks from the other world. AGI ＋ 10, Attack Spd ＋20%, For 30 min. (The effect cannot be stacked with Agi food)",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42043.png",
+        "name": "Robe of Cast",
+        "chineseName": "创作者外袍",
+        "description": "College Mages usually wear this when they make magic scrolls so as to improve their affinity.",
+        "effect": "INT ＋4,[Wizardry Staff VIII] ＋ [Robe of Cast VIII] ＋ [Eye of Dullahan VIII] ＋ [Crystal Pumps IV]: －5% CT Variable, ＋3% M.Dmg, ＋3% Ignore MDef"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42043.png",
+        "name": "Robe of Cast [1]",
+        "chineseName": "创作者外袍[1]",
+        "description": "College Mages usually wear this when they make magic scrolls so as to improve their affinity.",
+        "effect": "INT ＋4,[Wizardry Staff VIII] ＋ [Robe of Cast VIII] ＋ [Eye of Dullahan VIII] ＋ [Crystal Pumps IV]: －5% CT Variable, ＋3% M.Dmg, ＋3% Ignore MDef"
+    }
+]

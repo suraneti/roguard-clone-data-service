@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Reindeer Beanie",
+        "chineseName": "驯鹿毛线帽",
+        "description": "",
+        "effect": "MAX HP ＋100,HP Regen ＋3"
+    },
+    {
+        "imgsrc": null,
+        "name": "Reindeer Beanie Blueprint",
+        "chineseName": "驯鹿毛线帽图纸",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Reindeer Beanie [1]",
+        "chineseName": "驯鹿毛线帽[1]",
+        "description": "",
+        "effect": "Dex ＋3,AGI ＋3"
+    },
+    {
+        "imgsrc": null,
+        "name": "Reindeer Umbrella",
+        "chineseName": "驯鹿小伞",
+        "description": "",
+        "effect": "Def ＋5,Max HP ＋100"
+    },
+    {
+        "imgsrc": null,
+        "name": "Reindeer umbrella Blueprint",
+        "chineseName": "驯鹿小伞图纸",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Reindeer Umbrella [1]",
+        "chineseName": "驯鹿小伞[1]",
+        "description": "",
+        "effect": "Def ＋5,Max HP ＋100"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40615.png",
+        "name": "Release of Wish [1]",
+        "chineseName": "许愿之杖[1]",
+        "description": "A wand made of crystal which gives out a reflecting shine can recover the ability of the master.",
+        "effect": "INT ＋2,When casting a single target skill, there is a 10% chance to restore 5% HP and 5% SP"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40615.png",
+        "name": "Release of Wish [2]",
+        "chineseName": "许愿之杖[2]",
+        "description": "A magic staff made of crystal with fascinating brilliance. It has an ability to restore the owner's attributes.",
+        "effect": "INT ＋2,When casting a single target skill, there is a 10% chance to restore 5% HP and 5% SP"
+    },
+    {
+        "imgsrc": null,
+        "name": "Remains of Wind",
+        "chineseName": "风的遗迹",
+        "description": "The remains left by God’s battle only visited by wind now.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45116.png",
+        "name": "Renown Detective's Cap",
+        "chineseName": "侦探之帽",
+        "description": "It's said to be the favorite hat of the famous inspector Holmes. It fits well with the pipe.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45116.png",
+        "name": "Renown Detective's Cap [1]",
+        "chineseName": "侦探之帽[1]",
+        "description": "It's said to be the favorite hat of the famous inspector Holmes. It fits well with the pipe.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45116.png",
+        "name": "Renown Detective's Cap [1] Blueprint",
+        "chineseName": "侦探之帽[1]图纸",
+        "description": "It's said to be the favorite hat of the famous inspector Holmes. It fits well with the pipe.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Rescuer Shoes",
+        "chineseName": "援护者皮靴",
+        "description": "These boots have been baptized by senior priests. Although they appear to be bulky, They are actually very light and hold blessings from the gods.",
+        "effect": "Move Spd ＋5%,Effects of [HP Potion Cast] and [MP Potion Cast] ＋20%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Rescuer Shoes [1]",
+        "chineseName": "援护者皮靴[1]",
+        "description": "These boots have been baptized by senior priests. Although they appear to be bulky, They are actually very light and hold blessings from the gods.",
+        "effect": "Move Spd ＋5%,Effects of [HP Potion Cast] and [MP Potion Cast] ＋20%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Returning Chest",
+        "chineseName": "回归冒险礼盒",
+        "description": "The pack can be opened after EP 2.0 Pet Lover is launched, to receive Lunatic Egg x1, Eclipsex1.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Returning Pack I",
+        "chineseName": "初心回归大礼包·一",
+        "description": "Dear adventures, welcome home! When you set off, Kafra prepared a Premium pack for you!",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Returning Pack II",
+        "chineseName": "初心回归大礼包·二",
+        "description": "How do you like the game? You must have a good time with friends! We have a surprise for you!",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Returning Pack III",
+        "chineseName": "初心回归大礼包·三",
+        "description": "Gift from Valkyrie, wish you become stronger in the adventure journey!",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Returning Pack IV",
+        "chineseName": "初心回归大礼包·四",
+        "description": "Everybody has worn pretty headwear! You must not miss it! Have a look!",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Returning Pack V",
+        "chineseName": "初心回归大礼包·五",
+        "description": "The world of love and adventure is more wonderful with you! Grow stronger with your friends!",
+        "effect": ""
+    }
+]

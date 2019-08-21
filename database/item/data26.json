@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Black Witch ★Card",
+        "chineseName": "黑魔女★卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Black Witch's Hat",
+        "chineseName": "黑魔女的帽子",
+        "description": "Black Witch's Hat",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Black Witch's Wand",
+        "chineseName": "黑魔女的手杖",
+        "description": "Black Witch's Wand",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Black Witch's Wizard Hat",
+        "chineseName": "黑魔女魔法帽",
+        "description": "",
+        "effect": "Dex ＋3,AGI ＋3"
+    },
+    {
+        "imgsrc": null,
+        "name": "Black Witch's Wizard Hat Blueprint",
+        "chineseName": "黑魔女魔法帽图纸",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Black Witch's Wizard Hat [1]",
+        "chineseName": "黑魔女魔法帽[1]",
+        "description": "",
+        "effect": "Dex ＋3,AGI ＋3"
+    },
+    {
+        "imgsrc": null,
+        "name": "Black Wizard Headwear",
+        "chineseName": "黑巫师系列头饰",
+        "description": "Under the broad brim of the hat, the magic crept, as if there were a voice whispering in the ear.",
+        "effect": "All Attributes ＋2,M.Atk ＋12"
+    },
+    {
+        "imgsrc": null,
+        "name": "Blacksmith Badge",
+        "chineseName": "铁匠徽章",
+        "description": "Blacksmith Badge.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Blacksmith's Giftbox",
+        "chineseName": "铁匠联盟心意礼盒",
+        "description": "A small giftbox for all the adventures from the Blacksmith Guild. \"Wish your refining will always be successful!\" Open to receive: 15 to 30 \"Oridecon\", 15 to 30 “Elunium”, and 100,000 Zeny",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40330.png",
+        "name": "Blade",
+        "chineseName": "厚刃剑",
+        "description": "A sword with a thick blade is widely used.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40330.png",
+        "name": "Blade [2]",
+        "chineseName": "厚刃剑[2]",
+        "description": "A sword with a thick blade is widely used.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_5200.png",
+        "name": "Blair's Coin",
+        "chineseName": "布雷尔的特制硬币",
+        "description": "A coin engraved with the challenger's name. It symbolizes honor and strength for dueling clubs.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Blazing soul·Dragon flame",
+        "chineseName": "炎魂·红龙炽焰",
+        "description": "Spear made from red dragon breath and Fire Crystal, every thrust is as powerful as the flaming breath of red dragons.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Blazing soul·Flaming dust",
+        "chineseName": "炎魂·曜火碎尘",
+        "description": "Jur made by rare fire crystal, the fire Core's blue fire burns ever bright.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Blazing soul·Flaming Shadow",
+        "chineseName": "炎魂·异火焚影",
+        "description": "Rod that possess the soul of fire Element, fire soul Core gives the rod endless magic power, weapon belong to the legendary fire wizard of Midgard.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Blazing soul·Fury of war",
+        "chineseName": "炎魂·怒火战神",
+        "description": "Axe born from the flame, possess the devastating power that can split lava, even demons are afraid of its blood burning terror.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Blazing soul·Hell blaze",
+        "chineseName": "炎魂·修罗炼狱",
+        "description": "Hammer fueled with power of fire, every Strike will bring shattering spark, even the gate of hell can not withstand its power.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Blazing soul·Red Guardian",
+        "chineseName": "炎魂·赤炎守卫",
+        "description": "Heavy shield covered in scorching Iron, it keeps emitting Blazing red light and a burning aura.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Blazing soul·Red king's scorching blade",
+        "chineseName": "炎魂·红王炙刃",
+        "description": "Weapon of legendary hell swordsman Red king, blade made of Lava crystal can maintain its fiery temper even in the frozen ice, it will burn away anything comes toward its way.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Blazing soul·Scarlet Sky",
+        "chineseName": "炎魂·赤霄红莲",
+        "description": "Magical dagger that emit scorching power, when wielded it will become the fiery lava and burn out victim's soul and body.",
+        "effect": ""
+    }
+]

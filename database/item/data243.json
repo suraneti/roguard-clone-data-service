@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Vecer Axe [1]",
+        "chineseName": "贝克之斧[1]",
+        "description": "The axe in mass production. Made by Blacksmith Guild, it is the counterfeit of the famous Vecer Battle Axe.",
+        "effect": "Agi ＋10,Damage of [Cart Attack] ＋15%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Vecer Axe [2]",
+        "chineseName": "贝克之斧[2]",
+        "description": "The axe in mass production. Made by Blacksmith Guild, it is the counterfeit of the famous Vecer Battle Axe.",
+        "effect": "Agi ＋10,Damage of [Cart Attack] ＋15%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Vecer Battle Axe [1]",
+        "chineseName": "贝克战斧[1]",
+        "description": "The axe is all decorated in red and looks very superb. It is said that a unique sound will be created when you weave it.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Vecer Battle Axe [2]",
+        "chineseName": "贝克战斧[2]",
+        "description": "The axe is all decorated in red and looks very superb. It is said that a unique sound will be created when you weave it.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Veil",
+        "chineseName": "面纱",
+        "description": "Veil worn by NPC.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_500200.png",
+        "name": "Venice Summer",
+        "chineseName": "威尼斯之夏",
+        "description": "[Venice Summer]: the latest work of Vettel Moura, the 14th president of House Moura, the most famous perfume family of the land. Ms. Matier Moura always wears heavy and luxurious dress to stay elegant even in hot summer.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Venom Dagger [1]",
+        "chineseName": "紫毒短剑[1]",
+        "description": "A sharp dagger made from the purple poison of some poisonous bird's venom.",
+        "effect": "Str ＋5,Poison state cannot be cured by Panacea"
+    },
+    {
+        "imgsrc": null,
+        "name": "Venom Dagger [2]",
+        "chineseName": "紫毒短剑[2]",
+        "description": "A sharp dagger made from the purple poison of some poisonous bird's venom.",
+        "effect": "Str ＋5,Poison state cannot be cured by Panacea"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Verit Card",
+        "chineseName": "木乃伊犬卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Veteran Axe [1]",
+        "chineseName": "老兵之斧[1]",
+        "description": "The Archaean blacksmith used the metal given by God to make an axe. When a person who knows how to use the metal take this axe, it can bring indescribable Str.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Veteran Axe [2]",
+        "chineseName": "老兵之斧[2]",
+        "description": "The Archaean blacksmith used the metal given by God to make an axe. When a person who knows how to use the metal take this axe, it can bring indescribable Str.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43503.png",
+        "name": "Vidar's Boots [1]",
+        "chineseName": "迪塔乐长靴[1]",
+        "description": "The boots worn by the son of Odin, Detale, when he killed Philip the wolf. They contain the strenuous vitality and mental strength he could bear.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43503.png",
+        "name": "Vidar's Boots [2]",
+        "chineseName": "迪塔乐长靴[2]",
+        "description": "The boots worn by the son of Odin, Detale, when he killed Philip the wolf. They contain the strenuous vitality and mental strength he could bear.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Vinkt's Bracelet",
+        "chineseName": "芬特克的手环",
+        "description": "The words inside the bracelet are worn out, You can only recognize words \"you shall not\".",
+        "effect": "Flee ＋10,When equipped by Swordsman/Thief/Priest/Merchant, it brings 1 point of Atk for every 10 points of Flee."
+    },
+    {
+        "imgsrc": null,
+        "name": "Vinkt's Bracelet [1]",
+        "chineseName": "芬特克的手环[1]",
+        "description": "The words inside the bracelet are worn out, You can only recognize words \"you shall not\".",
+        "effect": "Flee ＋10,When equipped by Swordsman/Thief/Priest/Merchant, it brings 1 point of Atk for every 10 points of Flee."
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12104.png",
+        "name": "Violet Dyestuffs",
+        "chineseName": "紫色染料",
+        "description": "A magic potion to dye the hair purple.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Virgo Crown",
+        "chineseName": "处女宫王冠",
+        "description": "Crown that symbolizes Virgo, one of the twelve zodiacal signs. It's inlaid with sapphire.",
+        "effect": "Max HP ＋30,Atk ＋1"
+    },
+    {
+        "imgsrc": null,
+        "name": "Virgo Crown Blueprint",
+        "chineseName": "处女宫王冠图纸",
+        "description": "Crown that symbolizes Virgo, one of the twelve zodiacal signs. It's inlaid with sapphire.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Virgo Crown [1]",
+        "chineseName": "处女宫王冠[1]",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Virgo Diadem",
+        "chineseName": "处女宫宝冠",
+        "description": "Diadem that symbolizes Virgo, one of the twelve zodiacal signs. It's inlaid with sapphire.",
+        "effect": "Dex ＋3,AGI ＋3"
+    }
+]

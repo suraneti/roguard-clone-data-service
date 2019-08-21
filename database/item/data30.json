@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45068.png",
+        "name": "Bone Helm [1]",
+        "chineseName": "骨制头盔[1]",
+        "description": "Hard headwear made of bones. Although it's heavy and difficult to wear, it has great Def.",
+        "effect": "Def ＋5,Dark Dmg Taken -15%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_48550.png",
+        "name": "Bone in Mouth",
+        "chineseName": "叼在嘴里的骨头",
+        "description": "Very fragrant bones. If you want a dog to be quiet, You can try to throw this bone to it.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_48550.png",
+        "name": "Bone in Mouth",
+        "chineseName": "叼在嘴里的骨头",
+        "description": "Very fragrant bones. If you want a dog to be quiet, You can try to throw this bone to it.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_48550.png",
+        "name": "Bone in Mouth Blueprint",
+        "chineseName": "叼在嘴里的骨头图纸",
+        "description": "Very fragrant bones. If you want a dog to be quiet, You can try to throw this bone to it.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Bone Plate",
+        "chineseName": "骷髅铠甲",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Bone Plate [1]",
+        "chineseName": "骷髅铠甲[1]",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Bongun Card",
+        "chineseName": "妖道卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45044.png",
+        "name": "Bongun Hat",
+        "chineseName": "妖道帽",
+        "description": "Hat worn by the monster Bongun. The point is part of the upper half is a half-split spell, which doesn't block the sight much.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45044.png",
+        "name": "Bongun Hat [1]",
+        "chineseName": "妖道帽[1]",
+        "description": "Hat worn by the monster Bongun. The point is part of the upper half is a half-split spell, which doesn't block the sight much.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45044.png",
+        "name": "Bongun Hat [1] Blueprint",
+        "chineseName": "妖道帽[1]图纸",
+        "description": "Hat worn by the monster Bongun. The point is part of the upper half is a half-split spell, which doesn't block the sight much.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Boots of Judgment",
+        "chineseName": "审判之靴",
+        "description": "In order to hunt down devils, the judgment must go to many places, sometimes even the alien world, so these boots are with special magic blessings",
+        "effect": "Move Spd ＋8%,＋50% [Adoramus] multiplier upon reaching refining ＋10; ＋100% [Adoramus] multiplier upon reaching refining ＋15"
+    },
+    {
+        "imgsrc": null,
+        "name": "Boots of Judgment [1]",
+        "chineseName": "审判之靴[1]",
+        "description": "In order to hunt down devils, the judgment must go to many places, sometimes even the alien world, so these boots are with special magic blessings",
+        "effect": "Move Spd ＋8%,＋50% [Adoramus] multiplier upon reaching refining ＋10; ＋100% [Adoramus] multiplier upon reaching refining ＋15"
+    },
+    {
+        "imgsrc": null,
+        "name": "Bottle Grenade",
+        "chineseName": "火烟瓶",
+        "description": "Dangerous alloy. If you throw it after ignition, You will cause a sea of flame.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41202.png",
+        "name": "Bow",
+        "chineseName": "弓",
+        "description": "A light practical wooden bow.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41201.png",
+        "name": "Bow of Storms [2]",
+        "chineseName": "风暴之弓[2]",
+        "description": "There are storm runes on it, hiding the amazing magic power.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41201.png",
+        "name": "Bow of Storms [3]",
+        "chineseName": "风暴之弓[3]",
+        "description": "There are storm runes on it, hiding the amazing magic power.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Bow Thimble [1]",
+        "chineseName": "神射手之手环[1]",
+        "description": "Bow Thimble, with a magical skill that enables the user to share beast's power.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Bow Thimble [2]",
+        "chineseName": "神射手之手环[2]",
+        "description": "Bow Thimble, with a magical skill that enables the user to share beast's power.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41202.png",
+        "name": "Bow [2]",
+        "chineseName": "弓[2]",
+        "description": "A light practical wooden bow.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Bowknot Glaze",
+        "chineseName": "蝴蝶结·琉璃",
+        "description": "Transparent bowknot that emits pale blue light, it is inspired by the Glaze butterflies resting on the Yggdrasil, after putting it on you will get a lightened feel.",
+        "effect": "M.Dmg Reduc. ＋ 8%,For every 1 percent of M.Dmg Reduc., gain extra 75 Max HP."
+    }
+]

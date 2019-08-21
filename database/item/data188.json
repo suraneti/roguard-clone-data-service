@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45154.png",
+        "name": "Rune Circlet [1]",
+        "chineseName": "符文冠冕[1]",
+        "description": "Crown made according to the dress style of Rune Knight with rune magic power.",
+        "effect": "Str ＋2,When Strength reaches 120, Atk ＋10, Refine Atk ＋10"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45154.png",
+        "name": "Rune Circlet [1] Blueprint",
+        "chineseName": "符文冠冕[1]图纸",
+        "description": "Crown made according to the dress style of Rune Knight with rune magic power.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Rune Cloth Circlet",
+        "chineseName": "卢恩绳结发圈",
+        "description": "A hair ring embroidered with \"Louen\" in gold silk.",
+        "effect": "Neutral Dmg Taken -3%,M.Atk ＋10"
+    },
+    {
+        "imgsrc": null,
+        "name": "Rune Cloth Circlet [1]",
+        "chineseName": "卢恩绳结发圈[1]",
+        "description": "A hair ring embroidered with \"Louen\" in gold silk.",
+        "effect": "Neutral Dmg Taken -3%,M.Atk ＋10"
+    },
+    {
+        "imgsrc": null,
+        "name": "Rune Knight Badge",
+        "chineseName": "符文骑士徽章",
+        "description": "Rune Knight Badge.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43539.png",
+        "name": "Rune Shoes",
+        "chineseName": "圣符长靴",
+        "description": "One of the first modern boots made by wizards who studied ancient runes. The boost are inlaid with magic runes.",
+        "effect": "Move Spd ＋5%,Healing Received ＋20%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43539.png",
+        "name": "Rune Shoes [1]",
+        "chineseName": "圣符长靴[1]",
+        "description": "One of the first modern boots made by wizards who studied ancient runes. The boost are inlaid with magic runes.",
+        "effect": "Move Spd ＋5%,Healing Received ＋20%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Runestone Hagalas",
+        "chineseName": "毁灭符文石",
+        "description": "Special Runestone made by Rune Knight. Use it to reduces the Atk and M.Atk of the target you hit by 10% for 5s. Runestone lasts 3m",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Runestone Isia",
+        "chineseName": "静止符文石",
+        "description": "Special Runestone made by Rune Knight. Use it to increase the effect of Hp recovery items and healing received by 30% for 3 minutes",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Runestone Nosiege",
+        "chineseName": "束缚符文石",
+        "description": "Special Runestone made by Rune Knight. Use it to remove all negative effects and become immune to them for 5s. Has a cooldown of 30s",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Runestone Turisus",
+        "chineseName": "自省符文石",
+        "description": "Special Runestone made by Rune Knight. Use it to gain 10 STR, 20% Crit.Dmg for 3m",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Runestone Urj",
+        "chineseName": "轮回符文石",
+        "description": "Special Runestone made by Rune Knight. Use it to restore 100 SP every 5s for 8m",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Runestone Verkana",
+        "chineseName": "再生符文石",
+        "description": "Special Runestone made by Rune Knight. Use it to gain 200 Def, 50 MDef for 3m",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42531.png",
+        "name": "Runner Bracer",
+        "chineseName": "奔跑者腕甲",
+        "description": "A light bracer that allows hands to move freely, Wearer can feel the breath of the wind.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42531.png",
+        "name": "Runner Bracer[1]",
+        "chineseName": "奔跑者腕甲[1]",
+        "description": "A light bracer that allows hands to move freely, Wearer can feel the breath of the wind.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Rye - Sign of Spring Azure",
+        "chineseName": "瑞兽·春兆·蔚蓝",
+        "description": "A pet dye popular during the Spring Festival, seemingly it can be used on Rye - Sign of Spring.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Rye - Sign of Spring Grey",
+        "chineseName": "瑞兽·春兆·墨灰",
+        "description": "A pet dye popular during the Spring Festival, seemingly it can be used on Rye - Sign of Spring.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Rye - Sign of Spring Red",
+        "chineseName": "瑞兽·春兆·嫣红",
+        "description": "A pet dye popular during the Spring Festival, seemingly it can be used on Rye - Sign of Spring.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41815.png",
+        "name": "Sabbath [1]",
+        "chineseName": "暗灵之斧[1]",
+        "description": "The axe that can make the restless souls in the hell rest in peace.",
+        "effect": "When attacking devil monsters, Crit Dmg ＋25%,When attacking devil monsters, There is a chance to release [Dying Tactic] (invalid to MVP/MINI monsters)"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41815.png",
+        "name": "Sabbath [2]",
+        "chineseName": "暗灵之斧[2]",
+        "description": "The axe that can make the restless souls in the hell rest in peace.",
+        "effect": "When attacking devil monsters, Crit Dmg ＋25%,When attacking devil monsters, There is a chance to release [Dying Tactic] (invalid to MVP/MINI monsters)"
+    }
+]

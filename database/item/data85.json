@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41505.png",
+        "name": "Garrison Hammer [2]",
+        "chineseName": "守备军之锤[2]",
+        "description": "Atk + 180",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40908.png",
+        "name": "Garrison Katar",
+        "chineseName": "守备军拳刃",
+        "description": "Atk + 144",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40908.png",
+        "name": "Garrison Katar [2]",
+        "chineseName": "守备军拳刃[2]",
+        "description": "Atk + 144",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40009.png",
+        "name": "Garrison Spear",
+        "chineseName": "守备军长矛",
+        "description": "Atk + 225",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40009.png",
+        "name": "Garrison Spear [2]",
+        "chineseName": "守备军长矛[2]",
+        "description": "Atk + 225",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40631.png",
+        "name": "Garrison Staff",
+        "chineseName": "守备军法杖",
+        "description": "M.Atk + 108",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40631.png",
+        "name": "Garrison Staff [2]",
+        "chineseName": "守备军法杖[2]",
+        "description": "M.Atk + 108",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40307.png",
+        "name": "Garrison Sword",
+        "chineseName": "守备军长剑",
+        "description": "Atk + 180",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40307.png",
+        "name": "Garrison Sword [2]",
+        "chineseName": "守备军长剑[2]",
+        "description": "Atk + 180",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_48540.png",
+        "name": "Gas Mask",
+        "chineseName": "防毒面具",
+        "description": "A respirator that has a filter to get rid of harmful air and provides fresh air at any time. The disadvantage is that it will make you feel a little stuffy and uncomfortable when using.",
+        "effect": "Def -20,Poison Dmg Taken -30%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_48540.png",
+        "name": "Gas Mask Blueprint",
+        "chineseName": "防毒面具图纸",
+        "description": "A respirator that has a filter to get rid of harmful air and provides fresh air at any time. The disadvantage is that it will make you feel a little stuffy and uncomfortable when using.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Gashapon Coupon",
+        "chineseName": "扭蛋券",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Gashapon Headwear 1",
+        "chineseName": "扭蛋机头饰1",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Gashapon Headwear 10",
+        "chineseName": "扭蛋机头饰10",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Gashapon Headwear 2",
+        "chineseName": "扭蛋机头饰2",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Gashapon Headwear 3",
+        "chineseName": "扭蛋机头饰3",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Gashapon Headwear 4",
+        "chineseName": "扭蛋机头饰4",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Gashapon Headwear 5",
+        "chineseName": "扭蛋机头饰5",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Gashapon Headwear 6",
+        "chineseName": "扭蛋机头饰6",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Gashapon Headwear 7",
+        "chineseName": "扭蛋机头饰7",
+        "description": "",
+        "effect": ""
+    }
+]

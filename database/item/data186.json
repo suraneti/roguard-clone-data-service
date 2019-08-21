@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_44019.png",
+        "name": "Rosary [1]",
+        "chineseName": "幸运项链[1]",
+        "description": "Blessed by God, it is a cross-shaped necklace.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Rose Handkerchief",
+        "chineseName": "玫瑰花纱巾",
+        "description": "Rose hidden my love, This is not spring, My heart is beating strongly because of you. I am anxious waiting for the day, Waiting for your words. For this scene, I have practiced saying yes every single day.",
+        "effect": "Max HP ＋100,Flee ＋10"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_52319.png",
+        "name": "Rose Quartz",
+        "chineseName": "玫瑰石英",
+        "description": "A woven and interlaced cross-belt made of red fabric. Being a very rare item, it can be used to make high-end headwear.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Rose Snowman Horn",
+        "chineseName": "玫瑰雪人号角",
+        "description": "",
+        "effect": "INT ＋5,Max HP ＋400"
+    },
+    {
+        "imgsrc": null,
+        "name": "Rose Snowman Horn Blueprint",
+        "chineseName": "玫瑰雪人号角图纸",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Rose Witch Hat",
+        "chineseName": "蔷薇魔女帽",
+        "description": "Popular among young devils for its mysterious smell, the saying goes, \"if you wear it, a strong rosy scent will around you in the moonlight.\"",
+        "effect": "All Attributes ＋2,M.Atk ＋12"
+    },
+    {
+        "imgsrc": null,
+        "name": "Rosette Headband",
+        "chineseName": "蝴蝶结头箍",
+        "description": "Pink rosette! That is where girls belongs, double the happiness!",
+        "effect": "Int ＋2,M.Atk ＋10"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Rotar Zairo Card",
+        "chineseName": "直升机哥布灵卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_52201.png",
+        "name": "Rotten Bandage",
+        "chineseName": "腐烂绷带",
+        "description": "Old bandages that don't seem to have any value. I wonder what you can make with them?",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_5004.png",
+        "name": "Rough Elunium",
+        "chineseName": "铝原石",
+        "description": "5 pieces can be extracted into the Elunium required for equipment refining.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_5001.png",
+        "name": "Rough Oridecon",
+        "chineseName": "神之金属原石",
+        "description": "A mineral known as Oridecon, 5 of which can be extracted into Oridecon required for equipment refining.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Rough repairing shard",
+        "chineseName": "粗糙的维修碎片",
+        "description": "Scientist Eric Snow discovered that some Crystal can be used to repair the Gashapon Headwears of Kafra Co. But different Headwears need Crystal of different quality to repair. Unrefined Crystal shard can be used to repair Gashapon Headwear of green quality.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Rough Runestone",
+        "chineseName": "符文原石",
+        "description": "The basic crafting material for various Runestones",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_5113.png",
+        "name": "Rough Wind",
+        "chineseName": "风灵原石",
+        "description": "The ore with wind attribute. After use, Your attack turns into wind attribute and the effect lasts 15 minutes.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42510.png",
+        "name": "Round Buckleer",
+        "chineseName": "铝制盾",
+        "description": "A common round shield. The circular part is covered with thick Elunium, increasing the shield's defense.",
+        "effect": "Max HP ＋50,Def ＋5"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42510.png",
+        "name": "Round Buckleer [1]",
+        "chineseName": "铝制盾[1]",
+        "description": "A common round shield. The circular part is covered with thick Elunium, increasing the shield's defense.",
+        "effect": "Max HP ＋50,Def ＋5"
+    },
+    {
+        "imgsrc": null,
+        "name": "Royal Ceremony Chest",
+        "chineseName": "皇家庆典纪念礼盒",
+        "description": "Open it to receive Mysterious Box 3.0 ×1, Royal Ceremony Lucky Bag 1 ×1",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Royal Ceremony Lucky Bag",
+        "chineseName": "皇家庆典福袋",
+        "description": "Royal Ceremony Lucky Bag. Open it and you will get Love and Bravery 2018 Blueprint or other precious items",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_3635.png",
+        "name": "Royal Ceremony Lucky Bag 2",
+        "chineseName": "皇家庆典福袋2",
+        "description": "The one bought in Big Cat Coins",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_3604.png",
+        "name": "Royal Cook Chest IV",
+        "chineseName": "皇家烹饪礼盒·Ⅳ",
+        "description": "You now have a complete standard on the food taste, Color and fragrance, and you can point out the problems in the cooking process. Please try these dishes cooked by high-ranked chefs. (Open the pack to find 4-star food)",
+        "effect": ""
+    }
+]

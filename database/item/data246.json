@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12354.png",
+        "name": "Warm Meal",
+        "chineseName": "暖身料理",
+        "description": "A hot pot full of fresh ingredients.  The tiny number of spores promotes a moderately spicy taste that keeps your body warm.  Stores 120,000 HP and 8,000 SP. Restores 500 HP every 6s when HP is below 70% and 50 SP every 6s when SP is below 40%",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Warm Stone",
+        "chineseName": "保暖魔石",
+        "description": "Use to become immune to Freeze for 1 min. Cannot work with [Whisper Stone] [Sleepless Stone] and [Activity Stone].",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Water Axe [1]",
+        "chineseName": "水灵钢斧[1]",
+        "description": "The axe with the power of water. Using the latest craftsmanship, Crystal Blue is combined with the Rune array to make the axe.",
+        "effect": "Water,For Refining ＋1, Water Dmg ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Water Axe [2]",
+        "chineseName": "水灵钢斧[2]",
+        "description": "The axe with the power of water. Using the latest craftsmanship, Crystal Blue is combined with the Rune array to make the axe.",
+        "effect": "Water,For Refining ＋1, Water Dmg ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Water Blessing Box",
+        "chineseName": "水色祝福礼盒",
+        "description": "Use it and get the Magic Dominator Quietness (male) or Lilith Ocean Blue (female) beauty contact lens from the Beauty of Eyes in Prontera.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_5124.png",
+        "name": "Water Egg",
+        "chineseName": "水灵彩蛋",
+        "description": "The egg with water attribute. After use, Your attack turns into water attribute and the effect lasts 30 minutes. Unable to coexist with Mystic Frozen.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Water from Fountain of Youth",
+        "chineseName": "不老泉之水",
+        "description": "Drink the water from the legendary Fountain of Youth to be young forever!",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Water Knife [1]",
+        "chineseName": "水灵短剑[1]",
+        "description": "Dagger with the power of water. Using the latest craftsmanship, Crystal Blue is combined with the Rune array to make the sword.",
+        "effect": "Water,For Refining ＋1Dmg ＋1%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Water Knife [2]",
+        "chineseName": "水灵短剑[2]",
+        "description": "Dagger with the power of water. Using the latest craftsmanship, Crystal Blue is combined with the Rune array to make the sword.",
+        "effect": "Water,For Refining ＋1Dmg ＋1%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Water Monster Card",
+        "chineseName": "水怪卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_5044.png",
+        "name": "Water of Forgetting",
+        "chineseName": "遗忘之水",
+        "description": "The great product of Midgard's top magic. Adventurers with Water of Forgetting can visit Mayfair Linse to forget all skills that have been learned, and all skill points and Zeny will be returned.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40301.png",
+        "name": "Water Sword [2]",
+        "chineseName": "水灵之剑[2]",
+        "description": "A knife with a blue blade and the power of water.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40301.png",
+        "name": "Water Sword [3]",
+        "chineseName": "水灵之剑[3]",
+        "description": "A knife with a blue blade and the power of water.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Wave Witch Hat",
+        "chineseName": "波浪魔女帽",
+        "description": "Popular among young demons for its noble smell, the saying goes, \"if you wear it, the obeaune will stop singing with shame.\"",
+        "effect": "All Attributes ＋2,M.Atk ＋12"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Weak Puppet Card",
+        "chineseName": "虚弱的傀儡卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Weapon Repair Alloy",
+        "chineseName": "武器修理合金",
+        "description": "A precious metal made by Blacksmith. Use it and all your damaged items and weapons will be repaired. They will also be protected for 1 second.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "wearing the wind",
+        "chineseName": "身披着风",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Wedding Gift",
+        "chineseName": "婚礼礼金",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45059.png",
+        "name": "Wedding Veil",
+        "chineseName": "婚礼头纱",
+        "description": "Bridal veil only for girls at wedding.",
+        "effect": "M.Def ＋10,Only for female equipment"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45059.png",
+        "name": "Wedding Veil Blueprint",
+        "chineseName": "婚礼头纱图纸",
+        "description": "Bridal veil only for girls at wedding.",
+        "effect": ""
+    }
+]

@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42528.png",
+        "name": "Alloy Bracelet",
+        "chineseName": "合金手镯",
+        "description": "A bracelet made from a new material that combines several conventional metals with a special alchemy formula.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42528.png",
+        "name": "Alloy Bracelet [1]",
+        "chineseName": "合金手镯[1]",
+        "description": "A bracelet made from a new material that combines several conventional metals with a special alchemy formula.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41535.png",
+        "name": "Alloy Mace",
+        "chineseName": "合金权杖",
+        "description": "A new type of staff made by several regular metals with a special alchemy formula.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41535.png",
+        "name": "Alloy Mace [2]",
+        "chineseName": "合金权杖[2]",
+        "description": "A new type of staff made by several regular metals with a special alchemy formula.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Alloy Mail",
+        "chineseName": "炼金铠甲",
+        "description": "Def + 23",
+        "effect": "VIT ＋2, Max HP ＋100,In the presence of Vanilmirth, Alchemy M.Atk ＋4%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Alloy Mail [1]",
+        "chineseName": "炼金铠甲[1]",
+        "description": "Def + 23",
+        "effect": "VIT ＋2, Max HP ＋100,In the presence of Vanilmirth, Alchemy M.Atk ＋4%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42503.png",
+        "name": "Alloy Shield",
+        "chineseName": "合金盾",
+        "description": "A shield made from a new material that combines several conventional metals with a special alchemy formula.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42503.png",
+        "name": "Alloy Shield [1]",
+        "chineseName": "合金盾[1]",
+        "description": "A shield made from a new material that combines several conventional metals with a special alchemy formula.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40024.png",
+        "name": "Alloy Spear",
+        "chineseName": "合金长矛",
+        "description": "A new type of spear made by several regular metals with a special alchemy formula.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40024.png",
+        "name": "Alloy Spear [2]",
+        "chineseName": "合金长矛[2]",
+        "description": "A new type of spear made by several regular metals with a special alchemy formula.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40332.png",
+        "name": "Alloy Sword",
+        "chineseName": "合金剑",
+        "description": "A new type of sword made by several regular metals with a special alchemy formula.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40332.png",
+        "name": "Alloy Sword [2]",
+        "chineseName": "合金剑[2]",
+        "description": "A new type of sword made by several regular metals with a special alchemy formula.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_5200.png",
+        "name": "Almond's Coin",
+        "chineseName": "艾蒙德的特制硬币",
+        "description": "A coin engraved with the challenger's name. It symbolizes honor and strength for dueling clubs.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_3600.png",
+        "name": "Amazing Toy Box",
+        "chineseName": "惊奇玩具盒",
+        "description": "A gift pack that contains all kinds of toys, in some cases including valued items.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Amber Light Dust",
+        "chineseName": "琥珀光尘",
+        "description": "Perfume with amber smell, Mixed with liquorice and immortelle fragrance, After use, the body will be surrounded by fumes, Just like dust floating at sunny noon.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_52506.png",
+        "name": "Amethyst",
+        "chineseName": "紫宝石",
+        "description": "A gem with a mysterious purple glow. Being a very rare item, it can be used as equipment or to make high-end headwear.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Anacondaq Card",
+        "chineseName": "黄蛇卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43007.png",
+        "name": "Ancient Cape",
+        "chineseName": "伯爵斗篷",
+        "description": "A legendary cape worn by a prominent lord of a village, best worn in a show of majesty.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43007.png",
+        "name": "Ancient Cape [1]",
+        "chineseName": "伯爵斗篷[1]",
+        "description": "A legendary cape worn by a prominent lord of a village, best worn in a show of majesty.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_111.png",
+        "name": "Ancient Chest",
+        "chineseName": "古代宝箱",
+        "description": "Open to gain MVP materials from areas on Glast Heim difficulty and below",
+        "effect": ""
+    }
+]

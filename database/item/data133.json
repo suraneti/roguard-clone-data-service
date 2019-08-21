@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_3610.png",
+        "name": "Lv.60 Growth Pack",
+        "chineseName": "60级成长背包",
+        "description": "Novice Limited Growth Pack (available for use at Lv.60). Open it to receive Zeny x30000, Dish Pack B x1, Old Universal Chest x1, Lightning Chain x2, refining Material Chest II x2, Dead Branch x10.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Lv.7 Talent Fruit",
+        "chineseName": "7级天赋果实",
+        "description": "The fruit of talent tree in Monster Eden. With magical power, the fruit is said to be popular among all monsters. Pets randomly acquire skills above Lv.7 after using the fruit.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_3002.png",
+        "name": "Lv.70 Autumn Chest",
+        "chineseName": "70级秋日成长礼盒",
+        "description": "Autumn Test Limited Growth Chest (available for use at Lv.70), which contains Zeny x60000, Mora Coin x5, Eden Coin x500, Belief Token x10.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_3610.png",
+        "name": "Lv.70 Growth Pack",
+        "chineseName": "70级成长背包",
+        "description": "Novice Limited Growth Pack (available for use at Lv.70). Open it to receive Zeny x50000, Mora Coin x5, Eden Coin x200, Belief Token x10, Amazing Toy Box x1.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Lv.8 Talent Fruit",
+        "chineseName": "8级天赋果实",
+        "description": "The fruit of talent tree in Monster Eden. With magical power, the fruit is said to be popular among all monsters. Pets randomly acquire skills above Lv.8 after using the fruit.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_3002.png",
+        "name": "Lv.80 Autumn Chest",
+        "chineseName": "80级秋日成长礼盒",
+        "description": "Autumn Test Limited Growth Chest (available for use at Lv.80), which contains Zeny x70000, Gorgeous Headwear Blueprint Chest x1, Dish Pack B x2, Lightning Chain x2, Dead Branch x10, Refining Material Chest II x5.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_3610.png",
+        "name": "Lv.80 Growth Pack",
+        "chineseName": "80级成长背包",
+        "description": "Novice Limited Growth Pack (available for use at Lv.80). Open it to receive Zeny x60000, Gorgeous Headwear Blueprint Chest x1, Dish Pack B x2, Lightning Chain x2, Dead Branch x10, refining Material Chest II x2.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Lv.9 Talent Fruit",
+        "chineseName": "9级天赋果实",
+        "description": "The fruit of talent tree in Monster Eden. With magical power, the fruit is said to be popular among all monsters. Pets randomly acquire skills above Lv.9 after using the fruit.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_3002.png",
+        "name": "Lv.90 Autumn Chest",
+        "chineseName": "90级秋日成长礼盒",
+        "description": "Characters can use this item after reaching Lv.90. Open it to receive a large deal of treasures.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_3610.png",
+        "name": "Lv.90 Growth Pack",
+        "chineseName": "90级成长背包",
+        "description": "Novice Limited Growth Pack (available for use at Lv.90). Open it to receive Zeny x60000, Fantasy·Silver Bracer x1, Dish Pack B x10, Belief Token x20, Mora Coin x20, Advanced Card Collection x1.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Lv1 Armor Metal",
+        "chineseName": "一级防具金属",
+        "description": "Precious metal materials used to upgrade weapons are obtained by disintegrating various pieces of armor.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_3002.png",
+        "name": "Lv1 Chest",
+        "chineseName": "1级礼物箱",
+        "description": "Characters can use this item after reaching Lv.1. Open it to receive a large deal of treasures.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Lv1 Weapon Metal",
+        "chineseName": "一级武器金属",
+        "description": "Precious metal materials used to upgrade weapons are obtained by disintegrating various weapons.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_3002.png",
+        "name": "Lv10 Autumn Chest",
+        "chineseName": "10级秋日成长礼盒",
+        "description": "Autumn Test Limited Growth Chest (available for use at Lv.10), which contains Zeny x500, Red Potion x20, Blue Potion x10, Leaf of Yggdrasil x1, Eden Team Manteau x1.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_3002.png",
+        "name": "Lv100 Autumn Chest",
+        "chineseName": "100级新手礼物箱",
+        "description": "Characters can use this item after reaching Lv.100. Open it to receive a large deal of treasures.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Lv2 Armor Metal",
+        "chineseName": "二级防具金属",
+        "description": "Precious metal materials used to upgrade weapons are obtained by disintegrating various pieces of armor.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Lv2 Weapon Metal",
+        "chineseName": "二级武器金属",
+        "description": "Precious metal materials used to upgrade weapons are obtained by disintegrating various weapons.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_3002.png",
+        "name": "Lv20 Autumn Chest",
+        "chineseName": "20级秋日成长礼盒",
+        "description": "Autumn Test Limited Growth Chest (available for use at Lv.20), which contains Zeny x2000, Amazing Toy Box x1, Dry Material Chest x1, Butterfly Wing x5, Fly Wing x10, Orange Potion x20, Lv.20 Job Weapon x1, Rookie Dish Pack A x1.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Lv3 Armor Metal",
+        "chineseName": "三级防具金属",
+        "description": "Precious metal materials used to upgrade weapons are obtained by disintegrating various pieces of armor.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Lv3 Weapon Metal",
+        "chineseName": "三级武器金属",
+        "description": "Precious metal materials used to upgrade weapons are obtained by disintegrating various weapons.",
+        "effect": ""
+    }
+]

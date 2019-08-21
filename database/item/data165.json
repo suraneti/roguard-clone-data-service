@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Paper towel cat",
+        "chineseName": "卷纸猫",
+        "description": "A new type of paper towel, the forepart is the shape of cat. You can put it on your head and use it in emergency but please care not to pull out the head of kitty.",
+        "effect": "M.Atk ＋10,Ignore MDef ＋5%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45187.png",
+        "name": "Parcel Hat",
+        "chineseName": "包袱",
+        "description": "Item commonly used by mid middle-aged women when they carry around stuffs. The plenty use of watermark patterns is its feature.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45187.png",
+        "name": "Parcel Hat Blueprint",
+        "chineseName": "包袱图纸",
+        "description": "Item commonly used by mid middle-aged women when they carry around stuffs. The plenty use of watermark patterns is its feature.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45187.png",
+        "name": "Parcel Hat [1]",
+        "chineseName": "包袱[1]",
+        "description": "Item commonly used by mid middle-aged women when they carry around stuffs. The plenty use of watermark patterns is its feature.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_111.png",
+        "name": "Participation Chest",
+        "chineseName": "参战礼盒",
+        "description": "In order to encourage Braves to participate in battles, the kingdom has made gift boxes for every participant to have a reward.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Particle Slicer",
+        "chineseName": "粒子切割者",
+        "description": "Light and deadly, this dagger's blade is made of particles. It can cut through any means of protection.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_52306.png",
+        "name": "Parts",
+        "chineseName": "零件",
+        "description": "As a single inseparable piece of an unknown machine, this is a rare item that can be used to make high-end headwear.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Party Hat",
+        "chineseName": "派对帽子",
+        "description": "Wahahahah, it's party time!",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Party Horn",
+        "chineseName": "嘀嘀叭叭",
+        "description": "It's for the party flaver. But that is too loud! I'm going to be deaf now!",
+        "effect": "Atk ＋20,Damage to Dark monsters ＋3%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45082.png",
+        "name": "Party Recruiter Hat",
+        "chineseName": "招聘组队员广告板",
+        "description": "Hat that resembles a billboard that writes recruit info of team member. Everyone works hard to upgrade the level!",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45082.png",
+        "name": "Party Recruiter Hat Blueprint",
+        "chineseName": "招聘组队员广告板图纸",
+        "description": "Hat that resembles a billboard that writes recruit info of team member. Everyone works hard to upgrade the level!",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45082.png",
+        "name": "Party Recruiter Hat [1]",
+        "chineseName": "招聘组队员广告板[1]",
+        "description": "The helmet with recruiting advertisement on it. Work hard, everybody!",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Pasana Card",
+        "chineseName": "帕莎纳卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Passed Time A",
+        "chineseName": "时间的礼物·单",
+        "description": "Epona in this picture was embracing an ugly big man, the time monster Syrono. Ebona did not care for the man's appearance, Her eyes were filled with love, she was smiling and staring at Syrono. The photographer betrayed them and their eyes and tongue were cut off.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Passed Time B",
+        "chineseName": "时间的礼物·双",
+        "description": "A metal pocket watch, Burned in roasting, Was actually Syrono's heart. Since Syrono met Epona, the heart had stopped beating, and he wished time could freeze at the moment they encountered. Syrono gave the watch to Ebona, she kept it in her pocket until she was executed. In the blazing fire, the dial of Syrono's watch broke into dust.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Past Time",
+        "chineseName": "流逝时光",
+        "description": "",
+        "effect": "Def ＋15,When Refining ＋10 and Luck reaches 90, Crit.Dmg ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Past Time Blueprint",
+        "chineseName": "流逝时光图纸",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43009.png",
+        "name": "Pauldron",
+        "chineseName": "护肩甲",
+        "description": "The hard round armour provides extra defense to the shoulders.",
+        "effect": "Def ＋80,SP cost of [Endure] -50%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43009.png",
+        "name": "Pauldron [1]",
+        "chineseName": "护肩甲[1]",
+        "description": "The hard round armour provides extra defense to the shoulders.",
+        "effect": "Def ＋80,SP cost of [Endure] -50%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Pauldron [2]",
+        "chineseName": "护肩甲[2]",
+        "description": "The armor removed from armor to be a protective bag, with considerable defensive force.",
+        "effect": ""
+    }
+]

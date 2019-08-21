@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_3608.png",
+        "name": "Advanced Card Collection",
+        "chineseName": "高级收集册",
+        "description": "A book for collecting cards. Since it has a long history, the cards are hardly recognizable.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41803.png",
+        "name": "Advanced Eden Team Axe [1]",
+        "chineseName": "高级乐园团大斧[1]",
+        "description": "Atk + 125",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41204.png",
+        "name": "Advanced Eden Team Bow [1]",
+        "chineseName": "高级乐园团长弓[1]",
+        "description": "The newest Mercenary Long Bow. In order to guarantee the adventure of the Novice Adventurers, the Eden Team specially made the newest Mercenary Long Bow.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_61002.png",
+        "name": "Advanced Eden Team Bracer",
+        "chineseName": "高级乐园团腕甲",
+        "description": "Def + 20",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42001.png",
+        "name": "Advanced Eden Team Coat",
+        "chineseName": "高级乐园团外衣",
+        "description": "Def + 20",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40706.png",
+        "name": "Advanced Eden Team Knife [1]",
+        "chineseName": "高级乐园团短剑[1]",
+        "description": "The newest Knives. In order to guarantee the adventure of the Novice Adventurers, the Eden Team specially made the newest Mercenary Knife.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43001.png",
+        "name": "Advanced Eden Team Manteau",
+        "chineseName": "高级乐园团披风",
+        "description": "Def + 15",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_44002.png",
+        "name": "Advanced Eden Team Necklace",
+        "chineseName": "高级乐园团项链",
+        "description": "To protect the adventurers' trip, Eden teams has made this new jewelry.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_44026.png",
+        "name": "Advanced Eden Team Ring",
+        "chineseName": "高级乐园团戒指",
+        "description": "M.Atk + 20",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43501.png",
+        "name": "Advanced Eden Team Shoes",
+        "chineseName": "高级乐园团长靴",
+        "description": "Def + 15",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40605.png",
+        "name": "Advanced Eden Team Staff [1]",
+        "chineseName": "高级乐园团之杖[1]",
+        "description": "The newest Mercenary Staff. In order to guarantee the adventure of the Novice Adventurers, the Eden Team specially made the newest Mercenary Staff.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40302.png",
+        "name": "Advanced Eden Team Sword [1]",
+        "chineseName": "高级乐园团长剑[1]",
+        "description": "Atk + 108",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Advanced Sack Teddy Shoes",
+        "chineseName": "高等布袋熊长靴",
+        "description": "Imitation of Sack Teddy's feet. Cute but powerful, the boots allow the wearer to enjoy the Move Spd of Sack Teddy.",
+        "effect": "Move Spd ＋9%,[Flamberge X] ＋ [Advanced Sack Teddy Shoes IV] ＋ [Undershirt VIII] ＋ [Beast Heart VIII]: ＋3% Atk, ＋3% Crit.Dmg, ＋5% Atk SPD, ＋10% Max HP"
+    },
+    {
+        "imgsrc": null,
+        "name": "Advanced Sack Teddy Shoes [1]",
+        "chineseName": "高等布袋熊长靴[1]",
+        "description": "Imitation of Sack Teddy's feet. Cute but powerful, the boots allow the wearer to enjoy the Move Spd of Sack Teddy.",
+        "effect": "Move Spd ＋9%,[Flamberge X] ＋ [Advanced Sack Teddy Shoes IV] ＋ [Undershirt VIII] ＋ [Beast Heart VIII]: ＋3% Atk, ＋3% Crit.Dmg, ＋5% Atk SPD, ＋10% Max HP"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40621.png",
+        "name": "Advanced Survival Staff [1]",
+        "chineseName": "高等生存魔杖[1]",
+        "description": "Taking the ascetic practitioners into consideration, the Mage Guild and the Congregation together created two types of Rods.",
+        "effect": "Dex ＋5,Max HP ＋15%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40621.png",
+        "name": "Advanced Survival Staff [2]",
+        "chineseName": "高等生存魔杖[2]",
+        "description": "Taking the ascetic practitioners into consideration, the Mage Guild and the Congregation together created two types of Rods.",
+        "effect": "Dex ＋5,Max HP ＋15%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Advanced Survivor's Manteau",
+        "chineseName": "高等生存斗篷",
+        "description": "After a lot of scrutiny by the maker, the cloak further raised the user's survival ability.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Advanced Survivor's Manteau [1]",
+        "chineseName": "高等生存斗篷[1]",
+        "description": "A cloak that increases viability to upper limits and can withstand all kinds of harsh conditions.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_3610.png",
+        "name": "Advancing T2 Practicing Pack",
+        "chineseName": "进阶二转修行礼包",
+        "description": "An advancing T2 Practicing Pack given by Adventure Association (can used by advanced T2 players and above). Open the pack to receive JOB EXP Potion (L) x5, BASE EXP Potion (L) x5, Valkyrie's Gift x2, Belief Token x30, Gold Medal x3, Eden Coin x500.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42025.png",
+        "name": "Adventure Armor",
+        "chineseName": "轻便铠甲",
+        "description": "Clothes specially made for adventurers.",
+        "effect": ""
+    }
+]

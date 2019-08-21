@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Hair Design Guide 2",
+        "chineseName": "发型设计指南·二",
+        "description": "Syllia's latest Hair Design Guide. After use, You can move to the barber shop to try [The Fissure] (male) or [The Goddess Kiss] (female)",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Hair Design Guide 3",
+        "chineseName": "发型设计指南·三",
+        "description": "Syllia's latest Hair Design Guide. After use, You can move to the barber shop to try The Wind (male) or The Blessing (female)",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12103.png",
+        "name": "Hair Dye",
+        "chineseName": "染发剂",
+        "description": "A magic potion to dye the hair any color.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_5017.png",
+        "name": "Hair Dye Recipe",
+        "chineseName": "发型染色处方",
+        "description": "A required material for producing hair dyes.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Hair Dye·Colorful",
+        "chineseName": "染发剂·极彩",
+        "description": "You can change your style freely with this! (Select an unlocked hair color and dye your hair for free once! The voucher will be used first when dye your hair. )",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Hairband Of Reginleif",
+        "chineseName": "瑞吉蕾芙之翼",
+        "description": "The headdress named after Valkyrie Randgris Reginleif.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Hairband Of Reginleif Blueprint",
+        "chineseName": "瑞吉蕾芙之翼图纸",
+        "description": "The headdress named after Valkyrie Randgris Reginleif.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Haircut Voucher",
+        "chineseName": "美发体验券·自由",
+        "description": "You can change your style freely with this! (Select an unlocked hair style and do your hair for free once! The voucher will be used first when you go to a Barber Shop. )",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45074.png",
+        "name": "Hairpin",
+        "chineseName": "发夹头饰",
+        "description": "If you look closely, it's a decoration that can be filled with things.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45074.png",
+        "name": "Hairpin [1]",
+        "chineseName": "发夹头饰[1]",
+        "description": "If you look closely, it's a decoration that can be filled with things.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45074.png",
+        "name": "Hairpin [1] Blueprint",
+        "chineseName": "发夹头饰[1]图纸",
+        "description": "If you look closely, it's a decoration that can be filled with things.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40003.png",
+        "name": "Halberd [1]",
+        "chineseName": "斧锤长矛[1]",
+        "description": "The double-handed spear is very handy. You can use it to make all kinds of movements. The disadvantage is that the spear is not easy to use in narrow places.",
+        "effect": "Str ＋6,SP cost of [Pierce] -50%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40003.png",
+        "name": "Halberd [2]",
+        "chineseName": "斧锤长矛[2]",
+        "description": "The double-handed spear is very handy. You can use it to make all kinds of movements. The disadvantage is that the spear is not easy to use in narrow places.",
+        "effect": "Str ＋6,SP cost of [Pierce] -50%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Halloween Gashapon",
+        "chineseName": "万圣派对扭蛋",
+        "description": "A Gashapon toy to express personal feelings, open it to randomly receive one headwear of Nov 2017 [Halloween Party] series.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Halloween Night",
+        "chineseName": "万圣惊魂夜",
+        "description": "The old silver edged book sits quietly on ground of the abandoned chapel of the Earl Castle. Outside the shattered stained glass, It's the cold moonlight. Through the air dust that seems to condense in the time, it shines on the clock without the long pointer. Suddenly with a click, the short pointer indicates the number 12 (0)...",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Halloween Night Blueprint",
+        "chineseName": "万圣惊魂夜图纸",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Halloween Pumpkin",
+        "chineseName": "万圣节南瓜",
+        "description": "It looked like an ordinary pumpkin, but when you opened it up, You could smell the sweet aroma of mashed pumpkin with fresh cream. Recover 20% SP (SP Regen ＋10%, For 30 min)",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45080.png",
+        "name": "Halo",
+        "chineseName": "光环",
+        "description": "Halo above the dead's head when going to the heaven. It doesn't have the hiding effect when you wear it.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45080.png",
+        "name": "Halo [1]",
+        "chineseName": "光环[1]",
+        "description": "Halo above the dead's head when going to the heaven. It doesn't have the hiding effect when you wear it.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45080.png",
+        "name": "Halo [1] Blueprint",
+        "chineseName": "光环[1]图纸",
+        "description": "Halo above the dead's head when going to the heaven. It doesn't have the hiding effect when you wear it.",
+        "effect": ""
+    }
+]

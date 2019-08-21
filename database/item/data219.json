@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Sunflower Lollipop",
+        "chineseName": "向日葵棒棒糖",
+        "description": "Lollipop, which made from the seeds of Geographer, does not look delicious, but you will get addicted once you eat it!",
+        "effect": "Max HP ＋100,Max SP ＋100"
+    },
+    {
+        "imgsrc": null,
+        "name": "Sunflower Lollipop Blueprint",
+        "chineseName": "向日葵棒棒糖图纸",
+        "description": "Lollipop, which made from the seeds of Geographer, does not look delicious, but you will get addicted once you eat it!",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Sunglasses",
+        "chineseName": "阳光太阳镜",
+        "description": "Who said sunglasses is out of fashion? Beach sunglasses is never out of trend.",
+        "effect": "Fire damage taken－5%,MAX HP ＋400"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_48530.png",
+        "name": "Sunglasses",
+        "chineseName": "太阳眼镜",
+        "description": "Black glasses can be used to block the sun or as fashionable accessories.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_48530.png",
+        "name": "Sunglasses Blueprint",
+        "chineseName": "太阳眼镜图纸",
+        "description": "Black glasses can be used to block the sun or as fashionable accessories.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_3033.png",
+        "name": "Sunk Ship Material Pack",
+        "chineseName": "沉没之船材料包",
+        "description": "Sunk Ship Material Pack, in which all kinds of Sunk Ship materials can be found.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Sunlight - Bright Spear",
+        "chineseName": "日耀·明心之矛",
+        "description": "The iconic weapon of Sun Circus, because of its dazzling light and exquisite design, Is popular among adventurers who purse love and justice.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Sunlight - Crow Bow",
+        "chineseName": "日耀·金乌之弓",
+        "description": "The iconic weapon of Sun Circus, because of its dazzling light and exquisite design, Is popular among adventurers who purse love and justice.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Sunlight - Dawn Shield",
+        "chineseName": "日耀·破晓之盾",
+        "description": "The iconic weapon of Sun Circus, because of its dazzling light and exquisite design, Is popular among adventurers who purse love and justice.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Sunlight - Flame Katar",
+        "chineseName": "日耀·苍炎拳刃",
+        "description": "The iconic weapon of Sun Circus, because of its dazzling light and exquisite design, Is popular among adventurers who purse love and justice.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Sunlight - Golden Wand",
+        "chineseName": "日耀·金虹法杖",
+        "description": "The iconic weapon of Sun Circus, because of its dazzling light and exquisite design, Is popular among adventurers who purse love and justice.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Sunlight - Martial Sword",
+        "chineseName": "日耀·天武之剑",
+        "description": "The iconic weapon of Sun Circus, because of its dazzling light and exquisite design, Is popular among adventurers who purse love and justice.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Sunlight - Rainbow Axe",
+        "chineseName": "日耀·霓光之斧",
+        "description": "The iconic weapon of Sun Circus, because of its dazzling light and exquisite design, Is popular among adventurers who purse love and justice.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Sunlight - Star Dagger",
+        "chineseName": "日耀·恒星短刀",
+        "description": "The iconic weapon of Sun Circus, because of its dazzling light and exquisite design, Is popular among adventurers who purse love and justice.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Sunlight - Wings Hammer",
+        "chineseName": "日耀·金翼之锤",
+        "description": "The iconic weapon of Sun Circus, because of its dazzling light and exquisite design, Is popular among adventurers who purse love and justice.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Super Boost",
+        "chineseName": "强效剂",
+        "description": "An auxiliary agent with a greatly enhanced effect. It must be used in combination with another drug.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_58.png",
+        "name": "Supply Chest",
+        "chineseName": "补给品礼物箱",
+        "description": "A life-saving gift bag.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_48510.png",
+        "name": "Surprised Mask",
+        "chineseName": "吓坏眼的假面",
+        "description": "The mask with the eyes wide open. If you are frightened, try to wear it.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_48510.png",
+        "name": "Surprised Mask Blueprint",
+        "chineseName": "吓坏眼的假面图纸",
+        "description": "The mask with the eyes wide open. If you are frightened, try to wear it.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43016.png",
+        "name": "Survivor's Manteau",
+        "chineseName": "生存斗篷",
+        "description": "No matter what circumstances, the cloak will greatly increase the possibility of survival.",
+        "effect": ""
+    }
+]

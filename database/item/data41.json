@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Christmas Propeller Blueprint",
+        "chineseName": "圣诞竹蜻蜓图纸",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Christmas Propeller [1]",
+        "chineseName": "圣诞竹蜻蜓[1]",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Christmas Reindeer Costume",
+        "chineseName": "圣诞鹿变装",
+        "description": "As long as you dress like this, you can blend in the Santa's snow cart to steal some gifts haha!",
+        "effect": "Max Hp ＋3%,Def ＋4%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Christmas Reindeer Horn",
+        "chineseName": "圣诞鹿角",
+        "description": "A huge and awesome reindeer horn, it can hang so many decorations.....",
+        "effect": "Movement Spd＋2%,Stun Resist＋10%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Christmas Ribbon",
+        "chineseName": "圣诞蝴蝶结",
+        "description": "",
+        "effect": "Dex ＋3,AGI ＋3"
+    },
+    {
+        "imgsrc": null,
+        "name": "Christmas Ribbon [1]",
+        "chineseName": "圣诞蝴蝶结[1]",
+        "description": "",
+        "effect": "Luk ＋5,Max SP ＋100"
+    },
+    {
+        "imgsrc": null,
+        "name": "Christmas Ribbon [1] Blueprint",
+        "chineseName": "圣诞蝴蝶结[1]图纸",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Christmas Socks",
+        "chineseName": "圣诞袜子",
+        "description": "Broken red sock with holes. What kind of presents did it decorate before?",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Christmas Song",
+        "chineseName": "圣诞之歌",
+        "description": "Jingle Bell~Jingle Bell~Jingle all the way! The meaningful happiness Christmas Tree is forever surrounded by the Christmas Song.",
+        "effect": "Movement Spd ＋2%,Auto attack has 30% chance to trigger Christmas Song: Atk ＋3%, Attack Spd ＋3%, for 10 Sec."
+    },
+    {
+        "imgsrc": null,
+        "name": "Christmas Song Blueprint",
+        "chineseName": "圣诞之歌图纸",
+        "description": "Jingle Bell~Jingle Bell~Jingle all the way! The meaningful happiness Christmas Tree is forever surrounded by the Christmas Song.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Christmas Sweet Chest",
+        "chineseName": "圣诞甜心礼盒",
+        "description": "A loving Christmas Chest. Open it to receive a mysterious gift.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Christmas Sweet Chest (excluded)",
+        "chineseName": "圣诞甜心礼盒（去除）",
+        "description": "A loving Christmas Chest. Open it to receive a mysterious gift.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Christmas Sweet Chest (excluded)",
+        "chineseName": "圣诞甜心礼盒（去除）",
+        "description": "A loving Christmas Chest. Open it to receive a mysterious gift.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_52312.png",
+        "name": "Christmas Tree Bell",
+        "chineseName": "圣诞树的铃铛",
+        "description": "After helping Santa drive off the wizard Bijou, the reward given by Santa Claus symbolizes the small bells of Gingerbread City. ",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_111.png",
+        "name": "Christmas Village Chest",
+        "chineseName": "圣诞村冒险箱",
+        "description": "Open the box and you will get a number of Colorful Shells as well as an item randomly selected among Fang of Garm, Ice Powder, Time Twister, Key of Clock Tower, Christmas Garland, Christmas Socks, Pet EXP Potion (S), Pet EXP Potion (M) and Pet EXP Potion (L).",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Christmas Warm Chest",
+        "chineseName": "圣诞暖心礼盒",
+        "description": "This package can bring you some warmth in cold winter",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_111.png",
+        "name": "Chrono Chest",
+        "chineseName": "时空宝箱",
+        "description": "Open to gain MVP materials from areas on Clock Tower difficulty and below",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_48523.png",
+        "name": "Cigarette",
+        "chineseName": "香烟",
+        "description": "Smoking is harmful to the health of the human body, and the juveniles are prohibited from smoking.",
+        "effect": "Def ＋10,Damage reduction of Insect race ＋5%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_48523.png",
+        "name": "Cigarette Blueprint",
+        "chineseName": "香烟图纸",
+        "description": "Smoking is harmful to the health of the human body, and the juveniles are prohibited from smoking.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Circus Baphomet",
+        "chineseName": "马戏团小巴",
+        "description": "An otherworldly fashion Coloring Agent that adventurers can find from Moonlight Monsters. It can be used on Mandragora.",
+        "effect": ""
+    }
+]

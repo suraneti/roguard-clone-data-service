@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Flutter Butterfly [1] Blueprint",
+        "chineseName": "会动的蝴蝶[1]图纸",
+        "description": "As human civilization dying gradually in the river of time, only the big mechanical guy in the debris and his friends remained.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_5024.png",
+        "name": "Fly Wing",
+        "chineseName": "苍蝇翅膀",
+        "description": "Fly wings can be cut off and made into magical objects that can move anywhere on a map.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_47004.png",
+        "name": "Flying Angel",
+        "chineseName": "光之翼",
+        "description": "The beautiful head cover resembling the flying angel wings. Use it and the wearer will feel mentally and physically light although it may look a little bit active.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Flying Demon Wings",
+        "chineseName": "飞天小恶魔系列背饰",
+        "description": "I will fly higher. - by the Demon who was ready to take off but found himself a backpack.",
+        "effect": "Dex ＋5,Max HP ＋500"
+    },
+    {
+        "imgsrc": null,
+        "name": "Flying Demon·Black",
+        "chineseName": "飞天小恶魔·黑",
+        "description": "I will fly higher. - by the Demon who was ready to take off but found himself a backpack.",
+        "effect": "Dex ＋5,Max HP ＋500"
+    },
+    {
+        "imgsrc": null,
+        "name": "Flying Demon·Purple",
+        "chineseName": "飞天小恶魔·紫",
+        "description": "I will fly higher. - by the Demon who was ready to take off but found himself a backpack.",
+        "effect": "Dex ＋5,Max HP ＋500"
+    },
+    {
+        "imgsrc": null,
+        "name": "Flying Demon·Red",
+        "chineseName": "飞天小恶魔·红",
+        "description": "I will fly higher. - by the Demon who was ready to take off but found himself a backpack.",
+        "effect": "Dex ＋5,Max HP ＋500"
+    },
+    {
+        "imgsrc": null,
+        "name": "Fog Snowman Horn",
+        "chineseName": "夕雾雪人号角",
+        "description": "",
+        "effect": "VIT ＋5,Max HP ＋400"
+    },
+    {
+        "imgsrc": null,
+        "name": "Fog Snowman Horn Blueprint",
+        "chineseName": "夕雾雪人号角图纸",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Fondant Guardian",
+        "chineseName": "守护翻糖人",
+        "description": "The defender made of fondant cake, a puppet coated with sugar. Once eating it, you will become a guard with a ranged deceleration ability. The effect lasts 5 minutes and is not influenced by death. This item can only be used on PVP maps.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Fondant Hero",
+        "chineseName": "勇士翻糖人",
+        "description": "The warrior made of fondant cake, the soft cake coated with sugar. Once eating it, you will become an offensive warrior. Each auto attack deals 250 points of True Dmg, Atk.Sped is increased t 200%. The effect lasts 5 minutes and is not influenced by death. This item can only be used on PVP maps.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/toy_501.png",
+        "name": "Fooling Laser Gun",
+        "chineseName": "变傻光线枪",
+        "description": "Shoot other players with this gun~ And they'll probably become stupid! (Use it on other players to turn them into giants or dwarves randomly)",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Fooling Laser Gun (Monster)",
+        "chineseName": "变傻光线枪（怪物）",
+        "description": "Fooling Laser Gun (Monster)",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "For Alice",
+        "chineseName": "致·爱丽丝",
+        "description": "The lad found a small ancient wood box when he reorganized relics of his grandmother. The work that influenced later generations finally bathed in the sunlight again after several centuries. It's hard for people to know the true story, but the key in the young lad's hand imprinted a beautiful wish.",
+        "effect": "Dex ＋3,AGI ＋3"
+    },
+    {
+        "imgsrc": null,
+        "name": "For Alice Blueprint",
+        "chineseName": "致·爱丽丝图纸",
+        "description": "The lad found a small ancient wood box when he reorganized relics of his grandmother. The work that influenced later generations finally bathed in the sunlight again after several centuries. It's hard for people to know the true story, but the key in the young lad's hand imprinted a beautiful wish.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "For Alice [1]",
+        "chineseName": "致·爱丽丝[1]",
+        "description": "The lad found a small ancient wood box when he reorganized relics of his grandmother. The work that influenced later generations finally bathed in the sunlight again after several centuries. It's hard for people to know the true story, but the key in the young lad's hand imprinted a beautiful wish.",
+        "effect": "Max HP ＋300,Job EXP of killing monsters ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Forbidden Gaze Box",
+        "chineseName": "禁忌凝视礼盒",
+        "description": "Use it and get the Magic Dominator Abyss (male) or Lilith Earth (female) beauty contact lens from the Beauty of Eyes in Prontera.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Forest Crown[1]",
+        "chineseName": "森林之冠[1]",
+        "description": "The one chosen by the tree of Yggdrasil, the one chosen by Wenbala Rain Clan, the one chosen by Pixie. Wear this crown to become guardian of Yggdrasil.",
+        "effect": "All Attributes ＋1,Damage taken from Plants and Brutes monsters －2%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Forest Hunter [1]",
+        "chineseName": "森林猎手[1]",
+        "description": "Equipment designed to fight in the forest does not affect the users' ability even if the terrain is complex, \"it likes a part of my body. \"- some old hunter.",
+        "effect": "Critical ＋5, ＋5% Crit.Dmg at refining ＋5, ＋10% Crit.Dmg at refining ＋10, ＋10% [Deadly Snipe] damage at refining ＋15"
+    },
+    {
+        "imgsrc": null,
+        "name": "Forest Hunter [2]",
+        "chineseName": "森林猎手[2]",
+        "description": "Equipment designed to fight in the forest does not affect the users' ability even if the terrain is complex, \"it likes a part of my body. \"- some old hunter.",
+        "effect": "Critical ＋5, ＋5% Crit.Dmg at refining ＋5, ＋10% Crit.Dmg at refining ＋10, ＋10% [Deadly Snipe] damage at refining ＋15"
+    }
+]

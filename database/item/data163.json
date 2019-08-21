@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Ouroboros Blade",
+        "chineseName": "衔尾者弯刃",
+        "description": "The attack speed was as quick as the snake-like lightning. The sharp cut was as fatal as a snakebite.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Ouroboros Bow",
+        "chineseName": "衔尾者鳞弓",
+        "description": "Bow and arrow made of snake's bones, which could break through any armor like a piece of paper.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Ouroboros Hammer",
+        "chineseName": "衔尾者蛇锤",
+        "description": "The body of the hammer was made of gold. The deafening attack sound of the hammer would make the enemies pass out.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Ouroboros Katar",
+        "chineseName": "衔尾者拳刃",
+        "description": "Katar made of sharp teeth of the ancient giant serpent.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Ouroboros Shield",
+        "chineseName": "衔尾者鳞盾",
+        "description": "The thick Snake Scales of the red snake can defend strong attack power and bounce it back.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Ouroboros Spear",
+        "chineseName": "衔尾者蛇矛",
+        "description": "Snake-shaped spear that can slit the wound and take the enemy's blood.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Ouroboros Staff",
+        "chineseName": "衔尾者轮回杖",
+        "description": "The magic power borrowed from the serpent in the darkness can make enemies lost in endless reincarnations.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Ouroboros Sword",
+        "chineseName": "衔尾者长剑",
+        "description": "The cursed long sword that killed snakes. The barb of the handle gave out a sense of danger like the snake's tail.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Owl Baron Card",
+        "chineseName": "鹗枭男爵卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Owl Duke Card",
+        "chineseName": "鹗枭首领卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Ox Bone Helm",
+        "chineseName": "牛骨头盔",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Ox Bone Helm",
+        "chineseName": "牛骨头盔",
+        "description": "A helmet crafted with animal bones.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Ox Bone Helm Blueprint",
+        "chineseName": "牛骨头盔图纸",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Ox Bone Helm Blueprint",
+        "chineseName": "牛骨头盔图纸",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Ox Bone Helm [1]",
+        "chineseName": "牛骨头盔[1]",
+        "description": "",
+        "effect": "Dex ＋3,AGI ＋3"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_48502.png",
+        "name": "Oxygen Mask",
+        "chineseName": "氧气罩",
+        "description": "It has the same name of the oxygen mask used in water, but please note that the function is different.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_48502.png",
+        "name": "Oxygen Mask Blueprint",
+        "chineseName": "氧气罩图纸",
+        "description": "It has the same name of the oxygen mask used in water, but please note that the function is different.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41206.png",
+        "name": "P. Bow",
+        "chineseName": "P.弓",
+        "description": "It can make precise shooting and create high damage. This advantage makes users like it even more.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41206.png",
+        "name": "P. Bow [2]",
+        "chineseName": "P.弓[2]",
+        "description": "It can make precise shooting and create high damage. This advantage makes users like it even more.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40604.png",
+        "name": "P. Staff",
+        "chineseName": "P.法杖",
+        "description": "A weapon that is more powerful than a normal Rod.",
+        "effect": ""
+    }
+]

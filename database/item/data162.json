@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_3620.png",
+        "name": "Original Will Food Pack V",
+        "chineseName": "勿忘初心食材包·Ⅴ",
+        "description": "A top-class chef with the ability to make any ingredients into ultimate delicacy. Please use these ingredients to show your strength. (Open the pack to find some top-rated food ingredients)",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Original Will Gashapon",
+        "chineseName": "勿忘初心扭蛋",
+        "description": "A Gashapon toy to express personal feelings, open it to randomly receive one headwear of Jan 2018 [Memory] series.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Original Will·Poring Balloon",
+        "chineseName": "勿忘初心·波利气球",
+        "description": "\"This is the first Flying Intricate Device we took as adventurers during our time on this vast fantasy continent. Overlooking the entire [riverside] at a high altitude, so quiet and green, people were bustling like flags in a sandbox, going forward to foreign lands is what people call exploration. Music rings again, we agreed, in the coming year, we must take a bird's eye view of the scenery. This landscape can't be described in words. Of course, I'll still have you around, and your innocent smile.\"",
+        "effect": "Dex ＋3,Neutral Dmg Taken -5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Original Will·Poring Balloon Blueprint",
+        "chineseName": "勿忘初心·波利气球图纸",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_44004.png",
+        "name": "Orleans Necklace",
+        "chineseName": "奥尔里昂的项链",
+        "description": "A necklace once worn by Orleans, the cooking genius.",
+        "effect": "Dex ＋3,M.Atk ＋30"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_44004.png",
+        "name": "Orleans Necklace [1]",
+        "chineseName": "奥尔里昂的项链[1]",
+        "description": "A necklace once worn by Orleans, the cooking genius.",
+        "effect": "Dex ＋3,M.Atk ＋30"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_44005.png",
+        "name": "Orleans's Gloves",
+        "chineseName": "奥尔里昂的手套",
+        "description": "Gloves used by the best royal chef. User can imitate the chef's action when you wear it.",
+        "effect": "Dex ＋2,M.Atk ＋10%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_44005.png",
+        "name": "Orleans's Gloves [1]",
+        "chineseName": "奥尔里昂的手套[1]",
+        "description": "Gloves used by the best royal chef. User can imitate the chef's action when you wear it.",
+        "effect": "Dex ＋2,M.Atk ＋10%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42042.png",
+        "name": "Orleans's Gown",
+        "chineseName": "奥尔里昂的制服",
+        "description": "A uniform worn by a monstrous court attendant. No one can interrupt him as long as he begins speaking.",
+        "effect": "CT Variable ＋20%,The skill's effect will not be interrupted"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42042.png",
+        "name": "Orleans's Gown [1]",
+        "chineseName": "奥尔里昂的制服[1]",
+        "description": "A uniform worn by a monstrous court attendant. No one can interrupt him as long as he begins speaking.",
+        "effect": "CT Variable ＋20%,The skill's effect will not be interrupted"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42525.png",
+        "name": "Orleans's Server",
+        "chineseName": "奥尔里昂的铁盘",
+        "description": "A round iron plate carrying dishes, extremely smooth.",
+        "effect": "M.Dmg Reflect ＋10%,M.Def ＋50"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42525.png",
+        "name": "Orleans's Server [1]",
+        "chineseName": "奥尔里昂的铁盘[1]",
+        "description": "A round iron plate carrying dishes, extremely smooth.&nbsp;",
+        "effect": "M.Dmg Reflect ＋10%,M.Def ＋50"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Osiris Card",
+        "chineseName": "俄塞里斯卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12350.png",
+        "name": "Osiris Doll",
+        "chineseName": "俄赛里斯娃娃",
+        "description": "A doll designed like Osiris. It permanently increases the character's Crit by 20 points and cannot be traded.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_5201.png",
+        "name": "Osston's Coin",
+        "chineseName": "奥斯顿的特制硬币",
+        "description": "A coin engraved with the challenger's name. It symbolizes honor and strength for dueling clubs.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Ouch Changing Body",
+        "chineseName": "奥厨换装身体",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Ouch! Kobold",
+        "chineseName": "好痛！犬妖趴趴",
+        "description": "It is said that everyone who wears this hat will recall the horrible Kobold in Kordt Forest.",
+        "effect": "M.Def ＋5%,Max HP ＋200"
+    },
+    {
+        "imgsrc": null,
+        "name": "Ouch! Kobold Blueprint",
+        "chineseName": "好痛！犬妖趴趴图纸",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Ouch! Kobold [1]",
+        "chineseName": "好痛！犬妖趴趴[1]",
+        "description": "",
+        "effect": "M.Def ＋5%,Max HP ＋200"
+    },
+    {
+        "imgsrc": null,
+        "name": "Ouroboros Axe",
+        "chineseName": "衔尾者战斧",
+        "description": "The power of the battle axe was as strong as the giant serpent. It can crush the enemy effortlessly in the battle.",
+        "effect": ""
+    }
+]

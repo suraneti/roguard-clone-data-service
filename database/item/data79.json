@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Flame Wing Blueprint",
+        "chineseName": "烈焰翅膀图纸",
+        "description": "The wings of the mythical beast in Chinese legends.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Flapping Angel Wing",
+        "chineseName": "天使羽翼",
+        "description": "The wings made by the Angel Soul. Use it and the wearer will not be influenced by Evil Ability.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Flapping Angel Wing Blueprint",
+        "chineseName": "天使羽翼图纸",
+        "description": "The beautiful head cover resembling the flying angel wings. Use it and the wearer will feel mentally and physically light although it may look a little bit active.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Flare Hat Shard",
+        "chineseName": "焰耀头盔残片",
+        "description": "Shard of the legendary artifact: Flare Hat. A shard left on the battleground of gods. Collect materials and shards and go to Miss Futraca to restore it to its former glory!",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Floating Coin",
+        "chineseName": "浮空币",
+        "description": "Money with a special purpose seems to come from Sky City, and it may be possible to trade a lot of good things with it.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Flora Card",
+        "chineseName": "噬人花卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_61507.png",
+        "name": "Floral Bracelet",
+        "chineseName": "小可的玫瑰手镯",
+        "description": "The rings were decorated with roses.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_61507.png",
+        "name": "Floral Bracelet[1]",
+        "chineseName": "小可的玫瑰手镯[1]",
+        "description": "The rings were decorated with roses.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Floret Hair Accessory",
+        "chineseName": "翠雀编织发饰",
+        "description": "A delphinium that grows in the forest. It Casts the poem of justice and freedom.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45078.png",
+        "name": "Flower Band",
+        "chineseName": "花发圈",
+        "description": "Hairband with the shape of flowers and leaves.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45078.png",
+        "name": "Flower Band Blueprint",
+        "chineseName": "花发圈图纸",
+        "description": "Hairband with the shape of flowers and leaves.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45078.png",
+        "name": "Flower Band [1]",
+        "chineseName": "花发圈[1]",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_44001.png",
+        "name": "Flower Ring",
+        "chineseName": "花戒指",
+        "description": "Lace rings, gift from innocent country girls.",
+        "effect": "Atk ＋20,Damage from plant monster's attack -10%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_44001.png",
+        "name": "Flower Ring [1]",
+        "chineseName": "花戒指[1]",
+        "description": "Lace rings, gift from innocent country girls.",
+        "effect": "Atk ＋20,Damage from plant monster's attack -10%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_44001.png",
+        "name": "Flower Ring [1]",
+        "chineseName": "女神颈链[4]",
+        "description": "A beautiful necklace carried by Phileas. Provided by God, it endows the wearer with great power.",
+        "effect": "Atk ＋20,"
+    },
+    {
+        "imgsrc": null,
+        "name": "Flowers Picnic Pad",
+        "chineseName": "花海野餐垫",
+        "description": "A picnic pad with the style and design of Flower Sea where it's best used.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_48537.png",
+        "name": "Flu Mask",
+        "chineseName": "口罩",
+        "description": "A mask worn when you have a cold or want to keep yourself warm.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_48537.png",
+        "name": "Flu Mask Blueprint",
+        "chineseName": "口罩图纸",
+        "description": "A mask worn when you have a cold or want to keep yourself warm.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Flutter Butterfly",
+        "chineseName": "会动的蝴蝶",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Flutter Butterfly [1]",
+        "chineseName": "会动的蝴蝶[1]",
+        "description": "As human civilization dying gradually in the river of time, only the big mechanical guy in the debris and his friends remained.",
+        "effect": ""
+    }
+]

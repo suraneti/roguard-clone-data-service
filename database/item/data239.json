@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45092.png",
+        "name": "Turban Blueprint",
+        "chineseName": "圆帽图纸",
+        "description": "Round hat. It makes users look cuter.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45092.png",
+        "name": "Turban [1]",
+        "chineseName": "圆帽[1]",
+        "description": "Round hat. It makes users look cuter.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Turkey Feast Gift Box",
+        "chineseName": "火鸡盛宴礼盒",
+        "description": "The roasted turkey can be smelt through the box! Open to obtain 5x Turkey Feast, and randomly obtain one of the following: Seed of Mastela ×1, Valkyrie's Gift ×1, Gold Medal ×1, Mora Coin ×2, Honor Proof ×50.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Turkey Grr Blueprint",
+        "chineseName": "火鸡咕噜噜图纸",
+        "description": "A decoration made of turkey feathers will have a gradual color when heated, giving off dazzling brilliance.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Twilight Captain Cap",
+        "chineseName": "曙光队长帽",
+        "description": "The hat of Sage Siren, it's been said that only the warrior can wear it.",
+        "effect": "Max SP ＋100,M.Atk ＋10"
+    },
+    {
+        "imgsrc": null,
+        "name": "Twilight Captain Cap Drawing",
+        "chineseName": "曙光队长帽图纸",
+        "description": "The hat of Sage Siren, it's been said that only the warrior can wear it.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Twin Katana",
+        "chineseName": "名刀·神宫雪&amp;千夜樱",
+        "description": "The legendary Gemini Sword cast by famous eastern artisan, forged with beautiful and gorgeous patterns. Witnesses said: the wearer's own movement would be as light as sakura.",
+        "effect": "Melee Atk ＋5%,Flee ＋20"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41802.png",
+        "name": "Two-Handed Axe [1]",
+        "chineseName": "双手斧[1]",
+        "description": "A very powerful Two-Handed Axe. The combination of its weight and acceleration causes very destructive damage.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41802.png",
+        "name": "Two-Handed Axe [2]",
+        "chineseName": "双手斧[2]",
+        "description": "A very powerful Two-Handed Axe. The combination of its weight and acceleration causes very destructive damage.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Tyrfing Shard",
+        "chineseName": "提尔锋残片",
+        "description": "Shard of the legendary artifact: Tyrfing. By collecting rare materials and more debris, with ancient knowledge and legendary Mr. Dragon's skills, you may restore it to the original form.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Tyrfing [2]",
+        "chineseName": "提尔锋[2]",
+        "description": "King Nassi used this sword in his holy war. He used it to sever the heads of innumerable monsters.",
+        "effect": "Str ＋10,Max HP ＋17000"
+    },
+    {
+        "imgsrc": null,
+        "name": "Tyrfing2[2]",
+        "chineseName": "提尔锋2[2]",
+        "description": "King Nassi used this sword in his holy war. He used it to sever the heads of innumerable monsters.",
+        "effect": "Str ＋10,Dmg Reduc. ＋5%, Magic Reduc. ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Tyrfing3[2]",
+        "chineseName": "提尔锋3[2]",
+        "description": "King Nassi used this sword in his holy war. He used it to sever the heads of innumerable monsters.",
+        "effect": "Str ＋10,Dmg Reduc. ＋10%, Magic Reduc. ＋10%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45039.png",
+        "name": "Ulle's Cap",
+        "chineseName": "毛无边帽",
+        "description": "Wool hat used by God of Hunting, Wooler. It seems quite easy to catch any animals in the field by wearing this hat.",
+        "effect": "Dex ＋3,AGI ＋3"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45039.png",
+        "name": "Ulle's Cap [1]",
+        "chineseName": "毛无边帽[1]",
+        "description": "Wool hat used by God of Hunting, Wooler. It seems quite easy to catch any animals in the field by wearing this hat.",
+        "effect": "Dex ＋3,AGI ＋3"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45039.png",
+        "name": "Ulle's Cap [1] Blueprint",
+        "chineseName": "毛无边帽[1]图纸",
+        "description": "Wool hat used by God of Hunting, Wooler. It seems quite easy to catch any animals in the field by wearing this hat.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Ultimate Crown",
+        "chineseName": "至高王冠",
+        "description": "The king's crown made of pure gold, engraved with divine inscription \"to the King of Man\", was presented by Odin to the heroic leaders in human history who transcended state and class. The last choice was Thanatos, the demon swordsman, who was bathed in the glow of dawn with an unknown sword in his hand. He fought against the Demon King, Morroc, for the hope of all human beings. He showed the world what is great with his extraordinary power and broad mind.",
+        "effect": "All Attributes ＋2,MPen. ＋4%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Ultraman Card",
+        "chineseName": "奥特曼卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Ultraman Energy Food",
+        "chineseName": "奥特曼能量料理",
+        "description": "Special food from Nebula M78 Gain double Base and Job Exp from killing monsters for 1 hour after use! (Buff’s remaining time elapses when you’re dead and when you’re out of combat but not when you’re offline)",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Ultraman Forever",
+        "chineseName": "永远的奥特曼",
+        "description": "Officially Authorized! Ultraman Tiga’s OP. You can order songs in the music box spot newly designed by Kafra. This item is limited. Don’t waste it~ [We all grow up eventually. Those heroes during our childhood will remain in a soft spot in our heart~]",
+        "effect": ""
+    }
+]

@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Taurus Diadem [1]",
+        "chineseName": "金牛宫宝冠[1]",
+        "description": "Diadem that symbolizes Taurus, one of the twelve zodiacal signs. It's inlaid with emerald.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Taurus Diadem [1] Blueprint",
+        "chineseName": "金牛宫宝冠[1]图纸",
+        "description": "Diadem that symbolizes Taurus, one of the twelve zodiacal signs. It's inlaid with emerald.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Taurus Star Aroma",
+        "chineseName": "星之香熏·金牛座",
+        "description": "The product of the year by Vettel Moura, the 14th president of House Moura, the most famous perfume family of the land, the constellation series is only available during respective month. Muse Moura is a star in his school because he uses different perfume every month. (Use to protect yourself with a constellation symbol that is graceful and stylish. )",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Taurus Star Shards",
+        "chineseName": "星之碎片·金牛座",
+        "description": "An ancient painting passed down for generation in House Laplace, Trillion Stars in a Descending Night Sky depicts the star phantom that is materialized by a goddess to bless people with. (Collect and give it to a goddess and you'll probably receive something nice. )",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Tears of Heaven",
+        "chineseName": "苍穹泪滴",
+        "description": "He turned his last blessing into a tear, and it flowed into eternity in silence.",
+        "effect": "INT +2, Ignore M.Def +6%,Refining +6, INT +2, Ignore M.Def +6%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Teddy Bear Card",
+        "chineseName": "玩偶熊卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Telepathy Amplification Card",
+        "chineseName": "念力增幅卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Temporal Crystal",
+        "chineseName": "时间结晶",
+        "description": "The sparsely small crystals found in time-warped places are similar to those used to magically solidify \"elapsed time\" pieces.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_3035.png",
+        "name": "Test Challenging Pack",
+        "chineseName": "内测挑战福包",
+        "description": "Designed for lovable RO fans! With numerous fine gifts! Have a good time!",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_58.png",
+        "name": "Test Chest",
+        "chineseName": "测试礼物箱",
+        "description": "Close test fashion Blueprint and material gift pack.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_58.png",
+        "name": "Test Gift Box",
+        "chineseName": "测试礼盒",
+        "description": "Designed for lovable RO fans! With everything you like or dislike! Thank you for your love and expectation for RO!",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Thara Frog Card",
+        "chineseName": "达拉蛙卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Thara Frog★Card",
+        "chineseName": "达拉蛙★卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "The Angel Photo",
+        "chineseName": "天使之力发型图",
+        "description": "Use it to change your hairstyle in the barber shop",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "The Arrow Photo",
+        "chineseName": "二连矢发型图",
+        "description": "Use it to change your hairstyle in the barber shop",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "The Arrows Photo",
+        "chineseName": "箭雨发型图",
+        "description": "Use it to change your hairstyle in the barber shop",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "The Basher Photo",
+        "chineseName": "狂击发型图",
+        "description": "Use it to change your hairstyle in the barber shop",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "The Blizzard Photo",
+        "chineseName": "暴风雪发型图",
+        "description": "Use it to change your hairstyle in the barber shop",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "The Blue Izlude Sea",
+        "chineseName": "蔚蓝的依斯鲁得海",
+        "description": "At the end of the voyage diary, it reads: \"We finally saw the lights on the shore when the moon fell into the velvet-like sea for 51st times. Con West and Moore cried in joyful tears. This is my second time seeing these two fools crying except at the father's funeral. We were silent but all tacitly began to use manual oars. We hummed the song ‘Old Man of Heaven' that we learned since we were born. But now, We are sailing to the shore, the hometown of the father and mother.\"",
+        "effect": "Atk ＋3%,Job EXP of killing monsters ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "The Blue Izlude Sea Blueprint",
+        "chineseName": "蔚蓝的依斯鲁得海图纸",
+        "description": "At the end of the voyage diary, it reads: \"We finally saw the lights on the shore when the moon fell into the velvet-like sea for 51st times. Con West and Moore cried in joyful tears. This is my second time seeing these two fools crying except at the father's funeral. We were silent but all tacitly began to use manual oars. We hummed the song ‘Old Man of Heaven' that we learned since we were born. But now, We are sailing to the shore, the hometown of the father and mother.\"",
+        "effect": ""
+    }
+]

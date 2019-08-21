@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Pringles Beard",
+        "chineseName": "品客胡子",
+        "description": "It's said to be the symbol of mature men and gentlemen.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Pringles Beard",
+        "chineseName": "品客胡子",
+        "description": "It's said to be the symbol of mature men and gentlemen.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Pringles Beard Blueprint",
+        "chineseName": "品客胡子图纸",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Pringles Chest",
+        "chineseName": "品客礼物盒",
+        "description": "Pringles' special loot box for RO players, with delicious crisps and some mysterious gifts. What you find depends on your luck.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Pringles Mask",
+        "chineseName": "品客头套",
+        "description": "",
+        "effect": "Dex ＋3,AGI ＋3"
+    },
+    {
+        "imgsrc": null,
+        "name": "Pringles Mask Blueprint",
+        "chineseName": "品客头套图纸",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Pringles Mask [1]",
+        "chineseName": "品客头套[1]",
+        "description": "",
+        "effect": "Dex ＋3,AGI ＋3"
+    },
+    {
+        "imgsrc": null,
+        "name": "Pringles Voucher",
+        "chineseName": "品客礼物票",
+        "description": "The gift vouchers from the Pringles Chest can be used to redeem exclusive headwear and emoji from the Pringles Beard Mall.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Promise Crown",
+        "chineseName": "约定之冕",
+        "description": "The full moon is shining above the sakura tree and the perfect gem refracts a unique brilliance. People with a heart full of expectations have finally arrived as promised. Put on the crown and seal the deal under the moonlight.",
+        "effect": "Max HP ＋100,M.Def ＋5"
+    },
+    {
+        "imgsrc": null,
+        "name": "Promise Crown Blueprint",
+        "chineseName": "约定之冕图纸",
+        "description": "The full moon is shining above the sakura tree and the perfect gem refracts a unique brilliance. People with a heart full of expectations have finally arrived as promised. Put on the crown and seal the deal under the moonlight.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Prontera Artifact token",
+        "chineseName": "普隆德拉神器币",
+        "description": "Reward for the Guardians of Prontera 1, use to redeem Artifact shards of Sword, spear and Jur",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_111.png",
+        "name": "Prontera Chest",
+        "chineseName": "普隆德拉冒险箱",
+        "description": "Open the box, you will certainly receive some Colorful Shell, with a probability to receive Raccoon Leaf, Four-leaf Clover, Antenna, Soft Feather, Light Granule, Iron, Mandragora, Pet EXP Potion (S), Pet EXP Potion (M), Pet EXP Potion (L), etc.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40009.png",
+        "name": "Prontera Lance",
+        "chineseName": "普隆德拉军矛",
+        "description": "The spears used by the guards of Prontera are powerful.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40009.png",
+        "name": "Prontera Lance [2]",
+        "chineseName": "普隆德拉军矛[2]",
+        "description": "The spears used by the guards of Prontera are powerful.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Prontera's Guard",
+        "chineseName": "普隆德拉的守护",
+        "description": "\"I really hate it here!\" Kelly said with anger. \"It is too noisy here, every day, people wearing all kinds of exotic clothes pretend to help you hook up!\", \"…Unexpectedly, this month's expedition funds have gone to buy a pile of useless hats! Every day they seduce me! Every day they seduce me!\", \"Ugh! I really hate it here.\" Kelly said with an angry expression, laughing with tears in her eyes. She turned her head, and at this time, a breeze blew through the center of the Capital Square and her beautiful brown hair thrown into the sky. Well, this kid really likes it here!",
+        "effect": "Max HP ＋1000,Dmg Reduc. ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Prontera's Guard Blueprint",
+        "chineseName": "普隆德拉的守护图纸",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Prontera's Guard [1]",
+        "chineseName": "普隆德拉的守护[1]",
+        "description": "\"I really hate it here!\" Kelly said with anger. \"It is too noisy here, every day, people wearing all kinds of exotic clothes pretend to help you hook up!\", \"…Unexpectedly, this month's expedition funds have gone to buy a pile of useless hats! Every day they seduce me! Every day they seduce me!\", \"Ugh! I really hate it here.\" Kelly said with an angry expression, laughing with tears in her eyes. She turned her head, and at this time, a breeze blew through the center of the Capital Square and her beautiful brown hair thrown into the sky. Well, this kid really likes it here!",
+        "effect": "Max HP ＋1000,Dmg Reduc. ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Prophet Cape",
+        "chineseName": "预言者披风",
+        "description": "\"I prophesy you will buy this prophet cape! \" The merchant of Morroc impersonates a prophet",
+        "effect": "VIT ＋2,For Refining ＋10, Max HP ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Prophet Cape [1]",
+        "chineseName": "预言者披风[1]",
+        "description": "\"I prophesy you will buy this prophet cape! \" The merchant of Morroc impersonates a prophet",
+        "effect": "VIT ＋2,For Refining ＋10, Max HP ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Protecting You",
+        "chineseName": "守护着你",
+        "description": "Regardless of the hardships and dangers, it always guardian the firm and devout love.",
+        "effect": ""
+    }
+]

@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_44015.png",
+        "name": "Critical Ring",
+        "chineseName": "潜能戒指",
+        "description": "A ring that inspires the user's potential, also a magic ring that detects enemy's weakness.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_44015.png",
+        "name": "Critical Ring [1]",
+        "chineseName": "潜能戒指[1]",
+        "description": "A ring that inspires the user's potential, also a magic ring that detects enemy's weakness.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_44001.png",
+        "name": "Critical Ring [2]",
+        "chineseName": "潜能戒指[2]",
+        "description": "A ring that inspires the user's potential, also a magic ring that detects enemy's weakness.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41510.png",
+        "name": "Croce Staff [1]",
+        "chineseName": "红十字杖[1]",
+        "description": "A special staff with the red pattern of Prontera Congregation specially used by the high-status Clergyman.",
+        "effect": "INT ＋5,[Croce Staff IV] ＋ [Holy Robe IV]: Healing increase ＋ 5%. And when [Holy Robe] Refining is ＋10 or above, the healing increases to 10%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41510.png",
+        "name": "Croce Staff [2]",
+        "chineseName": "红十字杖[2]",
+        "description": "A special staff with the red pattern of Prontera Congregation specially used by the high-status Clergyman.",
+        "effect": "INT ＋5,[Croce Staff IV] ＋ [Holy Robe IV]: Healing increase ＋ 5%. And when [Holy Robe] Refining is ＋10 or above, the healing increases to 10%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41228.png",
+        "name": "Cross Bow [1]",
+        "chineseName": "十字弓[1]",
+        "description": "The cross shaped bow. Its advantage is that it can give quick continuous shooting and create great destruction. &nbsp;",
+        "effect": "Dex ＋2,When Dexterity reaches 95, Ranged Phy, Atk ＋10%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41228.png",
+        "name": "Cross Bow [2]",
+        "chineseName": "十字弓[2]",
+        "description": "A cross-shaped bow, with an advantages of fast shooting and destructive power .",
+        "effect": "Dex ＋2,When Dexterity reaches 95, Ranged Phy, Atk ＋10%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Cross Sanction",
+        "chineseName": "十字圣裁",
+        "description": "In the name of justice, to eliminate all the sins. Lord guides our way, the cross is shining on the back.",
+        "effect": "All Attributes ＋2,Dmg to Demon＋6%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42511.png",
+        "name": "Cross Shield",
+        "chineseName": "十字钢盾",
+        "description": "A large and dense cross-shaped shield.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42511.png",
+        "name": "Cross Shield [1]",
+        "chineseName": "十字钢盾[1]",
+        "description": "A large and dense cross-shaped shield.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45046.png",
+        "name": "Crown",
+        "chineseName": "王冠",
+        "description": "It makes people more sober with this crown, which has the magic to restore spirit power.",
+        "effect": "Int ＋3,For Refining ＋1, Dmg to Holy monsters ＋1% (up to ＋15%)"
+    },
+    {
+        "imgsrc": null,
+        "name": "Crown Headwear",
+        "chineseName": "王冠系列头饰",
+        "description": "",
+        "effect": "All Attributes ＋2,MPen. ＋4%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45035.png",
+        "name": "Crown of Ancient Queen",
+        "chineseName": "古代女王的王冠",
+        "description": "The ancient queen's hair decoration was made to show the queen's dignity. So it was decorated with luxury items like gold and gems.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45035.png",
+        "name": "Crown of Ancient Queen Blueprint",
+        "chineseName": "古代女王的王冠图纸",
+        "description": "The ancient queen's hair decoration was made to show the queen's dignity. So it was decorated with luxury items like gold and gems.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45035.png",
+        "name": "Crown of Ancient Queen [1]",
+        "chineseName": "古代女王的王冠[1]",
+        "description": "The ancient queen's hair decoration was made to show the queen's dignity. So it was decorated with luxury items like gold and gems.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Crown of Light[1]",
+        "chineseName": "浮光之冠[1]",
+        "description": "Holy and glorious, this crown was crafted for the high priest of the elves. A symbol of innocence and prayer, which can only be worn by those with sincere hearts.",
+        "effect": "Magic Penetration +3%,When attacking a target, has a 100% chance to reduce the target's Magic Reduc. by 5% and Move Spd by 10% for 5 seconds."
+    },
+    {
+        "imgsrc": null,
+        "name": "Crown of Mistress",
+        "chineseName": "蜂后的王冠",
+        "description": "Crown that highlights the status of queen made by mistress. It shows elegance on its own.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Crown of Mistress [1]",
+        "chineseName": "蜂后的王冠[1]",
+        "description": "Crown that highlights the status of queen made by mistress. It shows elegance on its own.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Crown of Mistress [1] Blueprint",
+        "chineseName": "蜂后的王冠[1]图纸",
+        "description": "Crown that highlights the status of queen made by mistress. It shows elegance on its own.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45046.png",
+        "name": "Crown [1]",
+        "chineseName": "王冠[1]",
+        "description": "It makes people more sober with this crown, which has the magic to restore spirit power.",
+        "effect": "Int ＋3,For Refining ＋1, Dmg to Holy monsters ＋1% (up to ＋15%)"
+    }
+]

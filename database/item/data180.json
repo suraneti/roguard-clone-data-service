@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12001.png",
+        "name": "Red Potion",
+        "chineseName": "红色药水",
+        "description": "Potion made from crushed red herbs. Use it to restore 65-80 points of HP.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Red Ribbon",
+        "chineseName": "红色领带发带",
+        "description": "Hairband used by a witch that loves nature. She made a big and red hair band.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_52410.png",
+        "name": "Red Ribbon",
+        "chineseName": "红色飘带",
+        "description": "Carefully selected exquisite velvet streamers. The brilliant craftsmanship seems to show it wasn't made on this planet. (It is rumored that Miu on Vacation is collecting this somewhere. It may be a good idea to give it to her, but where is she taking a vacation?)",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Red Ribbon [1]",
+        "chineseName": "红色领带发带[1]",
+        "description": "Hairband used by a witch that loves nature. She made a big and red hair band.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Red Ribbon [1] Blueprint",
+        "chineseName": "红色领带发带[1]图纸",
+        "description": "Hairband used by a witch that loves nature. She made a big and red hair band.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Red Square Bag",
+        "chineseName": "红色手提包",
+        "description": "A handbag, officially designated by the Alchemists Association, very popular among women. It is said to have become a new favorite in Midgard Fashionable World.",
+        "effect": "MDef ＋30, ＋15% [Crazy Weed] damage"
+    },
+    {
+        "imgsrc": null,
+        "name": "Red Square Bag [1]",
+        "chineseName": "红色手提包[1]",
+        "description": "A handbag, officially designated by the Alchemists Association, very popular among women. It is said to have become a new favorite in Midgard Fashionable World.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Red Square Bag [1]",
+        "chineseName": "红色手提包[1]",
+        "description": "A handbag, officially designated by the Alchemists Association, very popular among women. It is said to have become a new favorite in Midgard Fashionable World.",
+        "effect": "MDef ＋30, ＋15% [Crazy Weed] damage"
+    },
+    {
+        "imgsrc": null,
+        "name": "Red Square Bag [2]",
+        "chineseName": "红色手提包[2]",
+        "description": "A handbag, officially designated by the Alchemists Association, very popular among women. It is said to have become a new favorite in Midgard Fashionable World.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Red Square Bag [2]",
+        "chineseName": "红色手提包[2]",
+        "description": "A handbag, officially designated by the Alchemists Association, very popular among women. It is said to have become a new favorite in Midgard Fashionable World.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Red Square Bag [3]",
+        "chineseName": "红色手提包[3]",
+        "description": "A handbag, officially designated by the Alchemists Association, very popular among women. It is said to have become a new favorite in Midgard Fashionable World.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Red Wings",
+        "chineseName": "绯色之翼",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Refine ＋10 Accessory Voucher",
+        "chineseName": "精炼+10饰品券",
+        "description": "The admiring accessory voucher. After use, the refining level of equipped accessory (upper body) will increase to ＋10.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Refine ＋10 Cape Voucher",
+        "chineseName": "精炼+10披风券",
+        "description": "The admiring cape voucher. After use, the refining level of equipped cape will increase to ＋10.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Refine ＋10 Helm Voucher",
+        "chineseName": "精炼+10盔甲券",
+        "description": "The admiring armor voucher. After use, the refining level of equipped armor will increase to ＋10.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Refine ＋10 Off-hand Voucher",
+        "chineseName": "精炼+10副手券",
+        "description": "The admiring off-hand voucher. After use, the refining level of equipped off-hand weapon will increase to ＋10.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Refine ＋10 Shoes Voucher",
+        "chineseName": "精炼+10鞋子券",
+        "description": "The admiring shoe voucher. After use, the refining level of equipped shoes will increase to ＋10.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Refine ＋10 Weapon Voucher",
+        "chineseName": "精炼+10武器券",
+        "description": "The admiring weapon voucher. After use, the refining level of equipped weapon will increase to ＋10.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Refine ＋12 Accessory Voucher",
+        "chineseName": "精炼+12饰品券",
+        "description": "The admiring accessory voucher. After use, the refining level of equipped accessory (upper body) will increase to ＋12.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Refine ＋12 Cape Voucher",
+        "chineseName": "精炼+12披风券",
+        "description": "The admiring cape voucher. After use, the refining level of equipped cape will increase to ＋12.",
+        "effect": ""
+    }
+]

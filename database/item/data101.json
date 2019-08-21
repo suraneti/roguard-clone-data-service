@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41803.png",
+        "name": "Hammer",
+        "chineseName": "钢斧",
+        "description": "A very powerful hammer.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41803.png",
+        "name": "Hammer [2]",
+        "chineseName": "钢斧[2]",
+        "description": "A very powerful hammer.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Hamster Bugler",
+        "chineseName": "仓鼠号手",
+        "description": "",
+        "effect": "Agi ＋2,Move Spd ＋2%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Hamster Bugler Blueprint",
+        "chineseName": "仓鼠号手图纸",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Hamster Bugler [1]",
+        "chineseName": "仓鼠号手[1]",
+        "description": "",
+        "effect": "Dex ＋3,AGI ＋3"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41828.png",
+        "name": "Hand Axe",
+        "chineseName": "手斧",
+        "description": "A common axe used for cutting firewood.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41828.png",
+        "name": "Hand Axe [2]",
+        "chineseName": "手斧[2]",
+        "description": "A common axe used for cutting firewood.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_52205.png",
+        "name": "Hand of God",
+        "chineseName": "神之手",
+        "description": "Can create matter and has a strong religious meaning. I wonder what you can make with it?",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Hand of Light Card",
+        "chineseName": "光耀之手卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_61501.png",
+        "name": "Handcuffs [1]",
+        "chineseName": "犯人的手炼[1]",
+        "description": "Handcuffs is a magic technique that enables the beast to share strength with himself.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Handcuffs [2]",
+        "chineseName": "犯人的手炼[2]",
+        "description": "Handcuffs is a magic technique that enables the beast to share strength with himself.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_3607.png",
+        "name": "Handsome Big Cat's Chest",
+        "chineseName": "潇洒的B格猫随变箱",
+        "description": "Big Cats don't ever care about their pretty pose being copied by others. Just do what you want! Meow (Use it to randomly receive a transformation scroll of one Big Cat)",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Happy Poem",
+        "chineseName": "幸福的礼赞",
+        "description": "",
+        "effect": "Dex ＋3,AGI ＋3"
+    },
+    {
+        "imgsrc": null,
+        "name": "Happy Reindeer Horn",
+        "chineseName": "欢乐鹿角",
+        "description": "An elegant and tiny reindeer horn, everyone wants to pet it.",
+        "effect": "Movement Spd＋2%,When attack with skills, has a 15% percent chance to freeze the target for 3 sec."
+    },
+    {
+        "imgsrc": null,
+        "name": "Happy Rose",
+        "chineseName": "幸福的蔷薇",
+        "description": "Suddenly surrounded by blooming roses, what a adorable surprise!",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Happy Rose [1]",
+        "chineseName": "幸福玫瑰[1]",
+        "description": "Hold all the goodness, beauty and blessing in the palm of your hand, the aroma of the rose haunts your heart, the holy moment is coming. Grasp the flowers in your hands and feel the joy of anticipation",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Happy Unicorn Blueprint",
+        "chineseName": "幸运独角兽图纸",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Happy White Seasonal Card",
+        "chineseName": "幸福白色季节卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_52153.png",
+        "name": "Hard Skin",
+        "chineseName": "坚硬外皮",
+        "description": "Hard monster's skin. I wonder what you can make with it?",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Hardcover card album remains",
+        "chineseName": "精装卡册的残页",
+        "description": "The limited hardcover \"Midgard Card Collection\" completed by Emil family. It contains more rare cards but there are also missing pages due to historical factors.",
+        "effect": ""
+    }
+]

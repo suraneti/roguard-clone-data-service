@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_3610.png",
+        "name": "Practicing Pack",
+        "chineseName": "修行礼包",
+        "description": "A practice pack given by Adventure Association (can used by T1 players and above). Open the pack to receive JOB EXP Potion (S) x5, BASE EXP Potion (S) x5, Belief Token x10, Silver Medal x5, T2 Practicing Pack 1.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Prajna's Face Blueprint",
+        "chineseName": "般若之面图纸",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Prajna’s Face",
+        "chineseName": "般若之面",
+        "description": "The monster prajna formed by the strong resentment of women is wraith that ordinary ghosts are afraid of. The witches of Kingdom of Heavenly Water make Prajna's face on a white mask and give it to tourists who need to walk at night to protect them from wild ghosts.",
+        "effect": "Damage of Demi-Human ＋3%,Atk ＋5"
+    },
+    {
+        "imgsrc": null,
+        "name": "Praying Card Pack",
+        "chineseName": "祈祷晶片包",
+        "description": "Open to get Attack Card, Def Card or Element Card randomly.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_3038.png",
+        "name": "Precious Christmas Chest",
+        "chineseName": "名贵圣诞礼盒",
+        "description": "The package received by completing chest quest in Gingerbread City. Open it to find Snowman, Edelweiss and special materials of Gingerbread City, with a small probability to find Boss materials, a large probability to find normal Blueprint, a rare chance to receive advanced Blueprint.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_5032.png",
+        "name": "Predatory License",
+        "chineseName": "掠夺许可证",
+        "description": "The predatory license for wild monsters. After use, the first 85 monsters killed will generate 10 times of loots. This item can be used 3 times a day at most. The effect can stack up and does not affect MINI or MVP.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_800101.png",
+        "name": "Premium for novice",
+        "chineseName": "限定特典初心号",
+        "description": "\"Everything starts from this. Children's dreams, adults' dreams, and the love we must protect! \" To appreciate the adventurers who have been supporting us for a long time, the famous Kafra Company specially launched a special small card in the form of a monthly magazine. Hold it and you will feel its magical power. It's practical and highly collectible.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_3615.png",
+        "name": "Premium Refining Box",
+        "chineseName": "特级精炼箱子",
+        "description": "A special reward given by blacksmith Hollgrehenn to adventurers who have a desire for exploration. Use it to randomly receive a certain number of [Elunium] and [Oridecon Ore].",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45083.png",
+        "name": "Pretend Murdered",
+        "chineseName": "戏剧头盔",
+        "description": "Stage-prop helmet. It will scare people when you wear it in ordinary days.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45083.png",
+        "name": "Pretend Murdered Blueprint",
+        "chineseName": "戏剧头盔图纸",
+        "description": "Stage-prop helmet. It will scare people when you wear it in ordinary days.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45083.png",
+        "name": "Pretend Murdered [1]",
+        "chineseName": "戏剧头盔[1]",
+        "description": "Stage-prop helmet. It will scare people when you wear it in ordinary days.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Price List",
+        "chineseName": "价目表",
+        "description": "Price List",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12323.png",
+        "name": "Prickly Fruit",
+        "chineseName": "榴莲",
+        "description": "Aromatic fruit with sharp protrusions, it can restore 35-80 points of HP and 25-50 points of SP.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Priest Badge",
+        "chineseName": "牧师徽章",
+        "description": "Priest Badge.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Prince's Crown [1]",
+        "chineseName": "王子的冠冕[1]",
+        "description": "\"\"At the end of the story, the prince and princess lived a happy life. Close the picture book, the Blueprint depicting the child reading the story surfaced in the sky, and the words in the book quickly composed this headwear. In the faint halo, the sacred thing lands on your hand.\"",
+        "effect": "Atk ＋30,Max HP ＋200"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40703.png",
+        "name": "Princess Knife [2]",
+        "chineseName": "皇家短剑[2]",
+        "description": "A beautiful sword once used by a princess in ancient times. It looks beautiful as the body protection and has collection value.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40703.png",
+        "name": "Princess Knife [3]",
+        "chineseName": "皇家短剑[3]",
+        "description": "A beautiful sword once used by a princess in ancient times. It looks beautiful as the body protection and has collection value.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Princess' Hat[1]",
+        "chineseName": "公主的冠冕[1]",
+        "description": "\"\"At the end of the story, the prince and princess lived a happy life. Close the picture book, the Blueprint depicting the child reading the story surfaced in the sky, and the words in the book quickly composed this headwear. In the faint halo, the sacred thing lands on your hand.\"",
+        "effect": "M.Atk ＋20,Max SP ＋100"
+    },
+    {
+        "imgsrc": null,
+        "name": "Princess' Umbrella",
+        "chineseName": "大小姐的洋伞",
+        "description": "The mainland's most famous perfume family: The only daughter of the 14th generation of the Mulasimin family, Ms. Martin Mulasimin, grew up in a star-studded environment. In order to resist direct sunlight in the midsummer, she was given a delicate magic umbrella. According to rumors, when this umbrella is used, it can effectively resist the effects of sunlight. It seems to be able to maintain the temperature of the surrounding air for a long time, staying at 24 degrees.",
+        "effect": "Max HP ＋400,Dmg to Demi-Human race ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Princess' Umbrella Blueprint",
+        "chineseName": "大小姐的洋伞图纸",
+        "description": "",
+        "effect": ""
+    }
+]

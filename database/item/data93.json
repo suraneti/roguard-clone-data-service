@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Gold Angel Blueprint",
+        "chineseName": "金色信仰图纸",
+        "description": "\"To all god's agents, all executives of god punishment on the land, we martial family's mission is to chase after, kill and wipe out the stupid and wandering body of god's violator...\" The following letters were too blur to distinguish.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Gold Christmas Bell",
+        "chineseName": "金色圣诞铃铛",
+        "description": "",
+        "effect": "Holy Dmg ＋8%,Dark, Ghost, Undead, Poison Dmg Taken -10%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Gold Christmas Bell Blueprint",
+        "chineseName": "金色圣诞铃铛图纸",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Gold Clock Guardian",
+        "chineseName": "黄金时钟守备官",
+        "description": "",
+        "effect": "Max SP ＋50,HP Regen ＋1"
+    },
+    {
+        "imgsrc": null,
+        "name": "Gold Clock Guardian [1]",
+        "chineseName": "黄金时钟守备官[1]",
+        "description": "",
+        "effect": "Max SP ＋50,HP Regen ＋1"
+    },
+    {
+        "imgsrc": null,
+        "name": "Gold Clock Guardian [1] Blueprint",
+        "chineseName": "黄金时钟守备官[1]图纸",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Gold Deviruchi Wing",
+        "chineseName": "黄金小恶魔翅膀",
+        "description": "",
+        "effect": "All Attributes ＋1,M.Dmg ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Gold Donut",
+        "chineseName": "黄金甜甜圈",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40705.png",
+        "name": "Gold Hook Dagger",
+        "chineseName": "金钩匕首",
+        "description": "The dagger designed by the dwarf master is equipped with a hook that protects the user's hand and is therefore called a Gold Hook Dagger",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40705.png",
+        "name": "Gold Hook Dagger [2]",
+        "chineseName": "金钩匕首[2]",
+        "description": "The dagger designed by the dwarf master is equipped with a hook that protects the user's hand and is therefore called a Gold Hook Dagger",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Gold Medal",
+        "chineseName": "金质勋章",
+        "description": "A gold medal that can be used on a guild stone plate.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_52404.png",
+        "name": "Gold Sand",
+        "chineseName": "沙金",
+        "description": "The impurities hidden in the sediment can be removed by a series of methods. The purified powdery gold can be used to make materials for equipment.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_7337.png",
+        "name": "Gold Snake Eye",
+        "chineseName": "金蛇之瞳",
+        "description": "The legendary Gold Snake Eye represents the greatest snake slayers in history! It's priceless! Adventurers can redeem a precious weapon skin by handing over the Gold Snake Eye to Al De Baran Preto.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Gold Star",
+        "chineseName": "金之星",
+        "description": "The shooting star turns into a golden gem, the favorite type of gem of the God of Wealth, after rubbing against the air when falling down from the sky. Use it and you will be wealthier, getting 1000000 zeny.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Gold Triple Star",
+        "chineseName": "金色三连星",
+        "description": "",
+        "effect": "Str ＋3,INT ＋3"
+    },
+    {
+        "imgsrc": null,
+        "name": "Gold Triple Star Blueprint",
+        "chineseName": "金色三连星图纸",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Gold Triple Star [1]",
+        "chineseName": "金色三连星[1]",
+        "description": "",
+        "effect": "Dex ＋3,AGI ＋3"
+    },
+    {
+        "imgsrc": null,
+        "name": "Golden Afternoon·Black Gift Box",
+        "chineseName": "黄金午后·黑礼盒",
+        "description": "Use it and get the Golden Afternoon·Black beauty contact lens from the Beauty of Eyes in Prontera.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Golden Afternoon·Blue Gift Box",
+        "chineseName": "黄金午后·蓝礼盒",
+        "description": "Use it and get the Golden Afternoon·Blue beauty contact lens from the Beauty of Eyes in Prontera.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Golden Afternoon·Brown Gift Box",
+        "chineseName": "黄金午后·棕礼盒",
+        "description": "Use it and get the Golden Afternoon·Brown beauty contact lens from the Beauty of Eyes in Prontera.",
+        "effect": ""
+    }
+]

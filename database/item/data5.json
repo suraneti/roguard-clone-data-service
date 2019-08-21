@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42025.png",
+        "name": "Adventure Armor [1]",
+        "chineseName": "轻便铠甲[1]",
+        "description": "A short armor designed for easy movement. Sexy clothes for women to wear.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_3620.png",
+        "name": "Adventure Gift",
+        "chineseName": "冒险赠礼",
+        "description": "A limited gift that Miu gives adventurers only on Prontera's Novice Day. Green ribbons are Miu's favorite color, and even the red boxes are accompanied by warm love.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Adventure Guide",
+        "chineseName": "冒险教程",
+        "description": "(Within 24 hours, it can only be used once on student whose base level is below 85) Specified textbook of Adventure Association, mentors use it to teach students.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Adventure locomotive",
+        "chineseName": "冒险火车头",
+        "description": "The invention of the steam engine makes it possible for dreamers to go to faraway places faster. Travel with Poring on the spring equinox. If I can record the beautiful scenery along the road in poems, can I convey the beauty to you, my love~~~",
+        "effect": "LUK ＋2,Move Spd ＋3%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Adventure locomotive[1]",
+        "chineseName": "冒险火车头[1]",
+        "description": "",
+        "effect": "LUK ＋2,Move Spd ＋3%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Adventure Premium",
+        "chineseName": "冒险之旅特典",
+        "description": "“Bell has been tolled, it is the time of new year! Don't even know what to right on the wish list! Let's make them come true.” The famous Kafra, co is appreciated for all the adventurers' support and published this special monthly premium card. When you holding it on your hand, it will grant you a special power. Plus, it is very efficient and high value",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_3602.png",
+        "name": "Adventure Supply Pack",
+        "chineseName": "冒险补给包",
+        "description": "A material supply pack designed by the famous Kafra Company for new adventures in gratitude for their response to the South Fate Appointment. In the lower right corner of the front, There was a small message from Kafra employees: thank you.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_47002.png",
+        "name": "Adventurer Bag",
+        "chineseName": "冒险者背包",
+        "description": "The small backpack with adventurers' essential items. Carrying it, one can go anywhere without being stopped.",
+        "effect": "Def ＋15,When Refining ＋10 and Luck reaches 90, Crit.Dmg ＋5%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_47002.png",
+        "name": "Adventurer Bag Blueprint",
+        "chineseName": "冒险者背包图纸",
+        "description": "The small backpack with adventurers' essential items. Carrying it, one can go anywhere without being stopped.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42503.png",
+        "name": "Adventurer Shield",
+        "chineseName": "冒险者盾牌",
+        "description": "The adventurer's round shield, an ordinary shield.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42503.png",
+        "name": "Adventurer Shield [1]",
+        "chineseName": "冒险者盾牌[1]",
+        "description": "The adventurer's round shield, an ordinary shield.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43531.png",
+        "name": "Adventurer Shoes",
+        "chineseName": "冒险家长靴",
+        "description": "Boots specially made for adventurer .",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43531.png",
+        "name": "Adventurer Shoes[1]",
+        "chineseName": "冒险家长靴[1]",
+        "description": "Boots specially made for adventurer .",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Adventurer's Lucky Bag",
+        "chineseName": "生活冒险家福袋",
+        "description": "Welcome to RO, Eden has prepared some common items for you. After use, you can receive Chef's Eagle Eye x10, Expert Food Pack III x5, Adventure Meatball x20, Colorful Shell x10, Lv.5 Talent Fruit x1, Dish Pack B x5",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_3615.png",
+        "name": "Adventurer’s adventure chest lv.20",
+        "chineseName": "冒险家冒险箱·20级",
+        "description": "Adventure chest lv.20 given to Novice adventurers by Adventurers Guild. It contains new Advanced Eden Team set pieces. Open it now?",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_3615.png",
+        "name": "Adventurer’s adventure chest lv.30",
+        "chineseName": "冒险家冒险箱·30级",
+        "description": "Adventure chest lv.30 given to Novice adventurers by Adventurers Guild. It contains new Advanced Eden Team set pieces. Open it now?",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_3615.png",
+        "name": "Adventurer’s adventure chest lv.40",
+        "chineseName": "冒险家冒险箱·40级",
+        "description": "Adventure chest lv.40 given to Novice adventurers by Adventurers Guild. It contains new Advanced Eden Team set pieces. Open it now?",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_3615.png",
+        "name": "Adventurer’s adventure chest lv.50",
+        "chineseName": "冒险家冒险箱·50级",
+        "description": "Adventure chest lv.50 given to Novice adventurers by Adventurers Guild. It contains new Advanced Eden Team set pieces. Open it now?",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_3615.png",
+        "name": "Adventurer’s adventure chest lv.60",
+        "chineseName": "冒险家冒险箱·60级",
+        "description": "Adventure chest lv.60 given to Novice adventurers by Adventurers Guild. It contains new Advanced Eden Team set pieces. Open it now?",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_3615.png",
+        "name": "Adventurer’s adventure chest lv.70",
+        "chineseName": "冒险家冒险箱·70级",
+        "description": "Adventure chest lv.70 given to Novice adventurers by Adventurers Guild. It contains new Advanced Eden Team set pieces. Open it now?",
+        "effect": ""
+    }
+]

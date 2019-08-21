@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Dropping Doll (Male) Blueprint",
+        "chineseName": "趴趴初心者·男图纸",
+        "description": "No matter how long the adventure journey you've travelled, don't forget your beginner's mind. Doll made by the cute girls of Kafra company in memory of this moment and to show the warmth and concern. (Although it's a boy-style doll, girls can wear it too.)",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Dropping Marionette",
+        "chineseName": "趴趴傀儡娃娃",
+        "description": "Doll made according to the look of popular monster Marionette. It makes your head feel cool.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Dropping Marionette Blueprint",
+        "chineseName": "趴趴傀儡娃娃图纸",
+        "description": "Doll made according to the look of popular monster Marionette. It makes your head feel cool.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Dropping Marionette [1]",
+        "chineseName": "趴趴傀儡娃娃[1]",
+        "description": "Doll made according to the look of popular monster Marionette. It makes your head feel cool.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Drops Candy",
+        "chineseName": "土波利糖",
+        "description": "A candy in the shape of Drops, with a burning taste. Within 1 minute, the earth damage you suffer will reduce by 100%. This effect cannot stack up with other Poring candies, and is not influenced by death. This item can only be used on PVP maps.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Drops Card",
+        "chineseName": "土波利卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_3606.png",
+        "name": "Dry Material Chest",
+        "chineseName": "干燥的材料箱子",
+        "description": "A well-preserved wooden box. The shell is dry and seemingly the box has been sealed for years.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Duff's Cape",
+        "chineseName": "多芙的斗篷",
+        "description": "A cloak that does not cover people well.",
+        "effect": "VIT ＋5,Ranged Dmg Taken Reduction ＋15%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Duff's Cape [1]",
+        "chineseName": "多芙的斗篷[1]",
+        "description": "An ordinary-looking cloak, only the user can feel its specialty.",
+        "effect": "VIT ＋5,Ranged Dmg Taken Reduction ＋15%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Duff's Helm [1]",
+        "chineseName": "多芙的轻便盔[1]",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Duff's Helm [1] Blueprint",
+        "chineseName": "多芙的轻便盔[1]图纸",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Duff's Mail",
+        "chineseName": "多芙的锁子甲",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Duff's Mail [1]",
+        "chineseName": "多芙的锁子甲[1]",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Duff's Shoes",
+        "chineseName": "多芙的战斗靴",
+        "description": "The boots used by Dover, the forger, a very strong prop.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Duff's Shoes [1]",
+        "chineseName": "多芙的战斗靴[1]",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Durandal Shadow",
+        "chineseName": "杜兰达尔的幻影",
+        "description": "The previous name of the sword was \"Durandal\" and then renamed as the sword of \"Mysteltainn\" as its master was a god slayer and the sword is filled with the blood of many gods. The sword bears the power of Durandal, which however has been sealed by the evil power of \"Mysteltainn\". The owner of the sword is disappeared. It’s only a phantom of the true sword and can be used by Durandal’s progeny.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40335.png",
+        "name": "Durandal Shadow",
+        "chineseName": "杜兰达尔的幻影",
+        "description": "The previous name of the sword was \"Durandal\" and then renamed as the sword of \"Mysteltainn\" as its master was a god slayer and the sword is filled with the blood of many gods. The sword bears the power of Durandal, which however has been sealed by the evil power of \"Mysteltainn\". The owner of the sword is disappeared. It's only a phantom of the true sword and can be used by Durandal's progeny. (Better used as the weapon skin)",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Dusk Veil",
+        "chineseName": "薄暮之纱",
+        "description": "Magical veil Pixie used to cover their face, protect users from the windy weather of Yggdrasil and also add a feel of mystical grace.",
+        "effect": "Atk ＋10,Job EXP of killing monsters ＋3%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Dustiness Card",
+        "chineseName": "猎蝇卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41833.png",
+        "name": "Dwarf King's Axe",
+        "chineseName": "丹恩之斧",
+        "description": "Dwarven Warlord Dann's portable battle axe, along with his numerous thrilling wars, symbolizes dwarven tenacity.",
+        "effect": ""
+    }
+]

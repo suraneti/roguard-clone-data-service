@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42523.png",
+        "name": "Morpheus's Bracelet",
+        "chineseName": "摩菲斯臂环",
+        "description": "The armlet, one of the three keys to unlock Morpheus' seal, Is said to be the relic of Morpheus' beloved woman.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42523.png",
+        "name": "Morpheus's Bracelet [1]",
+        "chineseName": "摩菲斯臂环[1]",
+        "description": "The armlet, one of the three keys to unlock Morpheus' seal, Is said to be the relic of Morpheus' beloved woman.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45120.png",
+        "name": "Morpheus's Hood",
+        "chineseName": "摩菲斯的头巾",
+        "description": "Headscarf that sealed with the real power of Morpheus. It seems to require several items to break the seal.",
+        "effect": "Def ＋5,INT ＋2"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45120.png",
+        "name": "Morpheus's Hood [1]",
+        "chineseName": "摩菲斯的头巾[1]",
+        "description": "Headscarf that sealed with the real power of Morpheus. It seems to require several items to break the seal.",
+        "effect": "Def ＋5,INT ＋2"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45120.png",
+        "name": "Morpheus's Hood [1] Blueprint",
+        "chineseName": "摩菲斯的头巾[1]图纸",
+        "description": "Headscarf that sealed with the real power of Morpheus. It seems to require several items to break the seal.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Morpheus's Shawl [1]",
+        "chineseName": "摩菲斯披肩[1]",
+        "description": "The cape, one of the three keys to unlock Morpheus' seal, Is said to record ancient spells.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Morpheus's Shawl [2]",
+        "chineseName": "摩菲斯披肩[2]",
+        "description": "The cape, one of the three keys to unlock Morpheus' seal, Is said to record ancient spells.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Morrigane's Helm",
+        "chineseName": "茉莉雅娜的头盔",
+        "description": "Headwear that can prove to be the head among the goddesses. It fully shows the impression of the woman's grey radiance.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Morrigane's Helm [1]",
+        "chineseName": "茉莉雅娜的头盔[1]",
+        "description": "Headwear that can prove to be the head among the goddesses. It fully shows the impression of the woman's grey radiance.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Morrigane's Helm [1] Blueprint",
+        "chineseName": "茉莉雅娜的头盔[1]图纸",
+        "description": "Headwear that can prove to be the head among the goddesses. It fully shows the impression of the woman's grey radiance.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Morrigane's Manteau [1]",
+        "chineseName": "茉莉雅娜斗篷[1]",
+        "description": "A gray cloak made of raven feathers with the power of Morrigane.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Morrigane's Manteau [2]",
+        "chineseName": "茉莉雅娜斗篷[2]",
+        "description": "A gray cloak made of raven feathers with the power of Morrigane.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_111.png",
+        "name": "Morroc Adventure Chest",
+        "chineseName": "梦罗克冒险箱",
+        "description": "Open the box, you will certainly receive some Colorful Shell, with a probability to receive Star Crumb, Parts, Orc Claw, Bloody Rune, Pearl, Gold Sand, Topaz, Pet EXP Potion (S), Pet EXP Potion (M), Pet EXP Potion (L), etc.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_3033.png",
+        "name": "Morroc Material Pack",
+        "chineseName": "梦罗克材料包",
+        "description": "Morroc Material Pack, in which all kinds of Morroc materials can be found.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_58.png",
+        "name": "Mount Chest",
+        "chineseName": "坐骑礼物箱",
+        "description": "Designed for lovable RO fans! It offers you a wide range of mounts. Time to show off!",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Mr. Meow",
+        "chineseName": "喵喵先生",
+        "description": "Ding-Dong! Congratulations to Coffee Kitty for being voted Heartbeat High's “Kitty of the Year”! “If there's anything you don't know, you can ask me! And I can also help out with matters of the heart!\"",
+        "effect": "Atk +3%,Crit.Dmg +5%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_48519.png",
+        "name": "Mr. Scream",
+        "chineseName": "整人面具",
+        "description": "A very weird-looking mask. It looks terrible. It's used for playing tricks.",
+        "effect": "Stone Curse Resistance ＋30%,For Refining ＋1, Stone Curse Resistance ＋2% (up to 60%)"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_48519.png",
+        "name": "Mr. Scream Blueprint",
+        "chineseName": "整人面具图纸",
+        "description": "A very weird-looking mask. It looks terrible. It's used for playing tricks.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Ms. Moura's Smile",
+        "chineseName": "穆拉辛小姐的微笑",
+        "description": "",
+        "effect": "Earth Dmg ＋5%,Dex ＋1"
+    },
+    {
+        "imgsrc": null,
+        "name": "Ms. Moura's Smile [1]",
+        "chineseName": "穆拉辛小姐的微笑[1]",
+        "description": "",
+        "effect": "Earth Dmg ＋5%,Dex ＋1"
+    }
+]

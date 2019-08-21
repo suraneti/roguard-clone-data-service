@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45097.png",
+        "name": "Helm",
+        "chineseName": "金属头盔",
+        "description": "Helmet made of hard metal.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45109.png",
+        "name": "Helm of Angel",
+        "chineseName": "天使头盔",
+        "description": "Amazing headwear with relatively high Def. It's made of Feathers of Angel Wing. We don't know who is the Craftsman.",
+        "effect": "Agi ＋2,For Refining ＋1, Flee ＋1% (up to 15%)"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45109.png",
+        "name": "Helm of Angel Blueprint",
+        "chineseName": "天使头盔图纸",
+        "description": "Amazing headwear with relatively high Def. It's made of Feathers of Angel Wing. We don't know who is the Craftsman.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45109.png",
+        "name": "Helm of Angel [1]",
+        "chineseName": "天使头盔[1]",
+        "description": "Amazing headwear with relatively high Def. It's made of Feathers of Angel Wing. We don't know who is the Craftsman.",
+        "effect": "Agi ＋2,For Refining ＋1, Flee ＋1% (up to 15%)"
+    },
+    {
+        "imgsrc": null,
+        "name": "Helm of Darkness",
+        "chineseName": "暗黑王冠",
+        "description": "Crown used by Demon King Morroc. It's only for people that can overcome the fear for the Demon King.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Helm of Darkness [1]",
+        "chineseName": "暗黑王冠[1]",
+        "description": "Crown used by Demon King Morroc. It's only for people that can overcome the fear for the Demon King.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Helm of Darkness [1] Blueprint",
+        "chineseName": "暗黑王冠[1]图纸",
+        "description": "Crown used by Demon King Morroc. It's only for people that can overcome the fear for the Demon King.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Helm Of Dragon",
+        "chineseName": "天龙头盔",
+        "description": "Helmet made of hard scales of dragon.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Helm Of Dragon [1]",
+        "chineseName": "天龙头盔[1]",
+        "description": "Helmet made of hard scales of dragon.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Helm Of Dragon [1] Blueprint",
+        "chineseName": "天龙头盔[1]图纸",
+        "description": "Helmet made of hard scales of dragon.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45097.png",
+        "name": "Helm [1]",
+        "chineseName": "金属头盔[1]",
+        "description": "Helmet made of hard metal.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45097.png",
+        "name": "Helm [1] Blueprint",
+        "chineseName": "金属头盔[1]图纸",
+        "description": "Helmet made of hard metal.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45050.png",
+        "name": "Helmet of Orc Hero",
+        "chineseName": "兽人英雄的头具",
+        "description": "Helmet given to the real Orc Brave. It shows who is the greatest and boldest Orc.",
+        "effect": "Str ＋2,When Refining ＋10, Melee Dmg ＋10%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45050.png",
+        "name": "Helmet of Orc Hero [1]",
+        "chineseName": "兽人英雄的头具[1]",
+        "description": "Helmet given to the real Orc Brave. It shows who is the greatest and boldest Orc.",
+        "effect": "Str ＋2,When Refining ＋10, Melee Dmg ＋10%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45050.png",
+        "name": "Helmet of Orc Hero [1] Blueprint",
+        "chineseName": "兽人英雄的头具[1]图纸",
+        "description": "Helmet given to the real Orc Brave. It shows who is the greatest and boldest Orc.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Hercules Bow",
+        "chineseName": "赫克拉斯神弓",
+        "description": "The bow created by the god clan. Legend has it that it can damage the body of God and keep the bowstring unbroken forever. Legend has it that Usenno Otjila, the Sniper of the great emperor Trinidad, Used this magic bow to pierce the head of the demons a thousand miles away. When Usenno Otjila died in battle, the bow of the God gave out tremendous lament.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_4001.png",
+        "name": "Heroes After Battle",
+        "chineseName": "历战的勇者",
+        "description": "A wizard music record. With it, You can order songs in the music box spot newly designed by Kafra. [Brave adventurers, Don't ever stop marching due to current difficulties! With the wind, Continue our journey!]",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Heroes are afraid of me",
+        "chineseName": "勇者都怕我",
+        "description": "After countless twists and turns, Countless territorial expansions, the Demon King finally had his own kingdom - the \"freedom\" kingdom defined by his aesthetics. Even without the singing of the Girl of Night, There is still a poem recording this history - the king of the fantasy kingdom who is alone in the world.",
+        "effect": "Dex ＋3,AGI ＋3"
+    },
+    {
+        "imgsrc": null,
+        "name": "Heroes are afraid of me Blueprint",
+        "chineseName": "勇者都怕我图纸",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Heroes are afraid of me [1]",
+        "chineseName": "勇者都怕我[1]",
+        "description": "After countless twists and turns, Countless territorial expansions, the Demon King finally had his own kingdom - the \"freedom\" kingdom defined by his aesthetics. Even without the singing of the Girl of Night, There is still a poem recording this history - the king of the fantasy kingdom who is alone in the world.",
+        "effect": ""
+    }
+]

@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40631.png",
+        "name": "Ancient Tree Staff",
+        "chineseName": "古树法杖",
+        "description": "This staff, made from the powers of the oldest Divine Trees of the dark jungle, looks like an ordinary wooden stick but it actually contains abundant amounts of magical energy.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40631.png",
+        "name": "Ancient Tree Staff [2]",
+        "chineseName": "古树法杖[2]",
+        "description": "This staff, made from the powers of the oldest Divine Trees of the dark jungle, looks like an ordinary wooden stick but it actually contains abundant amounts of magical energy.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Andre Card",
+        "chineseName": "白蚁卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_5201.png",
+        "name": "Andrew's Coin",
+        "chineseName": "安德鲁的特制硬币",
+        "description": "A coin engraved with the challenger's name. It symbolizes honor and strength for dueling clubs.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Andre★Card",
+        "chineseName": "白蚁★卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_48545.png",
+        "name": "Angel Spirit",
+        "chineseName": "天使魅影",
+        "description": "The ornamental mask is said to be worn by the goddess.",
+        "effect": "Atk ＋4%,M.Atk ＋4%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_48545.png",
+        "name": "Angel Spirit Blueprint",
+        "chineseName": "天使魅影图纸",
+        "description": "The ornamental mask is said to be worn by the goddess.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45004.png",
+        "name": "Angel Wing",
+        "chineseName": "天使发圈",
+        "description": "Band made of collected angel's feather.",
+        "effect": "Agi ＋2,When Refining ＋10, M.Def ＋25"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45004.png",
+        "name": "Angel Wing Blueprint",
+        "chineseName": "天使发圈图纸",
+        "description": "Band made of collected angel's feather.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Angel Wing Feather",
+        "chineseName": "圣羽",
+        "description": "The Wing connects the sky and ground, flying to the edge of the world. It is like hundreds years from now.",
+        "effect": "All Attributes ＋1,When equipped by Priest branches, Heal has a 15% chance to heal for double the amount. When equipped by other jobs, Bonus Healing Received ＋5%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45004.png",
+        "name": "Angel Wing [1]",
+        "chineseName": "天使发圈[1]",
+        "description": "Band made of collected angel's feather.",
+        "effect": "Agi ＋2,When Refining ＋10, M.Def ＋25"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_47004.png",
+        "name": "Angel Wings Blueprint",
+        "chineseName": "天使的翅膀图纸",
+        "description": "The wings made by the Angel Soul. Use it and the wearer will not be influenced by Evil Ability.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43503.png",
+        "name": "Angel's Reincarnation [1]",
+        "chineseName": "天使的降临[1]",
+        "description": "The sandals of angel in charge of super novices, with these sandals, wearer has the power to jump high.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43503.png",
+        "name": "Angel's Reincarnation [2]",
+        "chineseName": "天使的降临[2]",
+        "description": "The sandals of angel in charge of super novices, with these sandals, wearer has the power to jump high.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Angelic Guard",
+        "chineseName": "天使的保护",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42039.png",
+        "name": "Angelic Protection",
+        "chineseName": "天使的加护",
+        "description": "The robe of angel in charge of super novices, the wearer will enjoy a wonderfully soft sense!",
+        "effect": "Max HP ＋500,When suffering Atk, target has 5% chance to receive [Assumptio] Lv.1"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42039.png",
+        "name": "Angelic Protection [1]",
+        "chineseName": "天使的加护[1]",
+        "description": "The robe of angel in charge of super novices, the wearer will enjoy a wonderfully soft sense!",
+        "effect": "Max HP ＋500,When suffering Atk, target has 5% chance to receive [Assumptio] Lv.1"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Angeling Card",
+        "chineseName": "天使波利卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Angeling Glass Blueprint",
+        "chineseName": "天使波利眼镜图纸",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Angeling Hairpin",
+        "chineseName": "天使波利发夹",
+        "description": "Cute hair clips made according to the popular monster Angeling. It makes your body lighter by wearing it.",
+        "effect": ""
+    }
+]

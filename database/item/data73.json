@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Exquisite repairing shard",
+        "chineseName": "精致的维修碎片",
+        "description": "Scientist Eric Snow discovered that some Crystal can be used to repair the Gashapon Headwears of Kafra Co. But different Headwears need Crystal of different quality to repair. Refined Crystal shard can be used to repair Gashapon Headwear of purple and Blue quality.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_48518.png",
+        "name": "Eye Bandage",
+        "chineseName": "独眼眼罩",
+        "description": "The blinker is used for eye protection, when eyes get hurt.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_48518.png",
+        "name": "Eye Bandage Blueprint",
+        "chineseName": "独眼眼罩图纸",
+        "description": "The blinker is used for eye protection, when eyes get hurt.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Eye of Dawn",
+        "chineseName": "曙光之眼",
+        "description": "Through the Dawn, we will see the hope. Through the Dawn, we will see the light of humanity.",
+        "effect": "STR ＋2,Atk ＋40"
+    },
+    {
+        "imgsrc": null,
+        "name": "Eye of Dawn Blueprint",
+        "chineseName": "曙光之眼图纸",
+        "description": "Through the Dawn, we will see the hope. Through the Dawn, we will see the light of humanity.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_44008.png",
+        "name": "Eye of Dullahan",
+        "chineseName": "永恒戒指",
+        "description": "A strange ring made into a spectacle.",
+        "effect": "Dex ＋5,[Wizardry Staff VIII] ＋ [Robe of Cast VIII] ＋ [Eye of Dullahan VIII] ＋ [Crystal Pumps IV]: －5% CT Variable, ＋3% M.Dmg, ＋3% Ignore MDef"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_44008.png",
+        "name": "Eye of Dullahan [1]",
+        "chineseName": "永恒戒指[1]",
+        "description": "A strange ring made into a spectacle.",
+        "effect": "Dex ＋5,[Wizardry Staff VIII] ＋ [Robe of Cast VIII] ＋ [Eye of Dullahan VIII] ＋ [Crystal Pumps IV]: －5% CT Variable, ＋3% M.Dmg, ＋3% Ignore MDef"
+    },
+    {
+        "imgsrc": null,
+        "name": "Eye Scar",
+        "chineseName": "眼部疤痕",
+        "description": "Those battles will not be forgotten and those teammates will always be in the bottom of heart. Although there is no expression on his face, scar is telling the story.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Eye Scar Blueprint",
+        "chineseName": "眼部疤痕图纸",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Fabre Card",
+        "chineseName": "绿棉虫卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_52304.png",
+        "name": "Fabric",
+        "chineseName": "透明之布",
+        "description": "This is a magical piece of cloth that is transparent and glows. Being a very rare item, it can be used to make high-end headwear.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Facebook 1.000.000 Likes Pack",
+        "chineseName": "Facebook點讚1,000,000禮包",
+        "description": "A gift pack for RO lovers like you. Open to get Blue Potion×30, Butterfly Wing×20, Kafra Teleport Ticket×20.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Facebook 1.200.000 Likes Pack",
+        "chineseName": "Facebook點讚1,200,000禮包",
+        "description": "A gift pack for RO lovers like you. Open to get Leaf of Yggdrasil×10, Dish Pack A×5, Amazing Toy Box×5.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Facebook 1.500.000 Likes Pack",
+        "chineseName": "Facebook點讚1,500,000禮包",
+        "description": "A gift pack for RO lovers like you. Open to get Mora Coin×2, Dish Pack B×2, Lightning Chain×2.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Facebook 2.000.000 Likes Pack",
+        "chineseName": "Facebook點讚2,000,000禮包",
+        "description": "A gift pack for RO lovers like you. Open to get Mora Coin×3, Gift from Guild×3, Gold Medal×3.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Facebook 800.000 Likes Pack",
+        "chineseName": "Facebook點讚800,000禮包",
+        "description": "A gift pack for RO lovers like you. Open to get White Potion×30, Fly Wing×20, Kafra Storage Voucher×20.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Fairy Chips",
+        "chineseName": "田园味仙境薯片",
+        "description": "Delicious snacks from the other world. INT ＋ 10, Magic Dam ＋20%, For 30 min. (The effect cannot be stacked with Int food)",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Fairy in Bottle",
+        "chineseName": "瓶中精灵",
+        "description": "Hem, how many times have I said it? I am the lovely Fairy in Bottle, not little black guy in bottle!",
+        "effect": "Hit ＋20,auto attack has a 5% chance to trigger [Fury Burst], [Fury Burst]: Crit.Dmg ＋100%; the effect lasts 3 seconds"
+    },
+    {
+        "imgsrc": null,
+        "name": "Fairy in Bottle[1]",
+        "chineseName": "瓶中精灵[1]",
+        "description": "Hem, how many times have I said it? I am the lovely Fairy in Bottle, not little black guy in bottle!",
+        "effect": "Hit ＋20,auto attack has a 5% chance to trigger [Fury Burst], [Fury Burst]: Crit.Dmg ＋100%; the effect lasts 3 seconds"
+    },
+    {
+        "imgsrc": null,
+        "name": "Fairy Tale Gashapon",
+        "chineseName": "童话物语扭蛋",
+        "description": "A Gashapon toy to express personal feelings, open it to randomly receive one headwear of Sep 2017 [Magic Masquerade - Fairy Tale] series.",
+        "effect": ""
+    }
+]

@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45178.png",
+        "name": "Ramen Hat [1] Blueprint",
+        "chineseName": "拉面头饰[1]图纸",
+        "description": "Ramen on the head. Eat it when you're hungry!",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Ramune",
+        "chineseName": "波子汽水",
+        "description": "On the coastal road in a summer afternoon, kids are returning home on bicycle after having fun on the beach. The cold drinks shop that appears on the road side is tempting to them like the candy house in the fairytale.(Designed by: SUN灬Telaore)",
+        "effect": "Str ＋4,Max SP ＋50"
+    },
+    {
+        "imgsrc": null,
+        "name": "Rancid Scale Armor",
+        "chineseName": "腐臭鳞甲",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Rancid Scale Armor [1]",
+        "chineseName": "腐臭鳞甲[1]",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Randgris Card",
+        "chineseName": "兰特克力斯卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Random Collection-Blue Card",
+        "chineseName": "随机图鉴·蓝卡",
+        "description": "A blue card full of wonderful textures. Player can use it to randomly active 1 blue-card collection in Adventure Handbook - Cards.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Random Collection-BOSS Card",
+        "chineseName": "随机图鉴·boss卡",
+        "description": "A dazzling BOSS card. Player can use it to randomly active 1 MINI?MVP-card collection in Adventure Handbook - Cards.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Random Collection-Green Card",
+        "chineseName": "随机图鉴·绿卡",
+        "description": "A green card full of wonderful textures. Player can use it to randomly active 1 green-card collection in Adventure Handbook - Cards.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Random Collection-Mini Card",
+        "chineseName": "随机图鉴·mini卡",
+        "description": "A blue card marked with MINI. Player can use it to randomly active 1 MINI-card collection in Adventure Handbook - Cards.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Random Collection-MVP Card",
+        "chineseName": "随机图鉴·mvp卡",
+        "description": "A purple card marked with MVP. Player can use it to randomly active 1 MVP-card collection in Adventure Handbook - Cards.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Random Collection-White Card",
+        "chineseName": "随机图鉴·白卡",
+        "description": "A white card full of wonderful textures. Player can use it to randomly active 1 white-card collection in Adventure Handbook - Cards.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Ranger Badge",
+        "chineseName": "游侠徽章",
+        "description": "Ranger Badge.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Ranger Clothes",
+        "chineseName": "山地游侠装",
+        "description": "The clothes that the Rangers prefer to fight in the forest against monsters.",
+        "effect": "Dex ＋5,[Cursed Lyre IV] ＋[Ranger Clothes IV]: improve the influence of Atk on Falcon's Atk"
+    },
+    {
+        "imgsrc": null,
+        "name": "Ranger Clothes [1]",
+        "chineseName": "山地游侠装[1]",
+        "description": "The clothes that the Rangers prefer to fight in the forest against monsters.",
+        "effect": "Dex ＋5,[Cursed Lyre IV] ＋[Ranger Clothes IV]: improve the influence of Atk on Falcon's Atk"
+    },
+    {
+        "imgsrc": null,
+        "name": "Rapid Atk Alloy",
+        "chineseName": "极速锐化合金",
+        "description": "After use, Atk ＋400; this effect lasts 6 minutes, it can be used only once within 15 minutes, Unable to coexist with [Slow Atk Alloy].",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40331.png",
+        "name": "Rapier",
+        "chineseName": "击刺长剑",
+        "description": "A sword with a slender blade, specially used for piercing.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40331.png",
+        "name": "Rapier [2]",
+        "chineseName": "击刺长剑[2]",
+        "description": "A sword with a slender blade, specially used for piercing.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_111.png",
+        "name": "Rare Materials Pack III",
+        "chineseName": "稀有材料包III",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Raydric Archer Card",
+        "chineseName": "幽灵弓箭手卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Raydric Card",
+        "chineseName": "幽灵剑士卡片",
+        "description": "",
+        "effect": ""
+    }
+]

@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_3609.png",
+        "name": "Gorgeous Headwear Blueprint Chest",
+        "chineseName": "华丽的图纸宝箱",
+        "description": "Open it to randomly receive one valuable headwear Blueprint.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Gorgeous Headwear Female",
+        "chineseName": "华丽的头饰·女",
+        "description": "This ornate black satin top hat will make you the king of the midnight cocktail party.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Gorgeous Headwear Male",
+        "chineseName": "华丽的头饰·男",
+        "description": "This ornate black satin top hat will make you the queen of the midnight cocktail party.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Gothic Changing Body - Female",
+        "chineseName": "哥特换装身体-女",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Gothic Changing Body - Male",
+        "chineseName": "哥特换装身体-男",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Graceful Sakura",
+        "chineseName": "优雅夜樱",
+        "description": "A hair dye from the ancient Sakura City, added with unique cherry petals, it will make the hair slightly pink just as cherry blossoms.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Gram Dust",
+        "chineseName": "古拉姆晶末",
+        "description": "The soul sealed in the card, formed after thousands of years of precipitation, is a material that can be used to synthesize cards, obtained by card decomposition.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_48508.png",
+        "name": "Grampa Beard",
+        "chineseName": "白胡须",
+        "description": "When you wear it, You'll feel the heaviness of the beard.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_48508.png",
+        "name": "Grampa Beard Blueprint",
+        "chineseName": "白胡须图纸",
+        "description": "When you wear it, You'll feel the heaviness of the beard.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Grand Chef·Broth",
+        "chineseName": "食神王冠·肉汤",
+        "description": "Thank you for your outstanding contribution in the field of making broth. The Cuisine Association hereby awards you this headwear to prove your long-lasting effort in studying food.",
+        "effect": "Max HP ＋50,INT ＋2"
+    },
+    {
+        "imgsrc": null,
+        "name": "Grand Chef·Cookie",
+        "chineseName": "食神王冠·饼干",
+        "description": "Thank you for your outstanding contribution in the field of making cookie. The Cuisine Association hereby awards you this headwear to prove your long-lasting effort in studying food.",
+        "effect": "Atk ＋10,Agi ＋1"
+    },
+    {
+        "imgsrc": null,
+        "name": "Grand Chef·Fish Kebab",
+        "chineseName": "食神王冠·鱼串",
+        "description": "Thank you for your outstanding contribution in the field of making fish kebab. The Cuisine Association hereby awards you this headwear to prove your long-lasting effort in studying food.",
+        "effect": "Max HP ＋50,Luk ＋2"
+    },
+    {
+        "imgsrc": null,
+        "name": "Grand Chef·Fish Soup",
+        "chineseName": "食神王冠·鱼汤",
+        "description": "Thank you for your outstanding contribution in the field of making fish soup. The Cuisine Association hereby awards you this headwear to prove your long-lasting effort in studying food.",
+        "effect": "Atk ＋10,Str ＋1"
+    },
+    {
+        "imgsrc": null,
+        "name": "Grand Chef·Fish Steak",
+        "chineseName": "食神王冠·鱼排",
+        "description": "Thank you for your outstanding contribution in the field of making fish steak. The Cuisine Association hereby awards you this headwear to prove your long-lasting effort in studying food.",
+        "effect": "Max HP ＋50,Dex ＋2"
+    },
+    {
+        "imgsrc": null,
+        "name": "Grand Chef·Green BBQ",
+        "chineseName": "食神王冠·烤菜",
+        "description": "Thank you for your outstanding contribution in the field of making green BBQ. The Cuisine Association hereby awards you this headwear to prove your long-lasting effort in studying food.",
+        "effect": "Atk ＋10,INT ＋1"
+    },
+    {
+        "imgsrc": null,
+        "name": "Grand Chef·Ice Cream",
+        "chineseName": "食神王冠·雪糕",
+        "description": "Thank you for your outstanding contribution in the field of making ice cream. The Cuisine Association hereby awards you this headwear to prove your long-lasting effort in studying food.",
+        "effect": "Atk ＋10,Luk ＋1"
+    },
+    {
+        "imgsrc": null,
+        "name": "Grand Chef·Juice",
+        "chineseName": "食神王冠·果汁",
+        "description": "Thank you for your outstanding contribution in the field of making juice. The Cuisine Association hereby awards you this headwear to prove your long-lasting effort in studying food.",
+        "effect": "Max HP ＋50,Agi ＋2"
+    },
+    {
+        "imgsrc": null,
+        "name": "Grand Chef·Meat Kebab",
+        "chineseName": "食神王冠·肉串",
+        "description": "Thank you for your outstanding contribution in the field of making meat kebab. The Cuisine Association hereby awards you this headwear to prove your long-lasting effort in studying food.",
+        "effect": "Max HP ＋50,VIT ＋2"
+    },
+    {
+        "imgsrc": null,
+        "name": "Grand Chef·Meat Steak",
+        "chineseName": "食神王冠·肉排",
+        "description": "Thank you for your outstanding contribution in the field of making meat steak. The Cuisine Association hereby awards you this headwear to prove your long-lasting effort in studying food.",
+        "effect": "Max HP ＋50,Str ＋2"
+    },
+    {
+        "imgsrc": null,
+        "name": "Grand Chef·Salad",
+        "chineseName": "食神王冠·拌菜",
+        "description": "Thank you for your outstanding contribution in the field of making salad. The Cuisine Association hereby awards you this headwear to prove your long-lasting effort in studying food.",
+        "effect": "Atk ＋10,VIT ＋1"
+    }
+]

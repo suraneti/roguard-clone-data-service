@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_105.png",
+        "name": "Monster Resistance Chest 4",
+        "chineseName": "抗击魔潮礼物箱4",
+        "description": "A gift pack for Monster Resistance. It may contain valuable items",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_105.png",
+        "name": "Monster Resistance Chest 5",
+        "chineseName": "抗击魔潮礼物箱5",
+        "description": "A gift pack for Monster Resistance. It may contain valuable items",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_105.png",
+        "name": "Monster Resistance Chest 6",
+        "chineseName": "抗击魔潮礼物箱6",
+        "description": "A gift pack for Monster Resistance. It may contain valuable items",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_105.png",
+        "name": "Monster Resistance Chest 7",
+        "chineseName": "抗击魔潮礼物箱7",
+        "description": "A gift pack for Monster Resistance. It may contain valuable items",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_105.png",
+        "name": "Monster Resistance Chest 8",
+        "chineseName": "抗击魔潮礼物箱8",
+        "description": "A gift pack for Monster Resistance. It may contain valuable items",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_105.png",
+        "name": "Monster Resistance Chest 9",
+        "chineseName": "抗击魔潮礼物箱9",
+        "description": "A gift pack for Monster Resistance. It may contain valuable items",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Monster’s wish",
+        "chineseName": "小怪兽的心意",
+        "description": "A mini monster from M78 Nebula brings everyone a mysterious Cosmic Breath Giftbox. Open it to receive:  2 \"Cosmic Soup\", 50 \"Ultraman’s Cosmic Breath\", 1 \"Lvl.5 Talent Fruit\", and has a chance to receive a \"M78 Nebula Costume Voucher\"",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Moon Back Headwear Shard",
+        "chineseName": "月亮背饰残片",
+        "description": "Shard of the legendary artifact: Moon God Back Headwear. A shard left on the battleground of gods. Collect materials and shards and go to Miss Futraca to restore it to its former glory!",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_3620.png",
+        "name": "Moon Blessing Gold Chest",
+        "chineseName": "月之祝福礼盒·金",
+        "description": "A dazzling golden gift box, the praise to witty adventurers!",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Moon Blessing Silver Chest",
+        "chineseName": "月之祝福礼盒·银",
+        "description": "A low-key silver gift box, open it to have good luck!",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Moon Hat Shard",
+        "chineseName": "月亮头盔残片",
+        "description": "Shard of the legendary artifact: Hat of the Moon God. A shard left on the battleground of gods. Collect materials and shards and go to Miss Futraca to restore it to its former glory!",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Moon Headwear",
+        "chineseName": "满月头饰",
+        "description": "Well~How about I give you the moon~~~",
+        "effect": "Holy Dmg ＋3%,Dmg to Dark monsters ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Moon Headwear Blueprint",
+        "chineseName": "满月头饰图纸",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Moon Light",
+        "chineseName": "月·光",
+        "description": "[Moonlight as the paddle, lotus flower as the boat. Pierrot started his tailwind journey to the south. The running water sang a deep tune, swayed the small boat. Moonlight as the paddle, lotus flower as the boat. Go back to Bergamo, go back to hometown, Pierrot started the homeward journey. There was morning twilight along the east horizon. ... Moonlight as the paddle. ]",
+        "effect": "Dex ＋3,AGI ＋3"
+    },
+    {
+        "imgsrc": null,
+        "name": "Moon Light Blueprint",
+        "chineseName": "月·光图纸",
+        "description": "[Moonlight as the paddle, lotus flower as the boat. Pierrot started his tailwind journey to the south. The running water sang a deep tune, swayed the small boat. Moonlight as the paddle, lotus flower as the boat. Go back to Bergamo, go back to hometown, Pierrot started the homeward journey. There was morning twilight along the east horizon. ... Moonlight as the paddle. ]",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Moon Light [1]",
+        "chineseName": "月·光[1]",
+        "description": "[Moonlight as the paddle, lotus flower as the boat. Pierrot started his tailwind journey to the south. The running water sang a deep tune, swayed the small boat. Moonlight as the paddle, lotus flower as the boat. Go back to Bergamo, go back to hometown, Pierrot started the homeward journey. There was morning twilight along the east horizon. ... Moonlight as the paddle. ]",
+        "effect": "Max HP ＋300,Base EXP of killing monsters ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Moon Rabbit",
+        "chineseName": "月之兔兔",
+        "description": "",
+        "effect": "Def ＋15,When Refining ＋10 and Luck reaches 90, Crit.Dmg ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Moon Rabbit Blueprint",
+        "chineseName": "月之兔兔图纸",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/toy_508.png",
+        "name": "Moon Rabbit Gem",
+        "chineseName": "月之兔·白玉",
+        "description": "\"In my memory of childhood, in the season when I wore scarf and a white puff escaped into the air with every breath I took, I always looked forward to my grandpa's return from adventure, for he'd make a lot of lovely bunny lamps for me with my grandma when he did. I'd drag these bunny lamp that gave off warm light with my playmate next door as we ran across the snow covered ground, laughing with our faces red with cold. This is the memory I've been cherishing till this day. \"- Chapter 27, Book 3 of My Grandma's Story (Use it to drag a candle-lit white bunny lamp that gives of warm light which evokes memories)",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/toy_509.png",
+        "name": "Moon Rabbit Jade",
+        "chineseName": "月之兔·碧海",
+        "description": "\"In my memory of childhood, in the season when I wore scarf and a white puff escaped into the air with every breath I took, I always looked forward to my grandpa's return from adventure, for he'd make a lot of lovely bunny lamps for me with my grandma when he did. I'd drag these bunny lamp that gave off warm light with my playmate next door as we ran across the snow covered ground, laughing with our faces red with cold. This is the memory I've been cherishing till this day. \"- Chapter 27, Book 3 of My Grandma's Story (Use it to drag a candle-lit blue bunny lamp that gives of warm light which evokes memories)",
+        "effect": ""
+    }
+]

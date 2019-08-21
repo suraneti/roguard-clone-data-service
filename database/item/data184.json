@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Robe of Judgment",
+        "chineseName": "审判之袍",
+        "description": "It is not only a symbol of the divine status of the judgment, but also a sacred blessing against the curse of the devil, and when magic swordsman Thanatos became the victim of the curse of Satan Morocc, it is default code for all opponents of devil wear blessed clothes.",
+        "effect": "INT ＋5,＋100% [Adoramus] multiplier upon reaching refining ＋10"
+    },
+    {
+        "imgsrc": null,
+        "name": "Robe of Judgment [1]",
+        "chineseName": "审判之袍[1]",
+        "description": "It is not only a symbol of the divine status of the judgment, but also a sacred blessing against the curse of the devil, and when magic swordsman Thanatos became the victim of the curse of Satan Morocc, it is default code for all opponents of devil wear blessed clothes.",
+        "effect": "INT ＋5,＋100% [Adoramus] multiplier upon reaching refining ＋10"
+    },
+    {
+        "imgsrc": null,
+        "name": "Robinhood Hat",
+        "chineseName": "罗宾汉帽",
+        "description": "",
+        "effect": "Str ＋1,Luk ＋1"
+    },
+    {
+        "imgsrc": null,
+        "name": "Robinhood Hat Blueprint",
+        "chineseName": "罗宾汉帽图纸",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Rocker Card",
+        "chineseName": "蝗虫卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Rocker ★Card",
+        "chineseName": "蝗虫★卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40602.png",
+        "name": "Rod",
+        "chineseName": "手杖",
+        "description": "A stick made by Eden Team. The basic items prepared for new Mages.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40602.png",
+        "name": "Rod [2]",
+        "chineseName": "手杖[2]",
+        "description": "A stick made by Eden Team. The basic items prepared for new Mages.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40601.png",
+        "name": "Rod [2] (pending)",
+        "chineseName": "手杖[2](待定)",
+        "description": "A light and short Rod.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40601.png",
+        "name": "Rod [3] (pending)",
+        "chineseName": "手杖[3](待定)",
+        "description": "A light and short Rod.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Roda Frog Card",
+        "chineseName": "罗达蛙卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42011.png",
+        "name": "Rogue Clothes",
+        "chineseName": "盗贼之衣",
+        "description": "Very lightweight clothes.",
+        "effect": "Agi ＋3,Str ＋1"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42011.png",
+        "name": "Rogue Clothes [1]",
+        "chineseName": "盗贼之衣[1]",
+        "description": "Very lightweight clothes.",
+        "effect": "Agi ＋3,Str ＋1"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_44018.png",
+        "name": "Rogue's Treasure",
+        "chineseName": "怪盗戒指",
+        "description": "Issued by Thief Union, this ring is said to increase agility and hiding efficiency.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_44018.png",
+        "name": "Rogue's Treasure [1]",
+        "chineseName": "怪盗戒指[1]",
+        "description": "Issued by Thief Union, this ring is said to increase agility and hiding efficiency.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Roguemaster's Bow [1]",
+        "chineseName": "盗贼之弓[1]",
+        "description": "Atk + 180",
+        "effect": "Dex ＋4,auto attack has a chance to trigger [Archery Proficient]. [Archery Proficient]: Attack Spd ＋5%, Ranged Dmg ＋10%; the effect lasts 3 seconds."
+    },
+    {
+        "imgsrc": null,
+        "name": "Roguemaster's Bow [2]",
+        "chineseName": "盗贼之弓[2]",
+        "description": "Atk + 180",
+        "effect": "Dex ＋4,auto attack has a chance to trigger [Archery Proficient]. [Archery Proficient]: Attack Spd ＋5%, Ranged Dmg ＋10%; the effect lasts 3 seconds."
+    },
+    {
+        "imgsrc": null,
+        "name": "Romance Origami Blueprint",
+        "chineseName": "情谊千纸鹤图纸",
+        "description": "Oh the wondering, the shyness and the tension of making love letter origami ! !",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_48557.png",
+        "name": "Romantic Flower",
+        "chineseName": "花叶",
+        "description": "Keep small flowers and leaves in the mouth will make people feel happy and romantic.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_48557.png",
+        "name": "Romantic Flower Blueprint",
+        "chineseName": "花叶图纸",
+        "description": "Keep small flowers and leaves in the mouth will make people feel happy and romantic.",
+        "effect": ""
+    }
+]

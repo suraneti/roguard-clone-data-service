@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_500400.png",
+        "name": "Magic Trick Wand - Drops",
+        "chineseName": "恶作剧魔棒-土波利",
+        "description": "The ancient Witches enjoys teasing those who trespass on their territory. This wand can turn those poor people into a frog or. . .",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_500400.png",
+        "name": "Magic Trick Wand - Marin",
+        "chineseName": "恶作剧魔棒-冰波利",
+        "description": "The ancient Witches enjoys teasing those who trespass on their territory. This wand can turn those poor people into a frog or. . .",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_500400.png",
+        "name": "Magic Trick Wand - Poporing",
+        "chineseName": "恶作剧魔棒-波波利",
+        "description": "The ancient Witches enjoys teasing those who trespass on their territory. This wand can turn those poor people into a frog or. . .",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_500400.png",
+        "name": "Magic Trick Wand - Poring",
+        "chineseName": "恶作剧魔棒-波利",
+        "description": "The ancient Witches enjoys teasing those who trespass on their territory. This wand can turn those poor people into a frog or. . .",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Magic Wand-Beast",
+        "chineseName": "恶作剧魔杖（怪物）",
+        "description": "Magic Wand-Beast",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45118.png",
+        "name": "Magni's Cap",
+        "chineseName": "魔术无边帽",
+        "description": "Hat worn by Thor's son, Magny. It seems that Magny who inherited Thor's power is inside.",
+        "effect": "Def ＋6,INT ＋2"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45118.png",
+        "name": "Magni's Cap Blueprint",
+        "chineseName": "魔术无边帽图纸",
+        "description": "Hat worn by Thor's son, Magny. It seems that Magny who inherited Thor's power is inside.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45118.png",
+        "name": "Magni's Cap [1]",
+        "chineseName": "魔术无边帽[1]",
+        "description": "Hat of Magni, Thor's son. It contains Magni and Thor's power.",
+        "effect": "Def ＋6,INT ＋2"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Magnolia Card",
+        "chineseName": "魔锅蛋卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45031.png",
+        "name": "Magnolia Hat",
+        "chineseName": "魔锅蛋帽",
+        "description": "Due to the desert's heat, Peco Peco Egg became a ghost. The hat was made of the ghost, so it's not purely a fried egg.",
+        "effect": "Def ＋5,Stun Resistance ＋5%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45031.png",
+        "name": "Magnolia Hat [1]",
+        "chineseName": "魔锅蛋帽[1]",
+        "description": "Due to the desert's heat, Peco Peco Egg became a ghost. The hat was made of the ghost, so it's not purely a fried egg.",
+        "effect": "Def ＋5,Stun Resistance ＋5%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45031.png",
+        "name": "Magnolia Hat [1] Blueprint",
+        "chineseName": "魔锅蛋帽[1]图纸",
+        "description": "Due to the desert's heat, Peco Peco Egg became a ghost. The hat was made of the ghost, so it's not purely a fried egg.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45186.png",
+        "name": "Maiden Band",
+        "chineseName": "女仆发圈",
+        "description": "Accessories worn by cute maids.",
+        "effect": "Dmg to devil race ＋4%,Str ＋2"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45186.png",
+        "name": "Maiden Band [1]",
+        "chineseName": "女仆发圈[1]",
+        "description": "Accessories worn by cute maids.",
+        "effect": "Dmg to devil race ＋4%,Str ＋2"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45186.png",
+        "name": "Maiden Band [1] Blueprint",
+        "chineseName": "女仆发圈[1]图纸",
+        "description": "Accessories worn by cute maids.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Maiden's Gif Box",
+        "chineseName": "少女答谢礼盒",
+        "description": "\"Thanks to you, Incubus is finally asking me to attack the Novices together! So nervous, what should I choose for Weapons??\"——Gift from Orc Lady, you will gain Confession balloon*20 and chance to get one of the following items: Gold Medal*1, Seed of Mastela*1, Guild's Gift*10, Lightning Chain*2, Mora Coin*1",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40703.png",
+        "name": "Mailbreaker [2]",
+        "chineseName": "破甲短剑[2]",
+        "description": "A slender but pointed awl. It is easy to pierce the armor. If the opponent's defense ability is higher, it can carry out a more aggressive attack.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45072.png",
+        "name": "Majestic Goat",
+        "chineseName": "山羊头盔",
+        "description": "Headdress with goat horns on it. Deep religion meanings.",
+        "effect": "Str ＋5,When Refining 10, ignore Def ＋10%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45072.png",
+        "name": "Majestic Goat Blueprint",
+        "chineseName": "山羊头盔图纸",
+        "description": "Headdress with goat horns on it. Deep religion meanings.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45072.png",
+        "name": "Majestic Goat [1]",
+        "chineseName": "山羊头盔[1]",
+        "description": "Headdress with goat horns on it. Deep religion meanings.",
+        "effect": "Str ＋5,When Refining 10, ignore Def ＋10%"
+    }
+]

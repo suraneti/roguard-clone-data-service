@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40703.png",
+        "name": "Combat Knife [3]",
+        "chineseName": "战斗短剑[3]",
+        "description": "Knives specially used to kill enemies for the fighting purpose.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "ComeOn Reindeer",
+        "chineseName": "加油小鹿",
+        "description": "",
+        "effect": "Dex ＋3,AGI ＋3"
+    },
+    {
+        "imgsrc": null,
+        "name": "ComeOn Reindeer [1]",
+        "chineseName": "加油小鹿[1]",
+        "description": "\"Wait for him by opening the skylight, putting the socks by the bed, leaving the door unlocked. I was too excited to peep the result at night but fell asleep instead~ LaLaLa~ LaLaLaLa~ Red-nose Rudolph will pass my window tonight. Will stay for me this year? LaLaLa~LaLaLa~ Red-nose Rudolph carried a man. I want to see him before growing up. \"",
+        "effect": "Max HP ＋300,Move Spd ＋3%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41203.png",
+        "name": "Composite Bow",
+        "chineseName": "坎普兹弓",
+        "description": "A bow made of various materials can cause great injury which is its main feature.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41203.png",
+        "name": "Composite Bow [2]",
+        "chineseName": "坎普兹弓[2]",
+        "description": "A bow made of various materials can cause great injury which is its main feature.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Concert Invitation",
+        "chineseName": "音乐会邀请函",
+        "description": "My wishes, immortalized in ink and placed into your hands. I'm looking forward to meeting you again amid the music of my dreams.",
+        "effect": "Max HP +200,Job Exp From Monsters +2%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Concert Invitation Blueprint",
+        "chineseName": "音乐会邀请函图纸",
+        "description": "My wishes, immortalized in ink and placed into your hands. I'm looking forward to meeting you again amid the music of my dreams.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Concert Support Giftbox",
+        "chineseName": "音乐会应援礼盒",
+        "description": "To thank the audience for their enthusiasm, the organizers of the concert have prepared some gifts. It's not that big, but it's brimming with sincerity.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Condensed Blue Potion",
+        "chineseName": "蓝色纤细药水",
+        "description": "It is the highly qualified potion refined mainly from the Blue Potion and saved in a fine glass bottle.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Condensed Orange Potion",
+        "chineseName": "赤色纤细药水",
+        "description": "It is the highly qualified potion refined mainly from the Orange Potion and saved in a fine glass bottle.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Condensed Red Potion",
+        "chineseName": "红色纤细药水",
+        "description": "It is the highly qualified potion refined mainly from the Red Potion and saved in a fine glass bottle.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Condensed White Potion",
+        "chineseName": "白色纤细药水",
+        "description": "It is the highly qualified potion refined mainly from the White Potion and saved in a fine glass bottle.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Condensed Yellow Potion",
+        "chineseName": "黄色纤细药水",
+        "description": "It is the highly qualified potion refined mainly from the Yellow Potion and saved in a fine glass bottle.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Cookie Card",
+        "chineseName": "甜饼人卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Corgi Skin",
+        "chineseName": "柯基皮肤",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Cornus Card",
+        "chineseName": "飞马卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45048.png",
+        "name": "Corolla Blueprint",
+        "chineseName": "花冠图纸",
+        "description": "A flower hat. It shows the feeling of puppy love between young girls and boys.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45024.png",
+        "name": "Coronet",
+        "chineseName": "黄金冠冕",
+        "description": "Beautiful hat with strange patterns. It looks smart when you wear it.",
+        "effect": "Int ＋3,When Refining ＋10, extra vitality ＋3"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45024.png",
+        "name": "Coronet Blueprint",
+        "chineseName": "黄金冠冕图纸",
+        "description": "Beautiful hat with strange patterns. It looks smart when you wear it.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45024.png",
+        "name": "Coronet [1]",
+        "chineseName": "黄金冠冕[1]",
+        "description": "Beautiful hat with strange patterns. It looks smart when you wear it.",
+        "effect": "Int ＋3,When Refining ＋10, extra vitality ＋3"
+    }
+]

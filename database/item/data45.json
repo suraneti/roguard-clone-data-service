@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45016.png",
+        "name": "Corsair",
+        "chineseName": "海盗船长帽",
+        "description": "Big hat worn by the pirate captain. It's reserved to use for the pirate captain, which gives people an authoritarian feeling.",
+        "effect": "VIT ＋3,When Refining ＋10, Max HP ＋10%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45016.png",
+        "name": "Corsair [1]",
+        "chineseName": "海盗船长帽[1]",
+        "description": "Big hat worn by the pirate captain. It's reserved to use for the pirate captain, which gives people an authoritarian feeling.",
+        "effect": "VIT ＋3,When Refining ＋10, Max HP ＋10%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45016.png",
+        "name": "Corsair [1] Blueprint",
+        "chineseName": "海盗船长帽[1]图纸",
+        "description": "Big hat worn by the pirate captain. It's reserved to use for the pirate captain, which gives people an authoritarian feeling.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_111.png",
+        "name": "Costume Collection",
+        "chineseName": "时装合集",
+        "description": "Open to get all the Costume and their corresponding headwears released so far",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43026.png",
+        "name": "Cotton Shirt",
+        "chineseName": "棉衬衫",
+        "description": "Clothes made of pure cotton , very comfortable in wearing.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43026.png",
+        "name": "Cotton Shirt [1]",
+        "chineseName": "棉衬衫[1]",
+        "description": "Clothes made of pure cotton , very comfortable in wearing.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Cramp Card",
+        "chineseName": "蓝鼠卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Creamy Card",
+        "chineseName": "克瑞米卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Creamy Wing",
+        "chineseName": "克瑞米翅膀",
+        "description": "Creamy Wing",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Creamy Wing Blueprint",
+        "chineseName": "克瑞米翅膀图纸",
+        "description": "Creamy Wing",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41201.png",
+        "name": "Creeper Bow [2]",
+        "chineseName": "束缚之弓[2]",
+        "description": "The bow made of the hard vine stems of the magic world can emit cobweb to trap the enemy.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41201.png",
+        "name": "Creeper Bow [3]",
+        "chineseName": "束缚之弓[3]",
+        "description": "The bow made of the hard vine stems of the magic world can emit cobweb to trap the enemy.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40005.png",
+        "name": "Crescent Scythe (Baphomet only)",
+        "chineseName": "死神之镰(巴风特专属)",
+        "description": "Baphomet's favorite weapon that strikes fear into enemy's heart.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Crescent Scythe [1]",
+        "chineseName": "死神之镰[1]",
+        "description": "The huge full-moon sickle is a horror for humans.",
+        "effect": "Hit ＋30,For Refining ＋2, Adjusted value ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Crescent Scythe [2]",
+        "chineseName": "死神之镰[2]",
+        "description": "The huge full-moon sickle is a horror for humans.",
+        "effect": "Hit ＋30,For Refining ＋2, Adjusted value ＋5%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45110.png",
+        "name": "Cresent Hairpin",
+        "chineseName": "上弦月发夹",
+        "description": "Hair clip made according to the shape of the first quarter moon. It gives people a sense of hope because it looks like running towards full moon.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45110.png",
+        "name": "Cresent Hairpin Blueprint",
+        "chineseName": "上弦月发夹图纸",
+        "description": "Hair clip made according to the shape of the first quarter moon. It gives people a sense of hope because it looks like running towards full moon.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45110.png",
+        "name": "Cresent Hairpin [1]",
+        "chineseName": "上弦月发夹[1]",
+        "description": "Hair clip made according to the shape of the first quarter moon. It gives people a sense of hope because it looks like running towards full moon.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Crimson Staff [1]",
+        "chineseName": "赤红之杖[1]",
+        "description": "A staff with the force of burning fire.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Crimson Staff [2]",
+        "chineseName": "赤红之杖[2]",
+        "description": "A staff with the force of burning fire.",
+        "effect": ""
+    }
+]

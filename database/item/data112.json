@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40703.png",
+        "name": "Ice Pick [3]",
+        "chineseName": "破甲短锥[3]",
+        "description": "The mobster has been in trouble lately because other professional adventurers always misunderstand that they are fighting with screwdrivers",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Ice Poring Clip",
+        "chineseName": "冰波利发夹",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Ice Poring Clip Blueprint",
+        "chineseName": "冰波利发夹图纸",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Ice Poring Clip [1]",
+        "chineseName": "冰波利发夹[1]",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Ice Powder",
+        "chineseName": "冰之粉末",
+        "description": "Mysterious Ice Magic. It will exhale cold powders, so please be careful in case of congelation.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Ice Resist Alloy",
+        "chineseName": "寒冰抗性合金",
+        "description": "Reduces ice damage by 50% for 5min. Cannot work with Fire/Hurricane/Earth Alloy effects.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Icy Brand",
+        "chineseName": "冰雪烙印",
+        "description": "",
+        "effect": "Water Dmg ＋10%,Every 15 seconds, set enemies in a 2-meter range into frozen state"
+    },
+    {
+        "imgsrc": null,
+        "name": "Icy Brand Blueprint",
+        "chineseName": "冰雪烙印图纸",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Icy Party Card",
+        "chineseName": "冰雪派对卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Idol's Support Drink·Blue",
+        "chineseName": "偶像应援饮料·文静蓝",
+        "description": "Delicious snacks from the other world. INT ＋ 10, Magic Dam ＋20%, For 30 min. (The effect cannot be stacked with Int food)",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Idol's Support Drink·Brown",
+        "chineseName": "偶像应援饮料·稳重褐",
+        "description": "Delicious snacks from the other world. VIT ＋ 10, MaxHP ＋ 1000, effect lasts 30 minutes. (Can't be stacked with VIT Food)",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Idol's Support Drink·Green",
+        "chineseName": "偶像应援饮料·治愈青",
+        "description": "Delicious snacks from the other world. DEX ＋ 10, LongRange Dam ＋20%, For 30 min. (The effect cannot be stacked with Dex food)",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Idol's Support Drink·Pink",
+        "chineseName": "偶像应援饮料·青春粉",
+        "description": "Delicious snacks from the other world. AGI ＋ 10, Attack Spd ＋20%, For 30 min. (The effect cannot be stacked with Agi food)",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Idol's Support Drink·Red",
+        "chineseName": "偶像应援饮料·热情红",
+        "description": "Delicious snacks from the other world. STR ＋ 10, Melee Dam ＋20%, For 30 min. (The effect cannot be stacked with food STR)",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Idol's Support Drink·Yellow",
+        "chineseName": "偶像应援饮料·耀眼黄",
+        "description": "Delicious snacks from the other world. LUK ＋ 10, Cri ＋20, For 30 min. (The effect cannot be stacked with lucky food)",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Idol's Will",
+        "chineseName": "偶像的心意",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Ignus Steel [1]",
+        "chineseName": "烈焰战斧[1]",
+        "description": "The giant Two-Handed Axe is said to be made by a blacksmith living in a volcano and is said to be boiling-hot.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Ignus Steel [2]",
+        "chineseName": "烈焰战斧[2]",
+        "description": "The giant Two-Handed Axe is said to be made by a blacksmith living in a volcano and is said to be boiling-hot.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40301.png",
+        "name": "Immaterial Sword[2]",
+        "chineseName": "圣剑混沌[2]",
+        "description": "A formless sword with Psychokinesis Attributes. It can disturb the mind of the enemy.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40301.png",
+        "name": "Immaterial Sword[3]",
+        "chineseName": "圣剑混沌[3]",
+        "description": "A formless sword with Psychokinesis Attributes. It can disturb the mind of the enemy.",
+        "effect": ""
+    }
+]

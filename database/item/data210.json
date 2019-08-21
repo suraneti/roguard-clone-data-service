@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43535.png",
+        "name": "Staunch Shoes",
+        "chineseName": "坚定战靴",
+        "description": "Simplicity and angled design make boots users believe that their will grows stronger.",
+        "effect": "Move Spd ＋2%,Max HP ＋ (Base Lv×10)"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43535.png",
+        "name": "Staunch Shoes [1]",
+        "chineseName": "坚定战靴[1]",
+        "description": "Simplicity and angled design make boots users believe that their will grows stronger.",
+        "effect": "Move Spd ＋2%,Max HP ＋ (Base Lv×10)"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_47022.png",
+        "name": "Steam Goblin Bag",
+        "chineseName": "喷射哥布灵背包",
+        "description": "The clockwork spring is winding around the spring box. The main transmission gear is in circular shape. After being ignited, the machine will make a loud mechanical sound which is very upbeat! That's the technology! We're so proud!",
+        "effect": "Bag Slot ＋10,Dmg to Demi-Human ＋2%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_47022.png",
+        "name": "Steam Goblin Bag Blueprint",
+        "chineseName": "喷射哥布灵背包图纸",
+        "description": "The clockwork spring is winding around the spring box. The main transmission gear is in circular shape. After being ignited, the machine will make a loud mechanical sound which is very upbeat! That's the technology! We're so proud!",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Steam Goblin Card",
+        "chineseName": "喷射哥布灵卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_52402.png",
+        "name": "Steel",
+        "chineseName": "钢铁",
+        "description": "After soaking the iron a few times, a special potion can make it stronger, Granting the manufactured weapon or armor higher hardness.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41829.png",
+        "name": "Steel Axe",
+        "chineseName": "钢手斧",
+        "description": "A corrosion-resistant metal axe.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41829.png",
+        "name": "Steel Axe [2]",
+        "chineseName": "钢手斧[2]",
+        "description": "A corrosion-resistant metal axe.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41832.png",
+        "name": "Steel Battle Axe",
+        "chineseName": "钢战斧",
+        "description": "A military axe made of durable steel.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41832.png",
+        "name": "Steel Battle Axe [2]",
+        "chineseName": "钢战斧[2]",
+        "description": "A military axe made of durable steel.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Steel Ice",
+        "chineseName": "钢铁绵绵冰",
+        "description": "Ice drink added with strength fortifier, the soft taste is much impressive. Eating it decreases all magic damage you suffer to 1 point, the effect lasts 8 seconds. All ice drinks share 1-min CD, and can only be used on PVP maps.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41534.png",
+        "name": "Steel Staff",
+        "chineseName": "钢制权杖",
+        "description": "A steel staff. It has good conductivity when releasing certain magic.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41534.png",
+        "name": "Steel Staff [2]",
+        "chineseName": "钢制权杖[2]",
+        "description": "A steel staff. It has good conductivity when releasing certain magic.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40304.png",
+        "name": "Steel Sword",
+        "chineseName": "钢制长剑",
+        "description": "The long Sword made of fine steel is with a massive handfeel.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40304.png",
+        "name": "Steel Sword [2]",
+        "chineseName": "钢制长剑[2]",
+        "description": "The long Sword made of fine steel is with a massive handfeel.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45052.png",
+        "name": "Stellar",
+        "chineseName": "星星发夹",
+        "description": "Stellar. It shines beautifully.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45052.png",
+        "name": "Stellar Blueprint",
+        "chineseName": "星星发夹图纸",
+        "description": "Stellar. It shines beautifully.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45052.png",
+        "name": "Stellar Hairpin",
+        "chineseName": "宠物发夹",
+        "description": "A star-shaped hairpin.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45052.png",
+        "name": "Stellar Hairpin Blueprint",
+        "chineseName": "宠物发夹图纸",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Stellar Headwear",
+        "chineseName": "辰耀系列头饰",
+        "description": "",
+        "effect": "M.Atk ＋3%,Dmg to Demi-Human ＋3%"
+    }
+]

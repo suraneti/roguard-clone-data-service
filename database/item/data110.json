@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": null,
+        "name": "HP Potion Blueprint",
+        "chineseName": "生命药瓶图纸",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "HP Potion [1]",
+        "chineseName": "生命药瓶[1]",
+        "description": "",
+        "effect": "Dex ＋3,AGI ＋3"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41830.png",
+        "name": "Huge Axe",
+        "chineseName": "巨型手斧",
+        "description": "It takes some time to adjust to its weight while using it.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41830.png",
+        "name": "Huge Axe [2]",
+        "chineseName": "巨型手斧[2]",
+        "description": "It takes some time to adjust to its weight while using it.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Hunter Badge",
+        "chineseName": "猎人徽章",
+        "description": "Hunter Badge.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Hunter Fly Card",
+        "chineseName": "赤苍蝇卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Hurricane Controlling Alloy",
+        "chineseName": "飓风掌控合金",
+        "description": "Increases wind M.Dmg/Dmg by 15% for 6 min. Becomes immune to 1 of the 4 immune alloys for 10 min: Fire/Ice/Hurricane/Earth. Cannot work with 4 mastery alloys.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Hurricane Fury [1]",
+        "chineseName": "狂怒_飓风[1]",
+        "description": "The giant Two-Handed Axe in the shape of hurricane. The center of the axe holds hurricane Str. The stronger the weapon, the stronger the Str.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Hurricane Fury [2]",
+        "chineseName": "狂怒_飓风[2]",
+        "description": "The giant Two-Handed Axe in the shape of hurricane. The center of the axe holds hurricane Str. The stronger the weapon, the stronger the Str.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Hurricane Immunity Alloy",
+        "chineseName": "飓风免疫合金",
+        "description": "Immune to all Wind Damage for 1 min. Becomes immune to 1 of the 4 immune alloys for 5 min: Fire/Ice/Hurricane/Earth.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Hurricane Mastery Alloy",
+        "chineseName": "飓风精通合金",
+        "description": "Increases wind M.Dmg/Dmg by 5% for 30 min. Cannot work with Fire/Ice/Earth Mastery Alloy. Cannot work with 4 mastery alloys.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Hurricane Resist Alloy",
+        "chineseName": "飓风抗性合金",
+        "description": "Reduces hurricane damage by 50% for 5min. Cannot work with Ice/Earth/Fire Alloy effects.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Hyacinth Light Camel",
+        "chineseName": "风信子·浅驼",
+        "description": "Use to redeem job Costume Hyacinth Light Camel at \"Prontera\" Costume shop",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Hydra",
+        "chineseName": "海德拉",
+        "description": "Legend has it that after Hercules has killed Hydra, he made the sea monster's head into a trophy to prevent its rebirth.",
+        "effect": "INT ＋8,M.Atk ＋15"
+    },
+    {
+        "imgsrc": null,
+        "name": "Hydra Blueprint",
+        "chineseName": "海德拉图纸",
+        "description": "Legend has it that after Hercules has killed Hydra, he made the sea monster's head into a trophy to prevent its rebirth.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Hydra Card",
+        "chineseName": "海葵卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Hydrangea Hairpin",
+        "chineseName": "紫阳花发髻",
+        "description": "Dear player, Today is your fiftieth time of falling in love this year. On this wonderful day, Let me give you this headpiece made of blue sun flowers. (thank you very much for your purchase. This beautiful ornament is unavailable on the exchange during the activity, the transaction will be normal after the period. By Ina, July 2017.)",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Hyegun Card",
+        "chineseName": "妖君卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45171.png",
+        "name": "Hyegun Hat",
+        "chineseName": "妖君帽",
+        "description": "Monster Hyegun's hat. Broken but with strong Def.",
+        "effect": "Def ＋5,Dmg Reduc. of devil race ＋10%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45171.png",
+        "name": "Hyegun Hat [1]",
+        "chineseName": "妖君帽[1]",
+        "description": "Monster Hyegun's hat. Broken but with strong Def.",
+        "effect": "Def ＋5,Dmg Reduc. of devil race ＋10%"
+    }
+]

@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40620.png",
+        "name": "Wizardry Staff [2]",
+        "chineseName": "大巫师之杖[2]",
+        "description": "It is said that the cane was made by a Archmage. Its power is similar to the power of God.",
+        "effect": "Int ＋3,[Wizardry Staff VIII] ＋ [Robe of Cast VIII] ＋ [Eye of Dullahan VIII] ＋ [Crystal Pumps IV]: －5% CT Variable, ＋3% M.Dmg, ＋3% Ignore MDef"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Wolf Card",
+        "chineseName": "狼卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Woman's Moustache",
+        "chineseName": "女人的胡须",
+        "description": "This collection of female beards must surely have come from a manly woman.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Wonderful Time Giftbox",
+        "chineseName": "缤纷时光礼盒",
+        "description": "A giftbox that filled with memories, all the goodies will turn into priceless loot. It will be shining as the time goes on!",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Wood Goblin Card",
+        "chineseName": "枯树精卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Wooden Helmet",
+        "chineseName": "木头头盔",
+        "description": "A knight's helmet made from hollowed wood can protect against minor attacks but cannot be used to cook!!",
+        "effect": "Max SP ＋50,M.Atk ＋10"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42026.png",
+        "name": "Wooden Mail",
+        "chineseName": "木制铠甲",
+        "description": "An armor made of wood .",
+        "effect": "Str ＋2,VIT ＋1"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42026.png",
+        "name": "Wooden Mail [1]",
+        "chineseName": "木制铠甲[1]",
+        "description": "The armor made from wood boards through simple treatment, only with the basic defensive power.",
+        "effect": "Str ＋2,VIT ＋1"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Wormtail Card",
+        "chineseName": "森灵卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Wraith Card",
+        "chineseName": "恶灵卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_52318.png",
+        "name": "Wrapping Lace",
+        "chineseName": "缎带",
+        "description": "Being a very rare item, it can be used to make high-end headwear.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Year (abandoned)",
+        "chineseName": "异兽·年（弃用）",
+        "description": "A pet dye popular during the Spring Festival, seemingly it can be used on Year..",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Year Beast Doll",
+        "chineseName": "年兽娃娃",
+        "description": "A Beast that been enchanted, it used to be a scary monster but now it is surprisingly cute. After putting it on, you will be save during the New Year's eve.",
+        "effect": "Dmg to MVP, Mini monsters ＋6%,Dmg received from MVP, Mini monsters －6%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Year Card",
+        "chineseName": "年卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_3027.png",
+        "name": "Year Loot",
+        "chineseName": "年兽的战利品",
+        "description": "In Eastern legend, a special reward is given to those who defeat the beast that invades the village on New year's Eve. (Use it to receive a certain number of Zeny)",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Year of the Dog Card",
+        "chineseName": "戌之犬卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Year·Dark Gold",
+        "chineseName": "异兽·年·暗金",
+        "description": "A pet dye popular during the Spring Festival, seemingly it can be used on Year..",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Year·Gemstone Green",
+        "chineseName": "异兽·年·碧青",
+        "description": "A pet dye popular during the Spring Festival, seemingly it can be used on Year..",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Year·Glittering Gold",
+        "chineseName": "异兽·年·闪金",
+        "description": "A pet dye popular during the Spring Festival, seemingly it can be used on Year..",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Year·Scorching Sun",
+        "chineseName": "异兽·年·炎阳",
+        "description": "A pet dye popular during the Spring Festival, seemingly it can be used on Year..",
+        "effect": ""
+    }
+]

@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_3620.png",
+        "name": "Christmas Blessing Chest",
+        "chineseName": "圣诞祝福礼盒",
+        "description": "A loving Christmas Chest. Open it to receive a mysterious gift.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Christmas Chest",
+        "chineseName": "圣蛋",
+        "description": "A loving Christmas Chest. Open it to receive a mysterious gift.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_3038.png",
+        "name": "Christmas Chest",
+        "chineseName": "圣诞礼盒",
+        "description": "The package received by completing chest quest in Gingerbread City. Open it to find Snowman, Edelweiss and other materials, with a small probability to find normal Blueprint.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Christmas Costume Chest (Female)",
+        "chineseName": "圣诞恋歌礼盒（女）",
+        "description": "Christmas Fashion Package launched by Kafra and Gingerbread City, with small gifts in it. (These fashion clothes are only for female)",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Christmas Costume Chest (Male)",
+        "chineseName": "圣诞恋歌礼盒（男）",
+        "description": "Christmas Fashion Package launched by Kafra and Gingerbread City, with small gifts in it. (These fashion clothes are only for male)",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Christmas Crown Headwear series",
+        "chineseName": "圣诞王冠系列头饰",
+        "description": "After wearing this, you will be the happiest prince or princess in this period of the year!",
+        "effect": "Atk ＋3%,M.Atk ＋3%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Christmas Eggyra",
+        "chineseName": "圣诞红色转蛋",
+        "description": "Eggyra blessed by god. It gives you a warm Christmas night.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Christmas Eve Card",
+        "chineseName": "圣诞夜祝福卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Christmas Garland",
+        "chineseName": "圣诞花环",
+        "description": "Wreath weaved from evergreen branches. Bell sound came from afar.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Christmas Headwear Crown·Brown",
+        "chineseName": "圣诞王冠·摩卡棕",
+        "description": "After wearing this, you will be the happiest prince or princess in this period of the year! The heartwarming Moca Brown is the nice color of the world!",
+        "effect": "Atk ＋3%,M.Atk ＋3%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Christmas Headwear Crown·Green",
+        "chineseName": "圣诞王冠·青林绿",
+        "description": "After wearing this, you will be the happiest prince or princess in this period of the year! The fashionate forest green is the most vivid color of the world!",
+        "effect": "Atk ＋3%,M.Atk ＋3%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Christmas Headwear Crown·Red",
+        "chineseName": "圣诞王冠·圣诞红",
+        "description": "After wearing this, you will be the happiest prince or princess in this period of the year! The bright Christmas red is the most passionate color of the world!",
+        "effect": "Atk ＋3%,M.Atk ＋3%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Christmas Headwear Crown·White",
+        "chineseName": "圣诞王冠·月光白",
+        "description": "After wearing this, you will be the happiest prince or princess in this period of the year! The elegant moonlight white is the purest color of the world!",
+        "effect": "Atk ＋3%,M.Atk ＋3%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Christmas Horn",
+        "chineseName": "圣诞角",
+        "description": "",
+        "effect": "Luk ＋2,Atk ＋5"
+    },
+    {
+        "imgsrc": null,
+        "name": "Christmas Horn Blueprint",
+        "chineseName": "圣诞角图纸",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Christmas Horn [1]",
+        "chineseName": "圣诞角[1]",
+        "description": "",
+        "effect": "Luk ＋2,Atk ＋5"
+    },
+    {
+        "imgsrc": null,
+        "name": "Christmas Pack",
+        "chineseName": "圣诞礼物袋",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Christmas Pack Blueprint",
+        "chineseName": "圣诞礼物袋图纸",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Christmas Pack [1]",
+        "chineseName": "圣诞礼物袋[1]",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Christmas Propeller",
+        "chineseName": "圣诞竹蜻蜓",
+        "description": "",
+        "effect": ""
+    }
+]

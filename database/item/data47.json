@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45046.png",
+        "name": "Crown [1] Blueprint",
+        "chineseName": "王冠[1]图纸",
+        "description": "It makes people more sober with this crown, which has the magic to restore spirit power.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Cruiser Card",
+        "chineseName": "玩具士兵卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Crusader Sword",
+        "chineseName": "十字军佩剑",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12503.png",
+        "name": "Crystal Arrow",
+        "chineseName": "水灵箭矢",
+        "description": "Arrow made of crystals. Own the Str of water.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_5100.png",
+        "name": "Crystal Blue",
+        "chineseName": "水灵矿石",
+        "description": "A small blue ore. It has water attribute and can be made into Mystic Frozen after extraction.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Crystal Bone",
+        "chineseName": "水晶骨",
+        "description": "Bone crystals found in magical caverns. Emits a frigid aura.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_52316.png",
+        "name": "Crystal Mirror",
+        "chineseName": "水晶镜子",
+        "description": "A mirror made of crystal is a must-have item for women wanting to dress up. It is more advanced than a mirror made of glass. Being a very rare item, it can be used to make high-end headwear.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43524.png",
+        "name": "Crystal Pumps",
+        "chineseName": "水晶靴",
+        "description": "The boots made from rare crystals, Exquisite and mysterious. The user will show extraordinary elegance.",
+        "effect": "INT ＋5,[Wizardry Staff VIII] ＋ [Robe of Cast VIII] ＋ [Eye of Dullahan VIII] ＋ [Crystal Pumps IV]: －5% CT Variable, ＋3% M.Dmg, ＋3% Ignore MDef"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43524.png",
+        "name": "Crystal Pumps [1]",
+        "chineseName": "水晶靴[1]",
+        "description": "The boots made from rare crystals, Exquisite and mysterious. The user will show extraordinary elegance.",
+        "effect": "INT ＋5,[Wizardry Staff VIII] ＋ [Robe of Cast VIII] ＋ [Eye of Dullahan VIII] ＋ [Crystal Pumps IV]: －5% CT Variable, ＋3% M.Dmg, ＋3% Ignore MDef"
+    },
+    {
+        "imgsrc": null,
+        "name": "Cuckoo",
+        "chineseName": "布谷布谷",
+        "description": "",
+        "effect": "Max HP ＋400,Ignore Def ＋2%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Cuckoo Blueprint",
+        "chineseName": "布谷布谷图纸",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Cuckoo [1]",
+        "chineseName": "布谷布谷[1]",
+        "description": "",
+        "effect": "Max HP ＋400,Ignore Def ＋2%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_111.png",
+        "name": "Cuisine Association random item pack",
+        "chineseName": "料理协会随机道具包",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_48521.png",
+        "name": "Cultish Masque",
+        "chineseName": "圣殿士面具",
+        "description": "The mask used by High Priest can be purchased from collectors.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_48521.png",
+        "name": "Cultish Masque Blueprint",
+        "chineseName": "圣殿士面具图纸",
+        "description": "The mask used by High Priest can be purchased from collectors.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Cursed Lyre [1]",
+        "chineseName": "诅咒之弓[1]",
+        "description": "The Cursed Lyre can make the person who gets shot painful to death.",
+        "effect": "Agi ＋5,[Cursed Lyre IV] ＋[Ranger Clothes IV]: improve the influence of Atk on Falcon's Atk"
+    },
+    {
+        "imgsrc": null,
+        "name": "Cursed Lyre [2]",
+        "chineseName": "诅咒之弓[2]",
+        "description": "The Cursed Lyre can make the person who gets shot painful to death.",
+        "effect": "Agi ＋5,[Cursed Lyre IV] ＋[Ranger Clothes IV]: improve the influence of Atk on Falcon's Atk"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_52314.png",
+        "name": "Cursed Ruby",
+        "chineseName": "诅咒红宝石",
+        "description": "Dark Glowing Gem. It has an extraordinary mysterious power. Being a very rare item, it can be used to make high-end headwear.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Cute Bear",
+        "chineseName": "暖心熊妹妹",
+        "description": "Cute Bear is a stuffed teddy bear for children to play with. It is often used to comfort sad children. Having a bear will bring you a warm sense of happiness. Designer: Watanabe",
+        "effect": "All Attributes ＋1,Become a Scenery! Wear [Cute Bear] to become a Scenery yourself. Adventurers who take photo of it will unlock the event Scenery \"Next Stop: Happiness\"!"
+    },
+    {
+        "imgsrc": null,
+        "name": "Cute Bear [1]",
+        "chineseName": "暖心熊妹妹[1]",
+        "description": "Cute Bear is a stuffed teddy bear for children to play with. It is often used to comfort sad children. Having a bear will bring you a warm sense of happiness. Designer: Watanabe",
+        "effect": "All Attributes ＋1,Become a Scenery! Wear [Cute Bear] to become a Scenery yourself. Adventurers who take photo of it will unlock the event Scenery \"Next Stop: Happiness\"!"
+    }
+]

@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_3002.png",
+        "name": "Lv30 Autumn Chest",
+        "chineseName": "30级秋日成长礼盒",
+        "description": "Autumn Test Limited Growth Chest (available for use at Lv.30), which contains Zeny x5000, Skill Reset Rod x1, Eternal Rock x1, Lightning Chain x1, Leaf of Yggdrasil x2, Blue Potion x20, Belief Token x5, Lv.30 Job Weapon x1.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_3610.png",
+        "name": "Lv99 Growth Pack",
+        "chineseName": "99级成长背包",
+        "description": "Growth Pack limited to Novice (you can use after reaching Lv99). Open it and you will get Zeny x 100000, Random Collection-Blue Card x 1, Yggdrasil Berry x 20, Mithril Stone x 10, Random Dead Branch (MVP) x 1 and Random Dead Branch (MINI) x 5.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41529.png",
+        "name": "Mace",
+        "chineseName": "铁锤",
+        "description": "A mace with a chain atop.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Mace of Judgment [1]",
+        "chineseName": "审判之锤[1]",
+        "description": "It has a Maces force against devil. I guess even Morroc can not take it.",
+        "effect": "INT ＋6,＋20% [Adoramus] multiplier for each refining level gained after reaching refining ＋5 (up to 200%)"
+    },
+    {
+        "imgsrc": null,
+        "name": "Mace of Judgment [2]",
+        "chineseName": "审判之锤[2]",
+        "description": "It has a Maces force against devil. I guess even Morroc can not take it.",
+        "effect": "INT ＋6,＋20% [Adoramus] multiplier for each refining level gained after reaching refining ＋5 (up to 200%)"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41529.png",
+        "name": "Mace [2]",
+        "chineseName": "铁锤[2]",
+        "description": "An unbaptized iron scepter.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Mad Hat",
+        "chineseName": "疯帽子",
+        "description": "The girl jumped into the hole with the rabbit, and met an important person. The gentleman gracefully saluted the girl.",
+        "effect": "Atk ＋20,Max HP ＋150"
+    },
+    {
+        "imgsrc": null,
+        "name": "Mad Hat Blueprint",
+        "chineseName": "疯帽子图纸",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Mad Hat [1]",
+        "chineseName": "疯帽子[1]",
+        "description": "",
+        "effect": "Atk ＋20,Max HP ＋150"
+    },
+    {
+        "imgsrc": null,
+        "name": "Mado helm·Berry",
+        "chineseName": "魔导头盔·浆果",
+        "description": "Whitesmith workshop invited Kafra Co.'s famous designer Enos to build a Mado helm set for the Mechanics, this design suits Rosy purple Mecha well.",
+        "effect": "Max HP ＋200,M.Def ＋5"
+    },
+    {
+        "imgsrc": null,
+        "name": "Mado helm·Cheetah",
+        "chineseName": "魔导头盔·猎豹",
+        "description": "Whitesmith workshop invited Kafra Co.'s famous designer Enos to build a Mado helm set for the Mechanics, this design suits Orange Mecha well.",
+        "effect": "Max HP ＋200,M.Def ＋5"
+    },
+    {
+        "imgsrc": null,
+        "name": "Mado helm·Deep blue",
+        "chineseName": "魔导头盔·深海",
+        "description": "Whitesmith workshop invited Kafra Co.'s famous designer Enos to build a Mado helm set for the Mechanics, this design suits Mazarine Mecha well.",
+        "effect": "Max HP ＋200,M.Def ＋5"
+    },
+    {
+        "imgsrc": null,
+        "name": "Mado helm·Earth",
+        "chineseName": "魔导头盔·大地",
+        "description": "Whitesmith workshop invited Kafra Co.'s famous designer Enos to build a Mado helm set for the Mechanics, this design suits Brown Mecha well.",
+        "effect": "Max HP ＋200,M.Def ＋5"
+    },
+    {
+        "imgsrc": null,
+        "name": "Mado helm·Glacier",
+        "chineseName": "魔导头盔·冰河",
+        "description": "Whitesmith workshop invited Kafra Co.'s famous designer Enos to build a Mado helm set for the Mechanics, this design suits Blue Mecha well.",
+        "effect": "Max HP ＋200,M.Def ＋5"
+    },
+    {
+        "imgsrc": null,
+        "name": "Mado helm·Guards",
+        "chineseName": "魔导头盔·守卫",
+        "description": "Whitesmith workshop invited Kafra Co.'s famous designer Enos to build a Mado helm set for the Mechanics, this design suits Beige Mecha well.",
+        "effect": "Max HP ＋200,M.Def ＋5"
+    },
+    {
+        "imgsrc": null,
+        "name": "Mado helm·Hades",
+        "chineseName": "魔导头盔·冥黑",
+        "description": "Whitesmith workshop invited Kafra Co.'s famous designer Enos to build a Mado helm set for the Mechanics, this design suits Black Mecha well.",
+        "effect": "Max HP ＋200,M.Def ＋5"
+    },
+    {
+        "imgsrc": null,
+        "name": "Mado helm·Holy light",
+        "chineseName": "魔导头盔·圣光",
+        "description": "Whitesmith workshop invited Kafra Co.'s famous designer Enos to build a Mado helm set for the Mechanics, this design suits Yellow Mecha well.",
+        "effect": "Max HP ＋200,M.Def ＋5"
+    },
+    {
+        "imgsrc": null,
+        "name": "Mado helm·Jungle berry",
+        "chineseName": "魔导头盔·莓果",
+        "description": "Whitesmith workshop invited Kafra Co.'s famous designer Enos to build a Mado helm set for the Mechanics, this design suits Rosy red Mecha well.",
+        "effect": "Max HP ＋200,M.Def ＋5"
+    },
+    {
+        "imgsrc": null,
+        "name": "Mado helm·King",
+        "chineseName": "魔导头盔·王者",
+        "description": "Whitesmith workshop invited Kafra Co.'s famous designer Enos to build a Mado helm set for the Mechanics, this design suits purple Mecha well.",
+        "effect": "Max HP ＋200,M.Def ＋5"
+    },
+    {
+        "imgsrc": null,
+        "name": "Mado helm·Mint",
+        "chineseName": "魔导头盔·薄荷",
+        "description": "Whitesmith workshop invited Kafra Co.'s famous designer Enos to build a Mado helm set for the Mechanics, this design suits Light blue Mecha well.",
+        "effect": "Max HP ＋200,M.Def ＋5"
+    }
+]

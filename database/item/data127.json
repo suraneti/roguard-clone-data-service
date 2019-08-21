@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Light Saint Armor",
+        "chineseName": "光明圣徒之铠",
+        "description": "The whitesmith of hymn church, Andrew, Known as \"Light Saint\", Designed this costume for brave warriors. With excellent defensive force, it had no name at the beginning but all warriors love it very much, so they named it by Andrew - \"Light Saint\". This is the armor of \"Light Saint\" suit. Blessed by Light Saint, the cost of refining is reduced by half.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Light Saint Armor [1]",
+        "chineseName": "光明圣徒之铠[1]",
+        "description": "The whitesmith of hymn church, Andrew, Known as \"Light Saint\", Designed this costume for brave warriors. With excellent defensive force, it had no name at the beginning but all warriors love it very much, so they named it by Andrew - \"Light Saint\". This is the armor of \"Light Saint\" suit. Blessed by Light Saint, the cost of refining is reduced by half.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Light Saint Cape",
+        "chineseName": "光明圣徒披风",
+        "description": "The whitesmith of hymn church, Andrew, Known as \"Light Saint\", Designed this costume for brave warriors. With excellent defensive force, it had no name at the beginning but all warriors love it very much, so they named it by Andrew - \"Light Saint\". This is the cloak of \"Light Saint\" suit. Blessed by Light Saint, the cost of refining is reduced by half.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Light Saint Cape [1]",
+        "chineseName": "光明圣徒披风[1]",
+        "description": "The whitesmith of hymn church, Andrew, Known as \"Light Saint\", Designed this costume for brave warriors. With excellent defensive force, it had no name at the beginning but all warriors love it very much, so they named it by Andrew - \"Light Saint\". This is the cloak of \"Light Saint\" suit. Blessed by Light Saint, the cost of refining is reduced by half.",
+        "effect": "M.Def ＋40,When being attacked by auto attacks or skills, has a 50% chance to gain a 50% Magic Reduc., but Def will be reduced by 50%, lasting for 10 seconds"
+    },
+    {
+        "imgsrc": null,
+        "name": "Light Saint Shield",
+        "chineseName": "光明圣徒之盾",
+        "description": "The whitesmith of hymn church, Andrew, Known as \"Light Saint\", Designed this costume for brave warriors. With excellent defensive force, it had no name at the beginning but all warriors love it very much, so they named it by Andrew - \"Light Saint\". This is the assistant weapon of \"Light Saint\" suit. Blessed by Light Saint, the cost of refining is reduced by half.",
+        "effect": "Max HP ＋50,Def ＋5"
+    },
+    {
+        "imgsrc": null,
+        "name": "Light Saint Shield [1]",
+        "chineseName": "光明圣徒之盾[1]",
+        "description": "The whitesmith of hymn church, Andrew, Known as \"Light Saint\", Designed this costume for brave warriors. With excellent defensive force, it had no name at the beginning but all warriors love it very much, so they named it by Andrew - \"Light Saint\". This is the assistant weapon of \"Light Saint\" suit. Blessed by Light Saint, the cost of refining is reduced by half.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Light Saint Shoes",
+        "chineseName": "光明圣徒战靴",
+        "description": "The whitesmith of hymn church, Andrew, Known as \"Light Saint\", Designed this costume for brave warriors. With excellent defensive force, it had no name at the beginning but all warriors love it very much, so they named it by Andrew - \"Light Saint\". This is the boots of \"Light Saint\" suit. Blessed by Light Saint, the cost of refining is reduced by half.",
+        "effect": "Move Spd ＋5%,Healing Received ＋20%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Light Saint Shoes [1]",
+        "chineseName": "光明圣徒战靴[1]",
+        "description": "The whitesmith of hymn church, Andrew, Known as \"Light Saint\", Designed this costume for brave warriors. With excellent defensive force, it had no name at the beginning but all warriors love it very much, so they named it by Andrew - \"Light Saint\". This is the boots of \"Light Saint\" suit. Blessed by Light Saint, the cost of refining is reduced by half.",
+        "effect": "Move Spd ＋5%,Healing Received ＋20%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43502.png",
+        "name": "Light Shoes",
+        "chineseName": "凉鞋",
+        "description": "Light and comfortable shoes, not suitable for long-distance walk or strenuous exercise.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43502.png",
+        "name": "Light Shoes [1]",
+        "chineseName": "凉鞋[1]",
+        "description": "Light and comfortable shoes, not suitable for long-distance walk or strenuous exercise.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Lightning Blueprint",
+        "chineseName": "雷霆纹图纸",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_5039.png",
+        "name": "Lightning Chain",
+        "chineseName": "锁链雷锭",
+        "description": "The chains used by the gods to bind Fenrir, the evil wolf, Extremely heavy and firm. Valhalla's heroes tied it to their bodies for better exercise. After use, You can receive more EXP and loot after 60 minutes of combat acceleration in the wild. The effect pauses after players out of combat time every day.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Lightning Pupil Blueprint",
+        "chineseName": "雷霆神瞳图纸",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42532.png",
+        "name": "Lionheart Shield",
+        "chineseName": "狮心盾牌",
+        "description": "The unique shield of the legendary Lionheart Legion has a high defensive ability and can even resist the dragon's flame.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42532.png",
+        "name": "Lionheart Shield [1]",
+        "chineseName": "狮心盾牌[1]",
+        "description": "The unique shield of the legendary Lionheart Legion has a high defensive ability and can even resist the dragon's flame.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45204.png",
+        "name": "Little Tree Hat",
+        "chineseName": "小树椿帽",
+        "description": "Cute headdress made according to young Willow by an institute that is keen on protecting forest resources.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45204.png",
+        "name": "Little Tree Hat Blueprint",
+        "chineseName": "小树椿帽图纸",
+        "description": "Cute headdress made according to young Willow by an institute that is keen on protecting forest resources.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Little Witch Changing Body",
+        "chineseName": "小魔女换装身体",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_61001.png",
+        "name": "Loki Gloves [1]",
+        "chineseName": "洛基腕甲[1]",
+        "description": "Loki Gloves, with incredible power.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Loki Gloves [2]",
+        "chineseName": "洛基腕甲[2]",
+        "description": "Loki Gloves, with incredible power.",
+        "effect": ""
+    }
+]

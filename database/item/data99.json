@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Guardian Spear",
+        "chineseName": "守卫长矛",
+        "description": "The spears used by the guards.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Guild Carnival Chest",
+        "chineseName": "公会狂欢礼盒",
+        "description": "Open it to receive Guild's Gift x5, Gold Medal x1",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Guild Coin",
+        "chineseName": "公会福利币",
+        "description": "The money is used for Guild Cat Box lottery",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Guild Medal",
+        "chineseName": "公会勋章",
+        "description": "A gold medal that can be used on a guild stone plate.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Guild Name Change Card",
+        "chineseName": "公会更名卡",
+        "description": "A sacred card sent to Valhalla. If you want to rename your guild, You can write the name you like on it and send it to Valhalla. They will help you modify its name. ღ",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_111.png",
+        "name": "Guild random item pack",
+        "chineseName": "公会随机道具包",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Guild's Gift",
+        "chineseName": "来自公会的馈赠",
+        "description": "We are united! (Use it to gain guild contribution: 25 points)",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Guillotine Cross Badge",
+        "chineseName": "十字切割者徽章",
+        "description": "Guillotine Cross Badge.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40912.png",
+        "name": "Guillotine Katar [1]",
+        "chineseName": "斩首拳刃[1]",
+        "description": "It is said that a qualified assassin can use it to easily cut down the target's head.",
+        "effect": "Doubles Critical,When HP is lower than 25%, caster receives a Bloodthirsty effect: speed up following attacks, damage, damage causes additional HP loss; the effect lasts 10 seconds (CD lasts 120 seconds)"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40912.png",
+        "name": "Guillotine Katar [2]",
+        "chineseName": "斩首拳刃[2]",
+        "description": "It is said that a qualified assassin can use it to easily cut down the target's head.",
+        "effect": "Doubles Critical,When HP is lower than 25%, caster receives a Bloodthirsty effect: speed up following attacks, damage, damage causes additional HP loss; the effect lasts 10 seconds (CD lasts 120 seconds)"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41811.png",
+        "name": "Guillotine [1]",
+        "chineseName": "斩首之斧[1]",
+        "description": "The double-handed sword made by Gladiator for killing purpose. It is of great use in fighting against people.",
+        "effect": "auto attack has a 10% chance to stun the target,Attack Spd ＋10%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41811.png",
+        "name": "Guillotine [2]",
+        "chineseName": "斩首之斧[2]",
+        "description": "The double-handed sword made by Gladiator for killing purpose. It is of great use in fighting against people.",
+        "effect": "auto attack has a 10% chance to stun the target,Attack Spd ＋10%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Gungnir [2]",
+        "chineseName": "刚尼尔长矛[2]",
+        "description": "The spear which will perfectly hit the target, as long as the target is locked.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40005.png",
+        "name": "Gungnir [3]",
+        "chineseName": "刚尼尔长矛[3]",
+        "description": "The spear which will perfectly hit the target, as long as the target is locked.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40306.png",
+        "name": "Haedonggum [1]",
+        "chineseName": "海东剑[1]",
+        "description": "The sword made in a remote mysterious east island country is not only used for killing, but also used for personality cultivation.",
+        "effect": "Str ＋2,Def ＋20"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40306.png",
+        "name": "Haedonggum [2]",
+        "chineseName": "海东剑[2]",
+        "description": "The sword made in a remote mysterious east island country is not only used for killing, but also used for personality cultivation.",
+        "effect": "Str ＋2,Def ＋20"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45073.png",
+        "name": "Hair Band",
+        "chineseName": "发箍",
+        "description": "Hair ring used to fix long hair.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45073.png",
+        "name": "Hair Band Blueprint",
+        "chineseName": "发箍图纸",
+        "description": "Hair ring used to fix long hair.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45073.png",
+        "name": "Hair Band [1]",
+        "chineseName": "发箍[1]",
+        "description": "Hair ring used to fix long hair.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Hair Design Guide 1",
+        "chineseName": "发型设计指南·一",
+        "description": "The latest hair design guide published by Miss Celia. Use it to experience the elite adventurer hairstyle in the hair salon.",
+        "effect": ""
+    }
+]

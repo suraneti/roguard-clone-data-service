@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Firelord Kaho Card",
+        "chineseName": "炎之领主卡浩卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/toy_511.png",
+        "name": "Fireworks",
+        "chineseName": "花火",
+        "description": "\"Kids still look forward to seeing the flowing shining in the night sky when they're held in their mothers' arms\". (Use it to create a dazzling firework. )",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Firmament Horn Headwear male",
+        "chineseName": "苍穹之角男头饰",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Firmament Horn[1]",
+        "chineseName": "苍穹之角[1]",
+        "description": "The mystical Pixie resides on the leaf of Yggdrasil, this Firmament Horn is the symbol of their masculinity. Legend says that the light of the horn will grow with wearer's power. \"No matter where you are, Yggdrasil is at thy heart. \"——Pixie folk song",
+        "effect": "All Attributes ＋2,Crit.DMG ＋8%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_3035.png",
+        "name": "First Test Gift Chest",
+        "chineseName": "萌动首测礼物箱",
+        "description": "Designed for lovable RO fans! With several fine gifts! Have a good time!",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_3035.png",
+        "name": "First Test Gift Pack",
+        "chineseName": "萌动首测福利包",
+        "description": "Designed for lovable RO fans! With numerous fine gifts! Have a good time!",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_3602.png",
+        "name": "First-aid Kit",
+        "chineseName": "急救包",
+        "description": "Bandages, pain relievers, and secondary healing scrolls in the package can heal most injuries.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_48507.png",
+        "name": "Fish In Mouth",
+        "chineseName": "叼在嘴里的鱼",
+        "description": "Fish In Mouth Although it has a fishy smell, it will not deteriorate due to special treatment.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_48507.png",
+        "name": "Fish In Mouth Blueprint",
+        "chineseName": "叼在嘴里的鱼图纸",
+        "description": "Fish In Mouth Although it has a fishy smell, it will not deteriorate due to special treatment.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Fish's Soul",
+        "chineseName": "鱼的魂魄",
+        "description": "The soul of a fish sealed in a bottle. The transparent blue light is very beautiful.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40310.png",
+        "name": "Flamberge [1]",
+        "chineseName": "水纹之剑[1]",
+        "description": "A sword whose blade has a beautiful pattern of ripples on it. Despite its beautiful appearance, the sword is surprisingly destructive.",
+        "effect": "Attack Spd ＋5%,The wearer's Def and MDef will decrease by 2/3"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40310.png",
+        "name": "Flamberge [2]",
+        "chineseName": "水纹之剑[2]",
+        "description": "A sword whose blade has a beautiful pattern of ripples on it. Despite its beautiful appearance, the sword is surprisingly destructive.",
+        "effect": "Attack Spd ＋5%,The wearer's Def and MDef will decrease by 2/3"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_52512.png",
+        "name": "Flame",
+        "chineseName": "炽焰",
+        "description": "This glowing flame can be used as a material for making accessories.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_5112.png",
+        "name": "Flame Heart",
+        "chineseName": "火灵原石",
+        "description": "The ore with fire attribute. After use, Your attack turns into fire attribute and the effect lasts 15 minutes.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Flame Light",
+        "chineseName": "盟约·烈光",
+        "description": "This sword was originally the King Schmidt's carrying sabre. When \"The White Knight\" was on expedition, Heinrich's sword has broken and Schmidt gave Heinrich his sword, hoping that he would continue to defend the Schmidt House with the sword, just like the sword once guarded Schmidt. Until Heinrich's death, he still insisted on keeping the oath to the king when he took over the [Flame Light]. (Better used as the weapon skin)",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Flame Lips",
+        "chineseName": "烈焰红唇",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Flame Lips Blueprint",
+        "chineseName": "烈焰红唇图纸",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_44027.png",
+        "name": "Flame Ring",
+        "chineseName": "炽焰耳坠",
+        "description": "The blaze, full of vitality, is wrapped in magic crystals.",
+        "effect": "INT ＋5,Fire Dmg ＋10%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_44027.png",
+        "name": "Flame Ring [1]",
+        "chineseName": "炽焰耳坠[1]",
+        "description": "The blaze, full of vitality, is wrapped in magic crystals.",
+        "effect": "INT ＋5,Fire Dmg ＋10%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Flame Wing",
+        "chineseName": "烈焰翅膀",
+        "description": "The wings of the mythical beast in Chinese legends.",
+        "effect": ""
+    }
+]

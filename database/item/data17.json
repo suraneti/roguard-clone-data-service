@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Assassin Handcuffs [2]",
+        "chineseName": "刺客腕甲[2]",
+        "description": "Assassin Handcuffs, with incredible power.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Assassin Horn",
+        "chineseName": "屌刺客角饰",
+        "description": "Assassin Horn",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40005.png",
+        "name": "Assassin's Fishing Rod",
+        "chineseName": "刺客专用鱼竿",
+        "description": "Fishing.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Astral·Destiny",
+        "chineseName": "星界·天命者",
+        "description": "It is made from the precious minerals extracted from the stars. The star ore makes the weapon extremely sharp. It can cause destructive damage to the enemy simply by waving it.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Astral·Lightning Bolt",
+        "chineseName": "星界·雷鸣之殇",
+        "description": "Made of the precious minerals extracted from stars, the shape of the Knives is quite unique. When the short sword is used, it brings out starry lights, Making the enemy dizzy.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Astral·Mage",
+        "chineseName": "星界·幻魔者",
+        "description": "It is made of the precious minerals extracted from stars. The strong magic adaptability makes its power more stable. It is the mage's best choice.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Astral·Reaper",
+        "chineseName": "星界·夺魂者",
+        "description": "The dangerous weapon made of the precious minerals extracted from the stars has a shining appearance, which will make people who stare at it lose their souls.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Astral·Star Elegy",
+        "chineseName": "星界·星辰挽歌",
+        "description": "It is made of the precious minerals extracted from the stars. The sharpest ore was fired and shaped day and night. It is extremely sharp. The three blood slots on it are particularly deadly to the creatures attacked by it.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Astral·Star Eye",
+        "chineseName": "星界·黯月之眼",
+        "description": "Made from the precious ores from the stars, the bow gives out a starry shine. The arrow shot by this bow is so powerful that it is much sought after by all archers.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Astral·Star Rage",
+        "chineseName": "星界·星辰暴怒",
+        "description": "It is made from the precious minerals extracted from the stars. Repeated firing makes it very heavy. It can cause great harm when used.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Astral·Star Wall",
+        "chineseName": "星界·恒星光壁",
+        "description": "It was made of precious minerals refined through stars. The light was 1/10 of a common shield. It looks dark in the daytime, but resonates with the stars at night and creates a grand light wall to effectively defend enemy's attack.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Astral·Streamer Adjudication",
+        "chineseName": "星界·流光裁决",
+        "description": "The sword made of the precious minerals extracted from stars gives out a starry shine. The halo on it makes people scared.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Asuka Card",
+        "chineseName": "明日香卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Asuka Hat",
+        "chineseName": "明日香帽子",
+        "description": "I'll never embarrass myself by putting this on! Meow~",
+        "effect": "Atk +40,Damage to middle-size monster +5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Asuka Headwear",
+        "chineseName": "明日香头饰",
+        "description": "\"\"What are you, stupid?!\" -Asuka Shikinami Langley",
+        "effect": "M.Atk +20,M.Atk +4%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Asuka Helmet",
+        "chineseName": "明日香头盔",
+        "description": "Asuka Shikinami Langley's personal combat helmet.",
+        "effect": "Max HP +200,Magic Reduc. +5%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Atroce Card",
+        "chineseName": "阿特罗斯卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40317.png",
+        "name": "Attached Sword [1]",
+        "chineseName": "秘剑眷恋[1]",
+        "description": "The name of the maker is unknown. Forged by the ancient method, it is more like a piece of art than a weapon.",
+        "effect": "Critical ＋10,Attack Spd ＋5%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40317.png",
+        "name": "Attached Sword [2]",
+        "chineseName": "秘剑眷恋[2]",
+        "description": "The name of the maker is unknown. Forged by the ancient method, it is more like a piece of art than a weapon.",
+        "effect": "Critical ＋10,Attack Spd ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Attack Card",
+        "chineseName": "攻击晶片",
+        "description": "As Thor, God of War, Used Mjolnir, it generated sparks that dropped into man's world and turned into a card full of God of War's power. Atk can be boosted when blending the power of the card with the adventurer's will through Valkyrie.",
+        "effect": ""
+    }
+]

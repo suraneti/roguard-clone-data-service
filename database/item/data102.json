@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Hardcover Emil's Card Album",
+        "chineseName": "精装埃米尔的卡册",
+        "description": "The limited hardcover \"Midgard Card Collection\" completed by Emil family. It contains more rare cards. Player can receive the cards in it when it is all collected.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Harpy Card",
+        "chineseName": "鸟人哈比卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Harpy’s Feather",
+        "chineseName": "哈比的羽毛",
+        "description": "It is said that the beautiful feather dropped from Harpy will make the boys get a crush on you just by putting one in the backpack, so the feather of the bird is favored by a lot of girls. What would happen if the boy had it?",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45005.png",
+        "name": "Hat",
+        "chineseName": "渔夫帽",
+        "description": "Sun-shading loose hat. Fishing Lover's Regular Items",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45101.png",
+        "name": "Hat of the Sun God",
+        "chineseName": "太阳神头盔",
+        "description": "Special hat with big wings that represents the sun/ Don't ask how to walk by wearing it.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45101.png",
+        "name": "Hat of the Sun God [1]",
+        "chineseName": "太阳神头盔[1]",
+        "description": "Special hat with big wings that represents the sun/ Don't ask how to walk by wearing it.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45101.png",
+        "name": "Hat of the Sun God [1] Blueprint",
+        "chineseName": "太阳神头盔[1]图纸",
+        "description": "Special hat with big wings that represents the sun/ Don't ask how to walk by wearing it.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45005.png",
+        "name": "Hat [1]",
+        "chineseName": "渔夫帽[1]",
+        "description": "A fisherman's hat.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45005.png",
+        "name": "Hat [1] Blueprint",
+        "chineseName": "渔夫帽[1]图纸",
+        "description": "Sun-shading loose hat. Fishing Lover's Regular Items",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Head of Drops",
+        "chineseName": "土波利大头",
+        "description": "A special style.",
+        "effect": "Atk ＋5000,SP Regen ＋100%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Head of Marin",
+        "chineseName": "冰波利大头",
+        "description": "A special style.",
+        "effect": "Atk ＋5000,SP Regen ＋100%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Head of Poporing",
+        "chineseName": "波波利大头",
+        "description": "A special style.",
+        "effect": "Atk ＋5000,SP Regen ＋100%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45001.png",
+        "name": "Head of Poring",
+        "chineseName": "波利大头",
+        "description": "A special style.",
+        "effect": "Atk ＋5000,SP Regen ＋100%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Headwear BGSHOP",
+        "chineseName": "BG SHOP嗶嗶兔氣球頭飾",
+        "description": "",
+        "effect": "Max HP ＋200,M.Atk ＋10"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_3033.png",
+        "name": "Headwear Chest",
+        "chineseName": "头饰礼物箱",
+        "description": "Designed for lovable RO fans! With everything you like or dislike! Thank you for your love and expectation for RO!",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Headwear Enchantment Pack",
+        "chineseName": "头饰附魔礼包",
+        "description": "Open to gain 4x Oracle Dust with a chance to gain Oracle Crystal",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Headwear Magic extractor",
+        "chineseName": "头饰魔力提取器",
+        "description": "Kafra's newest invention of magic extractor. Can be used to shift the magic in the Gashapon Headwears. Kafra strived to provide better service.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Headwear Matching Witch Clothes - Blueprint of Color 1",
+        "chineseName": "魔女时装配套头饰-配色1图纸",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Headwear Matching Witch Clothes - Blueprint of Color 2",
+        "chineseName": "魔女时装配套头饰-配色2图纸",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Headwear Matching Witch Clothes - Blueprint of Color 3",
+        "chineseName": "魔女时装配套头饰-配色3图纸",
+        "description": "",
+        "effect": ""
+    }
+]

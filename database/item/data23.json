@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Berdysz [1]",
+        "chineseName": "强袭战斧[1]",
+        "description": "Atk + 128",
+        "effect": "VIT ＋2,[Alloy Mail] ＋[Berdysz]: each auto attack causes Amistr's Atk increases by 3%; the effect lasts 5 seconds, and can stack 3 times at most."
+    },
+    {
+        "imgsrc": null,
+        "name": "Berdysz [2]",
+        "chineseName": "强袭战斧[2]",
+        "description": "Atk + 128",
+        "effect": "VIT ＋2,[Alloy Mail] ＋[Berdysz]: each auto attack causes Amistr's Atk increases by 3%; the effect lasts 5 seconds, and can stack 3 times at most."
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45128.png",
+        "name": "Beret",
+        "chineseName": "贝雷帽",
+        "description": "Bright grass-green hat. It looks better when you wear it with an angle. The legendary brave troop",
+        "effect": "Def ＋5,Damage reduction of Human race ＋10%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45128.png",
+        "name": "Beret Blueprint",
+        "chineseName": "贝雷帽图纸",
+        "description": "Bright grass-green hat. It looks better when you wear it with an angle. The legendary brave troop",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45128.png",
+        "name": "Beret [1]",
+        "chineseName": "贝雷帽[1]",
+        "description": "Bright grass-green hat. It looks better when you wear it with an angle. The legendary brave troop",
+        "effect": "Def ＋5,Damage reduction of Human race ＋10%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Berry Sunhat",
+        "chineseName": "野浆果遮阳帽",
+        "description": "The girl quietly walked into the jungle, seeing the ripe fruits hanging on the tree. She carefully picked up some fruits and add them to the sunhat made by her grandmother. (thank you very much for your purchase. This beautiful ornament is unavailable on the exchange during the activity, the transaction will be normal after the period. By Ina, July 2017.)",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Besom",
+        "chineseName": "扫把",
+        "description": "",
+        "effect": "Def ＋15,When Refining ＋10 and Luck reaches 90, Crit.Dmg ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Besom Blueprint",
+        "chineseName": "扫把图纸",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_52025.png",
+        "name": "Bible",
+        "chineseName": "圣言之书",
+        "description": "A very heavy book recording holy articles causes high damage to enemies. &nbsp;",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_52025.png",
+        "name": "Bible",
+        "chineseName": "圣言之书",
+        "description": "A very heavy book recording holy articles causes high damage to enemies.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_52025.png",
+        "name": "Bible",
+        "chineseName": "圣言之书",
+        "description": "A very heavy book recording holy articles causes high damage to enemies.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Big Bottle of Grass Juice",
+        "chineseName": "大瓶艾草汁",
+        "description": "The green juice squeezed out of mottlegrass by Geffen Mages, Packed in large bottles. Drinking it increases M.Atk by 15%. The effect lasts 15 minutes, Cannot stack up with other sake, and is not influenced by death. This item can only be used on PVP maps.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Big Cat Appreciation",
+        "chineseName": "B格猫的感恩大礼",
+        "description": "For all the believer and fans, Big Cat team give this appreciation gift to you. Open up will receive a full set of Fantasy Generator Ⅰ headwears! (Available after February 2019)",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Big Cat Celebration Giftbox",
+        "chineseName": "B格猫庆典礼盒",
+        "description": "To celebrate this special day, open up will receive one of the following: 2 Lightning Chain, 500 Eden Coin, 2 Mora, 100 Adventure Meatabll, 1 Valkyrie's Gift, 1 Gold Medal",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Big Cat Celebration Voucher",
+        "chineseName": "B格猫庆典福利券",
+        "description": "Thank you for supporting the game~ Use it to open up the [Big Cat Celebration Store], you can exchange all the presents you wanted.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Big Cat Commander Card",
+        "chineseName": "B格猫统帅者卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12363.png",
+        "name": "Big Cat Royal Coke",
+        "chineseName": "B格猫皇家可乐",
+        "description": "A special beverage that’s been all the rage in Big Cat Planet recently!  It is said to be the favorite of warriors who stay up all night fighting [Prince Devil]  (Restores 400 HP and 40 SP every 6s. STR ＋10, VIT ＋10, Max HP ＋1000, Melee Damage ＋20%. Effect lasts 30m.)",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12364.png",
+        "name": "Big Cat Royal Fried Chicken",
+        "chineseName": "B格猫皇家炸鸡",
+        "description": "A special snack that’s been all the rage in Big Cat Planet recently! It is said to be the favorite of warriors who stay up all night fighting [Prince Devil] (Restores 600 HP and 40 SP every 6s. DEX ＋10, INT ＋10, M.Dmg ＋20%, Ranged Damage ＋20%. Effect lasts 30m.)",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_3635.png",
+        "name": "Big Cat Royal Pack",
+        "chineseName": "B格猫皇家红包",
+        "description": "A new-year pack issued by the royal [Big Cat] Court. It's time to see if you're blessed with the royal spirit! (You may receive a large deal of Zeny after use!) (This effect is only applicable to European royalty)",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Big Cat Royal Pack 1.0",
+        "chineseName": "B格猫皇家红包1.0",
+        "description": "Happy New Year, This is a red pack from Big Cat company, You can open it to receive a certain number of Zeny.",
+        "effect": ""
+    }
+]

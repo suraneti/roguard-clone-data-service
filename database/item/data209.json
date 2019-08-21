@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Stardust Robe",
+        "chineseName": "星尘外套",
+        "description": "The robes that astrologists like to wear.",
+        "effect": "Dex ＋4,Max SP ＋240"
+    },
+    {
+        "imgsrc": null,
+        "name": "Stardust Robe [1]",
+        "chineseName": "星尘外套[1]",
+        "description": "The robes that astrologists like to wear.",
+        "effect": "Dex ＋4,Max SP ＋240"
+    },
+    {
+        "imgsrc": null,
+        "name": "Stardust Rose",
+        "chineseName": "星屑蔷薇",
+        "description": "The power of the Shinewhole, condensed into petals, its memories crystalized into buds. When the rose blooms, the dream comes to an end.",
+        "effect": "Max HP Attack +100,Atk +10"
+    },
+    {
+        "imgsrc": null,
+        "name": "Starlight",
+        "chineseName": "星烁",
+        "description": "All the shining stars upon the sky, which one you have seen it falling.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Starlight Ship",
+        "chineseName": "幻月樱·星光船",
+        "description": "\"Hold the moon in your hand, enjoy the scenery at might.\" \"Each flower will comes to an end, what now exists will last forever.\" Under the illustrious moon, the beautiful picture, the boat on roaring sea, the blessing stars all come in this season of sakura.",
+        "effect": "Neutral Dmg ＋8%,Max HP ＋1000"
+    },
+    {
+        "imgsrc": null,
+        "name": "Starlight Ship [1]",
+        "chineseName": "幻月樱·星光船[1]",
+        "description": "\"Hold the moon in your hand, enjoy the scenery at might.\" \"Each flower will comes to an end, what now exists will last forever.\" Under the illustrious moon, the beautiful picture, the boat on roaring sea, the blessing stars all come in this season of sakura.",
+        "effect": "Neutral Dmg ＋8%,Max HP ＋1000"
+    },
+    {
+        "imgsrc": null,
+        "name": "Starry Sky Meteor",
+        "chineseName": "星空陨石",
+        "description": "A meteor fallen from the starry sky lies hidden in the deep valley.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Starry Sky Wheat Head",
+        "chineseName": "星光麦穗",
+        "description": "Wheat growing in the starry sky is an unusual sight.  Stars dots the sky after an autumn harvest.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42524.png",
+        "name": "Static Shield",
+        "chineseName": "静止之盾",
+        "description": "A heavy half-body shield. It cannot be widely used because of the heavy weight.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42524.png",
+        "name": "Static Shield [1]",
+        "chineseName": "静止之盾[1]",
+        "description": "A heavy half-body shield. It cannot be widely used because of the heavy weight.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42037.png",
+        "name": "Staunch Armor",
+        "chineseName": "坚定战甲",
+        "description": "Simplicity and angled design make armor users believe that their will grows stronger.",
+        "effect": "Str ＋2,Avoid fear effect"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42037.png",
+        "name": "Staunch Armor [1]",
+        "chineseName": "坚定战甲[1]",
+        "description": "Simplicity and angled design make armor users believe that their will grows stronger.",
+        "effect": "Str ＋2,Avoid fear effect"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43027.png",
+        "name": "Staunch Cape",
+        "chineseName": "坚定斗篷",
+        "description": "Simplicity and angled design make cloak users believe that their will grows stronger.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_43027.png",
+        "name": "Staunch Cape [1]",
+        "chineseName": "坚定斗篷[1]",
+        "description": "Simplicity and angled design make cloak users believe that their will grows stronger.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42038.png",
+        "name": "Staunch Clothes",
+        "chineseName": "坚定战袍",
+        "description": "Simplicity and angled design make cape users believe that their will grows stronger.",
+        "effect": "Dex ＋1,[Sura Rampage] ＋ [Staunch Clothes X] ＋ [Staunch Ring IV]: ＋5% [Hell Gate] damage"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42038.png",
+        "name": "Staunch Clothes [1]",
+        "chineseName": "坚定战袍[1]",
+        "description": "Simplicity and angled design make cape users believe that their will grows stronger.",
+        "effect": "Dex ＋1,[Sura Rampage] ＋ [Staunch Clothes X] ＋ [Staunch Ring IV]: ＋5% [Hell Gate] damage"
+    },
+    {
+        "imgsrc": null,
+        "name": "Staunch Mana Manteau",
+        "chineseName": "坚定魔法斗篷",
+        "description": "Even the amateur can feel the powerful magic wave on the cloak! It is said that user will have a firm mind.",
+        "effect": "Neutral Dmg Taken -15%,[Staunch Mana Manteau] ＋ [High Fashion Sandals IV]: Magic Reduc. ＋5%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Staunch Mana Manteau [1]",
+        "chineseName": "坚定魔法斗篷[1]",
+        "description": "The cloak is said to form people's will, Flashing enchanting light.",
+        "effect": "Neutral Dmg Taken -15%,[Staunch Mana Manteau] ＋ [High Fashion Sandals IV]: Magic Reduc. ＋5%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_44003.png",
+        "name": "Staunch Ring",
+        "chineseName": "坚定指环",
+        "description": "Simplicity and angled design make ring users believe that their will grows stronger.",
+        "effect": "Max HP ＋400,[Sura Rampage] ＋ [Staunch Clothes X] ＋ [Staunch Ring IV]: ＋5% [Hell Gate] damage"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_44003.png",
+        "name": "Staunch Ring [1]",
+        "chineseName": "坚定指环[1]",
+        "description": "Simplicity and angled design make ring users believe that their will grows stronger.",
+        "effect": "Max HP ＋400,[Sura Rampage] ＋ [Staunch Clothes X] ＋ [Staunch Ring IV]: ＋5% [Hell Gate] damage"
+    }
+]

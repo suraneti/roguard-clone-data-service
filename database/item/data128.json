@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40919.png",
+        "name": "Loki's Nail [1]",
+        "chineseName": "洛奇的指甲[1]",
+        "description": "The Katars consisting of two blades. It will cause the wounds that can not be healed and slowly bring the enemy to death.",
+        "effect": "Doubles Critical,[Loki's Nail IX] ＋ [Windrunner Cape]: ＋5% [Cross Ripper Slasher] damage"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40919.png",
+        "name": "Loki's Nail [2]",
+        "chineseName": "洛奇的指甲[2]",
+        "description": "The Katars consisting of two blades. It will cause the wounds that can not be healed and slowly bring the enemy to death.",
+        "effect": "Doubles Critical,[Loki's Nail IX] ＋ [Windrunner Cape]: ＋5% [Cross Ripper Slasher] damage"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_48526.png",
+        "name": "Loki's Whispers",
+        "chineseName": "傲慢之像",
+        "description": "The illegitimate child of the Lord of Asgard once raised a mythical beast similar to Falcon. The arrogant mythical beast would hold up the green feathers beside its ears, whenever he saw the inferior human. The child was so disappointed by the pet and sighed its pervasive arrogance. He killed his pet with his own hands and kept the feathers beside its ears at the end, in order to prevent himself from being arrogant.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_48526.png",
+        "name": "Loki's Whispers Blueprint",
+        "chineseName": "傲慢之像图纸",
+        "description": "The illegitimate child of the Lord of Asgard once raised a mythical beast similar to Falcon. The arrogant mythical beast would hold up the green feathers beside its ears, whenever he saw the inferior human. The child was so disappointed by the pet and sighed its pervasive arrogance. He killed his pet with his own hands and kept the feathers beside its ears at the end, in order to prevent himself from being arrogant.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Loli Ruri's Cat Blueprint",
+        "chineseName": "银月魔女的猫图纸",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41201.png",
+        "name": "Long Bow",
+        "chineseName": "长弓",
+        "description": "The damage is not very huge, but the bow is very convenient to use.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41201.png",
+        "name": "Long Bow [2]",
+        "chineseName": "长弓[2]",
+        "description": "The damage is not very huge, but the bow is very convenient to use.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40021.png",
+        "name": "Long Horn [1]",
+        "chineseName": "长角之矛[1]",
+        "description": "A spear made by the horns of a sacred unicorn. It has the effect of detoxification. It will bleed non-stop when stabbed by the sharp tip. &nbsp;",
+        "effect": "Holy,Can use skill - [Detoxify]"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40021.png",
+        "name": "Long Horn [2]",
+        "chineseName": "长角之矛[2]",
+        "description": "A spear made by the horns of a sacred unicorn. It has the effect of detoxification. It will bleed non-stop when stabbed by the sharp tip. &nbsp;",
+        "effect": "Holy,Can use skill - [Detoxify]"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41504.png",
+        "name": "Long Mace [2]",
+        "chineseName": "秘银长锤[2]",
+        "description": "Compared with the general maces, its attack AoE is larger.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41504.png",
+        "name": "Long Mace [3]",
+        "chineseName": "秘银长锤[3]",
+        "description": "Compared with the general maces, its attack AoE is larger.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Long Vacation Gashapon",
+        "chineseName": "悠长假期扭蛋",
+        "description": "A Gashapon toy to express personal feelings, open it to randomly receive one headwear of Oct 2017 [Long Vacation - Waltz] series.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Longinus Spear [2]",
+        "chineseName": "朗基鲁斯长矛[2]",
+        "description": "A cursed spear filled with the blood of the saints. A spear used by a soldier named Longinus to kill saints. &nbsp;",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40005.png",
+        "name": "Longinus Spear [3]",
+        "chineseName": "朗基鲁斯长矛[3]",
+        "description": "A cursed spear filled with the blood of the saints. A spear used by a soldier named Longinus to kill saints. &nbsp;",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Loots Chest",
+        "chineseName": "战利品箱子",
+        "description": "A box of mysterious trophies, pets are surrounding it with the babies' curiosity, only the owner has the right to open it.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45103.png",
+        "name": "Lord Kaho's Horn",
+        "chineseName": "卡浩之角",
+        "description": "Exclusive accessory of monster Kaho.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45103.png",
+        "name": "Lord Kaho's Horn [1]",
+        "chineseName": "卡浩之角[1]",
+        "description": "Exclusive accessory of monster Kaho.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45103.png",
+        "name": "Lord Kaho's Horn [1] Blueprint",
+        "chineseName": "卡浩之角[1]图纸",
+        "description": "Exclusive accessory of monster Kaho.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Lord Knight Badge",
+        "chineseName": "骑士领主徽章",
+        "description": "Lord Knight Badge.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Lord's Clothes",
+        "chineseName": "秘衣美德",
+        "description": "The legendary clothes worn by cunning merchants, with flickering sequins.",
+        "effect": "Str ＋3,Dex ＋3"
+    }
+]

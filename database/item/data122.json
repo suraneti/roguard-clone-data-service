@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Kobold Leader Blade",
+        "chineseName": "犬妖首领刀",
+        "description": "Kobold Leader Blade",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Kobold Leader Card",
+        "chineseName": "犬妖首领卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Kobold Leader Shield",
+        "chineseName": "犬妖首领盾",
+        "description": "Kobold Leader Shield",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Kraken Card",
+        "chineseName": "魔鬼大乌贼卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Krishna Gloves [1]",
+        "chineseName": "奎师那的腕甲[1]",
+        "description": "Krishna Gloves, with incredible power.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Krishna Gloves [2]",
+        "chineseName": "奎师那的腕甲[2]",
+        "description": "Krishna Gloves, with incredible power.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40609.png",
+        "name": "Kronos [1]",
+        "chineseName": "克罗诺斯之杖[1]",
+        "description": "The top is decorated with the golden dragon which dominates the time and space and with the crystal ball containing strong magic. It was beautiful, but the problem is it's too heavy.",
+        "effect": "Int ＋5,When using magic skills, there is 3% chance to enter a \"Vision\" state: M.Atk ＋25%, SP Cost ＋50%; the effect lasts 10 seconds"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_40609.png",
+        "name": "Kronos [2]",
+        "chineseName": "克罗诺斯之杖[2]",
+        "description": "The top is decorated with the golden dragon which dominates the time and space and with the crystal ball containing strong magic. It was beautiful, but the problem is it's too heavy.",
+        "effect": "Int ＋5,When using magic skills, there is 3% chance to enter a \"Vision\" state: M.Atk ＋25%, SP Cost ＋50%; the effect lasts 10 seconds"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Kukre Card",
+        "chineseName": "库克雷卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "L.C.L Potion",
+        "chineseName": "类L.C.L液体药水",
+        "description": "Thick yellowish liquid that tastes like blood. Use it to earn double Base and Job Exp from killing wild monsters for 1 hour! (Buff's remaining time elapses when you're dead or out of combat but not when you're offline)",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_57.png",
+        "name": "Lab Points Chest",
+        "chineseName": "研究所积分礼物箱",
+        "description": "Lab Points Pit",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_3033.png",
+        "name": "Labyrinth Forest Materials",
+        "chineseName": "迷藏森林材料包",
+        "description": "Labyrinth Forest Material Pack, in which all kinds of Labyrinth Forest materials can be found.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Lace Ribbon Coco",
+        "chineseName": "舒芙蕾缎带·可可",
+        "description": "Mr. Candy Cat's new work: Romantic and lovely Lacework Ribbon! It also smells like a chocolate dessert. Wearing it will make you the cutest kitty in the school. This one is mysterious black.",
+        "effect": "Magic Reduc. +3%,Demi-Human Dmg Reduc. +3%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Lace Ribbon SugarFrost",
+        "chineseName": "舒芙蕾缎带·纯雪",
+        "description": "Mr. Candy Cat's new work: Romantic and lovely Lacework Ribbon! It also smells like a chocolate desert. Wearing it will make you the cutiest kitty in the school. This one is pure white!",
+        "effect": "Magic Reduc. +3%,Demi-Human Dmg Reduc. +3%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Lance of Dragon Tamer [1]",
+        "chineseName": "驯龙者长枪[1]",
+        "description": "Armed with the Glaive of the legendary Petite knight, they were crowned \"Dragon tamer\". It is suitable for swift and violent assault and a rare good weapon with firm tactility. Young man, take it to create new legends! - by some legendary Blacksmith.",
+        "effect": "Max SP ＋200,M.Atk + 420"
+    },
+    {
+        "imgsrc": null,
+        "name": "Lance of Dragon Tamer [2]",
+        "chineseName": "驯龙者长枪[2]",
+        "description": "Armed with the Glaive of the legendary Petite knight, they were crowned \"Dragon tamer\". It is suitable for swift and violent assault and a rare good weapon with firm tactility. Young man, take it to create new legends! - by some legendary Blacksmith.",
+        "effect": "Max SP ＋200,M.Atk + 420"
+    },
+    {
+        "imgsrc": null,
+        "name": "Lance [1]",
+        "chineseName": "锥骑枪[1]",
+        "description": "Cavalry's favorite long-handled rifle can be used for long distance attack and cause great harm.",
+        "effect": "Str ＋2,M.Atk + 180"
+    },
+    {
+        "imgsrc": null,
+        "name": "Lance [2]",
+        "chineseName": "锥骑枪[2]",
+        "description": "Cavalry's favorite long-handled rifle can be used for long distance attack and cause great harm.",
+        "effect": "Str ＋2,M.Atk + 180"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12338.png",
+        "name": "Large Job Potion",
+        "chineseName": "大瓶职业药水",
+        "description": "The potion helps increase a large amount of Job EXP.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12341.png",
+        "name": "Large Level Potion",
+        "chineseName": "大瓶等级药水",
+        "description": "The potion helps increase a large amount of Base EXP.",
+        "effect": ""
+    }
+]

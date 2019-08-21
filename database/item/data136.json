@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45067.png",
+        "name": "Magic Eyes",
+        "chineseName": "魔导师的帽子",
+        "description": "Hat that symbolizes eyes of the dark Mage. There's a legend of blinking.",
+        "effect": "Def ＋5,SP cost ＋20%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45067.png",
+        "name": "Magic Eyes Blueprint",
+        "chineseName": "魔导师的帽子图纸",
+        "description": "Hat that symbolizes eyes of the dark Mage. There's a legend of blinking.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45067.png",
+        "name": "Magic Eyes [1]",
+        "chineseName": "魔导师的帽子[1]",
+        "description": "Hat that symbolizes eyes of the dark Mage. There's a legend of blinking.",
+        "effect": "Def ＋5,SP cost ＋20%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Magic Firewood",
+        "chineseName": "魔灵火柴",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Magic Firewood Blueprint",
+        "chineseName": "魔灵火柴图纸",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Magic Gear Fuel",
+        "chineseName": "燃料",
+        "description": "Combustion improver for making various items. The upper storage limit is 2000.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Magic Moon Hat·Christmas Red",
+        "chineseName": "月之魔法帽·圣诞红",
+        "description": "A magic hat woven from advanced velvet and gold threads, with the power of the Luna. It's for the best adventurer!",
+        "effect": "All Attributes ＋1,Max HP ＋350"
+    },
+    {
+        "imgsrc": null,
+        "name": "Magic Moon Hat·Crystal Purple",
+        "chineseName": "月之魔法帽·水晶紫",
+        "description": "A magic hat woven from advanced velvet and gold threads, with the power of the Luna. It's for the best adventurer!",
+        "effect": "All Attributes ＋1,Max HP ＋350"
+    },
+    {
+        "imgsrc": null,
+        "name": "Magic Moon Hat·Demon Purple",
+        "chineseName": "月之魔法帽·恶魔紫",
+        "description": "A magic hat woven from advanced velvet and gold threads, with the power of the Luna. It's for the best adventurer!",
+        "effect": "All Attributes ＋1,Max HP ＋350"
+    },
+    {
+        "imgsrc": null,
+        "name": "Magic Moon Hat·Sharp Black",
+        "chineseName": "月之魔法帽·晶耀黑",
+        "description": "A magic hat woven from advanced velvet and gold threads, with the power of the Luna. It's for the best adventurer!",
+        "effect": "All Attributes ＋1,Max HP ＋350"
+    },
+    {
+        "imgsrc": null,
+        "name": "Magic Moon Hat·Starfish Yellow",
+        "chineseName": "月之魔法帽·海星黄",
+        "description": "A magic hat woven from advanced velvet and gold threads, with the power of the Luna. It's for the best adventurer!",
+        "effect": "All Attributes ＋1,Max HP ＋350"
+    },
+    {
+        "imgsrc": null,
+        "name": "Magic Moon Hat·Sugar Brown",
+        "chineseName": "月之魔法帽·甜粉棕",
+        "description": "A magic hat woven from advanced velvet and gold threads, with the power of the Luna. It's for the best adventurer!",
+        "effect": "All Attributes ＋1,Max HP ＋350"
+    },
+    {
+        "imgsrc": null,
+        "name": "Magic Moon Hat·Turquoise Green",
+        "chineseName": "月之魔法帽·松石绿",
+        "description": "A magic hat woven from advanced velvet and gold threads, with the power of the Luna. It's for the best adventurer!",
+        "effect": "All Attributes ＋1,Max HP ＋350"
+    },
+    {
+        "imgsrc": null,
+        "name": "Magic Moon Hat·Water Blue",
+        "chineseName": "月之魔法帽·天水蓝",
+        "description": "A magic hat woven from advanced velvet and gold threads, with the power of the Luna. It's for the best adventurer!",
+        "effect": "All Attributes ＋1,Max HP ＋350"
+    },
+    {
+        "imgsrc": null,
+        "name": "Magic Potion",
+        "chineseName": "魔法药剂",
+        "description": "The latest dye created by Geffen magicians to dye clothes of advanced jobs.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Magic Snake Card",
+        "chineseName": "魔蛇卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Magic Snowbear Card",
+        "chineseName": "魔法雪熊卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Magic Tea Pot",
+        "chineseName": "魔法茶壶",
+        "description": "Although it's hard to feel the weight, the teapot was actually full of water. It's said that lucky guys can drink the black tea brewed by the magic tea pot.",
+        "effect": "Max SP ＋50,Refine Atk ＋5"
+    },
+    {
+        "imgsrc": null,
+        "name": "Magic Tea Pot Blueprint",
+        "chineseName": "魔法茶壶图纸",
+        "description": "Although it's hard to feel the weight, the teapot was actually full of water. It's said that lucky guys can drink the black tea brewed by the magic tea pot.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Magic Tea Pot [1]",
+        "chineseName": "魔法茶壶[1]",
+        "description": "",
+        "effect": "Max SP ＋50,Refine Atk ＋5"
+    }
+]

@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Headwear Matching Witch Clothes - Blueprint of Color 4",
+        "chineseName": "魔女时装配套头饰-配色4图纸",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Headwear Matching Witch Clothes - Blueprint of Color 5",
+        "chineseName": "魔女时装配套头饰-配色5图纸",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Headwear Matching Witch Clothes - Blueprint of Color 6",
+        "chineseName": "魔女时装配套头饰-配色6图纸",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Headwear Matching Witch Clothes - Blueprint of Color 7",
+        "chineseName": "魔女时装配套头饰-配色7图纸",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Headwear Matching Witch Clothes - Blueprint of Color 8",
+        "chineseName": "魔女时装配套头饰-配色8图纸",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Headwear Moon Milk TEATOP",
+        "chineseName": "TEATOP月亮熬奶頭飾",
+        "description": "",
+        "effect": "Max HP ＋100,Max SP ＋100"
+    },
+    {
+        "imgsrc": null,
+        "name": "Headwear- Headwear Color 1",
+        "chineseName": "头饰-头饰 配色1",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Headwear- Headwear Color 1[1]",
+        "chineseName": "头饰-头饰 配色1[1]",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Headwear- Headwear Color 2",
+        "chineseName": "头饰-头饰 配色2",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Headwear- Headwear Color 2[1]",
+        "chineseName": "头饰-头饰 配色2[1]",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Headwear- Headwear Color 3",
+        "chineseName": "头饰-头饰 配色3",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Headwear- Headwear Color 3[1]",
+        "chineseName": "头饰-头饰 配色3[1]",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Headwear- Headwear Color 4",
+        "chineseName": "头饰-头饰 配色4",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Headwear- Headwear Color 4[1]",
+        "chineseName": "头饰-头饰 配色4[1]",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41518.png",
+        "name": "Healing Staff [1]",
+        "chineseName": "恢复之杖[1]",
+        "description": "A staff made from the trunk of a blessed Yggdrasil for healing purposes. The words written in ancient language are: healthy is the origin of longevity.",
+        "effect": "SP Regen ＋20%,For Refining ＋1, the recovery effect of [Heal], [Sanctuary] ＋3%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41518.png",
+        "name": "Healing Staff [2]",
+        "chineseName": "恢复之杖[2]",
+        "description": "A staff made from the trunk of a blessed Yggdrasil for healing purposes. The words written in ancient language are: healthy is the origin of longevity.",
+        "effect": "SP Regen ＋20%,For Refining ＋1, the recovery effect of [Heal], [Sanctuary] ＋3%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Heart Breaker [1]",
+        "chineseName": "碎心斧[1]",
+        "description": "A Two-Handed Axe that can pierce any armors. An axe with a specially-made blade is sharp and heavy as if it can pierce any armors.",
+        "effect": "Attack Spd ＋10%,Refining increases by 1, Damage of auto attack increases by 3%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Heart Breaker [2]",
+        "chineseName": "碎心斧[2]",
+        "description": "A Two-Handed Axe that can pierce any armors. An axe with a specially-made blade is sharp and heavy as if it can pierce any armors.",
+        "effect": "Attack Spd ＋10%,Refining increases by 1, Damage of auto attack increases by 3%"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45077.png",
+        "name": "Heart Hairpin",
+        "chineseName": "爱心发夹",
+        "description": "The cute hair clip is made of heart logo, which makes the wearer look small and delicate.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45077.png",
+        "name": "Heart Hairpin Blueprint",
+        "chineseName": "爱心发夹图纸",
+        "description": "The cute hair clip is made of heart logo, which makes the wearer look small and delicate.",
+        "effect": ""
+    }
+]

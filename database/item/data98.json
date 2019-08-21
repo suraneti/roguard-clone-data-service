@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": null,
+        "name": "Green Lace",
+        "chineseName": "宠物围兜兜",
+        "description": "A green bib designed for cute pets or kids.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Green Lace Blueprint",
+        "chineseName": "宠物围兜图纸",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Green Lace Blueprint",
+        "chineseName": "宠物围兜兜图纸",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Green Lace [1]",
+        "chineseName": "宠物围兜[1]",
+        "description": "",
+        "effect": "Dex ＋3,AGI ＋3"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Green Petite Card",
+        "chineseName": "毕帝特地龙卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12025.png",
+        "name": "Green Potion",
+        "chineseName": "绿色药水",
+        "description": "Potion made from green herbs. It can be used to cure poison, silence and chaos.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Green Steel Pike [1]",
+        "chineseName": "青铁柱枪[1]",
+        "description": "Well-made double-handed spear. Small and short, but it has great power, which can be used with the gun barrel.",
+        "effect": "VIT ＋9,Green Steel Pike IV ＋ Greaves  VII ＋ Stone Buckler IV: Ignores 5% Def, ＋5% Atk"
+    },
+    {
+        "imgsrc": null,
+        "name": "Green Steel Pike [2]",
+        "chineseName": "青铁柱枪[2]",
+        "description": "Well-made double-handed spear. Small and short, but it has great power, which can be used with the gun barrel.",
+        "effect": "VIT ＋9,Green Steel Pike IV ＋ Greaves  VII ＋ Stone Buckler IV: Ignores 5% Def, ＋5% Atk"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45051.png",
+        "name": "Grief for Greed",
+        "chineseName": "破产之哀",
+        "description": "A bankrupt merchant lost everything that he hid all his sorrows in the bag. It's said whoever wears this headdress will have the bankrupt feelings. The sadness will surround you and make you feel depressed. But there's a mysterious hairband that makes you stand up again and boost your ability.",
+        "effect": "Def ＋5,Dex ＋1"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45051.png",
+        "name": "Grief for Greed Blueprint",
+        "chineseName": "破产之哀图纸",
+        "description": "A bankrupt merchant lost everything that he hid all his sorrows in the bag. It's said whoever wears this headdress will have the bankrupt feelings. The sadness will surround you and make you feel depressed. But there's a mysterious hairband that makes you stand up again and boost your ability.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45051.png",
+        "name": "Grief for Greed [1]",
+        "chineseName": "破产之哀[1]",
+        "description": "A bankrupt merchant lost everything that he hid all his sorrows in the bag. It's said whoever wears this headdress will have the bankrupt feelings. The sadness will surround you and make you feel depressed. But there's a mysterious hairband that makes you stand up again and boost your ability.",
+        "effect": "Def ＋5,Dex ＋1"
+    },
+    {
+        "imgsrc": null,
+        "name": "Grimace Mask",
+        "chineseName": "鬼脸面具",
+        "description": "",
+        "effect": "Max SP ＋100,Atk ＋15"
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Gryphon Card",
+        "chineseName": "狮鹫兽卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42502.png",
+        "name": "Guard",
+        "chineseName": "铁盾",
+        "description": "A defensive shield made of iron. Simple props that can withstand enemy attacks.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_4001.png",
+        "name": "Guard the Eternal Love",
+        "chineseName": "守护永恒的爱",
+        "description": "A wizard music record. With it, You can order songs in the music box spot newly designed by Kafra. [No matter how far away, We believe one day we will meet again. I will fly to you, Tell you how I feel. My love with you, Love... FOREVER]",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42502.png",
+        "name": "Guard [1]",
+        "chineseName": "铁盾[1]",
+        "description": "A defensive shield made of iron.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Guardian of the light",
+        "chineseName": "辉光之佑",
+        "description": "The light is shining, shining right here right now; like the dawn where all the stars went dark at this point. God loves you all, and best wish to you.",
+        "effect": "Max HP ＋1000,When equipped by Priest branches, Healing increase ＋4%. When equipped by other jobs, Bonus Healing Received ＋4%"
+    },
+    {
+        "imgsrc": null,
+        "name": "Guardian Scroll",
+        "chineseName": "守护卷轴",
+        "description": "A special item made by the Adventurer's Guild to protect novices. It can only be used by the mentors on the students, enabling them to obtain a huge stats bonus in a short period of time, which makes them free to adventure when the mentor is not there!",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42532.png",
+        "name": "Guardian Shield",
+        "chineseName": "守护者之盾",
+        "description": "A shield used by the City Guard of Al De Baran.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42532.png",
+        "name": "Guardian Shield [1]",
+        "chineseName": "守护者之盾[1]",
+        "description": "A shield used by the City Guard of Al De Baran.",
+        "effect": ""
+    }
+]

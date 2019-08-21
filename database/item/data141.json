@@ -1,0 +1,142 @@
+[
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12337.png",
+        "name": "Medium Job Potion",
+        "chineseName": "中瓶职业药水",
+        "description": "The potion helps increase a certain amount of Job EXP.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/fumo.png",
+        "name": "Medium JOB Potion",
+        "chineseName": "中型JOB药水",
+        "description": "An ordinary-looking potion. After drinking it, Players can stimulate the potentials inside. Although it tastes strange, it can increase adventurer's JOB EXP by 10000 points. Sometimes a \"L\" pattern can be found at the bottom of the bottle.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_12340.png",
+        "name": "Medium Level Potion",
+        "chineseName": "中瓶等级药水",
+        "description": "The potion helps increase a certain amount of Base EXP.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Melody Winder",
+        "chineseName": "协奏发条",
+        "description": "Twist once, you can hear a musical; twist twice, you can dance with the walz; twist third time, you can sing along with it.",
+        "effect": "All Attributes ＋1,M.Atk ＋40"
+    },
+    {
+        "imgsrc": null,
+        "name": "Melon Cat",
+        "chineseName": "西瓜猫",
+        "description": "The faint scent of mosquito-repellent incense and the tinkling of aeolian bells fills the air of a summer evening. Every kid could use a watermelon right about now~ (Designed by: 谁花彦)",
+        "effect": "Str ＋1,Luk ＋1"
+    },
+    {
+        "imgsrc": null,
+        "name": "Melon Cat Blueprint",
+        "chineseName": "西瓜猫图纸",
+        "description": "Mosquito-repellent incense drifted in the summer night, while wind chimes rang by the night wind. Watermelon is children's favorite at this time.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45194.png",
+        "name": "Melting Ice Cream",
+        "chineseName": "融化中的雪糕",
+        "description": "Every time I put it on, I recalled the summer when we eat ice cream and waited for Summer Test. After eating ice cream, You can see \"2016 Summer\" on the wooden stick.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_45194.png",
+        "name": "Melting Ice Cream [1]",
+        "chineseName": "融化中的雪糕[1]",
+        "description": "Every time I put it on, I recalled the summer when we eat ice cream and waited for Summer Test. After eating ice cream, You can see \"RO 2016 Summer\" on the wooden stick.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_52202.png",
+        "name": "Memento",
+        "chineseName": "亡者遗物",
+        "description": "Treasures that go with the dead to the netherworld, mostly of quite a high value. I wonder what you can make with them?",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42515.png",
+        "name": "Memory Book",
+        "chineseName": "谎言纪录本",
+        "description": "The magic book used by Mages, large and heavy enough to serve as a shield.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42515.png",
+        "name": "Memory Book [1]",
+        "chineseName": "谎言纪录本[1]",
+        "description": "The magic book used by Mages, large and heavy enough to serve as a shield.",
+        "effect": ""
+    },
+    {
+        "imgsrc": null,
+        "name": "Memory Gem",
+        "chineseName": "回忆宝石",
+        "description": "It seems that times stopped in the crystal. You can find other's memory inside it. But who's that guy?",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/19.png",
+        "name": "Menblatt Card",
+        "chineseName": "彩蝶精灵卡片",
+        "description": "",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42032.png",
+        "name": "Mercenary Armor",
+        "chineseName": "制式铠甲",
+        "description": "The iron armor for mercenaries, adapting to a variety of complex conditions.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42032.png",
+        "name": "Mercenary Armor [1]",
+        "chineseName": "制式铠甲[1]",
+        "description": "The iron armor for mercenaries, adapting to a variety of complex conditions.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41210.png",
+        "name": "Mercenary Bow",
+        "chineseName": "制式弓",
+        "description": "A long bow specially made for mercenaries. Adapt to a variety of complex environments.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41210.png",
+        "name": "Mercenary Bow [2]",
+        "chineseName": "制式弓[2]",
+        "description": "A long bow specially made for mercenaries. Adapt to a variety of complex environments.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42033.png",
+        "name": "Mercenary Coat",
+        "chineseName": "制式大衣",
+        "description": "The heavy coat for mercenaries, adapting to a variety of complex conditions.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_42033.png",
+        "name": "Mercenary Coat [1]",
+        "chineseName": "制式大衣[1]",
+        "description": "The heavy coat for mercenaries, adapting to a variety of complex conditions.",
+        "effect": ""
+    },
+    {
+        "imgsrc": "s01.cdn.roguard.net/content/img/icons/items/item_41537.png",
+        "name": "Mercenary Hammer",
+        "chineseName": "制式锤",
+        "description": "A fighting hammer specially made for mercenaries. Adapt to a variety of complex environments.",
+        "effect": ""
+    }
+]
