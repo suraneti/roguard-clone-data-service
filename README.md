@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.com/suraneti/roguard-clone-data-service.svg?branch=master)](https://travis-ci.com/suraneti/roguard-clone-data-service)
 
-# ROGuard Clone Data Service 
+# ROGuard Clone Data Service
 
 > just for inspiration!
 
@@ -24,6 +24,8 @@ cd roguard-clone-data-service
 npm install
 node app.js
 ```
+
+or use `npm run crawler` or if you have your yarn `yarn crawler`
 
 ## Built With
 
