@@ -74,3 +74,4 @@ This project is licensed under the FUCK License - see the [LICENSE](LICENSE.fuck
 ## Contributors
 
 - **way21x** - [way21x](https://github.com/way21x)
+- **Daison Cariño** - [daison12006013](https://github.com/daison12006013)
