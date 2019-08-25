@@ -203,9 +203,11 @@ serializeMonsterFullData = async (url) => {
 }
 
 module.exports = {
-
-  async clone(pages) {
+  async cloneAsync(pages) {
     await cloneMonsterData(pages)
-  }
+  },
 
+  cloneParallel(pages) {
+    cloneMonsterData(pages)
+  }
 }

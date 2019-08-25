@@ -134,7 +134,11 @@ serializeCardFullData = async (url) => {
 }
 
 module.exports = {
-  clone(pages) {
+  async cloneAsync(pages) {
+    await cloneCardData(pages)
+  },
+
+  cloneParallel(pages) {
     cloneCardData(pages)
   }
 }

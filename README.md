@@ -32,6 +32,15 @@ or use `npm run crawler` or if you have your yarn `yarn crawler`
 * [Node.js](https://nodejs.org/en/) - JavaScript runtime (7 or later)
 * [NPM](https://www.npmjs.com/) - Package Manager
 
+## ENV Configuration
+
+```env
+# If you want to run async set to 'false'
+# Make sure your computer have more memory to run as pararelle (pararelle is faster than async)
+
+RUN_ASYNC=true
+```
+
 ## JavaScript API
 
 ```js
@@ -73,5 +82,5 @@ This project is licensed under the FUCK License - see the [LICENSE](LICENSE.fuck
 
 ## Contributors
 
-- **way21x** - [way21x](https://github.com/way21x)
-- **Daison Cariño** - [daison12006013](https://github.com/daison12006013)
+* **way21x** - [way21x](https://github.com/way21x)
+* **Daison Cariño** - [daison12006013](https://github.com/daison12006013)

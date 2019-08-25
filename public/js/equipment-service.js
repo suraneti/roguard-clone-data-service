@@ -73,9 +73,11 @@ serializeEquipmentData = async (pages) => {
 }
 
 module.exports = {
-
-  async clone(pages) {
+  async cloneAsync(pages) {
     await cloneEquipmentData(pages)
-  }
+  },
 
+  cloneParallel(pages) {
+    cloneEquipmentData(pages)
+  }
 }
