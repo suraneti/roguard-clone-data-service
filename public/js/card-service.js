@@ -43,20 +43,20 @@ serializeCardData = async (pages) => {
     const splitSlotCardDiv = splitdata[3].split('</div>')
 
     let cardEffect = ''
-    let permaBuff = splitEffectCardDiv[3].match(/<div>(.*)/)[1]
 
+    const permaBuff = splitEffectCardDiv[3].match(/<div>(.*)/)[1]
     const cardSlot = (splitSlotCardDiv[1].match(/<div>(.*)/)[1] === '?') ? 'unknown' : splitSlotCardDiv[1].match(/<div>(.*)/)[1]
     const cardType = (splitSlotCardDiv[3].match(/<div>(.*)/)[1] === '?') ? 'unknown' : splitSlotCardDiv[3].match(/<div>(.*)/)[1]
 
     // if effect card has multiple lines
     if (splitEffectCardDiv[1].match(/<br ?\/?>/)) {
-      const effectCard = splitEffectCardDiv[1].split('<br>')
+      const effectCardDiv = splitEffectCardDiv[1].split('<br>')
 
-      effectCard.forEach((element, index) => {
+      effectCardDiv.forEach((element, index) => {
         if (index === 0) {
           cardEffect = element.match(/<div>(.*)/)[1]
         } else {
-          cardEffect = cardEffect + ', ' + element.match(/\r\n|\r|\n(.*)/)[1]
+          cardEffect = `${cardEffect}, ${element.match(/\r\n|\r|\n(.*)/)[1]}`
         }
       })
       // if effect card has single lines
@@ -99,7 +99,7 @@ serializeCardFullData = async (url) => {
   const cardAuctionable = commonMatch[5].match(/<td class="text-right">(.*)<\/td>/)[1]
   const cardStorageable = (commonMatch[6] && commonMatch[6].match(/<td class="text-right">(.*)<\/td>/) ? commonMatch[6].match(/<td class="text-right">(.*)<\/td>/)[1] : 'unknown')
 
-  let metadata = {
+  const metadata = {
     'common_data': {
       'level': cardLevel,
       'max_stack': cardMaxStack,
@@ -127,17 +127,15 @@ serializeCardFullData = async (url) => {
 
     metadata.drop_data.dropped_by = cardDroppedBy
     metadata.drop_data.monster_level = cardMonsterLevel
-    metadata.drop_data.drop_rate = cardDropRate
+    metadata.drop_data.drop_rate = cardDropRate === '?%' ? 'unknow' : cardDropRate
   }
 
   return metadata
 }
 
 module.exports = {
-
-  async clone(pages) {
-    await cloneCardData(pages)
+  clone(pages) {
+    cloneCardData(pages)
   }
-
 }
 
