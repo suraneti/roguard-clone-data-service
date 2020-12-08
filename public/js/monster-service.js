@@ -1,5 +1,6 @@
 const fs = require('fs-extra')
 const jsdom = require('jsdom')
+const imgService = require('./img-service')
 
 const { JSDOM } = jsdom
 const dir = './database/monster'
@@ -41,6 +42,9 @@ serializeMonsterData = async (pages) => {
 
   for (const element of match) {
     const monsterImage = (element.match(/src\s*=\s*\\*"(.+?)\\*"\s*/) !== null) ? element.match(/src\s*=\s*\\*"\/\/(.+?)\\*"\s*/)[1] : null
+    if (monsterImage !== null) {
+      cloneIMGData('monsters', monsterImage)
+    }
     const monsterName = element.match(/<a (.*)>(.+?)<\/a>/)[2]
     const monsterElement = element.match(/<div style="color: (.*);">(.+?) • (.*)<\/div>/)[2];
     const monsterRace = element.match(/<div style="color: (.*);">(.+?) • (.*)<\/div>/)[3];
@@ -207,5 +211,5 @@ module.exports = {
   async clone(pages) {
     await cloneMonsterData(pages)
   }
-
+  
 }
