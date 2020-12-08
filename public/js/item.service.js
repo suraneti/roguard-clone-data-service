@@ -1,5 +1,6 @@
 const fs = require('fs-extra')
 const jsdom = require('jsdom')
+const imgService = require('./img-service')
 
 const { JSDOM } = jsdom
 const dir = './database/item'
@@ -31,6 +32,9 @@ serializeItemData = async (pages) => {
 
   for (const element of match) {
     const itemImage = (element.match(/src\s*=\s*\\*"\/\/(.+?)\\*"\s*/) !== null) ? element.match(/src\s*=\s*\\*"\/\/(.+?)\\*"\s*/)[1] : null
+    if (itemImage !== null) {
+      cloneIMGData('items', itemImage)
+    }
     const itemName = element.match(/<a (.*)>(.+?)<\/a>/)[2]
     const itemChineseName = element.match(/<div style="color: (.*);">(.+?)<\/div>/)[2];
 
@@ -81,5 +85,5 @@ module.exports = {
   async clone(pages) {
     await cloneItemData(pages)
   }
-
+  
 }

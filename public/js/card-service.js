@@ -1,5 +1,6 @@
 const fs = require('fs-extra')
 const jsdom = require('jsdom')
+const imgService = require('./img-service')
 
 const { JSDOM } = jsdom
 const dir = './database/card'
@@ -32,9 +33,12 @@ serializeCardData = async (pages) => {
 
   for (const element of match) {
     const cardImage = (element.match(/src\s*=\s*\\*"\/\/(.+?)\\*"\s*/) !== null) ? element.match(/src\s*=\s*\\*"\/\/(.+?)\\*"\s*/)[1] : null
+    if (cardImage !== null) {
+      cloneIMGData('cards', cardImage)
+    }
     const cardName = element.match(/<a (.*)>(.+?)<\/a>/)[2]
     const cardUrl = element.match(/<a href="(.*)">/)[1]
-
+  
     // split by td tag element into array
     const splitdata = element.split('</td>')
     // array effect card 
@@ -134,8 +138,10 @@ serializeCardFullData = async (url) => {
 }
 
 module.exports = {
+
   clone(pages) {
     cloneCardData(pages)
   }
+  
 }
 
