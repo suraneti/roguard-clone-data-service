@@ -11,6 +11,6 @@
   "license": "FUCK",
   "dependencies": {
     "fs-extra": "^8.1.0",
-    "jsdom": "^15.1.1"
+    "jsdom": "^16.5.0"
   }
 }
